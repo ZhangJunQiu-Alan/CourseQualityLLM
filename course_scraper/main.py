@@ -14,11 +14,13 @@ from utils.storage import init_db, get_stats
 from scrapers.coursera import CourseraScraper
 from scrapers.edx import EdxScraper
 from scrapers.mooc_china import MoocChinaScraper
+from scrapers.bilibili import BilibiliScraper
 
 SCRAPERS = {
     "coursera": CourseraScraper,
     "edx":      EdxScraper,
     "mooc_cn":  MoocChinaScraper,
+    "bilibili": BilibiliScraper,
 }
 
 

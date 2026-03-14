@@ -25,8 +25,10 @@ DATA_DIR = os.path.join(BASE_DIR, "data")
 RAW_DIR  = os.path.join(DATA_DIR, "raw")
 DB_PATH  = os.path.join(DATA_DIR, "db", "courses.db")
 
-# ── Coursera 认证 Cookie（填入 .env 的 COURSERA_COOKIE）─────────────────────
+# ── 平台认证 Cookie ────────────────────────────────────────────────────────────
 COURSERA_COOKIE: str = os.getenv("COURSERA_COOKIE", "")
+# B 站：登录后从浏览器复制完整 Cookie（含 SESSDATA、bili_jct 等）
+BILIBILI_COOKIE: str = os.getenv("BILIBILI_COOKIE", "")
 
 # ── 爬取目标配置 ───────────────────────────────────────────────────────────────
 COURSERA_API_BASE = "https://api.coursera.org/api"
@@ -38,4 +40,5 @@ MAX_COURSES = {
     "coursera":  2000,
     "edx":       1000,
     "mooc_cn":   2000,
+    "bilibili":  1000,
 }
