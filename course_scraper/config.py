@@ -25,6 +25,9 @@ DATA_DIR = os.path.join(BASE_DIR, "data")
 RAW_DIR  = os.path.join(DATA_DIR, "raw")
 DB_PATH  = os.path.join(DATA_DIR, "db", "courses.db")
 
+# ── Coursera 认证 Cookie（填入 .env 的 COURSERA_COOKIE）─────────────────────
+COURSERA_COOKIE: str = os.getenv("COURSERA_COOKIE", "")
+
 # ── 爬取目标配置 ───────────────────────────────────────────────────────────────
 COURSERA_API_BASE = "https://api.coursera.org/api"
 EDX_API_BASE      = "https://www.edx.org/api/catalog/v2"

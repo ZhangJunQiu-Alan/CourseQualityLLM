@@ -11,7 +11,7 @@ from tqdm import tqdm
 from scrapers.base import BaseScraper
 from utils.anti_detect import random_delay
 from utils.storage import is_already_scraped, upsert_course, save_json
-from config import COURSERA_API_BASE, MAX_COURSES
+from config import COURSERA_API_BASE, MAX_COURSES, COURSERA_COOKIE
 
 
 class CourseraScraper(BaseScraper):
@@ -32,9 +32,24 @@ class CourseraScraper(BaseScraper):
         "partnerIds", "domainTypes", "certificates",
     ])
 
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        # 注入认证 Cookie
+        if COURSERA_COOKIE:
+            self.session.headers.update({"Cookie": COURSERA_COOKIE})
+            csrf = next(
+                (p.split("=", 1)[1] for p in COURSERA_COOKIE.split("; ")
+                 if p.startswith("CSRF3-Token=")),
+                None,
+            )
+            if csrf:
+                self.session.headers.update({"X-CSRFToken": csrf})
+
     def run(self) -> int:
         """入口：爬取所有课程，返回成功爬取数"""
         self.log("开始爬取 Coursera 课程列表...")
+        if COURSERA_COOKIE:
+            self.log("已加载认证 Cookie，将尝试获取大纲和评论")
         course_ids = self._fetch_all_ids()
         self.log(f"共获取 {len(course_ids)} 个课程 ID，开始爬取详情...")
 
@@ -171,16 +186,33 @@ class CourseraScraper(BaseScraper):
             return {}
 
     def _fetch_syllabus(self, course_id: str) -> list[dict]:
-        """获取课程周次/模块大纲"""
+        """获取课程周次/模块大纲（需登录 cookie）"""
         try:
             resp = self.get(
                 f"{COURSERA_API_BASE}/onDemandCourseMaterials.v2/{course_id}",
-                params={"fields": "modules,lessons", "includes": "modules,lessons"},
+                params={
+                    "fields": "moduleIds,modules,lessons",
+                    "includes": "modules,lessons",
+                },
                 delay=False,
             )
-            body    = resp.json()
-            modules = body.get("linked", {}).get("onDemandCourseMaterials.v2.modules", [])
-            result  = []
+            body = resp.json()
+            linked = body.get("linked", {})
+
+            # 响应结构：linked 下可能是 modules 或带命名空间的 key
+            modules = (
+                linked.get("onDemandCourseMaterials.v2.modules")
+                or linked.get("modules.v1")
+                or []
+            )
+            # 也可能直接在 elements[0].moduleIds + linked.modules
+            if not modules:
+                el = body.get("elements", [{}])[0]
+                module_ids = el.get("moduleIds", [])
+                mod_map = {m["id"]: m for m in linked.get("onDemandCourseMaterialModules.v1", [])}
+                modules = [mod_map[mid] for mid in module_ids if mid in mod_map]
+
+            result = []
             for i, mod in enumerate(modules, 1):
                 result.append({
                     "week":        i,
