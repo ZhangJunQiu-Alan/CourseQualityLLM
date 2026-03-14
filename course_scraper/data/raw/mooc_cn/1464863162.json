@@ -1,0 +1,31 @@
+{
+  "course_id": "1464863162",
+  "platform": "mooc_cn",
+  "title": "地理信息系统应用",
+  "description": "《地理信息系统应用》（GIS 应用）是高校空间规划相关专业必修的课程。学完这门课程的你，一定能成为地理信息系统 GIS 专业里最懂规划的，规划专业里最懂地理信息系统 GIS 的。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464863162",
+  "instructors": [
+    {
+      "name": "范晨璟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9917,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

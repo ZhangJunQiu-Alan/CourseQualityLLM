@@ -1,0 +1,26 @@
+{
+  "course_id": "oSAFEslDEeWCSBJ1_yk7Tw",
+  "platform": "coursera",
+  "title": "Linear Regression and Modeling ",
+  "slug": "linear-regression-model",
+  "description": "This course introduces simple and multiple linear regression models. These models allow you to assess the relationship between variables in a data set and a continuous response variable. Is there a relationship between the physical attractiveness of a professor and their student evaluation scores? Can we predict the test score for a child based on certain characteristics of his or her mother? In this course, you will learn the fundamental theory behind linear regression and, through data examples, learn to fit, examine, and utilize regression models to examine relationships between multiple variables, using the free statistical software R and RStudio.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 5-7 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/linear-regression-model",
+  "instructors": [
+    {
+      "name": "Mine Çetinkaya-Rundel",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Duke University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

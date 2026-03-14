@@ -1,0 +1,26 @@
+{
+  "course_id": "7eBsnGDPEfCy5w726iKh0Q",
+  "platform": "coursera",
+  "title": "Mastering Advanced SQL Queries",
+  "slug": "mastering-advanced-sql-queries",
+  "description": "This course elevates your SQL capabilities from intermediate to advanced through progressive mastery of sophisticated query techniques and cutting-edge AI optimization methods. Beginning with powerful nested queries and Common Table Expressions, you'll build toward implementing AI-assisted approaches that dramatically enhance query performance and design. Through hands-on labs, interactive dialogues, and challenging assessments, you'll develop the advanced SQL toolkit needed for complex data analysis in modern enterprise environments.\n\nUpon completion, you'll be able to:\n• Design and implement sophisticated data retrieval solutions using subqueries, CTEs, and window functions\n• Leverage generative AI tools to optimize complex SQL queries for improved performance\n• Refactor inefficient queries into more elegant, maintainable solutions using advanced SQL patterns\n• Apply both traditional and AI-enhanced optimization techniques to solve complex data challenges",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 weeks of study, 5 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/mastering-advanced-sql-queries",
+  "instructors": [
+    {
+      "name": "Professionals from the Industry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,47 @@
+{
+  "course_id": "course-d301f45c-aede-467e-8c66-8d81d21819a3",
+  "platform": "edx",
+  "title": "Digital Marketing and Data Driven Analytics",
+  "description": "This course will be composed by four weeks, in each one the student will have the possibility to analyze different perspectives about the rationale of businesses and how they innovate their way to satisfy the expectations of their customers.    \n \n  Learning about the new digital communication trends as Influencer Marketing, to analyze how the advertising is moving from professional studios to the bedroom of an influencer.  \n  Understanding about the main role of the digital footprint of a person but also of a brand in the digital ecosystem.  \n  Learning about the SEO Fundamentals and why searching is the key component of any digital strategy.  \n  Analyzing the impact of SEM Alignment through the usage of different techniques and campaigns.  \n  Thinking about the UI/UX point of view, and why is so challenging to accomplish the needs and requirements from a customer.  \n  Navigating through Social Media, and analyze the impact of each of them.  \n  Going deeper in the data world by data driven analytics and big data escalations from social media.",
+  "learning_goals": [
+    "Search Engine Marketing",
+    "Big Data",
+    "Digital Communications",
+    "Algorithms",
+    "Marketing",
+    "Social Media",
+    "Influencer Marketing",
+    "User Experience",
+    "Analytics",
+    "Search Engine Optimization",
+    "Digital Marketing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 5-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "brenda-aranda",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "fernando-sierra-saavedra",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tecnológico de Monterrey"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 299,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

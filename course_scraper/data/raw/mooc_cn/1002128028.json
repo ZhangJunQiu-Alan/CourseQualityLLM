@@ -1,0 +1,31 @@
+{
+  "course_id": "1002128028",
+  "platform": "mooc_cn",
+  "title": "电气安全技术",
+  "description": "本课程是电力类专业的专业课之一，主要介绍人体安全防护、电力生产安全防护技术及措施、配电网不停电作业和典型倒闸操作安全技能等。       本课程是以“变配电运行值班员”等职业岗位需求为导向，根据典型工作任务、电力安全工作规程、1+X证书标准（变配电运维等）和行业职业技能竞赛（变配电运行值班员）赛项标准对安全技能的要求，高度融合“岗课赛证”，服务于学生电力安全技能培养、职工在职培训、社会学习者终身学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002128028",
+  "instructors": [
+    {
+      "name": "宗海焕;胡斌;李鹏;石锋杰;杨文学;王雨萌;许多;付婷婷;李嫚;朱修超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州电力高等专科学校"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30038,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

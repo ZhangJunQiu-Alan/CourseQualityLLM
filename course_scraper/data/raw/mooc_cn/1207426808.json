@@ -1,0 +1,31 @@
+{
+  "course_id": "1207426808",
+  "platform": "mooc_cn",
+  "title": "大学化学实验",
+  "description": "《大学化学实验》课程教学内容包括仪器分析实验、化学分析实验，无机制备实验、性质实验等，培养扎实的实验操作能力，严谨的科学作风、实事求是的科学态度、良好的科学素养、科学的思维方法及综合运用所学知识解决实际问题的能力，为后续学习奠定坚实基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207426808",
+  "instructors": [
+    {
+      "name": "王栋东;李芬;高国新;杨国鑫;郑阿群、杨国鑫;杜姣姣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30574,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

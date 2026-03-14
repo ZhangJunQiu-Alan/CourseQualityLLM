@@ -1,0 +1,31 @@
+{
+  "course_id": "1001602004",
+  "platform": "mooc_cn",
+  "title": "电工学",
+  "description": "西北工业大学电工学课程是国家级精品课程、国家级线下一流课程、国家级线上一流课程，电工学MOOC由第四届国家级教学名师史仪凯教授率领国家级教学团队成员主讲。采用教材是“十一五”、“十二五”、“”十四五国家级规划教材和国家级精品教材。名师、名课、名教材将为您的电工学课程学习提供丰富多媒体资源，并将为您的学习电工技术和电子技术打开便利之门。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001602004",
+  "instructors": [
+    {
+      "name": "王文东;向平;史仪凯;袁小庆",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 86346,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

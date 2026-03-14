@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753130",
+  "platform": "mooc_cn",
+  "title": "珠宝材料概论",
+  "description": "伟大的哲学家普林尼曾深情地赞美：“在宝石微小的空间中，包含了整个壮丽的大自然，仅一颗宝石就足以表现天地万物之优美。” 来吧，让我们一起走近宝石！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753130",
+  "instructors": [
+    {
+      "name": "陈彩凤;王安东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15009,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

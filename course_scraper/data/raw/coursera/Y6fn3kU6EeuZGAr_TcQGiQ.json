@@ -1,0 +1,26 @@
+{
+  "course_id": "Y6fn3kU6EeuZGAr_TcQGiQ",
+  "platform": "coursera",
+  "title": "Introduzione alla Data Visualization con Tableau",
+  "slug": "introduzione-data-visualization-tableau",
+  "description": "L’obiettivo del corso è formare professionisti della Business Intelligence attraverso l’apprendimento della piattaforma Tableau, strumento leader di questo settore. La mole di dati a disposizione è sempre più grande ed estrarre informazioni utili per sfruttare queste informazioni è compito degli analisti.\nUn ruolo cruciale lo riveste la data visualization: il tassello del processo analitico che permette di capire come rappresentare al meglio i propri dati per elaborare strategie data-driven.\nIn questo corso verranno presentate tutte le funzionalità di Tableau Desktop, il tool dedicato alla costruzione delle analisi dei dati. \nIntroduciamo i diversi prodotti della suite Tableau, l’interfaccia grafica e gli ambienti di lavoro, per passare, infine, alla presentazione delle unità minime del lavoro su Tableau: dimensioni, misure e tipi di dato. Vengono illustrati i contenuti relativi ai modi e ai tipi di connessione ai dati, e le strategie di selezione e organizzazione dei dati. Infine tutti gli elementi necessari per imparare a combinare insieme i dati e lavorare con set, date e misure multiple.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 settimane, 5-8 ore/settimana",
+  "language": "it",
+  "url": "https://www.coursera.org/learn/introduzione-data-visualization-tableau",
+  "instructors": [
+    {
+      "name": "Manuel Belgioioso",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Università di Napoli Federico II"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "LHYu43xzEe6Ntg5ZvjDJ-w",
+  "platform": "coursera",
+  "title": "Introduction to AutoSAR",
+  "slug": "introduction-to-autosar",
+  "description": "This course covers every aspect of automotive software development, including the principles of AutoSAR, more complex AutoSAR ideas, non-AutoSAR use cases, and in-depth ECU abstraction development. You will examine the foundational software of AutoSAR, comprehend the subtleties of runnable, and develop knowledge of interfaces, connectors, and composition. Additionally, you will learn about real-time environments (RTE), such as sender-receiver, client-server, and communication RTE, and gain practical experience in planning events inside the RTE framework. The course also covers non-AutoSAR applications and goes beyond AutoSAR, concentrating on the Microcontroller Abstraction Layer (MCAL), ARXML configuration, and efficient project setup. \n\nBy the end of the course, you will have a variety of abilities in automotive software development and be well-equipped to handle challenging automotive software projects, whether inside or outside the AutoSAR framework.\n\nThis course is helpful for:\n\n1) Engineers who work in creating automotive software, vehicle electronics, and systems engineering and wish to learn more about AUTOSAR and its use should take this course.\n\n2) Software developers who want to embrace AUTOSAR-compliant development practices are responsible for developing software applications and components for automotive systems.\n\n3) Engineers working on embedded systems in automobiles who want to include AUTOSAR principles into their work.\n\n4) Systems Architects: Experts in the design and architecture of automotive systems interested in implementing AUTOSAR-compliant plans.\n\nTo be successful in this course, you should have a background in programming skills, software engineering, embedded systems, and the fundamentals of automotive technology.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-autosar",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1461316172",
+  "platform": "mooc_cn",
+  "title": "Human histology",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461316172",
+  "instructors": [
+    {
+      "name": "Shangming LIU",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Shandong University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 378,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

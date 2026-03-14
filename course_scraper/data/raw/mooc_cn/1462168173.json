@@ -1,0 +1,31 @@
+{
+  "course_id": "1462168173",
+  "platform": "mooc_cn",
+  "title": "数学分析I选讲",
+  "description": "《数学分析I选讲》由河海大学数学学院《数学分析》教学团队杨永富教授领衔，郑苏娟、朱露、孙光洪、沈一颖、史仁坤、胡真等各级教学名师为团队成员，历时多年精心打造的在线课程，获批江苏省一流本科课程，同时高等教育出版社还发行了配套的《数学分析I选讲数字课程》。作为分析学中最古老、最基本的分支，该课程针对极限、连续和导数等知识点进行详细剖析，同时讲解经典例题，并提供习题的详细分析与解答，有助于增强学生对微积分重要与抽象知识点的深入理解及灵活应用能力，提高学习成绩；也为即将参加大学生数学竞赛和报考硕士研究生的同学夯实微积分基础、取得优异成绩提供强有力的帮助。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462168173",
+  "instructors": [
+    {
+      "name": "沈一颖;郑苏娟;史仁坤;杨永富;胡真;朱露;孙光洪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6096,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

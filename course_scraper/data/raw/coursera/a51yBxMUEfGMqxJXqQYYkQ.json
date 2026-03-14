@@ -1,0 +1,26 @@
+{
+  "course_id": "a51yBxMUEfGMqxJXqQYYkQ",
+  "platform": "coursera",
+  "title": "Google Cloud におけるサービスのオーケストレーションとコレオグラフィー",
+  "slug": "service-orchestration-and-choreography-on-google-cloud-ja",
+  "description": "このコースでは、イベントベースのアプリケーションの概要を紹介し、サービス オーケストレーションとコレオグラフィを使用してマイクロサービスを調整する方法を解説します。講義とハンズオンラボを通じて、Workflows、Eventarc、Cloud Tasks、Cloud Scheduler を使用して Google Cloud 上にマイクロサービス アプリケーションを構築する方法を学びます。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/service-orchestration-and-choreography-on-google-cloud-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

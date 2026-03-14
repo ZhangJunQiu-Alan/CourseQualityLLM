@@ -1,0 +1,36 @@
+{
+  "course_id": "0_xy2bo3EfCOcQr_zwrKFw",
+  "platform": "coursera",
+  "title": "IT Fundamentals for Business Profiles: Programming",
+  "slug": "it-fundamentals-for-business-professionals-programming",
+  "description": "This course is part of a five-course introductory series in Business Information Systems, created to open the door to the fascinating field of Information Technology.\n\nThe program has been carefully structured for professionals from non-IT areas —such as finance, administration, or management— who wish to gain a solid foundation in Information Technology. By acquiring this knowledge, you’ll be able to communicate more effectively with IT and telecommunications experts within your organization or partner companies. You’ll also improve your ability to define requirements, assess workloads, and monitor outcomes with greater precision and confidence.\n\nThe content of this series aligns with the topics covered in the CLEP Information Systems and Computer Applications (ISCA) exam.\n\nIn this specific course, you’ll explore the fundamentals of software programming. We’ll cover essential programming logic, data and file structures, the principles of object-oriented programming, database management with SQL, and key aspects of web development —including HTML, XML, CSS, and JavaScript.\n\nAfter completing all five courses in the series, you’ll be equipped to collaborate effectively with IT professionals and, if desired, take the CLEP ISCA exam with confidence.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks, 3-6 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/it-fundamentals-for-business-professionals-programming",
+  "instructors": [
+    {
+      "name": "Nacho Despujol",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Tanja Vos",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Carlos Turro",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

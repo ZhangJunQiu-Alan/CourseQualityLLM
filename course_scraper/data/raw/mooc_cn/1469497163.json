@@ -1,0 +1,31 @@
+{
+  "course_id": "1469497163",
+  "platform": "mooc_cn",
+  "title": "内部控制学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1469497163",
+  "instructors": [
+    {
+      "name": "黄艳艳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "金陵科技学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1457,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

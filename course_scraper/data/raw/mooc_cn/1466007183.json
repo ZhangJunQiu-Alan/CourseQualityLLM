@@ -1,0 +1,31 @@
+{
+  "course_id": "1466007183",
+  "platform": "mooc_cn",
+  "title": "单片机C语言程序设计",
+  "description": "本课程以智能控制小车为载体，以单片机应用能力培养为导向，以控制项目推进过程为主线，采用模块化项目驱动式实施教学。选取STC公司的IAP15W4K61S4单片机为研究对象，对接电子产品开发流程，围绕岗位能力需求，结合行业标准、技能竞赛标准和职业资格标准，引入花式流水灯等典型单片机产品，优化为4个项目，解构项目功能，设计多个任务，形成项目并行—任务驱动—能力递进的课程结构。将单片机的基本概念、单片机基本架构、C51编程知识等内容融入其中，使学习者具备一定的单片机应用项目开发能力。就让我们一起走进单片机的奇妙世界，充分发挥自己的创造力和想象力，与同学们一同努力和进步吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466007183",
+  "instructors": [
+    {
+      "name": "施芸;雷刚;陈爽;郭欣;张建兴;谭红君;杨晓艳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川工程职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7208,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

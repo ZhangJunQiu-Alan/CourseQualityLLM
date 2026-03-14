@@ -1,0 +1,26 @@
+{
+  "course_id": "bIp-zcJyEe6kghKtIX5xRw",
+  "platform": "coursera",
+  "title": "Bridge Deck Analysis",
+  "slug": "bridge-deck-analysis",
+  "description": "The course equips you to be the architect of a bridge's most crucial component: the superstructure. You'll learn the intricacies of designing these materials for bridge decks, considering their properties, behavior under load, and techniques like prestressing to enhance performance. The course delves into design philosophies, comparing traditional methods with modern limit state design to ensure bridges meet all safety requirements.\nBut a bridge deck is more than just concrete. From designing box culverts that ensure proper drainage under the bridge to selecting appropriate retaining walls based on site conditions, you'll gain the knowledge to keep the bridge functional. The course even ventures into innovative solutions like seismic isolation devices to safeguard bridges during earthquakes.\nBeam and slab superstructures are a major focus. You'll master a step-by-step process to analyze and design them. This includes idealizing the bridge deck for analysis, calculating properties of beams within the deck, and accurately determining the design loads the bridge will encounter. The course emphasizes designing for both ultimate and serviceability limit states. This ensures the bridge can withstand various stresses without failure and functions well under everyday use.\nSteel and steel composite bridges come into play later. You'll gain knowledge of key design codes and different steel bridge configurations like trusses. Steel composite girders, which combine steel and concrete for enhanced performance, will be a key area of study. You'll learn to model these composite structures and design them for critical factors like flexure, shear, and fatigue, ensuring their long-term performance.\nBy completing this course, you'll transform from a bridge deck novice to a confident designer.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/bridge-deck-analysis",
+  "instructors": [
+    {
+      "name": "Subject Matter Expert",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "L&T EduTech"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

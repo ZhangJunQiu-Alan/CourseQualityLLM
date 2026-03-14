@@ -1,0 +1,28 @@
+{
+  "course_id": "course-bf90663f-14dc-44b9-a82a-3ad5c01e2cdb",
+  "platform": "edx",
+  "title": "Web Apps: Build an app",
+  "description": "You will learn the basic concepts and principles behind building web applications. This would include understanding what a web app is, how it differs from a website, and the core components involved in its creation. The material will probably cover the fundamental skills needed, such as potential introductory concepts for front-end development (user interface) and back-end development (server-side logic). The knowledge areas covered would likely touch on basic web technologies and the general workflow for creating and deploying a simple web application.",
+  "learning_goals": [
+    "User Interface",
+    "Workflow Management",
+    "Server-Side"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "2 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 409,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

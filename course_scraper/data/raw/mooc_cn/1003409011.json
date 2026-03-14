@@ -1,0 +1,31 @@
+{
+  "course_id": "1003409011",
+  "platform": "mooc_cn",
+  "title": "电力电子学",
+  "description": "太阳能和风能如何转化为电能？大容量电能如何高效远距离传输？电动汽车和高铁如何飞驰？这都是利用电力电子变换电路和控制系统将一种形式的电能或能量，转化为另一种形式的电能或能量的过程。电力电子技术在电力系统、新能源、交通、医疗、航空航天等领域应用十分广泛，有电能变换的地方就有电力电子。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003409011",
+  "instructors": [
+    {
+      "name": "段善旭;刘邦银;彭力;裴雪军;陈宇;王学华;张宇;康勇;李达义;陈昌松;邹旭东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 57660,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "vQj0id7PEey0uQ74Jk0S7w",
+  "platform": "coursera",
+  "title": "Introduction to D3.js",
+  "slug": "introduction-to-d3-js",
+  "description": "This Guided Project, Introduction to D3.js is for those who want to learn about D3.js which is a JavaScript library for producing  SVG-based, dynamic, interactive data visualizations in web browsers. In this 2-hour-long project-based course, you will get to know different SVG elements, build SVG-based webpages using D3.js, Integrate data into the SVG elements, and build simple data visualizations using D3.js. This project is unique because you will learn to build simple SVG-based data representations from scratch using D3.js. You will also learn how to integrate JSON data into your D3 data visualization. To be successful in this project, you will need to have knowledge of HTML, CSS, and Javascript programming language and to be experienced working with Visual Studio Code IDE.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-d3-js",
+  "instructors": [
+    {
+      "name": "Ahmad Varasteh",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

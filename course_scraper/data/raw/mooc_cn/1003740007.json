@@ -1,0 +1,31 @@
+{
+  "course_id": "1003740007",
+  "platform": "mooc_cn",
+  "title": "基础工程",
+  "description": "基础是建筑物的根基。基础不牢，建筑会倒。所以基础工程一直都是土建专业的核心课。本课程将介绍基础工程的基本概念，介绍常见的基础类型及其设计方法，提供实际工程案例，加强运用能力的培养。结合注册工程师能力要求，提供常见例题的求解方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003740007",
+  "instructors": [
+    {
+      "name": "陈国周",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7388,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

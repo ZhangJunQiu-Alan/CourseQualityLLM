@@ -1,0 +1,31 @@
+{
+  "course_id": "1471702162",
+  "platform": "mooc_cn",
+  "title": "数据结构与算法",
+  "description": "在这个由数据驱动的时代，无论是人工智能的深度学习、大数据分析的复杂查询，还是软件开发中的高效编程，或者生活中的方方面面，数据结构与算法都是支撑这些技术的核心基石。本课程将带领您探索数据结构与算法的奥秘，熟悉Python编程对它们的实现，期待您的加入，学会用“聪明”的视角去探索世界！期待在课堂上与你们相见！     适合人群：     人工智能、计算机、电子信息相关专业学生；     希望提升编程能力的软件开发者；     对数据结构与算法感兴趣的技术爱好者。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471702162",
+  "instructors": [
+    {
+      "name": "林鑫;许沛澜;周媛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1029,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

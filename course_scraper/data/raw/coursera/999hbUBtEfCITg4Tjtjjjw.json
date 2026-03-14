@@ -1,0 +1,31 @@
+{
+  "course_id": "999hbUBtEfCITg4Tjtjjjw",
+  "platform": "coursera",
+  "title": "Advanced ITSM with ServiceNow: Optimizing IT Operations",
+  "slug": "advanced-itsm-with-servicenow-optimizing-it-operations",
+  "description": "This course is designed for IT professionals who want to build an understanding of how ServiceNow’s IT Service Management (ITSM) capabilities enable advanced ITSM aligned with ITIL best practices. \n\nThe course bridges theory and practice, teaching you not only how to use ServiceNow but also how to apply it effectively to improve IT operations, increase service quality, and support digital transformation. \n\nThe topics covered in this course include managing incidents, problems, service requests, and knowledge management, as well as leveraging change management and the configuration management database to control your IT environment. ServiceNow workflows and customizations are also introduced. \n\nServiceNow skills are in high demand, and the demand is growing. By mastering ITSM on this powerful platform, you’ll position yourself as a valuable asset to any organization seeking to streamline service delivery, reduce downtime, and improve user satisfaction. This course offers real-world use cases, ServiceNow demos, and hands-on exercises that make the concepts come alive. \n\nThis course is ideal for IT Operations Managers, IT Professionals, Service Desk Staff, and ITSM Consultants who are looking to enhance their skills in IT service management using the ServiceNow platform. Whether you're managing service delivery or supporting IT operations, this course provides practical insights to improve efficiency and drive digital transformation.\n\nNo prior experience with ServiceNow is required. A basic understanding of ITSM concepts—such as incidents, changes, and service requests—as well as familiarity with general IT workflows and ITIL Foundation, will help you engage more effectively with the course content. It is designed for beginners who want hands-on experience.\n\nBy the end of this course, learners will be able to design ITSM frameworks aligned with ITIL best practices, manage core service operations such as incidents and requests, and leverage Change Management and CMDB for service optimization. Additionally, they will be equipped to evaluate and apply customization, automation, and integration features within ServiceNow to meet diverse organizational needs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 Hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-itsm-with-servicenow-optimizing-it-operations",
+  "instructors": [
+    {
+      "name": "Arno Esterhuizen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

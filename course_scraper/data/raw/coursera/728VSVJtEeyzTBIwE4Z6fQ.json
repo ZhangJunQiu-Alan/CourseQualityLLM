@@ -1,0 +1,26 @@
+{
+  "course_id": "728VSVJtEeyzTBIwE4Z6fQ",
+  "platform": "coursera",
+  "title": "Tencent Cloud SysOps Associate",
+  "slug": "tencent-cloud-sysops-associate",
+  "description": "This course is primarily aimed at cloud professionals who are interested in learning about Tencent Cloud's system operations. It equips learners with a foundational knowledge in deploying, monitoring, and operating Tencent Cloud's basic products and prepares them to take the Tencent Cloud SysOps Associate examination. After completing this course, learners will be able to operate and maintain Tencent Cloud's basic products and deploy business on Tencent Cloud.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "11 weeks of study, 1 hour/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/tencent-cloud-sysops-associate",
+  "instructors": [
+    {
+      "name": "Anthony Siu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tencent Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

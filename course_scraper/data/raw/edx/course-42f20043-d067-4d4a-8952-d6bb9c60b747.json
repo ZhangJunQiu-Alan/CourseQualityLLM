@@ -1,0 +1,58 @@
+{
+  "course_id": "course-42f20043-d067-4d4a-8952-d6bb9c60b747",
+  "platform": "edx",
+  "title": "Introduction to Bioconductor",
+  "description": "We begin with an introduction to the relevant biology, explaining what we measure and why. Then we focus on the two main measurement technologies: next generation sequencing and microarrays. We then move on to describing how raw data and experimental information are imported into R and how we use Bioconductor classes to organize these data, whether generated locally, or harvested from public repositories or institutional archives. Genomic features are generally identified using intervals in genomic coordinates, and highly efficient algorithms for computing with genomic intervals will be examined in detail. Statistical methods for testing gene-centric or pathway-centric hypotheses with genome-scale data are found in packages such as limma, some of these techniques will be illustrated in lectures and labs. \n Given the diversity in educational background of our students we have divided the series into seven parts. You can take the entire series or individual courses that interest you. If you are a statistician you should consider skipping the first two or three courses, similarly, if you are biologists you should consider skipping some of the introductory biology lectures. Note that the statistics and programming aspects of the class ramp up in difficulty relatively quickly across the first three courses. By the third course will be teaching advanced statistical concepts such as hierarchical models and by the fourth advanced software engineering skills, such as parallel computing and reproducible research concepts. \n These courses make up two Professional Certificates and are self-paced: \n  Data Analysis for Life Sciences:  \n \n  PH525.1x: Statistics and R for the Life Sciences  \n  PH525.2x: Introduction to Linear Models and Matrix Algebra  \n  PH525.3x: Statistical Inference and Modeling for High-throughput Experiments  \n  PH525.4x: High-Dimensional Data Analysis  \n \n  Genomics Data Analysis:  \n \n  PH525.5x: Introduction to Bioconductor  \n  PH525.6x: Case Studies in Functional Genomics  \n  PH525.7x: Advanced Bioconductor  \n \n This class was supported in part by NIH grant R25GM114818. \n HarvardX requires individuals who enroll in its courses on edX to abide by the terms of the edX honor code. HarvardX will take appropriate corrective action in response to violations of the  edX honor code , which may include dismissal from the HarvardX course; revocation of any certificates received for the HarvardX course; or other remedies as circumstances warrant. No refunds will be issued in the case of corrective action for such violations. Enrollees who are taking HarvardX courses as part of another program will also be governed by the academic policies of those programs. \n HarvardX pursues the science of learning. By registering as an online learner in an HX course, you will also participate in research about learning. Read our  research statement  to learn more. \n Harvard University and HarvardX are committed to maintaining a safe and healthy educational and work environment in which no member of the community is excluded from participation in, denied the benefits of, or subjected to discrimination or harassment in our program. All members of the HarvardX community are expected to abide by Harvard policies on nondiscrimination, including sexual harassment, and the edX Terms of Service. If you have any questions or concerns, please contact  harvardx@harvard.edu  and/or  report your experience through the edX contact form .",
+  "learning_goals": [
+    "Life Sciences",
+    "Statistics",
+    "Biology",
+    "Microarrays",
+    "Software Engineering",
+    "Statistical Inference",
+    "Matrix Algebra",
+    "Bioconductor (Bioinformatics Software)",
+    "Next-Generation Sequencing",
+    "R (Programming Language)",
+    "DNA Sequencing",
+    "Linear Model",
+    "Data Warehousing",
+    "Algorithms",
+    "Data Analysis",
+    "Functional Genomics",
+    "Statistical Methods"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rafael-irizarry",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "michael-love",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "vincent-carey",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1125,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

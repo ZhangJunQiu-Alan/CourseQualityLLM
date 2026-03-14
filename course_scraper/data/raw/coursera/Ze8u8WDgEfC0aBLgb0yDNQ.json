@@ -1,0 +1,31 @@
+{
+  "course_id": "Ze8u8WDgEfC0aBLgb0yDNQ",
+  "platform": "coursera",
+  "title": "Linux Foundation Certified System Administrator (LFCS): Unit 6",
+  "slug": "pearson-linux-foundation-certified-system-administrator-lfcs-complete-vide-caxci",
+  "description": "This course provides a comprehensive exploration of Linux storage management, covering essential topics such as partition management, file systems, logical volume management (LVM), and data backup strategies. Begin by understanding the intricacies of MBR and GPT partitioning systems, and learn to create and manage partitions effectively. Progress to mastering file systems like Ext4 and XFS, and learn to mount them using advanced techniques. Delve into the flexibility of LVM, gaining skills in creating and resizing logical volumes. Finally, secure your data with robust backup strategies using tools like tar, rsync, and dd. With hands-on labs and real-world scenarios, this course ensures you acquire practical skills and confidence to manage Linux storage systems efficiently.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours 32 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-linux-foundation-certified-system-administrator-lfcs-complete-vide-caxci",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Sander van Vugt",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206412811",
+  "platform": "mooc_cn",
+  "title": "Python程序设计及应用（上）",
+  "description": "曾有人说过，没有什么比计算机编程更无处不在的影响着21世纪，而现在的21世纪人工智能技术已经大展拳脚，Python作为人工智能首选的编程语言备受欢迎。古时，学堂会传‬授礼、乐、射、御、书、数‮种六‬综合技能。慕课的上篇以“礼”讲‮的授‬基本语法和设‮之计‬道、以“乐”感受的程序设‮韵计‬律之‮的美‬基础上；在下篇中将会讲到“书”，讨论Python如何存储‮处和‬理文字，窥探自然语言处‮的理‬基本规律；会讲到“御”，讨论如何生成图形‮户用‬界面和办公‮动自‬化，使Python成为生产力工具；会讲到“数”，讨论高‮的效‬计算和绘图，踏入数据挖‮领掘‬域；会讲到“射”，以Python之“矢”利‮人用‬工神经网络直抵人工智能‮最‬沿领域。请大家跟随我们，走近Python，享受运用计算手段不断创新的过程，迎接这个充满机遇和挑战的大时代。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206412811",
+  "instructors": [
+    {
+      "name": "李晔;范茜莹;段世红;宋晏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6979,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

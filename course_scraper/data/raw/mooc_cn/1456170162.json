@@ -1,0 +1,31 @@
+{
+  "course_id": "1456170162",
+  "platform": "mooc_cn",
+  "title": "中西医结合儿科学",
+  "description": "《中西医结合儿科学》是中西医临床医学专业的主干课程之一。本课程是以中西医结合理论体系为指导，中西医防治方法为手段，研究小儿生长发育、疾病预防、身体保健和疾病诊治的一门中西医结合临床医学学科。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1456170162",
+  "instructors": [
+    {
+      "name": "翟文生",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7942,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

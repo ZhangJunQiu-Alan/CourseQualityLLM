@@ -1,0 +1,31 @@
+{
+  "course_id": "TQN2FUpWEe-SdxJ_Axw1wQ",
+  "platform": "coursera",
+  "title": "How to Build a Diffusion Model - An Introduction",
+  "slug": "build-diffusion-model-introduction",
+  "description": "Explore the fascinating world of generative models with a deep focus on diffusion models for high-quality image generation. You’ll begin by mastering the core principles of diffusion and then advance to the architectures that power modern text-to-image systems. Learn how these models transform random noise into stunning visuals through forward and reverse processes, and discover optimization techniques using loss functions and training strategies.\nBy the end of this course, you’ll be equipped to build your own diffusion models from scratch, fine-tune them for specific tasks, and evaluate their performance using real-world metrics. Whether you’re an ML engineer, data scientist, or AI enthusiast, this course will give you the practical skills to excel in one of the most transformative areas of generative AI.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-diffusion-model-introduction",
+  "instructors": [
+    {
+      "name": "Fractal Analytics Academy",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Akshesh Shah",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Fractal Analytics"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207108816",
+  "platform": "mooc_cn",
+  "title": "数学模型",
+  "description": "“数学模型”融合科学计算、理论分析与实际应用于一体，以实际物理、力学、生物、金融等问题为背景，采用案例教学方式，将建模思想贯穿全过程，渗透数学文化，提高学习兴趣，渗透数学思想，提高通识意识，渗透科研思想，提高创新意识，培养学生的批判性与创造性思维，提高学生应用数学解决问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207108816",
+  "instructors": [
+    {
+      "name": "司新辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10516,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

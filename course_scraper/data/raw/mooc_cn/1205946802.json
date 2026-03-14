@@ -1,0 +1,31 @@
+{
+  "course_id": "1205946802",
+  "platform": "mooc_cn",
+  "title": "Mechanics of Materials （《材料力学》全英文）",
+  "description": "This course is to provide students with a clear and thorough presentation of both the theory and application of mechanics of materials. Understanding is based on explanation of the behaviour of material under load and then modeling this behaviour to develop the theory.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205946802",
+  "instructors": [
+    {
+      "name": "刘刘;刘广彦;张强;王猛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3436,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

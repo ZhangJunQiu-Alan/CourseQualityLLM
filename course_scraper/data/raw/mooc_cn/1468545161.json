@@ -1,0 +1,31 @@
+{
+  "course_id": "1468545161",
+  "platform": "mooc_cn",
+  "title": "微生物学",
+  "description": "《微生物学》是介绍微生物学的基础理论和技能以及生产应用的一门重要课程。通过教学，使学生了解学科发展前沿，掌握相关基本理论、基础知识和基本技能，为学生从事本专业领域的工作奠定理论和技术基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468545161",
+  "instructors": [
+    {
+      "name": "赵珂;向泉桔;廖德聪;邹立扣;马孟根;徐开未;余秀梅;辜运富;田鸿",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5832,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

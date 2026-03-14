@@ -1,0 +1,34 @@
+{
+  "course_id": "course-05f61d04-5acc-452b-9c34-6d447af6437f",
+  "platform": "edx",
+  "title": "Computer Science 101",
+  "description": "CS101 is a self-paced course that teaches the essential ideas of Computer Science for a zero-prior-experience audience. Computers can appear very complicated, but in reality, computers work within just a few, simple patterns. CS101 demystifies and brings those patterns to life, which is useful for anyone using computers today. \n In CS101, participants play and experiment with short bits of \"computer code\" to bring to life to the power and limitations of computers. Everything works within the browser, so there is no extra software to download or install. CS101 also provides a general background on computers today: what is a computer, what is hardware, what is software, what is the internet. Anyone who has the ability to use a web browser may be successful in this course. No previous computer science experience is required.",
+  "learning_goals": [
+    "Experimentation",
+    "Web Browsers",
+    "Computer Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "nick-parlante",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4599,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

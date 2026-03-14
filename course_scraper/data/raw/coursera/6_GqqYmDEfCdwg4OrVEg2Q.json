@@ -1,0 +1,26 @@
+{
+  "course_id": "6_GqqYmDEfCdwg4OrVEg2Q",
+  "platform": "coursera",
+  "title": "Advanced Python for Data Analysis: Build & Optimize",
+  "slug": "advanced-python-for-data-analysis-build-optimize",
+  "description": "By the end of this course, learners will be able to apply advanced Python techniques, implement client-server networking, develop chatbot applications, integrate databases, and optimize data analysis with NumPy. Through hands-on lessons, you will analyze datasets, design efficient programs, construct socket-based applications, and execute SQL queries in Python.\n\nThis course is designed to bridge the gap between intermediate Python knowledge and professional data analysis applications. You will gain practical experience with PyCharm, explore real-time communication through networking, and master database integration for managing client data. The course also emphasizes high-performance computing with NumPy, from array creation to matrix operations and vectorized computations.\n\nWhat makes this course unique is its blended approach to Python, combining development environments, networking, chatbot building, database integration, and advanced data analysis into one complete package. By completing this course, learners will develop the technical skills and confidence to design scalable, real-world Python solutions for data-driven projects.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-python-for-data-analysis-build-optimize",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

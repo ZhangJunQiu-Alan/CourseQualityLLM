@@ -1,0 +1,31 @@
+{
+  "course_id": "1471616173",
+  "platform": "mooc_cn",
+  "title": "大数据分析",
+  "description": "在大数据和AI迅速发展的今天，掌握对数据的理解，分析和驾驭的能力尤为重要，大数据分析这门课程按照Bloom学习掌握分类法，构建学习者能力层级.课程系统地讲解了大数据分析基础的知识和必备的技能。在知识的记忆和理解的基础上，培养学生的应用和分析的能力，并进一步培养学生的评价和创新的能力。课程采用理论讲解和工程实践训练相结合的方式，在掌握大数据基本理论的基础上，设计了两个典型应用推荐系统和社交网络分析的实验培养大数据分析工程能力。本课程配套教材《大数据分析与处理-实践者的研究方法》车海莺 机械工业出版社  ISBN978-7-111-78613-9",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471616173",
+  "instructors": [
+    {
+      "name": "车海莺",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2544,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

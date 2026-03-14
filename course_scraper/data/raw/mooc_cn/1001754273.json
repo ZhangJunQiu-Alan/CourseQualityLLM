@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754273",
+  "platform": "mooc_cn",
+  "title": "嵌入式系统及应用",
+  "description": "嵌入式系统是嵌入式人工智能与物联网的重要基础，该课程以ARM Cortex-M微处理器为蓝本,以软硬件构件为主线，基于嵌入式软件工程基本原理，按照\"通用知识—驱动构件使用方法—测试实例—芯片编程结构—构件设计方法”的线条，逐步阐述嵌入式系统基本知识要素及较为规范的底层软硬件相结合的设计方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754273",
+  "instructors": [
+    {
+      "name": "王宜怀;张建",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 60311,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

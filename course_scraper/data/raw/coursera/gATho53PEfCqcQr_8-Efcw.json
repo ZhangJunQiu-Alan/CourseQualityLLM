@@ -1,0 +1,26 @@
+{
+  "course_id": "gATho53PEfCqcQr_8-Efcw",
+  "platform": "coursera",
+  "title": "NoSQL Databases: Analyze & Implement Scalable Systems",
+  "slug": "nosql-databases-analyze-implement-scalable-systems",
+  "description": "By the end of this course, learners will be able to explain the origins of NoSQL databases, evaluate their features and data models, compare ACID and BASE consistency approaches, apply workflow orchestration with Apache Oozie, and implement real-time stream processing using Apache Storm. They will also design recommendation systems, apply classification techniques, and implement clustering algorithms with Apache Mahout.\n\nThis course equips learners with both foundational knowledge and hands-on skills in distributed big data systems. Through a structured progression, learners gain practical experience with tasks, workers, topologies, and coordinators, while also exploring advanced topics such as data versioning, stream reliability, and scalable machine learning models.\n\nWhat makes this course unique is its integration of multiple cutting-edge technologies—NoSQL, Oozie, Storm, and Mahout—into a single, cohesive learning journey. Instead of studying these tools in isolation, learners will analyze how they interact in real-world scenarios to build scalable, fault-tolerant, and intelligent data solutions.\n\nIdeal for aspiring data engineers, developers, and analysts, this course provides the skills to design, evaluate, and implement modern big data architectures that drive insights and innovation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/nosql-databases-analyze-implement-scalable-systems",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

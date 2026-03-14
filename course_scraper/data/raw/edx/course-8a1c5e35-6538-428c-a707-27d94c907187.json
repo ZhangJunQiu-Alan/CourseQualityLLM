@@ -1,0 +1,50 @@
+{
+  "course_id": "course-8a1c5e35-6538-428c-a707-27d94c907187",
+  "platform": "edx",
+  "title": "Foundations of Modern Finance I",
+  "description": "This is a two-part course, and part of the MicroMasters® Program in Finance. It provides a rigorous and comprehensive introduction to the fundamentals of modern finance and their applications to business challenges in valuation, investments, and corporate financial decisions under a unified framework. \n Completing this first course and program will help you prepare for a career as a financial analyst, financial advisor, vice president for finance, chief financial officer, and more. \n Finance provides a core function in any productive economy by providing a mechanism for savings, investment, and liquidity. Whether the learner is in a industrialized country or a developing country, financial services are essential for smooth functioning of the economy.",
+  "learning_goals": [
+    "Financial Market",
+    "Basic Math",
+    "Finance",
+    "Chartered Financial Analyst",
+    "Financial Analysis",
+    "Investments",
+    "Market Liquidity",
+    "Financial Services",
+    "Planning"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "12 周，每周 10-14 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "leonid-kogan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jiang-wang",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "egor-matveyev",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8027,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

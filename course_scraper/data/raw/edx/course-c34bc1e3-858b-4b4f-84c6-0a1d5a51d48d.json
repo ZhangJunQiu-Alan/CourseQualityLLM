@@ -1,0 +1,37 @@
+{
+  "course_id": "course-c34bc1e3-858b-4b4f-84c6-0a1d5a51d48d",
+  "platform": "edx",
+  "title": "Trading - Fundamentals of Technical Analysis",
+  "description": "In order to apply technical analysis with confidence, it is important to understand the theory of technical analysis, why it’s a rational approach to market analysis and how this discipline relates to fundamental analysis and investor psychology. \n To build that confidence, we begin with an explanation of how technical analysts view the market in terms of supply and demand. We detail how the analyst develops information about the relative strength of the bulls and the bears through price charts and other tools. \n Price charts are one of the primary tools of technicians. Charts provide a history of market action and analysts can observe patterns in the chart. As early as the 1930s, analysts determined that certain patterns tended to precede certain price moves. This course reviews those patterns, discusses how to identify the patterns and supplements this with concepts form behavioral finance to explain why the patterns are predictive. Different chart types are presented and important charting concepts are explained from a practical perspective. \n In addition to charts, technical analysts also use indicators and various theories to forecast the direction of prices through the study of past market data. \n We focus on defining and applying momentum indicators to make buy and sell decisions. Instead of simply explaining and illustrating popular indicators like moving averages, RSI, MACD and stochastics, we review historical back tested results of each indicator so that you can objectively evaluate their performance. \n Indicators based on the sentiment of various groups are analyzed and breadth indicators are explained. \n In addition to indicators, theories applicable to trading are studied. \n  Free Preview! Access Module 1, 2, and 3 for free. For full course access, upgrade to a verified certificate.",
+  "learning_goals": [
+    "Supply And Demand",
+    "Psychology",
+    "Finance",
+    "Technical Analysis",
+    "Fundamental Analysis",
+    "Market Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "michael-carr",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "New York Institute of Finance"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1200,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

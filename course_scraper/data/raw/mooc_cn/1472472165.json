@@ -1,0 +1,31 @@
+{
+  "course_id": "1472472165",
+  "platform": "mooc_cn",
+  "title": "计算机网络原理",
+  "description": "本课程是面向物联网工程专业学生的一门重要的基础课程，是理论和实践紧密结合的一门课程，是提高学生信息素质和工程素养的一门重要的基础课程。通过本课程的教学，使学生能够系统地掌握计算机网络的基本概念、核心原理和常用的组网技术，为今后从事基于信息系统的工作奠定必要的工程技术基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472472165",
+  "instructors": [
+    {
+      "name": "温泉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "成都理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 518,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

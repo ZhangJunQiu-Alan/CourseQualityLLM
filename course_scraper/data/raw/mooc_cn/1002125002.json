@@ -1,0 +1,31 @@
+{
+  "course_id": "1002125002",
+  "platform": "mooc_cn",
+  "title": "计算机硬件技术基础",
+  "description": "本课程通过对计算机硬件的系统学习，了解计算机的基本工作原理，组成方法以及相互关系，了解计算机系统的层次化结构概念，熟悉一些典型的有代表性的计算机结构，理解硬件与软件之间的接口界面，建立起一个完整的计算机系统的整机概念。这门课可作为《计算机组成原理》的前导课程，为后续课程的学习提供必要的基础知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002125002",
+  "instructors": [
+    {
+      "name": "柳秀梅;张昱;徐彬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 51755,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

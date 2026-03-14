@@ -1,0 +1,26 @@
+{
+  "course_id": "2VBlOydHEe6Ksg4d3AQmNQ",
+  "platform": "coursera",
+  "title": "Data Collection and Integration",
+  "slug": "data-collection-and-integration",
+  "description": "The \"Data Collection and Integration\" course provides students with comprehensive techniques for gathering data from diverse sources, including files, relational databases, web pages, and APIs. Participants will gain practical experience in collecting and integrating data for further processing and analysis. The course emphasizes the utilization of appropriate tools and packages, such as Pandas, Beautiful Soup, and SQL, to effectively handle real-life datasets and address data integration challenges.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-collection-and-integration",
+  "instructors": [
+    {
+      "name": "Di Wu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

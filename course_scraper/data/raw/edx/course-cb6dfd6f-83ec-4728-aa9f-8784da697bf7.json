@@ -1,0 +1,30 @@
+{
+  "course_id": "course-cb6dfd6f-83ec-4728-aa9f-8784da697bf7",
+  "platform": "edx",
+  "title": "Blockchain Technology and the Future of FinTech",
+  "description": "In this course, you will learn about the technicalities associated with blockchain technology and the implications of decentralized finance by exploring smart contracts and cryptocurrencies. You will gain insight into the future of FinTech, and associated payment innovations to identify opportunities and make effective FinTech decisions in your context.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "andreas-park-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Toronto"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 367,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

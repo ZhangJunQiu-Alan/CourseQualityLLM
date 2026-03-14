@@ -1,0 +1,31 @@
+{
+  "course_id": "1003765006",
+  "platform": "mooc_cn",
+  "title": "现代药物分离与纯化技术",
+  "description": "你知道青霉素的产生过程吗？你知道怎样从中药中提取黄连素吗？你知道纯水如何制得吗？还有奶酪、药酒、冰糖……通过本课程的学习，我们一起来找到答案。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003765006",
+  "instructors": [
+    {
+      "name": "李灵娜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "淄博职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9122,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

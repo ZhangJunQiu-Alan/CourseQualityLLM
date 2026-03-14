@@ -1,0 +1,31 @@
+{
+  "course_id": "1468624161",
+  "platform": "mooc_cn",
+  "title": "伦理学原理",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468624161",
+  "instructors": [
+    {
+      "name": "胡芮;何瑶;肖雅月",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1295,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1449908162",
+  "platform": "mooc_cn",
+  "title": "数控技术与编程",
+  "description": "本课程是机械设计制造及其自动化专业、材料成型及控制工程、机械电子工程等专业限选课程，主要介绍数控加工工艺及编程，数控原理与系统，数控机床机械结构。本课程的具体内容为：数控加工工艺，数控编程指令，数控机床编程，数控装置，插补原理，半径补偿原理，伺服驱动系统，数控机床机械结构等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449908162",
+  "instructors": [
+    {
+      "name": "高荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "淮阴工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7780,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "93001",
+  "platform": "mooc_cn",
+  "title": "数据结构",
+  "description": "学了一门编程语言不知道能干啥？来学数据结构就对啦！学会编程相当于会砌猪圈的泥瓦匠，学完数据结构就会盖个双层小楼啦~ 同时还可以一窥构筑摩天大厦的奇门武功！欢迎勤奋的小白活泼乱入！十周修炼，得入门径，一代大侠，从此出发 —— 快来吧~ ^_^",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/93001",
+  "instructors": [
+    {
+      "name": "陈越;何钦铭",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1754214,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

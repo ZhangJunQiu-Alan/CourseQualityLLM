@@ -1,0 +1,31 @@
+{
+  "course_id": "1463103163",
+  "platform": "mooc_cn",
+  "title": "通信电路与系统",
+  "description": "本课程为通信工程大类和电子信息工程大类专业学科基础课程，也是上述专业学科大学一年级学生学习的一门具有较强专业课性质的课程。本课程在讲授电子电路对电信号的时域、频域分析、处理与设计方法的基础上，重点讲解电路模型、电路分析方法的基础知识和基本工具，分别讨论了基本放大电路、多级放大电路与集成运算放大器、负反馈放大电路、信号运算与处理电路、信号发生与变换电路、AC/DC电源电路等典型电子电路的基本原理及分析设计 方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463103163",
+  "instructors": [
+    {
+      "name": "杨远望",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2130,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

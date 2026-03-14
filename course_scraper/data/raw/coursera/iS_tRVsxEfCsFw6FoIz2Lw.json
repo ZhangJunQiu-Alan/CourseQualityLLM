@@ -1,0 +1,26 @@
+{
+  "course_id": "iS_tRVsxEfCsFw6FoIz2Lw",
+  "platform": "coursera",
+  "title": "Utiliser des notebooks dans Vertex AI",
+  "slug": "working-with-notebooks-in-vertex-ai-fr",
+  "description": "Ce cours est une introduction aux notebooks Vertex AI, des environnements basés sur des notebooks Jupyter qui proposent une plate-forme unifiée pour l'ensemble du workflow de machine learning, de la préparation des données jusqu'au déploiement et à la surveillance des modèles. Le cours aborde les sujets suivants : (1) Les différents types de notebooks Vertex AI et leurs fonctionnalités, et (2) comment en créer et les gérer.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/working-with-notebooks-in-vertex-ai-fr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

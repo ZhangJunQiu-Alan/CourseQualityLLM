@@ -1,0 +1,42 @@
+{
+  "course_id": "course-e002d162-5d2b-43c6-9605-1fac854c4d97",
+  "platform": "edx",
+  "title": "Basic Analytical Chemistry",
+  "description": "Analytical chemistry takes a prominent position among all fields of experimental sciences, ranging from fundamental studies of Nature to industrial or clinical applications.Analytical chemistry covers the fundamentals of experimental and analytical methods and the role of chemistry around us.  \n This course introduces the principles of analytical chemistry and provides how these principles are applied in chemistry and related disciplines - especially in life sciences, environmental sciences and geochemistry.  \n This course, regardless of your background, will teach you fundamental analytical concepts and their practical applications.  \n By the end of the course, you will deeply understand analytical methodologies in a systematic manner. Finally, this course will help you develop critical, independent reasoning that you can apply to new problems in chemistry and its related fields.  \n This course is for anyone interested in analytical sciences.",
+  "learning_goals": [
+    "Life Sciences",
+    "Analytical Techniques",
+    "Environmental Science",
+    "Chemistry",
+    "Geochemistry",
+    "Analytical Chemistry"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "takeaki-ozawa",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "liang-da-chiu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Tokyo"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 810,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "e5iwTv4QEe6s6A6gNZn4pQ",
+  "platform": "coursera",
+  "title": "Intro to Mistral AI",
+  "slug": "intro-to-mistral-ai",
+  "description": "This course teaches you how to interact with Mistral's AI models with JavaScript. This enables you to build intelligent apps, all the way from simple chat completions to advanced use-cases like RAG and function calling. \n\nThe code is written using Mistral's JavaScript SDK, but the concepts covered are language-agnostic, making this course just as relevant for Python developers as it is JavaScript developers.\n\nCreated in collaboration between Mistral AI and Scrimba.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/intro-to-mistral-ai",
+  "instructors": [
+    {
+      "name": "Per Harald Borgen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Scrimba"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1463218167",
+  "platform": "mooc_cn",
+  "title": "Linear Programming Modeling and CPLEX Solving",
+  "description": "If this course is helpful to your study or work through online learning, then we achieve our teaching goal.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463218167",
+  "instructors": [
+    {
+      "name": "Liujiang KANG",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Beijing Jiaotong University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3488,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

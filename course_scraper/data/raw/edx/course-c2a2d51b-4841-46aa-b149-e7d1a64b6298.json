@@ -1,0 +1,34 @@
+{
+  "course_id": "course-c2a2d51b-4841-46aa-b149-e7d1a64b6298",
+  "platform": "edx",
+  "title": "How to Code: Complex Data",
+  "description": "As your program requirements get more complex, you will find that simple additions to the design method make it easy to write well-structured and well-tested code that is easy to maintain. \n By learning how to capture common data and control structures using abstraction, your programs will get shorter and better tested. \n Building on the core methods from  How to Code: Simple Data , this programming course, part of the  Software Development MicroMasters program , quickly expands to cover more complex programs on more complex data. Towards the end of the course, you will design programs that even experienced developers would find challenging. \n You will also learn how to design search programs. You will design a program to solve Sudoku puzzles, and will be able to design many other puzzle solvers as well. \n Learners who enroll in the Verified track will receive staff grading for the course project and increased interaction with the instructor and staff. \n \n  Learner Testimonial  \n  \"It's a great course and maybe one of the most important topics to master if you're a programmer (any level). This course will teach you how to design better, cleaner and faster programs.\"   \n- Previous Student",
+  "learning_goals": [
+    "Data Structures",
+    "Control Structures",
+    "Software Development"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "gregor-kiczales",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of British Columbia"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 363,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

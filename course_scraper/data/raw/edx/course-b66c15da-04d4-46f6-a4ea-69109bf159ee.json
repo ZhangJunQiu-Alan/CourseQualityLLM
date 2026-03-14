@@ -1,0 +1,44 @@
+{
+  "course_id": "course-b66c15da-04d4-46f6-a4ea-69109bf159ee",
+  "platform": "edx",
+  "title": "Fundamentals of TinyML",
+  "description": "What do you know about TinyML? Tiny Machine Learning (TinyML) is one of the fastest-growing areas of Deep Learning and is rapidly becoming more accessible. This course provides a foundation for you to understand this emerging field. \n TinyML is at the intersection of embedded Machine Learning (ML) applications, algorithms, hardware, and software. TinyML differs from mainstream machine learning (e.g., server and cloud) in that it requires not only software expertise, but also embedded-hardware expertise. \n The first course in the TinyML Certificate series, Fundamentals of TinyML will focus on the basics of machine learning, deep learning, and embedded devices and systems, such as smartphones and other tiny devices. Throughout the course, you will learn data science techniques for collecting data and develop an understanding of learning algorithms to train basic machine learning models. At the end of this course, you will be able to understand the “language” behind TinyML and be ready to dive into the application of TinyML in future courses. \n Following Fundamentals of TinyML, the other courses in the TinyML Professional Certificate program will allow you to see the code behind widely-used Tiny ML applications—such as tiny devices and smartphones—and deploy code to your own physical TinyML device. Fundamentals of TinyML provides an introduction to TinyML and is not a prerequisite for Applications of TinyML or Deploying TinyML for those with sufficient machine learning and embedded systems experience.",
+  "learning_goals": [
+    "Machine Learning Algorithms",
+    "Deep Learning",
+    "Machine Learning",
+    "Embedded Systems",
+    "Algorithms",
+    "Smartphone Operation",
+    "Data Science",
+    "Data Collection"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "vijay-janapa-reddi",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "laurence-moroney",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7348,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

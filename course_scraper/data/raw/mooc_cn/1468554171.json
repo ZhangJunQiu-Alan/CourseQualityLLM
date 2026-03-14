@@ -1,0 +1,31 @@
+{
+  "course_id": "1468554171",
+  "platform": "mooc_cn",
+  "title": "网络技术基础",
+  "description": "《网络技术基础》是物联网应用技术专业的专业基础课程，是面向物联网系统运维和应用系统开发岗位，培养正确识别网络结构、合理配置网络设备、正确部署网络服务、维护网络安全、排除网络故障的基本能力，以及爱国爱岗、精益求精、协同合作等职业素养，旨在为培养物联网系统设备安装调试、系统运行维护、系统应用开发、项目规划管理等第一线工作的高素质技术技能型、复合创新型和国际视野型的“三型”人才打下良好的专业基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468554171",
+  "instructors": [
+    {
+      "name": "陈骏;黄国平;梁斌;闫鸿滨;董新奕;廖忠智;吴素全;汪凌;林祝春",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南通职业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13898,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

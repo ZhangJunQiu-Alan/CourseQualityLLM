@@ -1,0 +1,26 @@
+{
+  "course_id": "g_d4RLzEEe-21A5KKJdafQ",
+  "platform": "coursera",
+  "title": "The Art of Doing Electronics for Everyone",
+  "slug": "packt-the-art-of-doing-electronics-for-everyone-hulwl",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nDive into the exciting world of electronics with The Art of Doing Electronics for Everyone. This comprehensive course offers hands-on learning to demystify electronic components, circuits, and applications. Whether you're a beginner or looking to sharpen your skills, you'll master practical techniques to create and troubleshoot electronic projects confidently.\n\nThe course begins with foundational concepts, introducing key components like resistors, LEDs, and multimeters. You'll progress through engaging challenges, building circuits to light LEDs, measure values, and control power. Later, you'll explore transistors, capacitors, and operational amplifiers, mastering both DC and AC applications to create dynamic and interactive systems.\n\nAdvanced sections focus on integrated circuits such as the LM358, 555 Timer, and CD4017. You'll learn their operations and real-world uses through step-by-step projects, including light shows, motion detectors, and sequencers. These build-together activities are designed to solidify your understanding and ignite creativity.\n\nThis course is ideal for hobbyists, students, and aspiring engineers interested in practical electronics. No prior experience is required, but a curiosity for technology and basic math skills will enhance your journey. By the end, you'll be equipped with the knowledge and confidence to tackle your own electronic innovations.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-the-art-of-doing-electronics-for-everyone-hulwl",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

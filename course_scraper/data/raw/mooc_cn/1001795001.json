@@ -1,0 +1,31 @@
+{
+  "course_id": "1001795001",
+  "platform": "mooc_cn",
+  "title": "计算机应用基础",
+  "description": "各位朋友：     在这春意盎然的季节里，安阳学院《计算机应用基础》MOOC开课了！     欢迎大家加入《计算机应用基础》课程学习。                                                                 安阳学院《计算机应用基础》课程组",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001795001",
+  "instructors": [
+    {
+      "name": "江华伟;王爱民;张金秋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "安阳学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 52472,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

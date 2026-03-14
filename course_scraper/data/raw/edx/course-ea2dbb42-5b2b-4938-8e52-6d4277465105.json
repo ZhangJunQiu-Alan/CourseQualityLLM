@@ -1,0 +1,40 @@
+{
+  "course_id": "course-ea2dbb42-5b2b-4938-8e52-6d4277465105",
+  "platform": "edx",
+  "title": "Strategy Foundations - A Broader View",
+  "description": "The Oxford Strategy Foundations course is designed to sharpen your ability to craft and adapt organisational strategy in an increasingly complex and fast-changing world. It moves beyond traditional, narrow approaches by encouraging broad, future-oriented thinking that help organisations thrive amid uncertainty and seize emerging opportunities. Set against the backdrop of global complexity and digital disruption, this course challenges conventional thinking. You'll examine how market forces, technological advancements, and social shifts impact each strategic dimension. By the end, you will be equipped with practical tools and a holistic perspective to craft resilient strategies that align with both internal objectives and external realities. \r\n This course offers a foundational overview, introducing key concepts and frameworks for those new to the subject. To learn about these topics in greater depth,  the full Oxford Executive Strategy Programme  builds on the foundational concepts in this course by exploring an innovative framework known as the Four Ps of strategy:  purposes, players, partnerships, and processes . You can explore each element in detail i.e., clarifying goals and mission (purposes), analysing stakeholders and competitors (players), evaluating collaborations and alliances (partnerships), and strengthening capabilities and operations (processes).",
+  "learning_goals": [
+    "Innovation",
+    "Operations",
+    "Resilience",
+    "Marketing Mix"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "richard-whittington",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "trudi-lang",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Oxford"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 328,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

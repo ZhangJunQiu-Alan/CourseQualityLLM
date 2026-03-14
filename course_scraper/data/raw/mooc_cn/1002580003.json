@@ -1,0 +1,31 @@
+{
+  "course_id": "1002580003",
+  "platform": "mooc_cn",
+  "title": "地球概论",
+  "description": "《地球概论》是关于地球的宇宙环境以及行星地球的整体性知识的课程，属于地理与天文交叉的学科。本课程强调理论与实践相结合，尤其结合现代信息技术，模拟星空，虚拟有趣的天象，了解地球的过去、现在和将来，相信大家通过学习本课程，会从中获益，会更爱人类的家园——地球。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002580003",
+  "instructors": [
+    {
+      "name": "余明;张林海",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35164,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "course_id": "course-7868fb19-176b-4d98-b1a0-4d1e2029fdb8",
+  "platform": "edx",
+  "title": "Software Engineering: Introduction",
+  "description": "This course introduces how teams design, build, and test multi-version software systems. \n \n\nYou will learn software engineering principles that are applicable to the breadth of large-scale software systems. The course explores topics such as agile development, REST and Async programming, software specification, design, refactoring, information security, and more. \n \n\nBy the end of this course, learners will work in teams, applying an agile software development process to specify, design, and test multiple versions of complex software systems.",
+  "learning_goals": [
+    "Programming Tools",
+    "Software Systems",
+    "Software Engineering",
+    "Full Stack Development",
+    "Agile Methodology",
+    "Agile Software Development",
+    "Software Development"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "8 周，每周 8-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "reid-holmes",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of British Columbia"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1263,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

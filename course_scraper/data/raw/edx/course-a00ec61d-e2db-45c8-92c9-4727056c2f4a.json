@@ -1,0 +1,37 @@
+{
+  "course_id": "course-a00ec61d-e2db-45c8-92c9-4727056c2f4a",
+  "platform": "edx",
+  "title": "The Foundations of Happiness at Work",
+  "description": "This course explains what happiness at work looks like, why it matters, and how to cultivate it. \n It begins by defining happiness and making the case that happiness at work improves the performance of individual employees and organizations as a whole, increasing innovation, productivity, engagement, retention, and the quality of their work. It then explores the key factors that empirical research has linked to workplace happiness, zeroing in on practices such as gratitude, developing a strong sense of purpose, and forming authentic, cooperative connections with others. The course will also highlight common barriers to workplace happiness, both at the individual and cultural level. \n Finally, the course presents a practical framework for workplace happiness and explores accessible techniques for: a) evaluating happiness in an organization, b) creating an effective strategy to increase workplace happiness, and c) implementing that strategy in your own work life, within your team, or across the culture of your organization, with special tips for workplace leaders. \n The course instructors are expert faculty from UC Berkeley’s Greater Good Science Center, Dacher Keltner, Ph.D., and Emiliana Simon-Thomas, Ph.D., whose earlier edX course, The Science of Happiness, has been a global phenomenon, introducing a half million students worldwide to the research-based keys to a happy, meaningful life. In this course, they tailor their scientific insights to the needs of the modern workplace.",
+  "learning_goals": [
+    "Innovation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dacher-keltner",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "emiliana-simon-thomas",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of California, Berkeley"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1169,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

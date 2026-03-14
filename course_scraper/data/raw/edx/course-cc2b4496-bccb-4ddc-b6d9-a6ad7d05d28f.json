@@ -1,0 +1,41 @@
+{
+  "course_id": "course-cc2b4496-bccb-4ddc-b6d9-a6ad7d05d28f",
+  "platform": "edx",
+  "title": "Beginners Guide to Cybersecurity",
+  "description": "Looking to develop foundational cybersecurity skills that are essential for a rewarding career in IT? This beginner-level course is designed to introduce you to the key concepts, tools, and best practices cybersecurity and IT professionals use to safeguard systems and data.  \n You’ll start by learning to identify common cyber threats, including data theft, tampering, phishing, and malware, and understand how these attacks typically unfold. You’ll also look at critical security measures, such as physical, environmental, and access controls, that help protect devices and facilities. Plus, you’ll strengthen your digital hygiene by learning how to create strong passwords, use password managers, apply multi-factor authentication, and avoid risks like password reuse, sharing, and default credentials.  \n In addition, you'll get hands-on practice with techniques like device hardening, using encryption tools, safe browsing practices, and configuring web browsers to minimize vulnerabilities. You'll also learn how to manage and safeguard sensitive information to prevent identity theft and privacy breaches.  \n With hands-on labs and a final project to reinforce your skills, this course offers practical experience to help you confidently apply cybersecurity principles.  \n Enroll now and take your first step toward a career in IT with cybersecurity skills that employers expect you to have.",
+  "learning_goals": [
+    "Multi-Factor Authentication",
+    "Cyber Threat Intelligence",
+    "Web Browsers",
+    "Phishing",
+    "Hardening",
+    "Access Controls",
+    "Vulnerability",
+    "Cyber Security",
+    "Technical Support",
+    "Encryption"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "skills-network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3249,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

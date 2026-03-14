@@ -1,0 +1,26 @@
+{
+  "course_id": "-L5v_ph5EfCF1g5ZKbYnew",
+  "platform": "coursera",
+  "title": "生成式 AI 應用程式: 徹底改變工作方式",
+  "slug": "gen-ai-apps-transform-your-work-zhtw",
+  "description": "「生成式 AI 應用程式：徹底改變工作方式」是 Generative AI Leader 學習路徑的第四門課程。本課程將介紹 Google 的生成式 AI 應用程式,例如 Gemini for Workspace 和NotebookLM,也會引導您瞭解各種概念,像是建立基準、檢索增強生成、建構有效的提示詞,以及打造自動化工作流程等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "zh-TW",
+  "url": "https://www.coursera.org/learn/gen-ai-apps-transform-your-work-zhtw",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

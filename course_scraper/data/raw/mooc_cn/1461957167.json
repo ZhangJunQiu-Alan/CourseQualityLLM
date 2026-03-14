@@ -1,0 +1,31 @@
+{
+  "course_id": "1461957167",
+  "platform": "mooc_cn",
+  "title": "FPGA技术应用",
+  "description": "随着半导体技术的发展，FPGA作为典型的可编程逻辑器件，由于具有高集成度、灵活性和更强的逻辑功能，在通信、人工智能、机器学习等方面应用十分广泛。本课程使学习者了解FPGA器件的结构原理，掌握FPGA器件的应用开发方法，初步具备FPGA应用开发能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461957167",
+  "instructors": [
+    {
+      "name": "张智慧;张玲;杨欣;国佳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7268,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

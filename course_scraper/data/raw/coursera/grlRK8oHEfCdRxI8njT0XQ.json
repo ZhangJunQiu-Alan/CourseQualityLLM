@@ -1,0 +1,26 @@
+{
+  "course_id": "grlRK8oHEfCdRxI8njT0XQ",
+  "platform": "coursera",
+  "title": "Capstone Projects & Advanced Challenges",
+  "slug": "packt-capstone-projects-and-advanced-challenges-anj2w",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nDesigned for developers seeking to enhance their skills in iOS app development, this course takes you through building advanced, real-world apps from scratch. You will work on a series of capstone projects, learning how to create apps that feature interactive user interfaces, multimedia integration, custom fonts, dynamic data handling, and more. As you progress, you will develop expertise in Swift, learn essential best practices, and dive into crucial techniques such as state persistence, API integration, and UI responsiveness.\n\nThe course is structured into detailed modules that guide you through hands-on development of multiple projects, including a puzzle game, quote generator, meditation app, finance app, and task manager. Each project challenges you to apply new skills while refining the ones you’ve already acquired. With real-time feedback from the Coursera Coach, you will be able to test your knowledge and iterate on your projects effectively.\n\nBy the end of the course, you will be well-versed in iOS app development with the ability to build functional, polished apps. You’ll be able to implement advanced features like animated UI elements, complex data structures, and external APIs. This course is perfect for intermediate developers who want to further their knowledge and tackle larger, more sophisticated projects.\n\nBy the end of the course, you will be able to design, build, and deploy advanced iOS applications, including creating custom UIs, integrating APIs, handling data persistence, and implementing multimedia features such as sound effects and animations.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-capstone-projects-and-advanced-challenges-anj2w",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

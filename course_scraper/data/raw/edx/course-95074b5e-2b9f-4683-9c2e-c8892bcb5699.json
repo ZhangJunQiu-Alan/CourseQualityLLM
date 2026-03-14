@@ -1,0 +1,28 @@
+{
+  "course_id": "course-95074b5e-2b9f-4683-9c2e-c8892bcb5699",
+  "platform": "edx",
+  "title": "Finance Fundamentals: Classical and Behavioural Finance",
+  "description": "The Finance Fundamentals: Classical and Behavioural Finance Open Course from Saïd Business School, University of Oxford offers an overview of the key principles behind successful algorithmic trading, hedge funds, financial theory, and behavioural finance. You’ll learn about both classic and behavioural finance theories and how to apply these models in practice. The course introduces the four principles developed by Professor Nir Vulkan, which serve as a framework for building and evaluating algorithmic trading models. Additionally, you’ll explore market biases and how these behavioural patterns can be leveraged. During the course, you’ll gain hands-on experience interpreting financial charts and identifying market trends. \r\n This course offers a foundational overview, introducing key concepts and frameworks for those new to the subject. To explore the topic in greater depth, you may wish to continue with  the full Oxford Algorithmic Trading Programme.",
+  "learning_goals": [
+    "Finance",
+    "Vulkan Graphics API",
+    "Hedge Funds"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "University of Oxford"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 533,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "45004",
+  "platform": "mooc_cn",
+  "title": "普通化学",
+  "description": "普通化学是化学学科的导论。本课程立足于新工科，简明扼要地介绍了化学基本原理，化学与生命、环境、能源、材料、医药等学科交叉领域的基本知识及化学前沿领域的若干进展。通过本课程的学习，你可以领略化学学科之美，并在未来的专业领域中，与化学学科碰撞出思想的火花！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/45004",
+  "instructors": [
+    {
+      "name": "陈云;温鸣;王丽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 34973,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

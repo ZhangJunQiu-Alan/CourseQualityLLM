@@ -1,0 +1,31 @@
+{
+  "course_id": "1449587161",
+  "platform": "mooc_cn",
+  "title": "生物化学",
+  "description": "生物化学是研究生命现象化学本质的学科。通过对生物分子的结构与功能、物质代谢与能量代谢、遗传信息传递/表达/调控研究，阐述生命现象的基本分子运作逻辑。生物化学既是各门生物学科的基础，又是一门引领性学科。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449587161",
+  "instructors": [
+    {
+      "name": "单志;布同良;唐自钟;张晓凌;赵海霞;姚慧鹏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48145,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

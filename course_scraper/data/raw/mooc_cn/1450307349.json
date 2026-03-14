@@ -1,0 +1,31 @@
+{
+  "course_id": "1450307349",
+  "platform": "mooc_cn",
+  "title": "电磁学",
+  "description": "君问尘寰最有常，指南向北映极光。虽知物理一门好，须赴书庸阅短长。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450307349",
+  "instructors": [
+    {
+      "name": "吴小山",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8539,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

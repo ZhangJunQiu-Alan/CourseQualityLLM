@@ -1,0 +1,31 @@
+{
+  "course_id": "gYdcXZSiEfC8Mw47UNSH0w",
+  "platform": "coursera",
+  "title": "Google BigQuery for Data and ML Engineers",
+  "slug": "pearson-google-bigquery-for-data-and-ml-engineers-video-course-rbgah",
+  "description": "Learn how to use Google BigQuery to enhance your data engineering and machine learning skills in this practical, instructor-led course. Taught by experienced cloud architect and author Dan Sullivan, you’ll work with BigQuery’s serverless architecture, advanced SQL, and data warehousing features to efficiently manage and analyze large datasets.\n\nThis course is suitable for both beginners and those with experience. You’ll get hands-on practice with data ingestion, transformation, and building reliable data pipelines. The curriculum covers how to create, evaluate, and deploy machine learning models within BigQuery, as well as recent generative AI applications.\n\nThrough real-world projects and clear instruction, you’ll build the skills needed to use BigQuery in your day-to-day work. Whether you’re new to the field or looking to expand your knowledge, this course offers practical tools and techniques for data engineering and machine learning.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "Less than 1 week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-google-bigquery-for-data-and-ml-engineers-video-course-rbgah",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Dan Sullivan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

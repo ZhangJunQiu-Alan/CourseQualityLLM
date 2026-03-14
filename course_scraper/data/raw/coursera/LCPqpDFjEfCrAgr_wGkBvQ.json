@@ -1,0 +1,26 @@
+{
+  "course_id": "LCPqpDFjEfCrAgr_wGkBvQ",
+  "platform": "coursera",
+  "title": "Data Analytics Course with Generative AI",
+  "slug": "data-analytics-course-with-generative-ai",
+  "description": "This comprehensive Generative AI in Data Analytics course equips you with the skills to optimize data workflows, automate analysis, and generate actionable insights using AI. Begin by mastering the four types of analytics, descriptive, diagnostic, predictive, and prescriptive, and explore how GenAI enhances each stage. Learn to automate ETL processes, generate synthetic data with tools like ChatGPT-4 and MOSTLY AI, and perform EDA using Julius AI and Tableau Pulse. Progress to building predictive models, forecasting trends, and conducting risk analysis through real-world simulations. Understand performance metrics, address integration challenges, and apply GenAI in practical business scenarios.\n\nYou should have a basic understanding of data analysis, statistics, and familiarity with tools like Excel, SQL, or BI platforms.\n\nBy the end of this course, you will be able to:\n\n- Automate Data: Streamline ETL and generate synthetic data using GenAI\n- Analyze Insights: Perform EDA and visualize data with AI-powered tools\n- Predict Outcomes: Build models and simulate risk for better decisions\n- Apply GenAI: Use GenAI across real-world analytics with measurable impact\n\nIdeal for analysts, data professionals, and business leaders advancing data strategy with AI.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-analytics-course-with-generative-ai",
+  "instructors": [
+    {
+      "name": "Priyanka Mehta",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Simplilearn"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

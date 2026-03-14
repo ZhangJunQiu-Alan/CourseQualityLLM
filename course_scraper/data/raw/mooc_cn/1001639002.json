@@ -1,0 +1,31 @@
+{
+  "course_id": "1001639002",
+  "platform": "mooc_cn",
+  "title": "高等数学（一）",
+  "description": "本课程介绍一元函数微积分的基本知识，帮助学生掌握一元函数微积分的基本概念、基本方法和应用，为后续课程的学习奠定基础。高等数学不仅为研究近代物理、力学、经济学、工程技术等问题提供了重要的方法和手段，同时也是进一步学习现代数学以及其它自然科学的基础，是现代科学的入门课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001639002",
+  "instructors": [
+    {
+      "name": "孔庆海;沈海龙;宋叔尼;韩志涛;钱金花;刘静宜;杨中兵;韩海燕;孙艳蕊;袁媛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 227857,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

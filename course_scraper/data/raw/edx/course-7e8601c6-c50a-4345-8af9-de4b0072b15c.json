@@ -1,0 +1,41 @@
+{
+  "course_id": "course-7e8601c6-c50a-4345-8af9-de4b0072b15c",
+  "platform": "edx",
+  "title": "Semantics of First-Order Logic",
+  "description": "The focus of this class is on the  language of first-order logic  , a formally defined language that allows us to make precise and unambiguous statements about any subject of interest. \n Using the language of first-order logic we will investigate many foundational topics in logic. We will address such questions as what counts as a grammatical expression, and the circumstances under which it makes a claim about the world (whether it can be considered true or false, E.g. “the sky is brown”, as compared to “oh, my goodness!”). \n For expressions that do make claims — we call these  sentences  — we can further examine whether they are true or false in particular situations. “Aristotle is alive” is a sentence that was once true, but became false around 2000 years ago, and has remained false ever since. \n These questions fall into the study of  semantics  , or meaning. \n Once we understand how sentences can be considered true or false, we can investigate important related questions. Some sentences are always true, that is true in every situation — we call such sentences  logical truths . Sentences bear relationships with one another. For example, two sentences might be true in exactly the same situations - they are  logically equivalent.  We will demonstrate methods for determining when these properties and relationships hold as natural extensions to the semantic theory for first-order logic. \n Finally, we will explore the limits of first-order logic. There are some sentences of English that are not expressible in the language, and it is important to know that this is the case, and to understand why it is so. This observation has led logicians to develop yet more powerful languages with more complex semantics. Almost all of these languages are based on the language of first-order logic and knowledge of first-order logic is fundamental to understanding them. So first-order logic is a basic building block for the study of these language and is a great place to begin the journey into the field of logic.",
+  "learning_goals": [
+    "Semantics",
+    "Basic Math",
+    "Artificial Intelligence",
+    "Linguistics",
+    "Computer Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "john-etchemendy",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dave-barker-plummer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 418,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

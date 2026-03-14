@@ -1,0 +1,31 @@
+{
+  "course_id": "jj3z2nbdEfCUqgr_z0SQKQ",
+  "platform": "coursera",
+  "title": "Certified Kubernetes Administrator (CKA): Unit 1",
+  "slug": "pearson-certified-kubernetes-administrator-cka-4th-edition-video-course-1-u78f0",
+  "description": "This course teaches you the core skills for building, managing, and securing Kubernetes clusters. You’ll start by learning how Kubernetes works and how its components fit together. Using kubeadm, you’ll set up clusters, handle everyday management tasks, and maintain nodes for reliable performance. Through hands-on labs, you’ll practice real-world tasks like managing containers with CricTL and backing up or restoring etcd. You’ll also learn how to secure clusters by configuring API access, setting security contexts, and using RBAC for users and service accounts. By the end, you’ll have the practical knowledge to deploy and maintain secure, highly available Kubernetes clusters.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 hours 36 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-certified-kubernetes-administrator-cka-4th-edition-video-course-1-u78f0",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Sander van Vugt",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

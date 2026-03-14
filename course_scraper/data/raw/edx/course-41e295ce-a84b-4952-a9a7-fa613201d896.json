@@ -1,0 +1,29 @@
+{
+  "course_id": "course-41e295ce-a84b-4952-a9a7-fa613201d896",
+  "platform": "edx",
+  "title": "Pre-University Calculus",
+  "description": "Mathematics is the language of Science, Engineering and Technology. Calculus is an elementary mathematical course in any Science and Engineering Bachelor. Pre-university Calculus will prepare you for the Introductory Calculus courses by reviewing five important mathematical subjects that are assumed to be mastered by beginning Bachelor students: functions, equations, differentiation, integration and analytic geometry. After this course you will be well prepared to start your university calculus course. You will learn to understand the necessary definitions and mathematical concepts needed and you will be trained to apply those and solve mathematical problems. You will feel confident in using basic mathematical techniques for your first calculus course at university-level, building on high-school level mathematics. We aim to teach you the skills, but also to show you how mathematics will be used in different engineering and science disciplines. \n  Education method  \n This is a self-paced course consisting of 7 modules (or weeks) and 1 final exam. The modules consist of a collection of 3-5 minute lecture videos, inspirational videos on the use of mathematics in Science, Engineering and Technology, (interactive) exercises and homework. \n The videos, practice exercises and homework are available free of charge in the audit track. In the ID-verified track, necessary if you pursue a certificate, you can additionally access the final exam. \n This course has been awarded with the 2016 Open Education Award for Excellence in the category 'Open MOOC' by the Open Education Consortium.",
+  "learning_goals": [
+    "Basic Math",
+    "Calculus",
+    "Analytic Geometry",
+    "Integration"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6075,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

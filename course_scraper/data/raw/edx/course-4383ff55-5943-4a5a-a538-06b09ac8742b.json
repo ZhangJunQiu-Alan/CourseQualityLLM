@@ -1,0 +1,33 @@
+{
+  "course_id": "course-4383ff55-5943-4a5a-a538-06b09ac8742b",
+  "platform": "edx",
+  "title": "Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics",
+  "description": "This course provides an introduction to the Java programming language. It gives students a foundational overview and history of Java, and students will learn about the language’s basic syntax. At the end, they will be able to develop interactive console programs with basic data processing and formatting capabilities.",
+  "learning_goals": [
+    "Java (Programming Language)",
+    "Object-Oriented Programming (OOP)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "olufisayo-omojokun",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1154,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

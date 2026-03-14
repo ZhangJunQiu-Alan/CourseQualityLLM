@@ -1,0 +1,31 @@
+{
+  "course_id": "1460185162",
+  "platform": "mooc_cn",
+  "title": "统计学",
+  "description": "人类社会已经进入大数据和人工智能时代，统计方法与技术是现代人处理数据的重要工具。统计学是系统介绍统计思想与方法的一门现代学科，是重要的方法论。随着统计与计算机的发展，使得处理海量数据并从中发现问题与规律成为可能。但是，要想真正成为一名统计专业人士，必须系统学习和掌握现代统计的思想、方法与技术。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460185162",
+  "instructors": [
+    {
+      "name": "刘后平;王丽英;于文华;唐颖;伍艺;杨珂嘉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "成都理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29488,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

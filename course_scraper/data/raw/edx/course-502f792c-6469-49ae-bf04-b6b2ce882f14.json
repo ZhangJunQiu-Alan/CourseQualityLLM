@@ -1,0 +1,35 @@
+{
+  "course_id": "course-502f792c-6469-49ae-bf04-b6b2ce882f14",
+  "platform": "edx",
+  "title": "College Algebra",
+  "description": "This College Algebra course will cover fundamental concepts of algebra required to interpret a variety of functions and equations. Topics within this course include: linear, quadratic, polynomial, rational, exponential, inverse functions and their graphs, linear inequalities, and linear systems of equations. Students who successfully complete this course will demonstrate increased ability in problem-solving and logical thinking.",
+  "learning_goals": [
+    "Problem Solving",
+    "Linear Systems",
+    "Auditing",
+    "Algebra"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 8-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "debora-sepich",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Doane University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 537,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

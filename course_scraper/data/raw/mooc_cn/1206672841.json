@@ -1,0 +1,31 @@
+{
+  "course_id": "1206672841",
+  "platform": "mooc_cn",
+  "title": "自动控制原理（I）",
+  "description": "主要讲授经典控制理论的基本概念和方法，即：系统的数学模型、时域分析法、根轨迹法、频率域方法及控制系统的校正。通过学习本课程，使学生能比较全面、系统地掌握经典控制理论的基础知识，在系统建模、分析及设计能力等方面得到初步训练。内容主要参考程鹏主编的《自动控制原理》（第二版1-6章）。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206672841",
+  "instructors": [
+    {
+      "name": "左宗玉;王薇;王艳东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14597,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

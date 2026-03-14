@@ -1,0 +1,31 @@
+{
+  "course_id": "1449783176",
+  "platform": "mooc_cn",
+  "title": "汽轮机原理",
+  "description": "本课程由西安交通大学叶轮机械研究所《汽轮机原理》教学团队制作，面向能源动力专业，系统地介绍汽轮机等典型热力涡轮机通流性能分析原理、通流设计方法和变工况性能分析方法。通过本课程的学习，为从事电厂热能、航天航空、交通运输等相关工程领域工作的研究人员和工程技术人员奠定理论基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449783176",
+  "instructors": [
+    {
+      "name": "宋立明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7323,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

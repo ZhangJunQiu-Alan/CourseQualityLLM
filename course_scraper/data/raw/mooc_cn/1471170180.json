@@ -1,0 +1,31 @@
+{
+  "course_id": "1471170180",
+  "platform": "mooc_cn",
+  "title": "新闻评论",
+  "description": "作为新闻学专业的核心基础课程，本课程致力于培养具有新闻敏感度、批判性思维能力和专业写作素养的新闻人才。通过系统化的课程学习，学生将深入理解新闻评论的理论基础、发展脉络、创作方法与实际应用，全面掌握新闻评论的专业创作技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471170180",
+  "instructors": [
+    {
+      "name": "林昱君",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1323,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

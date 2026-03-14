@@ -1,0 +1,31 @@
+{
+  "course_id": "1461813181",
+  "platform": "mooc_cn",
+  "title": "初级财务会计（英）",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461813181",
+  "instructors": [
+    {
+      "name": "王赟森;刘悦;彭璇;赵尘",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6021,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

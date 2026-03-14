@@ -1,0 +1,38 @@
+{
+  "course_id": "course-fec44d1b-55db-461b-8731-35fcbf369dbe",
+  "platform": "edx",
+  "title": "Introduction to Cognitive Psychology and Neuropsychology",
+  "description": "Psychology is the study of how we feel, see, hear, speak, learn and narrate our story in the world. Cognitive psychologists primarily focus on how our mind works and how it develops from the moment we are born and through childhood to reach its full capability. This course is intended for anyone with an interest in Psychology, it does not require any previous expertise or knowledge of the subject. \n Learners will explore the key ideas, models and findings of the main cognitive functions, including memory, language, attention and perception. \n The course will also provide insights into the core research methods used to study the mind, brain and behaviour (from behavioural experiments to the study of patients with brain damage, and the use of neuroimaging techniques). In doing so, learners will understand the main methods and materials used to explore human feelings, sensations and thinking as well as the way humans learn and interact with their own selves and others. \n This course will give learners an understanding of the historical development of modern Psychology, and a familiarity with what we now know about our own mind-body system through an exciting journey inside our mind and how it evolves throughout our lives with the help of brain plasticity.",
+  "learning_goals": [
+    "Neuroimaging",
+    "Neurotrauma",
+    "Neuropsychology",
+    "Research Methodologies",
+    "Cognitive Processing",
+    "Cognitive Psychology",
+    "Psychology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "giulia-mangiaracina",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Cambridge"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5025,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

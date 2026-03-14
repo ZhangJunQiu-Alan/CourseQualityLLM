@@ -1,0 +1,31 @@
+{
+  "course_id": "1207425812",
+  "platform": "mooc_cn",
+  "title": "柔力球",
+  "description": "全新改版的全网首例《柔力球》慕课课程（第13轮课），在团队全体成员的努力下， 于2025年秋季首次开启智慧课堂教学，利用知识图谱工具，采用交互教学设计理念，融理论与实践为一体，强调柔力球基本理论的传授与专项技术的学习。通过优秀师资团队的示范和讲解，为各高校《柔力球》教学课堂学生，以及各界社会学员提供详细运动指导，为相关大中小学体育工作者提供丰富的一手资源与有效的教学路径。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207425812",
+  "instructors": [
+    {
+      "name": "李恩荆",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13856,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

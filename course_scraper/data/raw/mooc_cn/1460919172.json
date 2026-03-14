@@ -1,0 +1,31 @@
+{
+  "course_id": "1460919172",
+  "platform": "mooc_cn",
+  "title": "逻辑学",
+  "description": "逻辑学是关于推理和论证的科学，它的主要任务是系统地研究正确推理的形式及其规律，为判定推理形式是否正确提供判定方法或检验程序，为有效推理提供推导规则或推导方法，并教会人们识别、揭露和反驳错误的推理和论证。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460919172",
+  "instructors": [
+    {
+      "name": "刘飞;杨宏秀",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京警察学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 31163,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

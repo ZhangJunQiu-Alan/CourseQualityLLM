@@ -1,0 +1,26 @@
+{
+  "course_id": "Zu4U6Dh2Ee-hvAr_8yolJQ",
+  "platform": "coursera",
+  "title": "Responsible AI for Developers: Fairness & Bias - Português",
+  "slug": "responsible-ai-for-developers-fairness-ptbr",
+  "description": "Neste curso, apresentamos conceitos de IA responsável e princípios de IA. Ele contém técnicas para identificar e reduzir o viés e aplicar a imparcialidade nas práticas de ML/IA. Vamos abordar ferramentas e métodos práticos para implementar as práticas recomendadas de IA responsável usando produtos do Google Cloud e ferramentas de código aberto.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "pt-BR",
+  "url": "https://www.coursera.org/learn/responsible-ai-for-developers-fairness-ptbr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

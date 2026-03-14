@@ -1,0 +1,26 @@
+{
+  "course_id": "FHum4pxxEe-VIA7_-DCoZw",
+  "platform": "coursera",
+  "title": "Routines in SQL: Stored procedures in SQL Server",
+  "slug": "routines-in-sql-stored-procedures-in-sql-server",
+  "description": "Have you thought about creating a query that can be called several times to perform a routine task? Stored procedures offer this with a great advantage of efficiency. \n\nThis project-based course, \"Routines in SQL: Working with stored procedures in MS SQL Server\" is intended for intermediate SQL users with some related experiences with SQL and who are willing to advance their knowledge and gain practical experience in MS SQL Server.\n\nIn this 2-hour project-based course, you will learn how to create stored procedures for different tasks including stored procedures with one input parameter, multiple input parameters, and an output parameter(s). This course is structured in a systematic way and very practical, where you get an option to practice as you progress. \n\nThis project is unique because it gives you hands-on experience with SQL stored procedures in a business context in which we need to create stored procedures to support the analytics and marketing teams.  This project-based course is an intermediate-level course in SQL; therefore, to get the most out of this project, it is essential to understand how to use SQL. Specifically, you should be able to write SQL JOIN statements and work with aggregate functions. If you are comfortable with these SQL concepts, please join me on this wonderful ride! Let’s get our hands dirty!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/routines-in-sql-stored-procedures-in-sql-server",
+  "instructors": [
+    {
+      "name": "Arimoro Olayinka Imisioluwa",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

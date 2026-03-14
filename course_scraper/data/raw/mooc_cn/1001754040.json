@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754040",
+  "platform": "mooc_cn",
+  "title": "材料力学",
+  "description": "材料力学是高等工科学校的一门技术基础课。通过对杆件强度、刚度与稳定性等知识的系统学习，构筑工程技术的知识基础，培养分析和解决问题的能力。以理论分析为基础，同时注重试验动手能力培养。江苏海洋大学材料力学教学在确保基础性的同时，也努力反映时代性与前沿性，并兼顾机械专业特色。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754040",
+  "instructors": [
+    {
+      "name": "李跃宇;葛藤;张会霞;杨婷连;戴红娟;王振华;王元文;刘军;阎海鹏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏海洋大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11229,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

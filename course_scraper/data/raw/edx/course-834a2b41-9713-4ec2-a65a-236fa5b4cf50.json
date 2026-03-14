@@ -1,0 +1,54 @@
+{
+  "course_id": "course-834a2b41-9713-4ec2-a65a-236fa5b4cf50",
+  "platform": "edx",
+  "title": "MathTrackX: Polynomials, Functions and Graphs",
+  "description": "This course is part one of the MathTrackX XSeries Program which has been designed to provide you with a solid foundation in mathematical fundamentals and how they can be applied in the real world. \n  What will you learn?  \n This course will lay down the foundations of basic mathematical vocabulary and play a role in communicating key concepts throughout the MathTrackX Program.  \n A central concept underpinning this course is the mathematical concept of linear functions and graphs. Functions occur throughout mathematics and an understanding of them is essential. \n Guided by experts from Adelaide University, this course will introduce functions, the algebra of numbers and polynomials and sets of numbers and intervals of the real number line. \n Join us as we provide opportunities to develop your skills and confidence in these mathematical functions. \n  Who should study this polynomial functions and graphs course?  \n This course is for students studying the MathTrackX XSeries Program, which has been designed to provide you with a solid foundation in mathematical fundamentals and how they can be applied in the real world.",
+  "learning_goals": [
+    "Basic Math",
+    "Linear Function",
+    "Algebra"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-butler",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "nicholas-crouch",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-daniel-stevenson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "melanie-humphries",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-brendan-harding",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Adelaide University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 327,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

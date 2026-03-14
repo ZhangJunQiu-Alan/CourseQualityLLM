@@ -1,0 +1,31 @@
+{
+  "course_id": "1461314167",
+  "platform": "mooc_cn",
+  "title": "Medical Immunology",
+  "description": "Medical Immunology is an independent medical basic course for bioscience particularly for medical students, major in clinical medicine, ophthalmology, pediatrics, obstetrics and gynecology, medical imaging, anesthesiology or preventive medicine.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461314167",
+  "instructors": [
+    {
+      "name": "Haiyan DONG;朱珊丽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Wenzhou Medical University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 648,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

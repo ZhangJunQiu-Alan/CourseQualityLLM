@@ -1,0 +1,31 @@
+{
+  "course_id": "qnjhdI7-Ee6xzArT8MnIvQ",
+  "platform": "coursera",
+  "title": "JavaScript Full Stack Capstone Project",
+  "slug": "javascript-full-stack-capstone-project",
+  "description": "Show your mastery of JavaScript full-stack application development by completing this capstone project! In this course, you will apply your knowledge and skills to a real-life inspired challenge and use your expertise to develop a successful solution.  \n\nThe project provides you with an opportunity to solidify your JavaScript full-stack proficiency. As you design a dynamic user experience using React, you will develop frontend pages, build services for communication with a NoSQL Mongo database, and configure CI/CD pipelines, all while applying Agile practices.  \n\nIn this capstone, you apply knowledge of in-demand skills such as:   \n\n- Architecting an application  \n\n- Creating a dynamic frontend using HTML, CSS, and the React JavaScript library \n\n- Communicating with backend services such as databases  \n\n- Use DevOps practices such as CI/CD pipelines   \n\n- Deploying a serverless application \n\n- Creating and invoking RESTful microservices  \n\n- Deploying the entire solution on the cloud using Kubernetes  \n\nWhen you complete this project, you will have a working full-stack application that will impress potential employers.  \n\nBefore starting this course, we highly recommend you complete all the courses offered in the IBM JavaScript Full Stack Software Developer Professional Certificate.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "6 weeks, 2-3 hours per week ",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/javascript-full-stack-capstone-project",
+  "instructors": [
+    {
+      "name": "Upkar Lidder",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Lavanya Thiruvali Sunderarajan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

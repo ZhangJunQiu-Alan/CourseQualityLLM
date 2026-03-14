@@ -1,0 +1,31 @@
+{
+  "course_id": "1002331009",
+  "platform": "mooc_cn",
+  "title": "会计学原理",
+  "description": "江西财经大学程淑珍教授领衔的《会计学原理》课程拥有一流教学团队，本课程为国家级线上一流课程、省混合式一流课程、省精品课程、省精品资源共享课程、省级慕课、省育人共享课程，省校际学分认定课程，校课程思政课程；会计既是一门技术，可以提供会计信息，又是商业语言，方便人们读懂、比较、利用企业信息做决策。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002331009",
+  "instructors": [
+    {
+      "name": "程淑珍;吕晓梅;王雪平;吴志斌;管考磊;黄雨秀;周冬华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江西财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 200757,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

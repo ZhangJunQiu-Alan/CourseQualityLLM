@@ -1,0 +1,31 @@
+{
+  "course_id": "1461298161",
+  "platform": "mooc_cn",
+  "title": "影像技术学",
+  "description": "X线摄影和CT的检查都是使用X线进行成像的，但它们的影像又有极大的差异。X线检查技术区别于普通的可见光摄影技术，它可以透过现象，看到物体的内部本质。其成像原理与可见光成像有相似之处，又有很大的不同。同时由于X线的生物效应，人们对它又爱又怕，怕X线对人体的伤害，又希望它能给予医疗的帮助，那么我们就来学习一下这种未知的射线，如何合理使用X线，让它为大家服务。磁共振成像技术是利用人体内的H质子与磁场的共振成像的，其成像方式与X线摄影和CT又有很大的不同。我们这门课就是学习这三种不同的成像技术，服务于临床。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461298161",
+  "instructors": [
+    {
+      "name": "陈晓晖;王林",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4300,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

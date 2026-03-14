@@ -1,0 +1,31 @@
+{
+  "course_id": "1207179804",
+  "platform": "mooc_cn",
+  "title": "信息理论与编码",
+  "description": "本课程以讲解香农信息理论及编码技术为主线，贯穿各个知识点的应用实例。通过学习，使学生掌握信息传输系统各个部分的理论基础与原理，能从信息理论的角度来理解、分析信息的有效、可靠传输使如何实现的，并能够用信息论的方法来解决生活中的一些常见问题，做到理论与实际相结合。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207179804",
+  "instructors": [
+    {
+      "name": "张可;朱健春;于泉;周颖;刘雪冬;金新娟;王虹;魏勤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19269,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

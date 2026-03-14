@@ -1,0 +1,34 @@
+{
+  "course_id": "course-2a1d79b3-2c14-4a89-9e19-6e020fdd78af",
+  "platform": "edx",
+  "title": "Introduction to Pharmacology",
+  "description": "This pharmacology course will explore the mechanism of action of pharmaceutical drugs on a molecular level. We will delve into various drug classes and decipher how they affect systems within the human body. Students who successfully complete this course will demonstrate increased knowledge in pharmacokinetics, drug toxicity, therapeutics and drug discovery.",
+  "learning_goals": [
+    "Auditing",
+    "Pharmacokinetics",
+    "Pharmaceuticals"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 10-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "steve-st-onge",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Doane University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1306,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

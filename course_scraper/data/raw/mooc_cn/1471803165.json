@@ -1,0 +1,31 @@
+{
+  "course_id": "1471803165",
+  "platform": "mooc_cn",
+  "title": "混凝土结构基本原理",
+  "description": "本课程围绕《混凝土结构设计规范》，讲述土木工程混凝土结构的基本设计原理，拥有丰富详细的教学视频，形象生动地让学生了解并掌握土木工程结构的基本概念和基本理论。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471803165",
+  "instructors": [
+    {
+      "name": "鲁良辉;周军文;施林林;李鹏波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 124,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

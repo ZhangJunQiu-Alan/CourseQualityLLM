@@ -1,0 +1,31 @@
+{
+  "course_id": "47004",
+  "platform": "mooc_cn",
+  "title": "大学计算机",
+  "description": "人类在探寻自动计算奥秘的过程中，催生了计算机科学的诞生与计算技术的革命。如今基于计算机科学支持下的人工智能日新月异，AI通识教育的热浪铺天盖地，为此，大学计算机课程将面向人工智能通识教育展开。以计算平台和生态为基础，以人工智能科学原理与新技术新方法为主要内容，以计算思维、创新思维、智慧能力培养为目标，力求展现计算机科学支撑下的人工智能概貌，介绍支持智能应用所需求的公共平台、技术和方法。作为大学本科生的人工智能通识课程，本课程将一如既往为学习者呈现一流资源和服务。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/47004",
+  "instructors": [
+    {
+      "name": "陈宇峰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1191291,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

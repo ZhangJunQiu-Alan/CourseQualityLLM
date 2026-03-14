@@ -1,0 +1,42 @@
+{
+  "course_id": "course-47bdb468-3d51-42c2-b11a-85267dd854e6",
+  "platform": "edx",
+  "title": "La gestion des ressources humaines",
+  "description": "Cette formation aborde les principaux champs d'activités de la gestion du personnel, tels les pratiques de planification et de recrutement, de sélection et d'intégration des nouveaux employés, les composantes de la rémunération globale et la gestion de la performance, le développement des compétences, la gestion de la santé et de la sécurité au travail et l'intervention auprès d'employés ayant des problèmes de performance.",
+  "learning_goals": [
+    "Human Resource Management",
+    "Occupational Safety And Health",
+    "Management",
+    "Employee Onboarding",
+    "Planning",
+    "Performance Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 1-2 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "richard-blain",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "patrick-dube",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "HEC Montréal"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 537,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

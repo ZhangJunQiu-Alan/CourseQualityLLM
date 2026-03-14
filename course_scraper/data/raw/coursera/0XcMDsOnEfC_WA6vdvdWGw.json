@@ -1,0 +1,31 @@
+{
+  "course_id": "0XcMDsOnEfC_WA6vdvdWGw",
+  "platform": "coursera",
+  "title": "Orchestrate & Recover Real-Time Data Pipelines",
+  "slug": "orchestrate--recover-real-time-data-pipelines",
+  "description": "Building a data pipeline is easy. Building one that automatically recovers from failures, maintains data integrity during outages, and runs reliably in production—that's what separates junior engineers from platform architects.\nThis course teaches you to design self-healing pipelines with automated recovery, fault tolerance, and disaster recovery built in from day one. You'll learn to build and schedule streaming workflows using modern orchestrators like Airflow and Prefect, implement reliability patterns including idempotence, checkpointing, and dead-letter queues for exactly-once-ish processing, and design multi-region recovery strategies that keep data flowing during regional failures.\nThrough hands-on labs and real-world examples from Airbnb, LinkedIn, Netflix, and Uber, you'll master the orchestration and recovery techniques that turn fragile scripts into production-grade infrastructure. Learn to handle automated retries, run safe backfills, implement checkpoint-based recovery, and execute disaster recovery playbooks that restore pipelines after outages.\n\nEngineers who build or maintain real-time data pipelines and need stronger orchestration, reliability, and recovery skills.\n\nBasics of Python & SQL, Linux CLI, and Kafka fundamentals. Cloud account helpful but optional.\n\nBy the end of the course, learners will be able to design, orchestrate, and recover real-time data pipelines that run reliably at production scale.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "60 Minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/orchestrate--recover-real-time-data-pipelines",
+  "instructors": [
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Luca Berton",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1470993165",
+  "platform": "mooc_cn",
+  "title": "通信电子电路",
+  "description": "宇宙之外会有生命体的存在吗?深海、深空、深地探测是如何实现的？祝融号火星车如何实现的地火通信，将4亿公里外的数据传回地球？日常生活和工业应用中的移动通信、卫星通信、短距离无线通信、广播与多媒体通信等通信方式，又是如何电路实现的？面对工作频率日益提升的通信系统，电路设计工程师又将面临什么样的挑战？通信电子电路带您探究纷扰的通信奥秘与实现方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470993165",
+  "instructors": [
+    {
+      "name": "张晓光;王刚;王博文;陈世海;李松;王艳芬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国矿业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1703,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

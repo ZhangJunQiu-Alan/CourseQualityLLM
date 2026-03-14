@@ -1,0 +1,31 @@
+{
+  "course_id": "1003250016",
+  "platform": "mooc_cn",
+  "title": "材料力学",
+  "description": "西北工业大学《材料力学》慕课是首批国家级线上一流课程，课程团队依托国家级力学教学基地、国家级基础力学教学团队和国家级力学实验教学示范中心，以“十二五”国家级规划教材《材料力学》为基础，出版了系列化《材料力学》教材和教辅用书，主要服务于大学生和从事力学科学研究和工程应用的技术人员。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003250016",
+  "instructors": [
+    {
+      "name": "王安强;陈瑞卿;赵彬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 122928,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,36 @@
+{
+  "course_id": "course-9fa82173-2d9e-4d68-9f4e-57e577532462",
+  "platform": "edx",
+  "title": "Astronomía Virtual",
+  "description": "La astronomía es una disciplina que, basándose en el estudio de la física y las matemáticas superiores, investiga la formación y evolución de los cuerpos celestes.  \n Laimportancia de la astronomíano reside sólo en que se ocupe, principalmente, del estudiodelos cuerpos celestes del universo, sino que es algo que está ligado desde la antigüedad al ser humano y,porextensión, a todas las civilizaciones. Los astros siempre han sido algo que ha atraído al ser humano.  \n En este curso de astronomía exploraremos:  \n \n Las similitudes y diferencias con otras ciencias \n Sistemas planetarios: nuestro sistema solar y otros sistemas \n Las estrellas, principales fuentes de luz e información sobre el cosmos, las galaxias, esas islas de luz \n El Universo como un todo. Nociones de historia térmica del Universo \n Telescopios; criterios y consejos sobre la utilizaciónmás apropiada",
+  "learning_goals": [
+    "Astronomy",
+    "Basic Math",
+    "Physics",
+    "Solar Systems",
+    "Space Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 5-7 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "guillermo-goldes",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Nacional de Córdoba"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 382,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

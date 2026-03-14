@@ -1,0 +1,45 @@
+{
+  "course_id": "course-92d94f93-a610-4afa-b7c3-626fb6dab0c2",
+  "platform": "edx",
+  "title": "Medical Devices Regulation in Practice",
+  "description": "Rules and regulations for medical devices in Europe are vital knowledge for anyone working in or interested in this increasingly regulated and dynamic field. Compliance with these regulations is not just an obligation, but also a key factor of success in the evolving world of medical device development.    \n Whether you are a user, engineer, or researcher, adherence to these regulations is essential. This course equips participants to not only meet these standards but also become valuable advisors in areas where medical devices are developed, designed, sold, or utilized.   \n This crucial guide will allow you to immerse yourself in the intricacies of European Medical Device Regulation, ISO standards, and local examples, to gain a profound and practical understanding of the legal landscape and its implications of the practical side of developing medical devices.    \n Upon completion, you will have the knowledge to identify and assess risks associated with medical device development and usage, and how to facilitate the effective and safe introduction of medical devices.   \n Overall, this knowledge forms the foundation for ensuring the safety and efficiency of medical technology, allowing participants to contribute meaningfully to the advancement of the field and ensure compliance with the latest regulations.",
+  "learning_goals": [
+    "Health Technology",
+    "Medical Device Development",
+    "Medical Devices",
+    "Research"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "arjo-loeve",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "john-van-den-dobbelsteen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sonja-paus-buzink",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 537,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1461807175",
+  "platform": "mooc_cn",
+  "title": "数据科学基础（Matlab）",
+  "description": "《数据科学基础（MATLAB）》课程是一门以Matlab工具为手段，以数据分析挖掘数据价值为目标的入门课程。课程以数据分析流程为主线，通过对数据科学中数学基础、数据的探索性分析、数据的可视化以及包含分类、聚类、回归等机器学习方法的学习，带领同学们开启数据分析与应用的大门！                                                                               —— 课程团队",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461807175",
+  "instructors": [
+    {
+      "name": "徐彬;李封;赵长宽;张昱;陈默",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11100,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

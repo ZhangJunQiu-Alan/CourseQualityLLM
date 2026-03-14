@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753073",
+  "platform": "mooc_cn",
+  "title": "计算机应用基础",
+  "description": "本课程可面向中高职所有开设计算机基础课程、需参加计算机等级考试的大一新生；也可以向社会开放，在线为企业员工提供办公软件的技能培训。课程充分考虑到零基础初学者的学习情况，同时结合学习者考证的实际需求，将每个项目按技能点进行分解，围绕核心技能点录制微视频，方便不同学习对象的多样需求。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753073",
+  "instructors": [
+    {
+      "name": "李良;桑一梅;何福男;殷红梅;张佳磊;胡慧;杨小英;罗颖;戴锐青;吴阅帆;陈园园;高振清;付勤;李家虎;彭旭祯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 88589,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

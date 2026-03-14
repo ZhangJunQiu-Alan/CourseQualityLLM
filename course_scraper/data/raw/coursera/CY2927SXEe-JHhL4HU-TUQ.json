@@ -1,0 +1,26 @@
+{
+  "course_id": "CY2927SXEe-JHhL4HU-TUQ",
+  "platform": "coursera",
+  "title": "Handling Security Incidents Across Domains",
+  "slug": "packt-handling-security-incidents-across-domains-2omvn",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis comprehensive course equips participants with the knowledge and skills needed to effectively handle security incidents across various domains. Designed for incident handlers and responders (IH&R teams), it offers a structured approach to mastering digital evidence, malware handling, email security, and network security.\n\nThe journey begins with an in-depth exploration of digital evidence collection and forensics. You'll learn about the principles of first response, volatile and static evidence collection, and the nuances of anti-forensics. Practical guidance from experts ensures you're prepared to manage the complexities of incident handling.\n\nAs you progress, you'll delve into malware incident handling, covering preparation, detection, containment, eradication, and recovery. Email security incidents are addressed in a focused section that highlights preparation and first-response strategies. Finally, the course provides robust coverage of network security incidents, including unauthorized access, inappropriate usage, denial-of-service, and wireless network challenges.\n\nThis course is perfect for security professionals, IT administrators, and aspiring incident responders looking to enhance their skills in cyber defense. While foundational knowledge of IT and cybersecurity is recommended, the course's intermediate difficulty ensures accessibility to learners with a basic understanding of security concepts.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-handling-security-incidents-across-domains-2omvn",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

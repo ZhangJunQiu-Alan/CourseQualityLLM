@@ -1,0 +1,31 @@
+{
+  "course_id": "1206276801",
+  "platform": "mooc_cn",
+  "title": "妇产科学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206276801",
+  "instructors": [
+    {
+      "name": "沈芳荣;王娟;李珉;陈友国;章鹤;周金华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13467,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

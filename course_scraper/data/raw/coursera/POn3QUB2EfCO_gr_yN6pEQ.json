@@ -1,0 +1,26 @@
+{
+  "course_id": "POn3QUB2EfCO_gr_yN6pEQ",
+  "platform": "coursera",
+  "title": "Building Applications with Spring Boot and MVC Architecture",
+  "slug": "foundations-of-spring-boot--mvc-architecture",
+  "description": "Building Applications with Spring Boot and MVC Architecture Course is designed for aspiring Java developers and backend engineers eager to master modern web application development. \n\nYou’ll start by building a strong foundation in Spring Boot, understanding how its auto-configuration, embedded servers, and opinionated defaults accelerate Java project delivery. Through hands-on lessons, you’ll learn to structure applications using the Model-View-Controller (MVC) pattern and gain practical experience with project setup, application structuring, and Thymeleaf templating.\n\nIn the second module, you’ll dive into integrating relational databases using Spring Data JPA and Hibernate. You’ll practice creating entity classes, managing repositories, and performing CRUD operations, while mastering advanced concepts like one-to-many and many-to-many relationships, validation, and exception handling. This module equips you to build robust, data-driven applications with reliable persistence and clean architecture.\n\nThe final module focuses on building and securing RESTful APIs with Spring Boot. You’ll explore REST principles, create endpoints, handle HTTP methods, and return JSON responses. You’ll also implement authentication and authorization with Spring Security and JWT, and document your APIs using Swagger/OpenAPI, ensuring your services are production-ready and easy to integrate.\n\n\nBy the end of this course, you will confidently:\n- Build and structure Spring Boot applications using MVC best practices\n- Integrate relational databases and manage data with Spring Data JPA and Hibernate\n- Develop secure, well-documented RESTful APIs using Spring Security and Swagger\n- Apply core Spring concepts like dependency injection and annotation-based configuration\n- Launch production-ready Java web applications and qualify for backend developer roles\n\nThis course is ideal for those who:\n- Want a step-by-step, hands-on introduction to Spring Boot and MVC architecture\n- Are new to Java web development or looking to upskill for backend engineering roles\n- Prefer learning by doing and applying knowledge to real-world projects\n- Are preparing for job interviews, technical assessments, or Java/Spring certifications\n\nThis course empowers you to build scalable, maintainable Java applications and unlock new career opportunities in modern web development.\n\nDisclaimer: This course is an independent educational resource developed by Board Infinity and is not affiliated with, endorsed by, sponsored by, or officially associated with Broadcom or any of its subsidiaries or affiliates. This course is not an official preparation material of Broadcom. All trademarks, service marks, and company names mentioned are the property of their respective owners and are used for identification purposes only.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks of study, 5 Hours/ Week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/foundations-of-spring-boot--mvc-architecture",
+  "instructors": [
+    {
+      "name": "Board Infinity",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Board Infinity "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,24 @@
+{
+  "course_id": "course-1bca24b1-b304-4f59-ad5e-aea4fd15296e",
+  "platform": "edx",
+  "title": "Introduction to Healthcare Data Analysis",
+  "description": "In this course, you will develop a solid foundational understanding of the most common statistical methods used in health care data analysis. \n This course covers some of the most common univariate and multivariate statistical methods used in healthcare data analysis. Students will also learn how to apply these methods using a statistical software package. The course covers basic data wrangling that is necessary for data analysis. It uses examples from the healthcare industry. This course focuses on the use of statistical methods although there may be some discussion of the mathematical underpinnings and relevant formulae and assumptions necessary for understanding the application of statistical methods. \n This self-paced course is comprised of written content, video content, step-by-step follow-along activities, and assessments to reinforce your learning (Assessments available to Verified Track learners only). \n The course is comprised of 5 modules that you should complete in order, as each subsequent module builds on the previous one. \n \n Module 1: Descriptive Statistics and Data Distributions \n Module 2: Sampling Distribution and Hypothesis Tests \n Module 3: Visualize and Summarize Data in R \n Module 4: Independent and Paired Sample t-tests \n Module 5: ANOVA",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "MGH Institute of Health Professions"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 385,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

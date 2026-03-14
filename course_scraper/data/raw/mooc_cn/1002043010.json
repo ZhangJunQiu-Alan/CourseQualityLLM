@@ -1,0 +1,31 @@
+{
+  "course_id": "1002043010",
+  "platform": "mooc_cn",
+  "title": "流体力学",
+  "description": "流体力学既是基础学科，又是涉及多专业多领域的应用学科；既是古老的学科，又是不断完善发展的学科。流体与我们如影随形，但你又懂其几何。加入我们，一起感受随波逐流（拉格朗日法）的畅快，一起品味驻足远眺（欧拉法）的愉悦。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002043010",
+  "instructors": [
+    {
+      "name": "魏炜;许晓飞;刘志军;刘凤霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 121587,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,57 @@
+{
+  "course_id": "course-65433bff-efc4-4e62-8a91-af05dc37802a",
+  "platform": "edx",
+  "title": "Embedded Systems Essentials with Arm: Getting Started",
+  "description": "Embedded systems are everywhere – and Arm-based technologies are the industry standard. Getting started could not be easier. This course includes instructions on how to access to an Mbed simulator (refer to the prerequisites section for more details) so you can apply your new knowledge and skills to prototype and build real-world embedded applications quickly, without the trouble or expense of sourcing hardware. \n From the mobile, wearable, and smart devices of today to the transformative Artificial Intelligence (AI) and 5G powered Internet of Things (IoT) of the near future, embedded systems are the fundamental building blocks of our connected world. As we move from billions to trillions of intelligent, connected devices, it’s crucial that the next generation of engineers have a thorough understanding of how to rapidly build and deploy a modern embedded system solution. \n In this course, you will learn the fundamentals of an embedded system and discover why the Arm architecture and processors are particularly well suited for IoT applications. \n Our interactive labs have been designed to cover the technical fundamentals, developing in-demand skills essential for any aspiring embedded systems engineer. \n You will begin by learning the characteristics of an embedded system, its components, benefits, and constraints, identify cost-performance trade-offs, and explore why the Arm architecture and processors are particularly well suited for the IoT. \n You will then apply your new knowledge of digital and analog I/O, interrupts, low power features, timer and pulse width modulation to program an audio wave generator and audio player, and control peripherals along the way. \n All of this will be supported by the Mbed API – so no additional hardware is required, you can download and use the simulator right on your own computer. \n Over the six modules, you will gain a key overview of: \n \n Embedded systems and their importance in modern computing applications \n Industry-standard Arm-based microcontroller architecture, their features and programming models. \n \n The possibilities for future IoT development and connection are enormous. In order to achieve this vision of the future, many engineers and developers will be needed to imagine and design these connected devices and the technologies they are built on. \n The world of embedded systems is your doorway into the IoT, and all the opportunities it has to offer.",
+  "learning_goals": [
+    "Smart Device",
+    "Connected Devices",
+    "Embedded Systems",
+    "Pulse-Width Modulation",
+    "Artificial Intelligence",
+    "Peripheral Devices",
+    "Application Programming Interface (API)",
+    "Digital Audio Player",
+    "Internet Of Things (IoT)",
+    "5G Technology",
+    "Sourcing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "khaled-benkrid",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "shuojin-hang",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mark-allen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "tim-wilmshurst",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Arm Education"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2843,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

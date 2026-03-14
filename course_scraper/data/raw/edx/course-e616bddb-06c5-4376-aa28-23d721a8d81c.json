@@ -1,0 +1,45 @@
+{
+  "course_id": "course-e616bddb-06c5-4376-aa28-23d721a8d81c",
+  "platform": "edx",
+  "title": "MLOps for Scaling TinyML",
+  "description": "Are you ready to scale your (tiny) machine learning application? Do you have the infrastructure in place to grow? Do you know what resources you need to take your product from a proof-of-concept algorithm on a device to a substantial business? \n Machine Learning (ML) is more than just technology and an algorithm; it's about deployment, consistent feedback, and optimization. Today, more than 87% of data science projects never make it into production. To support organizations in coming up to speed faster in this critical domain it is essential to understand Machine Learning Operations (MLOps). This course introduces you to MLOps through the lens of TinyML (Tiny Machine Learning) to help you deploy and monitor your applications responsibly at scale. \n MLOps is a systematic way of approaching Machine Learning from a business perspective. This course will teach you to consider the operational concerns around Machine Learning deployment, such as automating the deployment and maintenance of a (tiny) Machine Learning application at scale. In addition, you’ll learn about relevant advanced concepts including neural architecture search, allowing you to optimize your models' architectures automatically; federated learning, allowing your devices to learn from each other; and benchmarking, enabling you to performance test your hardware before pushing the models into production. \n This course focuses on MLOps for TinyML (Tiny Machine Learning) systems, revealing the unique challenges for TinyML deployments. Through real-world examples, you will learn how tiny devices, such as Google Homes or smartphones, are deployed and updated once they’re with the end consumer, experiencing the complete product life cycle instead of just laboratory examples. \n Are you ready for a billion users?",
+  "learning_goals": [
+    "Infrastructure",
+    "Operations",
+    "Benchmarking",
+    "Smartphone Operation",
+    "Automation",
+    "Machine Learning",
+    "Product Lifecycle",
+    "Data Science",
+    "Mathematical Optimization"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "7 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "vijay-janapa-reddi",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-larissa-suzuki-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 500,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

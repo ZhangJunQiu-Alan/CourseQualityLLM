@@ -1,0 +1,31 @@
+{
+  "course_id": "1002924007",
+  "platform": "mooc_cn",
+  "title": "Python程序设计",
+  "description": "Python语法优美、结构简单、学习难度小，被业界推荐为学习程序设计的最佳入门语言。本课程是Python入门级别的课程，面向所有零基础的学生。课程从Python的基本语法开始，由浅入深、循序渐进地引领你进入Python的世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002924007",
+  "instructors": [
+    {
+      "name": "黄锐军;蔡铁;吴瑜;薛国伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "深圳信息职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33417,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

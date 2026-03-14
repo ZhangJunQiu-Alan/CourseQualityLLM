@@ -1,0 +1,31 @@
+{
+  "course_id": "1462249162",
+  "platform": "mooc_cn",
+  "title": "虚拟仪器技术",
+  "description": "虚拟仪器技术综合运用了测控技术、计算机技术、数字信号处理技术、标准总线技术和软件工程方法，代表了自动测试系统的发展方向，广泛应用于测试测量、电气自动化、电子信息工程、通信工程、物联网工程等诸多行业和领域。请加入我们的课程，你将学会如何快速构建软硬结合的系统，设计个性化的上位机界面，体会自己动手设计系统的快乐。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462249162",
+  "instructors": [
+    {
+      "name": "戎舟;王强;袁明;鲍峤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9079,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

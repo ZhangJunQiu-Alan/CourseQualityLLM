@@ -1,0 +1,45 @@
+{
+  "course_id": "course-b1bc85f5-6d1e-46a7-b738-bb47294aec42",
+  "platform": "edx",
+  "title": "Introduction to Clinical Psychology",
+  "description": "Have you ever wondered what causes mental illness, or why we react to stress the way we do? Or what to expect as you get older? \n Clinical psychology is the study of psychological disorders and the treatments designed to improve the day-to-day lives of people suffering from them. The focus of the course will be on common psychological disorders, such as schizophrenia, and the symptoms of each. We will also discuss the underlying role of stress and how it affects people mentally and physically. We will also consider more general issues and theories around personality and intelligence. \n You should take this course if you want to better understand psychological disorders and how we can treat them.",
+  "learning_goals": [
+    "Schizophrenia",
+    "Psychology",
+    "Mental Diseases",
+    "Clinical Psychology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "blake-mckimmie",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "nancy-pachana",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "vanessa-cobham",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Queensland"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1541,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

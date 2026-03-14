@@ -1,0 +1,26 @@
+{
+  "course_id": "d_oOJtWtEfCZihIC4LWgUw",
+  "platform": "coursera",
+  "title": "Deep Learning, NLP, and AI Applications",
+  "slug": "packt-deep-learning-nlp-and-ai-applications-bdmof",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\nExplore the cutting-edge world of Deep Learning, Natural Language Processing (NLP), and AI applications in this advanced course. You’ll gain hands-on experience with neural networks, CNNs, RNNs, transformers, and other state-of-the-art architectures. Learn to tackle real-world AI tasks such as image classification, sentiment analysis, text summarization, and language translation. This course will guide you through the powerful tools and techniques that are transforming industries, preparing you to build sophisticated AI models.\nYou will start by building foundational knowledge in deep learning, understanding neural networks, forward propagation, and backpropagation. As the course progresses, you’ll work with convolutional neural networks (CNNs) for image recognition, recurrent neural networks (RNNs) for sequence modeling, and transformers for NLP tasks. Additionally, you’ll learn transfer learning to leverage pre-trained models for efficient AI development.\nThis course is designed for learners with a background in machine learning or deep learning who want to expand their expertise into NLP and advanced AI techniques. Whether you’re an AI researcher or aspiring AI engineer, this course will help you apply deep learning to real-world applications.\nBy the end of the course, you will be able to design and implement deep learning models, optimize them for complex AI tasks, and apply cutting-edge NLP techniques to build powerful AI applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-deep-learning-nlp-and-ai-applications-bdmof",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

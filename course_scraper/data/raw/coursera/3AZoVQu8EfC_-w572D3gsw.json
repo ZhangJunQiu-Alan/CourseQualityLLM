@@ -1,0 +1,26 @@
+{
+  "course_id": "3AZoVQu8EfC_-w572D3gsw",
+  "platform": "coursera",
+  "title": "Einführung in Sicherheitskonzepte in der Welt der KI",
+  "slug": "introduction-to-security-in-the-world-of-ai-de",
+  "description": "Künstliche Intelligenz (KI) bietet revolutionäre Möglichkeiten, geht aber auch mit neuen Sicherheitsherausforderungen einher. In diesem Kurs lernen Führungskräfte im Bereich Sicherheit und Datenschutz Strategien für den sicheren Umgang mit KI in ihren Unternehmen kennen. Es wird ein Framework für das proaktive Erkennen und Mindern KI-spezifischer Risiken, den Schutz sensibler Daten, das Einhalten rechtlicher Vorgaben und den Aufbau einer robusten KI-Infrastruktur vorgestellt. Anhand von Anwendungsfällen aus vier verschiedenen Branchen wird gezeigt, wie sich diese Strategien auf reale Szenarien anwenden lassen.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "de",
+  "url": "https://www.coursera.org/learn/introduction-to-security-in-the-world-of-ai-de",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

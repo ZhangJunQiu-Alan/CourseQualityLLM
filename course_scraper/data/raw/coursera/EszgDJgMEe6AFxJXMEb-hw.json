@@ -1,0 +1,26 @@
+{
+  "course_id": "EszgDJgMEe6AFxJXMEb-hw",
+  "platform": "coursera",
+  "title": "Creating Generative Art Dynamic NFTs with Google Cloud Vertex AI and Chainlink Functions",
+  "slug": "googlecloud-creating-generative-art-dynamic-nfts-with-google-cloud-vertex-sbmnl",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.\n\nLearn to integrate Vertex, Google Cloud's AI suite into your smart contracts.\n \n\nIn this lab, you'll mint a new NFT collection that can be dynamically updated based on their attributes and using generative AI using the Vertex APIs accessed with Chainlink Functions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "90 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-creating-generative-art-dynamic-nfts-with-google-cloud-vertex-sbmnl",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,34 @@
+{
+  "course_id": "course-a2710edc-59a7-436f-9e0f-97582e6f5f89",
+  "platform": "edx",
+  "title": "Backend APIs & Microservices",
+  "description": "Learn how to build robust backend solutions using C# and .NET. You'll create RESTful web APIs to enable client-server communication, design secure endpoints, and manage data flow. Gain hands-on experience connecting APIs to databases and performing CRUD operations. You'll also learn to structure applications for scalability and maintainability. The course introduces microservices architecture, guiding you in creating and deploying modular, cloud-ready services. By the end, you'll be equipped to build and deploy scalable backend systems.",
+  "learning_goals": [
+    "RESTful API",
+    "Client Server Models",
+    "Microservices",
+    "Scalability",
+    "Dataflow",
+    ".NET Framework",
+    "C# (Programming Language)",
+    "Application Programming Interface (API)",
+    "Operations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "2 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 296,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

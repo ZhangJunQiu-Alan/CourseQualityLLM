@@ -1,0 +1,26 @@
+{
+  "course_id": "Lh2-Wp72EfCwfRIq2mRCBw",
+  "platform": "coursera",
+  "title": "Python for OOP - The A to Z OOP Python Programming Course",
+  "slug": "packt-python-for-oop-the-a-to-z-oop-python-programming-course-qshqd",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nUnlock the power of Object-Oriented Programming (OOP) in Python with this comprehensive course designed to take you from beginner to proficient in OOP principles. You will learn how to structure code more effectively, design reusable components, and master essential Python concepts like classes, objects, inheritance, and polymorphism. By applying what you’ve learned through real-world examples and hands-on projects, you'll gain the skills necessary to create clean, maintainable, and scalable Python programs.\n\nThroughout the course, you'll explore essential OOP building blocks, such as methods, class variables, abstraction, and encapsulation. You will also deepen your understanding of inheritance with a focus on multilevel and multiple inheritance, as well as method overriding and polymorphism. These principles will be reinforced through various practical exercises, allowing you to refine your skills as you go.\n\nThis course is ideal for developers looking to build a solid foundation in OOP using Python. No prior experience with Python or OOP is required, though a basic understanding of programming concepts will help. You’ll follow a structured learning path, gradually progressing through concepts and exercises that will prepare you to build your own Python applications with OOP principles at the core.\n\nBy the end of the course, you will be able to design Python programs using object-oriented principles, implement methods and classes with advanced techniques like static methods and class variables, leverage inheritance and polymorphism for scalable applications, and complete a final project to demonstrate your mastery of OOP concepts.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-python-for-oop-the-a-to-z-oop-python-programming-course-qshqd",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

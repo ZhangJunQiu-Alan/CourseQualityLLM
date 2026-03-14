@@ -1,0 +1,31 @@
+{
+  "course_id": "168003",
+  "platform": "mooc_cn",
+  "title": "高速铁路建设管理",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/168003",
+  "instructors": [
+    {
+      "name": "李远富",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11624,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

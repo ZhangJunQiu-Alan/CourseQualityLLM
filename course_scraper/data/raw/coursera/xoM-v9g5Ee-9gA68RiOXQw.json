@@ -1,0 +1,26 @@
+{
+  "course_id": "xoM-v9g5Ee-9gA68RiOXQw",
+  "platform": "coursera",
+  "title": "JavaScript Data and Applications",
+  "slug": "javascript-data-and-applications",
+  "description": "Welcome to JavaScript Data and Applications, the third course in the JavaScript Starter Kit Professional Certificate program.\n\nThis course will advance your JavaScript skills by teaching you modern development practices, professional testing strategies, and real-world application architecture. Building on your foundational knowledge, you'll master the tools and techniques used by professional developers to create robust, maintainable applications. By the end of this course, you will be able to:\n\n- Implement modern JavaScript features and patterns using ES6+ syntax, proper error handling, and performance optimization techniques to write efficient and maintainable code\n- Design and implement comprehensive testing strategies, including unit tests, debugging workflows, and test-driven development principles, to ensure reliable applications\n- Create robust API integrations with proper data fetching, error handling, and state management patterns for dynamic web applications\n- Apply professional code organization and optimization techniques, including modular structures, performance best practices, and comprehensive documentation standards\n- Build a complete Restaurant Online Ordering System that demonstrates mastery of modern JavaScript development practices\n\nFor the final project in this course, you will progressively develop a fully functional Restaurant Online Ordering System for \"BiteBridge,\" a restaurant tech solutions provider. You'll implement sophisticated features including dynamic menu management, order validation systems, real-time kitchen notifications, payment processing error handling, and comprehensive order status tracking. Throughout the development process, you'll apply modern JavaScript patterns, implement comprehensive testing strategies, integrate with external APIs, and optimize performance while maintaining professional code organization and documentation standards.\n\nThis is an intermediate course designed for learners who have completed foundational JavaScript training and are ready to advance to professional development practices. You should have a solid understanding of JavaScript fundamentals, including variables, functions, arrays, objects, and basic DOM manipulation. The course builds upon these skills to introduce industry-standard practices, including modern syntax, testing frameworks, API integration, and performance optimization techniques used in professional development environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/javascript-data-and-applications",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "EUnGXLd8Ee-JHhL4HU-TUQ",
+  "platform": "coursera",
+  "title": "Cloud Deployment",
+  "slug": "packt-cloud-deployment-ksjew",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nDive into the dynamic world of Cloud Deployment with this in-depth course designed to transform your understanding of cloud infrastructure and its deployment. Gain the expertise to identify cloud subscription services, provision resources, and configure advanced networking and compute solutions. From foundational principles to hands-on demonstrations, this course equips you with the skills to deploy robust cloud systems effectively.\n\nThe course begins with an introduction to storage provisioning and its essential components, such as storage types, tiers, and protocols. Through real-world demonstrations, you’ll learn how to deploy storage resources, virtual machines, and containers using industry-best practices. Comprehensive discussions on RAID configurations, storage features, and disaster recovery scenarios ensure that you are prepared for any cloud deployment challenges.\n\nThe next section focuses on networking services and virtualization, covering virtual routing, SR-IOV, and the deployment of critical services like DNS, DHCP, and IPAM. Hands-on demos will reinforce your understanding of dynamic routing, compute sizing, and software-defined storage solutions. The course concludes with an exploration of cloud migration strategies, giving you the tools to plan and execute seamless migrations.\n\nThis course is tailored for IT professionals, cloud engineers, and administrators aiming to enhance their cloud deployment capabilities. With its intermediate-level difficulty, it’s suitable for those with prior knowledge of IT and networking concepts. Whether you're scaling your organization’s cloud infrastructure or embarking on your journey into cloud technologies, this course is your pathway to success.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-cloud-deployment-ksjew",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

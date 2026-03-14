@@ -1,0 +1,34 @@
+{
+  "course_id": "course-c41c076c-4944-4974-ae73-cdba2f76f7ce",
+  "platform": "edx",
+  "title": "Computing in Python III: Data Structures",
+  "description": "Build on your existing knowledge of conditionals, loops, and functions by studying more about complex Python data structures, including strings, lists, dictionaries, and file input and output. Organized into five chapters, this course starts by covering the basics of data structures, then moves on to these four common data structures in Python:  \n \n Strings let you perform far more complex reasoning with text. \n Lists let you process long lists of data, and even lists of lists of data for more complex reasoning. \n Dictionaries let you more clearly code for complex types of data, and even simulate some basic elements of object-oriented programming. \n File input and output brings your programs to life, allowing you to persist data across executions of the same program. \n \n By the end of this course, you'll be able to write even more complex programs in Python that process and persist complex data structures. For example, you'll be able to write an ongoing gradebook application that tracks and updates your average over time, a program to calculate the net force based on several force magnitudes and directions, or a program that can turn a string like this into a StRiNg LiKe tHiS.  \n Structurally, the course is comprised of several parts. Instruction is delivered via a series of short (2-3 minute) videos. In between those videos, you'll complete both multiple choice questions and coding problems to demonstrate your knowledge of the material that was just covered.",
+  "learning_goals": [
+    "Python (Programming Language)",
+    "Object-Oriented Programming (OOP)",
+    "Data Structures"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 9-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-joyner",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1964,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

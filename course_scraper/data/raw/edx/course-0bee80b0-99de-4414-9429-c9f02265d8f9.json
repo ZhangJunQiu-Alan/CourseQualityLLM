@@ -1,0 +1,45 @@
+{
+  "course_id": "course-0bee80b0-99de-4414-9429-c9f02265d8f9",
+  "platform": "edx",
+  "title": "Learning Time Series with Interventions",
+  "description": "If you have specific questions about this course, please contact us at sds-mm@mit.edu .  \n A time series is a time-stamped set of noisy observations from an underlying process that evolves over time. These observations are dependent on each other in a particular, unknown, fashion. Examples of such series include stock values, value of a currency with respect to the dollar, mean housing prices, the number of Covid-19 infections, or the pitch angle of an airplane during flights. Modeling such processes for the purpose of prediction or intervention is a fundamental problem in statistical learning. \n This graduate-level course that will address three lines of development: \n  Learning Structured Models  :  In this module, we focus on learning the underlying stochastic dynamic model that generates the data. We discuss how algorithms depend on the underlying class of models adopted for this learning. We address the accuracy and reliability of our learned models. \n  Prediction:  In this module, we make no assumptions on how the data is generated and focus on predicting the next outcome of the process based on past observations. In this context, we analyze  Matrix and Tensor Completion Methods  in providing such predictions and we analyze the accuracy of these prediction in the presence of noise, missing data. \n  Optimal Intervention and Reinforcement Learning (RL):  A key ingredient of RL is a simulator that can estimate the value of a reward for a given intervention. In this module course, we build on techniques from RL as well as the first two parts to show how new intervention/control can be derived with better outcomes. \n This course will consist of three hands-on projects, in which learners will apply knowledge gained in lectures, build models and implement algorithms to solve problems posed on real time series data sets. \n  This course is part of the MITx MicroMasters Program in Statistics and Data Science .   Master the skills needed to be an informed and effective practitioner of data science. You will complete this course and three others from MITx, at a similar pace and level of rigor as an on-campus course at MIT, and then take a virtually-proctored exam to earn your MicroMasters, an academic credential that will demonstrate your proficiency in data science or accelerate your path towards an MIT PhD or a Master's at other universities. To learn more about this program, please visit https://micromasters.mit.edu/ds/ .",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "14 周，每周 10-14 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "munther-dahleh-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "devavrat-shah",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mardavij-roozbehani-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "karene-chu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1096,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

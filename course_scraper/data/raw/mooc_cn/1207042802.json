@@ -1,0 +1,31 @@
+{
+  "course_id": "1207042802",
+  "platform": "mooc_cn",
+  "title": "人工智能导论",
+  "description": "人工智能发展至今已超过60年时间，近年，随着深度学习技术的应用，人工智能迎来了爆发式增长，不管是工业、农业还是服务业，都可以看到人工智能技术的身影。那么，人工智能是什么？能做什么？人工智能目前发展到什么程度？人工智能是否会取代人？本课程将给初学者一一揭开这些谜底。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207042802",
+  "instructors": [
+    {
+      "name": "刘若辰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 111109,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

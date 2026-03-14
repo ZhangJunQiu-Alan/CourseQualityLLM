@@ -1,0 +1,26 @@
+{
+  "course_id": "S0fYRP2nEe-ehwr_ziEUiw",
+  "platform": "coursera",
+  "title": "AI Fundamentals in Financial Services",
+  "slug": "ai-financial-services",
+  "description": "Artificial Intelligence (AI) is rapidly reshaping the financial services landscape. From fraud detection and algorithmic trading to customer service chatbots and credit scoring, AI is at the heart of a new era in finance. This course is designed to give you a clear, practical understanding of how AI works, what it enables, and how it’s transforming the way financial institutions operate.\n\nThrough real-world examples, case studies, and engaging learning activities, you’ll gain insights into the key technologies that make AI possible, including machine learning, deep learning, and natural language processing, and see how they are applied across core functions in banking, fintech, and asset management. You’ll also explore how data drives these systems, the different learning methods AI uses, and the implications for strategy, governance, and ethics.\n\nWhether you’re a financial professional, policymaker, or simply curious about the future of finance, this course will equip you with the knowledge and confidence to engage in AI-related conversations and decision-making. No programming background is required, just an interest in how technology is shaping the future of financial services.\n\nBy the end of the course, you will be able to:\n\n• Understand the foundational technologies that underpin Artificial Intelligence (AI), including Machine Learning, Natural Language Processing, and Deep Learning.\n• Explore the central role of data in powering AI systems, and the key learning methods used to train them.\n• Identify how AI is applied in financial services, including use cases such as fraud detection, credit scoring, customer service, and algorithmic trading.\n• Critically evaluate the risks, limitations, and ethical challenges associated with deploying AI in financial services.\n\nThis course is the first in the AI in Financial Services: Foundations through Future Trends specialization. It provides the essential groundwork for understanding how AI works and why it matters in finance. After completing this course, we recommend continuing with 'Designing the Future of Finance' and 'Open Data and Intelligent Finance' courses to explore how AI intersects with Open Finance, embedded systems, and intelligent, ethical financial innovation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 3-4 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/ai-financial-services",
+  "instructors": [
+    {
+      "name": "Martin Schmalz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Saïd Business School, University of Oxford"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

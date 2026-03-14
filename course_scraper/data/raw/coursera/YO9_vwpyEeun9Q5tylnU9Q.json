@@ -1,0 +1,26 @@
+{
+  "course_id": "YO9_vwpyEeun9Q5tylnU9Q",
+  "platform": "coursera",
+  "title": "Advanced Deep Learning Methods for Healthcare",
+  "slug": "advanced-deep-learning-methods-healthcare",
+  "description": "This course covers deep learning (DL) methods, healthcare data and applications using DL methods. The courses include activities such as video lectures, self guided programming labs, homework assignments (both written and programming), and a large project.\n\nThe first phase of the course will include video lectures on different DL and health applications topics, self-guided labs and multiple homework assignments. In this phase, you will build up your knowledge and experience in developing practical deep learning models on healthcare data. The second phase of the course will be a large project that can lead to a technical report and functioning demo of the deep learning models for addressing some specific healthcare problems. We expect the best projects can potentially lead to scientific publications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "This course is designed for 4 weeks, but it can be stretched out by the learner as needed.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-deep-learning-methods-healthcare",
+  "instructors": [
+    {
+      "name": "Jimeng Sun",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Illinois Urbana-Champaign"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

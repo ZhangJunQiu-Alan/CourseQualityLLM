@@ -1,0 +1,26 @@
+{
+  "course_id": "1ldlEebJEe2nnBJXwaSqgQ",
+  "platform": "coursera",
+  "title": "Cybersecurity Identity and Access Solutions using Azure AD",
+  "slug": "cybersecurity-identity-and-access-solutions-with-azure-ad",
+  "description": "Upon completing the first three courses of the Professional Certificate, you should have some foundational knowledge about computers, operating systems, networking, and cyberthreats, all of which put you in a good position to explore cybersecurity in greater detail. \n\nIn this course, you’ll explore the world of authorization and authentication, and understand the concepts of two-step authentication and single sign-on policies. You’ll also become familiar with the features and capabilities of Azure Active Directory (Azure AD), particularly those relating to the benefits of using Azure AD to manage an enterprise’s security requirements including access management, identity governance, and management. This course will take you one step closer to the Microsoft Cybersecurity Analyst Professional Certificate, which requires no degree or prior experience.\n\nAfter completing this course, you’ll be able to:  \n\n•\tExplain the concept of Active Directory  \n•\tDescribe Authentication methods \n•\tDiscuss access management\n \nThis is also a great way to prepare for the Microsoft SC-900 exam. By passing the SC-900 exam, you’ll earn the Microsoft Security, Compliance, and Identity Fundamentals Certification.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 3 - 5 hours/week.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cybersecurity-identity-and-access-solutions-with-azure-ad",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

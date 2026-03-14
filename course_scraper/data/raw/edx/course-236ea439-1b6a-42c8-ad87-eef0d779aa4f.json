@@ -1,0 +1,44 @@
+{
+  "course_id": "course-236ea439-1b6a-42c8-ad87-eef0d779aa4f",
+  "platform": "edx",
+  "title": "Cybersecurity Analyst Assessment: Security+ & CySA+ Practice",
+  "description": "Complete the IBM Cybersecurity Analyst Professional Certificate with this final assessment!   \n In taking this final course, you will be showing your accumulated knowledge of cybersecurity skills. You will demonstrate your proficiency in cybersecurity tools and concepts including: \n \n  Roles and  responsibilities \n  System administration  \n  Network security and vulnerabilities  \n  Penetration testing and incident response  \n  Threat intelligence  \n \n Before completing this final assessment, it is highly recommended that you complete the previous seven courses in the IBM Cybersecurity Analyst Professional Certificate.",
+  "learning_goals": [
+    "CompTIA Cybersecurity Analyst (CySA+)",
+    "CompTIA Security+",
+    "Cyber Security"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "2 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "skills-network",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dee-dee-collette-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-manish-kumar-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 492,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

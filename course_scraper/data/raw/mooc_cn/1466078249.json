@@ -1,0 +1,31 @@
+{
+  "course_id": "1466078249",
+  "platform": "mooc_cn",
+  "title": "Introduction of Information Communication Network",
+  "description": "This is a basic course designed for non-communication major students and  people working in relevant fields to establish the overall concept of information communication network, master the basic model of communication.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466078249",
+  "instructors": [
+    {
+      "name": "祝雪芬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 731,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

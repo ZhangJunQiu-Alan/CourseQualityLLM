@@ -1,0 +1,31 @@
+{
+  "course_id": "1001570004",
+  "platform": "mooc_cn",
+  "title": "药物化学",
+  "description": "随着人类的出现，疾病就伴随着人类的进步。药物是人类与疾病对抗的重要“武器”，从“神农尝百草”开始，人类就从未停止过对这一“武器”的创新和优化，为人类战胜疾病、改善健康提供了不断的支持。本课程就是向大家介绍人类是如何针对不同的疾病，对药物这一“武器”进行发明和优化的。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001570004",
+  "instructors": [
+    {
+      "name": "徐晓莉;江程;郭小可;尤启冬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国药科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 169698,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

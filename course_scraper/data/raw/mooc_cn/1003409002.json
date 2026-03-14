@@ -1,0 +1,31 @@
+{
+  "course_id": "1003409002",
+  "platform": "mooc_cn",
+  "title": "岩石学",
+  "description": "《岩石学》：人类赖以生存的地球家园里，岩石无处不在。岩石学将带领我们学习岩石的基本特征和研究方法，领略大千世界无处不在的岩石，探索岩石的科学奥秘和神奇所在，为我们打开一扇明亮的窗户。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003409002",
+  "instructors": [
+    {
+      "name": "邵龙义;鲁静;刘钦甫;马施民;罗红玲;胡社荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国矿业大学（北京）"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28737,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

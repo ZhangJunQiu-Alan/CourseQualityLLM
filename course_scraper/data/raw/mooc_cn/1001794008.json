@@ -1,0 +1,31 @@
+{
+  "course_id": "1001794008",
+  "platform": "mooc_cn",
+  "title": "机械制造基础",
+  "description": "机械制造基础是机械类和近机类专业必修的专业基础课，具有较强的工程实践性。通过课程学习，同学们掌握机械零件力学性能、常用机械工程材料、机械制造热加工工艺和机械零件失效分析等方面工程知识。教育部认定该课程为”2018年国家精品在线开放课程“。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001794008",
+  "instructors": [
+    {
+      "name": "余东满",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南工业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23266,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

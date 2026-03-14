@@ -1,0 +1,31 @@
+{
+  "course_id": "481015",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术基础",
+  "description": "电子技术是当今信息时代的物理基础，模拟电子技术是在电领域中处理连续变化信号的技术，其核心是信号的放大。那么，电子技术中的主要元器件有哪些？它们是如何工作的？如何用它们构成满足需要的放大电路和处理电路呢？通过本课程的学习，你将寻找到这些问题的答案，以及解决这些问题的基本方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/481015",
+  "instructors": [
+    {
+      "name": "张惕远;周群;胡梦兰;邓天平;黄佳庆;蔡超;刘建;蒙文武",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 373958,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

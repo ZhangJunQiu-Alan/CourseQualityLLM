@@ -1,0 +1,26 @@
+{
+  "course_id": "sAb4VGh-EfCloAr_yObQYw",
+  "platform": "coursera",
+  "title": "Design security solutions for applications and data",
+  "slug": "design-security-solutions-for-applications-and-data",
+  "description": "Welcome to Design Security Solutions for Applications and Data, a focused and practical course designed for cybersecurity professionals, cloud security architects, and Microsoft cloud administrators. This course is part of the SC-100: Microsoft Certified Cybersecurity Architect Expert specialization and equips you with the expertise to design, implement, and manage secure application and data protection strategies in Microsoft’s cloud ecosystem.\n\nYou’ll explore secure cloud application development practices, enforce strong identity controls with Microsoft Entra ID, and leverage Microsoft Defender for Cloud to safeguard workloads. The course also covers encryption at rest and in transit, key management with Azure Key Vault, data residency considerations, and governance strategies using Data Lifecycle Management (DLM).\n\nThe course delivers 6–7 hours of targeted video lectures that combine theoretical insights with hands-on demonstrations, demos, and real-world security design scenarios. Organized into two core modules, each includes quizzes and in-video assessments to validate understanding.\nEnroll in “Design Security Solutions for Applications and Data” to gain the skills required to design secure, compliant, and resilient application and data protection strategies in Microsoft’s cloud ecosystem.\n\nWho Should Take This Course?\nApplication Security Engineers & Cloud Developers\nData Protection and Compliance Specialists\nMicrosoft 365 and Azure Security Administrators\nSecurity Architects preparing for the SC-100 exam\n\nCourse Modules:\nMicrosoft Defender for Cloud to Protect Cloud Applications\nMicrosoft Cloud Data Protection and Governance\n\nBy the end of this specialization, you will:\nMaster secure application design aligned with Microsoft’s security frameworks\nImplement encryption, classification, and governance for sensitive data\nIntegrate identity-first strategies into application and data security design\nBe fully prepared to take and pass the SC-100 certification exam",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "4 week of study, 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/design-security-solutions-for-applications-and-data",
+  "instructors": [
+    {
+      "name": "Whizlabs Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Whizlabs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1461814168",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术基础",
+  "description": "《模拟电子技术基础》是电子线路设计入门性的基础课，也是开启电子信息系统硬件设计之门的一把金钥匙。它使学生获得分析设计放大电路的基本理论和技能，培养学生用电子器件知识和放大思维，去分析和解决电子线路方面问题的能力，为深入学习电子信息系统相关课程，打好坚实基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461814168",
+  "instructors": [
+    {
+      "name": "谭勋琼",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长沙理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6250,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753142",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术",
+  "description": "模拟电子技术与我们的生活息息相关。喇叭为什么能够发出声音？稳压电源是如何将220伏的交流电转变成10V左右的直流电，为手机和ipad充电？ 要实现这样的功能，又需要哪些元器件？通过本课程的学习，你不仅会寻找到这些问题的答案，还会学习到我们身边更多模拟信号的基本理论与应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753142",
+  "instructors": [
+    {
+      "name": "章国安;邵海宝;李龙飞;宋长青;顾菊平;马青兰;王振国;王坤赤;邱媛媛;黄颖辉;华亮;沈晓燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22086,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,39 @@
+{
+  "course_id": "course-3fc92d39-5903-4316-bb98-108c43f8e6e0",
+  "platform": "edx",
+  "title": "Computer Architecture",
+  "description": "Microprocessors are an incredibly useful tool because they are cheap, flexible, and allow you to control physical systems in powerful ways. In this class, you will learn to build microprocessors as well as to program and build systems from them.",
+  "learning_goals": [
+    "Computer Architecture",
+    "Digital Design",
+    "Combinational Logic"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "14 周，每周 7-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joshua-brake",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-harris",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvey Mudd College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 419,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

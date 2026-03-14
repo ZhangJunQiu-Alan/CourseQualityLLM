@@ -1,0 +1,26 @@
+{
+  "course_id": "xg_qgE-yEfC_uBJiENVY7Q",
+  "platform": "coursera",
+  "title": "Rust Programming Essentials: Unit 5",
+  "slug": "pearson-rust-programming-essentials-video-course-5-a6r35",
+  "description": "This course is designed to bridge the gap between theory and practice, equipping you with the skills to implement Rust in real-world applications. Through hands-on lessons, you'll learn to build robust applications, such as a CSV Parser and a relational database interface, using Rust's powerful features. By the end of this course, you'll have the confidence and expertise to tackle complex programming challenges with Rust.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-rust-programming-essentials-video-course-5-a6r35",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1464608211",
+  "platform": "mooc_cn",
+  "title": "微电子制造技术（英文）",
+  "description": "微电子制造技术（英文）是电子制造相关专业的专业基础课程，其目的是使相关专业的学生掌握微电子器件的基本制造过程，对相关材料及制造方法有系统和深入的了解。本课程要求学生掌握晶圆制备、掺杂、薄膜制备、图形转移等微电子制造过程中的关键工艺技术，并熟悉真空、等离子体等相关技术和设备。本课程的重点是各项工艺过程的物理机制，难点是各项工艺的灵活运用、参数选择及相互配合。本课程将采用全英文课件，在视频授课、练习及讨论中教师将使用全英文进行讲授，以配合电子制造类专业国际化程度高的特点，提升相关专业的国际化水平，提高学生综合素质以适应人才国际化的需求。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464608211",
+  "instructors": [
+    {
+      "name": "李宇杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学（威海）"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1090,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

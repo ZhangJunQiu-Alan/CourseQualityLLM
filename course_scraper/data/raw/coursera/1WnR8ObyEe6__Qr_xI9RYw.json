@@ -1,0 +1,26 @@
+{
+  "course_id": "1WnR8ObyEe6__Qr_xI9RYw",
+  "platform": "coursera",
+  "title": "Researcher's guide to RNA sequencing data",
+  "slug": "researchers-guide-to-rna-sequencing-data",
+  "description": "This course is a follow up course to \"Choosing genomics tools\" which dives into further detail about RNA informatics methods! \n\nThis course is for individuals who: \n- Have taken Researcher's Guide to Fundamentals of Omic Data\n- Have RNA data and don’t know what to do with it. \n- Want a basic overview of their RNA focused data type. \n- Want to find resources for processing and interpreting RNA data\n\nWhat this course will cover: \n- Fundamentals of RNA methods. \n- Resources you may consider looking into for your own purposes. \n- Questions you should ask yourself and your colleagues about your goals and experimental design.\n\nWhat this course will NOT cover: \n- Code needed to process your data. \n- Details about every type of experimental design. \n- Everything you’d need to know to make you a computational biologist. In other words we still highly encourage you to consult your informatics and computational colleagues, especially those who may have done any handling of data you are trying to learn about.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/researchers-guide-to-rna-sequencing-data",
+  "instructors": [
+    {
+      "name": "Candace Savonen, MS",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Fred Hutchinson Cancer Center"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

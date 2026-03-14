@@ -1,0 +1,31 @@
+{
+  "course_id": "1207125823",
+  "platform": "mooc_cn",
+  "title": "工程力学",
+  "description": "本课程是第二批国家级一流线上课程、辽宁省首批线上一流课程。主讲教师为辽宁省教学名师和大连海事大学教学名师。本课程教学采用案例教学和启发式教学，授课内容综合国内外优秀教学资源，且知识讲解力求深入浅出，透彻清晰。强化学生的知识应用能力和创新意识，培养学生的工程素质。课件制作精良，充分运用动画，激发学习兴趣。欢迎走进工程力学：体会工程之精妙，探寻力学之奥秘。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207125823",
+  "instructors": [
+    {
+      "name": "于彥;姚征;刘杨;夏冬生",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连海事大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20870,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

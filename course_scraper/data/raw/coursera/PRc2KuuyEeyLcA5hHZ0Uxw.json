@@ -1,0 +1,26 @@
+{
+  "course_id": "PRc2KuuyEeyLcA5hHZ0Uxw",
+  "platform": "coursera",
+  "title": "React Native",
+  "slug": "react-native-course",
+  "description": "React Native is an open-source framework for building cross-platform applications (apps) using React and the platform’s native capabilities. In this course, you will move from the basics of React to a more advanced implementation using React Native. You’ll review a wide range of different React components and ways of styling them. And you’ll get to practice using different mobile methods of interactivity with React Native.\n\nSome of the basics skills you will learn include:\n•\tBuilding a single-page React Native app and styling it using basic components\n•\tBuilding large lists and configuring user inputs within a React Native app\n•\tUsing the Pressable component to build buttons and other clickable areas\n•\tSetting up an app with React Navigation and moving between screens\n\nYou’ll gain experience with the following tools and software: \n•\tReact\n•\tReact Native\n•\tFront End development languages (HTML, CSS and JavaScript)\n•\tJSX\n•\tCode editing programs, such as Expo and Visual Studio Code\n\nThis course is for learners who would like to prepare themselves for a career in mobile development. To succeed in this course, you will need foundational knowledge of React basics, internet navigation skills and an eagerness to code.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 weeks of study, 3-5 hours/week.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/react-native-course",
+  "instructors": [
+    {
+      "name": "Taught by Meta Experts",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Meta"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

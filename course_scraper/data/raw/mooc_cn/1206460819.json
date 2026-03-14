@@ -1,0 +1,31 @@
+{
+  "course_id": "1206460819",
+  "platform": "mooc_cn",
+  "title": "密码学基础",
+  "description": "密码技术已成为实现信息安全的关键技术之一，可以保障信息在传输过程中的机密性、完整性、真实性以及不可否认性。“智能社会”的来临，使得密码学的应用领域不断延申，从而衍生出许多新的技术，如果你对这些新技术背后所隐藏的密码学原理感兴趣，就请加入我们，让我们一起来开启密码学的学习之旅吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206460819",
+  "instructors": [
+    {
+      "name": "张雪锋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21195,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

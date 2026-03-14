@@ -1,0 +1,31 @@
+{
+  "course_id": "1206685832",
+  "platform": "mooc_cn",
+  "title": "大学英语",
+  "description": "《大学英语》课程基于解决传统大学英语课堂教学时间、空间的受限问题，采用线上模块化短视频和在线作业、在线测试和考试，涵盖英语语言的各大范畴，为学生提供系统的碎片化学习模式。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206685832",
+  "instructors": [
+    {
+      "name": "陈雅婷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "泉州师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12707,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

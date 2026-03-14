@@ -1,0 +1,26 @@
+{
+  "course_id": "kPyEQn3GEfC2OhKwGgKtJw",
+  "platform": "coursera",
+  "title": "Master Unity GUI: Design, Animate & Script Menus",
+  "slug": "master-unity-gui-design-animate-script-menus",
+  "description": "By the end of this course, learners will be able to design, animate, and script interactive user interfaces in Unity. They will gain the skills to create responsive panels, apply Rect Transforms and anchors, integrate scripts with UI elements, and build fully functional main menus with animations and high score systems.\n\nThis course is designed for aspiring game developers who want to transform static scenes into dynamic, user-friendly experiences. Through hands-on lessons, learners will not only apply Unity GUI fundamentals but also evaluate design choices that enhance usability and player engagement.\n\nWhat makes this course unique is its step-by-step, project-based approach, starting from simple panels and advancing to a complete interactive menu system. Learners will benefit from practical scripting exercises, UI animation techniques, and real-world game development workflows, ensuring they can confidently implement professional-quality menus in their own projects.\n\nWhether you are new to Unity or looking to strengthen your UI skills, this course provides a comprehensive foundation in GUI design, animation, and scripting—essential for creating polished and engaging games.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/master-unity-gui-design-animate-script-menus",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

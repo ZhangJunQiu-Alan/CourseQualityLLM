@@ -1,0 +1,31 @@
+{
+  "course_id": "1206698848",
+  "platform": "mooc_cn",
+  "title": "职业卫生与职业医学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206698848",
+  "instructors": [
+    {
+      "name": "何美安;邬堂春;陈卫红;郭欢;张晓敏;杨良乐",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23959,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

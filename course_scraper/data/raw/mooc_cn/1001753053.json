@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753053",
+  "platform": "mooc_cn",
+  "title": "光通信系统漫谈",
+  "description": "您知道光纤通信是信息社会的基石性产业吗？您知道光通信系统中信号是如何产生、传输和接收的吗？您知道激光器、探测器、光放大器等核心器件的工作原理吗？还有，您了解光通信产业链吗？您想通过一门课程的学习来了解理工科学习的基本学习和研究方法吗？这门课程也许可以帮您更好地回答这些问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753053",
+  "instructors": [
+    {
+      "name": "顾文华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4624,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

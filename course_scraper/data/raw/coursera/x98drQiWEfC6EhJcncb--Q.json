@@ -1,0 +1,26 @@
+{
+  "course_id": "x98drQiWEfC6EhJcncb--Q",
+  "platform": "coursera",
+  "title": "Retrieving Credentials from Secret Manager with Spring Boot",
+  "slug": "googlecloud-retrieving-credentials-from-secret-manager-with-spring-boot-zluxz",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-retrieving-credentials-from-secret-manager-with-spring-boot-zluxz",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

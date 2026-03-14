@@ -1,0 +1,40 @@
+{
+  "course_id": "course-8904f537-7914-4cd4-aa63-552a5db3a7b1",
+  "platform": "edx",
+  "title": "Introduction to Semiconductors, PN Junctions and Bipolar Junction Transistors",
+  "description": "This online course is the first part of the Principle of Semiconductor Devices Professional Certificate Program. \n In this course, we will start with the fundamental concept of semiconductors as a tutorial for doping and the formation of PN junctions. Major and minority carrier currents in PN junctions under forward bias and reverse bias will be explained based on drift and diffusion physics. The course will further explain the operating principle of photodiodes, solar cells, light-emitting diodes (LED) and metal-semiconductor contact. \n As an extension of PN junction theory, the concept will be extended to form bipolar junction transistors (BJT). The different operation modes of a BJT, including forward active, reverse active, saturation and cutoff under common emitter mode, will be introduced. The gain and amplifying mechanism of a BJT will be explained based on the carrier actions. The detailed behavior of the BJT will be summarized by a circuit model.",
+  "learning_goals": [
+    "Electronic Circuits",
+    "Optics",
+    "Animations",
+    "Physics",
+    "Semiconductors",
+    "Solar Cells",
+    "Light-Emitting Diode",
+    "Transistor",
+    "Semiconductor Device"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mansun-chan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Hong Kong University of Science and Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 418,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

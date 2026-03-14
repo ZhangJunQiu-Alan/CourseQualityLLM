@@ -1,0 +1,48 @@
+{
+  "course_id": "course-275d9821-0a54-4f63-bcb0-7f849293353b",
+  "platform": "edx",
+  "title": "Python for Data Engineering Project",
+  "description": "You'll gain hands-on experience with critical data engineering tasks in Python Project for Data Engineering. Learn to collect data from APIs and web scraping, extract data from diverse file formats, and transform it for further analysis. You'll also log data operations to ensure transparency and reproducibility.  \n Enhance your collaborative skills by sharing your Jupyter Notebook in Watson Studio and participating in peer reviews to gain and provide constructive feedback. This module will equip you with the practical knowledge and skills to handle real-world data engineering challenges efficiently.",
+  "learning_goals": [
+    "Operations",
+    "Collaboration",
+    "Jupyter Notebook",
+    "Jupyter",
+    "Watson Studio",
+    "Web Scraping",
+    "Data Engineering",
+    "Data Science",
+    "Constructive Feedback",
+    "Data Collection",
+    "Application Programming Interface (API)",
+    "Python (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ramesh-sannareddy",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 495,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

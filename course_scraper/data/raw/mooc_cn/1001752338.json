@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752338",
+  "platform": "mooc_cn",
+  "title": "数学分析",
+  "description": "数学分析是连接初等数学与高等数学的桥梁，是数学类专业最重要的核心基础课（没有之一）。数学分析在数学专业课程中的地位是由其本身丰富的内容、严密完整的体系和对后继课程的深刻影响所决定的，它是进一步学习数学类后继课程的阶梯。分析功底是否扎实，对我们学生今后的发展具有举足轻重的影响。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752338",
+  "instructors": [
+    {
+      "name": "陈伟;周玲;黄强联;刘玉荣;凡震彬;朱兰萍;侯成军;董琪翔;李刚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "扬州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 34362,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

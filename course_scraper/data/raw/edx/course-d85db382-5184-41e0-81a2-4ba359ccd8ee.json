@@ -1,0 +1,47 @@
+{
+  "course_id": "course-d85db382-5184-41e0-81a2-4ba359ccd8ee",
+  "platform": "edx",
+  "title": "Macroeconomics of Climate: Science, Economics, and Policies",
+  "description": "This online course, presented by the IMF’s Institute for Capacity Development, Fiscal Affairs Department, Research Department, and Strategy, Policy, and Review Department serves as the first module of a broader Macroeconomics of Climate Change (MCCx) course. In this modular offering, you will learn about the science and economics behind climate change, the framework for global climate action, and how the IMF engages on climate change issues.",
+  "learning_goals": [
+    "Macroeconomics",
+    "Research",
+    "Economics",
+    "Climatology",
+    "Capacity Development",
+    "Climate Variability And Change"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "augustus-panton",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "irene-yackovlev",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "james-roaf",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 539,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

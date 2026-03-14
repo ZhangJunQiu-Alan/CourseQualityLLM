@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754260",
+  "platform": "mooc_cn",
+  "title": "流行病学",
+  "description": "流行病学视频课程汇集了南京医科大学优秀师资，集合不同专业的教学大纲，精选授课内容，主要包括常见流行病学研究方法的设计、实施、数据整理与分析及其应用，让学生掌握有关本学科的基本理论、基本知识和基本技能，提高学生运用流行病学方法综合分析问题和解决实际问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754260",
+  "instructors": [
+    {
+      "name": "沈洪兵",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京医科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 163095,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

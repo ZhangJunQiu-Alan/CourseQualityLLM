@@ -1,0 +1,26 @@
+{
+  "course_id": "tnN8Dtv0EfCd-xKyx35L5Q",
+  "platform": "coursera",
+  "title": "GPU Clusters & Containers",
+  "slug": "gpu-clusters--containers",
+  "description": "Ready to unlock the power of distributed AI training and production-scale deployment? Modern machine learning demands infrastructure that can handle massive computational workloads while ensuring reliable, scalable service delivery.\n\nThis Short Course was created to help ML and AI professionals accomplish seamless scaling from prototype to production using cloud GPU clusters and containerized deployment strategies.\n\nBy completing this course, you'll be able to provision multi-node GPU environments for parallel model training, dramatically reducing training times while implementing robust containerization workflows that ensure consistent, scalable application deployment across environments.\n\nBy the end of this course, you will be able to:\n\n- Apply configurations to cloud GPU clusters for distributed training\n- Apply containerization and orchestration to deploy and manage applications\n\nThis course is unique because it bridges the critical gap between model development and production deployment, combining hands-on GPU cluster configuration with enterprise-grade containerization practices.\n\nTo be successful in this project, you should have a background in cloud computing fundamentals, basic containerization concepts, and machine learning model training workflows.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "105 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/gpu-clusters--containers",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

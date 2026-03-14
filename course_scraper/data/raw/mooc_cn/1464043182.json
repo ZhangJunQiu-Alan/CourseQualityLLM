@@ -1,0 +1,31 @@
+{
+  "course_id": "1464043182",
+  "platform": "mooc_cn",
+  "title": "电子技术",
+  "description": "电子技术不仅是计算机技术、通信技术、网络技术的基础，更支撑了云计算、大数据、人工智能的发展，电子技术已经渗入到生产、生活的每一个角落，在即将到来的智能时代，它仍是我们不可或缺的伙伴。电子技术课程作为电工学的组成部分，将由来自哈工大的电工学教学团队和大家共同学习。从电子微观运动到器件外在特性，从半导体材料到集成芯片，从模拟电路到数字电子，我们将一起深入电子技术的奇妙世界、感受电子技术的神奇魅力！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464043182",
+  "instructors": [
+    {
+      "name": "杨威;刘晓芳;吴建强;刘桂花",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4696,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

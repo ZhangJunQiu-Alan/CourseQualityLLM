@@ -1,0 +1,26 @@
+{
+  "course_id": "brOoL3LHEe6Q8hJOpVICWQ",
+  "platform": "coursera",
+  "title": "FortiAnalyzer Administrator",
+  "slug": "fortianalyzer-administrator",
+  "description": "In this course, you will learn how to deploy, configure, and secure FortiAnalyzer. You will also learn how to register and manage devices with FortiAnalyzer. Finally, you will explore the fundamentals of the logging and reporting management capabilities included on FortiAnalyzer. These skills will provide you with a solid foundation for becoming a professional FortiAnalyzer administrator.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/fortianalyzer-administrator",
+  "instructors": [
+    {
+      "name": "Fortinet Training Institute",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Fortinet, Inc."
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

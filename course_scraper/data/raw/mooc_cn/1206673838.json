@@ -1,0 +1,31 @@
+{
+  "course_id": "1206673838",
+  "platform": "mooc_cn",
+  "title": "自动控制原理（II）",
+  "description": "主要内容包括线性连续系统的状态空间分析方法、非线性系统理论及采样系统理论等。通过学习本课程，使学生能比较全面、系统地掌握现代控制理论的基础知识，在系统建模、分析及设计能力等方面得到初步训练。具体内容参考程鹏主编的《自动控制原理》（第二版7-9章）。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206673838",
+  "instructors": [
+    {
+      "name": "左宗玉;王艳东;王薇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8153,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

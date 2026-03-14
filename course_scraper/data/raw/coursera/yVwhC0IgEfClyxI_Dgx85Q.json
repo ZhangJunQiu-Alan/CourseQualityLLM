@@ -1,0 +1,26 @@
+{
+  "course_id": "yVwhC0IgEfClyxI_Dgx85Q",
+  "platform": "coursera",
+  "title": "Oracle RAC High Availability and Policy-Based Management",
+  "slug": "packt-oracle-rac-high-availability-and-policy-based-management-9zpkt",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nGain the essential skills needed for Oracle RAC administration in this comprehensive course. Through detailed explanations and hands-on practice, you'll learn how to set up and manage Oracle 12C RAC databases, focusing on high availability and policy-based management. By the end of the course, you will understand the intricacies of Oracle RAC architecture, including its hardware and network configurations, and be capable of deploying and maintaining Oracle RAC systems in real-world environments.\n\nStarting with the fundamentals of Oracle RAC, you'll delve into its architecture, learning how to install, configure, and troubleshoot the Oracle RAC database. You'll also get hands-on practice with setting up Oracle RAC environments, configuring storage, and managing high availability. Additionally, the course covers topics such as backup and recovery, performance tuning, and monitoring to ensure your Oracle RAC system is optimized for peak performance.\n\nThe course structure is designed to guide you through both theoretical and practical knowledge, with multiple practice exercises. Each module builds on the previous, culminating in comprehensive, real-world scenarios where you will work through the key skills necessary to manage and optimize Oracle RAC databases.\n\nThis course is ideal for Oracle DBAs and IT professionals looking to expand their expertise in high-availability database management and Oracle RAC administration. Basic familiarity with database concepts and systems administration is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-oracle-rac-high-availability-and-policy-based-management-9zpkt",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

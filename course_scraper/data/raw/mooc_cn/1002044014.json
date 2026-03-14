@@ -1,0 +1,31 @@
+{
+  "course_id": "1002044014",
+  "platform": "mooc_cn",
+  "title": "诺贝尔生理学或医学奖史话",
+  "description": "你知道从放血到输血的历史吗？你知道胰岛素是如何发现的吗？你知道我们是怎样认识我们的脑吗？我们通过一个个故事，追溯历史，回味人类探索生命和疾病的曲折历程，了解生命科学史上伟大的发现。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002044014",
+  "instructors": [
+    {
+      "name": "张铭",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33806,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

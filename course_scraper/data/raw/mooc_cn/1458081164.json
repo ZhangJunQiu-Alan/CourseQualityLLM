@@ -1,0 +1,31 @@
+{
+  "course_id": "1458081164",
+  "platform": "mooc_cn",
+  "title": "Soil Mechanics",
+  "description": "Soil mechanics is one of the important basic courses of civil engineering and other related majors. Soil mechanics, a branch of mechanics, is a subject that takes soil as its research object, it studies the seepage, compression, consolidation and strength of soil and so on.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458081164",
+  "instructors": [
+    {
+      "name": "Anfeng HU",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Zhejiang University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 190,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

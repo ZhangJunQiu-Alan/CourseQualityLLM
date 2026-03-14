@@ -1,0 +1,51 @@
+{
+  "course_id": "course-09532745-c837-467b-9078-093b8e1265a8",
+  "platform": "edx",
+  "title": "Supply Chain Analytics",
+  "description": "Modern supply chains generate massive amounts of data, but turning that data into insights requires the right analytical tools and capabilities. This course equips you with the core quantitative methods used by supply chain professionals to model uncertainty, analyze data patterns, and optimize critical decisions under real-world constraints. \n Through realistic case studies, hands-on spreadsheet modeling, and practical applications, you’ll master essential analytical techniques: probability and statistics for modelling variability, hypothesis testing and regression analysis for data-driven decisions, mathematical optimization for planning and network design, and simulation for evaluating policies under uncertainty. By the end of this course, you'll be equipped to apply rigorous analytical methods to solve supply chain challenges and drive measurable performance improvements. \n Supply Chain Analytics is a self-paced course with a scheduled final exam. All materials are released at the start of the course so you can progress at your own pace. \n This Supply Chain Analytics course is part of the  MITx MicroMasters Credential in Supply Chain Management , offered by #1 ranked SCM Master's program at the Massachusetts Institute of Technology. This is an open enrollment course, making it accessible for almost anyone, anywhere in the world to enroll and learn for free.",
+  "learning_goals": [
+    "Quantitative Research",
+    "Probability",
+    "Sales",
+    "Supply Chain Analysis",
+    "Regression Analysis",
+    "Spreadsheets",
+    "Statistics",
+    "Planning",
+    "Mathematical Optimization",
+    "Policy Evaluation",
+    "Network Planning And Design",
+    "Data-Driven Decision-Making",
+    "Analytical Techniques",
+    "Decision Analysis",
+    "Management",
+    "Supply Chain Management",
+    "Supply Chain",
+    "Benefits Enrollment Processes",
+    "Probability And Statistics",
+    "Statistical Hypothesis Testing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "15 周，每周 8-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dr-chris-caplice",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7150,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

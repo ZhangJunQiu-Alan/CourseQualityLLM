@@ -1,0 +1,26 @@
+{
+  "course_id": "VK6ix9l0EfC2cQ6q4PgSGw",
+  "platform": "coursera",
+  "title": "Generative AI for Cloud Solutions",
+  "slug": "packt-generative-ai-for-cloud-solutions",
+  "description": "This course explores how Generative AI is transforming modern cloud solutions by combining large language models with scalable cloud architectures. Learners gain a strategic understanding of how AI-driven systems are designed, deployed, and governed in real-world cloud environments.\n\nThrough a structured journey from NLP foundations to advanced LLM-based application development, the course helps learners build practical skills in fine-tuning models, retrieval-augmented generation, and prompt engineering. You will learn how to design, deploy, and scale AI-powered cloud applications while addressing operational and performance challenges.\n\nWhat sets this course apart is its balance of conceptual depth and hands-on architectural thinking. It connects core AI concepts with real-world cloud deployment patterns, Dev frameworks, and LLMOps practices.\n\nThis course is ideal for cloud engineers, software developers, architects, and technology professionals looking to integrate Generative AI into cloud solutions. A basic understanding of cloud computing and software development concepts is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-generative-ai-for-cloud-solutions",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

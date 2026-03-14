@@ -1,0 +1,31 @@
+{
+  "course_id": "1003508008",
+  "platform": "mooc_cn",
+  "title": "自动测试系统",
+  "description": "“没有测量就没有科学”。现代测试技术是科研前沿的重要技术手段，也是生产过程中的重要技术保障。自动测试系统相关技术，是现代电子工程师必须掌握的技能。通过本课程的学习，可系统地掌握自动测试系统的工作原理及特点，能正确选择仪器和测量控制机组建自动测试系统；编制测试软件，进行实际操作。课程配备了虚拟仿真实验：1：电子设备特性参数自动测试系统设计2：大功率充电桩自动测试系统设计帮助学习者加强对课程内容的理解和掌握，提升组建自动测试系统解决测试领域内复杂工程问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003508008",
+  "instructors": [
+    {
+      "name": "王子斌;赖小红;黄敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4678,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207010801",
+  "platform": "mooc_cn",
+  "title": "财务管理",
+  "description": "《财务管理》课程是经济管理类专业的一门专业基础课和专业主干课。本课程以货币时间价值与风险管控为基础，以财务报表分析和财务预测为先导，以投资决策、筹资决策和营运资本管理为核心。通过一学期的学习，希望能引导同学们达到“财务管理理论知识、财务风险管控能力、财商文化素养”并重的学习效果。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207010801",
+  "instructors": [
+    {
+      "name": "姚文韵;韩梦锐;丁乙;李鑫;王晓艳;崔广慧;陈榕;张帆;袁卫秋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 31256,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

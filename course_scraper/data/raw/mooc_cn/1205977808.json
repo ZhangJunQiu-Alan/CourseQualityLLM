@@ -1,0 +1,31 @@
+{
+  "course_id": "1205977808",
+  "platform": "mooc_cn",
+  "title": "金融风险管理",
+  "description": "《金融风险管理》是金融学专业的主干课程，通过该课程的教学旨在帮助学生掌握金融风险管理的基本知识，使学生掌握金融风险管理的技巧，提高对金融风险管理策略的比较与选择能力，使学生具有解决实际金融风险问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205977808",
+  "instructors": [
+    {
+      "name": "喻平;郭春风;石丹;沈蕾;马玎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23963,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

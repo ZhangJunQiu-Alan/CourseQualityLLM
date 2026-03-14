@@ -1,0 +1,26 @@
+{
+  "course_id": "X_C_ikhjEe--LxKeIkG8pQ",
+  "platform": "coursera",
+  "title": "Intermediate Rust Programming and Advanced Concepts",
+  "slug": "packt-intermediate-rust-programming-and-advanced-concepts-2ffa5",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nAdvance your Rust programming journey with this in-depth course designed for developers seeking to master more complex concepts and real-world applications. Begin with an exploration of Rust modules and crates, learning how to create, manage, and publish packages. Dive into the essential Cargo tools for visualizing module hierarchies and streamline your code with techniques like re-exporting.\n\nProgress to the critical topic of smart pointers, essential for advanced memory management in Rust. Understand the basics and applications of various smart pointers, such as Box, Rc, and RefCell. Build and refine data structures like singly and doubly linked lists, and learn to avoid common pitfalls like reference cycles that can lead to memory leaks. This section ensures you can handle sophisticated memory management challenges with confidence.\n\nIn the final segments, tackle advanced Rust programming techniques and real-world problem-solving scenarios. Master macros, testing, and effective code optimization methods. Apply your knowledge to build practical applications, from search result algorithms to data storage solutions using advanced data structures, like binary search trees. This hands-on approach solidifies your understanding and prepares you for professional Rust development.\n\nThis course is ideal for developers with a basic understanding of Rust who want to advance their skills. Fundamental knowledge of Rust programming concepts and syntax is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-intermediate-rust-programming-and-advanced-concepts-2ffa5",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

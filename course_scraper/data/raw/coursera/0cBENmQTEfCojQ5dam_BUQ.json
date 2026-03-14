@@ -1,0 +1,31 @@
+{
+  "course_id": "0cBENmQTEfCojQ5dam_BUQ",
+  "platform": "coursera",
+  "title": "CompTIA Cloud CV0-003: Unit 3",
+  "slug": "pearson-comptia-cloud-cv0-003-video-course-3-ecq8p",
+  "description": "This course is designed to provide you with the foundational skills necessary to navigate the complexities of cloud security, a critical component of modern IT infrastructure. Through two comprehensive lessons, you will delve into the intricacies of IAM, exploring various access management types and identity provider types. Gain proficiency in credential management, from passwords to multi-factor authentication (MFA), and master the art of managing keys and secrets. In addition, you will explore Cloud Network Security, where you will learn about network segmentation, protocols, and services. Develop the ability to monitor networks effectively and implement robust security measures using design patterns and appliances. This course not only prepares you for the CompTIA certification but also equips you with practical skills to enhance your career in cloud security.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-comptia-cloud-cv0-003-video-course-3-ecq8p",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Chad Smith",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

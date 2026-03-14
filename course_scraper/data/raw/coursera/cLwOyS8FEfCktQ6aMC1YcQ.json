@@ -1,0 +1,26 @@
+{
+  "course_id": "cLwOyS8FEfCktQ6aMC1YcQ",
+  "platform": "coursera",
+  "title": "Power BI: Data Modeling and Data Analysis",
+  "slug": "power-bi-data-modeling-and-data-analysis",
+  "description": "This course is designed to provide a comprehensive foundation in Power BI, equipping learners with the skills to model, analyze, and visualize data efficiently. Participants will begin by exploring calculated columns and tables, understanding their use cases in data modeling and performance optimization.\nThe course progresses to advanced data modeling in Power BI, covering essential techniques like STAR schema design, model relationships, hierarchies, and role-playing dimensions to optimize data structures. Learners will gain expertise in DAX functions, including numerical calculations, measures, quick measures, and analytical queries, ensuring efficient data manipulation.\nAdditionally, this course covers Power BI Desktop features, enabling participants to create calculation groups, work with DAX query view, and improve performance by reducing granularity. Features like date-time formatting, advanced settings in model view, and restricting access to model data are explored to enhance analytical capabilities.\nThis course is structured into multiple modules, each featuring lessons and video lectures that provide both theoretical understanding and hands-on practice. Participants will engage with 3:00–4:00 hours of instructional content, reinforcing learning through graded and ungraded assignments, ensuring real-world applicability.\nWhether you're preparing for Power BI certification or seeking to optimize business intelligence workflows, this course equips you with the essential skills to master data modeling, DAX, and visualization for effective analytics.\n\nModule 1 - Optimizing Data Models and Performance with DAX in Power BI\nModule 2 - Power BI Data Modeling: STAR Schema, DAX, and Advanced Modeling Techniques\n\nThe course is for the Data Managers, Data Analysts, Power BI Associates, and Power BI Experts",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 week of study, 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/power-bi-data-modeling-and-data-analysis",
+  "instructors": [
+    {
+      "name": "Whizlabs Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Whizlabs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

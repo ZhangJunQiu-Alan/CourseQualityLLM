@@ -1,0 +1,31 @@
+{
+  "course_id": "1464125172",
+  "platform": "mooc_cn",
+  "title": "传感器与检测技术",
+  "description": "这是一门很有趣的传感器课程。教师们结合四条产线和实训基地资源，原创设计了精美的平台学习资源，并在讨论区等待。学员可自我学习如何选择传感器和搭建自动控制系统，充分请教问题和分享交流经验。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464125172",
+  "instructors": [
+    {
+      "name": "张晓青;范兴隆;孙国栋;秦婧文;杨乃勇;夏文娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东劳动职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6202,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

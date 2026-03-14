@@ -1,0 +1,31 @@
+{
+  "course_id": "1205804839",
+  "platform": "mooc_cn",
+  "title": "单片机原理及应用",
+  "description": "课程基于STC公司最新推出的国产STC32G系列32位8051单片机和Arm公司的Keil uVision(C251版本)硬件和软件平台，系统介绍了单片机设计导论、单片机硬件开发基础、单片机软件开发基础、数值的表示和转换、处理器内核和空间映射、单片机指令集架构、汇编语言程序设计、C语言程序设计、时钟和复位以及电源管理、定时器与计数器原理和应用、UART原理和应用、ADC原理和应用、PWM原理和应用、DMA原理和应用、USB原理和应用、CAN总线原理和应用。该课程的推出标志着中国大学基于传统MCS-51指令集架构的《单片机原理及应用》课程进入到基于MCS-251指令集架构的32位8051单片机时代。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205804839",
+  "instructors": [
+    {
+      "name": "何宾",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京化工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 57417,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

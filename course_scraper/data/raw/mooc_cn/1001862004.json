@@ -1,0 +1,31 @@
+{
+  "course_id": "1001862004",
+  "platform": "mooc_cn",
+  "title": "数字电路01密码的奥秘",
+  "description": "本课程以讲解数字电子技术基础为主线，辅以典型的数字系统（智能小车、4轴无人器和电子玩具）教学。通过兴趣教学使学生领略到数字电路01奥秘，还能提高学生创新实践能力；因此不但能作为高等学校本科生的数字电路教学课程，还能作为工程技术人员的学习课程，以及参加相关的竞赛的学生入门课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001862004",
+  "instructors": [
+    {
+      "name": "金新娟;张胜凯;魏洪涛;许菲;杨媛媛;黄铮;李新友;曾刚;葛华;卢珏;李政颖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33677,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

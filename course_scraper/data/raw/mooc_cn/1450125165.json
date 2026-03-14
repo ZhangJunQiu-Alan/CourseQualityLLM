@@ -1,0 +1,31 @@
+{
+  "course_id": "1450125165",
+  "platform": "mooc_cn",
+  "title": "数据库系统",
+  "description": "数据库应用设计与数据库系统原理并重的一门计算机专业课程，欢迎广大学者一起交流、讨论。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450125165",
+  "instructors": [
+    {
+      "name": "杨广超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "重庆大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7599,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

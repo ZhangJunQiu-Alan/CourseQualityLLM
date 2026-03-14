@@ -1,0 +1,48 @@
+{
+  "course_id": "course-c5c2336f-7dbb-4840-a26d-fd9991fae339",
+  "platform": "edx",
+  "title": "Procurement and Logistics Management",
+  "description": "This course is part of the edX Professional Certificate program  Certified Supply Chain Analyst (CSCA) , offered by ISCEA. This course prepares you for the ISCEA Certified Supply Chain Analyst (CSCA) Exam on edX and is a requirement for becoming ISCEA certified. To become an ISCEA Certified Supply Chain Analyst (CSCA), you must complete all three preparatory courses and successfully pass the CSCA Exam. \n The Procurement and Logistics Management course is designed to provide the foundational skills to manage the flow of materials and goods throughout the supply chain. From the procurement perspective, it explores the specifics of sourcing, supplier assessment, collaboration, contract management, purchase order management, EDI, and Flow Technology. It also addresses the issues, benefits and assessments of Materials Requirement Planning - MRP. \n The course provides instructional information on both manufacturing and logistics. The management of inventory and transportation will be discussed in detail; including, but not limited to, respective designs, technologies, modes, and performance. The course concludes with a focus on warehousing and distribution best practices. \n This course is part of the ISCEA CSCA - Certified Supply Chain Analyst - Internationally Recognized Certificate.",
+  "learning_goals": [
+    "Supply Chain",
+    "Contract Management",
+    "Procurement",
+    "Supply Chain Analysis",
+    "Logistics Management",
+    "Sourcing",
+    "Warehousing",
+    "Management",
+    "Order Management",
+    "Order Management Systems",
+    "Planning",
+    "Purchasing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mike-sheahan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jorge-morales",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "International Supply Chain Education Alliance"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1079,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

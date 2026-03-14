@@ -1,0 +1,31 @@
+{
+  "course_id": "192001",
+  "platform": "mooc_cn",
+  "title": "高等数学—微积分(2)",
+  "description": "山东大学《高等数学微积分》慕课是首批国家精品在线课程，由国家级教学团队精心打造的MOOC，通过主讲教师凝练课程内容精华，用生动的语言，典型的例题及MATLAB的实例演示，让你在愉悦的环境中强化记忆，让我们一起走进微积分的殿堂，相信如果你认真地走过这一殿堂，你一定会有无穷无尽的收获！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/192001",
+  "instructors": [
+    {
+      "name": "蒋晓芸;黄宗媛;包芳勋;张天德;陈建良;王洪英;崔明荣;刘君义;马克颖;金辉;孙庆华;刘蕴贤;王玮;朱冬梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 210053,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "DTsU__BtEeyxiRKaoDccyw",
+  "platform": "coursera",
+  "title": "Process Forms with AI Model in Power Automate",
+  "slug": "process-forms-ai-model-power-automate",
+  "description": "Do you receive an extraordinary amount of job application emails every day? Moreover, do you have the time to screen and read each job applicant’s email? How can you efficiently filter all candidate emails and forward qualified applicants to hiring committees? \nIn this beginner-level guided project \"Process Forms with AI Model in Power Automate\", we will use a pre-created job application form and create a model that will extract data from the form. We will then train the model with a couple of patterns, and create a flow that will use the model when candidate emails arrive. Consequently, when we receive a job application by email, the application will go through the flow and, if the candidate meets desired requirements, forward the email to the supervisor.\n\nThe requirement for this project is having a Microsoft developer program account, but don’t worry, you will be given instructions on how to get it right here.\n\nIf you are ready to make your and your colleagues’ lives easier by starting to automate manual, time-consuming processes, then this project is for you! Let's get started!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/process-forms-ai-model-power-automate",
+  "instructors": [
+    {
+      "name": "Dora Hrvoj",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

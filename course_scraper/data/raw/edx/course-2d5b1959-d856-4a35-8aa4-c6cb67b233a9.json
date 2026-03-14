@@ -1,0 +1,32 @@
+{
+  "course_id": "course-2d5b1959-d856-4a35-8aa4-c6cb67b233a9",
+  "platform": "edx",
+  "title": "Introduction to Generative AI",
+  "description": "This course is your first step toward understanding the capabilities of generative AI, powered by different models, including large language models (LLMs).  \n In this course, you will learn about the fundamentals and evolution of generative AI. You will explore the capabilities of generative AI in different domains, including text, image, audio, video, virtual worlds, code, and data. You will understand the applications of Generative AI across different sectors and industries. You will learn about the capabilities and features of common generative AI models and tools, such as GPT, DALL-E, Stable Diffusion, and Synthesia.  \n Hands-on labs, included in the course, provide an opportunity to explore the use cases of generative AI through IBM Generative AI Classroom and popular tools like ChatGPT. You will also hear from the practitioners about the capabilities, applications, and tools of Generative AI.  \n This course is designed for everyone, including professionals, executives, students, and enthusiasts, interested in learning about generative AI and leveraging its capabilities in their work and lives.",
+  "learning_goals": [
+    "Artificial Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4484,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

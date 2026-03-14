@@ -1,0 +1,31 @@
+{
+  "course_id": "1206696818",
+  "platform": "mooc_cn",
+  "title": "电工技术",
+  "description": "电路元件是砖，导线是钢筋，导线连接电路元件搭建起丰富多彩、结构各异的电路大厦。  铁心线圈、变压器、电动机是工业的基石，交流接触器和PLC的应用，促进了现代工业自动化的发展。  《电工技术》带你走进电路和工业控制的现场。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206696818",
+  "instructors": [
+    {
+      "name": "王新平;刘磊明;薛燕;吴华怡;王宏;陈静;张瀚文",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23718,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

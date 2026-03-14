@@ -1,0 +1,31 @@
+{
+  "course_id": "1001949007",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术",
+  "description": "依据我国工程教育认证标准，本课程是电子信息与电气工程类等专业的工程基础类课程，其目的和任务是让学生掌握电子技术基本知识，为今后深入学习并将其应用于本专业打下良好基础。本课程于2017年初上线，获评2017年度中国大学MOOC新锐奖，本课程是国家精品在线开放课程、国家级一流本科课程。本MOOC是在北京交通大学模拟电子技术课堂教学现场录制，后编辑字幕后呈现给大家。想了解电子技术的魅力吗？想走进北京交通大学的教室学习模拟电子技术吗？欢迎进入北交大课堂！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001949007",
+  "instructors": [
+    {
+      "name": "刘颖;白双;周晓波;霍炎;任杰;谭中伟;张丹;王晓轩;王海波;侯天为",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 280785,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

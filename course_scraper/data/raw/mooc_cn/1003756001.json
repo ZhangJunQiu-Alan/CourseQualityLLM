@@ -1,0 +1,31 @@
+{
+  "course_id": "1003756001",
+  "platform": "mooc_cn",
+  "title": "教育哲学",
+  "description": "由“马工程”首席专家、陕西师范大学郝文武教授引领的教育哲学教育教学团队，将荣获国家级精品资源共享课、省级教学成果特等奖的教育哲学通过MOOC的方式展现出来，邀请全国感兴趣的学习者一起开启反思教育思想和追求教育智慧的哲学之旅。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003756001",
+  "instructors": [
+    {
+      "name": "郭祥超;郝文武;张旸",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "陕西师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28340,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

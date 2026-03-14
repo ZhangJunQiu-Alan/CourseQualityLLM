@@ -1,0 +1,26 @@
+{
+  "course_id": "7eBsxEMMEe2hOhI8guE3RQ",
+  "platform": "coursera",
+  "title": "Data & Cybersecurity",
+  "slug": "data-cybersecurity",
+  "description": "Como integrantes del mundo empresarial, los especialistas en el tratamiento de datos suelen ser uno de los principales objetivos de un ciberataque, ya que tienen acceso a información confidencial de una empresa. Aunque sean conocedores de los riesgos a los que están sometidas las organizaciones en las que trabajan, es importante tener un amplio y consolidado conocimiento en materia de ciberseguridad para poder prevenir los ataques; y en el caso de que ocurran, mitigar los riesgos que afecten a la seguridad, reduciendo en la medida de lo posible su alcance. \n\nPor ello, en este curso trataremos las temáticas más relevantes en el ámbito de la ciberseguridad que debes conocer. Desde los riesgos a los que estamos expuestos, pasando por la importancia de la securización de las operaciones y hasta cómo las organizaciones deben gestionar las crisis de seguridad, sin olvidarnos de la gestión de los incidentes y del fraude. También veremos qué son las tecnologías de gestión de eventos e información de seguridad (SIEM) y profundizaremos en las funciones que desempeña un científico de datos en distintas áreas, como el tratamiento de logs, la detección de anomalías y las series temporales. \n\nAnímate a adentrarte en el mundo de la ciberseguridad de la mano de este curso diseñado especialmente para especialistas en el tratamiento de datos. ¡Adelante!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "7 semanas de estudio, 1-2 horas por semana.",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/data-cybersecurity",
+  "instructors": [
+    {
+      "name": "Campus BBVA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Campus BBVA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

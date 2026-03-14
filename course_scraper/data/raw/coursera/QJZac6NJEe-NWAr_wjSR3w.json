@@ -1,0 +1,26 @@
+{
+  "course_id": "QJZac6NJEe-NWAr_wjSR3w",
+  "platform": "coursera",
+  "title": "Docker training for Beginners",
+  "slug": "docker-training-for-beginners",
+  "description": "This comprehensive course on Docker Fundamentals equips you with the skills to build, deploy, and manage containerized applications using Docker. Begin by understanding the core concepts of Docker, its installation on Windows, and the architecture of containers. Learn to create and manage containers, use Docker Compose and Docker Swarm for orchestration, and write Dockerfiles to automate deployments. Progress to hands-on experience with Docker CLI commands, networking, and real-world comparisons between Docker, Kubernetes, and virtual machines for optimized DevOps workflows.\n\nTo be successful in this course, you should have a basic understanding of system administration, software development, and command-line tools.\n\nBy the end of this course, you will be able to:\n\n- Explain Docker architecture and create containerized applications\n- Automate builds using Dockerfiles and deploy with Compose and Swarm\n- Use Docker commands and networking to manage real-world environments\n- Compare Docker with Kubernetes and virtual machines for DevOps efficiency\n\nIdeal for DevOps engineers, system administrators, and software developers.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/docker-training-for-beginners",
+  "instructors": [
+    {
+      "name": "Priyanka Mehta",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Simplilearn"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,46 @@
+{
+  "course_id": "course-256bcc7d-5d2f-4053-b09a-22b48e058798",
+  "platform": "edx",
+  "title": "Analyzing Data with Excel",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n This course provides students with the fundamental knowledge required to use Excel spreadsheets to perform basic data analysis.The course consists of several videos, demos, examples, and hands-on labs to help you learn, and ends with a final assignment project which will help you put what you have learned into practice. \n Excel is an important tool when working with data - whether it is for business, marketing, research, or data analysis purposes. This course is targeted at those people who have ambitions in Data Analytics or Data Scientist roles, as well as those who just have a need to use Excel to perform data analysis in their own company or environment. \n Learners will gain useful experience in the cleaning and wrangling of data using functions, and in analyzing data using methods such as sorting, filtering, and pivot tables. This course starts with an introduction to spreadsheet applications such as Microsoft Excel and Google Sheets and discusses importing data from multiple different formats. During this introduction you will learn to carry out some basic-level data wrangling and data cleaning tasks and then you will expand your knowledge of data analysis via the use of sorting, filtering, and pivot tables in a spreadsheet. \n The emphasis is on applied learning and hands-on practice in this course, and with each hands-on lab, you will gain further experience in the manipulation and handling of data and start to understand the important role that spreadsheets can perform in a data analysis environment. The final assignment project will allow you to apply these newly acquired skills to analyze data in a business scenario. By the end of this course, you will have worked with several data sets and spreadsheets and demonstrated the basics of cleaning and analyzing data all without having to learn any code. \n This course makes it simple to get started using Excel for data analysis, as it does not require any previous spreadsheet or code-writing experience. The course also does not require you to perform any software downloads or installations. All that is required is a device with a modern web browser, and the ability to use (or create) a Microsoft account to access Excel online at no-cost. Although the hands-on labs steps are specifically related to using ‘Excel for the web’, if you already have the full desktop version of Excel, you should be able to use that to follow along quite easily with the labs.",
+  "learning_goals": [
+    "Data Wrangling",
+    "Data Science",
+    "Pivot Tables And Charts",
+    "Spreadsheets",
+    "Data Cleansing",
+    "Microsoft Excel",
+    "Web Browsers",
+    "Google Sheets",
+    "Business Marketing",
+    "Data Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "sandip-sasha-joy",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "steve-ryan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8957,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

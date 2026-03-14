@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752349",
+  "platform": "mooc_cn",
+  "title": "普通天文学",
+  "description": "不满足只做个天文爱好者？想要探究宇宙的奥秘？那就一起来学习《普通天文学》吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752349",
+  "instructors": [
+    {
+      "name": "李向东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48921,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

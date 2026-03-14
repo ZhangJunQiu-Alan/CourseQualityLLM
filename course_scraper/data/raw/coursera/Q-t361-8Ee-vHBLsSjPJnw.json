@@ -1,0 +1,26 @@
+{
+  "course_id": "Q-t361-8Ee-vHBLsSjPJnw",
+  "platform": "coursera",
+  "title": "Systems and Application Security",
+  "slug": "systems-and-application-security",
+  "description": "Course 7 -  Systems and Application Security\n\nThis is the seventh course under the specialization SSCP.\n\nThis course discusses two major changes in recent years to how we use our data: going mobile and using the cloud. First, we use our data on the go by means of data services provided to our mobile phones, Wi-Fi, and other devices. Second, so many of the enhanced functions we take for granted in our daily personal and professional lives are made possible by cloud services, where our data is stored or processed.  \n\nCourse 7 Learning Objectives\n\nAfter completing this course, the participant will be able to:  \n\n- Classify different types of malware.  \n- Determine how to implement malware countermeasures.  \n- Identify various types of malicious activities.   \n- Develop strategies for mitigating malicious activities.   \n- Describe various social engineering methods used by attackers.   \n- Explain the role of behavior analytics technologies in detecting and mitigating threats.   \n- Explain the role and functionality of host-based intrusion prevention system (HIPS), host-based intrusion detection system (HIDS), and host-based firewalls.   \n- Evaluate the benefits of application whitelisting in endpoint device security.   \n- Explain the concept of endpoint encryption and its role in endpoint security.   \n- Describe the role and functionality of Trusted Platform Module (TPM) technology in providing hardware-based security features.   \n- Identify the steps in implementing secure browsing practices using digital certificates and secure communication protocols.   \n- Explain the concept of endpoint detection and response (EDR) and its role in providing real-time monitoring, detection, investigation, and response capabilities to identify and mitigate advanced threats and security incidents on endpoint devices.   \n- Identify provisioning techniques for mobile devices.   \n- Explain the concept of containerization and how it contributes to effective mobile device management.   \n- Explain how encryption contributes to effective mobile device management.   \n- Describe the process of Mobile Application Management (MAM) to effectively manage the life cycle of mobile applications.   \n- Distinguish among public, private, hybrid, and community deployment models in cloud security.   \n- Distinguish among various service models and their impact on cloud security practices.   \n- Describe virtualization technologies and their role in maintaining cloud security.   \n- Identify legal and regulatory concerns related to cloud security.   \n- Determine strategies to implement data storage, processing, and transmission while maintaining cloud security.   \n- Explain the requirements and considerations associated with third-party services and outsourcing in cloud storage.   \n- Explain the concept of the shared responsibility model in cloud storage.   \n- Identify steps to manage and secure hypervisor environments.   \n- Explain how to deploy, configure, and maintain virtual appliances within virtualized environments.   \n- Determine the process for managing containerized environments.   \n- Describe the best practices of storage management in virtualized environments.   \n- Develop strategies for ensuring business continuity and resilience in virtualized environments.   \n- Analyze potential threats and attacks targeting virtual environments. \n\nWho Should Take This Course: Beginners\nExperience Required: No prior experience required",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/systems-and-application-security",
+  "instructors": [
+    {
+      "name": "ISC2 Education & Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "ISC2"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

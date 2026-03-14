@@ -1,0 +1,32 @@
+{
+  "course_id": "course-239e085d-8118-43bd-bd46-5820e7242151",
+  "platform": "edx",
+  "title": "Introduction To Music Theory",
+  "description": "Do you have a passion for music and want to learn more about how it works? Are you a musician who learned by ear and has no formal training? Would you like to study music but are unsure of where to begin? Then this music theory course is for you. This course includes six lessons that will give you the knowledge and skills you need to understand basic music theory. You’ll learn from Berklee College of Music professor George W. Russell, Jr. and from Berklee students who share their musical journey and offer advice for those wanting to study music. Above all, the course is designed to impart the joy of creating music and sharing it with others.",
+  "learning_goals": [
+    "Music Theory"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "george-russell-jr",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Berklee College of Music"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2478,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

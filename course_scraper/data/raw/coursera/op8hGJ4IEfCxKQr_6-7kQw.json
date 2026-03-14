@@ -1,0 +1,26 @@
+{
+  "course_id": "op8hGJ4IEfCxKQr_6-7kQw",
+  "platform": "coursera",
+  "title": "Ubuntu Server Mastery - Real-World Linux Admin Skills",
+  "slug": "packt-ubuntu-server-mastery-real-world-linux-admin-skills-mtfpp",
+  "description": "This course features Coursera Coach! \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course. \n\nThis course equips you with real-world skills in Ubuntu server administration. You’ll learn how to set up and manage Ubuntu servers, explore Linux principles, and handle server management tasks. From configuring networking, SSH, and firewalls to mastering file management and security, you’ll be guided step-by-step. \n\nThe course covers practical tasks such as setting up servers, using SSH for remote access, managing users and groups, and troubleshooting issues. You’ll also dive into advanced topics like ZFS file systems, package management, and server monitoring. \n\nIdeal for aspiring Linux admins, system engineers, and IT professionals. Basic Linux and networking knowledge is recommended. \n\nBy the end, you will be able to set up and manage Ubuntu servers, optimize system performance, handle user management, secure your environment, and troubleshoot issues.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-ubuntu-server-mastery-real-world-linux-admin-skills-mtfpp",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

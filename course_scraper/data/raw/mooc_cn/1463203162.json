@@ -1,0 +1,31 @@
+{
+  "course_id": "1463203162",
+  "platform": "mooc_cn",
+  "title": "半导体材料",
+  "description": "芯片是信息社会的基础，其中有数亿个晶体管在进行着信息的存储和计算。半导体材料是制造这些晶体管的基石，在信息产业的发展中具有着至关重要的地位。本课程由浙江大学杨德仁院士讲授，带你了解信息时代核心材料的方方面面。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463203162",
+  "instructors": [
+    {
+      "name": "杨德仁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9369,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

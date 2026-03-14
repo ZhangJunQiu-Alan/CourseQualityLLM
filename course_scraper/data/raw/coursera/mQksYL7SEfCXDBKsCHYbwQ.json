@@ -1,0 +1,26 @@
+{
+  "course_id": "mQksYL7SEfCXDBKsCHYbwQ",
+  "platform": "coursera",
+  "title": "Jira: Plan, Verify, and Deliver",
+  "slug": "jira-plan-verify-and-deliver",
+  "description": "In today's fast-paced agile environments, quality is not an afterthought—it's built into every step of the process. Jira: Plan, Verify, and Deliver is a hands-on course for anyone looking to bring more structure, clarity, and predictability to their team's workflow. This course moves beyond basic ticket-tracking to teach you two of the most powerful quality gates in agile development: the INVEST criteria for user stories and the \"Definition of Done\" (DoD) for completed tasks.\n\nYou will learn to act as a quality gatekeeper, using the INVEST checklist to inspect user stories for clarity, value, and readiness before development begins. Then, you will master the art of using a DoD checklist to systematically verify that completed work meets all team-agreed standards. Through practical simulations and real-world scenarios in a Jira-like environment, you will gain the confidence to reduce ambiguity, minimize rework, and ensure every task is truly \"Done.\"",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "120 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/jira-plan-verify-and-deliver",
+  "instructors": [
+    {
+      "name": "LearningMate",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "21001",
+  "platform": "mooc_cn",
+  "title": "中国近现代史纲要",
+  "description": "“中国近现代史纲要”课程是通过对中国近现代政治、社会发展变迁线索的把握，引导学生感受社会发展大变动的状况，深入历史表象背后去体会历史发展的意境，提升自身的历史智慧，从而全方位提高大学生的人文历史和政治素养。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/21001",
+  "instructors": [
+    {
+      "name": "段治文;刘召峰;赵晖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 325634,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

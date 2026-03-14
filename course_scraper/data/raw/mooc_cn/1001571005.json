@@ -1,0 +1,31 @@
+{
+  "course_id": "1001571005",
+  "platform": "mooc_cn",
+  "title": "用Python玩转数据",
+  "description": "欢迎来到《用Python玩转数据》，这是第21次开课（本轮计划继续迭代课程内容），大壮老师会尽量用非计算机专业（需要有一些编程基础，最好学过一门程序设计语言，但不一定是Python）小伙伴们能听懂的方式讲述如何利用简单易学优雅的Python便捷地获取、表示、分析和展示数据，让大家愉快地学习用Python玩转数据。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001571005",
+  "instructors": [
+    {
+      "name": "张莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 453623,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

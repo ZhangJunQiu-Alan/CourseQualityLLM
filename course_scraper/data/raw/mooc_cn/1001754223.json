@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754223",
+  "platform": "mooc_cn",
+  "title": "麻醉生理学",
+  "description": "生理学是生物科学的一个分支，是研究生物体及其各组成部分正常功能活动规律的学科，人体生理学则是研究正常人体功能活动（诸如呼吸、循环、消化、泌尿、生殖、行为变化、思维活动等）及其规律的科学。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754223",
+  "instructors": [
+    {
+      "name": "宋英;秦霞;武静茹;张咏梅;张洋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "徐州医科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23376,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

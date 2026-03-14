@@ -1,0 +1,31 @@
+{
+  "course_id": "1460859161",
+  "platform": "mooc_cn",
+  "title": "数字信号处理",
+  "description": "数字信号处理课程是电子信息类专业非常重要的一门专业基础课，通过本课程的学习。我们将引领同学们了解数字信号处理技术的基本理论、基本方法，并通过MATLAB实践练习，让同学们亲身体会数字信号处理技术的神奇，为今后从事数字信号处理方面的研究和工作打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460859161",
+  "instructors": [
+    {
+      "name": "陈俊杰;李洪均;赵灵冬;高月红;李蕴华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2748,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

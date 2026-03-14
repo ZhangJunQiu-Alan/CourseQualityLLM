@@ -1,0 +1,26 @@
+{
+  "course_id": "hvv-ZCxjEe6mDAo3fVlzHw",
+  "platform": "coursera",
+  "title": "Introduction to Large Language Models - בעברית",
+  "slug": "introduction-to-large-language-models-he",
+  "description": "זהו קורס מבוא ממוקד שבוחן מהם מודלים גדולים של שפה (LLM), איך משתמשים בהם בתרחישים שונים לדוגמה ואיך אפשר לשפר את הביצועים שלהם באמצעות כוונון של הנחיות. הוא גם כולל הסבר על הכלים של Google שיעזרו לכם לפתח אפליקציות בינה מלאכותית גנרטיבית משלכם.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-large-language-models-he",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

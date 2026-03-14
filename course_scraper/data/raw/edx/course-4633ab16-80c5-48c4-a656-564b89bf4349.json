@@ -1,0 +1,63 @@
+{
+  "course_id": "course-4633ab16-80c5-48c4-a656-564b89bf4349",
+  "platform": "edx",
+  "title": "Back-end Application Development with Node.js and Express",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!    \n In this course, you will focus on Node.js and Express. Specifically, you will  \n \n  develop applications using asynchronous callbacks and promises  \n  create REST APIs and perform CRUD operations  \n  implement authentication and session management  \n \n    \n Throughout the course, you will complete numerous hands-on labs to gain practical experience. At the end of the course, you will demonstrate your Node skills with a final project to build your portfolio.    \n This course will help you succeed as a back-end or full-stack developer. It suits those in IT looking to step up in their careers or new graduates seeking to establish their server-side skills. This course suits those who need to manage cloud-centric projects.   \n Note: This course requires knowledge of JavaScript and Git.",
+  "learning_goals": [
+    "React.js",
+    "Server-Side",
+    "Cloud-Native Computing",
+    "Cloud Development",
+    "Stack Overflow",
+    "Github",
+    "Event-Driven Programming",
+    "Git (Version Control System)",
+    "Application Programming Interface (API)",
+    "Callback Functions",
+    "Artificial Intelligence",
+    "JSON",
+    "IBM Cloud Computing",
+    "Front End (Software Engineering)",
+    "JavaScript Frameworks",
+    "Continuous Delivery",
+    "Parsing",
+    "Node.js",
+    "HTML5",
+    "Web Applications",
+    "DevOps",
+    "JavaScript (Programming Language)",
+    "Web Application Frameworks",
+    "Authentications",
+    "Web Services",
+    "JavaScript Libraries",
+    "RESTful API",
+    "Application Development",
+    "User Interface",
+    "Full Stack Development",
+    "ECMAScript 2015",
+    "Cloud Applications"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "3 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "upkar-lidder",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1051,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "Qi_ol-MNEe6bqhL4v8f1dw",
+  "platform": "coursera",
+  "title": "Vector Databases: An Introduction with Chroma DB",
+  "slug": "vector-databases-introduction-with-chromadb",
+  "description": "Vector databases provide the solid foundation required by large language models to deliver AI-powered similarity searches and recommendation systems for e-commerce recommendations, cybersecurity fraud detection,  medical diagnostics, bioinformatics research, and other complex analysis tasks. Begin learning how to take advantage of the efficiencies vector databases offer in this introductory course by IBM.\n\nIn this introductory microcourse, you'll build your knowledge of vector database fundamentals and explore the importance of vector databases in today’s data management landscape. Then, dive into how vector databases differ from traditional databases and learn about vector database types and their uses.  \n\nYou’ll also gain hands-on experience setting up environments for vector database operations and performing day-to-day database tasks using Chroma DB. You will learn how to:\n\n•\tSet up environments for vector database operations.\n•\tPerform update, delete, and collection-related tasks.\n•\tDemonstrate vector database skills and implement similarity searches using real-world data sets. \n\nThis microcourse is built to provide you with broad, foundational vector database knowledge. This course is for engineers, data scientists, machine learning engineers, DevOps engineers, AI Engineers, and others who work with or intend to build large language models (LLMS), generative AI applications, and related transformative technologies.\n\nEnroll today and learn how to take advantage of the efficiencies that vector databases offer!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 hours/ 1 week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/vector-databases-introduction-with-chromadb",
+  "instructors": [
+    {
+      "name": "IBM Skills Network Team",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Richa Arora",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

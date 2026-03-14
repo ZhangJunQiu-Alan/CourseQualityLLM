@@ -1,0 +1,31 @@
+{
+  "course_id": "1002123005",
+  "platform": "mooc_cn",
+  "title": "高级语言程序设计",
+  "description": "随着生成式人工智能、无人机、自动驾驶等人工智能技术的发展，计算机及其相关技术正在深刻影响人类的发展。若将计算机硬件类比躯干，那计算机程序则是构建大脑的基础。在众多程序设计语言中，C语言为构建Unix操作系统而设计，后来的Windows、MacOS、Linux、Android等操作系统，以及众多应用软件均使用C语言开发。时到今日，众多新型程序设计语言在C语言基础上诞生，开花结果，获得广泛应用。当前，C语言依然保持强大生命力，是新型设备开发的利器。C语言简洁、高效的语法体系非常适合入门学习。为了梦想，用计算机程序改造世界，创造无限可能！本课程积极引入生成式人工智能技术改进教学，初步建立智慧课程。欢迎大家与我们一起学习使用C语言程序设计！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002123005",
+  "instructors": [
+    {
+      "name": "高克宁;赵长宽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 46975,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

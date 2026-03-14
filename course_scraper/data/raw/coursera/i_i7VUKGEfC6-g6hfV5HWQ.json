@@ -1,0 +1,26 @@
+{
+  "course_id": "i_i7VUKGEfC6-g6hfV5HWQ",
+  "platform": "coursera",
+  "title": "Advanced AI Techniques and Behavior in Unity",
+  "slug": "packt-advanced-ai-techniques-and-behavior-in-unity-q6rqa",
+  "description": "This course features Coursera Coach! \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this advanced-level course, you will explore sophisticated AI techniques for creating realistic, dynamic, and intelligent behaviors in Unity. Starting with crowd simulation, you will learn how to simulate large groups of agents moving as one, as well as how to implement flocking behavior for AI groups. The course takes you through the process of creating goal-driven AI using Goal-Oriented Action Planning (GOAP), and introduces behavior trees to structure complex decision-making systems. \n\nThe course begins with a focus on crowd simulation, where you will learn how to simulate both fleeing and flocking behaviors in groups of agents. Then, you will dive into Goal-Oriented Action Planning (GOAP), creating intelligent agents that plan their actions dynamically based on environmental conditions. Additionally, you’ll explore behavior trees, a powerful tool for organizing AI actions and decision-making, allowing your agents to execute tasks like navigation, combat, and interaction with the game world.\n\nDesigned for developers looking to level up their AI development skills, this course requires prior experience with Unity and basic AI concepts. Whether you're developing strategy games, simulation games, or action games, the techniques learned in this course will help you build more complex and engaging AI systems for your games. By the end of the course, you will be equipped to implement highly adaptive AI for a variety of game environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-advanced-ai-techniques-and-behavior-in-unity-q6rqa",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

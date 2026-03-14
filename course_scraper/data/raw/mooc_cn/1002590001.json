@@ -1,0 +1,31 @@
+{
+  "course_id": "1002590001",
+  "platform": "mooc_cn",
+  "title": "铁道概论",
+  "description": "铁路就在我们的身边，而我们却对它知之甚少，那两根锃亮的钢轨下究竟蕴含多少秘密？火车有没有方向盘?火车如何改变行驶路线?火车如何掉头？火车也会闯红灯吗？……让我们一起登上时代的列车，沿着钢轨，在信号的指挥下，越过一个个车站，去探究铁路的奥秘与风采！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002590001",
+  "instructors": [
+    {
+      "name": "王宁;栾婷婷;李秋梅;聂蓉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南铁道职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 45081,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

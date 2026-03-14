@@ -1,0 +1,26 @@
+{
+  "course_id": "VIrOy9zREeqPZRKxGtAxBQ",
+  "platform": "coursera",
+  "title": "SQL Joins ",
+  "slug": "sql-joins",
+  "description": "In this 1-hour long project-based course, you will learn how to utilize MySQL joins in your queries. By the end of this project, you will create a number of examples that will develop your learning around joins in SQL. This course will enable you to take your beginner knowledge of SQL to the next level by enabling you to utilize joins. Thus, being able to develop more complex queries. This course will provide students with the knowledge behind different joins that are available in MySQL language such as inner join, outer join, and left join. This project will take students through a number of examples demonstrating SQL functions based on a database around a bookstore. You will gain an understanding of these concepts from the in-depth examples provided.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/sql-joins",
+  "instructors": [
+    {
+      "name": "Emma Martin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "_ASRm84YEfCGDQr_wTYZuQ",
+  "platform": "coursera",
+  "title": "Introduction to Analytics Engineering",
+  "slug": "introduction-to-analytics-engineering",
+  "description": "This course helps you build a strong foundation in analytics engineering and gives you the practical skills needed to work with modern data systems. You will begin by learning the core components of the modern data stack and the responsibilities of analytics engineers. From there, you will move into analytical SQL, dimensional modeling concepts, and the structure of ELT pipelines. The course concludes with hands-on development in dbt Core, where you will create, test, and document high-quality data models.\nWith a practical, applied approach, the course covers essential topics such as writing effective SQL queries, organizing raw, staging, and mart layers, designing fact and dimension tables, and building automated transformations using dbt. You will learn how to structure data models, implement data quality checks, manage lineage, and support scalable analytics within modern data environments.\n•\tBy the end of this course, you will be able to:\n•\tUnderstand the role of analytics engineering in modern data workflows\n•\tDesign dimensional models using facts, dimensions, keys, and grain\n•\tBuild structured ELT pipelines across raw, staging, and mart layers\n•\tCreate, run, test, and document dbt Core models\n•\tApply tests and documentation to strengthen data quality and transparency\nThis course is designed for freshers, aspiring analytics engineers, data analysts, and data engineers who want to expand their skills in SQL, data modeling, ELT processes, and dbt development. It is ideal for anyone looking to build dependable, scalable, and well-documented analytics pipelines in today’s data-driven environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks of Study, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-analytics-engineering",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

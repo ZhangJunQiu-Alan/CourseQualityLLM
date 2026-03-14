@@ -1,0 +1,26 @@
+{
+  "course_id": "m1Hn-DLwEe6U4g7a-RyA1w",
+  "platform": "coursera",
+  "title": "Network Principles in Practice: Linux Networking",
+  "slug": "npp-linux-networking",
+  "description": "Welcome! In this course, titled \"Network Principles in Practice: Linux Networking,\" we delve into the dynamic domain of Linux Networking, featuring a robust set of features essential for contemporary networked systems. Departing from traditional approaches, our emphasis is on practical application over foundational knowledge. Throughout the course, you'll explore the integration of concepts into Linux, gaining hands-on experience in architecting and implementing complex networks and systems. From understanding the Linux kernel's role to building gateways and navigating virtual networking and container orchestration with Kubernetes, each week offers valuable insights and practical skills. Join us on this journey where understanding meets real-world application, providing a comprehensive exploration of network systems.\n\nThis course can be taken for academic credit as part of CU Boulder’s Masters of Science in Computer Science (MS-CS) degrees offered on the Coursera platform. This fully accredited graduate degree offer targeted courses, short 8-week sessions, and pay-as-you-go tuition. Admission is based on performance in three preliminary courses, not academic history. CU degrees on Coursera are ideal for recent graduates or working professionals. Learn more: \n\nMS in Computer Science: https://coursera.org/degrees/ms-computer-science-boulder\n\nCourse logo by Jordan Harrison on Unsplash.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 weeks, 4-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/npp-linux-networking",
+  "instructors": [
+    {
+      "name": "Eric Keller",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

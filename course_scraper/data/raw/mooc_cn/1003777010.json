@@ -1,0 +1,31 @@
+{
+  "course_id": "1003777010",
+  "platform": "mooc_cn",
+  "title": "园林植物遗传育种学",
+  "description": "园林植物遗传育种学是园林、观赏园艺专业的一门重要的专业基础课，是以遗传学基本理论为指导，学习如何利用传统技术和现代生物技术培育园林植物新品种的理论和方法，其最终目标是为园林事业的发展提供可以使用的优良植物材料。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003777010",
+  "instructors": [
+    {
+      "name": "戴思兰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17468,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "jx6Ps8CGEe-ADgr_3OZlyQ",
+  "platform": "coursera",
+  "title": "Ansible and Ansible-Playbooks for Automation",
+  "slug": "packt-ansible-and-ansible-playbooks-for-automation-t9h7v",
+  "description": "Unlock the power of automation with Ansible and Ansible Playbooks in this comprehensive course designed to elevate your IT infrastructure management skills. Through step-by-step guidance, you will master Ansible's agentless architecture, efficient task execution, and powerful automation capabilities to streamline your workflows.\n\nYour journey begins with an introduction to Ansible, its core components, and environment setup, including configuring nodes and controllers. Progressively, you’ll dive into ad-hoc commands, modules for file management, and package installations across diverse OS families. Advanced sections cover playbook creation, debugging, and dynamic inventory handling, providing you with practical skills to automate real-world IT tasks.\n\nYou'll explore sophisticated playbook concepts, such as variables, loops, conditional statements, and templates, to create reusable, adaptable automation scripts. Additionally, delve into error handling, privilege escalation, and integrating third-party plugins for enhanced functionality. A dedicated section on security teaches you how to use Ansible Vault to encrypt sensitive information securely.\n\nIdeal for system administrators, DevOps engineers, and IT professionals, this course equips you with the tools and knowledge to implement efficient automation practices. No prior experience with Ansible is required, but basic Linux command-line skills are recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-ansible-and-ansible-playbooks-for-automation-t9h7v",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

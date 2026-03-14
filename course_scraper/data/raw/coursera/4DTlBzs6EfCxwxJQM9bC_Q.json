@@ -1,0 +1,26 @@
+{
+  "course_id": "4DTlBzs6EfCxwxJQM9bC_Q",
+  "platform": "coursera",
+  "title": "Application Security Program Ignition Guide",
+  "slug": "packt-application-security-program-ignition-guide-oqaxd",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you will gain a comprehensive understanding of application security, with practical insights into enhancing security measures and creating a robust program within your organization. From defining core concepts to addressing critical security challenges, you will learn how to protect applications from evolving threats and vulnerabilities. Key concepts like risk measurement, confidentiality, and adversary identification are explored in depth to empower you with the necessary tools to safeguard your software systems.\n\nAs you progress, the course will take you through essential security components, including threat modeling, security analysis, penetration testing, and vulnerability management. You will also learn about DevOps integration, secure code releases, and decentralized application security. By the end of the course, you will understand how to build a resilient application security roadmap and measure its success through key performance indicators (KPIs), feedback, and security scorecards.\n\nThis course is suitable for developers, security professionals, and anyone involved in securing software applications. Whether you are aiming to enhance your organization's security posture or looking to integrate more effective practices, this course will provide the knowledge needed to drive security improvements in any application development environment.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-application-security-program-ignition-guide-oqaxd",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

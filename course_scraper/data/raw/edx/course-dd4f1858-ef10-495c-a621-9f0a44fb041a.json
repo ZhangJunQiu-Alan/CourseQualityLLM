@@ -1,0 +1,24 @@
+{
+  "course_id": "course-dd4f1858-ef10-495c-a621-9f0a44fb041a",
+  "platform": "edx",
+  "title": "Vector Search and Embeddings",
+  "description": "This course introduces Vertex AI Vector Search and describes how it can be used to build a search application with large language model (LLM) APIs for embeddings. The course consists of conceptual lessons on vector search and text embeddings, practical demos on how to build vector search on Vertex AI, and a hands-on lab.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 360,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

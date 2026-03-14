@@ -1,0 +1,26 @@
+{
+  "course_id": "UbtDBfT_EfCFRg7t6P8RhQ",
+  "platform": "coursera",
+  "title": "Simulate with Monte Carlo",
+  "slug": "simulate-with-monte-carlo",
+  "description": "Ready to turn uncertainty into opportunity? This Short Course was created to help data analysts master Monte Carlo simulation techniques to quantify risk and forecast outcomes under uncertainty.\n\nBy completing this course, you'll transform complex probabilistic scenarios into actionable insights. You'll build robust simulation models, conduct sensitivity analysis, and create probability distributions that inform critical business decisions with confidence.\n\nBy the end of this course, you will be able to:\nBuild Monte Carlo simulation models for project ROI analysis\nEvaluate sensitivity through tornado chart analysis\nConstruct currency-exchange exposure simulations\nDetermine optimal iteration counts for model convergence\n\nThis course is unique because it combines theoretical foundations with hands-on Python implementation, providing both Excel-based and programmatic approaches to Monte Carlo modeling.\n\nTo be successful in this project, you should have a background in basic statistics and Python programming.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "180 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/simulate-with-monte-carlo",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

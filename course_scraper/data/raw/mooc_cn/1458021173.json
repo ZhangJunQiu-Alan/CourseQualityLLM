@@ -1,0 +1,31 @@
+{
+  "course_id": "1458021173",
+  "platform": "mooc_cn",
+  "title": "交通数据挖掘技术（Data Mining for Transportation）",
+  "description": "The motivation for this course started with the development of information techniques. The amount of traffic data collected is growing at an increasing rate and are expecting more sophisticated analysis of these large data set.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458021173",
+  "instructors": [
+    {
+      "name": "陈淑燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2625,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

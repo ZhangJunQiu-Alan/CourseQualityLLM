@@ -1,0 +1,31 @@
+{
+  "course_id": "1471419163",
+  "platform": "mooc_cn",
+  "title": "电子工艺实习",
+  "description": "电子工艺实习是面向电气类本科生的专业实践课，的授课内容包括电气安全、电子元器件认知、电路设计、基本焊接工艺训练、控制电路焊接训练以及驱动电路焊接训练等",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471419163",
+  "instructors": [
+    {
+      "name": "徐建军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 649,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

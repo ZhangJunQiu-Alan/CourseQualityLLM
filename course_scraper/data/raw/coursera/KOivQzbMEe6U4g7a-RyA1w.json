@@ -1,0 +1,26 @@
+{
+  "course_id": "KOivQzbMEe6U4g7a-RyA1w",
+  "platform": "coursera",
+  "title": "Introducción a Java",
+  "slug": "introduccion-a-java",
+  "description": "Si quieres iniciarte en el mundo del desarrollo de software, este curso te ayudará a dar los primeros pasos. Aprenderás a realizar tus primeros programas utilizando uno de los lenguajes más populares, vigente desde hace años y con gran demanda en el mercado: Java. El curso te presentará una breve introducción a la programación orientada a objetos que te ayudará profundizar en el tema más adelante. Aprenderás cómo codificar Java y cómo utilizar uno de los entornos de desarrollo más populares, el Eclipse. El curso te guiará para que, con ambas herramientas, puedas comenzar a pensar cómo resolver problemas usando programas en Java. \n\nLos objetivos del curso son: \n\n- Entender qué es un lenguaje de programación y qué es programación orientada a objetos. \n\n- Conocer el lenguaje Java, su sintaxis, su forma de trabajar y sus particularidades. \n\n- Aprender a usar un entorno integrado de desarrollo, una herramienta muy útil que sirve para Java y para cualquier otro lenguaje. \n\n- Obtener un entendimiento básico sobre los algoritmos y cómo usarlos para resolver problemas.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 horas por semana.",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/introduccion-a-java",
+  "instructors": [
+    {
+      "name": "Guido Chiesa",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad de Palermo"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

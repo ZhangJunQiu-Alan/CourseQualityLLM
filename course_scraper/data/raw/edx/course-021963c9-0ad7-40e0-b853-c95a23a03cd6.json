@@ -1,0 +1,70 @@
+{
+  "course_id": "course-021963c9-0ad7-40e0-b853-c95a23a03cd6",
+  "platform": "edx",
+  "title": "Industrial Biotechnology",
+  "description": "This course provides the insights and tools for designing biotechnological processes with sustainability advantages, where choices of product and feedstock determine the specific process requirements. As fossil-based fuels and raw materials contribute to climate change, the use of renewable feedstocks, materials and energy as an alternative is in full swing. \n This transition is not a luxury, it is a necessity. We can use microorganisms to convert organic streams (‘waste’ or residues) and/or CO2 into biomaterials, chemicals, nutrition products and biofuels. \n Eight experienced course leaders will unfold the basics of industrial biotechnology and how to apply these to the design of fermentation-based processes to produce a wide range of bioproducts. Throughout the course, you will be challenged to design your own biotechnological process and evaluate its performance and sustainability. \n The course includes guest lectures from industry and universities. By following this course, you will be able to contribute up-to-date ideas in the biotechnology field.",
+  "learning_goals": [
+    "Fermentation",
+    "Sustainability",
+    "Biotechnology",
+    "Industrial Processes"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "henk-noorman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "patricia-osseweijer",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jack-pronk",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "john-posada-duque",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "wouter-van-winden",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ludovic-jourdin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "adrie-straathof",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sef-heijnen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 640,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206605801",
+  "platform": "mooc_cn",
+  "title": "数字视频设计与制作技术",
+  "description": "“数字视频设计与制作技术”课程的目的和任务是，通过数字视频的设计、摄像、编辑、特技与动画、字幕制作、声音处理、导演等内容的教学，使学生掌握数字视频设计与制作技术的基本技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206605801",
+  "instructors": [
+    {
+      "name": "卢锋;周灵",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26740,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

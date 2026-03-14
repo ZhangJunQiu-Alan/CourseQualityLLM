@@ -1,0 +1,26 @@
+{
+  "course_id": "CW4VgKkrEeyjPxJkzIUqCw",
+  "platform": "coursera",
+  "title": "Creating a Persistent Disk",
+  "slug": "googlecloud-creating-a-persistent-disk-atchf",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this hands-on lab, you will learn how to create a persistent disk and use it on a Google Compute Engine virtual machine. You will also learn about zones, regions, and different disk types. Watch the short preview Create a Persistent Disk, GCP Essentials.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-creating-a-persistent-disk-atchf",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

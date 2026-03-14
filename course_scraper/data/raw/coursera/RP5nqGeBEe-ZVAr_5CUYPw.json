@@ -1,0 +1,26 @@
+{
+  "course_id": "RP5nqGeBEe-ZVAr_5CUYPw",
+  "platform": "coursera",
+  "title": "Operating Systems and Networking Fundamentals",
+  "slug": "packt-operating-systems-and-networking-fundamentals-bokjh",
+  "description": "In this course, you’ll gain a comprehensive understanding of operating systems and networking essentials that are critical for any IT technician. The course begins by covering installation and upgrades across different operating systems, including Windows 10, Windows 11, macOS, and Linux. You'll learn about boot processes, pre-installation checks, and post-installation configurations, providing you with the practical knowledge to handle real-world scenarios.\n\nNext, the course dives into the management of operating systems, exploring vital tools such as Task Manager, Control Panel, and Microsoft Management Console (MMC). You will also understand how to work with users, groups, and permissions across platforms like Windows, Linux, and macOS, ensuring that you can securely and effectively manage system resources. The lessons will prepare you to handle file sharing, security policies, and the nuances of different file systems.\n\nLastly, the course focuses on local area networking (LAN) fundamentals. From understanding IP addressing, DHCP, DNS, and router configurations to managing firewalls and virtual LANs (VLANs), you’ll gain a solid foundation in networking. These skills are essential for troubleshooting both operating systems and network issues, ensuring smooth operation in any IT environment. By the end of the course, you'll be equipped to confidently tackle the CompTIA A+ exams.\n\nThis course is aimed at aspiring IT professionals, particularly those pursuing the CompTIA A+ certification. It’s ideal for individuals with basic computing knowledge who want to deepen their understanding of operating systems and networking.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-operating-systems-and-networking-fundamentals-bokjh",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

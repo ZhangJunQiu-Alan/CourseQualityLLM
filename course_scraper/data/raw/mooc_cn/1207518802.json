@@ -1,0 +1,31 @@
+{
+  "course_id": "1207518802",
+  "platform": "mooc_cn",
+  "title": "单片机应用技术",
+  "description": "单片机技术几乎渗透到生活、工业的各个方面，课程面向电子产品，专注于轨道交通智能设备的设计、开发、编程、调试及维修等技术技能岗位，培养单片机技术应用型与创新型人才。未来智能物联世界，从学好单片机应用技术启程吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207518802",
+  "instructors": [
+    {
+      "name": "陈享成;陈志红;罗丽宾;冯笑;梁明亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州铁路职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9104,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

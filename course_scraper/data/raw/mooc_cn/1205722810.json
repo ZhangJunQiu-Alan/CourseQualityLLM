@@ -1,0 +1,31 @@
+{
+  "course_id": "1205722810",
+  "platform": "mooc_cn",
+  "title": "汽车理论",
+  "description": "《汽车理论》课程名称来源于50年代的前苏联课程体系。根据其内容，也可以叫做汽车动力学或者汽车性能分析。主要依据对汽车进行动力学推导，由汽车结构参数，对汽车的使用性能参数指标进行预测与评价。又可以根据预测与评价结果，再重新对汽车结构参数进行匹配和优化。本次开课补充更新部分新能源汽车的构型及动力性经济性的分析思路。如目前流行的增程式汽车、纯电动汽车、插电式混合动力汽车等，及不同形式的新能源汽车在乘用车、轻型商用车及重型商用车的特点及性能上的优缺点分析。大家一起讨论一起交流。希望这次开课不仅仅有比较系统的理论知识，也能让对汽车感兴趣的人可以有所收获。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205722810",
+  "instructors": [
+    {
+      "name": "张良;刘伟;耿聪;张昕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 45164,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

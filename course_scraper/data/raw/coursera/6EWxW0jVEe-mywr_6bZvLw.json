@@ -1,0 +1,26 @@
+{
+  "course_id": "6EWxW0jVEe-mywr_6bZvLw",
+  "platform": "coursera",
+  "title": "벡터 검색 및 임베딩",
+  "slug": "vector-search-and-embeddings-ko",
+  "description": "이 과정에서는 AI 기반 검색 기술, 도구, 애플리케이션을 살펴봅니다. 벡터 임베딩을 활용하는 시맨틱 검색, 시맨틱 방식과 키워드 방식을 결합한 하이브리드 검색, 그라운딩된 AI 에이전트로서 AI 할루시네이션을 최소화하는 검색 증강 생성(RAG)에 대해 알아보세요. Vertex AI 벡터 검색을 활용해 지능형 검색 엔진을 빌드하는 실무 경험을 쌓을 수 있습니다.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "ko",
+  "url": "https://www.coursera.org/learn/vector-search-and-embeddings-ko",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1474214191",
+  "platform": "mooc_cn",
+  "title": "环境岩土工程",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1474214191",
+  "instructors": [
+    {
+      "name": "王菲;杜延军;刘志彬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 163,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

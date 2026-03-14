@@ -1,0 +1,34 @@
+{
+  "course_id": "course-63607811-810c-40ef-9bb6-1ae6ecdeefb3",
+  "platform": "edx",
+  "title": "Free Cash Flow Analysis",
+  "description": "In this course, learners will begin to apply the lessons and concepts from Introduction to Corporate Finance as they begin to discuss basics of firm valuation. \n Follow Professor Wolfenzon's lead to learn how the free cash flow method is applied to value firms. You will also learn about valuation using multiples. Throughout the course, you will learn how to construct Excel models to value firms by completing hands on activities.",
+  "learning_goals": [
+    "Valuation Using Multiples",
+    "Corporate Finance",
+    "Cash Flow Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "daniel-wolfenzon",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Columbia University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1483,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

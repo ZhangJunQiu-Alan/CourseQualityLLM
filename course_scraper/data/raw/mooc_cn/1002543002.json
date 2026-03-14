@@ -1,0 +1,31 @@
+{
+  "course_id": "1002543002",
+  "platform": "mooc_cn",
+  "title": "通信原理",
+  "description": "通信乃互通信息。本课学习通信最基本的原理。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002543002",
+  "instructors": [
+    {
+      "name": "高月红;赵龙;张志龙;郭一珺;桑林;刘丹谱;杨鸿文;韦再雪;林家儒",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56664,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

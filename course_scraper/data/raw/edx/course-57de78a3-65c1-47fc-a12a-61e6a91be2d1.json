@@ -1,0 +1,45 @@
+{
+  "course_id": "course-57de78a3-65c1-47fc-a12a-61e6a91be2d1",
+  "platform": "edx",
+  "title": "Real-World Applications of Economics",
+  "description": "This third course in the Data Science and Economics series is based on a Connector Course taught at UC Berkeley as a Connector between the field of Economics and the popular Introduction to Data Science Course. \n \n\nIn this course we cover some advanced topics from upper division courses, but in an introductory way, with applied applications and datasets. \n \n\nThis course is of interest to the growing number of students interested in the overlap between Economics and Data Science. The course has some more advanced programming challenges, including the Lorenz Curve and Gini Coefficient, statsmodels package for econometrics, and using a finance API. \n \n\nEach of the applications follows a unique applied dataset to illustrate the concepts that are learned in intermediate economics courses. Concepts of applied data analysis are illustrated in some advanced fields.     This program is offered in collaboration with edX, which is an online program manager (OPM) company. The roles and responsibilities of the OPM partner in the offering of the program are to provide the learning platform for the delivery of academic content, technical support for said platform, marketing support for the courses and programs, and creation of any credentials earned by the learner. UC Berkeley and UC Berkeley faculty are responsible for the creation of accessible academic content, instruction, grading and assessment.",
+  "learning_goals": [
+    "Econometrics",
+    "White Space Development",
+    "Game Theory",
+    "Application Programming Interface (API)",
+    "Data Science",
+    "Finance",
+    "Marketing",
+    "Learning Platforms",
+    "Data Analysis",
+    "Program Management",
+    "Environmental Economics",
+    "Statsmodels",
+    "Economics",
+    "Python (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "eric-van-dusen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of California, Berkeley"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 487,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

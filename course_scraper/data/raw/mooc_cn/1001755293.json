@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755293",
+  "platform": "mooc_cn",
+  "title": "高等数学（一）",
+  "description": "MOOC选用南京大学出版社出版杨天明、梅霞主编“十三五”江苏省高等学校重点教材《高等数学》教材前五章一元微积分部分，10教学周60课时。团队安排专人负责课程按时发布教学内容等工作，保证课程的顺利运行。课程以课堂教学为主线，以网络教学为补充，“线上线下”相互融合。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755293",
+  "instructors": [
+    {
+      "name": "唐孝法;史和娣;曹卫锋;陈智豪;韩广发;陈兵;梅霞;蔡井伟;杨天明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏农林职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 62028,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

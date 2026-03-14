@@ -1,0 +1,26 @@
+{
+  "course_id": "wnGjt9q_Ee6KOQ57xsF-aw",
+  "platform": "coursera",
+  "title": "Generative AI Foundations",
+  "slug": "generative-ai-foundations",
+  "description": "Generative AI Foundations is a comprehensive course designed to provide learners with a strong foundation in Generative Artificial Intelligence, covering key principles, core methodologies, and real-world applications across multiple domains such as text, images, audio, and code. Ideal for beginners and professionals alike, this course explores how Generative AI models like GANs, VAEs, and transformers are transforming industries through content creation, automation, and innovation.\n\nBy the end of this course, you will have acquired the knowledge and skills to:\n\n- Grasp the foundational concepts and technical intricacies of Generative AI, including its advantages and limitations.\n\n- Apply Generative AI for code generation, enhancing your programming efficiency and creativity in Python and other languages.\n\n- Master the art of prompt engineering to optimize interactions with AI models like ChatGPT, leading to improved outcomes in code generation and beyond.\n\n- Utilize ChatGPT for learning and mastering Python, data science, and software development practices, thereby broadening your technical skill set.\n\n- Explore the revolutionary fields of Autoencoders and Generative Adversarial Networks (GANs), understanding their architecture, operation, and applications.\n\n- Dive into the world of language models and transformer-based generative models, gaining insights into their mechanisms, applications, and impact on the future of AI.\n\nThis course is meticulously crafted to cater to a broad audience, including software developers, data scientists, AI enthusiasts, and professionals seeking to leverage Generative AI technologies for innovative solutions.\n\nWhile prior knowledge of Generative AI Fundamentals or Python Coding is helpful, but it is not a prerequisite to complete the course.\n\nWhether you're looking to enhance your existing skills or embark on a new career path in the field of AI, this course will provide you with the knowledge, practical skills, and confidence to succeed. Join us on this exciting journey into the world of Generative AI!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/generative-ai-foundations",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

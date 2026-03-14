@@ -1,0 +1,35 @@
+{
+  "course_id": "course-f3355ea1-0dc9-445c-a494-88328c8d5522",
+  "platform": "edx",
+  "title": "Introduction to Generative AI",
+  "description": "Gain a solid foundation in generative AI with this beginner-friendly course.  \n \n Understand what generative AI is and how it works through interactive lessons \n Master the art of effective prompting and iterative output refinement \n Dive deep into major generative models - capabilities and limitations \n \n Course Highlights: \n \n Get a high-level overview of generative AI concepts and applications \n Learn through hands-on examples and practical exercises \n Develop core skills to experiment with generative AI responsibly \n Explore use cases across different domains like text, images, code etc. \n Ideal for beginners looking to kickstart their generative AI journey \n \n This comprehensive introduction equips you with the essential knowledge to navigate the rapidly evolving generative AI landscape confidently.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alfredo-deza",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "noah-gift",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pragmatic AI Labs"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1245,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

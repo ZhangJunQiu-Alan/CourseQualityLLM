@@ -1,0 +1,41 @@
+{
+  "course_id": "course-90c23fbb-64e6-46bd-b2ff-84c9c298b59c",
+  "platform": "edx",
+  "title": "Introduction to Blockchain and Web3",
+  "description": "Developed by the Technical Education team at the Web3 Foundation, this course introduces the fundamental concepts of Blockchain technology and Web3.  \n First, we go over the history and the key terminology of blockchains, Bitcoin, Ethereum and Web3 and then take a deep dive into the technology that powers blockchains. The concepts of cryptography and hashing in the context of blockchains are explored along with hands-on activities that familiarize the learners with digital wallets and blockchain explorers. Next, we explore the concepts of block production and finality, consensus, nodes and networking in blockchain networks. Towards the end of the course, we will explore the blockchain layers and applications centered around networks like Bitcoin, Ethereum and Polkadot. We wrap up the course by exploring the current landscape of Web3 and the future of blockchain technology. \n The course is open to learners from all backgrounds. The key objective of this course is to provide a strong foundational knowledge pertaining to Blockchain and Web3.",
+  "learning_goals": [
+    "Blockchain",
+    "Cryptography",
+    "Ethereum",
+    "Nodes (Networking)",
+    "Bitcoin"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "radhakrishna-dasari-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "bill-laboon",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Web3 Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 710,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

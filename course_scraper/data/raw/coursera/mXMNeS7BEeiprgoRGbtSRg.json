@@ -1,0 +1,26 @@
+{
+  "course_id": "mXMNeS7BEeiprgoRGbtSRg",
+  "platform": "coursera",
+  "title": "Analyzing Big Data with SQL",
+  "slug": "cloudera-big-data-analysis-sql-queries",
+  "description": "In this course, you'll get an in-depth look at the SQL SELECT statement and its main clauses. The course focuses on big data SQL engines Apache Hive and Apache Impala, but most of the information is applicable to SQL with traditional RDBMs as well; the instructor explicitly addresses differences for MySQL and PostgreSQL.\n\nBy the end of the course, you will be able to\n• explore and navigate databases and tables using different tools;\n• understand the basics of SELECT statements;\n• understand how and why to filter results;\n• explore grouping and aggregation to answer analytic questions;\n• work with sorting and limiting results; and \n• combine multiple tables in different ways.\n\nTo use the hands-on environment for this course, you need to download and install a virtual machine and the software on which to run it. Before continuing, be sure that you have access to a computer that meets the following hardware and software requirements:\n• Windows, macOS, or Linux operating system (iPads and Android tablets will not work)\n• 64-bit operating system (32-bit operating systems will not work)\n• 8 GB RAM or more\n• 25GB free disk space or more\n• Intel VT-x or AMD-V virtualization support enabled (on Mac computers with Intel processors, this is always enabled;\non Windows and Linux computers, you might need to enable it in the BIOS)\n• For Windows XP computers only: You must have an unzip utility such as 7-Zip or WinZip installed (Windows XP’s built-in unzip utility will not work)",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cloudera-big-data-analysis-sql-queries",
+  "instructors": [
+    {
+      "name": "Ian Cook",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Cloudera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

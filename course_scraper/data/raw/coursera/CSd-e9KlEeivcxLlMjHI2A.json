@@ -1,0 +1,26 @@
+{
+  "course_id": "CSd-e9KlEeivcxLlMjHI2A",
+  "platform": "coursera",
+  "title": "Introduction to Industrial Bioprocess Development",
+  "slug": "industrial-bioprocess-development",
+  "description": "Bioprocesses make use of microorganisms, animal cells, or enzymes to manufacture new products or complete a chemical transformation. Since ancient days, humans have been using microorganisms to transform biological materials for the production of alcoholic beverages and other fermented foods. Since then, bioprocesses have been developed for an enormous range of commercial products, from relatively cheap products such as organic solvents and industrial alcohol, to expensive specialty chemicals such as therapeutic proteins, antibiotics, and vaccines. Nowadays, the development of bioprocesses is an essential part of a large number of chemical, food, and pharmaceutical industries.\nThe main purpose of the course “Introduction to Industrial Bioprocess Development” is to provide an overview of the common stages involved in this type of processes.\n\nThe course is primarily aimed at students, researchers, and professionals with an interest in bioprocessing, biomanufacturing, or fermentation technology. Some knowledge of biology, biotechnology and/or biochemical engineering will be advantageous, but not mandatory. \n\nThe course begins with a brief description of some basic properties of microorganisms and general aspects related to their use in bioprocesses at industrial scale. Following this, the kinetic bases for cell growth, substrate utilization and product formation during batch, continuous and fed-batch cultures are discussed. In addition, the course includes a group of lectures dedicated to some stages that precede fermentation; specifically, media formulation, sterilization, preservation of microorganisms and inoculum preparation. The main characteristics of predominant types of industrial bioreactors along with process parameters that need to be controlled in stirred tank reactors are also covered in one of the modules of the course. Since the expansion of a bioprocess from a lab scale to an industrial scale is of considerable importance, an additional lecture dedicated to this topic is presented. The last part of the course provides a general overview of downstream processing, addressing processes used for the removal of cells from the culture medium, methods for the disruption of cells, and isolation of the target bioproduct.\n\nBy the end of the course, you should:\n\n# Be able to identify the fundamental difference between the two basic cell types: eukaryotic and prokaryotic cells\n# Distinguish the main steps of the brewing process\n# Identify some important steps in recombinant protein production\n# Define the different stages of the industrial production of bioethanol\n# Distinguish the main characteristics of the three fermentation modes: batch, continuous and fed-batch\n# Define important parameters of the continuous fermentation mode\n# Identify bioprocesses where fed-batch fermenters are used and for how long can a fed-batch process be run\n# Identify how defined and undefined fermentation media are formulated\n# Discuss the role that key components of culture media play in bioconversion processes\n# Recognize the importance in avoiding microbial contamination\n# Describe chemical and physical sterilization methods\n# Distinguish the main characteristics of common techniques of cell preservation\n# Recognize factors that are commonly considered to obtain an inoculum suitable for fermentation at industrial scale\n# Define what a bioreactor is and in which industrial bioprocesses are commonly used\n# Identify the main parameters that need to be controlled during microbial conversions in STRs\n# List relevant parameters that are considered for scale-up purposes\n# Define the sequential steps of downstream processing\n# Distinguish different methods for biomass removal or cell harvesting\n# Select common unit operations used for primary isolation",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/industrial-bioprocess-development",
+  "instructors": [
+    {
+      "name": "Giuliano M. Dragone",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Technical University of Denmark (DTU)"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

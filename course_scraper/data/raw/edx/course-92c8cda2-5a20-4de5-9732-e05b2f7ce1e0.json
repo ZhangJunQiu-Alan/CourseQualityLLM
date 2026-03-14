@@ -1,0 +1,30 @@
+{
+  "course_id": "course-92c8cda2-5a20-4de5-9732-e05b2f7ce1e0",
+  "platform": "edx",
+  "title": "AI for Teacher Assistance",
+  "description": "Conversational AI tools like ChatGPT have taken the world by storm, and education is one of the biggest areas for potential impact. \n In this course, educators will learn about the enormous potential these technologies have to impact education—even if students never use them directly. This course will focus on how AI can help teachers perform routine tasks more efficiently or offer up new activities that would have been impossible without artificial intelligence. \n This course breaks conversational AI assistance for teachers into three phases of teaching: course creation, course delivery, and course enhancement. \n Course creation focuses on how AI can help with tasks before students ever enter or log into our classrooms, such as writing and adapting lesson plans, developing schedules, seeding class activities, and authoring course assessments. \n Course delivery then shifts to how AI can help us interact with our students more efficiently, such as treating the AI as a surrogate student to anticipate possible questions to having AI help author repeated feedback so that the 25th essay we evaluate receives feedback just as strong as the 1st. \n Course enhancement then turns to how AI can help make our courses better than ever before, through expanded efforts for localization and accessibility, enhanced strategies for assessment, and rapid response content development. \n At the end, you will come away aware that the greatest potential for AI to impact education comes in its ability to help teachers—as well as an understanding of how to use it to help you.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-joyner",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 419,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

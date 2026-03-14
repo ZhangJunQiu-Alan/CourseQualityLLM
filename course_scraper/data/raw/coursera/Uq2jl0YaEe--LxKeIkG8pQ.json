@@ -1,0 +1,26 @@
+{
+  "course_id": "Uq2jl0YaEe--LxKeIkG8pQ",
+  "platform": "coursera",
+  "title": "Foundations of Data Science and Machine Learning with Python",
+  "slug": "packt-prerequisites-and-advanced-machine-learning-for-nlp-xwtax",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nEmbark on a comprehensive learning journey starting with fundamental Python programming, including installation, variable manipulation, and essential data structures like lists, tuples, and dictionaries. Gain proficiency in numerical computations with NumPy and data manipulation with Pandas. \n\nStrengthen your mathematical foundation with key linear algebra concepts vital for machine learning algorithms. Progress to data visualization using Matplotlib and Seaborn, interpreting and presenting data effectively. Develop a strong base in simple linear regression and gradient descent, and explore classification techniques with KNN and logistic regression through hands-on case studies. \n\nDive into advanced machine learning algorithms, including regularization techniques and deep learning foundations, tailored for NLP applications. By course end, you'll have a robust understanding of implementing and optimizing machine learning models for NLP tasks, preparing you for advanced projects and career opportunities. \n\nIdeal for aspiring data scientists, machine learning enthusiasts, and professionals specializing in NLP, with basic Python and high school-level math knowledge required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-prerequisites-and-advanced-machine-learning-for-nlp-xwtax",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

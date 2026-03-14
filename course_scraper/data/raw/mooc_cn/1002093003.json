@@ -1,0 +1,31 @@
+{
+  "course_id": "1002093003",
+  "platform": "mooc_cn",
+  "title": "化工原理（下）",
+  "description": "“化工原理”是化工及相近专业的专业基础课，在课程体系中占有重要的地位。课程主要研究对象是化工生产中常见的单元操作，对每个单元操作均讲述其原理、设备和问题的解决三方面的内容。化工原理（下）包括：传质理论与设备、吸收、精馏、萃取、干燥5个单元（每个单元相当于传统课程的1章）。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002093003",
+  "instructors": [
+    {
+      "name": "丁忠伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京化工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56028,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

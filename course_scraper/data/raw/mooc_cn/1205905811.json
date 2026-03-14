@@ -1,0 +1,31 @@
+{
+  "course_id": "1205905811",
+  "platform": "mooc_cn",
+  "title": "食品微生物学",
+  "description": "《食品微生物学》是以食品相关的微生物为主要研究对象，涉及范围广、学科多、理论性和实践性很强的一门课程。该课程以微生物学基础理论知识为主线，结合其在食品工业和食品安全中的作用，有助于食品专业的学生和人员较快了解和掌握相关知识，也有助于其他相关专业的学生对微生物知识的了解和学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205905811",
+  "instructors": [
+    {
+      "name": "彭霞薇;何湘伟;金一;国辉;马玉超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21054,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

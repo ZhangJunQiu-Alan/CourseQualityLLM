@@ -1,0 +1,31 @@
+{
+  "course_id": "235005",
+  "platform": "mooc_cn",
+  "title": "数学建模",
+  "description": "本课程在现有数学基础上拓展加深学生的数学理论认识、提高数学素养，为培养学生将数学理论、方法成功地运用于各个学科领域的素质和能力奠定基础。培养学生初步具备进行问题分析、数学建模、科学计算、数据处理、使用数学软件、查阅科技文献、撰写科技论文等科研能力。 培养学生的创新思维、创新意识与创新能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/235005",
+  "instructors": [
+    {
+      "name": "李明奇;王志勇;覃思义;何国良",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15456,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1463196163",
+  "platform": "mooc_cn",
+  "title": "外科护理学",
+  "description": "纵观外科手术之旅，守护患者健康之路。欢迎学习外科护理学！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463196163",
+  "instructors": [
+    {
+      "name": "王爱敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "青岛大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23924,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

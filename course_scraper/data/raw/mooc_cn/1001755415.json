@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755415",
+  "platform": "mooc_cn",
+  "title": "航空发动机结构分析与设计",
+  "description": "该学科是一门集工程热物理、流体、传热、固体、机械、控制科学与工程为一体有较强工程应用背景的学科。通过对典型部件结构的分析，讲授结构所处的载荷环境、结构设计要求、结构设计需要解决的主要矛盾、结构设计特点以及发展趋势，以培养学生综合运用所学过的专业基础知识进行复杂问题分析的能力",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755415",
+  "instructors": [
+    {
+      "name": "孙志刚;于国强;尤超;宋迎东;牛序铭",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13437,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "OTecJ8_WEe2_vw4ejszVZQ",
+  "platform": "coursera",
+  "title": "Data Science Companion",
+  "slug": "data-science-companion-matlab",
+  "description": "The Data Science Companion provides an introduction to data science. You will gain a quick background in data science and core machine learning concepts, such as regression and classification. You’ll be introduced to the practical knowledge of data processing and visualization using low-code solutions, as well as an overview of the ways to integrate multiple tools effectively to solve data science problems. You will then leverage cloud resources from Amazon Web Services to scale data processing and accelerate machine learning model training. By the end of this short course, you will have a high-level understanding of important data science concepts that you can use as a foundation for future learning.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "Less than 2 hours.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-science-companion-matlab",
+  "instructors": [
+    {
+      "name": "MathWorks Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "MathWorks"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207170818",
+  "platform": "mooc_cn",
+  "title": "林木病理学",
+  "description": "《林木病理学》是森林保护专业的核心课程，也是林学、生物科学、园艺、园林等专业的专业特色课程，以及风景园林专业的专业基础课程。主要面向上述专业的本科生开设，也可供涉林学科专业的研究生以及相关从业人员学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207170818",
+  "instructors": [
+    {
+      "name": "黄麟;陈凤毛;孙辉;戴婷婷;朱丽华;赵银娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4481,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

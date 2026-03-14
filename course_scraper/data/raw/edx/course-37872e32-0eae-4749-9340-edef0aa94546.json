@@ -1,0 +1,44 @@
+{
+  "course_id": "course-37872e32-0eae-4749-9340-edef0aa94546",
+  "platform": "edx",
+  "title": "Robotics Foundations I - Robot Modeling",
+  "description": "Robotics is commonly defined as the study of the intelligent connection between perception and action. As such, the full scope of robotics lies at the intersection of mechanics, electronics, signal processing, control engineering, computing, and mathematical modeling.  \n Within this very broad framework, modeling and control play a basic role - not only in the traditional context of industrial robotics, but also for the advanced applications of field and service robots, which have attracted increasing interest from the research community in the last twenty years.  \n Robotics foundations are dealt with in this two-part course. The first part covers robot modelling. Kinematics of robot manipulators is derived using a systematic approach based on the Denavit-Hartenberg convention and the use of homogeneous transformations.  \n The inverse kinematics problem is analyzed and closed-form solutions are found for typical manipulation structures. The Jacobian is then introduced as the fundamental tool to describe differential kinematics, determine singular configurations, analyze redundancy, derive the statics model and even formulate inverse kinematics algorithms.  \n The equations of motion of a robotic system are found on the basis of the dynamic model which is useful for motion simulation and control algorithm synthesis. Two approaches respectively based on Lagrange formulation and Newton-Euler formulation are pursued.",
+  "learning_goals": [
+    "Simulations",
+    "Control Engineering",
+    "Robotic Systems",
+    "Robotics",
+    "Inverse Kinematics",
+    "Electronics",
+    "Signal Processing",
+    "Mechanics",
+    "Kinematics",
+    "Algorithms",
+    "Industrial Robotics",
+    "Engineering Statics",
+    "Mathematical Modeling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 8-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "bruno-siciliano",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Università degli Studi di Napoli Federico II"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1166,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

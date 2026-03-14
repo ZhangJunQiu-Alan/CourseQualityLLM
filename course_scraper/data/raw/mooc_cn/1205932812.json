@@ -1,0 +1,31 @@
+{
+  "course_id": "1205932812",
+  "platform": "mooc_cn",
+  "title": "民法总则",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205932812",
+  "instructors": [
+    {
+      "name": "王竹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56157,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

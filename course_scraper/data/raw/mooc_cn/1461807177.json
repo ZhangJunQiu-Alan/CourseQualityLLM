@@ -1,0 +1,31 @@
+{
+  "course_id": "1461807177",
+  "platform": "mooc_cn",
+  "title": "外科手术学",
+  "description": "《外科学》是临床医学中强调理论性、操作性、涉及面较广且综合性很强的一门综合学科。它在临床医学人才培养中占据重要地位，和其他临床医学课程密切相关。学习外科学的目的是掌握外科常见病、多发病的病因、发病机制、临床表现、诊断和防治的基本知识、基本理论和基本技能，学习基本手术操作以及外科疾病诊疗的新进展。《外科手术学》是外科学的重要组成部分，尤其侧重实践性和操作性，通过视频、示范、动物手术和实际操作，向学生教授外科手术的基本知识、基本方法和基本技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461807177",
+  "instructors": [
+    {
+      "name": "陈孝平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20208,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

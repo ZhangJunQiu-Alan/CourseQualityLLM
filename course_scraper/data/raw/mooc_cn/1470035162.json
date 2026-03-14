@@ -1,0 +1,31 @@
+{
+  "course_id": "1470035162",
+  "platform": "mooc_cn",
+  "title": "Python程序设计",
+  "description": "Python是一门简洁、优美的程序设计语言，与其他语言相比，Python具有开源、免费、功能强大、语法简单、数据类型丰富等特点，其编程模式符合人类思维方式和习惯，非常适合初学者学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470035162",
+  "instructors": [
+    {
+      "name": "李阳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏电子信息职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 528,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

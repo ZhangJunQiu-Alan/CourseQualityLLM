@@ -1,0 +1,31 @@
+{
+  "course_id": "1468673161",
+  "platform": "mooc_cn",
+  "title": "C程序设计训练",
+  "description": "学习C程序设计就是学习C语言的语法细则吗？学习程序设计就是学习数据结构与算法设计吗？在AI时代，本课程的初学者到底应该学什么？怎样学才能尽快进入AI时代的程序员角色？本课程期待能陪伴您厘清这些谜题，并引导您提升相关能力，为后续学习打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468673161",
+  "instructors": [
+    {
+      "name": "刘奇志",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2640,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

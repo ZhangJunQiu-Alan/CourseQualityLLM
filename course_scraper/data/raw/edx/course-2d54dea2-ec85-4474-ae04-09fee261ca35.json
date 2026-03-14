@@ -1,0 +1,54 @@
+{
+  "course_id": "course-2d54dea2-ec85-4474-ae04-09fee261ca35",
+  "platform": "edx",
+  "title": "Understanding Nuclear Energy",
+  "description": "In this nuclear energy course, we will tackle provocative questions such as: \n \n Is nuclear energy a good substitute for fossil fuels to reduce our CO2 emission or not? \n Can nuclear reactors operate safely without any harm to the public and environment? \n How much nuclear waste is produced and how long does it need to be stored safely? \n How can we make nuclear energy clean and more sustainable? \n How much are nuclear energy costs? \n \n You will learn the physics behind nuclear science, how to gain energy from nuclear fission, how nuclear reactors operate safely, and the life cycle of nuclear fuel: from mining to disposal. In the last part of the course, we will focus on what matters most in the public debate: the economic and social impact of nuclear energy but also the future of energy systems. \n Practically, we will: \n \n Teach you about nuclear science and technology (radiation and radioactivity, nuclear reactions, nuclear reactors and fuel cycle, economics of nuclear energy, and the sociality aspects) \n Show you short videos about the theory and practical implementation of nuclear energy \n Stimulate discussion and debate about nuclear energy \n Ask you to formulate your own opinion about nuclear energy and its role in society \n \n The GENTLE consortium has sponsored and prepared this course. GENTLE is focused on maintaining the current high level of nuclear safety, and developing a highly skilled and well informed nuclear workforce, following the conclusion of the Council of the EU that it “  it is essential to maintain in the European Union a high level of training in the nuclear field  “ to deal with reactor fleet safely, decommission obsolete plants, be involved in new builds where policy dictates, and deal with the legacy and future radioactive wastes.",
+  "learning_goals": [
+    "Nuclear Reactor",
+    "Nuclear Fuel Cycle",
+    "Nuclear Power",
+    "Nuclear Safety",
+    "Nuclear Fuel",
+    "Debating",
+    "Physics",
+    "Economics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rudy-konings",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jan-leen-kloosterman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "stefaan-pomme",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "victor-hugo-sanchez-espinoza",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 338,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

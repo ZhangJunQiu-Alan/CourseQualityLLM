@@ -1,0 +1,31 @@
+{
+  "course_id": "1206367801",
+  "platform": "mooc_cn",
+  "title": "微型计算机原理与接口技术",
+  "description": "由南京邮电大学计算机学院孙力娟教授领衔的教学团队精心制作的《微型计算机原理与接口技术》在线课程， 将以80X86微型计算机作为原型，从软件和硬件两个角度，系统地讲解汇编语言程序设计和微型计算机的工作原理和应用技术。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206367801",
+  "instructors": [
+    {
+      "name": "祁正华;沈澍;周宁宁;孙力娟;邓玉龙;盛碧云;张锋;许建;李凌燕;肖学中;韩崇;顾磊;顾啸林;程海涛;崔凯燕;王海涛;陈小柏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 68157,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

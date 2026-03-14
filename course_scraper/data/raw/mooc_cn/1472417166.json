@@ -1,0 +1,31 @@
+{
+  "course_id": "1472417166",
+  "platform": "mooc_cn",
+  "title": "制药工艺学",
+  "description": "本课程是运用化学、药物合成、制药工艺等基本理论结合生产实际，综合运用到药物合成与生产中的一门课程。本课程要求学生掌握药物合成路线设计、工艺路线选择的基本理论与规律，工艺研究的基本理论、基本实验方法和技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472417166",
+  "instructors": [
+    {
+      "name": "孙国香;张辉云;汪艺宁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "盐城工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 96,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

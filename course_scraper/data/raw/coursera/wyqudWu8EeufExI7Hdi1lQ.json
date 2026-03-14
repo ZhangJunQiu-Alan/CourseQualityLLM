@@ -1,0 +1,26 @@
+{
+  "course_id": "wyqudWu8EeufExI7Hdi1lQ",
+  "platform": "coursera",
+  "title": "SQL CASE Statements",
+  "slug": "sql-case-statements",
+  "description": "Welcome to this project-based course, SQL CASE Statements. In this project, you will learn how to use SQL CASE statements to query tables in a database.\nBy the end of this 2-hour long project, you will be able to write simple CASE statements to retrieve the desired result from a database. Then, we will move systematically to write more complex SQL CASE statements. Furthermore, we will see how to use the CASE clause together with aggregate functions, and SQL joins to get the desired result you want from tables in a database. Also, you will learn how to use the CASE clause to transpose the result of a query.\n\nAlso, for this hands-on project, we will use PostgreSQL as our preferred database management system (DBMS). Therefore, to complete this project, it is required that you have prior experience with using PostgreSQL. Similarly, this project is an advanced SQL concept; so, a good foundation for writing SQL queries, and performing joins in SQL is vital to complete this project.\nIf you are not familiar with writing queries in SQL and SQL joins and want to learn these concepts, start with my previous guided projects titled “Querying Databases using SQL SELECT statement\", “Performing Data Aggregation using SQL Aggregate Functions” and “Mastering SQL Joins”. I taught these guided projects using PostgreSQL. So, taking these projects will give the needed requisite to complete this project on SQL CASE Statements. However, if you are comfortable writing queries in PostgreSQL, please join me on this wonderful ride! Let’s get our hands dirty!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/sql-case-statements",
+  "instructors": [
+    {
+      "name": "Arimoro Olayinka Imisioluwa",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

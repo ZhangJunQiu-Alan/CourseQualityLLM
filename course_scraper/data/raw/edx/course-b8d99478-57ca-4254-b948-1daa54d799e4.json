@@ -1,0 +1,30 @@
+{
+  "course_id": "course-b8d99478-57ca-4254-b948-1daa54d799e4",
+  "platform": "edx",
+  "title": "Generative AI and LLMs on AWS",
+  "description": "Master deploying generative AI models like GPT on AWS through hands-on labs. Learn architecture selection, cost optimization, monitoring, CI/CD pipelines, and compliance best practices. Gain skills in operationalizing LLMs using Amazon Bedrock, auto-scaling, spot instances, and differential privacy techniques. Ideal for ML engineers, data scientists, and technical leaders. \n Course Highlights: \n \n Choose optimal LLM architectures for your applications \n Optimize cost, performance and scalability with auto-scaling and orchestration \n Monitor LLM metrics and continuously improve model quality \n Build secure CI/CD pipelines to train, deploy and update LLMs \n Ensure regulatory compliance via differential privacy and controlled rollouts \n Real-world, hands-on training for production-ready generative AI \n \n Unlock the power of large language models on AWS. Master operationalization using cloud-native services through this comprehensive, practical training program.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "noah-gift",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pragmatic AI Labs"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 322,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "grMgUYGsEe-uIwr_5K4XQQ",
+  "platform": "coursera",
+  "title": "H2O ai Large Language Models (LLMs) - Level 1",
+  "slug": "h2o-ai-large-language-models-llms-level-1",
+  "description": "Begin your exploration of Large Language Models (LLMs) with our foundational Level 1 course! Tailored for both beginners and those with some machine learning experience, this course provides a deep understanding of essential concepts and techniques in language modeling.\n\nLed by Andreea Turcu, H2O ai's expert in AI education, you will start by learning what a language model is and its crucial role in natural language understanding. We'll explore the evolution of these models and delve into the techniques used to develop and refine them. The course also highlights real-world applications across industries, demonstrating the transformative power of LLMs.\n\nYou will also gain a strong foundation in neural networks and deep learning, essential for mastering advanced AI techniques. A significant portion of the course focuses on transformer architecture, the backbone of modern LLMs, and compares it with other architectures to highlight key innovations.\n\nWe'll guide you through the methodologies of pre-training and fine-tuning LLMs, emphasizing transfer learning and domain-specific adaptation. By the end of the course, you'll have the skills to create and apply language models effectively, making you a strong candidate for roles in natural language processing, machine learning, and data science.\n\nCome aboard our dynamic course, where you'll dive into practical applications of language models and supercharge your AI career!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/h2o-ai-large-language-models-llms-level-1",
+  "instructors": [
+    {
+      "name": "Andreea Turcu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "H2O.ai"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

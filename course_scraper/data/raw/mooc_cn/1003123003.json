@@ -1,0 +1,31 @@
+{
+  "course_id": "1003123003",
+  "platform": "mooc_cn",
+  "title": "网络技术与应用实验",
+  "description": "这是一门与国家精品在线开放课程《网络技术与应用》MOOC配套的实验课程，以思科Packet Tracer为实验平台。实验分为两部分，一部分用于帮助学生理解、掌握《网络技术与应用》MOOC教学内容。另一部分是实际网络应用的实施方案。通过课程的学习，可以掌握用思科网络设备设计具体网络的方法和步骤。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003123003",
+  "instructors": [
+    {
+      "name": "俞海英;许继恒;卢根;张石磊;夏雪;朱超;沈鑫剡;李杰;李兴德;谢青",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国人民解放军陆军工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 46300,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "course-393351d2-ee1b-4539-ba7e-b7ef45100dbd",
+  "platform": "edx",
+  "title": "Computer Architecture with an Industrial RISC-V Core [RVfpga]",
+  "description": "RISC-V, an open-standard computer architecture, is transforming processor design and software/hardware co-design, including enabling open source hardware implementations. This means that software development can occur alongside hardware development, accelerating the design process. Enroll today to develop your understanding of the RISC-V architecture and its ecosystem and get familiar with the RISC-V cores and system-on-chip. \n This course is for junior level or higher university computer science, electrical and computer engineers and other technical students as well as others who would like to learn and experiment with RISC-V. \n Upon completion, learners should be able to use RISC-V to improve security, power consumption and performance of processors and help shape the future of computer architecture.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "sarah-harris",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "daniel-chaver-martinez",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Linux Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 589,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

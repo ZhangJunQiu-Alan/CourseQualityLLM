@@ -1,0 +1,31 @@
+{
+  "course_id": "1206411812",
+  "platform": "mooc_cn",
+  "title": "智能仪器",
+  "description": "《智能仪器》课面向测控技术与仪器、智能感知工程、自动化、人工智能、机器人、物联网等专业的大学生，和从事智能装备开发的技术人员，全面、系统地介绍智能仪器的基本原理和开发过程，课程团队以北京科技大学自动化学院仪器科学与技术系张朝晖教授为核心成员，张朝晖教授是北京市教学名师，北京自动化学会副理事长。课程团队还包括卢昊、张锐两名副教授。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206411812",
+  "instructors": [
+    {
+      "name": "张朝晖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2316,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

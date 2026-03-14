@@ -1,0 +1,31 @@
+{
+  "course_id": "210002",
+  "platform": "mooc_cn",
+  "title": "美国文化",
+  "description": "美国，其文化并不厚重，却影响深远; 其历史并不久远，却生动有趣。学习美国文化，可以帮助中国的学习者在中国与美国建立新型大国关系的时代去理解异国文化，进而做到知已知彼，百战不殆。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/210002",
+  "instructors": [
+    {
+      "name": "周毅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 177347,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

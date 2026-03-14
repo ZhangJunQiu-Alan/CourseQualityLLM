@@ -1,0 +1,42 @@
+{
+  "course_id": "course-16e7e19f-9036-4916-a1c8-2b799b502212",
+  "platform": "edx",
+  "title": "Linear Algebra - Foundations to Frontiers",
+  "description": "Linear Algebra: Foundations to Frontiers (LAFF) is packed full of challenging, rewarding material that is essential for mathematicians, engineers, scientists, and anyone working with large datasets. Students appreciate our unique approach to teaching linear algebra because: \n \n It's visual. \n It connects hand calculations, mathematical abstractions, and computer programming. \n It illustrates the development of mathematical theory. \n It's applicable. \n \n In this course, you will learn all the standard topics that are taught in typical undergraduate linear algebra courses all over the world, but using our unique method, you'll also get more! LAFF was developed following the syllabus of an introductory linear algebra course at The University of Texas at Austin taught by Professor Robert van de Geijn, an expert on high performance linear algebra libraries. Through short videos, exercises, visualizations, and programming assignments, you will study Vector and Matrix Operations, Linear Transformations, Solving Systems of Equations, Vector Spaces, Linear Least-Squares, and Eigenvalues and Eigenvectors. In addition, you will get a glimpse of cutting edge research on the development of linear algebra libraries, which are used throughout computational science. \n MATLAB licenses will be made available to the participants free of charge for the duration of the course.  \n To see what former learners have to say about the course, read reviews on  coursetalk . \n We invite you to LAFF with us!",
+  "learning_goals": [
+    "Systems Of Equations",
+    "Abstractions",
+    "Operations",
+    "Eigenvalues And Eigenvectors",
+    "Algebra",
+    "Linear Algebra"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "15 周，每周 6-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "maggie-myers",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "robert-van-de-geijn",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Texas at Austin"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1549,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

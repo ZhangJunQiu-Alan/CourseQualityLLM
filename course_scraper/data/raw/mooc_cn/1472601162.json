@@ -1,0 +1,31 @@
+{
+  "course_id": "1472601162",
+  "platform": "mooc_cn",
+  "title": "管理会计",
+  "description": "管理会计是会计学科的一个重要分支，主要服务于企业内部管理，通过提供财务和非财务信息，帮助企业做出更好的决策，实现企业的战略目标。随着大数据、人工智能、物联网、区块链等技术的发展以及企业数字化转型升级，财务的边界正在不断拓展，财务职能也向价值管理、资本运营与战略决策辅助转变。课程内容涵盖管理会计的基本概念、原则和工具，以及如何将这些理论知识应用于实际的企业管理中，帮助学生掌握为企业创造价值的关键技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472601162",
+  "instructors": [
+    {
+      "name": "喻骅;汪玮;张梦琪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "金陵科技学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 700,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

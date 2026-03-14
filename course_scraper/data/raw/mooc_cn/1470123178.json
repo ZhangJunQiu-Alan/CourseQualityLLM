@@ -1,0 +1,31 @@
+{
+  "course_id": "1470123178",
+  "platform": "mooc_cn",
+  "title": "AutoCAD绘图实训",
+  "description": "计算机辅助设计对加速工程和产品开发、缩短设计制造周期、提高产品质量、降低生产成本、增强企业市场竞争力与创新能力具有重要作用。AutoCAD作为使用最广泛的计算机辅助设计的软件,能够快速绘制二维图形和三维图形、标注尺寸、渲染图形和输出图纸，易于掌握、使用方便，彻底改变了传统的手工绘图模式，使工程技术人员从繁重的手工绘图中解放出来，极大地提高了设计效率和绘图质量。        通过本课程的学习，可建立起计算机辅助绘图的基本概念，能根据具体工程图样，运用软件绘制有关产品的零件图和装配图，能够掌握三维实体建模的基础知识，并能够读懂相关软件绘制的二维和三维图形，同时能够提高AutoCAD软件的操作与运用能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470123178",
+  "instructors": [
+    {
+      "name": "黄欣荣;滕雪梅;聂睿瑞;李宇萌;兰天雯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1717,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

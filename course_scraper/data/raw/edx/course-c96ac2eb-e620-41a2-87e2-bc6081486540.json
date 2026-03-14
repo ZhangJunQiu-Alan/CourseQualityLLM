@@ -1,0 +1,72 @@
+{
+  "course_id": "course-c96ac2eb-e620-41a2-87e2-bc6081486540",
+  "platform": "edx",
+  "title": "Water: Addressing the Global Crisis",
+  "description": "Water isthe source of all life. Without it, neither humans nor nature will survive. Yet lack of access to water is a rapidly growing problem and one of the world’s gravest risks. It is a global crisis. The water we have at our disposal is often too little, too much or too dirty.We must learn to manage it more wisely, fairly and sustainably to avoid a serious water crisis. \n  The SDG Academy  and the  Stockholm International Water Institute  have come together to offer this MOOC on some of the most important water issues. We focus on the key role water plays in the achievement of the Sustainable Development Goals, not least SDG 6, about sustainable water and sanitation for all. The course intends to explain the global water crisis through linkages between water, environment, and societal development, focusing on how to tackle issues such as growing water uncertainty and deteriorating water quality. \n It aims to build theoretical knowledge as well as provide exposure to concrete practices from around the world through a series of case studies related to good water governance. It deals with issues of water and sanitation services, the role of ecosystems, the impact ofclimate change,the role of water for food and energy production, as well as shared water resources as a source of conflicts and cooperation. \n Through the course you will gain a better understanding of how water influences lives and livelihoods. You will also learn how your own actions can contribute to a more water wise world.",
+  "learning_goals": [
+    "Governance",
+    "Water Resources",
+    "Energy Production",
+    "Sustainable Development",
+    "Technology Ecosystems",
+    "Sanitation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "9 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dr-therese-sjomander-magnusson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-stefan-uhlenbrook",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-john-h-matthews",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-angela-renata-cordeiro-ortigara",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-marianne-kjellen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-alejandro-jimenez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "prof-jan-lundqvist",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-nathanial-matthews",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "SDG Academy"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 336,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

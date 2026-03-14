@@ -1,0 +1,31 @@
+{
+  "course_id": "1206300815",
+  "platform": "mooc_cn",
+  "title": "数学实验",
+  "description": "本课程面向非数学专业的本科生，它颠覆了仅靠纸和笔的数学学习方式，借助计算机和Matlab软件，解决来自微积分、线性代数和概率统计课程中的实际案例。理论分析与实践探索相结合，“学、思、做”有机统一。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206300815",
+  "instructors": [
+    {
+      "name": "温旭辉;高文华;刘清;邓雪;刘小兰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华南理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3024,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

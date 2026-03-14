@@ -1,0 +1,31 @@
+{
+  "course_id": "1001955002",
+  "platform": "mooc_cn",
+  "title": "理论力学",
+  "description": "课程为2020年首批国家级线上一流课程，2018国家级精品在线开放课程。课程依托西北工业大学国家级力学教学基地、国家级力学实验教学示范中心，国家级精品课程《理论力学》，以“十二五”国家级规划教材《理论力学》为基础，综合西北工业大学国家级力学教学团队实力，精选教学内容，面向在校大学生及工程技术人员开设，讲授理论力学基本概念、原理及应用，为高校师生和工程技术人员提供在线学习资源和交流平台。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001955002",
+  "instructors": [
+    {
+      "name": "张娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 60934,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

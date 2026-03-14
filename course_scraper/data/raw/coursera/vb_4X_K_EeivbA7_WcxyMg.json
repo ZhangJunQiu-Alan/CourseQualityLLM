@@ -1,0 +1,26 @@
+{
+  "course_id": "vb_4X_K_EeivbA7_WcxyMg",
+  "platform": "coursera",
+  "title": "Data Structures and Algorithms (II)",
+  "slug": "data-structures-algorithms-2",
+  "description": "By learning this course, you will get a comprehensive  grasp of stack, queue, binary tree, graph and BST structures and algorithms, as well as their applications. By the end of this course, you will be able to understand and implement stack, queue and binary tree, use binary trees to solve problems such Huffman encoding, understand and implement the graph structure as well as related algorithms such BFS, DFS and PFS, understand and implement  AVL tree.\n\n通过学习本课程，你将全面了解栈、队列、二叉树、图和二叉搜索树结构、算法及其应用。 在本课程结束时，你将能够理解和实现栈、队列和二叉树，使用二叉树解决霍夫曼编码等问题，理解并实现图结构以及相关算法（例如BFS，DFS和PFS），理解并实现AVL树。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.coursera.org/learn/data-structures-algorithms-2",
+  "instructors": [
+    {
+      "name": "Junhui DENG",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tsinghua University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

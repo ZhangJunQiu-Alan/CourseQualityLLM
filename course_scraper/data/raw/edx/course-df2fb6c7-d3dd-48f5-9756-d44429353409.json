@@ -1,0 +1,38 @@
+{
+  "course_id": "course-df2fb6c7-d3dd-48f5-9756-d44429353409",
+  "platform": "edx",
+  "title": "Advanced Corporate Strategy",
+  "description": "This course is offered for students who seek advanced exposure to corporate strategy. It builds on IIMBx course “Strategic Management” which dealt with strategies for single business firms. The principal focus of this course will be the strategic issues that are faced by firms operating in more complex, multi-dimensional environments.  \n The course deals with:  \n (a) Theoretical roots of corporate strategy  \n (b) The impact of context on corporate strategy of businesses  \n (c) Exploration of the boundaries of firm  \n (d) Formulation of corporate strategy and appreciation of its limits.  \n This course provides students with the requisite combination of analytical and conceptual skills needed to grapple with the complex problems of development and execution of corporate strategy for firms that operate across industries and across national boundaries.",
+  "learning_goals": [
+    "Strategic Management",
+    "Corporate Strategy"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "5 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "sai-yayavaram-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "srinivasan-r",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Indian Institute of Management Bangalore"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1407,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

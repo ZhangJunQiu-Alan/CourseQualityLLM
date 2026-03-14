@@ -1,0 +1,26 @@
+{
+  "course_id": "YOZuzEltEeyq9Q4Bl6meLw",
+  "platform": "coursera",
+  "title": "Splunk Search Expert 103",
+  "slug": "splunk-search-expert-103",
+  "description": "In this course, you will learn how to calculate co-occurrence between fields and analyze data from multiple datasets, increase your knowledge of searching and learn how to work with multivalue data. In addition, you will learn tips and tricks to improve search performance using accelerations.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/splunk-search-expert-103",
+  "instructors": [
+    {
+      "name": "Splunk Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Splunk Inc."
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

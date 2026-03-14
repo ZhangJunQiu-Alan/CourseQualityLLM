@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754200",
+  "platform": "mooc_cn",
+  "title": "有机化学",
+  "description": "有机化学是研究有机物的组成、结构、性质以及变化规律的科学，是一门与材料、生命、信息、环境、能源、地球科学等密切交叉和相互渗透的中心科学。有机化学MOOC简明生动，让你轻松学习有机化学。让我们跟随老师一起进入有机化学的广阔天地！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754200",
+  "instructors": [
+    {
+      "name": "赵恺;朱森强;宋广亮;朱晨杰;刘睿",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24444,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

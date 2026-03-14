@@ -1,0 +1,26 @@
+{
+  "course_id": "4bUuohtdEe6clRKgJZnk6w",
+  "platform": "coursera",
+  "title": "Ciencia de datos energéticos",
+  "slug": "ciencia-de-datos-energticos",
+  "description": "La ciencia de datos puede entenderse como la aplicación del potencial de la ciencia de datos en la búsqueda de soluciones novedosas a problemas del sector energético. Este curso busca facilitar la comprensión de cómo es ese proceso y, para ello, se enfoca exclusivamente en el subsector de la energía eléctrica. \n\nPara desarrollar un proyecto de ciencia de datos energéticos se necesita que confluyan dos tipos de conocimiento: por una parte, un conocimiento sobre el sector eléctrico (cómo es su estructura, cuáles son sus principales retos, cómo funciona) y , por otra, un conocimiento sobre la ciencia de datos (cuáles son sus fundamentos, cómo opera, qué tipo de aportes puede dar). Por esa razón, es usual que se constituyan equipos interdisciplinarios en los que confluyen tanto expertos en energía como expertos en análisis de datos. \n\nNo es fácil para estos expertos poder dialogar, porque el conocimiento especializado suele tener también un lenguaje especializado y no es fácil compartir la experticia con personas que no son especialistas en nuestro campo de conocimiento. \n\nJustamente, este curso busca ayudar a facilitar ese diálogo y a sobrepasar esas barreras de comunicación. \n\nPara ello, lo que haremos será presentar los elementos básicos, fundamentales de cada una de las dos áreas del conocimiento con una perspectiva más amplia que profunda. El propósito es el de adquirir una comprensión de alto nivel de tanto los elementos del sector eléctrico como de la ciencia de datos. Aspiramos que, al finalizar exitosamente este curso, usted pueda entender y explicar cómo funciona el proceso de ciencia de datos aplicado a los problemas del sector eléctrico.\n\n¿Cómo está estructurado el curso? El curso tiene seis módulos y en cada uno de esos módulos trabajamos un tema del área de energía y un tema del área de ciencia de datos, que confluyen en una aplicación concreta o, al menos, en una etapa de una aplicación concreta. En cada módulo, usted encontrará:\n- videos explicativos\n- un laboratorio no calificado\n- un laboratorio calificado\n- un cuestionario calificado.\n\nLos laboratorios son espacios para desarrollar tareas en lenguaje Python. No esperamos que usted sea un experto desarrollador de programas en Python, pero sí que tenga algún tipo de experticia en programación. \n\n¿Para quién es este curso? Hemos imaginado este curso teniendo en mente dos posibles perfiles:\n1) un perfil de alguien con conocimientos sobre el sector energético que quiere explorar qué puede aprovechar de la ciencia de datos; y\n2) un perfil de alguien con conocimientos en ciencia de datos que quiere explorar cómo puede aportar esos conocimientos en el área del sector energético. Por ej.: Este curso está dedicado principalmente a estudiantes universitarios de primer y segundo año interesados en ciencia e ingeniería, junto con estudiantes de secundaria y profesionales interesados en programación.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/ciencia-de-datos-energticos",
+  "instructors": [
+    {
+      "name": "Oscar Germán Duarte Velasco",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Nacional de Colombia"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

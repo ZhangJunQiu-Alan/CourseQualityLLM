@@ -1,0 +1,31 @@
+{
+  "course_id": "1472275162",
+  "platform": "mooc_cn",
+  "title": "软件工程",
+  "description": "本次软件工程课程是一门导论性专业基础课程。本课程以计算机科学理论和其他相关学科的理论为指导，采用工程化的概念、原理、规范、技术和方法进行软件工程项目的开发和维护，具有丰富的知识拓展案例，让大家逐步了解软件开发和维护的方法，为进一步深入学习进阶课程打下基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472275162",
+  "instructors": [
+    {
+      "name": "吴慧欣;王国卿;吴文红;韩珂;金建刚;张玉华;白娟;王冰丽;岳源源;毋沁萍;王青正",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华北水利水电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1253,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1458236177",
+  "platform": "mooc_cn",
+  "title": "University Physics",
+  "description": "This course includes basic knowledge of mechanics, electrostatics and magnetism. The course and learning resources are arranged on the educational concept of \"student centered and teacher guide\". There are also demos to help you understand. In the Question Discussion area, a teacher will answer the questions you encounter in your study. In the Learning area, you will find some typical questions and answers we have assorted out for you. I believe you will experience the joy of learning physics here!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458236177",
+  "instructors": [
+    {
+      "name": "Xiaohui CHEN",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Northeastern University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 185,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

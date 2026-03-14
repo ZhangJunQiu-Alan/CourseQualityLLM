@@ -1,0 +1,31 @@
+{
+  "course_id": "1468812187",
+  "platform": "mooc_cn",
+  "title": "嵌入式系统及应用",
+  "description": "课程团队长期从事嵌入式系统理论和应用研究，长期工作在教学科研一线，勇于创新积极探索高效教学模式。团队获得2022年度江苏省高校青蓝工程优秀教学团队。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468812187",
+  "instructors": [
+    {
+      "name": "张腾飞;卜斌;刘泽远",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1594,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

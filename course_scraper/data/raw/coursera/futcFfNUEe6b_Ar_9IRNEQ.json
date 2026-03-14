@@ -1,0 +1,31 @@
+{
+  "course_id": "futcFfNUEe6b_Ar_9IRNEQ",
+  "platform": "coursera",
+  "title": "Vector Search with Relational Databases using PostgreSQL",
+  "slug": "vector-search-with-relational-databases-using-postgresql",
+  "description": "With vector databases now powering business competitiveness through super-fast applications such as recommendation engines, it’s no surprise that the vector database market is set to grow 23% CAGR by 2032 (Markets and Markets).  \n\nThis micro course gives aspiring data scientists, ML engineers, gen-AI engineers, software developers, and other data-oriented roles the in-demand skills for performing vector searches in relational databases.  \n\nBusinesses use vector search with relational databases to improve information retrieval via advanced similarity matching. You’ll gain hands-on experience working with PostgreSQL as your relational database platform and Python and JavaScript to vectorize data, create embeddings and collections, and load data, including bulk insertion techniques. Plus, you’ll provide similarity search recommendations using techniques such as cosine similarity.  \n\nThis micro course is part of the IBM Vector Database Fundamentals specialization, designed for professionals building on their NoSQL and relational database experience to work with vector databases.  \n\nSo, enroll today and get set to power your career with highly sought-after relational vector database skills.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 week of study/ 4 hours ",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/vector-search-with-relational-databases-using-postgresql",
+  "instructors": [
+    {
+      "name": "SkillUp",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Lavanya Thiruvali Sunderarajan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "SkillUp"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1450007169",
+  "platform": "mooc_cn",
+  "title": "现代教育技术",
+  "description": "现代教育技术课程于2019年被认定为陕西省精品在线开放课程，2021年被认定为陕西省课程思政示范课，至今已在中国大学MOOC平台完整运行十二个周期，学员评价效果良好。课程由杨哲教授引领，白静华及其他几位骨干教师组成的课程团队精心打造。课程内容实用、丰富，具有较强的操作性与指导性；满足中小学教师工作需求，以应用为导向，突出了信息技术与学科专业相融合，重在实践应用，知行合一。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450007169",
+  "instructors": [
+    {
+      "name": "白静华;廖守琴;李宝;杨哲;宋权华;张超;陈颖博",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "安康学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10230,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

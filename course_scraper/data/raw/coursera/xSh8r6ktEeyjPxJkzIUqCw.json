@@ -1,0 +1,26 @@
+{
+  "course_id": "xSh8r6ktEeyjPxJkzIUqCw",
+  "platform": "coursera",
+  "title": "Using Cloud Trace on Kubernetes Engine",
+  "slug": "googlecloud-using-cloud-trace-on-kubernetes-engine-1h3mh",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. This lab deployings a Kubernetes Engine cluster, then a simple web application fronted by a load balancer is deployed to the cluster. The web app publishes messages provided by the user to a Cloud Pub/Sub topic. You will see the correlated telemetry data from HTTP requests to the app will be available in the Cloud Trace Console.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-using-cloud-trace-on-kubernetes-engine-1h3mh",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

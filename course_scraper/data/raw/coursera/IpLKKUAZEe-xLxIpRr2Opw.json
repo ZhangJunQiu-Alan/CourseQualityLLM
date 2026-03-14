@@ -1,0 +1,31 @@
+{
+  "course_id": "IpLKKUAZEe-xLxIpRr2Opw",
+  "platform": "coursera",
+  "title": "Data Warehousing: Schema, ETL, Optimal Performance",
+  "slug": "data-warehousing-schema-etl-optimal-performance",
+  "description": "Data warehousing is a critical component of modern business intelligence, providing a centralized repository for structured and organized data. This course focuses on the fundamental aspects of data warehousing, including schema design, extract, transform, load (ETL) processes, and techniques for optimizing performance. By comprehending these core concepts, participants will be equipped to design and implement efficient data warehouses that support informed decision-making and business intelligence initiatives. \n\nThis course is tailored for Data Engineers, Database Administrators, Business Intelligence Developers, and Data Analysts who are looking to deepen their understanding of data warehousing. These professionals play a crucial role in managing and analyzing vast amounts of data, ensuring that organizations can leverage this data for strategic decision-making. By enhancing their skills in data warehousing, participants will be better equipped to contribute to their organizations' business intelligence efforts and improve overall data management practices.\n\nTo gain the most from this course, participants should have a basic knowledge of databases and SQL. Familiarity with these foundational concepts is essential as it will allow learners to effectively grasp the more advanced topics covered in the course. This background knowledge will enable participants to engage more deeply with the material, understand the practical applications, and apply the techniques discussed to real-world scenarios.\n\nUpon completing this course, learners will be able to explain the importance of data warehousing in business intelligence, highlighting how it supports decision-making processes. They will also gain the skills to design and implement effective schema designs for data warehouses, ensuring data is organized and accessible. Additionally, participants will learn to implement ETL processes to efficiently load and transform data into a data warehouse and apply performance optimization techniques to enhance the efficiency and responsiveness of data warehouse systems.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-warehousing-schema-etl-optimal-performance",
+  "instructors": [
+    {
+      "name": "Caio Avelino",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,43 @@
+{
+  "course_id": "course-6fb00ff0-9a64-4f7e-a559-4be3babbe116",
+  "platform": "edx",
+  "title": "Introduction to Bayesian Statistics Using R",
+  "description": "Basics of Bayesian Data Analysis Using R is part one of the Bayesian Data Analysis in R professional certificate.     \n Bayesian approach is becoming increasingly popular in all fields of data analysis, including but not limited to epidemiology, ecology, economics, and political sciences. It also plays an increasingly important role in data mining and deep learning. Let this course be your first step into Bayesian statistics.   \n Here, you will find a practical introduction to applied Bayesian data analysis with the emphasis on formulating and answering real life questions. You will learn how to combine the data generating mechanism, likelihood, with prior distribution using Bayes’ Theorem to produce the posterior distribution. You will investigate the underlying theory and fundamental concepts by way of simple and clear practical examples, including a case of linear regression.   \n You will be introduced to the Gibbs sampler – the simplest version of the powerful Markov Chain Monte Carlo (MCMC) algorithm. And you will see how the popular R-software can be used in this context, and encounter some Bayesian R packages .   \n A facility in basic algebra and calculus as well as programming in R is recommended.",
+  "learning_goals": [
+    "Ecology",
+    "Data Mining",
+    "Calculus",
+    "Deep Learning",
+    "Data Analysis",
+    "Epidemiology",
+    "Economics",
+    "Elementary Algebra",
+    "Markov Chain Monte Carlo",
+    "Political Sciences",
+    "R (Programming Language)",
+    "Bayesian Statistics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "elena-moltchanova",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Canterbury"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 357,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

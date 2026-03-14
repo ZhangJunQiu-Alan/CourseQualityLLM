@@ -1,0 +1,26 @@
+{
+  "course_id": "zUkQiplrEeuG-w7Ew7bzMQ",
+  "platform": "coursera",
+  "title": "NLP Modelos y Algoritmos",
+  "slug": "nlp-modelos-y-algoritmos",
+  "description": "Este curso te brindará los conocimientos necesarios para la implementación de algoritmos de NLP. Mediante el uso de los últimos algoritmos más populares en NLP se procederá a dar solución a un conjunto de problemas propios del área.\n\nPara realizar este curso es necesario contar con conocimientos de programación de nivel básico a medio, deseablemente conocimiento básico del lenguaje Python y es recomendable conocer los Jupyter Notebooks en el entorno Anaconda.\n\nPara desarrollar aplicaciones se va a utilizar Python 3.6 o superior. Alternativamente se puede utilizar el entorno de Anaconda con la misma versión de Python.\nComo editor de código, los ejemplos van a ser editados en el Notebook de Anaconda, pero el alumno puede utilizar cualquier editor de texto que reconozca notebooks de Anaconda.\nLibrerías que es necesario tener instaladas para realizar el curso: NLTK, Scikit-learn, Spacy y TensorFlow.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/nlp-modelos-y-algoritmos",
+  "instructors": [
+    {
+      "name": "Hernán Daniel Merlino",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Austral"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

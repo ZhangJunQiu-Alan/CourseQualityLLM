@@ -1,0 +1,26 @@
+{
+  "course_id": "hbQ8PRTAEeuNlAqHwg6G6w",
+  "platform": "coursera",
+  "title": "Salesforce Reporting",
+  "slug": "salesforce-reporting",
+  "description": "Salesforce Reporting focuses on how the micro-level changes in Salesforce affect the macro level of the user experience. In this course, you will focus on creating custom objects, field dependencies, and work flows to track accounts or services. It is also important that you maintain data clean for your organization and you will work with creating reports, managing data, and creating full reports and dashboards. Lastly, you will focus on your customer base with Salesforce Service Cloud to maintain engagement through your services. The course includes in-depth readings and practical application activities within Salesforce's Trailhead education platform, peer discussion opportunities, demonstration videos, and peer review assignments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks of study, 3-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/salesforce-reporting",
+  "instructors": [
+    {
+      "name": "Stephane Muller",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of California, Irvine"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

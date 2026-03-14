@@ -1,0 +1,31 @@
+{
+  "course_id": "1469121161",
+  "platform": "mooc_cn",
+  "title": "统计大数据文化",
+  "description": "统计大数据文化课程是一新型课程，也是面向各专业的一门新的重要通识选修课，课程分十一部分十个专题，系统地阐述了统计大数据文化的基本概念、基本理论、基本方法，还讲述了统计、数据科学与各类文化之间的关系，列举了一些常用典型重要实例并融入思政元素，通过线上线下混合课教学、实验研讨，使学生了解和熟悉统计、数据科学的历史、思想、思维、哲学与应用等应用的模式及方法，培养了学生真正学会利用统计、数据科学思考、分析、指导生活工作实际的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1469121161",
+  "instructors": [
+    {
+      "name": "王平平;王庚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 633,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,37 @@
+{
+  "course_id": "course-a2139fb0-ef8f-4c5c-8ff3-fcddc7f3c827",
+  "platform": "edx",
+  "title": "Causal Diagrams: Draw Your Assumptions Before Your Conclusions",
+  "description": "Causal diagrams have revolutionized the way in which researchers ask: What is the causal effect of X on Y? They have become a key tool for researchers who study the effects of treatments, exposures, and policies. By summarizing and communicating assumptions about the causal structure of a problem, causal diagrams have helped clarify apparent paradoxes, describe common biases, and identify adjustment variables. As a result, a sound understanding of causal diagrams is becoming increasingly important in many scientific disciplines. \n The first part of this course is comprised of seven lessons that introduce causal diagrams and its applications to causal inference. The first lesson introduces causal DAGs, a type of causal diagrams, and the rules that govern them. The second, third, and fourth lessons use causal DAGs to represent common forms of bias. The fifth lesson uses causal DAGs to represent time-varying treatments and treatment-confounder feedback, as well as the bias of conventional statistical methods for confounding adjustment. The sixth lesson introduces SWIGs, another type of causal diagrams. The seventh lesson guides learners in constructing causal diagrams. \n The second part of the course presents a series of case studies that highlight the practical applications of causal diagrams to real-world questions from the health and social sciences. \n Professor Photo Credit: Anders Ahlbom",
+  "learning_goals": [
+    "Statistical Methods",
+    "Data Analysis",
+    "Clinical Study Design",
+    "Causal Inference",
+    "Directed Acyclic Graph (Directed Graphs)",
+    "Research"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "9 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "miguel-hernan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3027,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

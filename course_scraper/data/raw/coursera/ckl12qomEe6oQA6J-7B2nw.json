@@ -1,0 +1,26 @@
+{
+  "course_id": "ckl12qomEe6oQA6J-7B2nw",
+  "platform": "coursera",
+  "title": "xUnit",
+  "slug": "xunit",
+  "description": "\"Introduction to xUnit for .NET Testing\" is a comprehensive course tailored for .NET developers looking to master the xUnit testing framework. Across two modules, this course begins with the basics of xUnit, including setup, writing initial tests, and understanding the framework's core concepts. It then progresses to more advanced topics like data-driven testing, handling asynchronous code, and integrating xUnit into CI/CD pipelines. Emphasizing both theory and practical application, this course is designed to equip developers with the skills needed to implement robust and efficient testing strategies using xUnit in their .NET projects, thereby enhancing software quality and reliability. \n\nModule 1: Getting Started with xUnit is designed to introduce .NET developers to xUnit, a popular testing framework. It begins with a comprehensive overview of xUnit, followed by guidance on setting it up in a .NET project. The module progresses to crafting your first test, understanding test classes and methods, the basics of asserts, and the test lifecycle, including setup and teardown processes. This module is a foundational step for developers aiming to build robust testing practices using xUnit in their .NET projects.\n\n\"Module 2: Advancing Your xUnit Skills\" elevates your proficiency in xUnit for .NET by exploring more advanced and specialized testing techniques. This module covers data-driven testing using attributes like [InlineData], [ClassData], and [MemberData], managing expected exceptions, and approaches to testing asynchronous code. It also emphasizes best practices for organizing and naming tests, effective use of assertions, and conceptual insights into integrating xUnit with CI/CD pipelines. Ideal for developers seeking to enhance their xUnit testing skills, this module offers deep insights and practical applications.\n\nThis course is suitable for anyone involved in the .NET development ecosystem who wishes to enhance their unit testing skills, ensure code reliability, and maintain software quality using the xUnit framework.\n\nDisclaimer: This is an independent educational resource created by Board Infinity for informational and educational purposes only. This course is not affiliated with, endorsed by, sponsored by, or officially associated with any company, organization, or certification body unless explicitly stated. The content provided is based on industry knowledge and best practices but does not constitute official training material for any specific employer or certification program. All company names, trademarks, service marks, and logos referenced are the property of their respective owners and are used solely for educational identification and comparison purposes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 week of study, 2 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/xunit",
+  "instructors": [
+    {
+      "name": "Board Infinity",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Board Infinity "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

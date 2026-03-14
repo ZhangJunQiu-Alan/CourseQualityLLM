@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754283",
+  "platform": "mooc_cn",
+  "title": "Java程序设计",
+  "description": "掌握Java语言基础知识； 掌握面向对象程序设计、继承与多态、集合容器、JDBC、输入输出流、多线程；掌握运用Java语言进行桌面应用程序开发的基本知识和技能，能胜任Java开发程序员的工作岗位。本课程讲解通俗易懂，深入浅出，适合零基础的人来学习，还犹豫什么？赶紧来吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754283",
+  "instructors": [
+    {
+      "name": "朱利华;蒋卫祥;张静;杨丹;闾枫;眭碧霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30739,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

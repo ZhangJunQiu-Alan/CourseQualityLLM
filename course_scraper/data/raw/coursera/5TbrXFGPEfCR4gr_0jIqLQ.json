@@ -1,0 +1,26 @@
+{
+  "course_id": "5TbrXFGPEfCR4gr_0jIqLQ",
+  "platform": "coursera",
+  "title": "Smart Frontend Development using Libraries",
+  "slug": "smart-frontend-development-using-libraries",
+  "description": "This course is designed for individuals who want to learn how to build robust and scalable web applications using Angular and React. Throughout the course, you will learn the fundamental concepts of front-end development and understand how to create dynamic and interactive user interfaces.\n\nIn the first module, \"React for Frontend development,\" we'll dive deep into the React library. You will be introduced to its fundamentals, such as components, state, props, and JSX. This understanding will enable you to craft user interfaces that are both interactive and dynamic, setting the stage for efficient web applications.\n\nThe second module, \"Angular for Frontend Development,\" transitions to Angular, an equally compelling but distinct framework for building scalable web applications. Here, you'll immerse yourself in the core concepts of Angular, encompassing components, modules, directives, services, and templates. With hands-on exercises, you'll gain proficiency in constructing robust applications that are both modular and maintainable.\n\nFinally in the third module, \"Building a Dynamic Website.\" This module synthesizes the knowledge you've acquired, guiding you through the process of creating a full-fledged website. By integrating the functionalities from React and Angular, you will see firsthand how these tools can come together to produce powerful user experiences.\n\nBy the end of the course, you will have a thorough understanding of how to use Angular and React to develop high-quality and responsive web applications.\n\nDisclaimer: This is an independent educational resource created by Board Infinity for informational and educational purposes only. This course is not affiliated with, endorsed by, sponsored by, or officially associated with any company, organization, or certification body unless explicitly stated. The content provided is based on industry knowledge and best practices but does not constitute official training material for any specific employer or certification program. All company names, trademarks, service marks, and logos referenced are the property of their respective owners and are used solely for educational identification and comparison purposes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/smart-frontend-development-using-libraries",
+  "instructors": [
+    {
+      "name": "Board Infinity",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Board Infinity "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

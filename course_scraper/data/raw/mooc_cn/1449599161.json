@@ -1,0 +1,31 @@
+{
+  "course_id": "1449599161",
+  "platform": "mooc_cn",
+  "title": "零基础学Linux操作系统",
+  "description": "Linux操作系统广泛应用于政府、金融、电信等关键领域。听起来很“高大上”，但我们的课程是“零基础”的，只要用过计算机，就可以加入我们：如果你是计算机“小白”，学完基础篇你将会使用Linux基本操作；如果你是专业学生，学完基础篇-提升篇-进阶篇，将会安装、操作使用和管理Linux及在Linux下编程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449599161",
+  "instructors": [
+    {
+      "name": "顾玉宛;庄丽华;石林;徐守坤;刘俊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 39011,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

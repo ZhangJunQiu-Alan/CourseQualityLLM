@@ -1,0 +1,30 @@
+{
+  "course_id": "course-fbdea5ab-3d0f-49b9-9c12-19423f78713c",
+  "platform": "edx",
+  "title": "AI Foundations for Business Leaders",
+  "description": "The course is tailored for business professionals aiming to harness the power of artificial intelligence (AI) to drive organizational success. This beginner-level learning path requires no prior technical expertise and focuses on integrating AI into business processes to enhance decision-making and operational efficiency. \n \n\nIt is ideal for business users, managers, and decision-makers who are keen to integrate AI into their business strategies. It caters to professionals seeking to understand how AI can be applied to solve business challenges and drive growth without requiring deep technical knowledge. \n \n\nParticipants will explore how AI can be democratized within an organization, enabling not just developers and data scientists but all business users to leverage AI capabilities. The course emphasizes the significance of empowering every individual in the organization with AI tools to foster innovation and productivity.",
+  "learning_goals": [
+    "Innovation",
+    "Artificial Intelligence",
+    "Decision Making",
+    "Business Strategies",
+    "Business Process"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1029,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

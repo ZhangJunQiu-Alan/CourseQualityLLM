@@ -1,0 +1,31 @@
+{
+  "course_id": "1002531015",
+  "platform": "mooc_cn",
+  "title": "生活中的DNA科学",
+  "description": "解读DNA“密码”，揭示生命奥秘，知晓疾病风险、胖瘦与营养、健康与青春之道。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002531015",
+  "instructors": [
+    {
+      "name": "谢建平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17277,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

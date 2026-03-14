@@ -1,0 +1,26 @@
+{
+  "course_id": "0akimF5JEe6fghJDrQDcsQ",
+  "platform": "coursera",
+  "title": "Electrical Characterization: MOSFETs",
+  "slug": "electrical-characterization-mosfets",
+  "description": "MOSFET transistor switches are the workhorse of semiconductor-based electronics. In this course, we begin with MOS capacitors and see how to extract the oxide charge density, which is important for controlling the MOSFET threshold voltage. We then review MOSFET electrical characteristics and see how current-voltage measurements are used to determine the threshold voltage. The course project uses real-world data to extract the threshold voltage of a 40 nm gate length MOSFET designed for 5G radio frequency integrated circuits.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/electrical-characterization-mosfets",
+  "instructors": [
+    {
+      "name": "Trevor Thornton",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Arizona State University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

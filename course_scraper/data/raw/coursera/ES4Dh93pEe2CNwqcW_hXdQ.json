@@ -1,0 +1,26 @@
+{
+  "course_id": "ES4Dh93pEe2CNwqcW_hXdQ",
+  "platform": "coursera",
+  "title": "Google Chat - 日本語版",
+  "slug": "google-chat-ja",
+  "description": "このコースでは、Google Workspace に付属する Google のチャット ソフトウェアである Google Chat について紹介します。\n\nGoogle Chat で個人やグループにメッセージを送信する方法を説明します。カスタマイズ オプションやコラボレーション機能、そして Google Chat が他の Google Workspace 製品とどのように連携するかについても解説します。\n\nGoogle Chat のスペースの作成、管理、検索、およびスペースへの参加の方法を確認しながら、スペースの使用方法を詳しく見ていきます。また、スペースとグループ チャットの用途の違いについても説明します。\n\nGoogle Chat アプリについても紹介し、Google Chat 内でのアプリの検索と使用の方法について解説します。\n\nコースの動画と別に、受講者はハンズオン アクティビティを行い、学んだことを練習します。アクティビティでは 1 人か 2 人の同僚に参加してもらい、Google Chat でやり取りすることを検討してください。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/google-chat-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

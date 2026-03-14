@@ -1,0 +1,31 @@
+{
+  "course_id": "1206669802",
+  "platform": "mooc_cn",
+  "title": "德语现代主义文学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206669802",
+  "instructors": [
+    {
+      "name": "刘永强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7098,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

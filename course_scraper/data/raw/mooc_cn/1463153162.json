@@ -1,0 +1,31 @@
+{
+  "course_id": "1463153162",
+  "platform": "mooc_cn",
+  "title": "电子商务系统分析与设计",
+  "description": "《电子商务系统分析与设计》为电子商务专业本科生的专业主干课，课程以企业的数字化转型为背景，以系统开发的生命周期为主线，从战略规划和管理变革开始，详细阐述系统规划、分析、设计和实施等多个环节的要点，首次在系统设计上引入 “前台-中台-后台”三层创新企业系统架构；同时，围绕企业数字化转型面临的挑战，具体讨论了商业模式创新、渠道的冲突和整合策略，以及多源数据的融合问题。2020年该示范课程被立项为教育部产学合作协同育人项目,同年列入了厦门大学在线开放课程建设项目，2021年课程进一步被立项为厦门大学一流线上课程。主讲教师韩水华是厦门大学教授、博士生导师，厦门大学资产综合管控研究所所长，教育部新世纪优秀人才获得者。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463153162",
+  "instructors": [
+    {
+      "name": "韩水华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "厦门大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2620,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206681806",
+  "platform": "mooc_cn",
+  "title": "物联网设备编程与实施",
+  "description": "本课程是面向软件技术专业、物联网应用技术专业的一门专业核心课，主要培养同学们在物联网应用领域所必须的编程与实施技能，是一门面向企业实际岗位需求的理实一体类课程。课程旨在培养具有良好的“团队协作、网络道德、和谐发展”等职业精神、职业规范和人文社会科学素养，掌握扎实的系统规划设计、智能终端组网、物联网云平台运用、物联网系统运维等专业技能的高素质技术技能人才。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206681806",
+  "instructors": [
+    {
+      "name": "陈天娥;邱晓荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7702,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

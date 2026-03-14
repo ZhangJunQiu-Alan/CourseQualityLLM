@@ -1,0 +1,31 @@
+{
+  "course_id": "46005",
+  "platform": "mooc_cn",
+  "title": "机械制图及数字化表达",
+  "description": "人类借助机械装置上游太空、下潜深海，机械能更快、更好地完成人可直接和不能直接完成的工作。而机械装置的设计加工制造要用到工程图样表达，工程图样是工程界交流的技术语言，它与设计和生产密切相连。本课程不仅教你读画工程图样，还教你三维建模数字化表达，带你走入机械工程奇妙世界的大门。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/46005",
+  "instructors": [
+    {
+      "name": "杨薇;张京英;张辉;张彤;佟献英",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 60116,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

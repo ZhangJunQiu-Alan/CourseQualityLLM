@@ -1,0 +1,48 @@
+{
+  "course_id": "course-97f16f83-5e8a-496c-9086-5634c8edccbb",
+  "platform": "edx",
+  "title": "Data Analysis: Basic Probability and Statistics",
+  "description": "Created specifically for those who are new to the study of probability, or for those who are seeking an approachable review of core concepts prior to enrolling in a college-level statistics course, Fat Chance prioritizes the development of a mathematical mode of thought over rote memorization of terms and formulae. Through highly visual lessons and guided practice, this course explores the quantitative reasoning behind probability and the cumulative nature of mathematics by tracing probability and statistics back to a foundation in the principles of counting.  \n In Modules 1 and 2, you will be introduced to basic counting skills that you will build upon throughout the course. In Module 3, you will apply those skills to simple problems in probability. In Modules 4 through 6, you will explore how those ideas and techniques can be adapted to answer a greater range of probability problems. Lastly, in Module 7, you will be introduced to statistics through the notion of expected value, variance, and the normal distribution. You will see how to use these ideas to approximate probabilities in situations where it is difficult to calculate their exact values.",
+  "learning_goals": [
+    "Guided Practice",
+    "Statistics",
+    "Data Analysis",
+    "Basic Math",
+    "Probability",
+    "Probability And Statistics",
+    "Normal Distribution"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "benedict-gross",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "joseph-harris",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "emily-riehl",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8303,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

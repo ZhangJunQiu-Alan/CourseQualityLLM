@@ -1,0 +1,31 @@
+{
+  "course_id": "1474201181",
+  "platform": "mooc_cn",
+  "title": "游泳运动与健康",
+  "description": "《游泳运动与健康》是一门将游泳技能教学与健康科学知识相结合的特色课程。本课重点不仅在于讲授蛙泳、爬泳、仰泳、蝶泳四项竞技泳姿的动作要领，还融入了运动生物力学、流体力学等科学原理（如浮力、阻力、推进力的作用机制），使学习者在掌握泳姿技术的同时构建相对完整的游泳科学知识体系，熟练掌握水中运动技巧以应对突发溺水风险，实现“游得会、游得懂、游得健康”。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1474201181",
+  "instructors": [
+    {
+      "name": "郭兰兰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "对外经济贸易大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 415,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

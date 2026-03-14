@@ -1,0 +1,26 @@
+{
+  "course_id": "BK7G8vEMEfCkqwr_6Yow9Q",
+  "platform": "coursera",
+  "title": "Deploy & Optimize ML Services Confidently",
+  "slug": "deploy--optimize-ml-services-confidently",
+  "description": "Take your machine learning skills beyond the notebook and into production. In this short, practical course, you’ll learn how to turn trained models into reliable RESTful inference services, automate deployment pipelines, and monitor real-time performance like a professional MLOps engineer. You’ll build a /predict API using FastAPI, integrate it with GitHub Actions for CI/CD, and then simulate traffic with Locust to evaluate latency and optimize for a 100 ms SLA target.\n\nWhether you’re an aspiring MLOps engineer or a data scientist ready to bridge into deployment, this course gives you the hands-on confidence to deliver production-grade ML services that scale. You’ll strengthen the technical and analytical skills that modern AI teams need — automation, performance optimization, and service reliability — to stay competitive in the evolving ML operations landscape.\n\nBy the end, you’ll not only deploy your own model confidently but also gain the credibility to manage real-world ML systems end-to-end.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/deploy--optimize-ml-services-confidently",
+  "instructors": [
+    {
+      "name": "ansrsource instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003250003",
+  "platform": "mooc_cn",
+  "title": "大学物理实验",
+  "description": "大学物理实验是理工科学生的公共基础必修课，本课程由力学、电磁学、光学、热学、原子物理学和近代物理实验组成。通过本课程学习可加深对一些基本物理概念、现象和理论的认识和理解，学习将物理学理论知识转化为实际应用的思路和方法，锻炼学生在实践中分析和解决问题的能力以及归纳总结形成简明规范的科学报告的能力。本课程由南京邮电大学物理实验教学中心多位具有十年以上专职物理实验教学的骨干教师担纲制作完成，自2018年上线以来每一期选课人数都在5000人以上，自建课以来每一学期对于课程的内容都有更新和完善，希望本课程对您在物理实验的学习和理解上有所帮助。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003250003",
+  "instructors": [
+    {
+      "name": "周双;王增旭;陈君;魏陆军;李斌;迟逢逢;李永涛;董慧媛;刘利清;何学敏;薛洪涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 73248,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

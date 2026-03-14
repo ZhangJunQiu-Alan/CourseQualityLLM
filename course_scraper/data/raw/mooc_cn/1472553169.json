@@ -1,0 +1,31 @@
+{
+  "course_id": "1472553169",
+  "platform": "mooc_cn",
+  "title": "毒理学基础",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472553169",
+  "instructors": [
+    {
+      "name": "汪春红;王雅芬;袁必锋;刘婧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1109,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

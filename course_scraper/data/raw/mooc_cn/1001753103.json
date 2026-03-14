@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753103",
+  "platform": "mooc_cn",
+  "title": "结构力学——静定结构力学",
+  "description": "结构力学是土木等专业的重要课程。学习任务是掌握平面杆件结构计算的基本概念、原理和方法，了解结构力学性能，为结构设计服务。本校结构力学课程团队是在力学家徐芝纶院士领导下建成，教材、试题库等获国家教学成果奖2项；是国家精品课程、精品资源共享课和国家级一流线上本科课程。教学特色：联系工程，强化概念，培养能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753103",
+  "instructors": [
+    {
+      "name": "杨海霞;梁英杰;田霞;胡栋梁;张健飞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20811,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

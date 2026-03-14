@@ -1,0 +1,31 @@
+{
+  "course_id": "1469606167",
+  "platform": "mooc_cn",
+  "title": "幼儿基本体操",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1469606167",
+  "instructors": [
+    {
+      "name": "张颖颖;朱薇;赵俊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南通师范高等专科学校"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3883,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

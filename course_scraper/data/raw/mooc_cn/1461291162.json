@@ -1,0 +1,31 @@
+{
+  "course_id": "1461291162",
+  "platform": "mooc_cn",
+  "title": "放射诊断学",
+  "description": "《放射诊断学》课程是医学影像学专业学生必修的专业核心课程，也是临床医学专业学生必修的专业基础课程。本课程的教学内容主要包括：比较影像学基本理论与应用、正常影像断层解剖学、基本病变影像学表现、各系统常见病与多发病的影像诊断与鉴别诊断（中枢神经系统、头颈部、呼吸系统与循环系统、消化系统与腹膜腔、泌尿生殖系统与腹膜后间隙、肌骨系统、乳腺等），涵盖影像诊断与影像技术重点与难点知识，深入浅出地讲解放射诊断学基础知识与临床应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461291162",
+  "instructors": [
+    {
+      "name": "居胜红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8298,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

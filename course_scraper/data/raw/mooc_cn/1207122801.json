@@ -1,0 +1,31 @@
+{
+  "course_id": "1207122801",
+  "platform": "mooc_cn",
+  "title": "电机学",
+  "description": "“电机学”是电气工程及其自动化专业本科生重要的专业主干课程，目的是培养学生成为电工技术领域的高级技术人才。本课程主要讲述变压器、异步电机、同步电机的结构、工作原理以及运行特性等内容，使学生掌握电机的基本理论知识和基本分析方法，为学习其他专业课程和从事专业工作打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207122801",
+  "instructors": [
+    {
+      "name": "马宏忠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13378,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1458194162",
+  "platform": "mooc_cn",
+  "title": "International Trade",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458194162",
+  "instructors": [
+    {
+      "name": "ZHANG Wei",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of International Business and Economics"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 834,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

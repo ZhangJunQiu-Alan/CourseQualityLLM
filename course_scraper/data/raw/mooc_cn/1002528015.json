@@ -1,0 +1,31 @@
+{
+  "course_id": "1002528015",
+  "platform": "mooc_cn",
+  "title": "工程图学",
+  "description": "本课程是工科学生必修的专业基础课，课程培养学习者的形象思维能力，并了解工程设计表达的标准和规范，从而建立起工程师的基本素养。上海交通大学图学课程组拥有一支学术水平高、教学造诣深的优秀教师队伍，曾获得首批国家精品课程、精品资源共享课程和国家精品在线开放课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002528015",
+  "instructors": [
+    {
+      "name": "蒋丹;赵新明;胡静",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 43534,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002545003",
+  "platform": "mooc_cn",
+  "title": "水文地质学基础",
+  "description": "《水文地质学基础》是水文与水资源工程、地下水科学与工程、环境工程、地质工程等地学相关专业的核心基础课，是中国地质大学（武汉）创立以来最早开设的基础专业课程之一，迄今已有近60多年的历史；出版了国家级精品教材，是湖北省精品资源共享课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002545003",
+  "instructors": [
+    {
+      "name": "梁杏;陈文岭;孙蓉琳;鲜阳;黄琨;郭会荣;汪丙国;马斌;罗明明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国地质大学（武汉）"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 34698,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

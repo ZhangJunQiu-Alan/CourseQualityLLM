@@ -1,0 +1,31 @@
+{
+  "course_id": "1205718807",
+  "platform": "mooc_cn",
+  "title": "水与人类生活",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205718807",
+  "instructors": [
+    {
+      "name": "楼菊青",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江工商大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6108,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

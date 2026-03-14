@@ -1,0 +1,31 @@
+{
+  "course_id": "1206406808",
+  "platform": "mooc_cn",
+  "title": "工程力学",
+  "description": "人类不断创造一个又一个伟大工程，如港珠澳大桥，三峡大坝，波音747，C919等。你是否想过这些宏伟工程是如何保证安全的？“工程力学”这门课程就是要解决这样的问题。本课程将告诉你怎样保证所设计结构的强度、刚度和稳定性要求？如果你想成为一个优秀的结构工程师、那么就请感受力学分析的魅力吧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206406808",
+  "instructors": [
+    {
+      "name": "魏培君",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15421,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

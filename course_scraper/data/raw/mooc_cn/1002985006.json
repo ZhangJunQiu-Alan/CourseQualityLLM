@@ -1,0 +1,31 @@
+{
+  "course_id": "1002985006",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "“线性代数”是高等学校理、工、经管、农、林等专业必修公共基础课程之一。本课程通过介绍线性代数的基本知识，帮助同学们掌握线性代数的基本概念、基本理论以及基本的解题方法，培养大家分析问题和解决问题的能力，并为后续专业课程的学习奠定必备的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002985006",
+  "instructors": [
+    {
+      "name": "高国荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26812,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

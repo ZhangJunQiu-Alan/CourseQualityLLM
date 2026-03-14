@@ -1,0 +1,31 @@
+{
+  "course_id": "1002607070",
+  "platform": "mooc_cn",
+  "title": "嵌入式软件设计",
+  "description": "嵌入式软件设计是计算机、软件工程等学科的专业方向课，是一门实践性、技术性很强的重要课程。本课程的主要任务是全面介绍基于ARM/嵌入式Linux操作系统的GNU C语言程序设计思想、方法，以及基于STM32处理器和Proteus的嵌入式仿真技术。通过本课程的学习，使学生掌握嵌入式软件设计的基本流程和方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002607070",
+  "instructors": [
+    {
+      "name": "赖晓晨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 52567,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

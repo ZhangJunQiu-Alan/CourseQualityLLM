@@ -1,0 +1,39 @@
+{
+  "course_id": "course-2272e524-65dc-4d7f-be5f-7e2b7bc4ac8f",
+  "platform": "edx",
+  "title": "Risk & Return",
+  "description": "In this course, you will learn to estimate the expected return of equity and debt. You will also learn to estimate the weighted average cost of capital (WACC), the opportunity cost of capital you should use when discounting the free cash flows to value a firm. \n In the process, you will learn to estimate the risk of financial assets and how use this measure of risk to calculate expected returns. You will also learn how the capital structure of a firm affects the riskiness of its equity and debt. Throughout the course, you will learn how to construct Excel models to value firms using hands on activities.",
+  "learning_goals": [
+    "Cash Flows",
+    "Capital Structures",
+    "Expected Return",
+    "Equity and Debt",
+    "Financial Asset",
+    "Cost Of Capital",
+    "Equities",
+    "Weighted Average Cost Of Capital (WACC)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "daniel-wolfenzon",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Columbia University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 727,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

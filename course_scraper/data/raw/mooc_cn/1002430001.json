@@ -1,0 +1,31 @@
+{
+  "course_id": "1002430001",
+  "platform": "mooc_cn",
+  "title": "兽医免疫学",
+  "description": "兽医免疫学课程是动物医学本科专业的专业基础课之一，是构成预防兽医学课程体系的重要一环。本课程阐述动物机体免疫系统组成、免疫应答规律、免疫病理、免疫功能、免疫防治和免疫学检测技术。该学科发展迅速，理论价值与实践意义并重。通过本课程的学习，学生可以掌握兽医免疫学的基础理论及基础技术，了解兽医免疫学理论与应用的研究进展，并在课程学习中潜移默化提高自身分析问题和解决问题的能力，培养严谨求实的科学精神，增强科学报国的内在动力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002430001",
+  "instructors": [
+    {
+      "name": "吴晓平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建农林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14313,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

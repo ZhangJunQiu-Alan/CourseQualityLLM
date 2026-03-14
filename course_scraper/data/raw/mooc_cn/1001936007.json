@@ -1,0 +1,31 @@
+{
+  "course_id": "1001936007",
+  "platform": "mooc_cn",
+  "title": "VB.NET程序设计",
+  "description": "VB.NET是Visual Studio.NET集成开发环境支持的一种程序设计语言。VB.NET一方面继承了Basic语言简单易学的特点；另一方面在其编程环境中采用了面向对象的可视化设计工具、事件驱动的编程机制、动态数据驱动等先进的软件开发技术，为用户提供了一种所见即所得的可视化程序设计方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001936007",
+  "instructors": [
+    {
+      "name": "张建国;阙向红;张晓芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 45286,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

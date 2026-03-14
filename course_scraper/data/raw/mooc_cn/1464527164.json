@@ -1,0 +1,31 @@
+{
+  "course_id": "1464527164",
+  "platform": "mooc_cn",
+  "title": "Python程序设计",
+  "description": "使用当今最受欢迎的通用编程语言——Python来入门程序设计，本课程基于单独知识点制作了大量短视频，非常适合随时进行学习或回顾，通过细致的讲解和有趣的实例引导学习者探索广阔的编程世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464527164",
+  "instructors": [
+    {
+      "name": "骆诚;牟式标;陈志军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "义乌工商职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1916,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

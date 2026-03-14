@@ -1,0 +1,31 @@
+{
+  "course_id": "1206674825",
+  "platform": "mooc_cn",
+  "title": "模式识别与机器学习",
+  "description": "模式识别的原理和方法在医学、军事等众多领域应用十分广泛，是计算机及其相关专业进行科学研究的基础。课程构建了以经典推理决策为明线、前沿机器学习为暗线，明暗螺旋递进的内容体系，有效串接贝叶斯推理、线性判据、神经网络、深度学习等知识模块。同时，高维微积分、矩阵分析、优化理论等高阶数学知识与课程专业内容无缝嵌入衔接。此外，概率统计、代数、几何等技术路线之间前后呼应。该体系既融入了最新的机器学习研究成果，又明晰了广大分散知识点之间的关联，避免学习出现知识孤岛。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206674825",
+  "instructors": [
+    {
+      "name": "朱丹红;于元隆",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21385,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

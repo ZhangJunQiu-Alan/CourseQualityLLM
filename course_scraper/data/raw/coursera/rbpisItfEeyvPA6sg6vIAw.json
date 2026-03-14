@@ -1,0 +1,26 @@
+{
+  "course_id": "rbpisItfEeyvPA6sg6vIAw",
+  "platform": "coursera",
+  "title": "C++ Superpowers and More",
+  "slug": "c-superpowers-and-more",
+  "description": "Explore the C and C++ languages. Look at the specificity of the C/C++ languages and how this impacts security, ways C/C++ can interact with the external world, error handling, the execution environment and much more.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/c-superpowers-and-more",
+  "instructors": [
+    {
+      "name": "Martin Dubois",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Infosec"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

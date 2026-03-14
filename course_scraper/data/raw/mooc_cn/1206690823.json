@@ -1,0 +1,31 @@
+{
+  "course_id": "1206690823",
+  "platform": "mooc_cn",
+  "title": "基础会计",
+  "description": "《基础会计》课程以会计实际工作“证-账-表”流程为主线，将基本理论打散了融入会计实务操作中，使初学者容易理解，学以致用。杜绝理论与实践严重脱节的现象。课程知识点讲解细致到位，突出实践操作，强调理实一体。本在线课程和教材配套使用效果更好（教材信息：《基础会计》第2版修订本  “十四五”职业教育江苏省规划教材 ISBN978-7-5121-4325-8 主编 王玉娟 北京交通大学出版社  2023.08）。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206690823",
+  "instructors": [
+    {
+      "name": "王玉娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南通职业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13604,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

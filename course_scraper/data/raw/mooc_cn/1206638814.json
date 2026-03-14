@@ -1,0 +1,31 @@
+{
+  "course_id": "1206638814",
+  "platform": "mooc_cn",
+  "title": "中国概况",
+  "description": "了解中国，理解世界，这里是《中国概况》。让我们带你一起打开通往中国的大门，探索了解真实的中国概况！Learn about China，catch on the world. Welcome to China Panorama！Let us usher you into China and unveil its mask.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206638814",
+  "instructors": [
+    {
+      "name": "郭鹏;程龙;林静;陈闻",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京语言大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19506,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

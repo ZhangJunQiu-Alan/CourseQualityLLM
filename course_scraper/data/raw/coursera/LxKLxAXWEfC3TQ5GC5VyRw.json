@@ -1,0 +1,26 @@
+{
+  "course_id": "LxKLxAXWEfC3TQ5GC5VyRw",
+  "platform": "coursera",
+  "title": "Writing Clean Code: 20 Code Smells & How to Avoid Them",
+  "slug": "packt-writing-clean-code-20-code-smells-how-to-avoid-them-g2oer",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you will learn how to identify and eliminate common \"code smells\" that can degrade the quality and maintainability of your software. You'll gain hands-on strategies for improving your codebase, from identifying inefficient loops to eliminating unnecessary exceptions. Each lesson focuses on a specific code smell and guides you through the best practices to refactor and optimize your code for long-term health.\n\nThe course begins by exploring the fundamental principles of clean software design, introducing you to key concepts like the SOLID principles and modular design. As you progress, you will dive deep into specific code smells such as \"Primitive Obsession,\" \"Feature Envy,\" and \"Shallow Modules,\" each accompanied by real-world examples and actionable solutions.\n\nBy the end of this course, you will be able to confidently analyze, refactor, and improve a codebase to enhance readability, performance, and maintainability. Whether you're a junior developer or an experienced software engineer, this course will help you refine your skills and develop cleaner, more sustainable code.\n\nThis course is ideal for software developers and engineers looking to improve their coding practices, enhance the maintainability of their projects, and master the art of writing clean, efficient code. A basic understanding of programming principles is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-writing-clean-code-20-code-smells-how-to-avoid-them-g2oer",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

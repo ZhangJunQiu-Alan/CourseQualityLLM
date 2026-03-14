@@ -1,0 +1,39 @@
+{
+  "course_id": "course-128522e4-22b2-40c3-8b64-d628041b7f64",
+  "platform": "edx",
+  "title": "AI in Architectural Design: Introduction",
+  "description": "Are you navigating through the maze of AI discussions in everyday conversations? Do you feel overwhelmed and find it challenging to keep up with the constant flow of AI news and hype? Or perhaps you are enthusiastic about AI and its transformative power in design practices. This course will shed light on the science behind the most popular AI tools and models. \n Are you an architect concerned about the potential impact of AI on your role? If you're eager to upskill, this course is designed to help you manage expectations and enhance your skills, ensuring greater job competency in the evolving landscape of design, data and AI. \n The course goes beyond introducing AI as merely a tool but presents a new methodology for scientific design thinking. The course material gives you a vision on how to adjust your skills for a more secure job market competency. \n The content of the course is specifically suitable for architects in practice or architectural students searching for something outside of the architecture field, possibly gaining new skills in programming and AI to fit into more diverse job opportunities. \n The learning journey starts with learning about the history of AI and understanding machine learning as the science behind the AI technology. Further, the focus is established on computer vision as the “eye of AI” within the domain of architectural design. You will learn about the most prominent machine learning approaches in theory and in coding practice. You practice machine learning by using Python programming notebooks and exploring architectural design datasets. You will learn how to use AI to visualize your design data and upgrade your design storytelling. \n You will learn how to search for reliable content including data and AI models in the overwhelming landscape of opensource AI. You will be introduced to licence-free “backstage” AI by going behind the main-stream glossy AI products. \n You will also be introduced to algorithmic and data-driven thinking, data patterns, and the transformative power of learning systems. Hands-on experience with Python programming is included in the course. The assessments will include multiple choice quizzes, written text, and a a brief machine learning coding project that combines theory with real-world application and data practices.",
+  "learning_goals": [
+    "Architectural Design",
+    "Design Thinking",
+    "Open Source Technology",
+    "Computer Vision",
+    "Python (Programming Language)",
+    "Enthusiasm",
+    "Machine Learning",
+    "Artificial Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "seyran-khademi-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2538,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

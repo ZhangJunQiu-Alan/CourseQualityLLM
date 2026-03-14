@@ -1,0 +1,31 @@
+{
+  "course_id": "1453872164",
+  "platform": "mooc_cn",
+  "title": "电工电子技术",
+  "description": "电工电子技术系列课程是江苏省一流课程，也是我校电工电子国家级教学实验示范中心的重要建设载体。课程教学成果丰硕， 课程第一负责人王勤教授获2014年国家级教学成果奖一等奖（排名第五），第二负责人刘海春老师获2015年全国高校青年教师电工学课程教学比赛特等奖。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1453872164",
+  "instructors": [
+    {
+      "name": "王勤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11479,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

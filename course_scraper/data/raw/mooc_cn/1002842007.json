@@ -1,0 +1,31 @@
+{
+  "course_id": "1002842007",
+  "platform": "mooc_cn",
+  "title": "数据库系统原理",
+  "description": "讲述数据库应用、设计与实现技术，循序渐进地融入大数据思维。技术先进、概念清晰、内容精炼、资源齐全！适合计算机、数据科学与大数据、软件工程、人工智能、信息技术/系统等相关专业，以及希望从事数据管理、Web系统、互联网+平台研究、开发与应用，对计算机实际应用系统实现技术感兴趣的各类人员。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002842007",
+  "instructors": [
+    {
+      "name": "党德鹏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 111762,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

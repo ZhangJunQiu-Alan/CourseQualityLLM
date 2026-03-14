@@ -1,0 +1,38 @@
+{
+  "course_id": "course-381a0046-5d78-4790-8776-74620d59f48e",
+  "platform": "edx",
+  "title": "Python Basics for Data Science",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge —a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n Kickstart your learning of Python for data science, as well as programming in general with this introduction to Python course.  This beginner-friendly Python course will quickly take you from zero to programming in Python in a matter of hours and give you a taste of how to start working with data in Python. ~~~~  \n Upon its completion, you'll be able to write your own Python scripts and perform basic hands-on data analysis using our Jupyter-based lab environment. If you want to learn Python from scratch, this course is for you. \n You can start creating your own data science projects and collaborating with other data scientists using  IBM Watson Studio . When you sign up, you will receive free access to Watson Studio. Start now and take advantage of this platform and learn the basics of programming, machine learning, and data visualization with this introductory course.",
+  "learning_goals": [
+    "Machine Learning",
+    "Data Visualization",
+    "Data Analysis",
+    "Python (Programming Language)",
+    "Watson Studio",
+    "Data Science",
+    "Jupyter"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "3 周，每周 4-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15243,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

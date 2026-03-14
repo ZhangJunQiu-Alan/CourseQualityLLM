@@ -1,0 +1,31 @@
+{
+  "course_id": "1003647009",
+  "platform": "mooc_cn",
+  "title": "数据库原理与应用",
+  "description": "在大数据时代的今天，为更好实现用数据说话、用数据管理、用数据决策，首先要有效组织、存储和管理数据，数据库技术就是一门现代计算环境中数据管理的基础技术。来吧！加入我们的队伍，一起进入数据库的精彩世界，学会利用数据库技术来组织和管理企业机构中的大量业务数据，为大数据时代的你充电加油！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003647009",
+  "instructors": [
+    {
+      "name": "宋金玉;张所娟;胡琨;靳大尉;卢根;陈刚;谢晓宇;郝建东;李杰;程恺",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国人民解放军陆军工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 116827,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

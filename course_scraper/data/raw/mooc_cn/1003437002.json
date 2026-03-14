@@ -1,0 +1,31 @@
+{
+  "course_id": "1003437002",
+  "platform": "mooc_cn",
+  "title": "有用的统计学",
+  "description": "统计是一种归纳思维过程，通过收集、分析和解释数据，刻画斑斓世界背后的规律，为正确决策提供定量依据，发挥着经世济用的作用。本课程将从数据开始，带领大家进入统计学的世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003437002",
+  "instructors": [
+    {
+      "name": "刘扬;潘蕊;刘苗;关蓉;王会娟;马景义;王慧颖;刘玉涛;王思洋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中央财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 37946,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

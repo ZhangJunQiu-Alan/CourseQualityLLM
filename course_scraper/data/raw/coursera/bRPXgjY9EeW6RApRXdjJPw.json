@@ -1,0 +1,26 @@
+{
+  "course_id": "bRPXgjY9EeW6RApRXdjJPw",
+  "platform": "coursera",
+  "title": "Functional Programming Principles in Scala",
+  "slug": "scala-functional-programming",
+  "description": "Functional programming is becoming increasingly widespread in industry. This trend is driven by the adoption of Scala as the main programming language for many applications. Scala fuses functional and object-oriented programming in a practical package. It interoperates seamlessly with both Java and Javascript. Scala is the implementation language of many important frameworks, including Apache Spark, Kafka, and Akka. It provides the core infrastructure for sites such as Twitter, Netflix, Zalando, and also Coursera.\n\nIn this course, you will discover the elements of the functional programming style and learn how to apply them usefully in your daily programming tasks, such as modeling business domains or implementing business logic. You will also develop a solid foundation for reasoning about functional programs, by touching upon proofs of invariants and the tracing of execution symbolically.\n\nThe course is hands-on; most units introduce short programs that serve as illustrations of important concepts and invite you to play with them, modifying and improving them. The course is complemented by a series of programming projects as homework assignments.\n\nRecommended background: You should have at least one year of programming experience. Proficiency with Java or C# is ideal, but experience with other languages such as C/C++, Python, Javascript, or Ruby is also sufficient. You should have some background in mathematics (e.g., algebra, logic, proof by induction). Last, you should have some familiarity with using the command line.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 hours / week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/scala-functional-programming",
+  "instructors": [
+    {
+      "name": "Martin Odersky",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "École Polytechnique Fédérale de Lausanne"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

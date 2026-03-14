@@ -1,0 +1,49 @@
+{
+  "course_id": "course-153cedc6-d710-41c4-bd39-58363ef0f7db",
+  "platform": "edx",
+  "title": "Cyber Security Basics: A Hands-on Approach",
+  "description": "Are you tired of hearing that your computer has a virus? Or that your email account has been hacked? Now, is the time for you to protect yourself by understanding the basics of cyber security. \n This computer science course presents an introduction to cyber security showing different aspects of this discipline. You will learn what the main existing cyber security threats are and how to protect yourself against them. The course presents a practical approach in which all required material will be provided to allow you to better understand attacks and establish appropriate countermeasures. \n Taught by instructors with years of experience in the field of computer security, this course will pave the way to the security area of IT-related professions.",
+  "learning_goals": [
+    "Cyber Security",
+    "Computer Security",
+    "Computer Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 5-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "lorena-gonzalez-manzano",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jose-maria-de-fuentes",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "pedro-peris-lopez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "juan-e-tapiador",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Carlos III de Madrid"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 756,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+  "course_id": "4q-WyKE4Eeq6sw53XZdVoQ",
+  "platform": "coursera",
+  "title": "Programación en Python",
+  "slug": "programacion-python",
+  "description": "¡Te damos la bienvenida al curso de Programación en Python de la Universidad de los Andes!\n\nEl propósito de este curso es ofrecerte un ambiente interactivo para que desarrolles tus habilidades de pensamiento computacional, aprendas a programar en el lenguaje Python y te entrenes en la resolución de problemas utilizando un computador. La estrategia pedagógica empleada es el aprendizaje activo basado en casos. Es un curso altamente interactivo que constantemente te retará a responder preguntas, verificar tu comprensión, ejercitarte en escritura de código de programación, resolver casos de diferente complejidad y múltiples oportunidades para pasar de la teoría a la práctica, con actividades formativas, con las cuales desarrollarás habilidades de abstracción y de programación.\n\nAdemás, podrás utilizar PyTips, una aplicación web desarrollada por la Universidad de los Andes, novedosa e importante para el desarrollo de habilidades de programación, donde encontrarás una lista de errores comunes que se cometen al aprender a programar en Python y te permite corregirlos de manera que puedas aprender de ellos.\n\nTen en cuenta que el tiempo estimado para la realización de las actividades de cada módulo es de 15 horas en promedio. Tú puedes invertir este tiempo en un periodo de 1 o 2 semanas por módulo, de acuerdo con tus posibilidades y necesidades educativas. Así mismo te recomendamos que desarrolles todas las actividades educativas en el orden propuesto, de manera que pueda sacar mejor provecho de este curso.\n\nEste curso es para toda persona que desee aprender a programar, aunque nunca lo haya hecho. Se requiere un mínimo de bases matemáticas y muchas ganas de aprender y trabajar.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "15 horas por cada uno de los 4 módulos, los cuales pueden desarrollarse en periodos de 1 o 2 semanas",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/programacion-python",
+  "instructors": [
+    {
+      "name": "Mario Sánchez Puccini",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Andrés Felipe Melani De La Hoz",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Andrea Herrera Suescún",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Marcela Hernández Hoyos",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad de los Andes"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

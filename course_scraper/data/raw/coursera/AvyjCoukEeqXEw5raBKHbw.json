@@ -1,0 +1,26 @@
+{
+  "course_id": "AvyjCoukEeqXEw5raBKHbw",
+  "platform": "coursera",
+  "title": "Sentiment Analysis with Deep Learning using BERT",
+  "slug": "sentiment-analysis-bert",
+  "description": "In this 2-hour long project, you will learn how to analyze a dataset for sentiment analysis. You will learn how to read in a PyTorch BERT model, and adjust the architecture for multi-class classification. You will learn how to adjust an optimizer and scheduler for ideal training and performance. In fine-tuning this model, you will learn how to design a train and evaluate loop to monitor model performance as it trains, including saving and loading models. Finally, you will build a Sentiment Analysis model that leverages BERT's large-scale language knowledge.\n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "120 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/sentiment-analysis-bert",
+  "instructors": [
+    {
+      "name": "Ari Anastassiou",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

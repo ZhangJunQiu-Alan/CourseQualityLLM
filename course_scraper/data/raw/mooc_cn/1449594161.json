@@ -1,0 +1,31 @@
+{
+  "course_id": "1449594161",
+  "platform": "mooc_cn",
+  "title": "法理学",
+  "description": "法理学是法学的基础性、理论性和导论性学科，是关于法和法学的一般原理（哲理）、基本法律原则、基本概念的知识，具有法学和哲学交叉性学科的性质。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449594161",
+  "instructors": [
+    {
+      "name": "中国政法大学法学院雷磊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国政法大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 119893,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003359013",
+  "platform": "mooc_cn",
+  "title": "EDA技术与实验",
+  "description": "当现代工业技术的发展依赖于电子技术的飞速发展，从高性能的微处理器到智能手机等电子产品的设计与制造，都离不开EDA技术的支撑。EDA技术己成为现代电子设计的核心，是现代电类工程技术人员必须掌握的前沿技术。让我们跟随EDA技术发展和时代的脚步开始本课程的学习吧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003359013",
+  "instructors": [
+    {
+      "name": "朱敏;张岩;杨春玲;于艳君",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29426,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

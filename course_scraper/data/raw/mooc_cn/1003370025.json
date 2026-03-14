@@ -1,0 +1,31 @@
+{
+  "course_id": "1003370025",
+  "platform": "mooc_cn",
+  "title": "中国教育史",
+  "description": "《中国教育史》是教育学专业的核心课程，也是一门面向全社会开放的教师教育在线课程。课程内容涵盖了中国学校教育的萌生期、定型期、拓展期、衰落期和更生期。本课程的教学工作和资源建设由信阳师范大学郭勇副教授为首的教学团队承担。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003370025",
+  "instructors": [
+    {
+      "name": "施要威;李辉辉;郭勇;李泽娟;张莉娜;黄非非;徐亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "信阳师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 59114,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

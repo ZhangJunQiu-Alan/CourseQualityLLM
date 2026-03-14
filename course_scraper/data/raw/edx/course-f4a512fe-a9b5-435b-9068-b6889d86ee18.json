@@ -1,0 +1,35 @@
+{
+  "course_id": "course-f4a512fe-a9b5-435b-9068-b6889d86ee18",
+  "platform": "edx",
+  "title": "Platform Business Models",
+  "description": "This MOOC on platform business models will take a strategic perspective to understanding business that operate as platforms. In contrast to conventional pipeline business models, platform business model firms make certain unique decisions. \n The first module of this course will introduce the learner to the core concepts around platforms and network economics. The second module will elaborate on network effects in the context of platforms and ecosystems, and provide insights into how platforms mobilize their networks and solve the penguin problems.   \n The third module elucidates the criteria used by platform firms in their pricing decisions and introduces the various pricing models available for platform pricing. The fourth module highlights the value architecture of platform firms, including trade-offs around openness and proprietary nature of complement engagements. The final module provides insights into competing in a platform ecosystem, including managing oligopolistic markets, and issues in regulating platforms.",
+  "learning_goals": [
+    "Economics",
+    "Technology Ecosystems",
+    "Business Modeling",
+    "Operations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "srinivasan-r",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Indian Institute of Management Bangalore"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 319,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

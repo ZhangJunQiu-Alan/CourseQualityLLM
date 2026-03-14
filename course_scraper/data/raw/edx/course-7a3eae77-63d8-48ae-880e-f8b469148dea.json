@@ -1,0 +1,36 @@
+{
+  "course_id": "course-7a3eae77-63d8-48ae-880e-f8b469148dea",
+  "platform": "edx",
+  "title": "Management - Becoming an Effective Leader",
+  "description": "Management is both an art and science in that through collaborative interactions, individuals are able to achieve goals. This course provides a framework for understanding the key functions of a manager, which are planning, organizing, leading, and controlling. Characteristics of an effective manager include strong communication skills, the ability to formulate strategies and implement those strategies by examining multiple aspects of an organization. Managerial decision making influences an array of areas within an organization due to natural interrelatedness. Through application, students will be able to identify the skills necessary to be an effective manager.",
+  "learning_goals": [
+    "Planning",
+    "Decision Making",
+    "Management",
+    "Auditing",
+    "Communications"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "debora-sepich",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Doane University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 354,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

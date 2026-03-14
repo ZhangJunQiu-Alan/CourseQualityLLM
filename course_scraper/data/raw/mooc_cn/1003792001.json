@@ -1,0 +1,31 @@
+{
+  "course_id": "1003792001",
+  "platform": "mooc_cn",
+  "title": "移动通信技术与系统",
+  "description": "主要讲解GSM(全球移动通信系统)技术发展，了解移动通信的最新发展方向，为后续3G移动通信接入网运行维护和3G网络优化秀课程学习打下基础，使学生全面掌握移动通信网运行和维护的基本知识和专业技能，培养学生系统专业技术能力和适应职业变化的再学习能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003792001",
+  "instructors": [
+    {
+      "name": "张悦;赵靖哲;于正永;华山",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏电子信息职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6244,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

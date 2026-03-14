@@ -1,0 +1,31 @@
+{
+  "course_id": "1466017164",
+  "platform": "mooc_cn",
+  "title": "物理化学实验",
+  "description": "欢迎大家走进沈阳工业大学物理化学实验MOOC课堂！十个精选的物理化学实验涵盖化学热力学、化学动力学、电化学、胶体和界面化学以及物质物理性质测定等五方面的理论和实践内容。按“导—学—测—做—思—创”递阶式呈现的教师“导”、学生“学”双重结合学习模式，夯实基础、开拓创新，达成学习者素质、知识、能力全方位的提升！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466017164",
+  "instructors": [
+    {
+      "name": "张进;刘利;黄颖霞;吕丹;张啸",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "沈阳工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4465,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

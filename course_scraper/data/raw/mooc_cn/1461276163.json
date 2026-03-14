@@ -1,0 +1,31 @@
+{
+  "course_id": "1461276163",
+  "platform": "mooc_cn",
+  "title": "高级会计学",
+  "description": "《高级会计学》是会计学专业财务会计课程体系中的主干课程之一。它是以“高级”为基点、兼顾“特殊性”；显著特点是每章均为独立的专题，以会计基本假设的非标准或非典型情况作为参考依据，结合会计理论与实务，是研究客观经济环境中特殊交易或事项会计处理问题的一门会计学专业必修课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461276163",
+  "instructors": [
+    {
+      "name": "孙自愿",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国矿业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5282,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

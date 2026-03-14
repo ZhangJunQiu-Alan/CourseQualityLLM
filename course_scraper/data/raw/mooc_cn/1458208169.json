@@ -1,0 +1,31 @@
+{
+  "course_id": "1458208169",
+  "platform": "mooc_cn",
+  "title": "Computer Network Technology and Application",
+  "description": "The course  has been recognized by the Ministry of Education of PRC as the first batch of national quality online open courses and also been selected as an excellent course by the MOOC alliance of computer education in China.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458208169",
+  "instructors": [
+    {
+      "name": "Peng LI;Sujun HU;Feng ZHU",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Nanjing University of Posts and Telecommunications"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1253,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

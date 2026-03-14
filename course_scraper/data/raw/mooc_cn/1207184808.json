@@ -1,0 +1,31 @@
+{
+  "course_id": "1207184808",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "《线性代数》是高等工科院校的一门基础理论课，主要讨论有限维线性空间的线性运算，由于许多科学领域广泛存在着线性关系或近似线性关系，因此本课程中所涉及的理论和方法广泛用于各学科。该课程理论坚实、算法成熟、应用广泛，是大学生学习自然科学的奠基石。通过学习本门课程，希望同学们能掌握一种新的数学工具，形成一种新的思维模式，提升自己的数学素养。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207184808",
+  "instructors": [
+    {
+      "name": "路畅;马晓丽;李花妮;朱雅敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21564,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

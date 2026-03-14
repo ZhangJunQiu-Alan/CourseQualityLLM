@@ -1,0 +1,40 @@
+{
+  "course_id": "course-382aaed7-05e3-486d-9867-f890242eb648",
+  "platform": "edx",
+  "title": "Computing in Python IV: Objects & Algorithms",
+  "description": "Complete your introductory knowledge of computer science with this final course on objects and algorithms. Now that you've learned about complex control structures and data structures, learn to develop programs that more intuitively leverage your natural understanding of problems through object-oriented programming. Then, learn to analyze the complexity and efficiency of these programs through algorithms. In addition, certify your broader knowledge of Introduction to Computing with a comprehensive exam.  \n By the end of this course, you'll be able to write programs in Python that leverage your more natural understanding of data structures by creating objects to represent the structures you work with most often. For example, if you were creating a class roster application, you'll learn how to create an object representing a student's name, ID number, and attendance record. Then, you'll be able to create applications that leverage sorting and searching algorithms to sort that roster alphabetically, search for a particular student, and evaluate the efficiency of both those operations.  \n Structurally, the course is comprised of several parts. Instruction is delivered via a series of short (2-3 minute) videos. In between those videos, you'll complete both multiple choice questions and coding problems to demonstrate your knowledge of the material that was just covered. These exercises count for 20% of your grade. Then, after each major chapter, you'll complete a problem set of collected, more challenging problems. These count for 40% of your grade. Finally, you'll complete a final course exam, which counts for the remaining 40% of your grade.",
+  "learning_goals": [
+    "Python (Programming Language)",
+    "Sorting",
+    "Algorithms",
+    "Operations",
+    "Control Structures",
+    "Data Structures",
+    "Object-Oriented Programming (OOP)",
+    "Computer Science",
+    "Search Algorithms"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 9-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-joyner",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 901,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

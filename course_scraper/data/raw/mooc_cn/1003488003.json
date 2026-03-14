@@ -1,0 +1,31 @@
+{
+  "course_id": "1003488003",
+  "platform": "mooc_cn",
+  "title": "脑健康知识讲座",
+  "description": "大脑是生物从亿万年前进化到一定阶段的产物，大脑主宰着人的意识和行为，大脑健康是创新知识经济的物质基础。让我们一起来探索大脑的奥秘，解读神经系统疾病。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003488003",
+  "instructors": [
+    {
+      "name": "商慧芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22418,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

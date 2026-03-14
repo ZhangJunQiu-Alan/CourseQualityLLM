@@ -1,0 +1,31 @@
+{
+  "course_id": "1001511012",
+  "platform": "mooc_cn",
+  "title": "比较文学",
+  "description": "本课程系统讲授比较文学的基础理论和研究方法，从跨文化和跨学科的角度分析中外文学和文化现象，旨在拓宽视野，更新方法，扩展知识结构。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001511012",
+  "instructors": [
+    {
+      "name": "胡亚敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 75602,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

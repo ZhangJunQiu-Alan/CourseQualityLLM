@@ -1,0 +1,31 @@
+{
+  "course_id": "1003270001",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "线性代数的基本概念、理论和方法都具有较强的逻辑性和抽象性，是教师难教，学生难学的一门数学课。本课程以微课标准精心设计，采取”聚焦问题——激活旧识——示证新知——应用新知——融会贯通“的五星教学法，由浅入深、循序渐进，力求让你顺畅、高效地理解和掌握线性代数中的基本概念和方法理论。主讲曾获数学微课设计竞赛全国一等奖、华东赛区一等奖，江苏省本科高校青年教师授课竞赛一、二等奖等诸多荣誉。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003270001",
+  "instructors": [
+    {
+      "name": "高广花;郑莹;金栩;姜月萍;蒋志芳;王发兴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 78878,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

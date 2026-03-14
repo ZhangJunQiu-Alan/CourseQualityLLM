@@ -1,0 +1,32 @@
+{
+  "course_id": "course-d785113b-c394-4771-9a88-6977d946856a",
+  "platform": "edx",
+  "title": "Thermodynamics and Phase Equilibria",
+  "description": "The course reviews concepts including the 1st and 2nd laws of thermodynamics; entropy; equilibrium for isolated systems; materials properties; and continues to review phase equilbria.",
+  "learning_goals": [
+    "Thermodynamics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "16 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alberto-salleo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 527,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

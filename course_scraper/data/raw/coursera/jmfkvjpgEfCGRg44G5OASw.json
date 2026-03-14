@@ -1,0 +1,26 @@
+{
+  "course_id": "jmfkvjpgEfCGRg44G5OASw",
+  "platform": "coursera",
+  "title": "YOLO-NAS + v8 Full-Stack Computer Vision Course",
+  "slug": "packt-yolo-nas-v8-full-stack-computer-vision-course-3r5ko",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis comprehensive course introduces you to the YOLO-NAS + v8 model and its integration into real-world applications. You’ll gain hands-on experience in using YOLO-NAS + v8 for object detection, training custom models, and deploying solutions across different platforms, from cloud services to mobile devices. Learn how to transition from YOLOv8 to YOLO-NAS, refine object detection capabilities, and integrate advanced tracking techniques with algorithms like DeepSORT and Bytetrack.\n\nThe course takes you on a journey through every aspect of YOLO-NAS + v8, from setting up the environment on various platforms, fine-tuning models for specific needs, and exploring use cases such as waste sorting detection and safety compliance. You’ll also learn model conversion techniques and deploy solutions on Docker, Jetson NANO, and even mobile devices using Kivy.\n\nWhether you're looking to enhance your computer vision skills or integrate AI into mobile and web apps, this course caters to all levels of learners. If you're a developer, data scientist, or researcher, this course will provide you with the necessary tools to create sophisticated AI-driven applications across a wide range of industries.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-yolo-nas-v8-full-stack-computer-vision-course-3r5ko",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

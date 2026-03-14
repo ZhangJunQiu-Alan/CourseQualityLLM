@@ -1,0 +1,43 @@
+{
+  "course_id": "course-da835018-cdd6-4ef8-82e3-150f3131b8aa",
+  "platform": "edx",
+  "title": "Applications of TinyML",
+  "description": "Do you know what happens when you say “OK Google” to a Google device? Is your Google Home always listening?  \n Following on the Foundations of Tiny ML course, Applications of TinyML will give you the opportunity to see tiny machine learning applications in practice. This course features real-world case studies, guided by industry leaders, that examine deployment challenges on tiny or deeply embedded devices. \n Dive into the code for using sensor data for tasks such as gesture detection and voice recognition. Focusing on the neural network of the applications, specifically on training and inference, you will review the code behind “OK Google,” “Alexa,” and smartphone features on Android and Apple . Learn about real-word industry applications of TinyML as well as Keyword Spotting, Visual Wake Words, Anomaly Detection, Dataset Engineering, and Responsible Artificial Intelligence. \n Tiny Machine Learning (TinyML) is one of the fastest-growing areas of deep learning and is rapidly becoming more accessible. The second course in the TinyML Professional Certificate program, Applications of TinyML shows you the code behind some of the world’s most widely-used TinyML devices.",
+  "learning_goals": [
+    "Machine Learning",
+    "Speech Recognition",
+    "Anomaly Detection",
+    "Artificial Neural Networks",
+    "Smartphone Operation",
+    "Android (Operating System)",
+    "Deep Learning"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "vijay-janapa-reddi",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "laurence-moroney",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2522,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

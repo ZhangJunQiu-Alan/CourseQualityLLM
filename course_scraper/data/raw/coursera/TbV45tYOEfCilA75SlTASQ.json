@@ -1,0 +1,26 @@
+{
+  "course_id": "TbV45tYOEfCilA75SlTASQ",
+  "platform": "coursera",
+  "title": "Web Dev: Optimization, Server Processing, and JavaScript",
+  "slug": "web-dev-optimization-server-processing-javascript-lo094023",
+  "description": "To round out your web-development skills, you'll improve web content by adjusting layouts, performing basic search-engine optimization (SEO), and test your website for issues. You'll also submit data to a web server for processing through a URL and a web form. Then, you'll add JavaScript to a web page, perform operations on data, program repetitive tasks, and manipulate Document Object Model (DOM) objects. After that, you'll enumerate elements and attach events through code. Lastly, you'll use third-party JavaScript libraries and frameworks to streamline your code.\n\nThis is the fourth and final course in a multi-course Specialization.\n\nAll of the courses in this Specialization require that you run a XAMPP web server on localhost. The course setup instructions provided in the first course go into more detail about the hardware and software requirements.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/web-dev-optimization-server-processing-javascript-lo094023",
+  "instructors": [
+    {
+      "name": "Bill Rosenthal",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Logical Operations"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

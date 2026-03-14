@@ -1,0 +1,26 @@
+{
+  "course_id": "8iTq0Tv0EfCvexL6Zx2PNQ",
+  "platform": "coursera",
+  "title": "Learn GitHub Flavored Markdown",
+  "slug": "packt-learn-github-flavored-markdown-apxgp",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nMaster GitHub Flavored Markdown (GFM) and unlock the ability to create well-structured, readable documents for the web. By the end of this course, you will have hands-on experience with all aspects of Markdown, from formatting text to embedding images, creating links, and organizing content into neat tables. Whether you're documenting your project, writing README files, or contributing to GitHub repositories, this course equips you with the skills to produce clear, concise content.\n\nThe course begins by introducing you to the fundamentals, such as how Markdown works and how to write in it. You'll quickly dive into text formatting, exploring options like italicizing, bolding, and creating blockquotes. Then, you'll progress to more advanced features like inserting external and internal links, images, and tables. You'll also learn how to write clean, organized code snippets and create task lists for project tracking.\n\nAlong the way, you'll be encouraged to experiment with various features of Markdown, making the learning process hands-on and practical. By the time you complete the course, you'll be comfortable working with all the core elements of Markdown and confident in your ability to use it in any GitHub-based project.\n\nThis course is ideal for beginners looking to improve their documentation skills or anyone interested in learning how to use GitHub more effectively. No prior experience with Markdown is required, and the course is accessible to all skill levels.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-learn-github-flavored-markdown-apxgp",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

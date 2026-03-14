@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752358",
+  "platform": "mooc_cn",
+  "title": "材料力学",
+  "description": "阿基米德曾说过：“给我一个支点,我将撬动整个地球。”静力学告诉我们利用杠杆原理，可以利用支点把地球(像地球一样质量物体)轻松搬动。但是真的可以吗？如何设计这个杠杆结构呢？",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752358",
+  "instructors": [
+    {
+      "name": "乔玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 45400,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,27 @@
+{
+  "course_id": "uUKe9UGLEeeJdBL3H0RODg",
+  "platform": "coursera",
+  "title": "Battery Pack Balancing and Power Estimation",
+  "slug": "battery-pack-balancing-power-estimation",
+  "description": "This course can also be taken for academic credit as ECEA 5734, part of CU Boulder’s Master of Science in Electrical Engineering degree.\n\nIn this course, you will learn how to design balancing systems and to compute remaining energy and available power for a battery pack. By the end of the course, you will be able to:\n-\tEvaluate different design choices for cell balancing and articulate their relative merits\n-\tDesign component values for a simple passive balancing circuit\n-\tUse provided Octave/MATLAB simulation tools to evaluate how quickly a battery pack must be balanced\n-\tCompute remaining energy and available power using a simple cell model\n-\tUse provided Octave/MATLAB script to compute available power using a comprehensive equivalent-circuit cell model",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/battery-pack-balancing-power-estimation",
+  "instructors": [
+    {
+      "name": "Gregory Plett",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder",
+    "University of Colorado System"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

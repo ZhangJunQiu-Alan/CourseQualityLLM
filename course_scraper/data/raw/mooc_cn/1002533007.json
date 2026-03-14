@@ -1,0 +1,31 @@
+{
+  "course_id": "1002533007",
+  "platform": "mooc_cn",
+  "title": "电子线路基础",
+  "description": "如果你对各类电子产品充满了兴趣；如果你想成为电子发烧友；如果你想成为电子设计竞赛达人；如果你未来想进入电子相关领域；那么你选对了——电子线路基础课程！该课程是电路原理课程的扩展和延伸。这门课将向你打开更丰富的电子世界！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002533007",
+  "instructors": [
+    {
+      "name": "王蓉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28095,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1465569164",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "信号与系统无处不在。从第1G模拟移动通信系统到现在第5G数字移动通信系统，从上网冲浪到万物互联，从全球定位系统到北斗卫星导航系统，都离不开信号与系统的基本理论和分析方法。信息传递离不开信号，信号处理离不开系统。信号如何承载信息？系统如何处理信号呢？洛阳师范学院的信号与系统课程团队，精心制作了“信号与系统”在线开放课程，带您走进信号与系统的神秘世界。欢迎并期待大家学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465569164",
+  "instructors": [
+    {
+      "name": "高雅;崔建华;夏玉杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "洛阳师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1562,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

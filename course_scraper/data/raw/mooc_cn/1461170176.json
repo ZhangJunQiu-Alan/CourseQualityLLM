@@ -1,0 +1,31 @@
+{
+  "course_id": "1461170176",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "信息时代，信号无处不在，系统丰富多彩。电子信息行业的发展改变了我们的生活，提高了工作效率和生活质量。我们每天都在接触着各种各样的电子系统：手机、电视、电脑、网络，以及物联网等等。你们想知道他们的工作原理吗?时域、频域、复频域将带大家走进有趣的信号与系统的世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461170176",
+  "instructors": [
+    {
+      "name": "薛琴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江西师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2566,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "u8baN8yYEe2heBJoYVaBQQ",
+  "platform": "coursera",
+  "title": "Unit Testing in React.js: Create a Unit Test Suite",
+  "slug": "rudi-hinds-unit-testing-in-react-create-a-unit-test-suite-react-testing-liibrary",
+  "description": "Why is unit testing essential for developing high-quality React applications? In this project, you will delve into the core principles of testing React applications using the React Testing Library, building an extensive test suite for a real-world movie search application that fetches data from an API and displays it on screen. This practical, hands-on experience will enable you to create web applications that provide a seamless user experience.Throughout the project, you will learn to set up and configure the testing environment, starting with writing a simple \"Hello World\" test to grasp the basics of testing with React Testing Library. As you progress, you will discover various selection methods, such as getByRole, getByLabelText, and getByTestId, while mastering negative assertions to ensure correct application behavior when specific conditions are unfulfilled. You will also learn to simulate user interactions like typing and clicking buttons using the fireEvent utility, testing asynchronous behavior and conditionally rendered elements.Towards the end, the project will teach you the art of testing components in isolation by creating and implementing mocks for components and functions. By the time you complete this project, you will have acquired the expertise to apply essential React Testing Library concepts and techniques to develop comprehensive test suites for React applications. This knowledge will empower you to build robust, maintainable React applications that offer an outstanding user experience, ensuring the functionality and dependability of your components.Prerequisite knowledge you should have to get the most out of this project:JavaScript: Familiarity with JavaScript fundamentals, including variables, functions, loops, conditional statements, and asynchronous programming (e.g., async/await) as well as event handling in vanilla Javascript, React, Basic API interaction with fetch or Axios. Text editor or IDE such as Visual Studio Code, Atom, or Sublime Text.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/rudi-hinds-unit-testing-in-react-create-a-unit-test-suite-react-testing-liibrary",
+  "instructors": [
+    {
+      "name": "Rudi Hinds",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

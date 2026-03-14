@@ -1,0 +1,26 @@
+{
+  "course_id": "Hdv_YJ4EEfCKHRIRRnweFQ",
+  "platform": "coursera",
+  "title": "Intro to Unity - Game Development Made Easy",
+  "slug": "packt-intro-to-unity-game-development-made-easy-jxwps",
+  "description": "This course features Coursera Coach! \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\nIn this course, you will explore the Unity game engine and learn the fundamentals of game development. Starting with core principles, you will understand the tools, interface, and features Unity offers for creating 2D and 3D games. You’ll learn how to create and organize game scenes, import assets, and work with sprites, textures, and other elements.\nThe course will guide you through scripting player movement, handling collisions, and implementing animation systems. You will also design interactive levels, including enemy behavior, combat systems, and UI design, adding depth and engagement to your game.\nAs you progress, you will develop essential skills in game physics, camera controls, and optimizing performance for smooth gameplay. \nBy the end, you’ll create a fully functional prototype with interactive features, including audio and NPC interactions, preparing you to take your game development journey further.\nThis course is ideal for beginners and aspiring game developers. A basic understanding of programming concepts is helpful but not required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-intro-to-unity-game-development-made-easy-jxwps",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

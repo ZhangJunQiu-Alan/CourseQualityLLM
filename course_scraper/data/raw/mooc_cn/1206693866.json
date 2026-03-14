@@ -1,0 +1,31 @@
+{
+  "course_id": "1206693866",
+  "platform": "mooc_cn",
+  "title": "统计学",
+  "description": "统计学，是一门收集、整理和分析统计数据的方法论科学。本课程定位目标是普及统计学，让统计学走进生活、现实，并让更多的人学会用统计思维思考和解决问题。语言通俗易懂，幽默风趣。教会大家从生活中找统计，从身边发现统计，用统计的眼光看身边的世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206693866",
+  "instructors": [
+    {
+      "name": "洪金珠;曾慧;程开明;李海涛;张昭时;陈宜治",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江工商大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 32874,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

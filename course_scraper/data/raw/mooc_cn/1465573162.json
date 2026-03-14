@@ -1,0 +1,31 @@
+{
+  "course_id": "1465573162",
+  "platform": "mooc_cn",
+  "title": "小学语文课程标准与教学设计",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465573162",
+  "instructors": [
+    {
+      "name": "薛微微",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6057,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

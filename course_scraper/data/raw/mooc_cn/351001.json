@@ -1,0 +1,31 @@
+{
+  "course_id": "351001",
+  "platform": "mooc_cn",
+  "title": "德育原理",
+  "description": "本课程系统讲授德育的基本概念、基本原理、主要内容、基本方法、实践路径等，对提高学习者认识、研究能力，提升道德素养和人生境界，引导其更好地享受、创造美好幸福生活，践行社会主义核心价值观有着重要的理论意义和实践价值。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/351001",
+  "instructors": [
+    {
+      "name": "刘济良",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36606,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

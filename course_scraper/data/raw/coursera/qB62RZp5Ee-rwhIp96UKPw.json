@@ -1,0 +1,31 @@
+{
+  "course_id": "qB62RZp5Ee-rwhIp96UKPw",
+  "platform": "coursera",
+  "title": "Advancing Mask Technology for Semiconductors",
+  "slug": "advancing-mask-technology-for-semiconductors",
+  "description": "This is a comprehensive course designed to deepen your understanding of semiconductor mask technology, a critical component in the miniaturization and efficiency of electronic devices. Throughout this course, you'll explore fundamental concepts, advanced techniques, and practical applications of mask design and fabrication processes, equipping you with the skills necessary to excel in semiconductor manufacturing.\n\nThis course is tailored for engineers, technologists, and professionals involved in semiconductor manufacturing and design. It is also suitable for individuals interested in advanced fabrication processes and those aiming to deepen their expertise in semiconductor mask technology.\n\nParticipants should have a basic understanding of semiconductor technology, including manufacturing processes and device physics. Familiarity with mask design principles, CAD tools, photolithography, etching, deposition, doping techniques, and cleanroom protocols is recommended. Knowledge of semiconductor device technologies such as CMOS, BJT, and GaN, as well as quality control methods in semiconductor fabrication, will be beneficial.\n\nBy the end of this course, you will be able to explain the fundamental principles of semiconductor mask design, apply advanced lithography and fabrication techniques, optimize mask performance for improved manufacturing quality, and implement yield enhancement strategies in semiconductor production. These competencies will empower you to address complex fabrication challenges and stay abreast of the latest advancements in mask technology.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advancing-mask-technology-for-semiconductors",
+  "instructors": [
+    {
+      "name": " Ashraf S. A. AlMadhoun",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

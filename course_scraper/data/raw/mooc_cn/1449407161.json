@@ -1,0 +1,31 @@
+{
+  "course_id": "1449407161",
+  "platform": "mooc_cn",
+  "title": "临床伦理学",
+  "description": "临床伦理学是医学伦理学的重要组成部分，是研究和指导医务人员识别、分析和解决临床实践和临床研究中出现的伦理问题，帮助医务人员在提供医疗保健服务中做出科学和道德决策的一门学科。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449407161",
+  "instructors": [
+    {
+      "name": "董卫国",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12086,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

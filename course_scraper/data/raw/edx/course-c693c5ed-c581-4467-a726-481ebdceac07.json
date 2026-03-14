@@ -1,0 +1,50 @@
+{
+  "course_id": "course-c693c5ed-c581-4467-a726-481ebdceac07",
+  "platform": "edx",
+  "title": "CryptoGuard: Securing the Future of Game Development with Blockchain",
+  "description": "Explore the future of gaming with this hands-on course focused on integrating blockchain technologies and cybersecurity principles into game development. Learn to use tools to build secure, decentralized games. Gain practical experience in creating tokens, NFTs and smart contracts, while implementing anti-cheat systems and protecting player data. \n The course also covers key Web3 applications, including account security, fraud prevention and privacy protection using real-world tools and code provided by industry experts. \n Ideal for forward-thinking developers, this course empowers you to create the next generation of trusted, innovative games. \n  Get a free verified certificate using referral code: 6FJGJOTX7MFH5M2H  \n Learn how to integrate blockchain technologies and cybersecurity principles into game development, leveraging tools like Unreal Engine 5.4, Solidity and Epic Online Services to build the next generation of secure, decentralized games. \n In this hands-on course, you’ll explore how blockchain and cybersecurity can enhance game design and protect players. From creating tokens and NFTs to implementing smart contracts and anti-cheat systems, you’ll develop practical skills to apply Web3 technologies in gaming. \n You’ll also gain insights into securing game accounts, protecting data privacy, and combating fraud, all while working with real-world tools and code examples provided by industry experts. \n  Why learn from us:  \n \n HP’s Esports Management and Game Development program – ‘HP Gaming Garage’ – blend’s HP’s technology and innovation heritage with leading academia’s subject matter expertise \n One of the most comprehensive education programs on Esports and Gaming that takes the learner on a complete journey from development to management \n Easy to follow modules with many real-life industry examples and references \n Worldwide recognition and acceptance through verifiable certification on successful completion of each course \n Certification provided free-of-cost through a reference voucher code available on each course page",
+  "learning_goals": [
+    "Cyber Security",
+    "eSports Management",
+    "Smart Contracts",
+    "Non-Fungible Tokens (NFT)",
+    "Information Privacy",
+    "Innovation",
+    "Solidity (Programming Language)",
+    "Video Game Development",
+    "Game Design",
+    "Fraud Prevention And Detection",
+    "Online Service Provider",
+    "Unreal Engine",
+    "eSports",
+    "Blockchain"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "carlos-bott",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jessica-sciammarelli-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "HP"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 898,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

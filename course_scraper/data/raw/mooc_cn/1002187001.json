@@ -1,0 +1,31 @@
+{
+  "course_id": "1002187001",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "线性代数, 打开高维空间的钥匙!由矩阵看待大千世界，从方程体会百味人生!线性代数，与数字做朋友，沟通数学与你之间的千丝万缕。变换千变万化，向量空间充满奥妙。 来吧，让我们相约线性代数mooc，一起开启学习线性代数的美好旅程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002187001",
+  "instructors": [
+    {
+      "name": "李娜娜;沈婧芳;张四兰;李燕;张英豪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 91788,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

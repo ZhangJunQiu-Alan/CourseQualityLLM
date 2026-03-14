@@ -1,0 +1,35 @@
+{
+  "course_id": "course-8516464d-1f5f-4e7d-b70d-629180cd267e",
+  "platform": "edx",
+  "title": "Data Engineering with Databricks",
+  "description": "Master Data Engineering on Databricks Lakehouse Platform \n \n Learn Databricks architecture, cluster management &amp; notebook analysis \n Build reliable ETL pipelines with Delta Lake for data transformation \n Implement advanced data processing techniques with Apache Spark \n \n Course Highlights: \n \n Create &amp; scale Databricks clusters for workloads \n Load data from diverse sources into notebooks \n Explore, visualize &amp; profile datasets with notebooks \n Version control &amp; share notebooks via Git integration \n Read &amp; ingest data in various file formats \n Transform data with SQL &amp; DataFrame operations \n Handle complex data types like arrays, structs, timestamps \n Deduplicate, join &amp; flatten nested data structures \n Identify &amp; fix data quality issues with UDFs \n Load cleansed data into Delta Lake for reliability \n Build production-ready pipelines with Delta Live Tables \n Schedule &amp; monitor workloads using Databricks Jobs \n Secure data access with Unity Catalog \n \n Gain comprehensive skills in data engineering on Databricks through hands-on labs, real-world projects and best practices for the modern data lakehouse.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "noah-gift",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alfredo-deza",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pragmatic AI Labs"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 481,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

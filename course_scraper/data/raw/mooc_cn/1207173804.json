@@ -1,0 +1,31 @@
+{
+  "course_id": "1207173804",
+  "platform": "mooc_cn",
+  "title": "无机化学",
+  "description": "无机化学课程是工科专业的公共基础课和应用化学专业的专业课程，在学生的化学能力培养和思维训练过程中发挥重要作用。通过本课程学习，掌握无机化学基本原理，为后继课程学习提供必要的理论基础。培养学生科学的思维方法、创新能力，培养学生独立获取化学新知识的能力，解决一般无机化学问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207173804",
+  "instructors": [
+    {
+      "name": "徐燕;张霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24150,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

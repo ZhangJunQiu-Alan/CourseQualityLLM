@@ -1,0 +1,41 @@
+{
+  "course_id": "course-e861e0e8-d467-4852-81a3-d1b655636777",
+  "platform": "edx",
+  "title": "Digital Design",
+  "description": "Digital systems have revolutionized our world. From television to cell phones to GPS to warfare to automobiles to medicine to distance education, computers and digital processing have reshaped the way we live and work. The semiconductor industry has grown from $21B in 1985 to $412B in 2019, making it one of the largest sectors of the economy. Computers are also a vital part of daily practice in every field of science and engineering. \n Previous generations of engineers learned the “nuts and bolts” of the profession by doing hand-on projects such as disassembling and rebuilding engines. As technology has advanced, cars have become too complicated for the average person to work on. Ironically, the same advances have made computers much easier to build. While most fields of engineering require extensive mathematics and complicated analysis of even rather simple components, digital systems merely require counting from 0 to 1. Their challenge, instead, is in combining many simple building blocks into a complex whole. In this class, you will experiment with digital systems, building simple circuits from logic gates on a breadboard and designing more complex systems with a logic simulator. You will learn how to systematically create digital systems with a desired function. By the end of this course, you will have the knowledge and experience to design digital systems and be prepared for more advanced coursework. \n Beyond the practical reasons to take this class, I hope you find it enormously fun and exciting like I do. There's a great satisfaction about being able to build things. Digital systems are ideal because the components are far cheaper and easier to use than in other engineering fields. It's also amazing to demystify how digital systems work under the hood. I fell in love with digital design when I first studied it in college, and I hope you do too! \n This is the first half of a 2-part sequence. This half covers digital design. The second half, ENGR85B, covers computer architecture, where you will learn to program, use, and build microprocessors. By the end of the second half, you will have designed your own microprocessor and understand it all the way from the transistor level to the software. You'll also have built smart gadgets and games with lights and sensors.",
+  "learning_goals": [
+    "Experimentation",
+    "Computer Architecture",
+    "Digital Systems",
+    "Semiconductors",
+    "Digital Design"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 7-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joshua-brake",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-harris",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvey Mudd College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 467,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003359018",
+  "platform": "mooc_cn",
+  "title": "材料力学",
+  "description": "本课程研究如何在满足强度、刚度、稳定性的要求下，以最经济的代价，为构件确定合理的形状和尺寸，选择适宜材料，提供必要的理论基础和计算方法。材料力学与航空、兵器、造船、机械、建筑、水利、铁道、桥梁、石油、化工、冶金、采矿等领域均有着紧密的联系,并起着十分重要的作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003359018",
+  "instructors": [
+    {
+      "name": "董擎;王霞;尹万蕾;李军民;赵卫兵;刘玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "安阳工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8123,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

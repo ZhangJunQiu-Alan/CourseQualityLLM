@@ -1,0 +1,31 @@
+{
+  "course_id": "1205927802",
+  "platform": "mooc_cn",
+  "title": "高等数学（下）",
+  "description": "本课程注重数学文化、数学思想的熏陶，数学思维的训练，数学应用能力的提升，数学教学体现应用性与实践性的结合。通过本课程的学习，让学生获得相关知识的基本概念、基本理论、基本方法和运算技能，以及运用数学的知识和方法分析处理实际问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205927802",
+  "instructors": [
+    {
+      "name": "颜文勇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "成都工业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 37918,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

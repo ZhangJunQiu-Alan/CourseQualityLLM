@@ -1,0 +1,74 @@
+{
+  "course_id": "course-af05174d-613f-4a54-9c6e-8298a26417e3",
+  "platform": "edx",
+  "title": "The Conquest of Space: Space Exploration and Rocket Science",
+  "description": "Space exploration plays a major role in the history of humankind. The cultural, political and sociological repercussions are extraordinary, and the amount of resources dedicated to space exploration is enormous. This aerospace course is a first step for those interested in learning more about the history of the space and the impact of space exploration on our daily lives. \n Each week we will focus on a major chapter in the history of space exploration accompanied by an introduction to the relevant technical topics to fully understand these historical developments. During the seven weeks of the course, we will follow the technical, political and cultural contexts that lead to the birth of the space age, uncover the evolution of space exploration from competition to cooperation in the Apollo and post-Apollo era and finally, analyze current trends in space exploration. \n By successfully completing this course, you will acquire the critical tools to understand the key events and developments of the Space Age. You will learn to solve basic technical and engineering problems of space travel, rocket propulsion, space systems, and human space flight. \n Course image:  Rosetta at Comet  (landscape) / Copyright: ESA/ATG medialab; Comet image: ESA/Rosetta/Navcam.",
+  "learning_goals": [
+    "Space Exploration",
+    "Cooperation",
+    "Spacecraft Propulsion"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "manuel-sanjurjo-rivo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mario-merino",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "eduardo-ahedo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "manuel-soler",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "gonzalo-sanchez-arriaga",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "filippo-cichocki",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "daniel-perez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-morante",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "xin-chen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Carlos III de Madrid"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 280,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

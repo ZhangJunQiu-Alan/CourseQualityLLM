@@ -1,0 +1,31 @@
+{
+  "course_id": "1206497813",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "无论你的专业是信息、电子、航天或生命科学，处处可见信号与系统的身影。信号是承载信息的物理载体，而系统则是处理信息的算法和装置。在“信号与系统”课程中，你将领略到信号分析与变换、系统表征与响应求解的理论体系与逻辑脉络，感受到数学方法、物理概念与工程观点的交相辉映。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206497813",
+  "instructors": [
+    {
+      "name": "王霞;张建国;廖学文;孙黎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19166,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

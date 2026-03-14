@@ -1,0 +1,26 @@
+{
+  "course_id": "4rkU34_-Ee-QNwr_wLmrww",
+  "platform": "coursera",
+  "title": "ChatGPT + Zapier: From Email Inbox to Excel Spreadsheet",
+  "slug": "chatgpt-zapier-email-excel",
+  "description": "Unlock the power of automation with ChatGPT + Zapier: From Email Inbox to Excel Spreadsheet! This hands-on course teaches you how to streamline workflows by extracting valuable information from your email inbox and effortlessly organizing it into spreadsheets. Whether you want to track expenses, log action items, collect customer reviews, or manage follow-ups, this course gives you the skills to automate tedious tasks and turn unstructured email content into structured data.\n\nImagine transforming your Gmail inbox—or any other email provider supported by Zapier—into a dynamic source of insights. Learn how to automate data extraction and integration with thousands of popular apps in Zapier, such as Salesforce, Office365, HubSpot, Notion, and more. With detailed, step-by-step guidance, you’ll create “Zaps” that connect email providers, ChatGPT, and various apps to build seamless, automated workflows. Each lesson builds your automation skills, from setting up your data destinations and labeling emails, to configuring Zapier actions and leveraging ChatGPT’s natural language processing capabilities to extract actionable information.\n\n\nWhat You’ll Learn:\n\n\t•\tAutomate Your Data Collection: Build Zaps that automatically extract key information from labeled emails and store it in tools like Google Sheets.\n\t•\tCustomize Prompts for ChatGPT: Master the art of prompt engineering to extract structured data like dates, vendors, amounts, and categories from email bodies.\n\t•\tUse Code by Zapier to Process Data: Add custom JavaScript to parse ChatGPT’s responses and format them for various app integrations.\n\t•\tExpand and Tailor Your Automation: Clone and customize your Zap workflows to track different types of information, such as project tasks, customer feedback, or event dates.\n\n\nKey Course Highlights:\n\n\t•\tFrom Email to Apps in Minutes: Quickly set up Zaps that move data from your inbox into Google Sheets, freeing up time and reducing manual data entry.\n\t•\tHands-On Projects: Follow along with practical examples, like automating expense tracking, to learn real-world applications of ChatGPT and Zapier.\n\t•\tScalable Solutions: Discover how to adapt your workflows for various use cases by changing prompts, labels, or data formats.\n\nGo Beyond the Course:\n\nWhile this course teaches you how to integrate Gmail and Google Sheets, the skills you’ll learn can be applied to other email providers supported by Zapier and thousands of connected apps, such as Salesforce, Office365, HubSpot, Notion, and more. The techniques covered will empower you to extend your automations to a variety of tools and platforms—from CRM systems to project management apps—giving you the flexibility to target different data sources and destinations with your new automation expertise.\n\nBy the end of the course, you’ll be equipped to automate data extraction from emails, save time, and boost your productivity. Let ChatGPT and Zapier work together to transform your everyday tasks—taking you from email overload to organized data and seamless app integrations with the click of a button!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3-4hrs",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/chatgpt-zapier-email-excel",
+  "instructors": [
+    {
+      "name": "Dr. Jules White",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Vanderbilt University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

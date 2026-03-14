@@ -1,0 +1,31 @@
+{
+  "course_id": "1449927199",
+  "platform": "mooc_cn",
+  "title": "面向对象方法与C++程序设计",
+  "description": "本课程将从面向对象的程序设计思想出发，以C++语言为载体，从类和对象的基本定义层层展开，涉及封装、继承、多态，以及模板、标准模板库STL等机制，结合精心设计的习题和案例分析，深入浅出地为你揭开面向对象程序设计的神秘面纱，带你体会和领悟面向对象程序设计方法的优势，感受C++的魅力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449927199",
+  "instructors": [
+    {
+      "name": "宗林林;范晓娅;赵小薇;于红;田琳琳;蒋光远",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2223,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

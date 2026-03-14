@@ -1,0 +1,44 @@
+{
+  "course_id": "course-18cf89ce-aa23-493a-91ce-1c341b7e1621",
+  "platform": "edx",
+  "title": "Data Science: Productivity Tools",
+  "description": "A typical data analysis project may involve several parts, each including several data files and different scripts with code. Keeping all this organized can be challenging.  \n Part of our  Professional Certificate Program in Data Science , this course explains how to use Unix/Linux as a tool for managing files and directories on your computer and how to keep the file system organized. You will be introduced to the version control systems git, a powerful tool for keeping track of changes in your scripts and reports. We also introduce you to GitHub and demonstrate how you can use this service to keep your work in a repository that facilitates collaborations.  \n Finally, you will learn to write reports in R markdown which permits you to incorporate text and code into a document. We'll put it all together using the powerful integrated desktop environment RStudio.",
+  "learning_goals": [
+    "Unix",
+    "Report Writing",
+    "Data Analysis",
+    "File Systems",
+    "Git (Version Control System)",
+    "Productivity Software",
+    "Data Science",
+    "Markdown",
+    "Github",
+    "R (Programming Language)",
+    "Linux",
+    "Version Control",
+    "Rmarkdown"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rafael-irizarry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4770,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

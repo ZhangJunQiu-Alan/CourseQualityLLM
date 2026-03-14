@@ -1,0 +1,31 @@
+{
+  "course_id": "1003668003",
+  "platform": "mooc_cn",
+  "title": "软件技术基础",
+  "description": "计算机系统由硬件系统和软件系统两部分组成，缺一不可。据统计，2018年中国软件市场规模超过了5万亿人民币，而全球软件市场规模则高达5万亿美元，软件开发人才的需求量保持逐年持续增长。本课程将带领大家一起共同研讨软件技术相关知识，为今后从事软件设计、开发和应用打下坚实基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003668003",
+  "instructors": [
+    {
+      "name": "刘民岷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14034,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "4IaPepXJEeir-RIKs5gHUA",
+  "platform": "coursera",
+  "title": "Intro to TensorFlow em Português Brasileiro",
+  "slug": "intro-tensorflow-br",
+  "description": "O objetivo deste curso é aproveitar a flexibilidade e a facilidade de uso do TensorFlow 2.x e do Keras para criar, treinar e implantar modelos de machine learning.  Você aprenderá sobre a hierarquia da API TensorFlow 2.x e conhecerá os principais componentes do TensorFlow nos exercícios práticos.  Mostraremos como trabalhar com conjuntos de dados e colunas de atributos. Você aprenderá a projetar e criar um pipeline de entrada de dados do TensorFlow 2.x.  Você terá uma experiência prática com o carregamento de dados CSV, matrizes numpy, dados de texto e imagens usando o tf.Data.Dataset e com a criação de colunas de atributos numéricas, categóricas, em bucket e com hash.\n\nApresentaremos as APIs Keras Sequential e Keras Functional para mostrar como criar modelos de aprendizado profundo.  Abordaremos as funções de ativação, perda e otimização.  Nos laboratórios práticos dos notebooks do Jupyter, você poderá criar modelos de machine learning de regressão linear básica e de regressão logística básica e avançada.  Você aprenderá a treinar, implantar e produzir modelos de machine learning em escala com o AI Platform do Cloud.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 semanas, 8-10 horas por semana",
+  "language": "pt-BR",
+  "url": "https://www.coursera.org/learn/intro-tensorflow-br",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

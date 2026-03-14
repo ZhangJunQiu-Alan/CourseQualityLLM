@@ -1,0 +1,31 @@
+{
+  "course_id": "1002533010",
+  "platform": "mooc_cn",
+  "title": "中药学",
+  "description": "中药学是介绍中药基础理论与各种中药的性能、功效及临床应用等相关知识的一门重要课程。中药是大自然赐予的瑰宝，是中医防治疾病的重要武器，是人们健康的守护神。本慕课旨在为中医药专业学生，执业医师和药师以及广大的中医药爱好者提供安全有效合理应用中药的基础知识，初步建立中医药的思辨能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002533010",
+  "instructors": [
+    {
+      "name": "蒋淼;秦旭华;唐怡;黄立华;马骁;王建;邹文俊;闵志强;张廷模;杨敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "成都中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 205079,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

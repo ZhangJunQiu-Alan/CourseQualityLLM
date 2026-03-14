@@ -1,0 +1,31 @@
+{
+  "course_id": "1003679001",
+  "platform": "mooc_cn",
+  "title": "Web编程技术",
+  "description": "西安交通大学推出的《Web编程技术》课程能够帮您认识并构建Web体系框架，熟悉Web前端与后台，并结合云端实验，使您能快速搭建属于自己的Web站点。结合我国自主知识产权的HarmonyOS（鸿蒙操作系统），课程特别推出了基于HarmonyOS的移动应用开发内容。要了解详细内容，那就快进来看看吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003679001",
+  "instructors": [
+    {
+      "name": "谢涛;齐琪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 91825,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

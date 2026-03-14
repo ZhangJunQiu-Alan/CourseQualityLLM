@@ -1,0 +1,64 @@
+{
+  "course_id": "course-aaf55a03-04f1-40f9-bb56-e92a9d66f2df",
+  "platform": "edx",
+  "title": "Sustainability in Architecture: An Interdisciplinary Introduction",
+  "description": "This course offers an interdisciplinary approach to sustainabilityin Architecture. Learners will be introduced to the basic elements of sustainability assessments (first model layer), as well as trends informing the space today. \n The coursework enables students to develop a conceptual neighborhood model for assessing performance and urban policies. \n In the first week, participants will learn todevelop a conceptual model from the architectural elements of buildings; the basic building block of which will be the performance of materials. The second week explores methods of optimizing performance. Coursework will detail the needs and constraints inherent in selecting materials and neighborhood urban elements (the second model layer for green, blue and grey infrastructure). \n In the third week, learners will develop the basic tools for introducing energy and measuring the potential impact on climate change (CO2). A new layer (third) on our neighborhood stainability model, this will be approached from a global perspective. In the fourth and finall week, the course will explore techniques for a joint assessment directly connected to policy issues.",
+  "learning_goals": [
+    "Conceptual Model",
+    "Infrastructure",
+    "Sustainable Business"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "maria-valles-planells",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "elena-de-la-poza-plaza",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "naoko-ellis",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "kas-hemmes",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "javier-orozco-messana",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dai-morgan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "edmond-byrne",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 467,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

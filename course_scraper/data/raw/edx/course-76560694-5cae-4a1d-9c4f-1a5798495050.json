@@ -1,0 +1,36 @@
+{
+  "course_id": "course-76560694-5cae-4a1d-9c4f-1a5798495050",
+  "platform": "edx",
+  "title": "Herramientas y Metodologías de Gestión de Proyectos",
+  "description": "En este curso aprenderás cómo desarrollar competencias blandas necesarias para ejercer el rol de director de un proyecto, principalmente aquellas relacionadas con el trabajo en equipo, la comunicación y aspectos culturales de la organización que lleva adelante el proyecto.  \n A su vez, conocerás más acerca de los factores críticos que hay que administrar durante la implementación de un proyecto: el tiempo y los riesgos. Dichos factores constituyen una limitación que puede obstaculizar la consecución del objetivo del proyecto si no se gestionan correctamente.  \n Dentro del factor tiempo se abordará la programación o diagramación temporal de cada etapa del proyecto como así también el control de agenda. Y en cuanto al factor riesgos, se reflexionará acerca de la importancia de contar con un plan que los identifique y gestione, para minimizar su impacto negativo en la implementación del proyecto.  \n Por último, se integrarán todos los aspectos y criterios relacionados con la formulación, planificación y gestión de proyectos con el objetivo de tener una visión global de los procesos implicados.",
+  "learning_goals": [
+    "Scheduling",
+    "Communications",
+    "Management",
+    "Planning",
+    "Teamwork"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 5-7 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "natalia-marrama",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Nacional de Córdoba"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 351,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

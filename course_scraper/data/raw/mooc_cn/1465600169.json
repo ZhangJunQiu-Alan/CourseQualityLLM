@@ -1,0 +1,31 @@
+{
+  "course_id": "1465600169",
+  "platform": "mooc_cn",
+  "title": "无机化学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465600169",
+  "instructors": [
+    {
+      "name": "喻国敏;李慧;李英华;王红芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中原工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7473,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "XsJx2AxYEe2inQ7Ty0HBww",
+  "platform": "coursera",
+  "title": "Working with Data in Android",
+  "slug": "working-with-data-in-android",
+  "description": "Learn how to work with web technologies and persistent data on Android applications even after you close or restart an app. There is a focus on web communication and developer tools and you will discover how Kotlin applications communicate over the web. You’ll learn how data formats and web protocols work in relation to Kotlin apps. Furthermore, you will practice applying asynchronous programming techniques using Kotlin. \n\nLearn the core functionality and uses of the SQLite database management system (DBMS). Learn about web clients and databases by adding connections from your app to other languages to access custom-built web application programming interfaces (APIs) and database management systems.\n\nTo complete this course, it is recommended that you have an advanced understanding of Kotlin programming, along with a functional knowledge of operating Android Studio to complete this course.\n\nBy the end of this course, you will be able to:\n\n•\tIdentify some of the most useful tools and packages available to a Kotlin developer \n\n•\tApply Kotlin coroutines in Android applications \n\n•\tApply the general principles of using Room \n\n•\tIntegrate code from other languages into Kotlin\n\n•\tBuild a data driven Android app",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 weeks of study, 3-5 hours/week.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/working-with-data-in-android",
+  "instructors": [
+    {
+      "name": "Taught by Meta Experts",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Meta"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

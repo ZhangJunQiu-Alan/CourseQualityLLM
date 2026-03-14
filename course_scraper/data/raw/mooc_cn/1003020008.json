@@ -1,0 +1,31 @@
+{
+  "course_id": "1003020008",
+  "platform": "mooc_cn",
+  "title": "西方经济学（宏观）",
+  "description": "此门课程为西方经济学--宏观经济学部分。此外，我们还配套了西方经济学--微观经济学部分，将与宏观经济学同步上线。                                                                                           ----------------课程团队",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003020008",
+  "instructors": [
+    {
+      "name": "贺立龙",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 131090,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

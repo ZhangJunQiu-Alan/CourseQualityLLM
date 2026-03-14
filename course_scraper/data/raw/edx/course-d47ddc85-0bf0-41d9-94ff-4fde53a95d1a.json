@@ -1,0 +1,36 @@
+{
+  "course_id": "course-d47ddc85-0bf0-41d9-94ff-4fde53a95d1a",
+  "platform": "edx",
+  "title": "Deep Learning Fundamentals with Keras",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge —a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n Looking to kickstart a career in deep learning? Look no further. This course will introduce you to the field of deep learning and teach you the fundamentals. You will learn about some of the exciting applications of deep learning, the basics fo neural networks, different deep learning models, and how to build your first deep learning model using the easy yet powerful library Keras. \n This course will presentsimplified explanations to some oftoday's hottest topics in data science, including: \n \n What is deep learning? \n How do neural networks learn and what are activation functions? \n What are deep learning libraries and how do they compare to one another? \n What are supervised and unsupervised deep learning models? \n How to use Keras to build, train, and test deep learning models? \n \n The demand fordeep learning skills-- and the job salaries of deep learning practitioners -- arecontinuing to grow, as AI becomes more pervasive in our societies. This course will help you build the knowledge you need to future-proofyour career.",
+  "learning_goals": [
+    "Deep Learning",
+    "Artificial Intelligence",
+    "Keras (Neural Network Library)",
+    "Artificial Neural Networks",
+    "Data Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alex-aklson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 434,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

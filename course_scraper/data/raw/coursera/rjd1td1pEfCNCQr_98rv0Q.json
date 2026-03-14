@@ -1,0 +1,26 @@
+{
+  "course_id": "rjd1td1pEfCNCQr_98rv0Q",
+  "platform": "coursera",
+  "title": "Apply Modern OpenGL Vertex Buffers and Shaders",
+  "slug": "apply-modern-opengl-vertex-buffers-and-shaders",
+  "description": "By the end of this course, learners will be able to configure vertex attributes and buffer layouts, manage shader lifecycles, implement and validate shader programs, optimize geometry rendering using index buffers, and systematically diagnose and handle OpenGL errors. Learners will also be able to structure shader code effectively and apply debugging best practices to build stable OpenGL applications.\n\nThis course provides a practical, end-to-end understanding of the modern OpenGL rendering pipeline, starting from how vertex data flows from CPU memory to the GPU and progressing through shader integration, rendering validation, performance optimization, and error handling. Each module builds logically on the previous one, ensuring learners develop both conceptual clarity and applied skills.\n\nWhat makes this course unique is its strong emphasis on correctness, structure, and debugging, areas often overlooked in graphics training. Rather than focusing only on visual output, learners are taught how to reason about GPU data flow, shader lifecycle management, efficient geometry reuse, and systematic error diagnosis. Upon completion, learners will be well prepared to build reliable OpenGL rendering systems, debug complex graphics issues, and confidently extend their skills to larger graphics or real-time rendering projects.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/apply-modern-opengl-vertex-buffers-and-shaders",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1465751161",
+  "platform": "mooc_cn",
+  "title": "6小时C++期末冲刺-6小时突击 C++面向对象编程",
+  "description": "C++编程，C++面向对象编程，面向对象的C++编程，覆盖90%以上知识点，各院校通用，计算机原理，C语言知识点，知识点讲解，例题讲解，期末考试模拟卷，课后代码在线练习及参考代码，快速突击课程，计算机，编程",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465751161",
+  "instructors": [
+    {
+      "name": "小谢老师01",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "MOOC考培"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12818,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

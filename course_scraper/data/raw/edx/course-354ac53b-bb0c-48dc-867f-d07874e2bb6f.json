@@ -1,0 +1,96 @@
+{
+  "course_id": "course-354ac53b-bb0c-48dc-867f-d07874e2bb6f",
+  "platform": "edx",
+  "title": "Advanced Cardiac Imaging: Cardiac Computed Tomography (CT)",
+  "description": "*      GOLD Award Winner of QS Reimagine Education Award 2021 in Life Sciences!    * \n This course, developed by the Department of Diagnostic Radiology, The University of Hong Kong in collaboration with committee members of international and national cardiac imaging societies, is for radiologists, cardiologists, radiographers/ technologists and other health professionals who want to learn more about this imaging modality. The course follows the level 1 recommendations of cardiac imaging societies by covering the required topics and providing 50 hands-on cardiac CT cases. Previous experience in cardiac CT is not required. \n Learning outcomes: \n \n Understanding of the common cardiac CT examinations in order to better understand how to acquire cardiac images and to interpret them. \n Ability to analyse cardiac CT images at level 1 competency such as calcium score, CT coronary angiography, TAVI. \n Attain hands-on experience to analyse real cases from a database of 50 clinical cases, using dedicated software, as well as further supplementation through our web forum. \n Basic understanding of future developments in the cardiac CT field. \n Provide career advice and thoughts from well-known experts through exclusive interviews. \n \n A MOOC on cardiovascular magnetic resonance will be available on this platform in the near future. Watch this space! \n   Acknowledgments  \n  This course is supported by the grant from Sanming Project of Medicine in Shenzhen. We would like to thank Miss Benedicte Coiffier and Miss Bohan Fan from the Department of Diagnostic Radiology, The University of Hong Kong (HKU), for coordinating the online courses and the HKU Technology-Enriched Learning Initiative (TELI) team for producing the educational material. We would like to express our sincere thanks to our colleagues Luo Lin, Chen Yan, and Baroc Ho from the Radiology Division, Department of Medical Imaging, The University of Hong Kong-Shenzhen Hospital, for translating all the texts into Chinese and Dr Nitin Ramamurthy and Dr Jhonatan Bringas for their additional help. \n   *入圍2020年QS全球教育創新大獎之電子學習類別！   * \n 本课程由香港大学放射诊断科与国内外心脏影像学会的委员会成员合作开发，专为想进一步了解心脏成像技术的放射科医师、心内科及心外科医师、放射技师、工程师和其他医疗健康专业人士而设计。本课程根据心脏成像协会一级建议，涵盖了所需的主题，并提供50个心脏CT真实病例。学习者不要求有心脏CT的过往经验。 \n 学习成果： \n \n 了解常见的心脏CT检查，以便更好地掌握如何获取心脏图像并解释它们。 \n 具备心脏CT图像的一级分析能力，如能够进行钙化评分，分析CT冠状动脉造影，TAVI等。 \n 从临床病例数据库中获取50个真实病例，利用专业后处理软件及平台论坛提供的材料进行教学操作以获得实践经验。 \n 对心脏CT领域未来发展的有基本认识。 \n 通过独家采访，了解知名专家对学生的职业建议和想法。 \n \n 未来将会在这个平台上发布一个关于心血管磁共振（CMR）的课程。请留意关注! \n   致謝  \n  此课程获得深圳医疗卫生“三名工程”的资助。我们衷心感谢香港大学放射诊断科的Benedicte Coiffier和范博涵协助组织在线课程，以及香港大学科创习新小组制作课程材料。我们非常感谢香港大学深圳医院医学影像中心放射科的同事罗琳、陈燕与何健龙把所有文本翻译成中文。感谢Dr Nitin Ramamurthy 和Dr Jhonatan Bringas的帮助。",
+  "learning_goals": [
+    "Diagnostic Radiology",
+    "Educational Materials",
+    "Cardiology",
+    "Consolidated Media Reports",
+    "Radiology",
+    "X-Ray Computed Tomography",
+    "Coronary Catheterization",
+    "Cardiac Imaging",
+    "Magnetic Resonance Imaging",
+    "Life Sciences"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ng-ming-yen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "varut-vince-vardhanabhuti",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "suhny-abbara",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "guest-speaker-dr-ed-nicol",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "guest-speaker-dr-shihua-zhao",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "guest-speaker-dr-elsie-nguyen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "guest-speaker-dr-mini-pakkal",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "guest-speaker-dr-jonathan-weir-mccall",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "bayer-global-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "circle-cardiovascular-imaging-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sponsor-3",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sponsor-4",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Hong Kong"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 442,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

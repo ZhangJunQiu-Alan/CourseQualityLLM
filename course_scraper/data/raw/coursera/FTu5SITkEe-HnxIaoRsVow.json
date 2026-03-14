@@ -1,0 +1,26 @@
+{
+  "course_id": "FTu5SITkEe-HnxIaoRsVow",
+  "platform": "coursera",
+  "title": "Cybersecurity Identity and Access Solutions with Azure AD",
+  "slug": "cybersecurity-identity-access-solutions-azure-ad",
+  "description": "In this course, you’ll explore the world of authorization and authentication, and understand the concepts of two-step authentication and single sign-on policies. You’ll also become familiar with the features and capabilities of Azure Active Directory (Azure AD), particularly those relating to the benefits of using Azure AD to manage an enterprise’s security requirements including access management, identity governance, and management. This course will take you one step closer to the Microsoft Cybersecurity Analyst Professional Certificate, which requires no degree or prior experience.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "21 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cybersecurity-identity-access-solutions-azure-ad",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

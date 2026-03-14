@@ -1,0 +1,41 @@
+{
+  "course_id": "course-a5433ed4-63d1-4d9f-a487-4563c52c87d5",
+  "platform": "edx",
+  "title": "Intro to Stock Trading",
+  "description": "This course offers an intensive introduction to the complex world of trading. Whether you’re an advanced trader looking to take your skills to the next level or are new to the world of trading and the stock market, this course will provide the knowledge and tools needed for successful trading.  \n You will learn the language of the stock market, with working knowledge of key terms and phrases. Explore key money management techniques, the psychology of trading, and the proper technical tools to use for charting. \n Taught by instructors with decades of experience on Wall Street, Peter Tuchman and David Green, deliver a comprehensive course that equips students with the skills and knowledge needed to become savvy stock and options traders. \n This course is part of the New York Institute of Finance’s Stock Trading Professional Certificate program. \n Free Preview! Access Module 1 from Course 1 for free. For full course access, upgrade to a verified certificate.",
+  "learning_goals": [
+    "Money Management",
+    "Stock Markets",
+    "Equities",
+    "Psychology",
+    "Finance"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "peter-tuchman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-green",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "New York Institute of Finance"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4874,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

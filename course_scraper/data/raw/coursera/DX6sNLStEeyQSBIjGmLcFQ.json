@@ -1,0 +1,26 @@
+{
+  "course_id": "DX6sNLStEeyQSBIjGmLcFQ",
+  "platform": "coursera",
+  "title": "Building No-Code Apps with AppSheet: Implementation",
+  "slug": "building-no-code-apps-with-appsheet-implementation",
+  "description": "This course teaches you how to implement various capabilities that include data organization and management, application security, actions and integrations in your app using AppSheet. The course also includes topics on managing and upgrading your app, improving performance and troubleshooting issues with your app.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 3-4 hours/week.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/building-no-code-apps-with-appsheet-implementation",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

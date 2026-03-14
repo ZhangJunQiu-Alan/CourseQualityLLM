@@ -1,0 +1,31 @@
+{
+  "course_id": "gScraeYaEe6s9Qr_2Qjvdw",
+  "platform": "coursera",
+  "title": "Deep Learning",
+  "slug": "illinois-tech-deep-learning",
+  "description": "An introduction to the field of deep learning, including neural networks, convolutional neural networks, recurrent neural networks, transformers, generative models, neural network compression and transfer learning. This course will benefit students’ careers as a machine learning engineer or data scientist.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/illinois-tech-deep-learning",
+  "instructors": [
+    {
+      "name": "Gady Agam",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Shouvik Roy",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Illinois Tech"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

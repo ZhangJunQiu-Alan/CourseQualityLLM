@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754252",
+  "platform": "mooc_cn",
+  "title": "工程热力学",
+  "description": "工程热力学是一门古老而又充满活力的学科，是能源高效转化与清洁利用的基石。江苏大学课程教学团队将为您展现工程热力学的世界，带您领略工程热力学的魅力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754252",
+  "instructors": [
+    {
+      "name": "仲敏波;柏金;韩新月;刘涛;姜鹏;张墨;冯永强;赵炜;王谦;吉恒松",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24165,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

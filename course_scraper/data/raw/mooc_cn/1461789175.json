@@ -1,0 +1,31 @@
+{
+  "course_id": "1461789175",
+  "platform": "mooc_cn",
+  "title": "计算方法",
+  "description": "随着计算机技术和数据科学的发展，科学计算在现代科学与工程中的地位越来越重要，而数值计算方法是科学计算领域的重要基础。本课程由国防科技大学资深教授成礼智领衔，以应用案例为先导，注重数学理论的严谨性和工程应用的实践性，并将中国古代的“算”文化融入课程教学，帮你破解学习中的难点，带你领略计算方法的独特魅力！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461789175",
+  "instructors": [
+    {
+      "name": "王红霞;张弘;王银坤;成礼智;唐玲艳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10483,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

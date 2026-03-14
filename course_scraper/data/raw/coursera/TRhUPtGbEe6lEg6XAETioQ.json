@@ -1,0 +1,26 @@
+{
+  "course_id": "TRhUPtGbEe6lEg6XAETioQ",
+  "platform": "coursera",
+  "title": "Deployment with Cloud Foundry: Blue-Green Strategy",
+  "slug": "cloud-foundry-blue-green-deployment-strategy",
+  "description": "Within this 1-hour long guided project you will learn how to scalably deploy a fullstack web application using blue-green deployment strategy using Cloud Foundry. Blue-green deployment simplifies zero-downtime deployment and you decide when to roll out after co-existing old version and the new feature version of your system.\n\nYou will perform a blue-green deployment of a new feature of a video streaming platform using Cloud Foundry. You will learn how to create an app manifest in Cloud Foundry, bind it to a service, deploying a containerized application using blue-green strategy.\n\nAvoid stressful and uncomfortable downtimes of your cloud applications deployment and let the developers focus on new feature development rather than complex deployment strategies to minimize risks. All this is possible with platform as a service (PaaS) CloudFoundry.\n\nThe course is aimed to provide a thorough understanding of deploying, managing, and scaling cloud-native applications, allowing engineers to reinforce their knowledge and skills in DevOps practices.\n\nNo prior experience with Cloud Foundry is required. You only need front-end and back-end project deployment experience, hands-on with Docker containers and basic HTML and Javascript understanding",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cloud-foundry-blue-green-deployment-strategy",
+  "instructors": [
+    {
+      "name": "Carlos Arias",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

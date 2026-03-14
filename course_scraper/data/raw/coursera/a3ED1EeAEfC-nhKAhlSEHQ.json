@@ -1,0 +1,31 @@
+{
+  "course_id": "a3ED1EeAEfC-nhKAhlSEHQ",
+  "platform": "coursera",
+  "title": "Build Intelligent Agents Using DeepSeek & N8N ",
+  "slug": "build-intelligent-agents-using-deepseek--n8n-workflows",
+  "description": "Learn how to automate real-world business tasks using n8n, DeepSeek.ai, and prompt engineering—without writing code. This course helps you create intelligent, no-code workflows that extract, process, and respond to data using AI tools.\n\nWe begin with the first module, where you’ll set up your automation environment and get familiar with the basics of n8n, DeepSeek, and AI-driven workflow planning.\nThe next module, the second module, covers building visual workflows using triggers, email nodes, and DeepSeek-powered agents to automate decisions and content generation.\nIn the third module, you’ll extract insights from PDFs and emails, classify them using AI, and organize outputs in Google Sheets with tools like Poppler.\nIn the final module, you'll test, debug, and deploy intelligent agents that are robust and production-ready.\n\nBy the end, you will:\n\n- Understand the fundamentals of workflow automation using n8n and how to structure intelligent projects.\n- Build end-to-end workflows using triggers, nodes, and real-world data sources such as Gmail and Google Sheets.\n- Integrate DeepSeek into workflows to extract insights, classify data, and automate responses using large language models.\n\nThis course is ideal for:\n\n-Business professionals automating repetitive tasks\n-Startup founders looking to build AI-driven processes\n-Product managers exploring no-code AI tools\n-Enthusiasts interested in automation and intelligent systems\n-Start building automation that works smarter—no code, just results.\n\nDisclaimer: This course is an independent educational resource developed by Board Infinity and is not affiliated with, endorsed by, sponsored by, or officially associated with Deepseek & n8n or any of its subsidiaries or affiliates. This course is not an official preparation material of deepseek & n8n. All trademarks, service marks, and company names mentioned are the property of their respective owners and are used for identification purposes only.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 5 Hours/ Week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-intelligent-agents-using-deepseek--n8n-workflows",
+  "instructors": [
+    {
+      "name": "Board Infinity",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Mirza Rahim Baig",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Board Infinity "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

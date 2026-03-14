@@ -1,0 +1,31 @@
+{
+  "course_id": "1001598002",
+  "platform": "mooc_cn",
+  "title": "艺术导论",
+  "description": "“艺术导论”是艺术类公共基础理论必修课，是《全国普通高等学校公共艺术课程指导方案》中规定开设的8门艺术限定性选修课之一。这是一门研究艺术规律，包括艺术创造，艺术作品，艺术接受和批评，艺术发生发展和艺术门类特征等方面规律的课程，培养大学生具有全面的艺术常识及较高的艺术修养。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001598002",
+  "instructors": [
+    {
+      "name": "黎荔",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 77927,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

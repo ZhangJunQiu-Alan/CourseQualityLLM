@@ -1,0 +1,31 @@
+{
+  "course_id": "1464101167",
+  "platform": "mooc_cn",
+  "title": "建筑设计基础",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464101167",
+  "instructors": [
+    {
+      "name": "刘铨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11949,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

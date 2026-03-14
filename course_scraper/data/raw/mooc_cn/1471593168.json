@@ -1,0 +1,31 @@
+{
+  "course_id": "1471593168",
+  "platform": "mooc_cn",
+  "title": "工程流体力学与通风",
+  "description": "流体力学是一门研究流体运动和物质转化的科学，它涉及到自然界、工程、工业和日常生活中的许多问题，如工业制造、交通运输、农业、航空航天、环保等。流体力学在解决实际问题中发挥着重要的作用，例如建筑设计、机器和设备的优化、提高能源效率等。通过学习流体力学，我们可以更好地理解和掌握流体运动的规律，为解决实际问题提供有效的工具和方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471593168",
+  "instructors": [
+    {
+      "name": "薛琨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 407,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

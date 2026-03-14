@@ -1,0 +1,31 @@
+{
+  "course_id": "1206008805",
+  "platform": "mooc_cn",
+  "title": "计算机导论",
+  "description": "本课程是国家首批精品课程《计算机基础》的在线课程，陕西省线上一流课程。课程以计算思维为切入点，以计算机新技术为基础，从分析问题、存储问题、解决问题的角度进行内容的组织和讲解。内容包括四部分：认识计算机、问题抽象与算法、数据的管理与共享、办公及媒体处理软件应用，旨在体现计算机前沿技术，训练和拓展大学生的计算机创新应用能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206008805",
+  "instructors": [
+    {
+      "name": "董卫军;邢为民;索琦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41996,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

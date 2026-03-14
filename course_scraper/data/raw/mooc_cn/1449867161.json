@@ -1,0 +1,31 @@
+{
+  "course_id": "1449867161",
+  "platform": "mooc_cn",
+  "title": "网络互联技术与实践",
+  "description": "本课程培养学生理论实践相结合能力。包括：网络互联设备、互联介质介绍，网络设备基本配置，交换机广播隔离技术、网络健壮性增强技术，直连与静态路由技术，动态路由协议，三层交换、VLAN间通信，NAT、ACL技术。最后实现大型校园网组建。使用教材：唐灯平.《网络互联技术与实践》清华大学出版社2019，《网络互联技术与实践（第2版）》清华大学出版社2022，参考教材：唐灯平《计算机网络技术原理与实验》清华大学出版社2020；唐灯平《计算机网络安全技术原理与实验》清华大学出版社2023。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449867161",
+  "instructors": [
+    {
+      "name": "唐灯平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州城市学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13624,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

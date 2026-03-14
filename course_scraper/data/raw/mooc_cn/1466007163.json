@@ -1,0 +1,31 @@
+{
+  "course_id": "1466007163",
+  "platform": "mooc_cn",
+  "title": "中国语言文字与文化",
+  "description": "说中国话，写中国字，瞰中国文化！——课程团队",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466007163",
+  "instructors": [
+    {
+      "name": "萧红;王玥雯;肖圣中;陈练文;王统尚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5209,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

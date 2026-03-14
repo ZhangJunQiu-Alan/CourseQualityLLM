@@ -1,0 +1,26 @@
+{
+  "course_id": "Ru6BKtyJEe6J_wr_0biVVQ",
+  "platform": "coursera",
+  "title": "Microsoft on AWS - Porting Assistant for .NET",
+  "slug": "aws-microsoft-on-aws-porting-assistant-for-net",
+  "description": "Porting applications from .NET Framework to .NET can be a significant manual effort. The process includes spending valuable time identifying the dependencies and APIs that are incompatible with .NET, and estimating the level of effort involved to remediate. Porting Assistant for .NET is an analysis tool that helps you port your applications to Linux faster. Additionally, porting .NET Framework applications to .NET lets you take advantage of the performance, cost savings, and robust ecosystem of Linux. \n\nPorting Assistant for .NET quickly scans .NET Framework applications to identify incompatibilities with .NET, finds known replacements, and generates a detailed compatibility assessment. This reduces the manual effort involved in modernizing your applications to Linux.\n\nAs you progress through this course, you will relate the concepts that you are learning about to a real-world scenario use case. For illustration purposes, we will refer to the company in this use case as AnyCompany.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-microsoft-on-aws-porting-assistant-for-net",
+  "instructors": [
+    {
+      "name": "AWS Instructor ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

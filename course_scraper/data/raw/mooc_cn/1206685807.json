@@ -1,0 +1,31 @@
+{
+  "course_id": "1206685807",
+  "platform": "mooc_cn",
+  "title": "NXCAM从入门到精通",
+  "description": "本课程从NXCAM技术应用的入门起步，由浅入深地向学员介绍数控加工技术所涉及的数控工艺和CAM技术。课程力求构建全面的CAM技术的知识体系，深入浅出的讲解CAM技术的应用方法，并用来源于企业的典型实用的案例进行引导，突出培养学员设计实际零件工艺和应用CAM技术编程的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206685807",
+  "instructors": [
+    {
+      "name": "王振宇;李坤;张韬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5189,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

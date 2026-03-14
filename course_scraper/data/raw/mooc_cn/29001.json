@@ -1,0 +1,31 @@
+{
+  "course_id": "29001",
+  "platform": "mooc_cn",
+  "title": "信息检索",
+  "description": "面对日益纷繁复杂的网络信息，你是否感觉检索和获取信息有些力不从心？《信息检索》课程从实际操作出发，讲授如何精准、快捷地获取你想要的资源，培养信息素养，使你能够从容面对信息爆炸的挑战。无论是生活、学习、工作还是科研，你都能从本课程中找到对应的信息检索的工具与方法，从而终身受益。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/29001",
+  "instructors": [
+    {
+      "name": "黄如花",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 300704,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

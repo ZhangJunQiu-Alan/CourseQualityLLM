@@ -1,0 +1,35 @@
+{
+  "course_id": "course-94460a36-8f6c-4e50-82cd-47aab6996952",
+  "platform": "edx",
+  "title": "Academic English: How to Write an Essay",
+  "description": "ACE101x is a practical, completely online introductory course for those at university or planning to attend university. This course focuses on the processes involved in planning for, producing and self-reviewing a piece of academic writing. Particular attention is given to argumentative research essays, which are the most common form of academic writing required of students at university level. \n This course examines the overall structure of an argumentative essay, considering a general framework that can be used for any topic. Practical advice is provided about how to brainstorm, locate information online and evaluate the quality of potential sources of information.  \n Learners will also be guided on how to use appropriate stance and voice in academic writing, how to ensure that the language and tone that is used is suitable to the context, and how to acknowledge the work of others through correct use of academic referencing. The final section of this course considers the process of revising and editing a written assessment piece, as well as recognizing a range of genres commonly used across the university. Practical tips and suggestions are provided to help with identifying features such as consistency, structure, paragraphing and formatting, as well as highlighting errors commonly made by students when writing.",
+  "learning_goals": [
+    "Editing",
+    "Planning",
+    "Research",
+    "Academic Writing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "peter-crosthwaite",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Queensland"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 786,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

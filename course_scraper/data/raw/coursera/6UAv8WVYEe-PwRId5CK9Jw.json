@@ -1,0 +1,26 @@
+{
+  "course_id": "6UAv8WVYEe-PwRId5CK9Jw",
+  "platform": "coursera",
+  "title": "Large Multimodal Model Prompting with Gemini",
+  "slug": "large-multimodal-model-prompting-with-gemini",
+  "description": "Multimodal models like Gemini are pushing the boundaries of what’s possible by unifying traditionally siloed data modalities. With Gemini, you can build applications that seamlessly understand and reason across text, images, and videos, enabling a new class of intelligent systems. For example, building a virtual interior designer that can analyze a user’s room images, understand their style preferences from a text description, and generate personalized design recommendations. Or creating a smart document processing pipeline that can extract structured data from complex PDFs, answer questions based on the content, and generate human-like summaries.\n\nYou’ll learn prompt engineering techniques to guide Gemini’s behavior and optimize its performance for diverse use cases, from creative story generation to analytical report writing. And you’ll discover how to integrate Gemini with external APIs and databases using function calling, with the ability to infuse your applications with real-time data and dynamic content.\n\nWhat you’ll learn, in detail: \n\n1. Introduction to Gemini Models: Explore the Gemini model family, and understand the key differences and use cases for Gemini Nano, Pro, Flash, and Ultra. Understand how to select optimal models based on capability, latency, and cost considerations. \n\n2. Multimodal Prompting and Parameter Control: Learn advanced techniques for structuring effective text-image-video prompts to elicit desired model behavior. Fine-tune key parameters like temperature, top_p, top_k to control model creativity vs determinism. \n\n3. Best Practices for Multimodal Prompting: Get experience with prompt engineering for Gemini multimodal models, and best practices around role assignment, task decomposition, and formatting. Analyze the impact of prompt-image ordering on model performance for different objectives. \n\n4. Creating Use Cases with Images: Build engaging multimodal applications like interior design assistants and receipt itemization tools. Leverage Gemini’s cross-modal reasoning capabilities to analyze relationships between entities across multiple images. \n\n5. Developing Use Cases with Videos: Implement “needle in the haystack” semantic video search powered by Gemini’s large context window. Explore techniques for long-form video QA and content summarization. \n\n6. Integrating Real-Time Data with Function Calling: Extend Gemini with external knowledge and live data via function calling and API integration. Combine Gemini’s Natural Language Understanding (NLU) capabilities with APIs for up-to-date facts and interactive services. \n\nThrough this course, you’ll become well-versed in Gemini’s capabilities, how to maximize them in different use cases, and a portfolio of practical techniques for architecting advanced multimodal AI applications. \n\nNote that due to technical requirements, this course features downloadable-only notebooks on the learning platform. You are free to download, review, and run these notebooks on your own.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/large-multimodal-model-prompting-with-gemini",
+  "instructors": [
+    {
+      "name": "Erwin Huizenga",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "DeepLearning.AI"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

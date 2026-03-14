@@ -1,0 +1,31 @@
+{
+  "course_id": "1471257165",
+  "platform": "mooc_cn",
+  "title": "电路分析基础",
+  "description": "“电路分析基础”课程是高等院校工科各专业必修的一门专业基础课，通过本课程的学习，使学生掌握电路的基本理论，懂得电路的基本作用、基本规律和基本分析方法，并为后续课程准备必要的电路知识，为从事与本学科有关的工程技术工作建立电学基础。同时，本课程对培养学生的辨证思维能力，树立理论联系实际的科学观点和提高学生分析问题和解决问题的能力，都有重要的作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471257165",
+  "instructors": [
+    {
+      "name": "杨聪锟;坚佳莹;付永升;杨雪芹;陈超波;马天力;张雪薇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1248,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

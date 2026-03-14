@@ -1,0 +1,26 @@
+{
+  "course_id": "xK7ZdoFzEe-L8RKezlgehQ",
+  "platform": "coursera",
+  "title": "H2O Cloud AI Developer Services",
+  "slug": "h2o-cloud-ai-developer-services",
+  "description": "Elevate your AI development skills with H2O Cloud AI Developer Services! This comprehensive program is designed to provide you with an in-depth understanding of H2O ai's cloud-based AI services, tailored for developers, data engineers, and AI practitioners like you.\n\nLed by H2O ai makers Audrey Létévé, Senior Customer Data Scientist, and Jon Farland, Director of Solutions Engineering, this course offers invaluable insights from real-world AI implementations.\n\nWhy H2O Cloud AI?\n\nTabular Services: Imagine effortlessly scaling your machine learning models on tabular data. We'll explore AutoML, seamless data connectivity, and advanced features that empower you to tackle real-world projects with confidence.\n\nLanguage Services: Customizing and deploying NLP solutions has never been easier. From Hydrogen Torch to sophisticated language models, we'll equip you with the tools to conquer enterprise use cases.\n\nVision Services: Dive into the world of computer vision. Learn data labeling with Label Genie, harness document AI capabilities, and build robust vision models using Hydrogen Torch.\n\nAI Assistants Services: Streamline your workflow with intelligent code suggestions and automations. Say goodbye to mundane tasks—our AI assistants have your back.\n\nBy the end, you will be able to create, automate, monitor, and share AI solutions using the H2O Cloud AI platform, optimizing your business use cases across different data types and domains. This course will prepare you to lead in the fields of AI and data science with confidence.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/h2o-cloud-ai-developer-services",
+  "instructors": [
+    {
+      "name": "H2O.ai University",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "H2O.ai"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "AMXyglgXEfCekhJDthqyWw",
+  "platform": "coursera",
+  "title": "IA générative : découvrir les concepts fondamentaux",
+  "slug": "gen-ai-unlock-foundational-concepts-fr",
+  "description": "Le cours \"IA générative : découvrir les concepts fondamentaux\" est le deuxième du parcours de formation \"Leaders en IA générative\". Ce cours vous permettra de découvrir les concepts fondamentaux de l'IA générative en examinant les différences entre l'IA, le ML et l'IA générative. Vous comprendrez également comment l'IA générative permet de relever les défis métier à l'aide des différents types de données. Enfin, vous découvrirez les stratégies de Google Cloud pour gérer les limites des modèles de fondation et quelles sont les grandes problématiques du développement et du déploiement d'une IA responsable et sécurisée.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/gen-ai-unlock-foundational-concepts-fr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

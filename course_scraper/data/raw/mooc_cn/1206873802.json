@@ -1,0 +1,31 @@
+{
+  "course_id": "1206873802",
+  "platform": "mooc_cn",
+  "title": "大学化学",
+  "description": "私人定制，以学为本，冲击高阶，求实创新。适合大学化学/普通化学/无机化学原理/有机化学导学/竞赛入门。四步授课：1，快速掌握大学化学/普通化学/无机化学/有机化学的重点知识。2，详细分析大学化学/普通化学/无机化学的理论本质。3，冲击高阶，深入讲解大学化学部分知识。4，大学化学理论与前沿科学相结合，兼具科普和思政效果。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206873802",
+  "instructors": [
+    {
+      "name": "贺欢",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 42062,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

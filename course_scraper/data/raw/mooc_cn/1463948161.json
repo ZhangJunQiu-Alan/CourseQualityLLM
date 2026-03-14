@@ -1,0 +1,31 @@
+{
+  "course_id": "1463948161",
+  "platform": "mooc_cn",
+  "title": "数据结构",
+  "description": "如何用计算机来解决现实生活中的实际问题（比如学籍管理、车辆调度、组织关系管理、医院挂号系统、七巧板涂色问题等等）呢？这些问题里包含了哪些数据？数据之间又有什么样的关系？可以用什么样的逻辑模型表示？又如何去存储呢？要想知道答案，就加入我们，一起来学习《数据结构》吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463948161",
+  "instructors": [
+    {
+      "name": "胡云;李新霞;苏传琦;丁有伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2239,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

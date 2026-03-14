@@ -1,0 +1,26 @@
+{
+  "course_id": "NSJFT9yKEe6V5xI34US_kw",
+  "platform": "coursera",
+  "title": "Getting Started with Amazon DocumentDB (with MongoDB compatibility)",
+  "slug": "aws-getting-started-with-amazon-documentdb-with-mongodb-compatibility",
+  "description": "Using the document database service Amazon DocumentDB (with MongoDB compatibility), you can store and scale JavaScript Object Notation (JSON) workloads. You don't need to worry about running cluster management software, configuring backups, or monitoring production workloads. You can also migrate self-managed MongoDB-compatible databases to Amazon DocumentDB because it is fully managed.\n\nIn this course, you will learn about the benefits and technical concepts of Amazon DocumentDB. If you are new to the service, you will learn how to start using Amazon DocumentDB through a demonstration of the AWS Management Console and AWS Command Line Interface (AWS CLI). You will learn about the native architecture and how the built-in features help scale and manage your document database workload. The course covers how Amazon DocumentDB fits into a larger cloud-based architecture and typical use cases that are a good fit when building solutions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-getting-started-with-amazon-documentdb-with-mongodb-compatibility",
+  "instructors": [
+    {
+      "name": "AWS Instructor ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

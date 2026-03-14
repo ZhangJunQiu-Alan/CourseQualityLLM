@@ -1,0 +1,26 @@
+{
+  "course_id": "l2hqSgZXEfGexwr_-CK22w",
+  "platform": "coursera",
+  "title": "Cybersecurity and Network Defense Fundamentals",
+  "slug": "cybersecurity-network-defense-fundamentals",
+  "description": "This program equips aspiring cybersecurity professionals, SOC analysts, network engineers, and system administrators with the foundational knowledge and practical skills required to understand, analyze, and defend against modern cyber threats in enterprise environments. \n\nYou will begin by exploring the evolving cyber threat landscape, examining attacker motivations, adversary methodologies, and structured attack lifecycles using frameworks such as the Cyber Kill Chain and MITRE ATT&CK. Through guided demonstrations and applied analysis, you will learn how attackers conduct reconnaissance, exploit vulnerabilities, and move across networks—and how defenders detect and disrupt these activities using structured security operations techniques.\n\nBuilding on this foundation, you will develop practical Linux skills essential for cybersecurity operations. Working within a Kali Linux environment, you will execute core command-line operations, analyze system logs, apply regular expressions for investigation, and map adversary techniques using MITRE ATT&CK Navigator. The course also introduces structured threat intelligence practices, including OSINT collection and STIX/TAXII-based intelligence sharing. Using tools such as Maltego and theHarvester, you will learn how to uncover external attack surfaces and enhance situational awareness through intelligence-driven defense.\n\nNext, the program explores attack vectors and exploitation techniques commonly used in real-world cyber incidents. You will analyze phishing campaigns, social engineering tactics, malware delivery methods, and ransomware lifecycles. Through controlled demonstrations and sandbox-based analysis, you will observe malicious behavior, identify indicators of compromise, and understand how attackers transition from initial access to system impact.\n\nThe course then advances into operating system security and network monitoring. You will apply secure configuration principles, enforce privilege management controls, audit system activity, and assess endpoint security posture across Windows and Linux environments. On the network side, you will design segmented architectures, implement intrusion detection and prevention concepts, and analyze packet-level traffic using Wireshark and Snort to detect anomalies and suspicious activity.\n\nFinally, you will integrate these capabilities in a structured practice project where you map a full threat lifecycle, analyze indicators, harden systems, and validate monitoring controls—demonstrating a layered defense strategy aligned with enterprise best practices.\n\nBy the end of this program, you will be able to:\n\n-Analyze cyber threats, attacker behaviors, and structured attack lifecycles.\n\n-Map adversary tactics and techniques using MITRE ATT&CK and the Cyber Kill Chain.\n\n-Apply Linux command-line tools for log analysis, investigation, and threat mapping.\n\n-Collect and evaluate threat intelligence using OSINT and structured intelligence feeds.\n\n-Identify phishing, malware, and ransomware exploitation techniques.\n\n-Implement operating system hardening and privilege management controls.\n\n-Design secure network architectures using segmentation and IDS/IPS principles.\n\n-Analyze network traffic and detect suspicious activity using monitoring tools.\n\nThis course is designed for SOC analysts, cybersecurity practitioners, network and infrastructure engineers, system administrators, and early-career security professionals seeking strong foundational and operational skills in cyber threat analysis and network defense.\n\nJoin us to build the analytical mindset, technical capability, and structured defense strategies required to protect enterprise systems against modern cyber threats.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 3 - 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cybersecurity-network-defense-fundamentals",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "236004",
+  "platform": "mooc_cn",
+  "title": "C程序设计",
+  "description": "人类学语言时，学会了听说读写，学数学时，学会了运算推理，学物理时，学会了观察实证，从而可以理解现实生活的周围，以便针对问题提出有效的解决方案。出于同样的理由，我们应该学习编程，这样能更好地理解越来越数字化的世界。编程不只是一门技术，它教会人们如何思考。现在，与我们一起学编程吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/236004",
+  "instructors": [
+    {
+      "name": "刘君瑞;姜学锋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 129339,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

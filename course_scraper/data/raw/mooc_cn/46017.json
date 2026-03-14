@@ -1,0 +1,31 @@
+{
+  "course_id": "46017",
+  "platform": "mooc_cn",
+  "title": "有机化学（1）",
+  "description": "《有机化学》是研究有机化合物的结构、性质和反应的学科，是化学专业学生的必修基础课，是生物化学、分子生物学、医学、药学等课程的先修课。西安交通大学教学名师唐玉海教授，将在MOOC课堂中通过多元化教学模式，融合理论学习和实例分析，并结合课外实验，帮助学生系统深入地掌握有机化学基本知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/46017",
+  "instructors": [
+    {
+      "name": "唐玉海",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 120321,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

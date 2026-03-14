@@ -1,0 +1,31 @@
+{
+  "course_id": "309001",
+  "platform": "mooc_cn",
+  "title": "计算机组成原理（上）",
+  "description": "课程在以培养学生创新能力和解决实际问题的能力为主的思想指导下，形成了由理论课、实验课、计算机设计与实践构成的课程体系。使学生系统地理解计算机硬件系统的组织结构和工作原理，掌握计算机硬件系统的基本分析与设计方法，建立计算机系统的整体概念",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/309001",
+  "instructors": [
+    {
+      "name": "刘宏伟;张丽杰;舒燕君;潘道华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 339006,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

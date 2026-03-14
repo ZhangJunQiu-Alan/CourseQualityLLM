@@ -1,0 +1,26 @@
+{
+  "course_id": "3K3rBiYYEe6JJAruShrzEQ",
+  "platform": "coursera",
+  "title": "Introduction to Image Generation - Français",
+  "slug": "introduction-to-image-generation---franais",
+  "description": "Ce cours présente les modèles de diffusion, une famille de modèles de machine learning qui s'est récemment révélée prometteuse dans le domaine de la génération d'images. Les modèles de diffusion trouvent leur origine dans la physique, et plus précisément dans la thermodynamique. Au cours des dernières années, ils ont gagné en popularité dans la recherche et l'industrie. Ils sont à la base de nombreux modèles et outils Google Cloud avancés de génération d'images. Ce cours vous présente les bases théoriques des modèles de diffusion, et vous explique comment les entraîner et les déployer sur Vertex AI.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/introduction-to-image-generation---franais",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

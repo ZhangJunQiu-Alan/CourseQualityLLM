@@ -1,0 +1,31 @@
+{
+  "course_id": "1205706801",
+  "platform": "mooc_cn",
+  "title": "高等数学（上）",
+  "description": "本课程教学设计以透彻研究、简单呈现为理念，在研究透彻的基础上，以尽可能简单的方式呈现微积分的教学内容。通过对微积分内容的研究化解微积分数学的难点，优化了微积分概念、原理和方法的表述方式。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205706801",
+  "instructors": [
+    {
+      "name": "彭娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 49589,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

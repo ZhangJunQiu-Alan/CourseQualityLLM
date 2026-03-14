@@ -1,0 +1,26 @@
+{
+  "course_id": "fhPRFLCuEe6oQA6J-7B2nw",
+  "platform": "coursera",
+  "title": "Blueprint Scripting",
+  "slug": "blueprint-scripting",
+  "description": "The Blueprint Visual Scripting system in Unreal Engine is a visual programming language that uses a node-based interface to create gameplay elements. The node-based workflow provides designers with a wide range of scripting concepts and tools that are generally only available to programmers. In addition, Blueprint-specific markup available in Unreal Engine's C++ implementation provides programmers with a way to create baseline systems that designers can extend. This is primarily aimed at first- and second-year undergraduates interested in engineering or science, along with high school students and professionals with an interest in programming.\n\nThis course introduces learners to the Blueprint Visual Scripting system. Participants will learn Blueprint basics, how they relate to C++, and Blueprint programming principles,  and will use their knowledge to create an interactive door for a video game.\n\nThis course does not require learners to have any previous knowledge about Blueprint scripting to get started. It is recommended that the learner take courses 1 through 3 before starting this course.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 weeks of study, 10 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/blueprint-scripting",
+  "instructors": [
+    {
+      "name": "Ryan Laley",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Epic Games "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

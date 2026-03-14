@@ -1,0 +1,26 @@
+{
+  "course_id": "fSXblNYMEfCe_RJCPtJsIQ",
+  "platform": "coursera",
+  "title": "Web Dev: Page Layout and Complex Style Rules",
+  "slug": "web-dev-page-layout-complex-style-rules-lo094023",
+  "description": "In this course, you'll continue developing your web-development skills by formatting element edges and corners, controlling an element's height and width, controlling an element's position and layering, and normalizing and resetting browser CSS defaults. You'll also use advanced selectors, manager user-interface states, make structure more apparent to users, and use CSS pseudo-element selectors. Then, you'll use CSS to create newspaper-style columns, grid layouts, and flexible box layouts.\n\nThis is the third course in a multi-course Specialization.\n\nAll of the courses in this Specialization require that you run a XAMPP web server on localhost. The course setup instructions provided in the first course go into more detail about the hardware and software requirements.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/web-dev-page-layout-complex-style-rules-lo094023",
+  "instructors": [
+    {
+      "name": "Bill Rosenthal",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Logical Operations"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

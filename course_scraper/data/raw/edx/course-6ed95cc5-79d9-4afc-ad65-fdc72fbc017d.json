@@ -1,0 +1,35 @@
+{
+  "course_id": "course-6ed95cc5-79d9-4afc-ad65-fdc72fbc017d",
+  "platform": "edx",
+  "title": "30-hour Grammar and Language Awareness",
+  "description": "Don’t know your irregular verbs from auxiliary verbs? This course will improve your basic grammar and give you the grounding you’ll need to communicate complicated language rules to a student audience.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "luke-bartsch",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "thomas-kerr",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "TEFL Org"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1037,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

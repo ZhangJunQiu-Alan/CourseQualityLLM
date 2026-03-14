@@ -1,0 +1,26 @@
+{
+  "course_id": "FczDzpk2EfCW1gr_yJpiVQ",
+  "platform": "coursera",
+  "title": "cPanel Advanced: Configure, Secure & Optimize",
+  "slug": "cpanel-advanced-configure-secure-optimize",
+  "description": "By the end of this course, learners will be able to configure advanced email tools, analyze website metrics, implement encryption, manage SSL/TLS certificates, and optimize security and user controls in cPanel. Designed for IT professionals, hosting administrators, and web developers, this course goes beyond basics to provide hands-on mastery of cPanel’s most powerful features.\n\nLearners will benefit by gaining the ability to streamline email management, prevent spam, enhance communication, and protect sensitive data using advanced security protocols. They will also learn to monitor performance metrics, customize PHP configurations, and manage user access effectively, ensuring both efficiency and safety for websites and servers.\n\nWhat makes this course unique is its modular, step-by-step approach—each lesson combines practical application with conceptual understanding, making advanced features easy to grasp and implement. Unlike generic tutorials, this program provides structured learning paths with quizzes and practice exercises, ensuring learners not only understand the tools but can apply, analyze, and evaluate them in real-world hosting environments.\n\nThis course empowers learners to confidently manage, secure, and optimize cPanel, transforming them into skilled administrators ready for professional challenges.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cpanel-advanced-configure-secure-optimize",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

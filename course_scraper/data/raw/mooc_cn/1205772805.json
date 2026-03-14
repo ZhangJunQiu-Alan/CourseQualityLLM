@@ -1,0 +1,31 @@
+{
+  "course_id": "1205772805",
+  "platform": "mooc_cn",
+  "title": "专业机械制图",
+  "description": "工程图样被称为“工程界的语言”，是工程技术部门的一项重要技术文件，是表达和交流技术思想的重要工具。通过本课程的学习可以提高工程实践能力，既能够将现有零件图和装配图的相关信息准确阅读，又能够将现有三维零件或机器通过二维工程图表述，是实现设计梦想的重要表达途径！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205772805",
+  "instructors": [
+    {
+      "name": "王迎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33096,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

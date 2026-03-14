@@ -1,0 +1,31 @@
+{
+  "course_id": "Mj6DblwdEfCsFw6FoIz2Lw",
+  "platform": "coursera",
+  "title": "Java SE 17 Developer (1Z0-829): Unit 1",
+  "slug": "pearson-java-se-17-developer-1z0-829-video-course-1-wl3tv",
+  "description": "Unlock the full potential of Java programming with our comprehensive course designed to elevate your skills in handling date, time, text, numeric, and Boolean data. This course meticulously covers the essentials, from mastering primitives and wrapper classes to leveraging the powerful Date/Time API introduced in Java 8. Dive deep into the intricacies of String manipulation, explore the innovative text block feature, and gain proficiency in using StringBuilder for efficient text handling. Our expertly crafted lessons will guide you through the complexities of Java operators, type promotion, and casting, ensuring you understand the nuances of arithmetic and Boolean expressions. By the end of this course, you will have a solid foundation in managing data types and expressions, empowering you to write more efficient and effective Java code. Join us to enhance your programming expertise and stay ahead in the ever-evolving world of Java development.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2h 44m",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-java-se-17-developer-1z0-829-video-course-1-wl3tv",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Simon Roberts",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

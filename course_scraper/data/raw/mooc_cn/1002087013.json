@@ -1,0 +1,31 @@
+{
+  "course_id": "1002087013",
+  "platform": "mooc_cn",
+  "title": "JAVA程序设计",
+  "description": "1995年，Sun公司推出Java面向对象程序设计语言，因其具有简单易用和功能强大的特征，得到广泛使用，时至今日Java语言仍然成为IT业界最热门的编程语言之一。本课程以提高学生应用Java语言的能力为目标，理论教学的同时穿插多个案例，使学习者在实操中了解Java，体会Java，掌握Java，提高Java编程能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002087013",
+  "instructors": [
+    {
+      "name": "卞璐;朱明程;钟建全",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "三江学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21241,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

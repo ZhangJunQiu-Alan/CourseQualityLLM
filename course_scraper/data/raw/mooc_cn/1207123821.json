@@ -1,0 +1,31 @@
+{
+  "course_id": "1207123821",
+  "platform": "mooc_cn",
+  "title": "电子技术基础",
+  "description": "课程内容从基本概念入手，贴近学生的认知水平，培养学生掌握对电子电路的定量计算和定性分析能力。并以问题为导向，由生活中常见的电子产品现象引起学生的思考，注重与工程实际相结合。不仅讲授各种各样的电子电路，更加注重电路的构成原则及构成思路，培养工程思维，增强创新意识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207123821",
+  "instructors": [
+    {
+      "name": "黄世泽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13884,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

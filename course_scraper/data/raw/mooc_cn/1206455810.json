@@ -1,0 +1,31 @@
+{
+  "course_id": "1206455810",
+  "platform": "mooc_cn",
+  "title": "计算思维与程序设计基础",
+  "description": "本课程是学习计算机的入门课程，课程目标是：面向所有专业学生，以计算思维、创新思维能力培养为目标，讲述计算机体系结构、信息表示、问题求解与算法、互联网技术等学科创新思维方法；在理解计算机基础理论和基本构造基础上，初步建立和掌握利用计算机求解问题的思路和方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206455810",
+  "instructors": [
+    {
+      "name": "付菊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "陕西科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24266,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

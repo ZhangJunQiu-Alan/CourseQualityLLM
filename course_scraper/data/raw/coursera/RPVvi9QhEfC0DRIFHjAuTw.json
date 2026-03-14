@@ -1,0 +1,26 @@
+{
+  "course_id": "RPVvi9QhEfC0DRIFHjAuTw",
+  "platform": "coursera",
+  "title": "Présentation de Gemini Enterprise",
+  "slug": "introduction-to-google-agentspace-fr",
+  "description": "Ce cours présente Gemini Enterprise, une plate-forme puissante qui rassemble des agents IA, la recherche d’entreprise, NotebookLM et un accès intelligent aux données pour résoudre les défis organisationnels. À travers des exemples concrets et une exploration pratique, les participants pourront lier les capacités de Gemini Enterprise à des besoins métiers réels, décrire son architecture et expliquer comment il gère l'accès aux données et la confidentialité entre les différents rôles.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/introduction-to-google-agentspace-fr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

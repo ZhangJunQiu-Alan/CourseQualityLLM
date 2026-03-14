@@ -1,0 +1,31 @@
+{
+  "course_id": "1207403805",
+  "platform": "mooc_cn",
+  "title": "应用回归分析",
+  "description": "应用回归分析是统计学的重要分支，是数据科学的基础方法，主要研究如何从数据出发，揭示变量间的统计联系。 本课程主要介绍经典回归分析的基本理论和实用方法，并体现了统计学与机器学习的有机结合。本课程以Python为教学语言，使学生具备应用专业知识解决实际问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207403805",
+  "instructors": [
+    {
+      "name": "俞昊东;王立庆;俞雪梨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海立信会计金融学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24560,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

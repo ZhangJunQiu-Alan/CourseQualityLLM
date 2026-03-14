@@ -1,0 +1,48 @@
+{
+  "course_id": "course-03b2ee2b-8ba5-4ddb-b1a6-3e69de55a26a",
+  "platform": "edx",
+  "title": "Statistics",
+  "description": "A strong foundation in mathematics is critical for success in all science and engineering disciplines. Whether you want to make a strong start to a master’s degree, prepare for more advanced courses, solidify your knowledge in a professional context or simply brush up on fundamentals, this course will get you up to speed. \n In many engineering master’s programs, statistics is used quite intensively. As soon as you are dealing with real-life data, you will need to get an idea of what these data tell you and how you can visualize this (descriptive statistics). But you will also want to perform some analysis (inferential statistics): you may want to build a model that mimics reality, estimate some quantities, or test some hypotheses. \n The statistics course in this series will help you refresh your knowledge on these topics. Along the way you will learn how to apply these concepts to datasets, using the statistical software R. \n This course offers enough depth to cover the statistics you need to succeed in your engineering master’s or profession in areas such as machine learning, data science and more. \n  This is a review course  \nThis self-contained course is modular, so you do not need to follow the entire course if you wish to focus on a particular aspect. As a review course you are expected to have previously studied or be familiar with most of the material. Hence the pace will be higher than in an introductory course. \n This format is ideal for refreshing your bachelor level mathematics and letting you practice as much as you want. You will get many exercises, to be solved using Grasple or R, for which you will receive intelligent, personal and immediate feedback.",
+  "learning_goals": [
+    "R (Programming Language)",
+    "Machine Learning",
+    "Basic Math",
+    "Statistical Software",
+    "Descriptive Statistics",
+    "Data Science",
+    "Statistical Inference"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "3 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "christophe-smet",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rik-lopuhaa",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "annoesjka-cabo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 391,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

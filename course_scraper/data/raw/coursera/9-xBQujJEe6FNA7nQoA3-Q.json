@@ -1,0 +1,31 @@
+{
+  "course_id": "9-xBQujJEe6FNA7nQoA3-Q",
+  "platform": "coursera",
+  "title": "Capstone: Preparing to work as a Cloud Support Associate",
+  "slug": "aws-capstone-cloud-support-associate",
+  "description": "This course's focus will be on practical aspects of preparing to work as a support agent in organizations with AWS environments. We will start with some review of previous topics covered in the series, with specific attention paid towards debugging and troubleshooting. We’ll then move into concepts around interacting with customers to obtain information and progress towards a solution. \nIn the next module, you'll have the opportunity to view the architecture from various perspectives, such as builder, supporter, and interviewer. We will then shift into preparing you to apply for Cloud Support Associate positions. This will involve diving into resume and portfolio building, as well as the creation of an online presence. The second module will close out with a look at how you can evaluate opportunities and any gaps you may have in your knowledge. The third module of the course will have a focus on interviewing. This will involve preparing for interviews, discussions with professions from AWS Premium Support around the interviewing and hiring process, and looking at mock interviews and sample questions. The last module of the course will allow you to practice using the knowledge and various skills you’ve acquired over the course of the series with a multi-part project. In the project, you’ll build, analyze, and document an application architecture. You’ll also can view the architecture from various perspectives, such as builder, supporter, and interviewer.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-capstone-cloud-support-associate",
+  "instructors": [
+    {
+      "name": "Alex G.",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Oksana Hoeckele",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

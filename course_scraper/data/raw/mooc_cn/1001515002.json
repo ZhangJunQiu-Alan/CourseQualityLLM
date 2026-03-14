@@ -1,0 +1,31 @@
+{
+  "course_id": "1001515002",
+  "platform": "mooc_cn",
+  "title": "工程力学",
+  "description": "工程力学是工科学生的重要基础。本课程剖析工程典型力学问题，阐释工程问题分析方法，注重基本理论及其应用，力求基本知识点通俗易懂，启迪创新研究思维。课程为国家精品开放课程，课程组为国家优秀教学团队。课程附国家名师课堂视频。适合40-64学时学习，根据学时要求可以定制SPOC课程选择学习内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001515002",
+  "instructors": [
+    {
+      "name": "王元勋;胡洪平;熊启林;魏俊红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 185707,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207007801",
+  "platform": "mooc_cn",
+  "title": "实用医学统计学与SAS应用",
+  "description": "《实用医学统计学与SAS应用》被认定为江苏省首批一流本科在线开放课程。该课程从医学科研和卫生工作的实际需要出发，介绍了各种统计学方法的应用范围、基本思想、SAS程序实现，以及结果解释等。如果你想制作一份规范、正确的统计分析报告；如果你想边学边练，运用SAS软件来整理分析医学大数据，欢迎大家走进《实用医学统计学与SAS应用》！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207007801",
+  "instructors": [
+    {
+      "name": "沈月平;吕大兵;柯朝甫;裴育芳;张明芝;李红美;尹洁云;汤在祥",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26645,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

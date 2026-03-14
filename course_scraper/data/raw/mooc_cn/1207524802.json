@@ -1,0 +1,31 @@
+{
+  "course_id": "1207524802",
+  "platform": "mooc_cn",
+  "title": "会计学原理",
+  "description": "会计是一门商业语言，它把商业活动中的价值交换，忠实地记录下来，转化为会计的报告。这个过程，既要言词达意，又要让读者有效理解。会计，记录企业的资金运动，揭示资金缺口，提示风险，帮助企业应对变化。学习会计语言，就能读懂企业这本书。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207524802",
+  "instructors": [
+    {
+      "name": "郭雪萌;李远慧;孙敏;范铁燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16736,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

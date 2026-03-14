@@ -1,0 +1,31 @@
+{
+  "course_id": "1003788005",
+  "platform": "mooc_cn",
+  "title": "岩体力学",
+  "description": "岩体力学也称岩石力学，是近代发展起来的一门固体力学与岩土工程的交叉新兴学科，研究岩体在各种力场作用下变形与破坏规律的理论及其应用的科学，是一门应用型基础学科。岩体力学是土木、采矿、水利、铁道、公路、岩土、地下、石油等众多学科的理论基础，是促进这些行业工程不断发展的原动力，能够解决不同行业中涉及到的浅部和深部岩石工程的岩石力学问题，如稳定性、安全性、变形破坏机理与规律等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003788005",
+  "instructors": [
+    {
+      "name": "张伯虎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南石油大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9354,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

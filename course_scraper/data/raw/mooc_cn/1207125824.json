@@ -1,0 +1,31 @@
+{
+  "course_id": "1207125824",
+  "platform": "mooc_cn",
+  "title": "高等流体力学",
+  "description": "哈尔滨工业大学流体力学课程教学团队隶属于能源科学与工程学院，依托动力工程及工程热物理国家一级重点学科，在多年的教学和科研工作中积累了丰富的教学经验。本课程以哈尔滨工业大学高等流体力学课程的长期教学实践为基础，体系化讲述流体力学核心知识要点，以及流体动力学的基本规律和应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207125824",
+  "instructors": [
+    {
+      "name": "刘全忠;郑智颖;李彪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14088,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

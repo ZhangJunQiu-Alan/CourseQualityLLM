@@ -1,0 +1,31 @@
+{
+  "course_id": "1465953168",
+  "platform": "mooc_cn",
+  "title": "移动Web开发",
+  "description": "移动Web开发是创建能自适应PC端和移动端的网页或APP界面呈现给用户的过程。移动Web开发技术主要包括HTML5、CSS3、移动Web前端开发框架Bootstrap以及衍生出来的各种技术。本课程由高校与企业联合打造，科大讯飞讲师做技术支持，将坚实的基础、实用的案例以及企业级的应用贯通交融，可以作为移动Web前端开发入门课程。 你还犹豫什么？赶快加入我们的课程，一起领略移动Web开发的无穷魅力，开启课程的正式之旅吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465953168",
+  "instructors": [
+    {
+      "name": "王金雨;叶品菊;权小红;刘燕婷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4396,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

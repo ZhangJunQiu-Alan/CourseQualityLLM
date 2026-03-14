@@ -1,0 +1,36 @@
+{
+  "course_id": "course-b30c5c26-0189-422c-a66e-5af26463e446",
+  "platform": "edx",
+  "title": "Probability and Statistics I:  A Gentle Introduction to Probability",
+  "description": "This course provides an introduction to basic probability concepts. Our emphasis is on applications in science and engineering, with the goal of enhancing modeling and analysis skills for a variety of real-world problems.  \n In order to make the course completely self-contained (and to bring back long-lost memories), we’ll start off with Bootcamp lessons to review concepts from set theory and calculus. We’ll then discuss the probability axioms that serve as the basis for all of our subsequent work – what makes probability tick? That discussion will give us the tools to study elementary probability counting rules, including permutations and combinations. We’ll use these rules to work on various cool applications, including poker probability calculations and baseball line-ups! \n The next venues on our tour are the concepts of independence and conditional probability, which allow us to see how the probabilities of different events are related to each other, and how new information can be used to update probabilities. The course culminates in a discussion of Bayes Rule and its various interesting consequences related to probability updates.",
+  "learning_goals": [
+    "Probability And Statistics",
+    "Calculus",
+    "Set Theory",
+    "Bayesian Statistics",
+    "Probability"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "3 周，每周 6-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-goldsman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 968,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

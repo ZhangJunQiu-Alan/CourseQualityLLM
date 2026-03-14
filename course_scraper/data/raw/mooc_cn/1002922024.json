@@ -1,0 +1,31 @@
+{
+  "course_id": "1002922024",
+  "platform": "mooc_cn",
+  "title": "古代汉语",
+  "description": "解字、析文、通经、明理，学习有用、有趣、有内涵的古代汉语，领略中国古代语言的恒久魅力！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002922024",
+  "instructors": [
+    {
+      "name": "王玥雯;王统尚;张文;陈菡",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 183498,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

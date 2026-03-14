@@ -1,0 +1,26 @@
+{
+  "course_id": "LK5V03nwEfCnKRI3s5aR2Q",
+  "platform": "coursera",
+  "title": "Generative AI for Developers: Unit 3",
+  "slug": "pearson-chatgpt-prompt-engineering-essentials-video-course-zypxw",
+  "description": "This course starts with an overview of chatbot development and the architecture of ChatGPT. You will learn how to write prompts that improve the accuracy and usefulness of AI responses. Through practical exercises, you will use AI for tasks such as data analysis, code generation, translation, and content creation. The course also covers advanced topics like API integration, automated prompt testing, and building custom GPTs, with a focus on automating workflows and customizing AI tools. You will learn how generative AI can interact with files, create images, and use third-party APIs to perform actions. This course is suitable for developers, content creators, and anyone interested in AI, and will help you build practical skills for working with generative AI.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-chatgpt-prompt-engineering-essentials-video-course-zypxw",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

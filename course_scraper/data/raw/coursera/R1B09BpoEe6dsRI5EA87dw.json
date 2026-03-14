@@ -1,0 +1,26 @@
+{
+  "course_id": "R1B09BpoEe6dsRI5EA87dw",
+  "platform": "coursera",
+  "title": "Transformer Models and BERT Model - 日本語版",
+  "slug": "transformer-models-and-bert-model-ja",
+  "description": "このコースでは、Transformer アーキテクチャと Bidirectional Encoder Representations from Transformers（BERT）モデルの概要について説明します。セルフアテンション機構をはじめとする Transformer アーキテクチャの主要コンポーネントと、それが BERT モデルの構築にどのように使用されているのかについて学習します。さらに、テキスト分類、質問応答、自然言語推論など、BERT を適用可能なその他のタスクについても学習します。このコースの推定所要時間は約 45 分です。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "1 week of study, 6-8 hours",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/transformer-models-and-bert-model-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

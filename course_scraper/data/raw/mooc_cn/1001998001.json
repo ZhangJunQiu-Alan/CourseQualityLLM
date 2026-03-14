@@ -1,0 +1,31 @@
+{
+  "course_id": "1001998001",
+  "platform": "mooc_cn",
+  "title": "生物医学工程概论",
+  "description": "人类从未停止探索生命的奥秘，并在医学之路上不断前行！科技发展不断向生物医学渗透，肿瘤靶向药物、3D打印器官、个性化医疗、可穿戴设备等，产生交叉性学科——生物医学工程学。该学科从工程学的角度，在多层次上研究人体结构、功能及其相互关系，为人类疾病的预防、诊断、治疗和康复提供新技术手段。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001998001",
+  "instructors": [
+    {
+      "name": "叶雅静;杨鹏飞;卢婷利;张妍妮;陈强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23293,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

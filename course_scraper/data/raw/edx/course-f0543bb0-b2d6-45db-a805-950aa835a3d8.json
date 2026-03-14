@@ -1,0 +1,38 @@
+{
+  "course_id": "course-f0543bb0-b2d6-45db-a805-950aa835a3d8",
+  "platform": "edx",
+  "title": "Introduction to Data Science and Basic Statistics for Business",
+  "description": "This course allows you to develop skills of a decision maker leader based on the following competencies: \n \n analysis of statistical elements of information \n concepts and statistical foundations for the application of the area of ​​data science \n \n Through descriptive statistics, the study and analysis of discrete and continuous probability distributions, as well as the estimation by intervals for the mean and the proportion, it is how you will be able to develop both skills.",
+  "learning_goals": [
+    "Decision Making",
+    "Probability Distribution",
+    "Business Technologies",
+    "Statistical Methods",
+    "Big Data",
+    "Statistics",
+    "Data Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "4 周，每周 5-8 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jose-antonio-nunez-mora",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tecnológico de Monterrey"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 272,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

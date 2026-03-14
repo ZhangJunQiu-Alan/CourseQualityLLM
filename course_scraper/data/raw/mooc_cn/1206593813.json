@@ -1,0 +1,31 @@
+{
+  "course_id": "1206593813",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "南京邮电大学是一所依托邮电通信专业、具有大信息特色的双一流大学，学校的电子信息与通信工程是国家一流专业，作为电子信息类专业的主干课程，信号与系统课程由具有丰富教学经验，十多年、二十多年教学经历的骨干教师精心打造，不但有信号课相关的重要知识点，还介绍各知识点在后续课程及通信、信息处理、控制等领域的应用，更有课程组全体老师及时、全面的在线教学服务。欢迎有志于信息类各专业学习的在校学生或社会学习者加入课程，打开时域、频域和复频域分析这叁扇大门，走进精彩纷呈的信号和系统的世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206593813",
+  "instructors": [
+    {
+      "name": "余雪勇;解培中;张翠芳;孔凡坤;魏昕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 31258,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

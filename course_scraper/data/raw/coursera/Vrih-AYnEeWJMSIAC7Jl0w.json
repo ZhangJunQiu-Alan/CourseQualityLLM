@@ -1,0 +1,26 @@
+{
+  "course_id": "Vrih-AYnEeWJMSIAC7Jl0w",
+  "platform": "coursera",
+  "title": "Network Analysis in Systems Biology",
+  "slug": "network-biology",
+  "description": "This course introduces data analysis methods used in systems biology, bioinformatics, and systems pharmacology research. The course covers methods to process raw data from genome-wide mRNA expression studies (microarrays and RNA-seq) including data normalization, clustering, dimensionality reduction, differential expression, enrichment analysis, and network construction. The course contains practical tutorials for using several bioinformatics tools and setting up data analysis pipelines, also covering the mathematics behind the methods applied by these tools and workflows. The course is mostly appropriate for beginning graduate students and advanced undergraduates majoring in fields such as biology, statistics, physics, chemistry, computer science, biomedical and electrical engineering. The course should be useful for wet- and dry-lab researchers who encounter large datasets in their own research. The course presents software tools developed by the Ma’ayan Laboratory (http://labs.icahn.mssm.edu/maayanlab/) from the Icahn School of Medicine at Mount Sinai in New York City, but also other freely available data analysis and visualization tools. The overarching goal of the course is to enable students to utilize the methods presented in this course for analyzing their own data for their own projects. For those students that do not work in the field, the course introduces research challenges faced in the fields of computational systems biology and systems pharmacology.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "6-8 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/network-biology",
+  "instructors": [
+    {
+      "name": "Avi Ma’ayan, PhD",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Icahn School of Medicine at Mount Sinai"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

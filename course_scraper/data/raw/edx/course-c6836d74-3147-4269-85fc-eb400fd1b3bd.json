@@ -1,0 +1,40 @@
+{
+  "course_id": "course-c6836d74-3147-4269-85fc-eb400fd1b3bd",
+  "platform": "edx",
+  "title": "ChatGPT - Usos y Estrategias",
+  "description": "Conoce los principales hitos del desarrollo de la Inteligencia Artificial a través de la historia, recorriendo los planteamientos, desafíos y desarrollos que hoy en día hacen posible la existencia de plataformas asistidas por IA como ChatGPT. Aprende como ChatGPT genera contenido en texto mediante modelos de procesamiento del lenguaje natural y conoce su interfaz para comenzar a utilizarlo sin conocimientos previos. \n Conoce que son los avisos (o instrucciones) y aprende a estructurarlos mediante diferentes estrategias que buscan optimizar los resultados generados por ChatGPT. Estudia diferentes aplicaciones prácticas en entornos educativos y laborales para diseñar una estrategia de implementación propia. Experimenta con cada nuevo concepto y desarrolla habilidades para complementar actividades y tareas, reduciendo los tiempos operativos e incrementando la productividad. \n Conoce sobre las consideraciones éticas que involucran el uso de plataformas como ChatGPT y analiza sus capacidades y limitaciones para implementarlo de manera consciente y responsable en tu entorno de trabajo. Los beneficios de ChatGPT se encuentran al alcance de tus manos, ¿qué esperas para sumergirte en el mundo de la Inteligencia Artificial generativa?",
+  "learning_goals": [
+    "Experimentation",
+    "Strategic Planning",
+    "Artificial Intelligence",
+    "Natural Language Processing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "olaf-roman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "luis-moran",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tecnológico de Monterrey"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 343,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,47 @@
+{
+  "course_id": "course-0f518c19-cc94-44f3-a863-f023768a6b3e",
+  "platform": "edx",
+  "title": "Smart Cities for Sustainable Development",
+  "description": "Throughout history, cities have been the center of economic development, technological innovation, social progression and the enhancement of human capability. While growing in numbers and sizes – more than half of the world is living in urban areas today – cities are also experiencing major challenges such as congestion, pollution, environmental degradation and widening inequality in accessing opportunities and adequate living environments. For sustainable development of cities, it is imperative to mobilize diverse perspectives and bring together various stakeholders to solve these major urban problems. \n Smart cities refer to an approach to making the best use of data, technologies, and available resources to improve city planning, management, and service delivery, to engage citizens, and to enhance accountability. For smart cities, advancing cutting-edge technologies such as Digital Twin, Artificial Intelligence (AI), Big Data, and IoT (Internet of Things) is geared towards creating a civic platform for new forms of cities with sustainability and agile prosperity. That is, while innovative technologies are key enablers, promoting integration and alignment in urban planning and management is the core for successful smart cities. \n Sustainable Development Goals (SDGs) represent a common development vision of our present world. This event facilitates discussion and knowledge sharing on how smart cities can contribute to this collective effort towards enhanced global sustainability.",
+  "learning_goals": [
+    "Artificial Intelligence",
+    "Big Data",
+    "Economic Development",
+    "Resilience",
+    "Agile Methodology",
+    "Service Delivery Improvement",
+    "Innovation",
+    "Sustainable Development",
+    "Integration",
+    "Environmental Degradation",
+    "Management",
+    "Digital Twin",
+    "Internet Of Things (IoT)",
+    "Sustainability",
+    "Accountability",
+    "Urban Planning"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "olc-wbgx-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "World Bank Group"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1321,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

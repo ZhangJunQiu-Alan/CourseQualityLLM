@@ -1,0 +1,38 @@
+{
+  "course_id": "course-46f5e093-a40c-4eb2-932c-272ba7d870f1",
+  "platform": "edx",
+  "title": "Introducción a Power BI para los negocios",
+  "description": "¿Necesitas incorporar la inteligencia de negocio a tu empresa de forma que te permita analizar cantidades ingentes de datos para tomar las mejores decisiones? Power BI Desktop, la herramienta gratuita de análisis de datos de Microsoft te ayudará a conseguirlo con el menor esfuerzo posible. \n Power BI Desktop te ofrece Power Query, una herramienta para importar, limpiar y acondicionar los datos a través de procesos automatizados, el modelo de datos, que te permitirá establecer relaciones entre los datos importados y añadir medidas complejas que sinteticen las conclusiones más importantes y una gran cantidad de visualizaciones que te permitirán presentar estos datos de forma interactiva y conectada y, no solo esto, si necesitas trabajar en equipo te ofrece una potente herramienta colaborativa en la nube (de pago) que, además, se integra con las herramientas de Microsoft Office y Teams. \n En este primer curso de Power BI te presentamos los componentes de Power BI, te mostramos la herramienta gratuita Power BI Desktop y te enseñamos a usarla para cargar y tratar datos de diversas fuentes, relacionar los datos importados e incorporar medidas para extraer la información importante y manejar las visualizaciones gráficas más habituales y utilizar los filtros para presentarla de la mejor manera posible.",
+  "learning_goals": [
+    "Microsoft Office",
+    "Data Analysis",
+    "Collaborative Software",
+    "Data Modeling",
+    "Business Intelligence",
+    "Power BI",
+    "Teamwork"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-5 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ignacio-despujol",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1022,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

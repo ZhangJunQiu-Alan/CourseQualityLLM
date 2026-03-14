@@ -1,0 +1,31 @@
+{
+  "course_id": "1206502808",
+  "platform": "mooc_cn",
+  "title": "机械制造技术基础",
+  "description": "《机械制造技术基础》课程是工科学校机械类专业的专业核心课程，学生通过学习机械制造技术的理论知识，掌握装备的核心制造技术和技能，铸就各行各业的大国重器，实现我国制造强国的理想。本课程在卢秉恒院士的长期指导下，形成了一支老中青结合的教学队伍和一本融合基本原理和现代制造技术的经典教材。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206502808",
+  "instructors": [
+    {
+      "name": "张俊;李旸;吕盾;卢秉恒;金涛;赵万华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29781,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

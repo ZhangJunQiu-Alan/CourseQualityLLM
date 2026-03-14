@@ -1,0 +1,30 @@
+{
+  "course_id": "course-c5af1aac-5799-44c6-a5ca-ea6277644517",
+  "platform": "edx",
+  "title": "Quantitative Research Methods",
+  "description": "This course introduces the elements involved in the design of psychological research. To produce reliable, valid results that can be used to understand psychological processes, researchers must take great care in how they define and measure variables, how they sample groups of individuals from the populations of people or animals that they are interested in, how they control extraneous variables in the research setting, and myriad other factors. Psychologists can choose from an array of research designs, including observational, correlational, experimental, or quasi-experimental methods. And depending on the design, they must consider the many factors that affect the reliability of those observations and the validity of any conclusions that might be drawn from them. This course considers all these and many other aspects of psychological research. A large segment of this course is then devoted to issues related to how psychologists ensure that the research methods they employ are ethical. Everyone would agree that ethical considerations are one of the most important things researchers must think about when they plan their studies, but it’s also one of the most invisible in reports on psychological research. Any article that reports the results of a psychological study provides voluminous details about the methodology, about issues like sampling and validity, for instance, but little if any mention of the relevant ethical issues, even though there are ethical issues in play at every step of the process. Behind all the fascinating research in the psychological literature are rules, regulations, and expectations about how the people or animals we study will be treated, and about how the data we collect will be analyzed and reported. And behind all those standards are more general principles that have been established from grim experience that includes some of the worst things humans have ever done in the name of science, and other missteps that hindsight tells us we don’t want to repeat. In this course, we investigate that history and abstract from it those principles that now guide ethical decisions about how to do research. To what goals do those principles aspire? And what breaches are they meant to keep us from repeating?",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 2-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mike-stadler",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "American Psychological Association"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 670,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

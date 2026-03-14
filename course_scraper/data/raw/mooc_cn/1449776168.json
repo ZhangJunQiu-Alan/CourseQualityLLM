@@ -1,0 +1,31 @@
+{
+  "course_id": "1449776168",
+  "platform": "mooc_cn",
+  "title": "内燃机学",
+  "description": "内燃机学是汽车及内燃机工程专业的核心课程。主要供热力发动机专业本科生作为必修课程，也可供从事内燃机设计、制造和研究、开发的工程技术人员和热力发动机专业学生参考。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449776168",
+  "instructors": [
+    {
+      "name": "魏衍举;张英佳;张猛;汤成龙;席奂;王金华;李倩倩",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8252,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

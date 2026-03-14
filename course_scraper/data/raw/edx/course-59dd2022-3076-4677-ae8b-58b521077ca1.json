@@ -1,0 +1,33 @@
+{
+  "course_id": "course-59dd2022-3076-4677-ae8b-58b521077ca1",
+  "platform": "edx",
+  "title": "C++ Programming: Basic Skills",
+  "description": "Code and run your first C++ program in minutes without installing anything! \n This course is designed for learners with no coding experience, providing a solid foundation of not just C++, but core Computer Science topics that can be transferred to other languages. The modules in this course cover printing, operators, iteration (i.e., loops), selection (i.e., conditionals), and vectors (i.e. arrays). \n To allow for a truly hands-on, self-paced learning experience, this course is video-free. Assignments contain short explanations with images and runnable code examples with suggested edits to explore code examples further, building a deeper understanding by doing. You’ll benefit from instant feedback from a variety of assessment items along the way, gently progressing from quick understanding checks (multiple choice, fill in the blank, and un-scrambling code blocks) to small, approachable coding exercises that take minutes instead of hours.",
+  "learning_goals": [
+    "C++ (Programming Language)",
+    "Computer Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "anh-le",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Codio"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1434,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

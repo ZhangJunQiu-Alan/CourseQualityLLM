@@ -1,0 +1,26 @@
+{
+  "course_id": "-yrKg_gOEe6erQr_9IRNEQ",
+  "platform": "coursera",
+  "title": "Preprocessing Unstructured Data for LLM Applications",
+  "slug": "preprocessing-unstructured-data-for-llm-applications",
+  "description": "Enhancing a RAG system’s performance depends on efficiently processing diverse unstructured data sources. \n\nIn this course, you’ll learn techniques for representing all sorts of unstructured data, like text, images, and tables, from many different sources and implement them to extend your LLM RAG pipeline to include Excel, Word, PowerPoint, PDF, and EPUB files.\n\n\n1. How to preprocess data for your LLM application development, focusing on how to work with different document types.\n\n2. How to extract and normalize various documents into a common JSON format and enrich it with metadata to improve search results. \n\n3. Techniques for document image analysis, including layout detection and vision transformers, to extract and understand PDFs, images, and tables. \n\n4. How to build a RAG bot that is able to ingest different documents like PDFs, PowerPoints, and Markdown files.\n\nApply the skills you’ll learn in this course to real-world scenarios, enhancing your RAG application and expanding its versatility.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/preprocessing-unstructured-data-for-llm-applications",
+  "instructors": [
+    {
+      "name": "Matthew Robinson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "DeepLearning.AI"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

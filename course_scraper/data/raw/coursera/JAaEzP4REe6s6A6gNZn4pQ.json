@@ -1,0 +1,26 @@
+{
+  "course_id": "JAaEzP4REe6s6A6gNZn4pQ",
+  "platform": "coursera",
+  "title": "Core Java - Foundations",
+  "slug": "core-java-foundations",
+  "description": "Ready to start your coding career with one of the world's most versatile programming languages? Then this Core Java Foundations course is the ideal starting place. Designed for complete beginners, job changers, and ambitious developers, this hands-on course will take you from your first Java statement to confidently constructing object-oriented programs. \n\nThrough videos, real-world examples, and practical assignments, you'll get a solid understanding of Java syntax, variables, operators, conditionals, loops, and functions. However, this course goes beyond the fundamentals, delving into strong concepts such as inheritance, polymorphism, interfaces, exception handling, and memory management, all of which are used in real-world programming. \n\nYou'll also gain real-world experience with Java packages and designing reusable code, preparing you for more advanced subjects like Big Data, enterprise apps, and Android development. \n\nThis Core Java course will provide you with the solid foundation you need to excel in any programming environment, whether you're looking for a tech job, getting ready for job interviews, or just learning to code.  \n\nBy the end, Java will be more than just a language you learn; it will be a language you can speak. Enroll now.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 weeks of study, 3-6 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/core-java-foundations",
+  "instructors": [
+    {
+      "name": "LearnKartS",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LearnKartS"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

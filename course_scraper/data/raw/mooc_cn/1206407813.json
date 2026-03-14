@@ -1,0 +1,31 @@
+{
+  "course_id": "1206407813",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "本课程讲授线性代数课程的基本理论和方法。课程讲解细致、由浅入深，从几何观点出发，将抽象内容具体化；借助计算机动态演示，增加内容的直观性；添加了部分案例，使同学可以学以致用；考研专题可以帮助学生提高复习效率。本课程即适合初学者也适合需要提高综合能力的学习者。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206407813",
+  "instructors": [
+    {
+      "name": "申亚男;赵伟峰;刘会央;王丹龄;张丽静;徐尔;朱贝贝;张志刚;刘白羽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 40098,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

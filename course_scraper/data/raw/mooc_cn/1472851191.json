@@ -1,0 +1,31 @@
+{
+  "course_id": "1472851191",
+  "platform": "mooc_cn",
+  "title": "AI通识与AIGC赋能应用",
+  "description": "◆ AIGC技术已从“生成爆款网文、绘图作画”等趣味性应用，转为提升学生学习效率、表达能力和创新实践力的重要工具。◆ 本课程以“从新奇好玩走向实战有用”为主线，设计成六大项目任务。前三个项目聚焦AIGC在学习与创作中的实用能力，包括趋势研判、工具试用、个性化学习支持、文本与图像生成、视频制作等内容；后三个项目则侧重于AIGC在品牌运营、创新竞赛与智能体开发中的深度赋能，涵盖电商营销、创新大赛项目展示、产品3D建模以及智能交互应用开发等真实场景。    ◆  通过将理论学习与实战任务结合，学生将实现从“会用工具”到“创作成果”的转变，全面提升数字素养与未来竞争力。 ◆ 不要只停留在“好玩”，用AIGC点燃创意、激发创新、启航创业之路！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472851191",
+  "instructors": [
+    {
+      "name": "史荧中;段莉华;余婷婷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4582,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

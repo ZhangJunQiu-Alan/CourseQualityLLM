@@ -1,0 +1,31 @@
+{
+  "course_id": "a04Yvm5yEeys9RJMWW48Yw",
+  "platform": "coursera",
+  "title": "Supervised Text Classification for Marketing Analytics",
+  "slug": "supervised-text-classification-for-marketing-analytics",
+  "description": "Marketing data often requires categorization or labeling. In today’s age, marketing data can also be very big, or larger than what humans can reasonably tackle. In this course, students learn how to use supervised deep learning to train algorithms to tackle text classification tasks. Students walk through a conceptual overview of supervised machine learning and dive into real-world datasets through instructor-led tutorials in Python. The course concludes with a major project.\n\nThis course can be taken for academic credit as part of CU Boulder’s Master of Science in Data Science (MS-DS) degree offered on the Coursera platform. The MS-DS is an interdisciplinary degree that brings together faculty from CU Boulder’s departments of Applied Mathematics, Computer Science, Information Science, and others. With performance-based admissions and no application process, the MS-DS is ideal for individuals with a broad range of undergraduate education and/or professional experience in computer science, information science, mathematics, and statistics. Learn more about the MS-DS program at https://www.coursera.org/degrees/master-of-science-data-science-boulder.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/supervised-text-classification-for-marketing-analytics",
+  "instructors": [
+    {
+      "name": "Chris J. Vargo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Scott Bradley",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

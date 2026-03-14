@@ -1,0 +1,56 @@
+{
+  "course_id": "course-2cf301b9-caad-441b-a7bc-0d44c0429d06",
+  "platform": "edx",
+  "title": "AI in Practice: Preparing for AI",
+  "description": "This course is not about difficult algorithms and complex programming; it is a course for anyone interested in learning about the benefits and implications of AI when applied in practical settings. \n But is AI really suitable for all types of organizations? In this course we use concrete examples to illustrate how AI can be of value in both private as well as public organizations – no matter how large or small, simple or complex they may be. \n As one example we look at the Dutch National Police where the use of AI systems and techniques has helped remove the burden of routine administrative and operational tasks. AI helps in handling and processing large amounts of data, improves intake processes and investigation workflows and eases communication within the police and also deals with wider potential transparency and privacy issues. \n As part of our two-course program ‘AI in Practice’, this course will prepare you for the integration of AI in your organization by understanding what it can achieve and recognizing the potential implications, including compliance and ethical considerations. \n In the course we present a variety of case studies from public organizations, top Dutch universities and private enterprises in the financial, retail and publishing sectors such as ING, Ahold Delhaize and Elsevier. \n ‘AI in Practice – Preparing for AI’ gives you the ammunition to prepare for the many manifestations of artificial intelligence that we will be dealing with in the coming years and to understand the significance of this for the organization in which you work. \n  This course has been developed by Delft University of Technology and the Innovation Center for Artificial Intelligence Academy (ICAI). ICAI is a national initiative involving industry, universities and government in the area of AI research and applications.",
+  "learning_goals": [
+    "Algorithms",
+    "Ethics And Compliance",
+    "Innovation",
+    "Workflow Management",
+    "Artificial Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "marcel-worring",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "frank-van-harmelen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "arie-van-deursen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "maarten-de-rijke",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "luis-miranda-da-cruz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 827,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

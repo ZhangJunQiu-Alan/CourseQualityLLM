@@ -1,0 +1,31 @@
+{
+  "course_id": "1003041001",
+  "platform": "mooc_cn",
+  "title": "物理化学（上）",
+  "description": "欢迎大家来到湖南大学物理化学MOOC课程！物理化学作为四大化学的基础，为我们理解化学过程这一“黑匣子”提供了实用工具。在此，我们将挖掘隐藏在物理化学中的“金钥匙”，逐一破解化学过程中的“黑匣子”。欢迎大家和我们一起寻找“金钥匙”！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003041001",
+  "instructors": [
+    {
+      "name": "梁宵;李素芳;王双印;余刚;霍甲;李永军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22112,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

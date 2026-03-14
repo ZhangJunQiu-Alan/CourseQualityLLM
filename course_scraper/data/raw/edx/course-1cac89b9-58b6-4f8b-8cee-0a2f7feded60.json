@@ -1,0 +1,36 @@
+{
+  "course_id": "course-1cac89b9-58b6-4f8b-8cee-0a2f7feded60",
+  "platform": "edx",
+  "title": "Introduction to Analytics Modeling",
+  "description": "Analytical models are key to understanding data, generating predictions, and making business decisions. Without models it’s nearly impossible to gain insights from data. In modeling, it’s essential to understand how to choose the right data sets, algorithms, techniques and formats to solve a particular business problem. \n In this course, part of the Analytics: Essential Tools and Methods MicroMasters program, you’ll gain an intuitive understanding of fundamental models and methods of analytics and practice how to implement them using common industry tools like R. \n You’ll learn about analytics modeling and how to choose the right approach from among the wide range of options in your toolbox. \n You will learn how to use statistical models and machine learning as well as models for: \n \n classification; \n clustering; \n change detection; \n data smoothing; \n validation; \n prediction; \n optimization; \n experimentation; \n decision making.",
+  "learning_goals": [
+    "Machine Learning",
+    "Algorithms",
+    "Statistical Modeling",
+    "Forecasting",
+    "R (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "16 周，每周 8-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joel-sokol",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 814,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

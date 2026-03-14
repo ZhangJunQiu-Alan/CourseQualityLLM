@@ -1,0 +1,26 @@
+{
+  "course_id": "Idubo3QKEe-CUA7-5BJkaw",
+  "platform": "coursera",
+  "title": "Deploying a Multi-Cluster Gateway Across GKE Clusters",
+  "slug": "googlecloud-deploying-a-multi-cluster-gateway-across-gke-clusters-sul8j",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. Learn how to enable, use, and deploy the multi-cluster Google Kubernetes Engine (GKE) Gateway controller",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-deploying-a-multi-cluster-gateway-across-gke-clusters-sul8j",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206673802",
+  "platform": "mooc_cn",
+  "title": "电路分析基础",
+  "description": "本课程为涉电类专业重要的技术基础课程，为后续专业课程和科研实践提供必备知识、奠定坚实基础。通过学习，掌握直流交流电路、非正弦线性电路以及动态电路的稳态和暂态分析方法。课程学习的过程是一个发现电路之美、感受电路之趣、学习电路之用的过程，兴趣得以激发，能力得以培养。面对新工科要求，从知识点的介绍、经典例题解析、综合应用拓展诸方面展示电路分析之魅力，强化概念、夯实基础、科学思维、灵活运用，在掌握基本电路原理的基础上引领同学懂分析、能计算、勤思辨、擅应用，可以充分满足不同学员（如高校学生、考研考生、社会进修人士等）多层次学习需求。热忱欢迎您的到来！请您跟随MOOC课程开启电路的快乐学习之旅！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206673802",
+  "instructors": [
+    {
+      "name": "孙盾;张孝通;姚缨英;童梅;范承志;李玉玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 40926,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

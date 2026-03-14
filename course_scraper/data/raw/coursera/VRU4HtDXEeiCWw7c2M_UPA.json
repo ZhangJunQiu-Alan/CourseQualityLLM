@@ -1,0 +1,26 @@
+{
+  "course_id": "VRU4HtDXEeiCWw7c2M_UPA",
+  "platform": "coursera",
+  "title": "Computational Thinking for K-12 Educators: Nested If Statements and Compound Conditionals ",
+  "slug": "block-programming-k12-educators-nested-if-statement-compound-conditionals",
+  "description": "How could you program a complex \"choose your own adventure\" game?  How can your soccer game determine goals, balls out of bounds, and corner kicks?  You'll learn to do both of these in this course!\n\nThis class teaches the concepts of nested if/else statements and compound Boolean conditional expressions.  For each concept, we'll start by helping you connect real-world experiences you are already familiar with to the programming concept you are about to learn.  Next, through a cognitively scaffolded process we'll engage you in developing your fluency with problem solving with nested if/else statements and compound conditionals in a way that keeps frustration at a minimum.  \n\nAlong the way you will learn about the common challenges or \"bugs\" students have with these concepts as well as ways to help them find and fix those concepts.  You'll also be guided in running classroom discussions to help students develop deeper understanding of these concepts.\n\nFinally, you'll prepare classroom resources to help your students to develop debugging skills.  Additionally, you will create resources to help educate your students about the impacts of lack of equity in K-12 CS instruction.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "5 weeks of study, 2-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/block-programming-k12-educators-nested-if-statement-compound-conditionals",
+  "instructors": [
+    {
+      "name": "Beth Simon",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of California San Diego"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

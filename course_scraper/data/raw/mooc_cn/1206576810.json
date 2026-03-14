@@ -1,0 +1,31 @@
+{
+  "course_id": "1206576810",
+  "platform": "mooc_cn",
+  "title": "土力学",
+  "description": "土力学是土木工程等相关专业的重要基础课程之一，它研究土的形成、组成、结构、物理性质、土体渗流、土的压缩、固结和强度等，是力学的一个分支，是以土为研究对象的学科。通过本课程的学习，学生能掌握土力学的相关基础知识，为将来从事岩土工程领域相关工作打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206576810",
+  "instructors": [
+    {
+      "name": "龚晓南;曹志刚;詹良通;胡安峰;董梅;应宏伟;洪义",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 37555,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

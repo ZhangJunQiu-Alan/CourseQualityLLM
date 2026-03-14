@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753416",
+  "platform": "mooc_cn",
+  "title": "现代管理科学基础",
+  "description": "《现代管理科学基础》是面向非管理专业的社会人士和高校学生开设的一门普及企业管理知识的通识性课程。课程主要介绍企业管理的各项工作，包括企业战略管理、生产管理、人力资源管理、财务管理等管理实践，以及这些实践的最新进展。通过课程的学习，帮助学习者更深入地了解管理的各项工作，学会从管理的角度来分析和解决工作中的问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753416",
+  "instructors": [
+    {
+      "name": "刘宁;葛伟;赵尔曼;林萍;孙霄凌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 39008,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

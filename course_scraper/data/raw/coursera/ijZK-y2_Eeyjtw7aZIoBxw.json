@@ -1,0 +1,26 @@
+{
+  "course_id": "ijZK-y2_Eeyjtw7aZIoBxw",
+  "platform": "coursera",
+  "title": "Análisis visual con Tableau",
+  "slug": "anlisis-visual-con-tableau",
+  "description": "En este curso profundizaremos en las herramientas que ofrece Tableau en las áreas de gráficos, fechas, cálculos de tablas y realización de mapas. Exploraremos las mejores opciones para gráficos, según el tipo de datos que esté utilizando. Examinaremos tipos específicos de gráficos, incluidos diagramas de dispersión, diagramas de Gantt, histogramas, diagramas de viñetas, y abordaremos las pautas de creación de gráficos. Definiremos fechas discretas y continuas, y examinaremos cuándo usar cada una para explicar sus datos. Aprenderemos a crear cálculos de tabla personalizados y a crear parámetros. También presentaremos la cartografía y exploraremos cómo Tableau puede usar diferentes tipos de datos geográficos, cómo conectarse a múltiples fuentes de datos y cómo crear mapas personalizados.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/anlisis-visual-con-tableau",
+  "instructors": [
+    {
+      "name": "Nestor Coppolillo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Austral"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

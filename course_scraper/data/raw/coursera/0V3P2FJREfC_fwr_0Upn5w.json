@@ -1,0 +1,26 @@
+{
+  "course_id": "0V3P2FJREfC_fwr_0Upn5w",
+  "platform": "coursera",
+  "title": "Advanced Git Features",
+  "slug": "advanced-git-features",
+  "description": "Take your Git expertise to the next level with Advanced Concepts of Git — a course built for learners who already understand Git basics and are ready to explore its full potential. From diving into Git’s internal architecture to mastering branching strategies, rebasing, and automation, this course equips you with advanced skills to handle complex version control challenges.\n\nYou’ll learn how to recover lost commits, rewrite history, manage submodules, and optimize collaboration in large teams or open-source projects. With a strong focus on problem-solving, clean workflows, and secure practices, this course ensures you can confidently manage real-world projects at scale.\n\nBy the end of this course, you will be able to:\n- Analyze Git’s internal architecture, including objects, references, and repository structure.\n- Apply advanced history management techniques such as reflog, stashing, bisecting, and patching.\n- Implement effective branching strategies, rebasing, and commit history rewriting for cleaner workflows.\n- Utilize advanced commands like cherry-pick, reset, and revert to manage changes effectively.\n\nThis course is ideal for:\n- Developers and engineers who have mastered Git fundamentals and want to level up to advanced workflows.\n- Team leads and project managers managing large, distributed development teams.\n- Open-source contributors seeking to handle complex pull requests and collaboration challenges.\n- DevOps and automation specialists who want to integrate Git into CI/CD pipelines.\n\nNote: Prior experience with Git fundamentals (repositories, commits, branching, and merging) is strongly recommended before taking this course.\n\nDisclaimer: This is an independent educational resource created by Board Infinity for informational and educational purposes only. This course is not affiliated with, endorsed by, sponsored by, or officially associated with any company, organization, or certification body unless explicitly stated. The content provided is based on industry knowledge and best practices but does not constitute official training material for any specific employer or certification program. All company names, trademarks, service marks, and logos referenced are the property of their respective owners and are used solely for educational identification and comparison purposes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 Weeks of Study,  4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-git-features",
+  "instructors": [
+    {
+      "name": "Board Infinity",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Board Infinity "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

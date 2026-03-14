@@ -1,0 +1,31 @@
+{
+  "course_id": "1465576166",
+  "platform": "mooc_cn",
+  "title": "数据库技术及应用",
+  "description": "数据库技术及应用课程是数据库技术的入门课程。该课程以MS Office中的Access数据库管理系统为平台，进行数据库、数据表、查询、窗体、报表和宏的创建、设计及应用，从而实现对数据的管理。Access采用可视化编程技术和面向对象的事件驱动编程机制，可快速开发小型数据库应用系统，易学易用。让我们一起开启数据库旅行吧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465576166",
+  "instructors": [
+    {
+      "name": "庄玉册",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "信阳学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16577,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

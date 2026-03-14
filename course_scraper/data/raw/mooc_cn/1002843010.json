@@ -1,0 +1,31 @@
+{
+  "course_id": "1002843010",
+  "platform": "mooc_cn",
+  "title": "电工与电子技术实验",
+  "description": "科学实验是推动自然科学技术强有力的手段，理论的突破离不开无数次实验的验证和探索。本课程将带你从最基础的电路、电子、电器入手，学习探讨用实验的方法验证电工电子技术理论，探索电子世界的奥妙。在这里，你将逐步具备工程师的素养，将拥有丰富的电子技术实验技能，不断地探索电子世界！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002843010",
+  "instructors": [
+    {
+      "name": "马玲;高玄怡;齐春东;王勇;韩力",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 51219,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

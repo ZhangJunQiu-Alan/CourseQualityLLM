@@ -1,0 +1,26 @@
+{
+  "course_id": "s1gz8mR0Ee6C8Aq3MM882w",
+  "platform": "coursera",
+  "title": "Learn Bootstrap",
+  "slug": "learn-bootstrap",
+  "description": "This instructional course guides you through the essential knowledge required to build comprehensive websites using Bootstrap v4. Bootstrap is an open-source front-end framework designed for responsive development, prioritizing mobile-first websites and web applications. The Scrimba course offers interactive code engagement within tutorials, providing an opportunity to reinforce concepts as you learn.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/learn-bootstrap",
+  "instructors": [
+    {
+      "name": "Per Harald Borgen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Scrimba"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

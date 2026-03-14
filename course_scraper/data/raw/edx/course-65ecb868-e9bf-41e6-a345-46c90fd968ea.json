@@ -1,0 +1,39 @@
+{
+  "course_id": "course-65ecb868-e9bf-41e6-a345-46c90fd968ea",
+  "platform": "edx",
+  "title": "Introduction to Prompt Engineering",
+  "description": "As generative AI ( GenAI) reshapes how we work and complete our tasks, understanding how to use it effectively is now essential. Writing effective prompts is key to directing GenAI models correctly and refining their output to get the results you’re looking for.   \n This course enables professionals, executives, students, and AI enthusiasts to master prompt engineering and unlock the extraordinary power of tools like ChatGPT .   \n You’ll  learn practical techniques, structured methods, and best practices for crafting strong prompts. You’ll explore zero-shot and few-shot prompting to boost reliability and output quality. Plus, you’ll look at advanced methods such as the Interview Pattern, Chain-of-Thought, and Tree-of-Thought to produce accurate, context-aware responses.   \n You’ll  get hands-on in labs and projects, gaining practical experience in multimodal prompting, the playoff method, and image generation. You’ll also practice blending text and visuals and evaluating AI outputs for precision and usefulness.   \n As you learn, podcasts, dialogues, and discussions will link theory to real-world scenarios, and expert insights will highlight strategies for effective prompt use. Then, in a final project and graded assessments,  you’ll apply the techniques you’ve learned to reinforce the practical, job-ready skills you have gained.   \n Enroll  today to master prompt engineering and unlock the extraordinary potential that GenAI can bring to your work.",
+  "learning_goals": [
+    "Podcasting",
+    "Image Generation",
+    "Artificial Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "antonio-cangiano",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4603,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

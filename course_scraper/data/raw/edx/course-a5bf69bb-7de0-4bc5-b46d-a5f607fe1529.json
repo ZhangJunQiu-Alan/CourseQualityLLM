@@ -1,0 +1,35 @@
+{
+  "course_id": "course-a5bf69bb-7de0-4bc5-b46d-a5f607fe1529",
+  "platform": "edx",
+  "title": "Database Design and Basic SQL in PostgreSQL",
+  "description": "In this course you will learn more about the historical design of databases and the use of SQL in the PostgreSQL environment. Using SQL techniques and common commands (INSERT INTO, WHERE, ORDER BY, ON DELETE CASCADE, etc) will enable you to create tables, column types and define the schema of your data in PostgreSQL. You will learn about data modeling and how to represent one-to-many and many-to-many relationships in PostgreSQL. Students will do hands-on assignments creating tables, inserting data, designing data models, creating relational structures and inserting and querying relational data in tables.",
+  "learning_goals": [
+    "PostgreSQL",
+    "SQL (Programming Language)",
+    "Database Design",
+    "PL/SQL"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "charles-severance",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Michigan"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 354,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

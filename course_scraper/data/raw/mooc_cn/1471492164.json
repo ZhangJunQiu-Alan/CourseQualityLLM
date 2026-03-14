@@ -1,0 +1,31 @@
+{
+  "course_id": "1471492164",
+  "platform": "mooc_cn",
+  "title": "热质交换原理与设备",
+  "description": "在自然界和工程技术领域中，动量、热量和质量的传递现象是普遍存在的，而且动量、热量和质量的传递规律具有高度相似性和耦合性，《热质交换原理与设备》课程重点研究发生在建筑设备、化工及能源工程领域里的动量、热量和质量的传递现象，探讨传递的规律，用以指导实际工程应用。学习本课程有利于理解上述三种传递过程的机理及其内在联系，能够利用上述三种传递规律解决这些工程领域中设计开发、设备选型及复杂工程问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471492164",
+  "instructors": [
+    {
+      "name": "吴静;曾月;刘昱;李庆华;邹思凯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 535,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

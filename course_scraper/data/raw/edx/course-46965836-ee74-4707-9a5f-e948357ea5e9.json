@@ -1,0 +1,41 @@
+{
+  "course_id": "course-46965836-ee74-4707-9a5f-e948357ea5e9",
+  "platform": "edx",
+  "title": "Data Processing and Analysis with Excel",
+  "description": "In this course, you will learn how to organize your data within the Microsoft Office Excel software tool. Once organized, we will discuss data cleaning. You will learn how to identify outliers and anomalies in the data, and how to identify and change data-types. Together we will develop a data analysis plan, after which we will apply analysis methods and tools, including exploratory analysis, evaluation of results, and comparison with other findings. \n In this robust Excel course, you will gain a solid foundation in using advanced Excel functions such as pivot tables and vlookup to organize and analyze data sets. You will be able to create an Excel chart in a variety of chart types including scatter plot, pie charts, and more. We’ll discuss various techniques such as descriptive statistics, and review the variety of Excel add-ins available to use this powerful tool to organize, analyze, and transform your data into actionable insights. All course activities are designed and demonstrated using Windows OS and Microsoft Excel 2016.",
+  "learning_goals": [
+    "Vlookups",
+    "Descriptive Statistics",
+    "Data Analysis",
+    "Microsoft Excel",
+    "Data Processing",
+    "Outliers",
+    "Pivot Tables And Charts",
+    "Scatter Plots",
+    "Data Cleansing",
+    "Lookup Tables"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "michael-long",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Rochester Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 642,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

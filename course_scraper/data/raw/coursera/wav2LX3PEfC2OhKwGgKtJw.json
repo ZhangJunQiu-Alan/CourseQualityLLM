@@ -1,0 +1,31 @@
+{
+  "course_id": "wav2LX3PEfC2OhKwGgKtJw",
+  "platform": "coursera",
+  "title": "Data Science Fundamentals Part 1: Unit 2",
+  "slug": "pearson-data-science-fundamentals-part-1-learning-basic-concepts-data-wran-weavw",
+  "description": "This course dives into real-world data sourcing, including making web requests, web scraping, and integrating diverse data types from APIs, files, and databases.  You'll learn to parse and structure data in formats like XML and JSON, and leverage object-oriented programming to create robust data models. By the end of the course, you’ll be equipped to efficiently acquire, transform, and prepare data for advanced analysis.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "Less than two week.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-data-science-fundamentals-part-1-learning-basic-concepts-data-wran-weavw",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Jonathan Dinu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

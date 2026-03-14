@@ -1,0 +1,26 @@
+{
+  "course_id": "tGLtWKksEeywagovoAKHOQ",
+  "platform": "coursera",
+  "title": "Troubleshooting and Solving Data Join Pitfalls",
+  "slug": "googlecloud-troubleshooting-and-solving-data-join-pitfalls-ukiqz",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. This lab focuses on how to reverse-engineer the relationships between data tables and the pitfalls to avoid when joining them together.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-troubleshooting-and-solving-data-join-pitfalls-ukiqz",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

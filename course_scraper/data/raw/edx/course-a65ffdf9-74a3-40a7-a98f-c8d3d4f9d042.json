@@ -1,0 +1,33 @@
+{
+  "course_id": "course-a65ffdf9-74a3-40a7-a98f-c8d3d4f9d042",
+  "platform": "edx",
+  "title": "GenAI for Executives & Business Leaders: An Introduction",
+  "description": "The Generative AI for Executives and Business Leaders, presented by IBM AI Academy, explores topics and assets that span three core learning areas: strategic essentials, key elements for enterprise AI, and how to put AI to work.    \n This course is designed for executives and business leaders. In addition, line of business leaders and practitioners curious about the rapidly developing field of generative AI and its capabilities across industries and domains can benefit by taking the course.",
+  "learning_goals": [
+    "Artificial Intelligence",
+    "Curiosity"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ibm-ai-academy",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 669,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

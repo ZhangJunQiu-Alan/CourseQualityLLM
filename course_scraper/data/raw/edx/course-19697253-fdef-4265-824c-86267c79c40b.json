@@ -1,0 +1,48 @@
+{
+  "course_id": "course-19697253-fdef-4265-824c-86267c79c40b",
+  "platform": "edx",
+  "title": "Global Health Case Studies from a Biosocial Perspective",
+  "description": "This introductory global health course aims to frame global health's collection of problems and actions within a particular biosocial perspective. It develops a toolkit of interdisciplinary analytical approaches and uses them to examine historical and contemporary global health initiatives with careful attention to a critical sociology of knowledge. Four physician-anthropologists - Paul Farmer, Arthur Kleinman, Anne Becker, and Salmaan Keshavjee - draw on experience working in Asia, Africa, Eastern Europe, and the Americas to investigate what the field of global health comprises, how global health problems are defined and constructed, and how global health interventions play out in both expected and unexpected ways. \n The course seeks to inspire and teach the following principles: \n A global awareness. This course aims to enable learners to recognize the role of distinctive traditions, governments, and histories in shaping health and well being. In addition, rather than framing a faceless mass of poor populations as the subject of global health initiatives, the course uses ethnographies and case studies to situate global health problems in relation to the lives of individuals, families, and communities. \n A foundation in social and historical analysis. The course demonstrates the value of social theory and historical analysis in understanding health and illness at individual and societal levels. \n An ethical engagement. Throughout the course, learners will be asked to critically evaluate the ethical frameworks that have underpinned historical and contemporary engagement in global health. Learners will be pushed to consider the moral questions of inequality and suffering as well as to critically evaluate various ethical frameworks that motivate and structure attempts to redress these inequities. \n A sense of inspiration and possibility. While the overwhelming challenges of global health could all too easily engender cynicism, passivity, and helplessness, learners will observe that no matter how complex the field of global health and no matter how steep the challenges, it is possible to design, implement, and foster programs and policies that make enormous positive change in the lives of the world’s poorest and suffering people.",
+  "learning_goals": [
+    "Sociology",
+    "Social Theories"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "12 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "arthur-kleinman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "paul-farmer",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "anne-becker",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "salmaan-keshavjee",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2834,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

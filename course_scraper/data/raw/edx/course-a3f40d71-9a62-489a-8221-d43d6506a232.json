@@ -1,0 +1,51 @@
+{
+  "course_id": "course-a3f40d71-9a62-489a-8221-d43d6506a232",
+  "platform": "edx",
+  "title": "Basic Spanish 2: One Step Further",
+  "description": "¡Bienvenidos y bienvenidas! (Welcome!) In this Spanish course, you will learn basic vocabulary to talk about yourself and your everyday life, in the present and in the past, in simple and brief communication situations, as well as about plans for an immediate future. At the end of the course you will be able to communicate in everyday situations according to the A1 proficiency level as described in the Common European Framework of Reference for Languages (CEFRL, Council of Europe). \n The course, which is designed for English speakers, offers a variety of exercises after going through the stages of content presentation, comprehension and production. You have videos, small texts and audios to improve your pronunciation, glossaries, activities for oral practice with other course students, quizzes, grammar cards and recommendations on external Internet resources to continue learning more and more Spanish. \n The topics on which the activities revolve are work life, family life, city life and outdoor life. As you can see, a bit of everything to be able talk about yourself and to engage in everyday communication. \n We hope you like our menu. ¡Buen provecho! (Bon appétit!)",
+  "learning_goals": [
+    "Vocabulary",
+    "Pronunciation",
+    "Spanish Language",
+    "Communications",
+    "Grammar"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "prof-ana-gimeno",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dra-virginia-gonzalez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ms-cristina-navarro",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "begona-garcia-migura",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1349,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

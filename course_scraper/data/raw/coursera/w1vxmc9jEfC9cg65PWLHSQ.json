@@ -1,0 +1,26 @@
+{
+  "course_id": "w1vxmc9jEfC9cg65PWLHSQ",
+  "platform": "coursera",
+  "title": "Validate Multimodal Data: Ensure Quality",
+  "slug": "validate-multimodal-data-ensure-quality",
+  "description": "Did you know that 90% of multimodal AI system failures can be traced back to data quality issues that could have been prevented with proper validation techniques?  \n\nThis Short Course was created to help machine learning and AI professionals accomplish systematic multimodal data validation that ensures system reliability and performance.\n\nBy completing this course, you'll be able to implement robust validation frameworks that catch data integrity issues before they impact your AI models, saving countless hours of debugging and improving system accuracy.\n\nBy the end of this course, you will be able to:\nEvaluate multimodal data for consistency and completeness\nVerify temporal alignment between different data streams\nCheck referential consistency across modalities\nAssess completeness of multimodal records\nImplement automated validation pipelines\n\nThis course is unique because it combines theoretical validation principles with hands-on implementation using industry-standard tools like Great Expectations, giving you immediately applicable skills for production environments.\n\nTo be successful in this project, you should have a background in data engineering, basic machine learning concepts, and familiarity with Python programming.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "97 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/validate-multimodal-data-ensure-quality",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

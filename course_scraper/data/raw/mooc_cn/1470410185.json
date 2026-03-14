@@ -1,0 +1,31 @@
+{
+  "course_id": "1470410185",
+  "platform": "mooc_cn",
+  "title": "Wireless Communications(无线通信)",
+  "description": "Wireless communication is a dynamic and vibrant area in the communication industry in the past decades, and wireless communications become an important course for students and engineers specialized in telecommunication engineering. In this course, we focus on the fundamental of wireless communications, including the wireless channel, the problems it might bring and techniques to overcome them. We also give an example to show how a simple cellular communication system works. 无线通信是过去几十年来通信行业中一个充满活力的领域，无线通信也成为通信工程、信息工程以及电子信息类专业学生和工程师的重要课程。在本课程中，我们将重点讲清楚无线通信原理，包括无线信道、无线信道带来的问题和挑战以及克服这些问题的技术。我们还将通过一个例子展示一个无线系统是如何工作的。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470410185",
+  "instructors": [
+    {
+      "name": "郭洁;田斌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 945,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

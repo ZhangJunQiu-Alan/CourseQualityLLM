@@ -1,0 +1,31 @@
+{
+  "course_id": "1454487178",
+  "platform": "mooc_cn",
+  "title": "C/C++语言程序设计",
+  "description": "本课程以丰富有趣的案例教学为主线，由浅入深地引导初学者循序渐进地编写规模逐步增大的程序，并通过迷宫行走游戏、银行账户管理系统这两个实战项目进行分解教学，使得学习者最终能够独立完成综合性、设计性的项目，更好的培养学习者的计算思维能力和编程解决复杂问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1454487178",
+  "instructors": [
+    {
+      "name": "李小霞;赵良;章英;李嘉位;汪毅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10600,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

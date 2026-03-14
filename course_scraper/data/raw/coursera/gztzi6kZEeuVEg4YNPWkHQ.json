@@ -1,0 +1,26 @@
+{
+  "course_id": "gztzi6kZEeuVEg4YNPWkHQ",
+  "platform": "coursera",
+  "title": "Learn Angular Routing by building a Cocktails Application",
+  "slug": "angular-routing",
+  "description": "In this 2-hours long project-based course, you will build an Angular application that uses a real API to fetch and display cocktail recipes. You will master the basics of Angular routing, authorization and lazy loading NgModules.\n\nYou need some basic understanding of Angular before going into this course. We recommend checking out the Angular 101 Guided project - https://www.coursera.org/learn/angular-101/.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "3.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/angular-routing",
+  "instructors": [
+    {
+      "name": "Stanimira Vlaeva",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

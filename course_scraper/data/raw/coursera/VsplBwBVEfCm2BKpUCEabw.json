@@ -1,0 +1,26 @@
+{
+  "course_id": "VsplBwBVEfCm2BKpUCEabw",
+  "platform": "coursera",
+  "title": "Authentication, E-Commerce Features & Order Management",
+  "slug": "packt-authentication-e-commerce-features-order-management-hjj1v",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course offers a comprehensive guide to building secure, interactive e-commerce platforms using .NET Core. You will learn how to implement authentication systems, such as user registration and role-based access control, ensuring secure customer and company interactions. By the end, you'll also gain proficiency in adding dynamic shopping cart features, order confirmation processes, and efficient order management systems.\n\nThe course begins with foundational topics such as building and designing the homepage of an e-commerce site, and the critical steps of implementing product details pages. You will dive deep into scaffolding Identity in .NET Core and configuring user authentication, including advanced topics such as user role creation, extending user properties, and troubleshooting common UI bugs.\n\nAs the course progresses, you'll learn to build essential features such as a shopping cart, order management systems, and payment integrations using Stripe. You will develop practical skills by working on projects involving shopping cart updates, order summary creation, and order status management. Each lesson walks you through critical technical steps to ensure a seamless user experience and a robust back-end.\n\nDesigned for both newcomers and those familiar with .NET Core, this course provides step-by-step guidance to integrate and refine e-commerce features. The course is ideal for developers who wish to specialize in e-commerce site management, order processing, and secure user authentication using modern frameworks.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-authentication-e-commerce-features-order-management-hjj1v",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

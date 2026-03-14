@@ -1,0 +1,26 @@
+{
+  "course_id": "eszfwRgoEe-ufw7mfnZipw",
+  "platform": "coursera",
+  "title": "Automate R scripts with GitHub Actions: Deploy a model",
+  "slug": "automate-r-scripts-with-github-actions-deploy-a-model",
+  "description": "Did you know you can automate R scripts to facilitate model deployment and enhance workflow efficiency in healthcare analytics? \n\nThis Guided Project is designed for data scientists, healthcare analysts, and professionals in healthcare technology who want to harness the power of automation in R.  In this 2-hour project-based course, you will learn how to deploy a machine learning model using R programming language and GitHub Actions, enabling seamless integration and automation of predictive tasks. To support the model deployment, you will also automate access to data in Google Sheets and send automated emails through a Google Service Account. \n\nTo achieve this, you will use a readmission model, write an R script for prediction, configure Google Sheets, Gmail, and GitHub Actions for automation, and deliver actionable insights for healthcare providers. This project is unique because it combines technical skills with real-world applications, preparing you to tackle complex challenges in data analytics.\n\nPrior knowledge in R programming, including data manipulation (using the dplyr and tidyr packages), programming concepts (functions and control structures), GitHub repositories for code management, and basic command line use is recommended to maximize your learning experience.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/automate-r-scripts-with-github-actions-deploy-a-model",
+  "instructors": [
+    {
+      "name": "Arimoro Olayinka Imisioluwa",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

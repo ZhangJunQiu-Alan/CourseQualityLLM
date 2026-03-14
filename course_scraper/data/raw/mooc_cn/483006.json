@@ -1,0 +1,31 @@
+{
+  "course_id": "483006",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "大千世界就是一个信号的世界，一个个系统各司其职，又紧密配合，你想探寻其奥秘吗？那就跟随西安电子科技大学的郭宝龙教授，来学习“信号与系统”课程，他将带领大家领略信息处理技术的神奇魅力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/483006",
+  "instructors": [
+    {
+      "name": "朱娟娟;郭宝龙",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 285722,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

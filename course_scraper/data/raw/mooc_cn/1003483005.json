@@ -1,0 +1,31 @@
+{
+  "course_id": "1003483005",
+  "platform": "mooc_cn",
+  "title": "传染病防治与健康",
+  "description": "传染病防治与健康课程是面向医学生与非医学生的科普性教学课程，采用图文并茂的形式介绍了包括病毒性肝炎、艾滋病、结核、流感、幽门螺杆菌感染等多种常见传染性疾病的流行特征、临床特点、预防措施、治疗原则等相关知识，帮助学生们提升传染病防治理念，降低传染病的公共危害。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003483005",
+  "instructors": [
+    {
+      "name": "白浪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48501,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

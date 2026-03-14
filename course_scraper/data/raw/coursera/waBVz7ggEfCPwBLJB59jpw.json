@@ -1,0 +1,26 @@
+{
+  "course_id": "waBVz7ggEfCPwBLJB59jpw",
+  "platform": "coursera",
+  "title": "Securing Industrial Control and Safety Instrumented Systems",
+  "slug": "packt-securing-industrial-and-safety-instrumented-systems",
+  "description": "Industrial Control Systems (ICS) and Safety Instrumented Systems (SIS) form the backbone of critical infrastructure, where safety and reliability are paramount. This course provides a comprehensive understanding of how to secure these mission-critical systems against modern cyber threats, emphasizing both protection and operational continuity in industrial environments.\n\nThrough structured modules, learners will explore key security frameworks, architectural designs, and risk management strategies tailored for industrial environments. You’ll gain practical skills to implement defense-in-depth strategies, mitigate vulnerabilities, and ensure compliance with standards like ISA/IEC 62443.\n\nUnlike traditional cybersecurity courses, this course bridges the gap between theory and real-world application by integrating safety protocols, incident analysis, and case studies from real industrial scenarios. The learning path follows the full systems lifecycle—from architecture and design to operation and maintenance.\n\nThis course is ideal for cybersecurity and functional safety professionals, engineers, managers, and consultants involved in safeguarding industrial operations. A foundational understanding of cybersecurity and safety principles will enhance learning outcomes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-securing-industrial-and-safety-instrumented-systems",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

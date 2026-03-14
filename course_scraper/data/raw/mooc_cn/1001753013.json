@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753013",
+  "platform": "mooc_cn",
+  "title": "花卉学",
+  "description": "国家一流本科课程（线上）—花卉学，是园林国家一流本科专业和江苏省品牌专业的核心课程，由全国林业教学名师和江苏省教学名师田如男教授领衔、江苏高校“青蓝工程”优秀教学团队主讲。欢迎大家走进花卉学课堂！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753013",
+  "instructors": [
+    {
+      "name": "田如男;杨秀莲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24947,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

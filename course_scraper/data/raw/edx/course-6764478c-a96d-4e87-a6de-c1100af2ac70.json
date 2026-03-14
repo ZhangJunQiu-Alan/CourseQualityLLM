@@ -1,0 +1,53 @@
+{
+  "course_id": "course-6764478c-a96d-4e87-a6de-c1100af2ac70",
+  "platform": "edx",
+  "title": "Introduction to Astrophysics",
+  "description": "How can we study the Universe we live in using the only available information it provides us with: light ? \n This course provides an overview of the physical phenomena at play in the astronomical objects surrounding us, from planets and stars to the cosmic filaments, from galaxies such as our own Milky Way to large galaxy clusters. The course emphasizes the links between theoretical predictions and observations. \n In this course, you will learn the basics of astrophysics using simplified mathematical developments. In particular, you will learn the role played by gravity in astrophysics, including gravitational lensing, and how matter and radiation interact. The material in this course is essential to follow more advanced astrophysics courses.",
+  "learning_goals": [
+    "Forecasting",
+    "Astrophysics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "frederic-courbin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "vivien-bonvin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "thibault-kuntzer",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "pierre-north",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "yves-revaz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "École polytechnique fédérale de Lausanne"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1602,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

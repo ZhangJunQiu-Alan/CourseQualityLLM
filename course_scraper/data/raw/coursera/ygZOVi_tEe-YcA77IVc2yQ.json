@@ -1,0 +1,26 @@
+{
+  "course_id": "ygZOVi_tEe-YcA77IVc2yQ",
+  "platform": "coursera",
+  "title": "Gemini for Security Engineers - Português Brasileiro",
+  "slug": "gemini-for-security-engineers-ptbr",
+  "description": "Neste curso, você vai entender como o Gemini, um colaborador com tecnologia de IA generativa do Google Cloud, ajuda a proteger seu ambiente e recursos de nuvem. Você vai aprender a implantar exemplos de cargas de trabalho em um ambiente no Google Cloud, identificar e corrigir configurações incorretas de segurança com o Gemini. No laboratório prático, você vai aprender como o Gemini aprimora sua postura de segurança na nuvem.\n\nA Duet AI agora é o Gemini, nosso modelo de última geração.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "pt-BR",
+  "url": "https://www.coursera.org/learn/gemini-for-security-engineers-ptbr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

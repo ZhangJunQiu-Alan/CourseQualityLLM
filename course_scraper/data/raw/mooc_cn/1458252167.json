@@ -1,0 +1,31 @@
+{
+  "course_id": "1458252167",
+  "platform": "mooc_cn",
+  "title": "Electrotechnics Ⅰ (Electrical Technology)",
+  "description": "Electrotechnics is an important fundamental engineering course for majors not related to electricity in colleges and universities. Electrotechnics involves the basic contents of electrical engineering, electronic information engineering, control engineering and many other fields.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458252167",
+  "instructors": [
+    {
+      "name": "Yunhong LIU;wangning",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dalian University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 343,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

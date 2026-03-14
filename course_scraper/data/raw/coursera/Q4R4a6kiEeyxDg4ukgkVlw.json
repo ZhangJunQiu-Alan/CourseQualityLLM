@@ -1,0 +1,26 @@
+{
+  "course_id": "Q4R4a6kiEeyxDg4ukgkVlw",
+  "platform": "coursera",
+  "title": "Compute Engine: Qwik Start - Windows",
+  "slug": "googlecloud-compute-engine-qwik-start-windows-5jkcv",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. Google Compute Engine lets you create and run virtual machines on Google infrastructure. In this lab you create a Windows Server instance in the Google Compute Engine and access it with RDP. Watch a short preview, Launch a Windows Server Instance, GCP Essentials.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "40 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-compute-engine-qwik-start-windows-5jkcv",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

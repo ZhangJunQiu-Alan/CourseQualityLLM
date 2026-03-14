@@ -1,0 +1,26 @@
+{
+  "course_id": "744FBaDXEfCW6Ar_4THFVQ",
+  "platform": "coursera",
+  "title": "Advanced AWS Deployment, Databases & Optimization",
+  "slug": "packt-advanced-aws-deployment-databases-optimization-zfruz",
+  "description": "This course features Coursera Coach! \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course. \nIn this course, you'll explore advanced AWS deployment strategies, including Lambda, API Gateway, Kinesis, and CloudFront. You will also dive deep into database design, focusing on relational, NoSQL, and high-availability solutions like DynamoDB, Aurora, and Redshift. \nYou'll gain a solid understanding of AWS services such as CloudFormation, CloudWatch, and Trusted Advisor to automate deployments, monitor infrastructure, and ensure operational excellence. Learn how to use AWS Cost Explorer to optimize spending while maintaining high performance and security. \nThis course is perfect for experienced cloud architects and IT professionals aiming to enhance their AWS skills and optimize cloud infrastructure. \nBy the end of the course, you will be able to deploy applications, design high-availability databases, optimize AWS costs, and implement advanced AWS services for performance and security.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-advanced-aws-deployment-databases-optimization-zfruz",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

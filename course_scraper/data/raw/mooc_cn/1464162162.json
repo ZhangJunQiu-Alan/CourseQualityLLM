@@ -1,0 +1,31 @@
+{
+  "course_id": "1464162162",
+  "platform": "mooc_cn",
+  "title": "化工生产虚拟仿真实习",
+  "description": "化工生产虚拟仿真实习是理工科高等教育培养计划中一个重要的实践教学环节。本课程主要培养学生工程意识，提高学生综合实践能力以及解决实际问题能力。课程内容包括典型化工单元操作以及国家级一流虚拟仿真课程：加压氢化反应的虚拟仿真实验，并配套有新形态教材：《化学化工虚拟仿真实验教程》，以及相关信息化资源（https://ccelab.tju.edu.cn/sas/login.do），如有需要请发邮件到 dujing@tju.edu.cn 邮箱。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464162162",
+  "instructors": [
+    {
+      "name": "杜静",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "天津大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4275,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

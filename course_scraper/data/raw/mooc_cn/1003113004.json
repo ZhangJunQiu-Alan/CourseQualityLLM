@@ -1,0 +1,31 @@
+{
+  "course_id": "1003113004",
+  "platform": "mooc_cn",
+  "title": "国际商法",
+  "description": "本课程由国家级重点学科“国际法学”教学团队倾力打造，北京市教育教学一等奖教学团队精心授课，对外经济贸易大学品牌授课课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003113004",
+  "instructors": [
+    {
+      "name": "冯辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "对外经济贸易大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36592,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

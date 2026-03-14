@@ -1,0 +1,31 @@
+{
+  "course_id": "1001796003",
+  "platform": "mooc_cn",
+  "title": "供热工程",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001796003",
+  "instructors": [
+    {
+      "name": "虞婷婷;王靖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南城建学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12242,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

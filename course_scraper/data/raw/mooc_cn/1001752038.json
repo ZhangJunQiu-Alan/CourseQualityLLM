@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752038",
+  "platform": "mooc_cn",
+  "title": "审计学",
+  "description": "《审计学》课程在线提供丰富的学习资源，在线视频、随堂练习、课后作业、单元测验和案例讨论、期末考试等多种学习和评价方式，帮助学员系统掌握审计学科基本原理、方法、流程，培养审计思维、审计分析判断能力。该课程适宜在校经济管理类本科生、自学考试考生、注册会计师考试学员学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752038",
+  "instructors": [
+    {
+      "name": "何玉;恽碧琰;张宏伟;齐珊;朱海涛;宋子龙;阚京华;魏彩霞_;李夫艳;李鹏博",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35392,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

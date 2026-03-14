@@ -1,0 +1,31 @@
+{
+  "course_id": "1206021804",
+  "platform": "mooc_cn",
+  "title": "计算思维与人工智能基础",
+  "description": "本门课程从“计算机中信息的表示”讲到“计算机的基本组成”，从“互联网”讲到“物联网”，从“大数据”讲到“云计算”，从“计算机求解问题基础”讲到“人工智能基础”，从“AlphaGo战胜围棋大师”讲到“自动驾驶汽车”，通过鲜活的案例，能够让你理解和运用计算思维，初步掌握人工智能的经典算法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206021804",
+  "instructors": [
+    {
+      "name": "周勇;杜文亮;王新;孙晋非;徐月美;毛磊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国矿业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48335,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

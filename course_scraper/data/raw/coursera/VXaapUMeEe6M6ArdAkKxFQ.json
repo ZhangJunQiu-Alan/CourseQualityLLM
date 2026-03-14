@@ -1,0 +1,26 @@
+{
+  "course_id": "VXaapUMeEe6M6ArdAkKxFQ",
+  "platform": "coursera",
+  "title": "Web Development with Angular 16: Enhance an existing website",
+  "slug": "web-development-angular-16-enhance-existing-website",
+  "description": "In this 1.5-hour long project-based course, you will learn four new features of Angular 16. We will do this by fixing and implementing new features on an existing auto part warehouse website. \n\nAngular 16 has new features that improve coding practice, content-refresh, reactiveness, and build system. In this project, we will learn about required input, alias, signals, non-destructive hydration, and faster rebuild.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/web-development-angular-16-enhance-existing-website",
+  "instructors": [
+    {
+      "name": "Harrison Kong",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

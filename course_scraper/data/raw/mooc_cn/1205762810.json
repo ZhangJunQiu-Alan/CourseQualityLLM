@@ -1,0 +1,31 @@
+{
+  "course_id": "1205762810",
+  "platform": "mooc_cn",
+  "title": "电子技术实验",
+  "description": "《数字电子技术》与《模拟电子技术》有趣的现象是否想亲自实践呢？是否想打开电子世界的大门呢？   这门课有最简的理论干货，有资深教授带你遨游有趣的电子世界，给你奠定扎实的电子技术基础实践功底。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205762810",
+  "instructors": [
+    {
+      "name": "胡泽;邓魁;仝迪;王琼;何雨婷;孙晓玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南石油大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7611,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

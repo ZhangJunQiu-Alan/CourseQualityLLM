@@ -1,0 +1,31 @@
+{
+  "course_id": "1001606003",
+  "platform": "mooc_cn",
+  "title": "应用光学",
+  "description": "光，是宇宙万物生长的源泉，是信息传递最重要的载体。人类如何驾驭光？请跟我们一起走进光的世界，探索光的奥秘，学会光学应用的基本方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001606003",
+  "instructors": [
+    {
+      "name": "黄一帆",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 53063,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

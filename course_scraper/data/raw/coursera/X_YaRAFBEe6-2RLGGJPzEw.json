@@ -1,0 +1,26 @@
+{
+  "course_id": "X_YaRAFBEe6-2RLGGJPzEw",
+  "platform": "coursera",
+  "title": "Introduction to Contemporary Operating Systems and Hardware 1a",
+  "slug": "intro-to-os-and-hardware-1a",
+  "description": "In this course, you will explore the several types of hardware components installed in computers and peripherals. The course also offers a detailed exploration of these components and their function as part of the computer and peripheral hardware. The career skills acquired in this course will begin your journey into information technology.\n\nAt the end of the course, you will be able to:\n- Identify basic cable types and their connectors, features, and purposes. \n- Demonstrate knowledge of several types of memory and their installation. \n- Categorize and install diverse types of storage devices. \n- Explain and configure motherboards, central processing units (CPUs), and add-on cards. \n- Apply electronic principles and their relationship to the power supply. \n- Explain the components and operation of multifunction devices/printers and settings. \n\nSoftware requirements: CPU-Z (https://www.cpuid.com/softwares/cpu-z.html)",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/intro-to-os-and-hardware-1a",
+  "instructors": [
+    {
+      "name": "Kevin Vaccaro",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Illinois Tech"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,36 @@
+{
+  "course_id": "course-e283ba51-8f61-4ace-ac6c-4185f73a9d9f",
+  "platform": "edx",
+  "title": "Academic Writing",
+  "description": "The course focuses on enhancing academic writing understanding and skills, providing essential foundational tools for success. \n  What will you learn?  \n For school leavers, this academic writing course bridges the gap between prior education and tertiary requirements, while for professionals returning to higher education, it ensures effective communication of ideas in an academic setting. \n The course incorporates material to address AI technology's increasing influence on academic writing, and the ethical use of AI in academic writing. This AI module stands as an independent section, allowing review and updates without disrupting the coherence of the entire course. \n  Who should study this academic writing course?  \n Academic writing is perfect for school leavers and professionals transitioning from non-academic backgrounds into tertiary education or an academic setting.",
+  "learning_goals": [
+    "Influencing Skills",
+    "Artificial Intelligence",
+    "Writing",
+    "Academic Writing",
+    "Communications"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "michael-lazarou-4",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Adelaide University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 696,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

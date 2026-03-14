@@ -1,0 +1,31 @@
+{
+  "course_id": "1465586164",
+  "platform": "mooc_cn",
+  "title": "离散数学",
+  "description": "《离散数学》的数理逻辑部分能培养抽象思维能力以及为人工智能推理理论的学习打下坚实的基础；集合论部分通过关系的学习使认识到个人与集体、局部与整体之间更深层次的理论依据；图论部分将面向应用，解决生活中遇到的最优路径，二分图和四色原理等问题；近世代数包含群论、格与布尔代数，该部分内容将与前面章节相呼应，形成闭环。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465586164",
+  "instructors": [
+    {
+      "name": "李亚男;宋成;谷亚楠;张静;王永茂;齐俊艳;孟慧;王建芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7000,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

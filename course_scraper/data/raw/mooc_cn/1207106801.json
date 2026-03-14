@@ -1,0 +1,31 @@
+{
+  "course_id": "1207106801",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "智能家居、人工智能……把我们置身于一个信息处理的世界中，信号就是这些信息的载体。光信号、声信号、电信号等各种信号及处理信号的系统无处不在。信号与系统带领我们走进这样一个精彩世界，去探索她的奥秘！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207106801",
+  "instructors": [
+    {
+      "name": "钱钦松;王莉莉;肖梅;董志芳;张宇宁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17803,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "Hnz4MpgMEe6qxQrwzsdaww",
+  "platform": "coursera",
+  "title": "Cost Optimization and Data Tiering with BigLake and Cloud Storage",
+  "slug": "googlecloud-cost-optimization-and-data-tiering-with-biglake-and-cloud-stor-ix17o",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.\n\nLearn to how to potentially reduce your costs by archiving data, unused tables, and partitions from BigQuery into Google Cloud Storage",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "90 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-cost-optimization-and-data-tiering-with-biglake-and-cloud-stor-ix17o",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

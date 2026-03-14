@@ -1,0 +1,26 @@
+{
+  "course_id": "dywCHWPDEe-e0g4kKcdYJQ",
+  "platform": "coursera",
+  "title": "Data Visualization in Stata",
+  "slug": "packt-data-visualization-in-stata-vp8xn",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nData visualization is a crucial skill in the realm of data analysis, and this course is designed to elevate your proficiency with Stata, a powerful statistical software. Beginning with an introduction to continuous and discrete data, the course progresses through a series of detailed modules, each focusing on specific types of plots. You’ll explore the nuances of creating and interpreting histograms, density plots, and scatter plots, among others, while understanding how each visualization technique can be leveraged to convey data insights effectively.\n\nThe course places a strong emphasis on practical application, guiding you step-by-step through the process of creating these plots using Stata. You'll learn not only how to generate these visualizations but also how to interpret them, providing a solid foundation for data-driven decision-making. Each section is designed to build on the previous one, ensuring a cohesive learning experience that enhances your ability to present data in a clear, concise, and visually appealing manner.\n\nBy the end of this course, you will be equipped with a comprehensive toolkit of data visualization techniques. Whether dealing with single variables or complex datasets involving multiple variables, you’ll have the skills needed to create and customize plots that effectively communicate your analytical findings. This course is essential for anyone looking to advance their data analysis capabilities with Stata.\n\nThis course is tailored for data analysts, researchers, and professionals in the fields of statistics and data science who want to enhance their data visualization skills using Stata. A basic understanding of Stata is recommended but not required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-data-visualization-in-stata-vp8xn",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001812007",
+  "platform": "mooc_cn",
+  "title": "机械工程控制基础",
+  "description": "“机械工程控制基础”课程是首批国家级一流线上课程，有配套新形态MOOC版教材《机械工程控制基础（第四版）》、《机械工程控制基础学习辅导与习题解答（第三版）》和《机械工程控制基础实验教程（第二版）》，该课程是机械工程学科和相近学科的核心课程和专业基础课程。目前该课程是东北大学机械工程与自动化学院本科生专业基础课程，同时也是机械工程专业的硕士研究生入学考试课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001812007",
+  "instructors": [
+    {
+      "name": "罗忠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 85870,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

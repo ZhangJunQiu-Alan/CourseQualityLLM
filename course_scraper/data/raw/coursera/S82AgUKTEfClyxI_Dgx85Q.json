@@ -1,0 +1,26 @@
+{
+  "course_id": "S82AgUKTEfClyxI_Dgx85Q",
+  "platform": "coursera",
+  "title": "Oracle RAC Advanced Operations and Deployment Scenarios",
+  "slug": "packt-oracle-rac-advanced-operations-and-deployment-scenarios-xqe9z",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis advanced course on Oracle RAC (Real Application Clusters) offers in-depth knowledge on managing and deploying Oracle RAC in diverse operational scenarios. You will gain insights into Oracle Flex Clusters, node management, Data Guard configurations, and how to handle both installation and removal of nodes in a RAC setup, all while ensuring high availability and scalability. By completing this course, you’ll be equipped with the skills needed to handle complex RAC environments with confidence.\n\nThroughout the course, you'll start by exploring the architecture and benefits of Oracle Flex Clusters, before learning step-by-step procedures for adding and deleting nodes from an Oracle RAC. You will also get hands-on experience with Oracle 12c and 19c, learning to configure Data Guard and create physical standby RAC databases, which are crucial for disaster recovery. Through guided practice sessions, you’ll be able to perform these tasks in real-world scenarios.\n\nAs you progress, you’ll dive into advanced topics such as Oracle RAC 19c environment preparation, installation, database creation, and troubleshooting. Emphasis is placed on practical, executable actions, such as adding nodes online without downtime, managing software homes, and ensuring correct database configurations. The course is designed to make you an expert in handling all stages of Oracle RAC lifecycle management.\n\nThis course is designed for database administrators and IT professionals who have a foundational understanding of Oracle RAC and wish to deepen their expertise in advanced operations and deployment scenarios. It’s ideal for those looking to enhance their skills in managing Oracle RAC clusters and related technologies. Some familiarity with Oracle RAC or database management systems is required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-oracle-rac-advanced-operations-and-deployment-scenarios-xqe9z",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

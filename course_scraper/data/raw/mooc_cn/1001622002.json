@@ -1,0 +1,31 @@
+{
+  "course_id": "1001622002",
+  "platform": "mooc_cn",
+  "title": "天文探秘",
+  "description": "天文学是一门历史悠久的学科。自有文明史以来，人类对于浩瀚星空的探索从未停止。古人通过肉眼观测天象、欲以究天人之际。现如今，更加先进的科技和探测手段被使用，宇宙自然规律的神秘面纱正在被逐渐揭开。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001622002",
+  "instructors": [
+    {
+      "name": "李向东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 110919,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

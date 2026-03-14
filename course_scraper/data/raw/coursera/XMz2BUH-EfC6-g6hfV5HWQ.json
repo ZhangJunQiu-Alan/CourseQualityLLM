@@ -1,0 +1,26 @@
+{
+  "course_id": "XMz2BUH-EfC6-g6hfV5HWQ",
+  "platform": "coursera",
+  "title": "Co-Management, Updates, Reporting & Troubleshooting",
+  "slug": "packt-co-management-updates-reporting-and-troubleshooting-bd9d9",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you'll gain expertise in managing software updates, co-management, and reporting within your organization’s System Center Configuration Manager (SCCM) environment. You'll learn the essential steps involved in deploying and maintaining software updates, including configuring update points, managing synchronization, and handling both manual and automatic deployment strategies. Additionally, you'll explore troubleshooting techniques, tools, and strategies to ensure your systems stay optimized and secure.\n\nYou'll also dive into the intricacies of reporting within SCCM, learning how to configure and manage reporting roles to maintain transparency in your infrastructure. From operational maintenance tasks to the tools needed for everyday management, this course provides a comprehensive overview to keep your systems running smoothly.\n\nThe course is ideal for IT professionals and SCCM administrators who want to enhance their expertise in SCCM's core functionalities, including software updates, co-management, reporting, and troubleshooting. A basic understanding of SCCM is helpful, but this course also serves as a detailed guide for users looking to dive deeper into the system.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-co-management-updates-reporting-and-troubleshooting-bd9d9",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

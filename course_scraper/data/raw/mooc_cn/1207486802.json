@@ -1,0 +1,31 @@
+{
+  "course_id": "1207486802",
+  "platform": "mooc_cn",
+  "title": "医学仪器原理",
+  "description": "随着时代的发展，医学的发展越来越依靠医疗仪器的发展，现代医学仪器通常是集电子和机械于一体的复杂装置，其精密性、可靠性和安全性要求极高。本课程将围绕医学仪器功能、设计原则、电路结构、原理等展开，带领大家走进医学仪器的世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207486802",
+  "instructors": [
+    {
+      "name": "胡晓飞;徐欣;安荣荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5225,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

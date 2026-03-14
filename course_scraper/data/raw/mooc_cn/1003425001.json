@@ -1,0 +1,31 @@
+{
+  "course_id": "1003425001",
+  "platform": "mooc_cn",
+  "title": "单片机原理与应用",
+  "description": "《单片机原理与应用》在系统介绍单片机内部结构、指令系统、扩展单元、典型接口技术以单片机应用系统设计之后，扩展延伸了智能仪器设计的原理及方法，作为自学内容。作为一门软硬结合、面向应用的课程，该课程面向电子信息、电气、自动化、机械等相关专业的学生及工程技术人员等。 ——课程团队",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003425001",
+  "instructors": [
+    {
+      "name": "李宝方;贾树恒;林青松;宋晓娜;潘建斌;邢玉清;吴贵芳;滕红丽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14602,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

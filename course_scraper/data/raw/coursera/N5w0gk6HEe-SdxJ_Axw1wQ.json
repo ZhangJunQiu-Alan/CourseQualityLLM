@@ -1,0 +1,26 @@
+{
+  "course_id": "N5w0gk6HEe-SdxJ_Axw1wQ",
+  "platform": "coursera",
+  "title": "Responsible AI Practices",
+  "slug": "responsible-artificial-intelligence-practices",
+  "description": "In this course, you will learn about responsible artificial intelligence (AI) practices. \n\nIn the first section of this course, you will be introduced to what responsible AI is. You will learn how to define responsible AI, understand the challenges that responsible AI attempts to overcome, and explore the core dimensions of responsible AI.\n\nThen in the next section of the course, you will dive into some topics for developing responsible AI systems. In this section of the course, you will learn about some of the services and tools that AWS offers to help you with responsible AI. You will also learn about responsible AI considerations for selecting a model and preparing data for your AI systems.\n\nFinally, in the last section of the course, you learn what it means for a model to be transparent and explainable. You will also learn about tradeoffs to consider between safety and transparency for an AI model and the principles of human-centered design for explainable AI.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/responsible-artificial-intelligence-practices",
+  "instructors": [
+    {
+      "name": "AWS Instructor ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

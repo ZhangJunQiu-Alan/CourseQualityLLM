@@ -1,0 +1,31 @@
+{
+  "course_id": "1001850005",
+  "platform": "mooc_cn",
+  "title": "计算机组织与结构",
+  "description": "本课程采用哈工大唐朔飞老师的《计算机组成原理》（第三版）授课，吸收了考研大纲内容及国外部分前沿知识。课程资源组织为教学视频、多媒体课件、课后习题、推荐阅读材料、实验手册等多种形式，力争用最简洁的方式讲清每一个知识点。课程注重与产业界最新成果相融合，尤其是以ARM和RISC V处理器为基础衍生出的国内自主可控技术。自2021年起，本课程相继加入了教育部-华为“智能基座”精品慕课项目、“阿里飞天云精品慕课”项目，受到多项华为和阿里云的产学合作协同育人项目支持，融入了华为鲲鹏920处理器和TaiShan服务器、阿里平头哥玄铁E906处理器的相关知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001850005",
+  "instructors": [
+    {
+      "name": "赖晓晨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33782,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

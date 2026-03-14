@@ -1,0 +1,31 @@
+{
+  "course_id": "216009",
+  "platform": "mooc_cn",
+  "title": "物理化学（下）",
+  "description": "物理化学是化学学科的理论基础，对我们身边的化学现象形成了一套完整的理论解释体系。为什么在高原上很难煮熟鸡蛋？怎样才能把石墨变成金刚石？为什么卤水能点豆腐？...国家教学名师汪存信教授领衔的教学团队，将伴随你走进物理化学的世界，用新的观点观察身边的现象，建立属于你自己的化学理论体系。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/216009",
+  "instructors": [
+    {
+      "name": "蒋风雷;王志勇;刘欲文",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 57196,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

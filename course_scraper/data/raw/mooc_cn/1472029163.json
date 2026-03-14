@@ -1,0 +1,31 @@
+{
+  "course_id": "1472029163",
+  "platform": "mooc_cn",
+  "title": "计算机科学导论——计算机学科发展史",
+  "description": "本课程秉承 ACM 教育委员会对“整个计算学科综述性导引”课程构建的要求，课程旨在引导学生了解计算学科的认知模型；学科的基本问题；学科抽象、理论和设计三个形态；学科中的核心概念、系统科学方法，以及前沿应用方向等内容，通过对计算机领域各学科发展历程的介绍引导学生深入认知计算机科学，为学生今后深入学习计算机课程作铺垫。课程设计强调“泛知识、聚思维、重实践”，强调培养学生计算机文化意识，从简单到复杂、从低级到高级的认知顺序来组织、安排讲课的内容，使学生掌握在信息社会里更好地工作、学习和生活所必须的计算机基础知识与基本技能的同时，能够深入了解计算机科学的脉络，激发学生对计算机科学的兴趣。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472029163",
+  "instructors": [
+    {
+      "name": "高晓沨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 401,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

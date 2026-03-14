@@ -1,0 +1,31 @@
+{
+  "course_id": "1206451837",
+  "platform": "mooc_cn",
+  "title": "证券投资学",
+  "description": "“证券投资学”是国家级线上一流本科课程，获批北京市优质课件、北京市优质课、北京市沙河高校联盟“最受欢迎的共享课”。课程构建系统的证券知识框架体系，突出实际操作应用，提升学习者的证券投资理论水平和实际操盘能力。课程内容包含证券投资工具（股票、债券、基金、沪深300股指期货、上证50ETF期权）；市场运行（新股发行定价、发行配售、如何选股、保证金交易、债券现货与回购交易）；价值分析（股票债券估值、宏观行业和公司分析、技术分析）；组合管理（经典投资理论、投资组合风险和收益度量）。课程的初级目标，是达到证券从业资格考试要求；最终目标，是具备价值投资的决策能力和证券买卖时机的决断能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206451837",
+  "instructors": [
+    {
+      "name": "徐颖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 49352,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

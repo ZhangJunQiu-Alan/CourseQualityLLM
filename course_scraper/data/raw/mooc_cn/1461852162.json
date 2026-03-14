@@ -1,0 +1,31 @@
+{
+  "course_id": "1461852162",
+  "platform": "mooc_cn",
+  "title": "普通物理（电磁学）",
+  "description": "作为物理学及应用物理学专业的专业必修课程，《普通物理》（电磁学）主要介绍电场和磁场中的基本物理规律，并应用这些规律解释说明电磁场相关物理问题。本课程有助于培养学生从复杂现象中抽象出本质，建立物理图象或物理模型的能力；运用从特殊到一般的分析认识事物的能力；掌握用类比的方法研究和理解问题的能力；运用高等数学解决问题的能力。学习本课程可以为进一步学习《电动力学》、《电工学》和《电子电路》等专业课程打下良好的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461852162",
+  "instructors": [
+    {
+      "name": "刘笑兰;王剑宇;徐雪春;刘小青;王立;吕燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南昌大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3708,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

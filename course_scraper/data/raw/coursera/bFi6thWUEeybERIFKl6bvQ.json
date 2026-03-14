@@ -1,0 +1,41 @@
+{
+  "course_id": "bFi6thWUEeybERIFKl6bvQ",
+  "platform": "coursera",
+  "title": "Data Visualization and Modeling in Python",
+  "slug": "python-data-modeling",
+  "description": "Put the keystone in your Python Data Science skills by becoming proficient with Data Visualization and Modeling. This course is suited for intermediate programmers, who have some experience with NumPy and Pandas, that want to expand their skills for any career in data science. Whether you come to data science through social sciences and Statistics, or from a programming background, this course will integrate the two perspectives and offer unique insights from each.\n\nYou’ll begin by becoming adept with matplotlib, an essential plotting library in Python that will enable you to discover and communicate insights about data effectively. You’ll progress to classification algorithms by creating a K-Nearest Neighbors (KNN) classifier, a foundational algorithm used in data science and machine learning. Finally, you will write Python programs that leverage your newfound data science skills based on inferential statistics, and be able to describe relationships between variables in your data.\n\nBy the end of the course, you’ll be able to quickly visualize a dataset, explore it for insights, determine relationships between data, and communicate it all with effective plots. In the last module of this course, you’ll produce a publication-quality figure based on data that you’ve prepared and cleaned yourself; the first artifact in your data science portfolio.\n\nThroughout this course you’ll get plenty of hands-on experience through interactive programming assignments, live coding demos from data scientists, and analyzing the data behind important real-world problems (like carbon emissions, real estate prices, and infant mortality). Guided activities throughout each module will reinforce your proficiency with data science techniques and analytical approach as a data scientist.\n\nSolidify your understanding of these critical data science concepts and begin your data science portfolio by mastering visualization and modeling. Start this integrative and transformative learning journey today!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 4-6 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/python-data-modeling",
+  "instructors": [
+    {
+      "name": "Genevieve M. Lipp",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Nick Eubank",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Kyle Bradbury",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Andrew D. Hilton",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Duke University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

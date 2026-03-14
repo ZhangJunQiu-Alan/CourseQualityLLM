@@ -1,0 +1,31 @@
+{
+  "course_id": "1464098183",
+  "platform": "mooc_cn",
+  "title": "计量学基础",
+  "description": "你能想象没有测量的生活吗？你以为只要用测量工具或仪器得到一个结果那就叫测量吗？才不是呢！没有质量保证的测量结果是没有意义、没有用处的。为保证测量结果的单位统一、量值的准确和可靠，我们就必须了解计量学。计量涵盖了关于测量的方方面面，是保证测量结果统一、准确和可靠的唯一保证。所以，并不只是科学家才需要了解计量学，我们每个人都需要了解。还等什么呢？欢迎进入源远流长、包罗万象、博大精深的计量大世界！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464098183",
+  "instructors": [
+    {
+      "name": "孔明;郭天太",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国计量大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5843,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

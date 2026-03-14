@@ -1,0 +1,31 @@
+{
+  "course_id": "1002604047",
+  "platform": "mooc_cn",
+  "title": "电路分析",
+  "description": "首师大电路分析是以国家级精品资源共享课和国家级精品课为基础，以国家级教学团队为主讲教师，北京市教学名师为课程负责人。课程组获北京市教学成果一等奖3项，二等奖2项，获北京市科学技术二等奖3项，课程组编写的教材获北京高等教育精品教材奖2部。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002604047",
+  "instructors": [
+    {
+      "name": "吴敏华;关永;朱虹;粟傈;袁慧梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "首都师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18248,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

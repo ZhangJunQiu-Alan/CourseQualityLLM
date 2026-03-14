@@ -1,0 +1,58 @@
+{
+  "course_id": "course-327c8e4f-315a-417b-9857-046dfc90c243",
+  "platform": "edx",
+  "title": "Introduction to Project Management",
+  "description": "Project management is an essential skill-set for many careers and in many contexts in our lives. \n  What will you learn?  \n To deliver a project successfully, it’s important to start with proper project planning and scheduling, by clearly identifying what the project is, and what its outcomes will be. In the course, we will show you practical ways to explore and understand your goals from the outset of your project, and to consider all the factors – including project risk management - that may affect its execution. \n Step by step you will learn how to plan, scope, schedule, cost and manage your project from beginning to end. \n Since every project relies on the people who are delivering it, the course also enables you to explore how you can effectively communicate, manage people and employ leadership skills to successfully deliver your own project. \n In Introduction to Project Management, you will learn practical ways to use project management skills, whether your project is large or small. Join us to explore how you can benefit from using project management techniques in your own projects. \n  Who should study this introduction to project management course?  \n Introduction to Project Management is an ideal starting point if you need to manage projects at work or at home, while not necessarily being a formally trained project manager. It is also suitable if you are considering undertaking a project in the near future and are seeking to learn and apply essential project management knowledge and skills.",
+  "learning_goals": [
+    "Leadership",
+    "Scheduling",
+    "Project Management",
+    "Project Planning",
+    "People Management",
+    "Project Risk Management",
+    "Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "frank-schultmann",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "noel-lindsay",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "anton-jordaan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "john-sing",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "stella-bachtis",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Adelaide University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2976,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

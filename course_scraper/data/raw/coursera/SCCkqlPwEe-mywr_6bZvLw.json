@@ -1,0 +1,26 @@
+{
+  "course_id": "SCCkqlPwEe-mywr_6bZvLw",
+  "platform": "coursera",
+  "title": "Networking in Google Cloud: Network Security",
+  "slug": "networking-in-google-cloud-network-security",
+  "description": "Welcome to the fourth course of the \"Networking in Google Cloud\" series: Network Security!\nIn this course, you'll dive into the services for safeguarding your Google Cloud network infrastructure.\nThe first module, Distributed Denial of Service (DDoS) Protection, covers how to fortify your network against Distributed Denial of Service (DDoS) attacks, ensuring uninterrupted availability of your services.\nIn the second module, Controlling Access to VPC Networks, you'll learn the network access control, enabling you to define permissions for who can access your resources and how.\nFinally, in the third module, Advanced Security Monitoring and Analysis, we'll explore how to proactively detect and respond to potential threats, keeping your Google Cloud environment secure and resilient.\nBy the end of this course, you'll have a comprehensive understanding of Google Cloud network security.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/networking-in-google-cloud-network-security",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

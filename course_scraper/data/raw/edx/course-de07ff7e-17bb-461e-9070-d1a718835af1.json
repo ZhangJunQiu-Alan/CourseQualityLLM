@@ -1,0 +1,63 @@
+{
+  "course_id": "course-de07ff7e-17bb-461e-9070-d1a718835af1",
+  "platform": "edx",
+  "title": "Fundamentals of Communication Acoustics",
+  "description": "Master the Fundamentals of Communication Acoustics with our MOOC!  \n This engineering course covers the fundamentals of communication acoustics - the way sounds travel to a receiver, originating from a source and conducted through a channel. We will look at the different system components involved in acoustic communication, including those between humans, between humans and machines, and between machines. \n The various topics covered include: \n \n Speech Acoustics \n Hearing Acoustics \n Electroacoustics \n The Human Auditory System \n Digital Audio Processing Methods \n \n You will learn from top experts in the field of communication acoustics, all of whom are affiliated with the leading Universities of Technology in Germany. Together, they have pooled their expertise in order to teach a comprehensive basic understanding and share the most current research trends with you. \n After completion of the course, you will have gained a broad understanding of the involved subdomains. You will also be ready to attend the continuation course, “Applications in Communication Acoustics,” offered by edX. \n Enroll now to enhance your knowledge and skills in Communication Acoustics!",
+  "learning_goals": [
+    "Digital Audio",
+    "Audio Signal Processing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "gerhard-muller",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "michael-vorlander",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jens-ahrens",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "janina-fels",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "bernhard-seeber",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ercan-altinsoy",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sebastian-moller",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "RWTHTUMx"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 296,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

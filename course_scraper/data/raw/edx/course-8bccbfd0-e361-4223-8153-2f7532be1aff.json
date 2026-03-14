@@ -1,0 +1,51 @@
+{
+  "course_id": "course-8bccbfd0-e361-4223-8153-2f7532be1aff",
+  "platform": "edx",
+  "title": "Big Data, Hadoop, and Spark Basics",
+  "description": "Organizations need skilled, forward-thinking Big Data practitioners who can apply their business and technical skills to unstructured data such as tweets, posts, pictures, audio files, videos, sensor data, and satellite imagery, and more, to identify behaviors and preferences of prospects, clients, competitors, and others. **** \n This course introduces you to Big Data concepts and practices. You will understand the characteristics, features, benefits, limitations of Big Data and explore some of the Big Data processing tools. You'll explore how Hadoop, Hive, and Spark can help organizations overcome Big Data challenges and reap the rewards of its acquisition.  \n Hadoop, an open-source framework, enables distributed processing of large data sets across clusters of computers using simple programming models. Each computer, or node, offers local computation and storage, allowing datasets to be processed faster and more efficiently. Hive, a data warehouse software, provides an SQL-like interface to efficiently query and manipulate large data sets in various databases and file systems that integrate with Hadoop. \n Open-source Apache Spark is a processing engine built around speed, ease of use, and analytics that provides users with newer ways to store and use big data. \n You will discover how to leverage Spark to deliver reliable insights. The course provides an overview of the platform, going into the different components that make up Apache Spark. In this course, you will also learn how Resilient Distributed Datasets, known as RDDs, enable parallel processing across the nodes of a Spark cluster. \n You'll gain practical skills when you learn how to analyze data in Spark using PySpark and Spark SQL and how to create a streaming analytics application using Spark Streaming, and more.",
+  "learning_goals": [
+    "Analytical Skills",
+    "Apache Spark",
+    "Spark Streaming",
+    "Nodes (Networking)",
+    "Satellite Imagery",
+    "Apache Hadoop",
+    "Pyspark",
+    "File Systems",
+    "Resilience",
+    "SQL (Programming Language)",
+    "Big Data",
+    "Parallel Processing",
+    "Apache Hive",
+    "Unstructured Data",
+    "Data Warehousing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "karthik-muthuraman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "aije-egwaikhide",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 400,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

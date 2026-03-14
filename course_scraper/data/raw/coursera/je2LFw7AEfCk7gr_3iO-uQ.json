@@ -1,0 +1,26 @@
+{
+  "course_id": "je2LFw7AEfCk7gr_3iO-uQ",
+  "platform": "coursera",
+  "title": "AWS: IoT, Machine Learning and Blockchain",
+  "slug": "aws-iot-machine-learning-and-blockchain",
+  "description": "AWS: IoT, Machine Learning, and Blockchain is the second course of Exam Prep (SAP-C02): AWS Certified Solutions Architect - Professional Specialization. This course explores key AWS services for building intelligent and connected applications. Learners will gain insights into AWS IoT Core, AWS IoT Events, and IoT Greengrass. The course also covers AI services like Amazon Polly, Translate, Comprehend, Rekognition, Kendra, Personalize, and SageMaker. Additionally, it introduces Managed Blockchain and remote workspace solutions with WorkSpaces and WorkSpaces Web. \nThis course facilitates learners with approximately 3:00-3:30 Hours of Video lectures that provide both Theory and Hands-On knowledge. Also, Graded and Ungraded Quizzes are provided with every module to test learners' ability. \n- Module 1: IoT and Blockchain in AWS\n- Module 2: Machine Learning in AWS\n\nThis course is designed for professionals seeking to master specialized AWS services beyond core infrastructure. It is ideal for developers, data scientists, architects, and engineers focused on leveraging Artificial Intelligence, Machine Learning, Internet of Things, Blockchain, and End User Computing solutions. \n- Senior Solutions Architects\n- Enterprise Architects\n- Cloud Infrastructure Architects\n- Senior DevOps Engineers\n\nBy the end of the course, learners will be able to:\n- Understand IoT services like AWS IoT Core, IoT Events, and IoT Greengrass.\n- Extract data from documents and recognize images using Amazon Textract and Rekognition.\n- Discover use cases for Amazon Managed Blockchain and compare virtual desktop solutions with Amazon WorkSpaces vs WorkSpaces Web.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-iot-machine-learning-and-blockchain",
+  "instructors": [
+    {
+      "name": "Whizlabs Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Whizlabs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

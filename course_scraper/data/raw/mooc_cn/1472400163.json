@@ -1,0 +1,31 @@
+{
+  "course_id": "1472400163",
+  "platform": "mooc_cn",
+  "title": "大学物理(上)（力学、热学、电磁学）",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472400163",
+  "instructors": [
+    {
+      "name": "田友伟;毕岚;陈波;许祎;杨志红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5112,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

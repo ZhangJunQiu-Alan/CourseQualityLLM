@@ -1,0 +1,31 @@
+{
+  "course_id": "1463952162",
+  "platform": "mooc_cn",
+  "title": "面向对象程序设计",
+  "description": "本课程作为工科专业学习面向对象程序设计的专业基础课程，着重介绍JAVA对面向对象的具体支持和实现，并通过具体的设计实例阐述面向对象设计思想和方法。主要内容包括JAVA程序设计基础、类和对象、JAVA的继承和多态、抽象类和接口、JAVA异常处理、I/O流与文件、JAVA GUI、JAVA多线程技术、Socket网络编程、JAVA数据库编程等。课程师资团队：刘晶、董军、马青霞课程学习配套教材：[1]    苏守宝，刘晶，徐华丽等编著，Java面向对象程序设计.北京：科学出版社.2016.6.[2]    刘晶，董军，苏守宝主编，Java面向对象程序设计实验教程.北京：科学出版社.2019.1.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463952162",
+  "instructors": [
+    {
+      "name": "刘晶;董军;马青霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "金陵科技学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2288,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

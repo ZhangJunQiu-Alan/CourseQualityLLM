@@ -1,0 +1,26 @@
+{
+  "course_id": "qVDQyNyJEe6J_wr_0biVVQ",
+  "platform": "coursera",
+  "title": "Getting Started with AWS Mainframe Modernization Service",
+  "slug": "aws-getting-started-with-aws-mainframe-modernization-service",
+  "description": "With AWS Mainframe Modernization, you can modernize your mainframe applications and migrate them to Amazon Web Services (AWS) managed runtime environments.\n\nIn this course, you will learn the benefits and technical concepts of AWS Mainframe Modernization. If you are new to the service, you will learn how to start with it through a demonstration using the AWS Management Console. You will learn about the native architecture and how the built-in features can help you streamline the process of migrating your mainframe applications to the AWS Cloud.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-getting-started-with-aws-mainframe-modernization-service",
+  "instructors": [
+    {
+      "name": "AWS Instructor ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

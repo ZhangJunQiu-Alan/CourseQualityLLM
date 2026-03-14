@@ -1,0 +1,31 @@
+{
+  "course_id": "1206412813",
+  "platform": "mooc_cn",
+  "title": "世界科技文明史",
+  "description": "“文明因多样而交流，因交流而互鉴，因互鉴而发展。”《世界科技文明史》是一门以时间为序、以世界为范围的研究科学技术发展历程及其与人类文明之间关系的课程。它从人类多元文明的宏观视野出发，既历史性地追溯当代科技文明的起源，也系统展示它的发展与变化。通过揭示科学知识不同传统之间，科学与技术之间，以及科学技术与政治、经济、文化之间复杂的交互作用，让学生在历史的长河中领略世界科技文明的整体画卷。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206412813",
+  "instructors": [
+    {
+      "name": "潜伟;晋世翔",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5377,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

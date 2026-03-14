@@ -1,0 +1,31 @@
+{
+  "course_id": "1003761007",
+  "platform": "mooc_cn",
+  "title": "天气学分析基础",
+  "description": "天气学分析基础是大气科学类专业的一门专业核心课程，它为《天气学原理》《动力气象》等课程的理论知识提供载体，是理论联系实际的桥梁。通过本课程的学习，大气科学类专业的学生能够掌握天气图分析的基本知识和基本方法，初步建立以天气图方法为主的天气预报思路；非专业人员也可基本看懂天气图。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003761007",
+  "instructors": [
+    {
+      "name": "刘佳;姚素香;杜宁珠;祁莉;秦育婧;韩婷婷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28307,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

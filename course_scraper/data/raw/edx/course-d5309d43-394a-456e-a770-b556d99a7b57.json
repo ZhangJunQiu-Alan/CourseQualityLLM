@@ -1,0 +1,41 @@
+{
+  "course_id": "course-d5309d43-394a-456e-a770-b556d99a7b57",
+  "platform": "edx",
+  "title": "Excel avanzado: importación y análisis de datos.",
+  "description": "En este curso de análisis e interpretación de datos te presentaremos técnicas avanzadas de importación de datos y estrategias diversas para consolidarlos y prepararlos una vez importados de forma que puedas extraer las conclusiones que necesitas (basadas en nuestra experiencia en el uso de Microsoft Excel y demostradas con casos reales).  \n Te presentaremos también las nuevas herramientas y técnicas de modelo de datos e importación avanzada incorporados desde Excel 2010 que permiten trabajar de forma mucho más cómoda con grandes volúmenes de datos repartidos en varias tablas y automatizar la importación para no tener que repetir los pasos cada vez que actualices los datos.  \n Veremos también las distintas opciones disponibles a la hora de configurar tablas y gráficos dinámicos en Excel para que sean lo más versátiles posibles y nos permitan analizar distintos escenarios de forma sencilla.  \n Estas herramientas y técnicas de análisis de datos te permitirán implementar inteligencia de negocios (Business Intelligence) en los diferentes proyectos de una organización.",
+  "learning_goals": [
+    "Data Analysis",
+    "Data Modeling",
+    "Data Import/Export",
+    "Microsoft Excel",
+    "Business Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "8 周，每周 3-4 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jaime-busquets-mataix",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ignacio-despujol",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 884,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

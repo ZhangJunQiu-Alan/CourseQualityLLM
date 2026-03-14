@@ -1,0 +1,26 @@
+{
+  "course_id": "M2IHV4AbEfCPfgr__lXpzQ",
+  "platform": "coursera",
+  "title": "Houdini FX: Model, Animate & Optimize 3D Workflows",
+  "slug": "houdini-fx-model-animate-optimize-3d-workflows",
+  "description": "By the end of this course, learners will analyze Boolean operations, implement procedural modeling tools, optimize workflows, and design polished animations using Houdini FX. They will gain practical expertise in using pivots, channels, construction planes, and snapping tools for precision modeling, while also learning how to apply dynamic parenting, path animation, and NURBS geometry to build complex 3D scenes.\n\nThis course is designed for aspiring 3D artists, animators, and technical directors who want to harness the full potential of Houdini’s node-based, non-destructive workflows. Through step-by-step modules, learners will not only explore essential modeling and transformation techniques but also evaluate shading, sampling, and scaling options to achieve professional-grade results.\n\nWhat makes this course unique is its balance of creative artistry and technical depth: learners will master scripting attachments for automation, refine geometry with precision tools like the Ray SOP and Revolve, and customize desktops and interfaces for productivity. By completing this course, learners will be fully equipped to create, animate, and optimize 3D assets with industry-standard techniques in Houdini FX.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/houdini-fx-model-animate-optimize-3d-workflows",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

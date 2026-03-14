@@ -1,0 +1,26 @@
+{
+  "course_id": "DNvudc7gEe6bkA7BMk6-Yw",
+  "platform": "coursera",
+  "title": "Advanced Golang Concepts",
+  "slug": "advanced-golang-concepts",
+  "description": "The Advanced Golang Concepts course explores the potential for creating sophisticated ERP systems, complex software, websites, and mobile and web applications. The course aims to prepare learners to design concurrent and system programs, making the ecosystem client-friendly. \n\nBy the end of this course, you’ll be able to:\n - Understand concurrency patterns and advanced goroutines\n - Work with reflection and metaprogramming in Go\n- Explain how to work with external C libraries\n- Analyze advanced testing and error handling in Go\n- Create advanced database connectivity\n- Write high-performance code\n- Web Development in Go using Restful API\n\nThis course is designed for Web developers, Data Scientists, System programmers, Entrepreneurs, and freshers who aspire to build a career in web development.\n\nPrior experience with any programming language is not mandatory but can ease the learning curve. \n\nBegin an educational journey to become a master of Advanced Golang Concepts while learning its best practices and enhancing your expertise in development.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 week of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-golang-concepts",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

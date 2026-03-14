@@ -1,0 +1,31 @@
+{
+  "course_id": "1473680171",
+  "platform": "mooc_cn",
+  "title": "数据库管理与应用",
+  "description": "现今，刷短视频、刷新闻、线上购物等早已是我们每一个人每天生活的一部分了，在我们的日常生活中会用到各种各样的软件系统，对于这些软件系统来说最核心的其实是数据。借助数据，用户的信息等网站的内容才得以保存。我们身边的数据库应用比比皆是，学生管理系统、图书管理系统、金融管理系统、车票预定系统……虽然我们今天对这些应用司空见惯，但其实数据库系统是相当复杂的技术，进入到本课程里，让我们一起来开启MySQL数据库之旅吧……",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473680171",
+  "instructors": [
+    {
+      "name": "王玉玉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 189,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

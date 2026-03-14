@@ -1,0 +1,26 @@
+{
+  "course_id": "Tx5zgaf_EfC7FAr_15dkeQ",
+  "platform": "coursera",
+  "title": "C Programming Bootcamp - The Complete C Language Course",
+  "slug": "packt-c-programming-bootcamp-the-complete-c-language-course-prddm",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\nThis comprehensive C programming bootcamp provides an in-depth exploration of the C language, from its fundamentals to more advanced topics. You'll learn how to write, compile, and execute C programs effectively while mastering essential concepts such as variables, operators, functions, loops, and memory management. This course is designed to ensure that you not only understand theoretical concepts but also gain practical experience by working on real-world coding exercises and projects.\n\nAs you progress, you will delve deeper into C's functionality with topics like arrays, strings, pointers, and dynamic memory management. You will also explore structures and unions to understand complex data handling in C. Additionally, recursive functions and recursion-based problem-solving techniques will help you enhance your algorithmic thinking. The course offers numerous hands-on examples, providing you with practical tools to build and optimize efficient C programs.\n\nBy engaging with this structured learning path, you will get to apply your knowledge in multiple scenarios that will challenge your coding skills and help you become proficient in C programming. Each module contains video lessons followed by practical examples and quizzes to reinforce your learning, ensuring a comprehensive understanding of the language.\n\nThis course is ideal for beginners who want to start programming in C, as well as intermediate learners looking to solidify their skills. A basic understanding of computers and logical thinking is helpful, but no prior programming experience is required. The difficulty level is beginner to intermediate, and you will gradually build confidence through every section.\n\nBy the end of the course, you will be able to write C programs from scratch, implement various algorithms and data structures, manage memory dynamically, work with pointers efficiently, and apply recursion to solve complex problems. You will also gain a deep understanding of structures, unions, and how to optimize your code for better performance.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-c-programming-bootcamp-the-complete-c-language-course-prddm",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

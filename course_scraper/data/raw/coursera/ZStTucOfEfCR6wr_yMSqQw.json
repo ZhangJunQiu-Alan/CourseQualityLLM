@@ -1,0 +1,31 @@
+{
+  "course_id": "ZStTucOfEfCR6wr_yMSqQw",
+  "platform": "coursera",
+  "title": "Manage Schema Evolution in Real‑Time Data",
+  "slug": "manage-schema-evolution-in-realtime-data",
+  "description": "Ship data and schema changes without outages. This hands-on course teaches you how to treat schemas as contracts, evolve them safely, and keep producers, consumers, and warehouses green end-to-end. You’ll design compatibility policies in a Schema Registry (backward/forward/full, transitive), automate checks in CI, and practice expand → adapt → contract rollouts. In streaming labs, you’ll capture OLTP changes with Debezium, deliver Avro-encoded events to Kafka, and route malformed records to a DLQ with actionable alerts. On the analytics side, you’ll evolve BigQuery/Iceberg schemas additively (NULLABLE/defaulted columns), shield downstream users with views/contracts, and validate correctness with queries and time travel. Realistic scenarios walk you through enum expansions, type widening, null/tombstone semantics, and subject naming rules. \n\nThis course is for data engineers, backend engineers, and analytics engineers who work with real-time or streaming data systems and need to evolve schemas without downtime. It’s also useful for platform engineers and architects responsible for data contracts, CDC pipelines, or Kafka-based platforms.\n\nLearners should have basic SQL knowledge and a general understanding of streaming systems such as Kafka, along with familiarity with Git and the command line. Experience with schemas, CDC, Docker, or cloud data warehouses is helpful but not required.\n\nBy the end, you’ll have runnable templates, governance checklists, and a portfolio-ready project that proves you can design zero-downtime change—confidently and repeatably. For more information, check out the document.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "60 Minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/manage-schema-evolution-in-realtime-data",
+  "instructors": [
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Luca Berton",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

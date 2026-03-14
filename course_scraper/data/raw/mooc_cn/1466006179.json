@@ -1,0 +1,31 @@
+{
+  "course_id": "1466006179",
+  "platform": "mooc_cn",
+  "title": "半导体物理",
+  "description": "日常生活中电子产品无处不在，学习办公的笔记本电脑，社交娱乐的手机。随着智能家居，5G通信技术，智慧校园的日益发展，我们会越来越离不开以集成芯片为核心的电子信息产业。你是否想知道集成电路工艺以及背后的原理呢？《半导体物理》是电子科学与技术和微电子等相关专业的核心基础课程，欢迎大家选修，一起跟随本门课程进入到集成电路和芯片相关领域。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466006179",
+  "instructors": [
+    {
+      "name": "沈鸿媛;闫欣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6093,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

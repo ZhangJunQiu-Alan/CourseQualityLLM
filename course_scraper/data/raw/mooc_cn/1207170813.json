@@ -1,0 +1,31 @@
+{
+  "course_id": "1207170813",
+  "platform": "mooc_cn",
+  "title": "理论力学",
+  "description": "本课程为全国第一门理论力学国家精品课程、首批国家精品资源共享课程，由国家级教学团队承担。对传统的教学体系作了较大改进，率先引入计算机辅助分析方法。力图实现三个能力的培养，即正确建立力学模型的能力；对力学性态作瞬时或过程分析的能力；判断分析结果正确与否的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207170813",
+  "instructors": [
+    {
+      "name": "刘铸永;刘锦阳;洪嘉振;陈龙祥;吴勇军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25878,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

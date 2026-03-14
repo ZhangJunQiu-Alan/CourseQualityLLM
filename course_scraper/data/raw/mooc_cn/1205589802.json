@@ -1,0 +1,31 @@
+{
+  "course_id": "1205589802",
+  "platform": "mooc_cn",
+  "title": "遗传学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205589802",
+  "instructors": [
+    {
+      "name": "余潮;彭晓珏;阎新",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南昌大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7921,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

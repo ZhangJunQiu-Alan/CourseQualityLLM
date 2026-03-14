@@ -1,0 +1,31 @@
+{
+  "course_id": "1206149820",
+  "platform": "mooc_cn",
+  "title": "程序设计基础",
+  "description": "同学们，你想知道如何我们与计算机进行交流吗？你想让计算机听你的话吗？程序设计基础课程主要以C语言来进行讲授。C语言是从诞生到现在，在计算机语言风云变化的多年里，牢牢占据流行语言排行榜的前三位。本课程是零基础的入门课程，可为后序的编程课程打下良好的基础。来吧，我们一起来探索C语言的奥秘！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206149820",
+  "instructors": [
+    {
+      "name": "郭春雷;刘红艳;徐东升;刘扬;李丽平;蒋云飞;张佳佳;宋西军;耿兴隆;钟莲;李华山",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河北软件职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13732,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

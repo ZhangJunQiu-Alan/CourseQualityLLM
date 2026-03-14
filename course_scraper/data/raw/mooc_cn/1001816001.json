@@ -1,0 +1,31 @@
+{
+  "course_id": "1001816001",
+  "platform": "mooc_cn",
+  "title": "结构化学",
+  "description": "各位好！       结构化学是提升化学素养的关键课程，它帮助我们剖开宏观体系的外壳，看清分子、原子的结构特征和运行规律，了解微观结构与宏观性质间的必然联系，探索化学变化的规律，从而指导科学研究和生产实践活动。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001816001",
+  "instructors": [
+    {
+      "name": "王军;史华宇;张学民;张鹏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 53133,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

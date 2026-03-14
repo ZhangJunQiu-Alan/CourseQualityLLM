@@ -1,0 +1,26 @@
+{
+  "course_id": "LPWHlQpdEfCk7gr_3iO-uQ",
+  "platform": "coursera",
+  "title": "Data Management for Analytics Part 2",
+  "slug": "data-management-for-analytics-part-2",
+  "description": "This course will offer you an opportunity to learn the fundamental concepts and emerging technologies in data storage and data governance. It presents a balanced theory-practice focus and covers Structured Query Language, and two flavors of NoSQL databases in MongoDB and Neo4j graph database. It also includes a brief introduction to big data management including hadoop, MapReduce, and Apache Spark. By the end of this part 2 course on data analytics, you will have a foundational understanding of the theory and applications of database management to support data analytics, data mining, machine learning, and artificial intelligence.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-management-for-analytics-part-2",
+  "instructors": [
+    {
+      "name": "Xuemin Jin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Northeastern University "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

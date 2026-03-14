@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752282",
+  "platform": "mooc_cn",
+  "title": "《论语》教育智慧品绎",
+  "description": "手捧《论语》，留有书香；吟诵经典，厚实学养。让我们一起走近孔子，品读《论语》，分享《论语》的教育智慧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752282",
+  "instructors": [
+    {
+      "name": "黄明喜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华南师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 66500,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

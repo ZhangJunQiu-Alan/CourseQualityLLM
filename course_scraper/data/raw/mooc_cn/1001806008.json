@@ -1,0 +1,31 @@
+{
+  "course_id": "1001806008",
+  "platform": "mooc_cn",
+  "title": "大学物理（力学、电磁学）",
+  "description": "我们的课程是国家级精品课程、首批国家级线上一流课程。本课程内容包括力学、电学、磁学。我们本着“学生是主体，教师是引导者”的教育理念讲授课程、准备学习资源。在问题讨论区，有老师为你解答学习中遇到的问题。团队老师在国家及省市级的教学比赛中都有获奖。相信你会在这里体验到学习物理的快乐！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001806008",
+  "instructors": [
+    {
+      "name": "陈肖慧;崔晶磊;徐丽红;付博文;杨玉玲;赵成松;张建锋;张莲莲;易光宇;王强;代雪峰;王建平;张莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 141804,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,37 @@
+{
+  "course_id": "course-5b2cb003-927c-4f5e-be3e-3430d16f0a9a",
+  "platform": "edx",
+  "title": "Strategic Management Capstone",
+  "description": "Welcome to the Strategic Management Capstone Project! \n This course was designed to bring you the resources and tools you need to envision, plan, and develop a Connected Strategy for your own organization. You will learn how to apply the ideas and concepts you learned in the Introduction to Connected Strategy course. The Capstone Project course was designed to systematically guide you through creating a connected customer relationship and connected delivery strategies. By applying your ideas in each part of the Capstone Project, you will have an opportunity to think deeply about your own organization and come up with new strategies that you can directly apply in the future. \n You will be given a series of worksheets that are tailored to help you walk through the process of creating a Connected Strategy. The capstone project will be a culmination of all the worksheets and your final analysis of the connected strategy that you have created for an organization. \n Lecture videos will have Professor Siggelkow and Terwiesch guide you personally through the thought process that goes behind each step of creating a connected strategy. The videos will provide supplementary knowledge and understanding to the worksheets and capstone project.",
+  "learning_goals": [
+    "Strategic Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "nicolaj-siggelkow",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "christian-terwiesch",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Wharton School of the University of Pennsylvania"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 355,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "45003",
+  "platform": "mooc_cn",
+  "title": "大学物理1：力学、相对论",
+  "description": "物理学是众多自然科学和工程技术的基础, 是人类文明的基石。大学物理是以物理学基础为内容的一门课程。由国家级教学团队精心打造的大学物理课程, 用生动的语言、有趣的实验、交互的方式及数字化技术, 为学习物理、探索科学提供优质的学习平台。来吧, 让我们一起感受物理世界的无穷魅力！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/45003",
+  "instructors": [
+    {
+      "name": "武荷岚;吴天刚;倪忠强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 165381,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

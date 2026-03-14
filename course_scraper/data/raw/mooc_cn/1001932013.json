@@ -1,0 +1,31 @@
+{
+  "course_id": "1001932013",
+  "platform": "mooc_cn",
+  "title": "自动控制原理（二）",
+  "description": "想知道如何控制巡航导弹精确命中千里之外的目标、无人机如何进行控制、无人化智能工厂如何控制机床实现精密加工吗？除了百多年前的经典控制之外，自动控制又有哪些先进的概念和方法吗？ “自动控制原理（二）”将进一步告诉您有哪些先进的控制技术可以实现自动控制，达到预定目标。本课程主要介绍线性离散系统的分析与设计、非线性系统的概念和分析，以及现代控制理论的基础知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001932013",
+  "instructors": [
+    {
+      "name": "樊慧津;苏厚胜;黄剑;刘磊;张海涛;张征;李炜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 62904,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "DOdVqvEgEfCFRg7t6P8RhQ",
+  "platform": "coursera",
+  "title": "Deploy, Manage, and Orchestrate Your Models",
+  "slug": "deploy-manage-and-orchestrate-your-models",
+  "description": "Containerization is more than a deployment tool—it’s the backbone of reliable, scalable machine learning systems. In this intermediate-level course, you’ll learn how to package, deploy, and manage ML models using Docker and Kubernetes. You’ll start by exploring why containerization matters—how it ensures reproducibility and stability across environments. Then, you’ll move into orchestration, learning how Kubernetes automates deployment, scaling, and monitoring for real-world applications.\n\nThrough concise videos, guided readings, and a hands-on project, you’ll write a Dockerfile, publish your image to an internal registry, and deploy it to a cluster using a Kubernetes configuration file. You’ll also practice testing and reflecting on your deployment process to strengthen your operational mindset. By the end, you’ll be able to build, deploy, and manage containerized ML applications confidently—skills essential for engineers, data scientists, and anyone bringing AI models into production.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/deploy-manage-and-orchestrate-your-models",
+  "instructors": [
+    {
+      "name": "ansrsource instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

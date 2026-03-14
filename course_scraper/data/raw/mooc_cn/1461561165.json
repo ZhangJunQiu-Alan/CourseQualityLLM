@@ -1,0 +1,31 @@
+{
+  "course_id": "1461561165",
+  "platform": "mooc_cn",
+  "title": "虚拟现实与增强现实引擎渲染及交互技术",
+  "description": "采用Unity引擎开发虚拟现实、增强现实项目。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461561165",
+  "instructors": [
+    {
+      "name": "伍建平;黄丽;胡瑛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长沙民政职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17602,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

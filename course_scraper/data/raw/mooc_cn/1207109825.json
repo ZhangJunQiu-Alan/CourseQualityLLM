@@ -1,0 +1,31 @@
+{
+  "course_id": "1207109825",
+  "platform": "mooc_cn",
+  "title": "区块链技术与应用",
+  "description": "区块链是第二代互联网技术，是未来20~30年人类社会向智能社会迈进的关键支撑技术。本课程以深入浅出的知识讲解，使学习者系统、全面理解区块链的概念、知识体系、应用领域、技术原理及典型技术架构。关键词：区块链、人工智能、5G、量子计算、云计算、大数据、物联网、移动互联网、密码学、新经济",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207109825",
+  "instructors": [
+    {
+      "name": "赵其刚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 60136,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

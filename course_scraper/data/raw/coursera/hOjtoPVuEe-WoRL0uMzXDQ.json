@@ -1,0 +1,26 @@
+{
+  "course_id": "hOjtoPVuEe-WoRL0uMzXDQ",
+  "platform": "coursera",
+  "title": "SQL for Data Science  (and Version Control with GitHub)",
+  "slug": "sql-for-data-science-and-version-control-with-github",
+  "description": "Master industry-standard SQL and database management in this comprehensive course designed for aspiring data professionals. Through hands-on projects and real-world datasets, you'll progress from basic queries to advanced data manipulation techniques, enhanced by modern AI tools.\n\nThis course is perfect for beginner/intermediate level data enthusiasts and Excel-savvy professionals ready to advance their data skills. Starting with basic database concepts and progressing through real-world scenarios, you'll develop the practical skills needed for modern data analysis roles, culminating in a capstone project that demonstrates mastery of SQL fundamentals, advanced querying techniques, database optimization, and professional documentation practices.\n\nUpon completion, you'll be able to:\n• Write complex SQL queries using advanced techniques including subqueries, CTEs, and window functions\n• Design and optimize database schemas for improved performance and data integrity\n• Clean, transform, and analyze data using professional SQL workflows\n• Integrate AI tools to enhance query optimization and automation\n• Build comprehensive data analysis reports using version control best practices with high school students and professionals with an interest in programming.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 10 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/sql-for-data-science-and-version-control-with-github",
+  "instructors": [
+    {
+      "name": "Professionals from the Industry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

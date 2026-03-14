@@ -1,0 +1,31 @@
+{
+  "course_id": "1465594171",
+  "platform": "mooc_cn",
+  "title": "Java编程基础",
+  "description": "Java是一门程序设计语言，具有面向对象，跨平台、安全等特点。Java语言是软件开发者应当掌握的一门基础语言，是计算机类专业的一门专业核心课程。Java语言可以用于安卓手机App开发，也可用于各种Web应用程序开发，还可以用于各种工具软件的开发、并在大数据技术和嵌入式领域中有广泛的应用。该课程首先介绍了Java语言的基本语法，接着介绍了Java中得类、对象、继承、接口和异常机制，之后介绍了Java中的图形界面、输入输出流和JDBC，最后介绍了Java中的不同集合类。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465594171",
+  "instructors": [
+    {
+      "name": "郑丽萍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15804,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

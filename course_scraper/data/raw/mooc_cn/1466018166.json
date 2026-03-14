@@ -1,0 +1,31 @@
+{
+  "course_id": "1466018166",
+  "platform": "mooc_cn",
+  "title": "财务报表分析",
+  "description": "淄博职业技术大学商学院《财务报表分析》课程主要阐述如何充分利用财务信息（会计信息和非会计信息），挖掘财务报表所包含的实质内容。该课程运用比较分析法、比率分析法、因素分析法、结构分析法和趋势分析法等方法，对财务报表进行项目分析，并在此基础上进一步阐述企业单项财务能力（包括盈利能力、偿债能力、营运能力和发展能力）和综合财务能力（杜邦分析体系、沃尔评分体系）。在分析技术上，既使用了Execl，又利用了Power BI，增强学生可视化分析能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466018166",
+  "instructors": [
+    {
+      "name": "杨华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "淄博职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6250,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

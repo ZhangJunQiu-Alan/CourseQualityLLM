@@ -1,0 +1,42 @@
+{
+  "course_id": "course-a0cb0f4f-21d9-4a0a-8386-d1f8e648b526",
+  "platform": "edx",
+  "title": "Accounting and Finance",
+  "description": "This business course helps you to read and understand financial statements to evaluate how business performance is affected by four fundamental drivers of profitability viz., asset management, cost management, leverage management and tax management. It will also help you to identify areas for improvement. \n The second part of this finance course deals with managing costs. You will learn how to prepare cost sheets, budget and make cost-based decisions. \n The third part of the course provides an overview of financial markets to raise capital of different types. You will develop the ability to prepare and evaluate finances for your business plan and manage working capital. \n The overall objective of the course is to build financial acumen to make you a successful entrepreneur or manager.",
+  "learning_goals": [
+    "Accounting",
+    "Financial Statements",
+    "Business Planning",
+    "Financial Market",
+    "Cost Management",
+    "Management",
+    "Finance",
+    "Asset Management",
+    "Business Acumen",
+    "Financial Acumen",
+    "Tax Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "11 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ms-narasimhan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Indian Institute of Management Bangalore"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1044,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

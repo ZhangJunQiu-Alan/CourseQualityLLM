@@ -1,0 +1,31 @@
+{
+  "course_id": "1205723815",
+  "platform": "mooc_cn",
+  "title": "动物生理学实验",
+  "description": "动物生理学是实验科学，动物生理学实验智慧课程通过系列实验目的原理介绍和实验过程体验，循序渐进地学习生理学实验设计的精髓，建立生理学研究的思维理念框架，进一步引导大家运用生理学不同层次的知识技术，进行综合性实验项目，为今后独立地进行科学研究打下基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205723815",
+  "instructors": [
+    {
+      "name": "汤蓉;张曦;呼光富;徐在言;祝东梅;张霞;李大鹏;谢胜松",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24851,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

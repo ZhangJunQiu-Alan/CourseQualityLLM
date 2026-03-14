@@ -1,0 +1,31 @@
+{
+  "course_id": "1205898823",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "线性代数主要研究线性关系，用矩阵处理数据，用变换关联核心运算，用秩体现重要信息量，用基构建空间，用特征值体现几何特性等，进而可处理许多实际问题，如线性规划、电路设计、信息隐藏、计算机图像处理等技术. 通过本课程的学习，可为后继课程的学习打下必备的代数基础知识.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205898823",
+  "instructors": [
+    {
+      "name": "谢小贤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华侨大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14781,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

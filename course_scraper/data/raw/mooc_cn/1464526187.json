@@ -1,0 +1,31 @@
+{
+  "course_id": "1464526187",
+  "platform": "mooc_cn",
+  "title": "Java语言程序设计",
+  "description": "软件设计是计算机系统设计的核心内容。“程序设计”课程是高等学校计算机类专业本科的核心课程，是培养软件设计能力不可或缺的重要基础课程。程序设计是理论和实践紧密结合的课程，不仅要深刻理解面向对象等基础理论，还要在实践中通过训练掌握程序设计的方法和技能，逐步积累经验，提高设计能力，最终解决实际应用问题。     Java语言是目前功能最强、应用最广泛的一种完全面向对象程序设计语言，具有成熟而严密的语法体系、跨平台特点和强大的应用系统设计能力。今日Java应用无处不在，其重要性无庸置疑。因此，采用Java语言进行面向对象的程序设计方法训练，是程序设计系列课程教学改革的必然，完全符合本科培养目标的要求。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464526187",
+  "instructors": [
+    {
+      "name": "陈科燕;孟琳;叶核亚;霍瑛;林忠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京工程学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4905,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

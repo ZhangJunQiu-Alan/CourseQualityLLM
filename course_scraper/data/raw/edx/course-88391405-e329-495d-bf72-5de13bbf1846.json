@@ -1,0 +1,33 @@
+{
+  "course_id": "course-88391405-e329-495d-bf72-5de13bbf1846",
+  "platform": "edx",
+  "title": "CS50's Introduction to Cybersecurity",
+  "description": "This is CS50's introduction to cybersecurity for technical and non-technical audiences alike. Learn how to protect your own data, devices, and systems from today's threats and how to recognize and evaluate tomorrow's as well, both at home and at work. Learn to view cybersecurity not in absolute terms but relative, a function of risks and rewards (for an adversary) and costs and benefits (for you). Learn to recognize cybersecurity as a trade-off with usability itself. Course presents both high-level and low-level examples of threats, providing students with all they need know technically to understand both. Assignments inspired by real-world events.",
+  "learning_goals": [
+    "Cyber Security",
+    "Usability"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-j-malan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 87252,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

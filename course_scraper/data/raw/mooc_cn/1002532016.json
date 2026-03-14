@@ -1,0 +1,31 @@
+{
+  "course_id": "1002532016",
+  "platform": "mooc_cn",
+  "title": "成衣工艺学",
+  "description": "成衣工艺学是根据工业化制衣基本生产流程组织课程内容，着重讲述服装企业成衣生产的流程以及生产工艺和技术方面的基本知识、基本理论和基本方法，内容包括成衣生产流程中的生产准备、裁剪、粘合、缝制、整烫、后整理、包装储运等方面的知识，以及成衣生产的新技术、新趋势等前沿知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002532016",
+  "instructors": [
+    {
+      "name": "杜磊;张颖;邹奉元;王来力;刘正",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21195,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

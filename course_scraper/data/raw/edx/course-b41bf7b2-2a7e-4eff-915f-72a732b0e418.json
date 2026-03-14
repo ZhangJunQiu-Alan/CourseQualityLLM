@@ -1,0 +1,24 @@
+{
+  "course_id": "course-b41bf7b2-2a7e-4eff-915f-72a732b0e418",
+  "platform": "edx",
+  "title": "Introduction to Image Generation",
+  "description": "This course introduces diffusion models, a family of machine-learning models inspired by thermodynamics and used for image generation. You’ll learn the core theory behind how diffusion models work, explore real-world use cases, and understand recent advancements such as text-to-image generation. The course includes learnings on unconditioned diffusion models and how to train and deploy these models using Vertex AI.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 623,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

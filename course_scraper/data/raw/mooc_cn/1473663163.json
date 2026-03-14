@@ -1,0 +1,31 @@
+{
+  "course_id": "1473663163",
+  "platform": "mooc_cn",
+  "title": "基础韩语I",
+  "description": "本课程是复旦大学外国语学院韩语系教学团队面向国内韩国语零基础学习者推出的韩国语和韩国文化入门课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473663163",
+  "instructors": [
+    {
+      "name": "吴仙花;郭一诚;姜颖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "复旦大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4787,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

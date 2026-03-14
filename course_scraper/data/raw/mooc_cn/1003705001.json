@@ -1,0 +1,31 @@
+{
+  "course_id": "1003705001",
+  "platform": "mooc_cn",
+  "title": "工科化学",
+  "description": "化学家戴安邦先生：                只传授化学知识和技术的化学教育是片面的，全面的化学教育要求既传授化学知识与技能，更训练科学方法和思维，还培养科学精神和品德。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003705001",
+  "instructors": [
+    {
+      "name": "康晓红;颜鲁婷;戴春爱",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 67927,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003377004",
+  "platform": "mooc_cn",
+  "title": "电路分析基础",
+  "description": "“电路分析基础”是北京邮电大学校级重要基础课之一，也是国家级线下一流课程，北京市精品课程、北京市课程思政示范课程、中国高校电工电子在线开放课程联盟线上线下精品课程。配套教材《电路分析基础（第3版）》为国家“十四五”规划教材。教学内容既有知识点和例题讲解，也有仿真演示、工程应用和电学名人介绍，并配以学习导图。教学团队一直积极进行教学改革，先后获得北京市教学成果一等奖、二等奖等奖项。你还在等什么，快来跟随我一起学习“电路分析基础”吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003377004",
+  "instructors": [
+    {
+      "name": "王莉;俎云霄;李巍海;张勇;张金玲;李宁;吴帆;吴国华;望育梅;侯宾",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36522,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

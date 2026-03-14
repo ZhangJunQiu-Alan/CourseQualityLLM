@@ -1,0 +1,26 @@
+{
+  "course_id": "gJWx2LVMEe6ikgqNX9tUXQ",
+  "platform": "coursera",
+  "title": "Python Development with ChatGPT: Fullstack App Development",
+  "slug": "python-development-with-chatgpt-fullstack-app-development",
+  "description": "Imagine unlocking the capabilities of ChatGPT AI in full-stack development—an idea turned into reality, now at your fingertips!\n\nDesigned for web developers and Python enthusiasts, this Guided Project empowers you to seamlessly integrate Chat GPT AI into the creation of innovative full-stack applications. Through practical tasks, you'll master the development of a full-stack news aggregator, automate content generation with Chat GPT, and enhance backend processes using Python programming. Navigate the challenges of real-world application integration to craft a state-of-the-art news platform.\n\nThis intermediate to advanced project is perfect for those well-versed in Python code reading, library utilization, and eager to embrace the future of web development entwined with AI. The project's uniqueness lies in its fusion of traditional Python development with cutting-edge AI, particularly Chat GPT. To succeed in this project, a robust understanding of Python and familiarity with mainstream libraries are prerequisites. Join us on this journey to redefine web development through the lens of advanced AI integration.\n\nPrerequisites: Learners should have Python reading proficiency, which includes:\nAbility to read Python code, debug Python scripts, and utilize common Python data structures (lists, dictionaries, tuples). \n\nLearners should have experience with Python control structures (loops, conditionals) and an understanding of Python functions and modules.\n\nLearners should also have API integration experience, which includes:\nProficiency in using RESTful APIs with Python. Experience with Python libraries like Requests for API interactions. Ability to parse and handle JSON or XML data returned from APIs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1.5 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/python-development-with-chatgpt-fullstack-app-development",
+  "instructors": [
+    {
+      "name": "Shreyansh Dubey",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

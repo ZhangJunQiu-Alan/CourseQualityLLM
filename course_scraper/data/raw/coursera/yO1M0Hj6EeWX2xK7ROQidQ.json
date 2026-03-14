@@ -1,0 +1,56 @@
+{
+  "course_id": "yO1M0Hj6EeWX2xK7ROQidQ",
+  "platform": "coursera",
+  "title": "Digital Systems: From Logic Gates to Processors",
+  "slug": "digital-systems",
+  "description": "This course gives you a complete insight into the modern design of digital systems fundamentals from an eminently practical point of view. Unlike other more \"classic\" digital circuits courses, our interest focuses more on the system than on the electronics that support it. This approach will allow us to lay the foundation for the design of complex digital systems.\n\nYou will learn a set of design methodologies and will use a set of (educational-oriented) computer-aided-design tools (CAD) that will allow you not only to design small and medium size circuits, but also to access to higher level courses covering so exciting topics as application specific integrated circuits (ASICs) design or computer architecture, to give just two examples.\n\nCourse topics are complemented with the design of a simple processor, introduced as a transversal example of a complex digital system. This example will let you understand and feel comfortable with some fundamental computer architecture terms as the instruction set, microprograms and microinstructions.\n\nAfter completing this course you will be able to:\n\n   * Design medium complexity digital systems.\n   * Understand the description of digital systems using high-level languages such as VHDL.\n   * Understand how computers operate at their most basic level (machine language).",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "8 weeks. Estimated (average) load: 4 hours/week without the processor - 6 hours/week,  full course",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/digital-systems",
+  "instructors": [
+    {
+      "name": "Elena Valderrama",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Jean-Pierre Deschamps",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Lluis Terés",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Merce Rullan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Joaquín Saiz Alcaine",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "David Bañeres",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Juan Antonio Martínez",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Autònoma de Barcelona"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

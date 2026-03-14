@@ -1,0 +1,29 @@
+{
+  "course_id": "course-674f23a2-f3e5-4b1e-8923-a4777555b536",
+  "platform": "edx",
+  "title": "Copilot Foundations for Productivity",
+  "description": "As AI tools continue to revolutionize the workplace, understanding how to harness their power is key to staying competitive. This course is designed for professionals seeking to enhance their productivity and gain valuable AI skills using Microsoft Copilot. By mastering the foundational aspects of Copilot, you’ll learn to streamline workflows, automate tasks, and create high-quality content across Microsoft 365 apps, positioning yourself for career advancement in an increasingly tech-driven environment. \n This course is ideal for professionals across various industries who want to boost their productivity and incorporate AI-driven tools into their daily tasks. Whether you’re an administrative professional, business analyst, project manager, or anyone looking to work smarter and faster, mastering Microsoft Copilot will set you apart in today’s fast-evolving work environment. \n As AI tools continue to play a central role in the workplace, gaining proficiency in Microsoft Copilot offers a clear advantage. By completing this course, you’ll develop a foundational understanding of how AI can optimize your workflow, improve collaboration, and enhance content creation across Microsoft 365 apps. These are practical skills that will directly impact your performance, productivity, and career trajectory. \n By the end of the course, you’ll be equipped with the knowledge to use Microsoft Copilot effectively, positioning yourself as a forward-thinking professional ready to thrive in a modern, AI-powered workplace.",
+  "learning_goals": [
+    "Content Creation",
+    "Microsoft 365",
+    "Workflow Management",
+    "Artificial Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 941,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

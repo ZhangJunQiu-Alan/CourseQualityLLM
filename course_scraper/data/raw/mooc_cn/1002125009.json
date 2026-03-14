@@ -1,0 +1,31 @@
+{
+  "course_id": "1002125009",
+  "platform": "mooc_cn",
+  "title": "汽修数学",
+  "description": "本课程根据现行的中职数学教学大纲对课程目标的定位，将教学大纲的新要求与汽修专业教学实际情况相结合，生动形象、深入浅出地揭示数学概念的本质。课程各专题相互独立，学生均可零基础开始学习；同时配备丰富课件、教案、学案等资源，紧密配合课前、课中、课后教学过程，实现线上线下混合式教与学。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002125009",
+  "instructors": [
+    {
+      "name": "陆泽贵;朱建鹏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "济南市历城职业中等专业学校"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9963,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

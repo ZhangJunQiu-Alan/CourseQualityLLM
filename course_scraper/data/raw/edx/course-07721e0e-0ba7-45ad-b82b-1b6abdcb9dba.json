@@ -1,0 +1,61 @@
+{
+  "course_id": "course-07721e0e-0ba7-45ad-b82b-1b6abdcb9dba",
+  "platform": "edx",
+  "title": "Climate Change: Carbon Capture and Storage",
+  "description": "The atmosphere is a shared resource and the amount of greenhouse gases it can absorb is a finite resource. This introductory course to the technology of  Carbon Capture and Storage  is designed for a wider audience with an interest in energy, sustainability and climate change.  \n The aim of Carbon Capture and Storage is to achieve  \n \n Deep reductions in carbon dioxide emissions to the atmosphere \n Unlock carbon negative solutions to achieve a neutral carbon balance to the atmosphere in the 21st century \n \n Carbon Capture and Storage makes cheap, widely available fossil fuels ‘safe to use’ in the context of the Paris Climate Change agreement of 2015. It prevents their carbon dioxide emissions from entering the atmosphere to store them permanently and safely underground.  \n The course is taught by a team of leading academics at the University of Edinburgh with decades of experience in this field. It aims to bridge the gap between the forefront of the latest developments in science, engineering, geology, policy and economics, and the wider public.  \n The aim is to help you understand this technology objectively and why it is so important in our efforts against climate change. We hope the course will make you want to find out more about climate change mitigation options and that you will continue to further educate yourself in this area.",
+  "learning_goals": [
+    "Greenhouse Gas",
+    "Economics",
+    "Climate Change Mitigation",
+    "Carbon Capture And Storage",
+    "Engineering Geology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dr-mathieu-lucquiaud",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-mark-wilkinson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "erika-palfi",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mennatallah-labib",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "daniel-mullen-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "chris-holdsworth-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Edinburgh"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 782,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

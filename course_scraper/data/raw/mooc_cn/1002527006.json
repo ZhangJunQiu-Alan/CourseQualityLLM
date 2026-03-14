@@ -1,0 +1,31 @@
+{
+  "course_id": "1002527006",
+  "platform": "mooc_cn",
+  "title": "理论力学",
+  "description": "《理论力学》是一门基础理论课，它在普通物理中的《力学》课程基础上运用高等数学工具，全面地、系统地阐述宏观机械运动的普遍规律。通过本课程的学习，使学生对经典力学的理论体系、内容、方法及其在物理学中的地位和作用有较好的理解，并且能够掌握处理力学问题的一般方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002527006",
+  "instructors": [
+    {
+      "name": "刘文彪;彭婧;涂展春;高思杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28189,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

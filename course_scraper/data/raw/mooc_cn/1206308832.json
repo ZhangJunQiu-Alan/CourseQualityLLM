@@ -1,0 +1,31 @@
+{
+  "course_id": "1206308832",
+  "platform": "mooc_cn",
+  "title": "ERP原理与应用",
+  "description": "ERP体现了先进的企业管理理论并提供了企业信息化的最佳方案，其基于本体思想的数据管理，就是企业级AI Agent的决策大脑。本课程以制造资源计划（MRPII）为核心，集理论、方法与实践于一体，有助于你了解ERP的基本知识，掌握ERP软件操作与运维的基本方法，助力你成为智能制造时代的企业生产总监。    本课程的教学目标是助力学员在理解ERP知识、掌握国产ERP软件应用实践的基础上，具备为助力企业数智化转型而创新性地设计工业互联网典型应用的能力，以培养其家国情怀、工程伦理和工匠精神，提升其创新能力、团队协作能力，以及面对复杂工程问题时的解决方案设计能力和责任担当能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206308832",
+  "instructors": [
+    {
+      "name": "李吉梅;项若曦;赵慧周;杜美杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京语言大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24943,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

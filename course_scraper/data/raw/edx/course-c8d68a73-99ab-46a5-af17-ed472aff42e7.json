@@ -1,0 +1,40 @@
+{
+  "course_id": "course-c8d68a73-99ab-46a5-af17-ed472aff42e7",
+  "platform": "edx",
+  "title": "Applications of AI in Healthcare",
+  "description": "AI continues to contribute to progress against leading causes of disease and death whether through sharing data and information about clinical trials in real-time or using AI to develop new insights into the diagnosis and treatment of diseases. Specific applications include improving patient care through machine learning and data analysis, fast and accurate diagnosis, precision in treatment planning, medical imaging, and patient data analysis.  \n Professionals who work in non-technical roles in healthcare also need foundational knowledge and practical insights to help them take advantage of AI. Objectives here range from the safe and ethical application of AI in clinical settings to AI applications in hospital management. This MOOC is a quick start to the applications of AI for this class of professionals, focusing entirely on deep learning, particularly on smart and AI-based automation in the healthcare sector. It aims to propagate ideas about how to proactively engage with AI in the healthcare domain. \n The course will help participants bridge the gap between healthcare and technology. Participants will possess the knowledge and confidence to engage with AI projects, advocate for responsible AI adoption, and identify opportunities to leverage AI for better patient outcomes and operational efficiency.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "9 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dr-yin-david-yang-4",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-jens-schneider-4",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "prof-dr-mowafa-househ-5",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Hamad Bin Khalifa University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 788,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

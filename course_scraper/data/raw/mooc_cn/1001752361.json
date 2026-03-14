@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752361",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "线性代数是高等学校理、工、经管等多个专业的公共基础课，为现代社会各领域提供必备的数学工具。本课程注重由浅入深，化难为易，用尽可能少的时间让学生理解并掌握线性代数中的基本概念、理论和方法，为后继课程提供必要的基础知识，并达到教育部大学数学课程教学指导委员会和研究生入学考试的要求。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752361",
+  "instructors": [
+    {
+      "name": "张小向;陈建龙;周建华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 214924,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

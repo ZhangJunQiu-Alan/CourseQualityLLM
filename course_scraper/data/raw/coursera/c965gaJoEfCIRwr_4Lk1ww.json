@@ -1,0 +1,26 @@
+{
+  "course_id": "c965gaJoEfCIRwr_4Lk1ww",
+  "platform": "coursera",
+  "title": "Graphs and Networks",
+  "slug": "odc-graphs-and-networks",
+  "description": "Master the mathematical and computational foundations of graph theory and network analysis in this comprehensive course for problem-solvers and analytical thinkers. Explore how graphs model real-world systems—such as social networks, transportation grids, communication systems, and biological pathways. Begin with core concepts like graph properties, connectivity, and planarity, then advance to topics like graph coloring, matching algorithms, network flows, and optimization. Learn to design efficient algorithms, analyze centrality measures, compute maximum flows, and solve minimal cost flow problems. Through mathematical rigor and practical application, you’ll develop both theoretical insight and hands-on problem-solving skills. Applications span scheduling, frequency assignment, image processing, artificial intelligence, and machine learning. Ideal for aspiring researchers, data scientists, and network engineers, this course equips you with essential tools to analyze, optimize, and visualize interconnected systems across diverse domains.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "10 weeks of Study, 8 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/odc-graphs-and-networks",
+  "instructors": [
+    {
+      "name": "BITS Pilani Instructors Group",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Birla Institute of Technology & Science, Pilani"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

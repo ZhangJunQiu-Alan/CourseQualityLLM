@@ -1,0 +1,31 @@
+{
+  "course_id": "1449634162",
+  "platform": "mooc_cn",
+  "title": "PLC控制技术理论与实践",
+  "description": "从智能制造产线单元到流程工业控制系统，都有可编程控制器（PLC)的身影。PLC是工业界自动化的三大支柱之一，PLC编程调试能力是电气类、自动化类工程师必备技能。本课程以西门子S7-300PLC为主要机型，结合大量典型案例，全方位介绍PLC编程与应用，重在实践能力和工程应用能力的培养。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449634162",
+  "instructors": [
+    {
+      "name": "许仙珍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9303,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

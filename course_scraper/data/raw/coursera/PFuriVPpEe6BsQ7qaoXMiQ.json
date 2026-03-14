@@ -1,0 +1,26 @@
+{
+  "course_id": "PFuriVPpEe6BsQ7qaoXMiQ",
+  "platform": "coursera",
+  "title": "Evaluating and Debugging Generative AI",
+  "slug": "evaluating-and-debugging-generative-ai-project",
+  "description": "Machine learning and AI projects require managing diverse data sources, vast data volumes, model and parameter development, and conducting numerous test and evaluation experiments. Overseeing and tracking these aspects of a program can quickly become an overwhelming task.\n\nThis course will introduce you to Machine Learning Operations tools that manage this workload. You will learn to use the Weights & Biases platform which makes it easy to track your experiments, run and version your data, and collaborate with your team.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/evaluating-and-debugging-generative-ai-project",
+  "instructors": [
+    {
+      "name": "Carey Phelps",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "DeepLearning.AI"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

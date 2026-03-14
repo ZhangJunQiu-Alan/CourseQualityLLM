@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754076",
+  "platform": "mooc_cn",
+  "title": "理论力学",
+  "description": "河海大学“理论力学”为国家级一流本科课程、国家精品课程、国家精品资源共享课，江苏省高校在线开放精品课程。课程的教师是国家级力学教学基地、国家级力学教学团队的骨干成员。理论力学是高等理工科院校一门重要的专业基础课程，也是由基础课向专业课过渡的第一门课程。理论力学既是各门力学课程的基础，又在诸多工程技术领域有着广泛的应用。通过学习本课程，可以正确理解、熟悉科学理论的基本假设、模型建立、理论体系和推广应用，逐步掌握科研探索的方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754076",
+  "instructors": [
+    {
+      "name": "杨海兵",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7716,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

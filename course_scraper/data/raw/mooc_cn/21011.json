@@ -1,0 +1,31 @@
+{
+  "course_id": "21011",
+  "platform": "mooc_cn",
+  "title": "金融学",
+  "description": "本课程是金融专业统帅性基础理论课。教学资源丰富，教学理念先进，教学方法多元。采用宽口径的范畴，涵盖货币、信用、金融资产与价格、金融市场、金融机构、金融总量与均衡、调控与监管、金融发展等所有金融活动的集合。有利于认识金融原理，了解金融现状，掌握分析方法，培养解决金融问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/21011",
+  "instructors": [
+    {
+      "name": "李健;Jianjun Li  李建军;方意;魏建华;Ma Ya  马 亚;黄昌利;蔡如海;Huang Zhigang 黄志刚;Yuxiu Zuo 左毓秀;郭田勇;孙建华;Yuge Jia 贾玉革;鄢莉莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中央财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1257374,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

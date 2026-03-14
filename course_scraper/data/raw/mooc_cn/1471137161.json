@@ -1,0 +1,31 @@
+{
+  "course_id": "1471137161",
+  "platform": "mooc_cn",
+  "title": "网络攻防技术",
+  "description": "师生共同制作的攻防理论、实操视频，实践技巧，以及新型的前沿攻防技术，提高网络安全意识，提高安全防御能力。欢迎广大同学投稿自己制作的实操视频，本课程将择优在后续章节中陆续展示优秀的操作视频。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471137161",
+  "instructors": [
+    {
+      "name": "闫雷鸣;黄文斌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1676,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

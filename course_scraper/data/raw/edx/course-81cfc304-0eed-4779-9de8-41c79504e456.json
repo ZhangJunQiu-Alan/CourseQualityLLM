@@ -1,0 +1,46 @@
+{
+  "course_id": "course-81cfc304-0eed-4779-9de8-41c79504e456",
+  "platform": "edx",
+  "title": "Six Sigma Part 1: Define and Measure",
+  "description": "In this first course of the Six Sigma Program, you will understand the background and meaning of Six Sigma and the five steps of the DMAIC process improvement flow: Define, Measure, Analyze, Improve, and Control. Discuss what \"Quality\" means and how to identify the Voice of the Customer. \n You will learn how to set an improvement project goal, calculate process yield, and identify Critical-to-Quality parameters. \n You will learn how to map a process and to use the necessary statistical techniques to establish the baseline performance of a process and to calculate the process capability. \n To complement the lectures, we provide interactive exercises, which allow learners to see the statistics \"in action.\" Learners then master the statistical concepts by completing practice problems. These are then reinforced using interactive case studies, which illustrate the application of the statistics in quality improvement situations. \n Upon successful completion of this program, learners will earn the TUM Lean and Six Sigma Yellow Belt certification, confirming mastery of Lean Six Sigma fundamentals to a Green Belt level. The material is based on the American Society for Quality (www.asq.org) Body of Knowledge up to a Green Belt Level. The Professional Certificate is designed as preparation for a Lean Six Sigma Green Belt exam.",
+  "learning_goals": [
+    "Six Sigma Yellow Belt",
+    "Six Sigma Green Belt Certification",
+    "Quality Improvement",
+    "Process Improvement",
+    "Define Measure Analyze Improve And Control (DMAIC)",
+    "Lean Six Sigma",
+    "Lean Manufacturing",
+    "Quality Management",
+    "Six Sigma Methodology",
+    "Lean Six Sigma Green Belt"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "martin-grunow",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "holly-ott",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Technical University of Munich"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1289,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

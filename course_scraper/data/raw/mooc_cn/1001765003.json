@@ -1,0 +1,31 @@
+{
+  "course_id": "1001765003",
+  "platform": "mooc_cn",
+  "title": "计算机控制系统",
+  "description": "通过本课程的学习，为培养学生的控制学科研究能力，以及控制领域工程设计、开发解决方案能力奠定坚实的基础；同时，可以培养学生掌握一定的工程知识，具有一定的分析问题和解决问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001765003",
+  "instructors": [
+    {
+      "name": "关守平;刘建昌;孙晓宇;谭树彬;于霞;尤富强;刘圆超;王洪海;马丹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 78400,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

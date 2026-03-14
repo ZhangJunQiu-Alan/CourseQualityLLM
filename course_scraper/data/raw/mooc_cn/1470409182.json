@@ -1,0 +1,31 @@
+{
+  "course_id": "1470409182",
+  "platform": "mooc_cn",
+  "title": "信息论与编码基础",
+  "description": "国防科技大学《信息论与编码基础》慕课由国防科技大学“信息论与编码”教学团队精心制作。该课程基于香农信息论，揭示信息本质及内涵，围绕通信中两大编码技术探索如何实现信息有效、可靠地传输，充分体现了理论与实践的完美结合。该课程的学习对于学生知识构建、能力塑造十分重要。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470409182",
+  "instructors": [
+    {
+      "name": "黄英;黎灿;刘严;刘伟;雷菁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3444,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

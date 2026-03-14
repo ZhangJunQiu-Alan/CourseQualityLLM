@@ -1,0 +1,35 @@
+{
+  "course_id": "course-c7396192-c639-4cc5-9d37-0722d44a7138",
+  "platform": "edx",
+  "title": "Upper-Intermediate English: Business and Modern Life",
+  "description": "This course is the second in a series of four English language MOOCs designed for students with an intermediate level of English looking to reach a higher intermediate level. The course is comprised of video lessons, reading comprehension activities, grammar explanations and exercises, listening comprehension activities and speaking practice.  \n The course covers interesting topics such as the Olympic Games, natural resources, extreme sports, health issues, films, pollution or pets.  \n This course also includes preparatory materials and recommendations to take the Cambridge University First Certificate in English Examination (FCE).",
+  "learning_goals": [
+    "Listening Skills",
+    "English Language",
+    "Grammar",
+    "Reading Comprehension"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "prof-ana-gimeno",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1766,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

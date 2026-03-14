@@ -1,0 +1,31 @@
+{
+  "course_id": "1206455820",
+  "platform": "mooc_cn",
+  "title": "机电系统的建模、辨识与控制",
+  "description": "欢迎大家选修机电系统的建模、辨识与控制课程。机电系统控制设计是保证系统性能实现的核心，在工程各领域中具有重要的应用。机电系统的建模与辨识是控制设计的基础，对高性能控制系统的实现具有重要的联系。本课程主要介绍典型机电系统的建模方法及其系统辨识与性能导向控制器设计的核心技术，包括物理系统建模、系统辨识、参数估计、基于根轨迹的反馈控制设计、基于极点配置的反馈控制设计、控制器结构设计、反馈设计局限性等。通过本课程学习，可以了解机电系统建模、辨识与控制方面的基础知识和方法，为学习者开展机电系统运动控制（如机器人控制）等方面的应用和研究奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206455820",
+  "instructors": [
+    {
+      "name": "朱笑丛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3803,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

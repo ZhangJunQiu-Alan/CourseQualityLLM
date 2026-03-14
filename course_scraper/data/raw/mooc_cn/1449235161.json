@@ -1,0 +1,31 @@
+{
+  "course_id": "1449235161",
+  "platform": "mooc_cn",
+  "title": "管理信息系统",
+  "description": "“管理信息系统”是高等院校经济管理类专业的一门重要的核心课程，综合了管理科学、信息科学、系统科学、行为科学、计算机科学和信息技术等多学科，它运用经济管理理论、信息理论、系统理论、计算机科学等学科的理论与方法，融合提炼组成一套新的体系。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449235161",
+  "instructors": [
+    {
+      "name": "于小兵;屈绍建;杨怡;胡泽文;周飞雪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6880,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

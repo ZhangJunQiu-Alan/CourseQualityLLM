@@ -1,0 +1,31 @@
+{
+  "course_id": "1206216820",
+  "platform": "mooc_cn",
+  "title": "计算机控制系统",
+  "description": "计算机控制系统是自动化，轨道交通信号与控制专业的专业基础理论课程，适用于自动化、轨道交通信号与控制专业高年级的学生。通过本课程的学习，使学生掌握计算机控制基本理论；分析与设计方法，分析稳定性，稳态误差和快速性，数字PID控制器设计。具备根据实际问题分析与设计计算机控制系统的基本能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206216820",
+  "instructors": [
+    {
+      "name": "张文静;张三同;孙绪彬;苗宇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7693,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

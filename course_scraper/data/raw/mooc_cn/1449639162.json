@@ -1,0 +1,31 @@
+{
+  "course_id": "1449639162",
+  "platform": "mooc_cn",
+  "title": "飞行力学",
+  "description": "建立合适的数学模型描述飞行器的运动规律，设计合适的方案弹道和导引弹道确保导弹命中目标，定性定量分析和评价飞行器的稳定性、操纵性和机动性——《飞行力学》带你完成一次从理论到方法、从原理到应用、从学习到探索的“专业飞行”体验。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449639162",
+  "instructors": [
+    {
+      "name": "王晓芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12437,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

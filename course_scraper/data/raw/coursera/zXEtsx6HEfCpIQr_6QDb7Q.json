@@ -1,0 +1,26 @@
+{
+  "course_id": "zXEtsx6HEfCpIQr_6QDb7Q",
+  "platform": "coursera",
+  "title": "Vertex AI と Flutter による 生成 AI エージェントの構築",
+  "slug": "build-generative-ai-agents-with-vertex-ai-and-flutter-ja",
+  "description": "このコースでは、Google のポータブル UI ツールキットである Flutter を使用してアプリを開発し、そのアプリを Google の生成 AI モデル ファミリーである Gemini と統合する方法について学びます。また、AI エージェントとアプリケーションを構築、管理するための Google のプラットフォームである Vertex AI Agent Builder も使用します。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/build-generative-ai-agents-with-vertex-ai-and-flutter-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

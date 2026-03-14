@@ -1,0 +1,31 @@
+{
+  "course_id": "1002530012",
+  "platform": "mooc_cn",
+  "title": "音乐鉴赏",
+  "description": "音乐是人类社会的缩影，音乐源于生活，同时又反作用于生活。伴随着人类社会的进步与演变，音乐与人类的社会生活一直息息相关。音乐是人类文化的展现，音乐与文化有着密切的联系，正是丰富的文化孕育了多彩的音乐。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002530012",
+  "instructors": [
+    {
+      "name": "方小笛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 51430,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

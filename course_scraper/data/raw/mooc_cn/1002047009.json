@@ -1,0 +1,31 @@
+{
+  "course_id": "1002047009",
+  "platform": "mooc_cn",
+  "title": "汇编语言程序设计",
+  "description": "近年来，随着嵌入式系统和物联网的发展，汇编语言在行业中的地位不断提升。2017年1月，在TIOBE排行榜上汇编语言再次进入前十。它是理解计算机系统核心知识的桥梁，在人才培养中亦起着关键作用。在当今“工业4.0”和“中国制造2025”大背景下，它可以为国家智能化制造发展战略提供技术上的重要支撑。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002047009",
+  "instructors": [
+    {
+      "name": "邢建川",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 104893,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

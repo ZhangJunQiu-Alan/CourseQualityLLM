@@ -1,0 +1,38 @@
+{
+  "course_id": "course-c3d00ed5-8ead-4cce-9a3b-c6f12590e44b",
+  "platform": "edx",
+  "title": "Linear Algebra III: Determinants and Eigenvalues",
+  "description": "At the beginning of this course we introduce the determinant, which yields two important concepts that you will use in this course. First, you will be able to apply an invertibility criterion for a square matrix that plays a pivotal role in, for example, the understanding of eigenvalues. You will also use the determinant to measure the amount by which a linear transformation changes the area of a region. This idea plays a critical role in computer graphics and in other more advanced courses, such as multivariable calculus.  \n This course then moves on to eigenvalues and eigenvectors. The goal of this part of the course is to decompose the action of a linear transformation that may be visualized. The main applications described here are to discrete dynamical systems, including Markov chains. However, the basic concepts— eigenvectors and eigenvalues—are useful throughout industry, science, engineering and mathematics.  \n Prospective students enrolling in this class are encouraged to first complete the linear equations and matrix algebra courses before starting this class.",
+  "learning_goals": [
+    "Matrix Algebra",
+    "Dynamical Systems",
+    "Markov Chain",
+    "Multivariable Calculus",
+    "Linear Algebra",
+    "Linear Equations",
+    "Eigenvalues And Eigenvectors"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "3 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "greg-mayer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 315,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "U-tw8Sx0EeymGhLyu6EGlQ",
+  "platform": "coursera",
+  "title": "Mitigating Security Vulnerabilities on Google Cloud en Français",
+  "slug": "mitigating-security-vulnerabilites-gcp-fr",
+  "description": "Dans ce cours en auto-formation, les participants étudient des solutions d'atténuation des attaques pouvant survenir en de nombreux points d'une infrastructure basée sur Google Cloud, telles que des attaques par déni de service distribué (DDoS) ou par hameçonnage, ou des menaces liées à la classification et à l'utilisation de contenu. Ils découvriront également Security Command Center, Cloud Logging et les journaux d'audit, ainsi que l'utilisation de Forseti pour connaître l'état de conformité global avec les stratégies de sécurité de l'organisation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 weeks  of study, 4-6 hours/week",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp-fr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

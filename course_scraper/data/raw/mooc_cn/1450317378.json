@@ -1,0 +1,31 @@
+{
+  "course_id": "1450317378",
+  "platform": "mooc_cn",
+  "title": "游戏引擎原理及应用",
+  "description": "【2025秋季学期重磅更新】课程进行了全面升级，在原来课程的基础上，增加了约一倍的实践内容。将围绕着名为《AnimarsCatcher》的游戏制作展开。涵盖的内容包括游戏引擎中的场景、动画、渲染、摄像机控制、人工智能、特效、用户界面、音频和网络等原理和应用，当然也包括如何编写脚本来实现游戏玩法系统。该课程课件荣获2020年北京高校“优质本科教材课件”、“国家精品在线课程”称号。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450317378",
+  "instructors": [
+    {
+      "name": "韩红雷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国传媒大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41110,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

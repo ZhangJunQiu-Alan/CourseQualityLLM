@@ -1,0 +1,39 @@
+{
+  "course_id": "course-bf6989e9-4ddf-4338-a2fc-a134d4bf933b",
+  "platform": "edx",
+  "title": "Python for Data Science Project",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n This mini-course is intended for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python. \n This course is part of the IBM Data Science Professional Certificate and the IBM Data Analytics Professional Certificate.",
+  "learning_goals": [
+    "Data Science",
+    "Data Analysis",
+    "Python (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "azim-hirjani-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 642,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

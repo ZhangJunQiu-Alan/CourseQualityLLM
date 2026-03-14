@@ -1,0 +1,31 @@
+{
+  "course_id": "1207178807",
+  "platform": "mooc_cn",
+  "title": "结构力学（下）",
+  "description": "本课程依托国内最早的由湖南大学结构力学教研室编写的《结构力学》经典教材，以章节互动问题为导向，通过形象具体的教学视频、课件及部分重点难点的动画(用二维码形式嵌入课件中)，对结构力学课程各知识点进行详细讲解。在这里，你可以学习结构分析理论与概念，了解常用结构形式的受力性能与合理构造；初步学会运用结构力学的计算方法与技巧，解决结构设计、工程研究与实践中的力学问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207178807",
+  "instructors": [
+    {
+      "name": "刘兴彦;汪梦甫;黄湘湘;周芬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14583,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

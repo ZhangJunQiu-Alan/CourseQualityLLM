@@ -1,0 +1,33 @@
+{
+  "course_id": "course-08f162d1-6943-490b-8e0b-ee6fd5ab256e",
+  "platform": "edx",
+  "title": "Calculus Applied!",
+  "description": "In this course, we go beyond the calculus textbook, working with practitioners in social, life and physical sciences to understand how calculus and mathematical models play a role in their work. \n Through a series of case studies, you’ll learn: \n \n How standardized test makers use functions to analyze the difficulty of test questions; \n How economists model interaction of price and demand using rates of change, in a historical case of subway ridership; \n How an x-ray is different from a CT-scan, and what this has to do with integrals; \n How biologists use differential equation models to predict when populations will experience dramatic changes, such as extinction or outbreaks; \n How the Lotka-Volterra predator-prey model was created to answer a biological puzzle; \n How statisticians use functions to model data, like income distributions, and how integrals measure chance; \n How Einstein’s Energy Equation, E=mc2 is an approximation to a more complicated equation. \n \n With real practitioners as your guide, you’ll explore these situations in a hands-on way: looking at data and graphs, writing equations, doing calculus computations, and making educated guesses and predictions. \n This course provides a unique supplement to a course in single-variable calculus. Key topics include application of derivatives, integrals and differential equations, mathematical models and parameters. \n This course is for anyone who has completed or is currently taking a single-variable calculus course (differential and integral), at the high school (AP or IB) or college/university level. You will need to be familiar with the basics of derivatives, integrals, and differential equations, as well as functions involving polynomials, exponentials, and logarithms. \n This is a course to learn applications of calculus to other fields, and NOT a course to learn the basics of calculus. Whether you’re a student who has just finished an introductory Calculus course or a teacher looking for more authentic examples for your classroom, there is something for you to learn here, and we hope you’ll join us!",
+  "learning_goals": [
+    "Calculus",
+    "Derivatives",
+    "Biology",
+    "Mathematical Modeling",
+    "X-Ray Computed Tomography",
+    "Differential Equations",
+    "Physical Science",
+    "Data Modeling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4637,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

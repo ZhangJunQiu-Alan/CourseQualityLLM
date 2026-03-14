@@ -1,0 +1,31 @@
+{
+  "course_id": "1470895173",
+  "platform": "mooc_cn",
+  "title": "气象程序设计及绘图",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470895173",
+  "instructors": [
+    {
+      "name": "孙晓娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1939,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

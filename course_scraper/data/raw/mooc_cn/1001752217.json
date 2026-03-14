@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752217",
+  "platform": "mooc_cn",
+  "title": "临床药理学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752217",
+  "instructors": [
+    {
+      "name": "李成林;汪建云;印晓星;郭琳;鲁茜;严蒙;周雪妍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "徐州医科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24010,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

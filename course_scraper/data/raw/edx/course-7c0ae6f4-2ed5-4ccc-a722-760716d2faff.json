@@ -1,0 +1,58 @@
+{
+  "course_id": "course-7c0ae6f4-2ed5-4ccc-a722-760716d2faff",
+  "platform": "edx",
+  "title": "Data Analytics and Visualization Capstone Project",
+  "description": "As businesses are increasingly moving toward data-driven decision-making, the ability to derive meaningful insights from raw data is becoming all the more essential. The IBM Data Analyst Capstone Project gives you the opportunity to apply the skills and techniques learned throughout the IBM Data Analyst Professional Certificate. You will be working on a project simulating a real-life scenario with actual datasets. The project would involve carrying out tasks commonly performed by professional data analysts, such as data collection from multiple sources, data wrangling, exploratory analysis, statistical analysis, data visualization, and creating interactive dashboards.  \n Throughout the project, you will demonstrate your proficiency in tools such as Jupyter Notebooks, SQL, and Relational Databases Management System (RDBMS), and Business Intelligence (BI) tools like IBM Cognos Analytics. You will also apply Python libraries, including Pandas, Numpy, Scikit-learn, Scipy, Matplotlib, and Seaborn.  \n Your final deliverable will be a comprehensive data analysis report that includes an executive summary, detailed insights, and a conclusion for organizational stakeholders.  \n We recommend completing the previous courses in the Professional Certificate before starting this capstone project, as it integrates all key concepts and techniques into a single, real-world scenario.",
+  "learning_goals": [
+    "Relational Database Management Systems",
+    "Data Visualization",
+    "Relational Databases",
+    "Preparing Executive Summaries",
+    "IBM Cognos Business Intelligence",
+    "Dashboard",
+    "SciPy",
+    "Presentations",
+    "Statistical Analysis",
+    "Business Intelligence",
+    "Data Collection",
+    "Data Wrangling",
+    "Python (Programming Language)",
+    "Seaborn",
+    "Data-Driven Decision-Making",
+    "Matplotlib",
+    "Scikit-learn (Machine Learning Library)",
+    "Jupyter",
+    "SQL (Programming Language)",
+    "Pandas (Python Package)",
+    "Data Analysis",
+    "NumPy"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "6 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ramesh-sannareddy",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 319,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

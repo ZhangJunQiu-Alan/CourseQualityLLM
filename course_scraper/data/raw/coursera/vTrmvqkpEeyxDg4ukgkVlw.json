@@ -1,0 +1,26 @@
+{
+  "course_id": "vTrmvqkpEeyxDg4ukgkVlw",
+  "platform": "coursera",
+  "title": "Distributed Load Testing Using Kubernetes",
+  "slug": "googlecloud-distributed-load-testing-using-kubernetes-9vl8y",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.\n\nLab has instructions to conduct distributed load testing with Kubernetes, which includes a sample web application, Docker image, and Kubernetes deployments/services.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-distributed-load-testing-using-kubernetes-9vl8y",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

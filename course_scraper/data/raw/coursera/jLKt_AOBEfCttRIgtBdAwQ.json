@@ -1,0 +1,26 @@
+{
+  "course_id": "jLKt_AOBEfCttRIgtBdAwQ",
+  "platform": "coursera",
+  "title": "Ace Salesforce Certified Tableau Desktop Foundations Exam",
+  "slug": "packt-ace-salesforce-certified-tableau-desktop-foundations-exam-k6md3",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis comprehensive course is designed to prepare you for the Tableau Desktop Specialist Exam while equipping you with practical, hands-on skills to master Tableau. By the end of the course, you will be able to visualize, analyze, and share data with confidence, boosting your career with a valuable certification. You will gain a deep understanding of Tableau's functionality, from basic visualizations to advanced data analysis.\n\nYou will start by installing Tableau Public and getting familiar with its user interface. As you progress, you will explore fundamental Tableau concepts such as dimensions, measures, aggregation, and granularity. With these foundations, you'll dive into a variety of data visualizations including bar charts, line charts, scatter plots, and advanced charts like dual-axis and stacked bar charts. You'll also learn how to organize and manipulate data to extract actionable insights, using features like filters, groups, sets, and calculated fields.\n\nThe course will guide you through advanced techniques, such as table calculations, trend lines, and using parameters for interactive dashboards. You will also learn how to format and share your work, including exporting to PDF, PowerPoint, and publishing to Tableau Server. Along the way, you’ll develop the skills necessary to prepare and clean data, create live and extract connections, and optimize your Tableau visualizations for different devices.\n\nThis course is perfect for anyone seeking to become proficient in Tableau and pass the Tableau Desktop Specialist exam. It is ideal for beginners with no prior experience in Tableau but is also suitable for intermediate learners who want to refine their skills. A basic understanding of data analysis concepts is helpful, but no prior Tableau knowledge is required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-ace-salesforce-certified-tableau-desktop-foundations-exam-k6md3",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

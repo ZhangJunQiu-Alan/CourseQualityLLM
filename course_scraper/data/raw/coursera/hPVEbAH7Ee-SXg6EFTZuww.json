@@ -1,0 +1,26 @@
+{
+  "course_id": "hPVEbAH7Ee-SXg6EFTZuww",
+  "platform": "coursera",
+  "title": "Advanced Java",
+  "slug": "advanced-java-certification-course",
+  "description": "Advance your Java skills to the next level with this hands-on journey into enterprise-level development. This Advanced Java Training is built around the skills essential for generating industry requirements and for building scalable, modern applications using standard technologies.  \n\nBegin with JDBC, then develop an understanding of its architecture, APIs, and environment setup, with advanced-level knowledge of connecting Java programs to an existing relational database. Then move on to Servlets and JSP, learn how these can be used to develop a dynamic site, deploying some server-side applications in real-life. \n\nThen, you’ll explore the Spring ecosystem, including Spring Core, Spring MVC, REST, Spring Boot, Spring JDBC, JPQL, JPA, Hibernate, and Spring Data. You’ll explore how these libraries can drastically reduce development times and improve performance for building applications that are ready to go live.\n\nCreated for those who are seeking to take their career in software development to the next level, this course challenges you to learn professional techniques like backend, web, and framework development that Software Engineers utilize on the job every day.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-java-certification-course",
+  "instructors": [
+    {
+      "name": "LearnKartS",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LearnKartS"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

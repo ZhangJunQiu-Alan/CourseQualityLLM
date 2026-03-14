@@ -1,0 +1,31 @@
+{
+  "course_id": "1468552165",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468552165",
+  "instructors": [
+    {
+      "name": "袁晓玲;路天航;滕德红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1507,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754072",
+  "platform": "mooc_cn",
+  "title": "汽车发动机管理系统",
+  "description": "《汽车发动机管理系统》课程共计48课时，课程主要介绍了汽车发动机管理系统的结构组成、控制原理、检测及故障诊断方法等，课程内容紧跟汽车技术发展趋势，实用性强。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754072",
+  "instructors": [
+    {
+      "name": "贝绍轶",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏理工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10842,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

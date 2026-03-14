@@ -1,0 +1,26 @@
+{
+  "course_id": "pQ0b8UuXEfCqjwr_1EnQcQ",
+  "platform": "coursera",
+  "title": "First Steps in Python with Jupyter Notebooks",
+  "slug": "first-steps-in-python-with-jupyter-notebooks",
+  "description": "In this course, you'll set up a powerful development environment, master essential Python syntax, and learn to leverage GitHub for seamless collaboration. By the module's end, you'll be equipped with the same foundational skills used by industry pros, including cutting-edge GenAI applications. Get ready to transform from a coding novice to a confident data explorer. \n\nUpon completion, you'll be able to:\n• Explain the role of Python in data science and how GitHub integrates into a modern data workflow.\n• Describe Python’s core syntax, data types, control structures, and functions.\n• Set up and navigate Jupyter Notebooks as an interactive development environment.\n• Implement basic version control workflows using Git repositories, commits, and branches for data science projects.\n• Apply collaborative Git practices through clear commit messages and branching strategies.\n• Demonstrate the ability to set up a notebook environment and perform initial version control tasks through a challenge lab.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/first-steps-in-python-with-jupyter-notebooks",
+  "instructors": [
+    {
+      "name": "Coursera",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

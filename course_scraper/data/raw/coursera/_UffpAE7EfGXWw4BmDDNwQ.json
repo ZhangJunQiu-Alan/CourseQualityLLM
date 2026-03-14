@@ -1,0 +1,26 @@
+{
+  "course_id": "_UffpAE7EfGXWw4BmDDNwQ",
+  "platform": "coursera",
+  "title": "Memory, Encryption, and Protecting Data in Android",
+  "slug": "memory-encryption-and-protecting-data-android",
+  "description": "This course is designed for intermediate-level learners who want to enhance their security skills in Android development. Participants will analyze the structure of Android memory and evaluate its defenses against exploitation, including understanding pointers and their role in buffer overflow exploits. The course covers various types of overflows, mitigation techniques, and specific vulnerabilities such as the Stagefright buffer overflow.\n\nIn addition to exploitation techniques, learners will explore secure data storage practices within the Android file system, implement cryptography concepts, and securely manage credentials using the Android Keystore. The course also addresses password security through hashing and salting techniques, common data risks, and secure storage practices to protect data at rest. Finally, participants will gain insights into network security, data protection in transit, and securing inter-process communications and webviews in Android applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/memory-encryption-and-protecting-data-android",
+  "instructors": [
+    {
+      "name": "Chrystine D Thorsen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Infosec"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

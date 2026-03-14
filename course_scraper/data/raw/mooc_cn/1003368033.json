@@ -1,0 +1,31 @@
+{
+  "course_id": "1003368033",
+  "platform": "mooc_cn",
+  "title": "工程图学概论（土建类）",
+  "description": "《工程图学概论（土建类）》，曾用名《画法几何与工程制图》，是土木类（0810）、水利类（0811）、测绘类（0812）、地质类（0814）、农业工程类（0823）、环境科学与工程类（0825）、建筑类（0828）等工科专业的学科/专业基础课，被认为是培养工程师的重要技术基础课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003368033",
+  "instructors": [
+    {
+      "name": "陈珊珊;张向冈;何大治;张敏;张宗敏;曹琳;王清云;张修宇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华北水利水电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18024,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

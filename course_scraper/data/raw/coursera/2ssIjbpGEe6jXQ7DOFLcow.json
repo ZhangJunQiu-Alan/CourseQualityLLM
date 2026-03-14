@@ -1,0 +1,26 @@
+{
+  "course_id": "2ssIjbpGEe6jXQ7DOFLcow",
+  "platform": "coursera",
+  "title": "Build a Static Website with Rust and Zola",
+  "slug": "build-a-static-website-with-rust-and-zola",
+  "description": "In this project, you will learn how to use the Zola static site generator to build and deploy a fast, secure static website. You will install Zola, create a site structure, incorporate themes and templates, customize content and configuration, and deploy the final site to a cloud hosting platform. By the end of the project, you will have hands-on experience building a production-ready site with Zola that can be used for personal or professional use cases.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-a-static-website-with-rust-and-zola",
+  "instructors": [
+    {
+      "name": "Noah Gift",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Duke University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

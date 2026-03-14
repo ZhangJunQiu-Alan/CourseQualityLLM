@@ -1,0 +1,31 @@
+{
+  "course_id": "1206691838",
+  "platform": "mooc_cn",
+  "title": "机械技术基础",
+  "description": "《机械技术基础》融合国内外经典教材内容和案例，从内容逻辑关系组建章节，英语展示，汉语阐述，多角度的传授机械原理和机械设计的相关内容，作业练习题多来自外文原版教材。最终让学生具有分析和设计基本机构的能力和相关的国际视野；具有运用标准、规范、手册、图册等有关技术资料的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206691838",
+  "instructors": [
+    {
+      "name": "张培培",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4981,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003465001",
+  "platform": "mooc_cn",
+  "title": "Java应用开发基础",
+  "description": "本课程是福建省精品在线开放课程（2019年认定）",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003465001",
+  "instructors": [
+    {
+      "name": "林晓宇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建农林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13479,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

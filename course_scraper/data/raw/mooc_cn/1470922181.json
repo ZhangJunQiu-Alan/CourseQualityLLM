@@ -1,0 +1,31 @@
+{
+  "course_id": "1470922181",
+  "platform": "mooc_cn",
+  "title": "MES系统的应用与调试",
+  "description": "课程以企业典型生产流程为主线，融合工业工程基本概念，介绍了智能制造执行系统(MES)在企业生产过程中的具体应用及操作。课程分为模块一智能制造执行系统(MES)应用基础和模块二智能制造执行系统(MES)应用综合训练两个模块，模块一主要介绍MES生产现场管理、物料管理、质量管理、生产计划管理、BOM管理、设备管理、基础数据管理、特殊生产情况管理等内容，模块二基于企业不同类型生产案例，介绍MES搭建与应用，提高学生综合应用MES的能力。课程案例均源自于企业真实产品，贴近MES应用生产实际，具有很强的专业性和实用性。知识技能讲授由浅入深，配备操作视频、知识点讲解微课等资源。学习者即使零基础，也能迅速实现入门到精通。       课程不仅可以适用于职业院校工业工程技术、智能制造工程技术、数控技术、机械制造及自动化专业及相关专业学生自主学习，而且可以适用于在岗从事MES管控的工程技术人员学习和训练。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470922181",
+  "instructors": [
+    {
+      "name": "韩念梅;耿哲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2212,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

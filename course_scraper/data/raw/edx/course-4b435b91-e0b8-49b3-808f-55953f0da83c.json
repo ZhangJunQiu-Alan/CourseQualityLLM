@@ -1,0 +1,49 @@
+{
+  "course_id": "course-4b435b91-e0b8-49b3-808f-55953f0da83c",
+  "platform": "edx",
+  "title": "AI Skills for Engineers: Data Engineering and Data Pipelines",
+  "description": "Artificial Intelligence and Machine Learning have become central techniques for most services and products, ranging from web-based systems to medical procedures, self-driving cars – even intelligent coffee makers. \n Alongside algorithms, data is central to AI applications. Without solid data management, AI projects typically underperform or even fail. Unfortunately, the relevance and complexity of handling data is frequently underestimated.  \n That’s why we developed this course which covers foundational questions like “Why is data important to AI?” and “What data does AI need?” and covers more application-oriented topics and skills like how to extract, load and query data using an SQL pipeline. \n In the second part of the course, you will learn basic data engineering skills, including how to setup your Python notebook environment, explore data with advanced pandas functions, and create simple and clear data visualizations. \n This introductory course is targeted at learners with little experience in data management or Python-based data management who want to develop Python-based AI applications in the future. The course covers a brief introduction into data management for AI, relational data management (e.g., SQL), and practical data handling skills in Python, pandas, and Jupyter.  \n This allows you to build a foundation to prepare for future AI and Machine Learning development with Python.",
+  "learning_goals": [
+    "Algorithms",
+    "Python (Programming Language)",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Data Engineering",
+    "Relational Databases",
+    "Applications Of Artificial Intelligence",
+    "Medical Practices And Procedures",
+    "Management",
+    "Pandas (Python Package)",
+    "Data Management",
+    "SQL (Programming Language)",
+    "Jupyter"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 5-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "christoph-lofi",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "junzi-sun",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 686,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

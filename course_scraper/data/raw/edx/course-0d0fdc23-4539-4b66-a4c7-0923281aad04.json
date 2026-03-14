@@ -1,0 +1,40 @@
+{
+  "course_id": "course-0d0fdc23-4539-4b66-a4c7-0923281aad04",
+  "platform": "edx",
+  "title": "Introduction to Social Psychology",
+  "description": "We often have firmly held beliefs about why people think and behave the way they do. Sometimes our intuitions are correct, but often they are not. \n Social psychology helps us understand how people think about themselves and other people and what motivates their behaviour in social settings. \n This course explores a range of topics in social psychology, from how we think about ourselves, how we think about others, and how we interact and communicate with others. We will also discuss the ways that we can influence others and be influenced by others. Finally, we look at some problematic aspects of human behaviour, such as prejudice and aggression. \n You should take this course if you are curious about why we behave the way we do.",
+  "learning_goals": [
+    "Social Psychology",
+    "Psychology",
+    "Curiosity",
+    "Influencing Skills"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "blake-mckimmie",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "roy-baumeister",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Queensland"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1221,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

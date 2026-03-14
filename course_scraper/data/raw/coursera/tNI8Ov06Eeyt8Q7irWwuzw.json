@@ -1,0 +1,26 @@
+{
+  "course_id": "tNI8Ov06Eeyt8Q7irWwuzw",
+  "platform": "coursera",
+  "title": "Data Science Decisions in Time: Using Causal Information",
+  "slug": "data-science-decisions-in-time-using-causal-information",
+  "description": "This is the fourth course in the specialization and is aimed at those with basic knowledge of statistics, probability and linear algebra.  It will prove to be especially interesting for those with datasets that are being used to make decisions: either business, medical, or technology based.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-science-decisions-in-time-using-causal-information",
+  "instructors": [
+    {
+      "name": "Thomas Woolf",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

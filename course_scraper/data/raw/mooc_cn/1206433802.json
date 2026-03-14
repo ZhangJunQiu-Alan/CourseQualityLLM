@@ -1,0 +1,31 @@
+{
+  "course_id": "1206433802",
+  "platform": "mooc_cn",
+  "title": "材料力学",
+  "description": "材料力学是工科专业一门重要的专业基础课，是多门后续课程的基础。课程内容涵盖：轴向拉伸与压缩、剪切、扭转、弯曲内力、弯曲应力、弯曲变形、超静定结构的应力计算、应力状态与强度理论、组合变形、能量法、压杆稳定、杆件截面几何性质。本课程面向土木类专业本科生，以及其他工科专业如机械类等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206433802",
+  "instructors": [
+    {
+      "name": "王本劲;赵莹;付昆昆;吴艾辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24901,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

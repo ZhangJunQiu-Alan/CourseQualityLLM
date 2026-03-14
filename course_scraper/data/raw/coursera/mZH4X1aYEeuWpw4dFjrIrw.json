@@ -1,0 +1,26 @@
+{
+  "course_id": "mZH4X1aYEeuWpw4dFjrIrw",
+  "platform": "coursera",
+  "title": "High Voltage Schottky and p-n Diodes",
+  "slug": "high-voltage-schottky-and-p-n-diodes",
+  "description": "This course can also be taken for academic credit as ECEA 5722, part of CU Boulder’s Master of Science in Electrical Engineering.\n\nThis course is primarily aimed at first year graduate students interested in engineering or science, along with  professionals with an interest in power electronics and semiconductor devices .\n\nIt is the second course in the \"Semiconductor Power Device\" specialization that focusses on diodes, MOSFETs, IGBT but also covers legacy devices (BJTs, Thyristors and TRIACS) as well as state-of-the-art devices such as silicon carbide (SiC) Schottky diodes and MOSFETs as well as Gallium Nitride (GaN) HEMTs. The specialization provides an overview of devices, the physics background needed to understand the device operation, the construction of a device circuit model from a physical device model and a description of the device fabrication technology including packaging.\n\nThis second course provides a more detailed description of high-voltage Schottky and p-n diodes, starting with the semiconductor physics background needed to analyze both types of diodes. The main properties of crystalline semiconductors are presented that lead to the calculation of carrier densities and carrier currents, resulting in the drift-diffusion model for the semiconductors of interest. Next are a close look at Schottky diodes followed by p-n diodes, with a focus on the key figures of merit including the on-resistance, breakdown voltage and diode capacitance. For each diode, the analysis is then linked to the corresponding SPICE model. Finally, the power diode losses - both on-state losses and switching losses - are examined in a convertor circuit, including a comparison of silicon p-n diodes and 4H-SiC Schottky diodes.\n\nLearning objectives:\n•\tProvide students with a detailed understanding of High-Voltage Schottky and p-n diodes.\n•\tStudents will be able to calculate key diode parameters based on their physical structure.\n•\tStudents will be able to construct SPICE models for Schottky and p-n diodes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 9 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/high-voltage-schottky-and-p-n-diodes",
+  "instructors": [
+    {
+      "name": "Bart Van Zeghbroeck",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

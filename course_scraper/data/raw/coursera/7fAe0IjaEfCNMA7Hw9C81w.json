@@ -1,0 +1,26 @@
+{
+  "course_id": "7fAe0IjaEfCNMA7Hw9C81w",
+  "platform": "coursera",
+  "title": "Responsible and Ethical AI",
+  "slug": "responsible-and-ethical-ai",
+  "description": "In this course, we will investigate the ethical challenges in Artificial Intelligence (AI) systems. The focus of this course is on preparing students with the knowledge and practical approaches necessary in designing reliable and ethical AI systems that are responsible and trustworthy.\nKey topics covered include:\n•\tBias and Fairness in AI and Machine Learning\n•\tNature of data privacy and AI Risks\n•\tUnderstanding AI regulations.\n•\tFrameworks for building truly trustworthy and responsible AI.\n\nThere are 2 hands-on labs in this course. You need knowledge of python and basics of AI model development.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4-6 hours per week, 4 weeks total",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/responsible-and-ethical-ai",
+  "instructors": [
+    {
+      "name": "Umesh Hodeghatta",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Northeastern University "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

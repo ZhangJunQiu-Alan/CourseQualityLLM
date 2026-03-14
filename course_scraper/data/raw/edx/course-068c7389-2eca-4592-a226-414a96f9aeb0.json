@@ -1,0 +1,36 @@
+{
+  "course_id": "course-068c7389-2eca-4592-a226-414a96f9aeb0",
+  "platform": "edx",
+  "title": "Entropy and Equilibria",
+  "description": "Nature is driven by spontaneity — processes that move forward without external intervention. In this course,  Entropy and Equilibria  , you will explore the Second Law of Thermodynamics and get an introduction to the concepts of entropy and equilibrium states. \n Entropy stands as one of the most fascinating concepts in thermodynamics, showcasing the degree of disorder or randomness in nature and controlling a vast range of processes that we observe every day. You will learn how energy and entropy in combination determine how these processes operate spontaneously, without the intervention of human influence. Applying your understanding of entropy to various thermodynamic systems, you will gain insight into equilibrium states and how entropy changes based on different settings. \n Finally, you will explore the concept of Gibbs Free Energy, identifying the total amount of energy available in a system or environment and combining the concepts of entropy and enthalpy. By the end of the course, you will be able to associate these concepts with the generation of energy and its impact on the environment by the burning of fossil fuels.",
+  "learning_goals": [
+    "Thermodynamics",
+    "Influencing Skills",
+    "Enthalpy",
+    "Chemistry",
+    "Thermodynamic Systems"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 4-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "james-anderson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1518,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

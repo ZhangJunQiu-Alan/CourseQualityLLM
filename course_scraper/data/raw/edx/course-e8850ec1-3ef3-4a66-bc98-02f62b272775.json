@@ -1,0 +1,38 @@
+{
+  "course_id": "course-e8850ec1-3ef3-4a66-bc98-02f62b272775",
+  "platform": "edx",
+  "title": "Probability and Statistics II:  Random Variables – Great Expectations to Bell Curves",
+  "description": "This course discusses properties and applications of random variables. When you’re done, you’ll have enough firepower to undertake a wide variety of modeling and analysis problems; and you’ll be well-prepared for the upcoming Statistics courses.  \n We’ll begin by introducing the concepts of discrete and continuous random variables. For instance, how many customers are likely to arrive in the next hour (discrete)? What’s the probability that a lightbulb will last more than a year (continuous)?  \n We’ll learn about various properties of random variables such as the expected value, variance, and moment generating function. This will lead us to a discussion of functions of random variables. Such functions have many uses, including some wonderful applications in computer simulations.  \n If you enjoy random variables, then you’ll really love joint (two-dimensional) random variables. We’ll provide methodology to extract marginal (one-dimensional) and conditional information from these big boys. This work will enable us to  \nstudy the important concepts of independence and correlation.  \n Along the way, we’ll start working with the R statistical package to do some of our calculations and analysis.",
+  "learning_goals": [
+    "R (Programming Language)",
+    "Computer Simulation",
+    "Random Variables",
+    "Statistics",
+    "Probability And Statistics",
+    "Probability",
+    "Statistical Packages"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 6-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-goldsman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 321,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

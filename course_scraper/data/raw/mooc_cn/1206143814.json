@@ -1,0 +1,31 @@
+{
+  "course_id": "1206143814",
+  "platform": "mooc_cn",
+  "title": "医学免疫学",
+  "description": "感染、疫苗、过敏、肿瘤、移植排斥、渐冻症、靶向药……，看起来风马牛不相及的事情，其实受同样的规律支配，那就是免疫系统的运行规律。如果你想成为优秀的医生，来学免疫学；如果你想了解身体的奥秘，来学免疫学；如果你想知道靶向药、抗检查点治疗都是些什么东东，来学免疫吧！即使你不是医学生，学了免疫学，你差不多就是半个医生啦！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206143814",
+  "instructors": [
+    {
+      "name": "周晓勃;季延红;马运峰;刘如意;史霖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 31706,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

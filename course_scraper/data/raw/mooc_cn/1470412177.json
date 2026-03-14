@@ -1,0 +1,31 @@
+{
+  "course_id": "1470412177",
+  "platform": "mooc_cn",
+  "title": "Python深度学习及智能车竞赛实践",
+  "description": "人工智能已经成为新一轮产业变革的核心驱动力，正在对世界经济、社会进步和人类生活产生极其深刻的影响，人工智能赋能汽车是具有挑战性和重大价值的工作。学科交叉融合是未来发展趋势，掌握深度学习理论及实践方法是当代大学生的必备能力。本课程将从Python零基础开始讲解，通过智能车竞赛任务，实战从数据采集与标注-深度学习模型设计与训练-优化与部署的全流程，希望同学们通过课程学习，提高利用AI解决专业领域工程问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470412177",
+  "instructors": [
+    {
+      "name": "徐国艳;刘聪琳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5651,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

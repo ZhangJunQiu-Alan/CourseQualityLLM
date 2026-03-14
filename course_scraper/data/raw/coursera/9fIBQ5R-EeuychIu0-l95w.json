@@ -1,0 +1,26 @@
+{
+  "course_id": "9fIBQ5R-EeuychIu0-l95w",
+  "platform": "coursera",
+  "title": "Perform basic data analysis tasks using Java streams",
+  "slug": "basic-data-analysis-java-streams",
+  "description": "In this 1-hour long project-based course, you will learn how to create a Java Stream object based on an array of data, and understand the distinction between terminal and intermediate stream operations. You will iterate through the data stream using the forEach method, and use a range of Stream methods to perform logical operations on the data stream. You will perform basic statistical calculations on a stream of numeric data, and string operations on a stream of string data. You will learn how to use the map, filter, and reduce Stream methods. Finally, you will learn how to load a CSV file, the COVID vaccination dataset, and turn it into a data stream, and perform basic exploratory analysis of the data. \n\n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/basic-data-analysis-java-streams",
+  "instructors": [
+    {
+      "name": "Sherif A. Tawfik Abbas",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001907001",
+  "platform": "mooc_cn",
+  "title": "生物信息学",
+  "description": "生物信息学是一门发展潜力巨大的交叉学科。本课程适用于生命科学、农学、医学、信息科学等相关专业本科、硕士、博士各阶段的同学，以及生物医学领域的科研工作者。课程涵盖生物信息学领域的几乎所有内容，包括数据库、序列分析、蛋白质结构、组学、算法、统计、数据挖掘、编程等，真的很有用哦~，亲！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001907001",
+  "instructors": [
+    {
+      "name": "巩晶;张玉华;魏天迪;赵方庆",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 185008,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

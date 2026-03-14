@@ -1,0 +1,42 @@
+{
+  "course_id": "course-11d76826-cc8a-4ae6-8681-7ec0f6f2690c",
+  "platform": "edx",
+  "title": "How to analyze a microbiome",
+  "description": "Microorganisms play a major role in the biosphere and within our bodies, but only a tiny fraction has been cultured so far. Microbiome data, that is the genetic information of microorganisms, is therefore an important window into the hidden microbial world. \n Microbiome data analysis elucidates the composition of microbial communities and how it changes in response to the environment. When analyzing sequencing data, we learn whether microbial diversity differs across conditions and identify links between microbes. In brief, microbiome data analysis gives us a first idea of how a microbial ecosystem works. \n This course will illustrate with the help of real-world example data how to carry out typical analysis tasks, such as comparing microbial composition and diversity, clustering samples and computing associations. If you plan to work with microbiome data, this course will get you up to speed.  \n The instructors are experienced bioinformaticians who are internationally known for their analysis of large-scale microbiome data sets.",
+  "learning_goals": [
+    "Data Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "karoline-faust",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "lisa-rottjers",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "anna-krzynowek",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "KU Leuven"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 329,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

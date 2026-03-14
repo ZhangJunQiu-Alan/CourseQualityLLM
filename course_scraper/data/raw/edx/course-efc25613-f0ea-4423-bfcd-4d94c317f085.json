@@ -1,0 +1,92 @@
+{
+  "course_id": "course-efc25613-f0ea-4423-bfcd-4d94c317f085",
+  "platform": "edx",
+  "title": "Tech for Good: The Role of ICT in Achieving the SDGs",
+  "description": "Tech for Good  was developed by UNESCO and Cetic.br/NIC.br, the Brazilian Network Information Center’s Regional Center for Studies on the Development of the Information Society. It brings together thought leaders and changemakers in the fields of information and communication technologies (ICT) and sustainable development to show how  digital technologies are empowering billions of people around the world  by providing access to education, healthcare, banking, and government services; and how “big data” is being used to inform smarter, evidence-based policies to improve people’s lives in fundamental ways.  \n It also addresses the  new challenges that technology can introduce  , such as privacy, data management, risks to cybersecurity, e-waste, and the widening of social divides. Ultimately,  Tech for Good  looks at the ways in which stakeholders are coming together to answer big questions about what our future will look like in a hyper-digitized world.  \n This course is for:  \n  Technology specialists  who want to understand more about how ICT is being used to improve people’s lives around the world. \n Sustainable development practitioners  who need to understand the opportunities and limitations of technology in a development context. \n Advanced undergraduates and graduate students  interested in the key concepts and practices of this exciting and ever-changing field.  \n Please note that the course is free to audit, but there is a fee if you choose to pursue a Verified Certificate.  Financial assistance  is available through edX.",
+  "learning_goals": [
+    "E-Waste",
+    "Big Data",
+    "Data Management",
+    "Cyber Security",
+    "Network Information Services",
+    "Sustainable Development"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "tech-good-faculty",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dorothy-gordon",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "guilherme-canela-godoi",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jose-clastornik",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "doreen-bogdan-martin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "chief-nathaniel-ebo-nsarko",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "eduardo-diniz",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "luis-gonzalez-morales",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jessica-espey",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sara-rendtorff-smith",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "katina-michael",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jeffrey-d-sachs",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "SDG Academy"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1719,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

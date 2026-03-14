@@ -1,0 +1,31 @@
+{
+  "course_id": "1449944161",
+  "platform": "mooc_cn",
+  "title": "职业生涯开发与管理",
+  "description": "职业生涯开发与管理是一门从企业和员工角度思考未来发展问题的课程。职业生涯开发与管理相关理论与专业技能的学习，将会激发员工职业生涯开发的意识，提升企业职业生涯管理水平，实现企业与员工的共同发展。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449944161",
+  "instructors": [
+    {
+      "name": "焦永纪;江游",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17792,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

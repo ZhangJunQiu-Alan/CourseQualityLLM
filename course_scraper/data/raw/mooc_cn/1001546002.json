@@ -1,0 +1,31 @@
+{
+  "course_id": "1001546002",
+  "platform": "mooc_cn",
+  "title": "动物生理学",
+  "description": "动物，作为地球生物圈中主要的组成类群，展现出丰富多彩的生命现象。动物的生命活动不仅对维持生态平衡起着重要作用，还为人类社会发展提供了丰富的物质和精神资源。动物生命是如何开始，又如何进展的？通过课程的学习，让我们领略动物生命的精彩，探索奇妙的动物生理世界，了解生命的本质规律与机制。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001546002",
+  "instructors": [
+    {
+      "name": "李大鹏;祝东梅;张曦;汤蓉;徐在言;呼光富;谢胜松",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 100125,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

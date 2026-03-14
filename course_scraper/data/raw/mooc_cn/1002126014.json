@@ -1,0 +1,31 @@
+{
+  "course_id": "1002126014",
+  "platform": "mooc_cn",
+  "title": "伤寒论",
+  "description": "《伤寒论》是以中医经典著作《伤寒论》以及历代研究与发展《伤寒论》的学术成就为研究对象，以六经辨证论治体系的内涵、外延与理法方药综合运用的基本规律为主要研究内容，以提高临床辨证论治水平与临床疗效为最终目的的一门学科。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002126014",
+  "instructors": [
+    {
+      "name": "王振亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 70600,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

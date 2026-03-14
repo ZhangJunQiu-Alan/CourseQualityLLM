@@ -1,0 +1,31 @@
+{
+  "course_id": "1206688857",
+  "platform": "mooc_cn",
+  "title": "工程力学II",
+  "description": "工程力学II（运动学和动力学），以质点和刚体为研究对象，介绍其运动学分析和动力学分析的基本理论和基本方法。课程内容融入新工科和工程实例，探究知识的发现、发展与应用。教学素材丰富，有教学视频驻点、扩展资源，有难题讲解和丰富的自我测试题。课程难度适中，适合应用型本科院校学生和有兴趣的社会大众进行自我学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206688857",
+  "instructors": [
+    {
+      "name": "卢裕臻;黄成;王晓军;孙晓锋;陈静;龙兵;刘振强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4189,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

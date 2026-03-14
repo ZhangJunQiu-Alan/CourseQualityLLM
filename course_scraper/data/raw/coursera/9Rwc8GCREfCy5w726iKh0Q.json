@@ -1,0 +1,26 @@
+{
+  "course_id": "9Rwc8GCREfCy5w726iKh0Q",
+  "platform": "coursera",
+  "title": "생성형 AI 에이전트: 조직 혁신",
+  "slug": "gen-ai-agents-transform-your-organization-ko",
+  "description": "생성형 AI 에이전트: 조직 혁신'은 Gen AI Leader 학습 과정의 다섯 번째이자 마지막 과정입니다. 이 과정에서는 조직이 어떻게 커스텀 생성형 AI 에이전트를 사용해 특정 비즈니스 과제를 해결할 수 있는지 살펴봅니다. 모델, 추론 루프, 도구와 같은 에이전트의 구성요소를 살펴보며 기본적인 생성형 AI 에이전트를 빌드하는 실무형 실습을 진행합니다.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ko",
+  "url": "https://www.coursera.org/learn/gen-ai-agents-transform-your-organization-ko",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1471454162",
+  "platform": "mooc_cn",
+  "title": "刑法学总论：以案说法",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471454162",
+  "instructors": [
+    {
+      "name": "贾学胜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "暨南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1717,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003718001",
+  "platform": "mooc_cn",
+  "title": "地球信息科学与空间技术",
+  "description": "学生可通过随时的线上学习的方式，了解地球形态，地图投影、坐标变换、空间数据类型、模型及数据库构建技术，再结合线下的实际操作练习，掌握空间数据获取方式、影像处理、空间分析等功能。空间信息技术在国民经济建设、国家安全保障、城市交通与规划、资源环境管理以及灾害监测上发挥着重要作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003718001",
+  "instructors": [
+    {
+      "name": "赖日文",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建农林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6836,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

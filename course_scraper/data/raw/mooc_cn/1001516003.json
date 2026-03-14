@@ -1,0 +1,31 @@
+{
+  "course_id": "1001516003",
+  "platform": "mooc_cn",
+  "title": "理论力学",
+  "description": "哈工大理论力学教研室是全国最早成立的理论力学教研室，曾主持制定了全国第一部“理论力学”教学大纲。本课程为国家精品课程、国家精品资源共享课程，是基础力学国家级教学团队的重要组成课程，课程负责人孙毅教授为国家教学名师。哈工大理论力学教材是使用范围最广，发行量最大的《理论力学》教材。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001516003",
+  "instructors": [
+    {
+      "name": "孙毅;曾凡林;于红军;张莉;刘伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 396622,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

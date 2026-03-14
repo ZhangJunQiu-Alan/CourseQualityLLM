@@ -1,0 +1,44 @@
+{
+  "course_id": "course-7248ea90-dad7-4b7d-b4f3-946ed6eae5e3",
+  "platform": "edx",
+  "title": "Databases: Relational Databases and SQL",
+  "description": "About the Database Series of Courses  \n \"Databases\" was one of Stanford's three inaugural massive open online courses in the fall of 2011. It has been offered in synchronous and then in self-paced versions on a variety of platforms continuously since 2011. The material is now being offered as a set of five self-paced courses, which can be taken in a variety of ways to learn about different aspects of databases.  \n  Relational Databases and SQL  is the most popular course in the Databases series. It is applicable to learners seeking to gain a strong understanding of relational databases, and to master SQL, the long-accepted standard query language for relational database systems. Additional courses focus on advanced concepts in relational databases and SQL, formal foundations and database design methodologies, and semistructured data. \n All of the courses are based around video lectures and demos. Many of them include quizzes between video segments to check understanding, in-depth standalone quizzes, and/or a variety of automatically-checked interactive exercises. Each course also includes an unmoderated discussion forum and pointers to readings and resources. The courses are described briefly below. Taught by Professor Jennifer Widom, the overall curriculum draws from Stanford's popular longstanding Databases course. \n  Why Learn About Databases  \n Databases are incredibly prevalent -- they underlie technology used by most people every day if not every hour. Databases reside behind a huge number of websites; they're a crucial component of telecommunications systems, banking systems, video games, and just about any other software system or electronic device that maintains some amount of persistent information. In addition to persistence, database systems provide a number of other properties that make them exceptionally useful and convenient: reliability, efficiency, scalability, concurrency control, data abstractions, and high-level query languages. Databases are so ubiquitous and important that computer science graduates frequently cite their database class as the one most useful to them in their industry or graduate-school careers.",
+  "learning_goals": [
+    "Authorization (Computing)",
+    "Concurrency Controls",
+    "Reliability",
+    "Data Abstraction",
+    "SQL (Programming Language)",
+    "Scalability",
+    "Database Design",
+    "Computer Science",
+    "Query Languages",
+    "Relational Databases",
+    "Online Analytical Processing",
+    "Database Systems",
+    "Persistence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "2 周，每周 8-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jennifer-widom",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4642,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

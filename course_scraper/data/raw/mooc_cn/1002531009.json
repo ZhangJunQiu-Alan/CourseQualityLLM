@@ -1,0 +1,31 @@
+{
+  "course_id": "1002531009",
+  "platform": "mooc_cn",
+  "title": "自动控制理论",
+  "description": "本课程是电气工程及其自动化专业一门重要的专业课程，涵盖了古典控制的主要内容。围绕控制系统稳定性、动态特性和稳态特性，从时域和频域的角度讲授控制系统分析和综合的基本原理和方法。主要内容包括：反馈的基本概念、控制系统的数学模型、控制系统的时域分析方法、根轨迹法、频率特性法分析和校正等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002531009",
+  "instructors": [
+    {
+      "name": "郭犇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23749,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752026",
+  "platform": "mooc_cn",
+  "title": "工业机器人调试",
+  "description": "《工业机器人调试》主要面向机电一体化技术专业等非工业机器人技术专业开设的一门工业机器人应用课程。主要讲解工业机器人的基础知识 、编程操作、安装与调试技术，并通过搬运、码垛、焊接三个典型项目讲解工业机器人在不同应用中的调试技术。本课程配套教材《工业机器人系统集成》，王晓勇，高等教育出版社，9787040619072",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752026",
+  "instructors": [
+    {
+      "name": "杨海波;王晓勇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京工业职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30508,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

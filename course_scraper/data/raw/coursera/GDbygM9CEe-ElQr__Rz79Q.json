@@ -1,0 +1,26 @@
+{
+  "course_id": "GDbygM9CEe-ElQr__Rz79Q",
+  "platform": "coursera",
+  "title": "Build a Memory Game in React",
+  "slug": "build-a-memory-game-in-react",
+  "description": "Discover how to build a fully interactive memory game in React, designed to enhance your development skills and with a focus on accessibility. This course guides you through each step, from fetching and managing API data to designing reusable components and implementing user interactions.\n\nYou’ll work on challenges such as randomizing game elements, detecting matches, and handling errors. Along the way, you'll gain practical experience in solving common development problems.\n\nAccessibility is a key focus of the project, with detailed guidance on ARIA attributes, semantic HTML, and designing for inclusivity.\n\nThis course is ideal for anyone looking to deepen their React knowledge while working on a meaningful, real-world project. By the end, you’ll have an accessible, polished memory game that demonstrates your skills and commitment to building user-friendly applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-a-memory-game-in-react",
+  "instructors": [
+    {
+      "name": "Ajo Borgvold",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Scrimba"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

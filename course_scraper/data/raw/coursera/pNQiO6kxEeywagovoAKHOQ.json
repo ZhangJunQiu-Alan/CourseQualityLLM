@@ -1,0 +1,26 @@
+{
+  "course_id": "pNQiO6kxEeywagovoAKHOQ",
+  "platform": "coursera",
+  "title": "Fraud Detection on Financial Transactions with Machine Learning on Google Cloud",
+  "slug": "googlecloud-fraud-detection-on-financial-transactions-with-machine-learnin-3bian",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.\n\nExplore financial transactions data for fraud analysis, apply feature engineering and machine learning techniques to detect fraudulent activities using BigQuery ML.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-fraud-detection-on-financial-transactions-with-machine-learnin-3bian",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

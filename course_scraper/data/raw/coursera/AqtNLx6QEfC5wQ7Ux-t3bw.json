@@ -1,0 +1,26 @@
+{
+  "course_id": "AqtNLx6QEfC5wQ7Ux-t3bw",
+  "platform": "coursera",
+  "title": "使用 Vertex AI 和 Flutter 构建生成式 AI 智能体",
+  "slug": "build-generative-ai-agents-with-vertex-ai-and-flutter-zh",
+  "description": "在本课程中，您将学习如何使用 Google 的可移植 UI 工具包 Flutter 来开发应用，并将开发的应用与 Google 的生成式 AI 模型家族 Gemini 相集成。您还将练习使用 Vertex AI Agent Builder，这是 Google 为构建和管理 AI 智能体及应用而提供的平台。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.coursera.org/learn/build-generative-ai-agents-with-vertex-ai-and-flutter-zh",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

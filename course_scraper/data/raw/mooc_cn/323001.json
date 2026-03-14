@@ -1,0 +1,31 @@
+{
+  "course_id": "323001",
+  "platform": "mooc_cn",
+  "title": "茶艺",
+  "description": "茶，作为中国的传统文化，起源于中国，沿袭了千年的古韵与内涵。茶艺，完美地将茶与艺术融为一体，传承了中华民族的优秀传统文化。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/323001",
+  "instructors": [
+    {
+      "name": "王珊珊;索扬;徐京红;北京市外事学校     郑春英;李靖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 52580,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

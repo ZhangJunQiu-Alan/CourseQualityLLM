@@ -1,0 +1,31 @@
+{
+  "course_id": "1462118166",
+  "platform": "mooc_cn",
+  "title": "管理会计学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462118166",
+  "instructors": [
+    {
+      "name": "常真机;王爱娟;韩琳子;王娟;韩成成;朱艳平;苗晨;苏琴媛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州财经学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7300,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

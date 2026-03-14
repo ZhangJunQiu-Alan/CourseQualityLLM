@@ -1,0 +1,26 @@
+{
+  "course_id": "1esac0YqEe-xRA6omnSgfQ",
+  "platform": "coursera",
+  "title": ".NET Core Microservices - The Complete Guide (.NET 6 MVC)",
+  "slug": "packt-net-core-microservices-the-complete-guide-net-6-mvc-djsov",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you'll learn the foundational elements of microservices by building a real microservices-based application with .NET 6. We'll incrementally construct multiple microservices, utilizing IdentityServer for authentication and authorization. \n\nThe course covers basic blocks of IdentityServer, .NET API, Ocelot, Entity Framework Core, and clean architecture with .NET 6. You'll develop e-commerce modules including product, shopping cart, ordering, payment, and email microservices, using SQL Server and Azure Service Bus with Ocelot API Gateway. \n\nBy the end of the course, you'll have a complete application with seven fully functional .NET-based microservices, understanding every line of code and their interactions. Topics include .NET 6 microservices architecture, role-based authorization with IdentityServer, Azure Blob Storage basics, and Azure Service Bus. This course is designed for intermediate to advanced developers with a basic understanding of .NET Core and MVC frameworks. Familiarity with C# programming and fundamental web development concepts is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-net-core-microservices-the-complete-guide-net-6-mvc-djsov",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

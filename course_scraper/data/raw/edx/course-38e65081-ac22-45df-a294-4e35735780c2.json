@@ -1,0 +1,50 @@
+{
+  "course_id": "course-38e65081-ac22-45df-a294-4e35735780c2",
+  "platform": "edx",
+  "title": "Battery Management Systems (BMS) and Pack Design",
+  "description": "Explore the vital role of Battery Management Systems (BMS) in ensuring the performance, safety, and longevity of lithium-ion battery packs. This course is designed for engineers, researchers, and technical professionals seeking in-depth knowledge of battery technology and pack management systems. \n \n \n Comprehensive coverage: Delve into the key functions of BMS for battery packs, including protection, and monitoring of the state of the battery. \n \n \n Practical insights: Understand critical pack-level parameters such as voltage, current and temperature, and explore advanced topics in thermal management and fault detection for battery packs. \n \n \n Real-world applications: Discover how BMS is implemented in the real world, directly impacting the reliability and efficiency of battery packs. \n \n \n Expert instruction: Taught by experienced professionals in battery research and engineering, with theoretical insights and practical applications. \n \n \n Focusing on both foundational concepts and future innovations, this course equips you with the skills to effectively design battery management systems (BMS) for cutting-edge energy solutions.",
+  "learning_goals": [
+    "Thermal Management",
+    "Battery Pack",
+    "Voltage",
+    "Electronics",
+    "Electric Vehicles",
+    "Battery Technology",
+    "Battery Management",
+    "Research",
+    "Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "zian-qin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "gautham-ram",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "chiara-falsetti",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 596,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

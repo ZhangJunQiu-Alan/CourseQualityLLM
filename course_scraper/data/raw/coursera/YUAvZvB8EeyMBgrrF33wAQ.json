@@ -1,0 +1,26 @@
+{
+  "course_id": "YUAvZvB8EeyMBgrrF33wAQ",
+  "platform": "coursera",
+  "title": "Analytics as a Service for Data Sharing Partners",
+  "slug": "googlecloud-analytics-as-a-service-for-data-sharing-partners-tek4n",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab you will learn how Authorized Views in BigQuery can be shared and consumed to create customer-specific dashboards.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-analytics-as-a-service-for-data-sharing-partners-tek4n",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

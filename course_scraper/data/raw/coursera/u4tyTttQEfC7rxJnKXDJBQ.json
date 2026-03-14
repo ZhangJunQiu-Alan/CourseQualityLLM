@@ -1,0 +1,26 @@
+{
+  "course_id": "u4tyTttQEfC7rxJnKXDJBQ",
+  "platform": "coursera",
+  "title": "Trace and Fix Data Anomalies",
+  "slug": "trace-and-fix-data-anomalies",
+  "description": "Did you know that hidden data anomalies can cascade through pipelines and corrupt entire dashboards, models, and business decisions? Finding the source of a data issue quickly is essential for maintaining trustworthy analytics and automated workflows.\n\nThis Short Course was created to help professionals in this field build reliable data quality monitoring and debugging capabilities for maintaining trustworthy automated data workflows.\n\nBy completing this course, you will be able to trace data anomalies back to their origin, inspect upstream and downstream dependencies, and diagnose quality failures inside complex pipelines—skills that dramatically reduce downtime and improve overall data reliability.\n\nBy the end of this course, you will be able to:\n\nInvestigate data quality issues by tracing anomalies to their source within a data pipeline.\n\nThis course is unique because it connects data engineering principles with hands-on debugging techniques, giving you the practical skills needed to keep pipelines accurate, resilient, and ready for production demands.\n\nTo be successful in this project, you should have:\n\nBasic SQL knowledge\nUnderstanding of data pipeline concepts\nFamiliarity with ETL and ELT workflows",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "117 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/trace-and-fix-data-anomalies",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

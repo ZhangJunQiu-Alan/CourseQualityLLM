@@ -1,0 +1,31 @@
+{
+  "course_id": "1205807831",
+  "platform": "mooc_cn",
+  "title": "电力电子技术",
+  "description": "本课程比较完整地介绍了电力电子技术的基础知识，比较深入地分析了电能变换技术，力求课程内容的系统性、完整性以及内容上的新颖性和先进性。根据MOOC课程的特点以及电气信息类专业大学生和工程技术人员学习的需要，做到教学内容的循序渐进，讲课方式的深入浅出。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205807831",
+  "instructors": [
+    {
+      "name": "徐建明;南余荣;吴春;谢路耀",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 84848,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

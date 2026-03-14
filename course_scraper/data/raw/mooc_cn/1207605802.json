@@ -1,0 +1,31 @@
+{
+  "course_id": "1207605802",
+  "platform": "mooc_cn",
+  "title": "生理学",
+  "description": "《生理学》是一门医学专业基础课程，是学生学习其他医学基础课程和后续临床专业课程的重要基础。通过课程的学习使学生学会运用唯物辩证法的思想和方法论，即用局部与整体、动态与平衡、相互联系和对立统一的思想观点去认识和掌握人体正常生命活动及其基本规律，其基本内容包括细胞生理学、循环生理、呼吸生理、神经生理、消化生理、内分泌生理、生殖生理等，及影响和调节这些功能的因素。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207605802",
+  "instructors": [
+    {
+      "name": "吴隽松",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏医药职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13300,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

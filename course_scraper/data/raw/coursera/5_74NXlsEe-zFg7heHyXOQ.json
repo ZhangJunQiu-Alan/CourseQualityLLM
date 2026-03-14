@@ -1,0 +1,26 @@
+{
+  "course_id": "5_74NXlsEe-zFg7heHyXOQ",
+  "platform": "coursera",
+  "title": "Chaos Engineering",
+  "slug": "chaos-engineering",
+  "description": "In today's fast-paced digital landscape, system resilience is vital for businesses of all sizes. \"Chaos Engineering\" is a comprehensive and hands-on course designed to equip you with the knowledge and skills needed to ensure your systems withstand and recover from failures. From foundational concepts to advanced applications on various AWS services, including EC2, Aurora, Fargate, and EKS, as well as strategies to ensure availability across multiple Availability Zones.\n\nWhat You’ll Learn:\n\nChaos Engineering Fundamentals:\n\nUnderstand core principles and the philosophy behind Chaos Engineering.\nLearn why identifying and addressing system weaknesses through controlled chaos experiments is vital.\nExplore essential tools and methodologies for implementing Chaos Engineering.\nBuilding a Basic Fault Injection Simulation (FIS) Experiment:\n\nGain a step-by-step understanding of constructing and executing your first Fault Injection Simulation (FIS) experiment.\nUnderstand how to design experiments targeting different failure modes in a controlled setting.\nLearn to interpret experiment results and refine your simulations for better accuracy.\nIntroduction to Real-Life Application:\n\nDiscover how to apply Chaos Engineering experiments to real-world applications.\nLearn best practices for monitoring, capturing metrics, and analyzing results to continually improve system resilience.\nChaos Engineering on Compute - EC2:\n\nConduct chaos experiments on EC2 instances to evaluate and improve system robustness.\nSimulate failures, such as instance termination or network latency, and observe impacts.\nChaos Engineering on Database - Aurora:\n\nLearn to apply Chaos Engineering principles to Amazon Aurora databases.\nSimulate failures like cluster instability or node outages and develop strategies for seamless recovery.\nChaos Engineering on Serverless - Fargate:\n\nConduct chaos experiments on AWS Fargate to test the resilience of your serverless applications.\nSimulate events like task failures or service downtime to ensure robust serverless architectures.\nChaos Engineering on Kubernetes - EKS:\n\nImplement Chaos Engineering on Amazon EKS to stress-test Kubernetes clusters.\nSimulate pod failures, node crashes, and other disruptions to validate recovery mechanisms.\nChaos Engineering on Availability Zone:\n\nConduct chaos experiments across different AWS Availability Zones.\nTest the impact of zone failures and ensure your systems are prepared for multi-availability zone disasters.\n\nTarget Audience:\n\n- Developers interested in enhancing their systems’ resilience.\n- Site Reliability Engineers (SREs) focused on improving system reliability.\n- Cloud Engineers managing AWS environments.\n- Technical Support Engineers specializing in fault-tolerant systems.\n- Technical Leads overseeing cloud-native application projects.\n\nThis course, with its combination of theory, demonstrations, and real-world scenarios, will enable you to build resilient systems capable of withstanding and recovering from unexpected failures efficiently. Join us to master Chaos Engineering and innovate with confidence.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/chaos-engineering",
+  "instructors": [
+    {
+      "name": "Nasia Ullas",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "KodeKloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

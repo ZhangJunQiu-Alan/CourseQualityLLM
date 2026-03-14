@@ -1,0 +1,26 @@
+{
+  "course_id": "bj3kRxAGEeuxfQ6BNcXwEQ",
+  "platform": "coursera",
+  "title": "Process Map Data using C++ Adjacency List Shortest Path",
+  "slug": "process-map-data-using-cpp-adjacency-list-shortest-path",
+  "description": "In this project you will use the adjacency list data structure and other data structures to find the shortest distance between a set of towns loaded from a file.\n\nThe shortest path problem is well known in the field of computer science. An adjacency list is probably the best data structure to represent a set of connected vertices to find the shortest path from one vertex to another. One application for shortest paths is in computer networking routing. Another common application for its use is on a Map, where it is useful to find the shortest distance from one town to another.\n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/process-map-data-using-cpp-adjacency-list-shortest-path",
+  "instructors": [
+    {
+      "name": "David Dalsveen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

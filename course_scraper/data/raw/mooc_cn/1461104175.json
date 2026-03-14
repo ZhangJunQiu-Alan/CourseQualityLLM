@@ -1,0 +1,31 @@
+{
+  "course_id": "1461104175",
+  "platform": "mooc_cn",
+  "title": "大学德语1",
+  "description": "本课程使用教材《大学通用德语》第一册（高等教育出版社，2015-2016）。现在开课的《大学德语1》是这套教材的第一册1-4单元共15课，后续开课的《大学德语2》是第一册5-9单元共15课。       完成2个学期共计10个单元30课的在线课程学习，使得学习者在学习完本课程后能够掌握德语语音、基础语法及基础词汇，能够进行简单的日常对话，书写简单的信函邮件、对话，借助词典工具书可以阅读一般资料，为进一步深入学习、提高德语水平打下语言基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461104175",
+  "instructors": [
+    {
+      "name": "邓涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14435,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

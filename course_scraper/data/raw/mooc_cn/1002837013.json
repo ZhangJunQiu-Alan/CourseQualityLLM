@@ -1,0 +1,31 @@
+{
+  "course_id": "1002837013",
+  "platform": "mooc_cn",
+  "title": "软硬件综合设计",
+  "description": "该课程是一门综合案例实践课。在学习该课程之前，学习者应该具备计算机软硬件及编程方面的基础知识。课程中通过3-5个案例的讲解，期望学习者能较全面的了解和掌握有关控制台编程、Web编程及系统硬件及数据分析方面的开发与设计流程，也希望能够帮助学习者尽快地将所学基础知识融入开发实践。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002837013",
+  "instructors": [
+    {
+      "name": "薄钧戈;吴宁;齐琪;谢涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12850,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

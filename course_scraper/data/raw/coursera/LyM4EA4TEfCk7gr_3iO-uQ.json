@@ -1,0 +1,26 @@
+{
+  "course_id": "LyM4EA4TEfCk7gr_3iO-uQ",
+  "platform": "coursera",
+  "title": "Getting Started with Splunk Cloud GDI on Google Cloud",
+  "slug": "googlecloud-getting-started-with-splunk-cloud-gdi-on-google-cloud-ohwd5",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. A step-by-step guide through the process to configure multiple methods to ingest Google Cloud data into Splunk",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-getting-started-with-splunk-cloud-gdi-on-google-cloud-ohwd5",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

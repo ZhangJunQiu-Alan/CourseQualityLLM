@@ -1,0 +1,31 @@
+{
+  "course_id": "235006",
+  "platform": "mooc_cn",
+  "title": "计算机系统与网络安全技术",
+  "description": "本课程由电子科技大学周世杰教授主讲，其内容涵盖计算机网络安全、操作系统安全、系统可靠性、安全审计等相关内容。课程所授内容结合了授课教师多年科研成果，具有较强的实用性和前沿性。通过本课程的学习，学生可以掌握常见的计算机系统与网络安全的防御技术，具备一定的信息安全实践技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/235006",
+  "instructors": [
+    {
+      "name": "周世杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 90793,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

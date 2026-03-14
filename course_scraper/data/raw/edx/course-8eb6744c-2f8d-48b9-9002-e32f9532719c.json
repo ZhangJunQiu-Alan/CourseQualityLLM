@@ -1,0 +1,39 @@
+{
+  "course_id": "course-8eb6744c-2f8d-48b9-9002-e32f9532719c",
+  "platform": "edx",
+  "title": "Pediatric HIV",
+  "description": "Taught by leading experts in pediatric HIV clinical care and treatment, nursing, and global health, this course will equip nurses, midwives, and healthcare professionals with the skills they need to provide quality clinical care to children living with HIV according to the latest clinical guidelines from the World Health Organization. The course is self-paced to accommodate individual schedules and learning needs. \n ICAP at Columbia University has been a leader in international HIV care and treatment for over a decade. We have worked with governments and local organizations to help make HIV care and treatment widely available and patient centered. Through sharing lessons learned and insights from ICAP’s work, we hope to improve your knowledge and appreciation for pediatric HIV care and treatment and ultimately the care that children living with HIV receive.",
+  "learning_goals": [
+    "Nursing Care",
+    "Pediatrics",
+    "Nursing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dr-susan-michaels-strasser",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "icap-columbia-university",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Columbia University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 374,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "i_nnquSEEe2nnBJXwaSqgQ",
+  "platform": "coursera",
+  "title": "6. 警告を発する： 検知と対応",
+  "slug": "detection-and-response-jp",
+  "description": "Google サイバーセキュリティ プロフェッショナル認定証の 6 つめのコースです。各コースでは初級サイバーセキュリティの職に必要なスキルを身につけることができます。\n\nこのコースでは、検知とインシデント対応に焦点を当てます。具体的には、セキュリティインシデントを定義し、インシデント対応チームの役割と責任など、インシデント対応のライフサイクルを学びます。またパケット スニッフィングのツールを使用してネットワーク トラフィックをキャプチャし、セキュリティ インシデントを検知するためにネットワーク通信を分析、解釈します。アセスメントを行い、アーティファクトを分析することで、インシデント調査および対応のプロセスや手順を検討し、不正侵入検知システム（IDS）とセキュリティ情報イベント管理（SIEM）ツールの使用方法についても学びます。\n\nサイバーセキュリティの分野で働いている現職の Google 社員が最適なツールやリソースを使って一般的なサイバーセキュリティの業務を遂行する実践的な方法を指導します。また就職活動への準備も手助けします。\n\nこの認定プログラムを修了すると、エントリーレベルのサイバーセキュリティの職に応募できるようになります。過去の業務経験は不要です。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/detection-and-response-jp",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

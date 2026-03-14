@@ -1,0 +1,26 @@
+{
+  "course_id": "PkhXq-k9Ee-ccQr_xjRSew",
+  "platform": "coursera",
+  "title": "Examining MPLS VPN Operation",
+  "slug": "examining-mpls-vpn-operation",
+  "description": "Elevate your network expertise with this comprehensive course on VPN principles and MPLS VPN architecture. You'll gain an in-depth understanding of VPNs—why they were created, the essential terminology, and how overlay and peer-to-peer models differ in implementation, benefits, and challenges. The curriculum moves beyond the basics to unravel the unique components and layered structure of MPLS VPNs, including route distinguishers (RDs), route targets (RTs), virtual routing tables, and address propagation.\n\nUniquely, this course offers a side-by-side perspective from both customer and service provider viewpoints, clarifying how routing tables function on PE routers and how end-to-end data flows via MPLS VPN backbones. You’ll learn when and why organizations deploy VPNs, the advantages they bring for efficiency and security, and how MPLS traffic engineering drives performance—insights essential for future network architects and troubleshooters.\n\nBy capturing these advanced concepts in a practical context, you’ll be prepared to design, configure, and optimize networks that are robust, secure, and scalable—a capability increasingly sought after in today’s interconnected world.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/examining-mpls-vpn-operation",
+  "instructors": [
+    {
+      "name": "Cisco Learning & Certifications",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Cisco Learning and Certifications"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

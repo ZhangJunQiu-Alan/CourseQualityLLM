@@ -1,0 +1,26 @@
+{
+  "course_id": "Gdbc8jqPEe6PABLgKXk5yQ",
+  "platform": "coursera",
+  "title": "Introduction to DevSecOps",
+  "slug": "devsecops",
+  "description": "Venture into the realm of DevSecOps with this immersive course. This course is designed to provide a comprehensive overview of this integration, shedding light on the significance of embedding security into every phase of the development process.\n\nIn the first module, you will delve into understanding and implementing DevSecOps. You'll gain insights into the best practices for secure development, from the initial ideation phase right through to deployment, ensuring the delivery of secure software products.\n\nThe second module covers the transformative role of automation in DevSecOps. It showcases how automation can not only enhance efficiency and code quality but also speed up release cycles and reduce vulnerabilities.\n\nBy the conclusion of this course, learners will not just be familiar with the theoretical concepts of DevSecOps but will be equipped with the practical skills needed to implement these principles in real-world scenarios. They will be poised to champion efficiency, security, and collaboration within their respective organizations, driving impactful change.\n\nDisclaimer: This is an independent educational resource created by Board Infinity for informational and educational purposes only. This course is not affiliated with, endorsed by, sponsored by, or officially associated with any company, organization, or certification body unless explicitly stated. The content provided is based on industry knowledge and best practices but does not constitute official training material for any specific employer or certification program. All company names, trademarks, service marks, and logos referenced are the property of their respective owners and are used solely for educational identification and comparison purposes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 Weeks of Study,  4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/devsecops",
+  "instructors": [
+    {
+      "name": "Board Infinity",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Board Infinity "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

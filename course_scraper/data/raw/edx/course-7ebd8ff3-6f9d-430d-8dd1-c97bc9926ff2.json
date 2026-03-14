@@ -1,0 +1,45 @@
+{
+  "course_id": "course-7ebd8ff3-6f9d-430d-8dd1-c97bc9926ff2",
+  "platform": "edx",
+  "title": "AWS Solutions Architect - From Design to Implementation",
+  "description": "In this course, you’ll get prepared to begin your career architecting solutions on AWS. Through a series of use case scenarios and practical learning, you’ll learn to identify services and features to build resilient, secure, and highly available IT solutions in the AWS Cloud. Each week, a fictional customer will present a different need. We will then review the options, choose the best one for the use case and walk you through the architecture design on a whiteboard. You’ll learn about event-driven architectures with a focus on performance efficiency and cost. You’ll then gain knowledge on how to architect a solution using many purpose-built AWS services. With this understanding, you’ll get a sense of hybrid architectures with a refined focus on reliability and operational efficiency. Finally, you’ll wrap up your learning by understanding a multi-account strategy centered on security and cost.",
+  "learning_goals": [
+    "Architectural Design",
+    "Cloud Computing",
+    "Solution Architecture",
+    "AWS Certified Solutions Architect Associate",
+    "Account Strategy",
+    "Operational Efficiency",
+    "Amazon Web Services",
+    "Event-Driven Programming",
+    "Resilience"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "morgan-willis",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rafael-lopes",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 553,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

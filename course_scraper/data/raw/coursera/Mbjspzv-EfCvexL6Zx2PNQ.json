@@ -1,0 +1,26 @@
+{
+  "course_id": "Mbjspzv-EfCvexL6Zx2PNQ",
+  "platform": "coursera",
+  "title": "Python GUI Development with Tkinter: Build Pro Desktop Apps",
+  "slug": "packt-python-gui-development-with-tkinter-build-pro-desktop-apps-3ozla",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nLearn to build professional desktop applications with Python's Tkinter library! This course introduces you to the world of GUI development, from understanding Tkinter's core features to creating intuitive user interfaces. By mastering Tkinter's essential building blocks, you'll be able to design responsive, feature-rich applications. You'll dive into key widgets like Labels, Buttons, Entry, and Canvas, while discovering how to manage layouts using geometry managers.\n\nAs you progress, you'll learn to customize each UI element, giving your applications a polished look with advanced features like colors, fonts, and interactive elements. We also take a hands-on approach by guiding you through the development of a real-life project—a calculator app that incorporates everything you've learned.\n\nThis course is perfect for aspiring developers looking to master GUI design in Python. It's suitable for beginners with basic programming knowledge who want to expand their skills to include user interface development.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-python-gui-development-with-tkinter-build-pro-desktop-apps-3ozla",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

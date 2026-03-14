@@ -1,0 +1,26 @@
+{
+  "course_id": "FSSadswiEfC_WA6vdvdWGw",
+  "platform": "coursera",
+  "title": " Vulnerability Assessment and Management",
+  "slug": "vulnerability-assessment-and-management",
+  "description": "This program equips cybersecurity professionals, IT teams, and system administrators with the foundational knowledge and practical skills needed to identify, analyze, and remediate vulnerabilities across modern enterprise environments. You’ll start by understanding the vulnerability assessment lifecycle, exploring how weaknesses emerge in networks, systems, and web applications, and learning the principles behind risk, exposure, and exploitability.\n\nNext, you’ll dive into hands-on vulnerability assessment techniques, using tools such as Nmap, Nikto, and open-source scanners to perform host discovery, service enumeration, and web application checks. You’ll learn how to validate findings, classify severity using structured scoring methods, and document vulnerabilities effectively for organizational reporting.\n\nYou’ll then advance into vulnerability management, where you’ll design patching workflows, apply configuration hardening practices, automate remediation tasks, and perform post-fix validation. You will also learn how to build governance processes, track metrics, and create dashboards that support long-term risk reduction and audit readiness.\n\nBy the end of this program, you will be able to:\n\n- Explain the core concepts of vulnerability assessment and the full assessment lifecycle.\n\n- Distinguish between vulnerabilities, threats, risks, and exploits in enterprise environments.\n\n- Conduct network and web vulnerability scans using open-source tools such as Nmap and Nikto.\n\n- Validate scan results, classify vulnerabilities, and prioritize remediation using risk-based scoring.\n\n- Implement patch management, configuration hardening, and automated remediation techniques.\n\n- Design and document a vulnerability management program aligned with governance requirements.\n\n- Create consolidated reports and dashboards to track vulnerabilities and support compliance.\n\nThis course is designed for cybersecurity engineers, SOC analysts, network administrators, DevOps practitioners, and IT security professionals seeking to strengthen their skills in vulnerability assessment and operational risk management.\n\nJoin us to develop the practical, analytical, and strategic skills required to secure enterprise systems through effective vulnerability assessment and management practices.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 3 - 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/vulnerability-assessment-and-management",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

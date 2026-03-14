@@ -1,0 +1,31 @@
+{
+  "course_id": "1449619166",
+  "platform": "mooc_cn",
+  "title": "审计学",
+  "description": "《审计学》主要介绍审计理论、审计方法与审计实务应用。通过学习让学生掌握审计学的基本概念、基本理论和方法，掌握审计实务的基本程序，了解国内外审计发展动态。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449619166",
+  "instructors": [
+    {
+      "name": "刘舒;郑唯;马圆明;曹颖照;仲怀公;孙红莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京审计大学金审学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26982,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

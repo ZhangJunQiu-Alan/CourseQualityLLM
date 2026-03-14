@@ -1,0 +1,31 @@
+{
+  "course_id": "1002604092",
+  "platform": "mooc_cn",
+  "title": "移动通信基站建设与维护",
+  "description": "《移动通信基站建设与维护》课程围绕基站工程建设周期（网络规划→勘察设计→基站建设→运行维护→无线优化），提炼ICT领域和职业岗位能力要求，选取“基站勘察与设计、基站配置与调测、无线测试与优化”3大典型工作任务10个学习情境。   “学非探其花,要自拔其根”。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002604092",
+  "instructors": [
+    {
+      "name": "王昆",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6963,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

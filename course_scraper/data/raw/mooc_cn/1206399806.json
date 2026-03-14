@@ -1,0 +1,31 @@
+{
+  "course_id": "1206399806",
+  "platform": "mooc_cn",
+  "title": "微波技术与天线",
+  "description": "随着信息时代的到来，做为信息主要载体的高频电磁波—微波，在卫星通信、计算机通信、移动通信等新兴学科领域得到了广泛应用，甚止在人们的日常生活中也扮演着重要角色。“微波技术与天线”课程引领你进入微波的世界，认识微波信号传输、发射、传播、接收的理论与方法，成为一个微波电路的设计者。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206399806",
+  "instructors": [
+    {
+      "name": "陈曦;李延平;王新稳;李勇;杨熙;王楠;樊芳芳;侯建强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 40360,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

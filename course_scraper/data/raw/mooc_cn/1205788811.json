@@ -1,0 +1,31 @@
+{
+  "course_id": "1205788811",
+  "platform": "mooc_cn",
+  "title": "电子技术应用实验2（数字电路综合实验）",
+  "description": "本课程团队教师均来自国家级实验教学示范中心，具有丰富的实验教学经验，本课程以典型数字电路为研究对象，精心设计的线上课程内容丰富，有基本数字模块的综合应用、有电子秒表、延时灯、电子贺卡、交通灯的设计实例、有基于Verilog的FPGA设计应用、有电路仿真方法的展示、有电路测试方法的学习引导，还有在电路设计中如何提出问题、发现问题、解决问题的方法讨论。在课程的设计上既重视学生对基础理论知识的认知过程又强调对知识的灵活应用，为学生逐步提高电路应用能力、设计能力和独立思考能力提供了硬件平台与设计指导。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205788811",
+  "instructors": [
+    {
+      "name": "陈瑜;陈英;王丁;李雷;李春梅;李庆嵘",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16277,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

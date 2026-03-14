@@ -1,0 +1,31 @@
+{
+  "course_id": "1002199011",
+  "platform": "mooc_cn",
+  "title": "化工原理（上册）",
+  "description": "“化工原理”是化工相关专业的主干专业基础课程。其应用传递理论研究化工单元操作，以过程工程为背景，使学生在理论和实践上掌握单元操作的过程与设备原理，进而完成设计型和操作型计算，提高分析和解决问题能力。大连理工大学《化工原理》（上册）包括： 1）流体流动基础、2）流体输送设备、3）流体与颗粒的相对运动、4）传热过程及换热器和5）蒸发 共5章。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002199011",
+  "instructors": [
+    {
+      "name": "都健;王瑶;吴雪梅;肖武",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 57852,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

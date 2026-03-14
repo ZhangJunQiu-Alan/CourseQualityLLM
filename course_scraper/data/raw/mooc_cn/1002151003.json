@@ -1,0 +1,31 @@
+{
+  "course_id": "1002151003",
+  "platform": "mooc_cn",
+  "title": "混凝土结构平法识图",
+  "description": "平面整体表示方法（简称平法）在工程中普遍应用，大幅提高了设计效率的同时，也大幅提高了识读施工图的技术含量。初学者面对图纸中抽象的数字和符号，理解起来往往比较吃力。本课程利用BIM技术和虚拟现实技术，通过三维模型、动画等直观地呈现图纸表达的信息和钢筋构造，使平法识图学习变得轻松容易。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002151003",
+  "instructors": [
+    {
+      "name": "王仁田;林宏剑;蒋敏;高美林;潘娅红;汪洋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29791,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

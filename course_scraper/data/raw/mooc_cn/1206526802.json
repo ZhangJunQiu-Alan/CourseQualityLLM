@@ -1,0 +1,31 @@
+{
+  "course_id": "1206526802",
+  "platform": "mooc_cn",
+  "title": "大学物理（下）",
+  "description": "本课程是面向全校理工科专业的公共基础课，是涉及学生人数最多、受益面最广的课程之一。录制课程内容涵盖了教育部理工科非物理类专业大学物理课程教学基本要求所有A类知识点。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206526802",
+  "instructors": [
+    {
+      "name": "郑建邦;白晓军;李东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 43487,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

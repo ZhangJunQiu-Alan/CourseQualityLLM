@@ -1,0 +1,26 @@
+{
+  "course_id": "5Gh8cen3Ee2B5Q7slTWOqw",
+  "platform": "coursera",
+  "title": "Nonlinear Kalman Filters (and Parameter Estimation)",
+  "slug": "nonlinear-kalman-filters-parameter-estimation",
+  "description": "As a follow-on course to \"Linear Kalman Filter Deep Dive\", this course derives the steps of the extended Kalman filter and the sigma-point Kalman filter for estimating the state of nonlinear dynamic systems. You will learn how to implement these filters in Octave code and compare their results. You will be introduced to adaptive methods to tune Kalman-filter noise-uncertainty covariances online. You will learn how to estimate the parameters of a state-space model using nonlinear Kalman filters.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "Four weeks of study, about 5 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/nonlinear-kalman-filters-parameter-estimation",
+  "instructors": [
+    {
+      "name": "Gregory Plett",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado System"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "y1nKy6yCEe-K5gr_wwzjAQ",
+  "platform": "coursera",
+  "title": "Jmeter training for Beginners",
+  "slug": "jmeter-training-for-beginners",
+  "description": "This JMeter for Performance and API Testing course equips you with the skills to design, run, and automate performance and API tests using Apache JMeter. Begin with the fundamentals of performance testing—learn JMeter setup, key testing processes, and popular tools. Explore how JMeter simulates real-world load to assess application scalability and reliability. Progress to API testing with hands-on demos to validate performance and functionality. Conclude with script recording to capture user behavior and generate reusable test plans.\n\nTo be successful in this course, you should have a basic understanding of web applications, APIs, and some experience with software testing or DevOps workflows.\n\nBy the end of this course, you will be able to:\n\n- Set up and configure JMeter for performance testing\n- Simulate load and analyze scalability using JMeter\n- Test APIs for performance and reliability with real-world scenarios\n- Record and reuse user flows using JMeter’s script recording feature\n\nIdeal for QA testers, performance engineers, and DevOps professionals.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/jmeter-training-for-beginners",
+  "instructors": [
+    {
+      "name": "Priyanka Mehta",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Simplilearn"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

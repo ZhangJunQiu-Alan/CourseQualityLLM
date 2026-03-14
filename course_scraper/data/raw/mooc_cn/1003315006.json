@@ -1,0 +1,31 @@
+{
+  "course_id": "1003315006",
+  "platform": "mooc_cn",
+  "title": "黄酒检测技术",
+  "description": "该课程是酿酒技术专业的专业核心课程，是以偏重实践操作为主的“理实一体化”课程。课程以黄酒生产过程为主线，以具体的工作过程为导向，以任务为驱动，总共安排6个模块，3.5学分，共52学时，其中25个实践操作学时。通过该课程的学习能掌握酒类分析与检测一些基本知识，能鉴别酒类生产原料与产品质量的优劣。对学生参加\"化学实验室技术\"赛项技能竞赛与考取黄酒类相关的职业技能证书有很大的帮助。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003315006",
+  "instructors": [
+    {
+      "name": "魏桃英;张梦薇;葛松涛;胡志明;寿泉洪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江工业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3937,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

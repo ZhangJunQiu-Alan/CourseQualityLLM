@@ -1,0 +1,31 @@
+{
+  "course_id": "1205666803",
+  "platform": "mooc_cn",
+  "title": "基础法语",
+  "description": "《基础法语》课程面向零基础学员，从语音、语法以及对话三个方面讲解。语音部分讲授发音规则；语法部分讲授法语基础语法结构；对话部分分10个主题、22个对话情景，从提出问题、两遍对话、回答问题以及句型训练五个步骤进行。通过本课程的学习，学生可掌握入门阶段知识，拼读法语词句，进行基础对话。后续课程：《进阶法语》https://www.icourse163.org/course/0502FZFU003-1449804168",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205666803",
+  "instructors": [
+    {
+      "name": "石琳;章赟菡;张能",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福州外语外贸学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 96147,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

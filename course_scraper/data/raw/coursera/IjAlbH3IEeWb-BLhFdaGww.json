@@ -1,0 +1,26 @@
+{
+  "course_id": "IjAlbH3IEeWb-BLhFdaGww",
+  "platform": "coursera",
+  "title": "Introduction to Power Electronics",
+  "slug": "power-electronics",
+  "description": "This course can also be taken for academic credit as ECEA 5700, part of CU Boulder’s Master of Science in Electrical Engineering degree.\n\nThis course introduces the basic concepts of switched-mode converter circuits for controlling and converting electrical power with high efficiency. Principles of converter circuit analysis are introduced, and are developed for finding the steady state voltages, current, and efficiency of power converters. Assignments include simulation of a dc-dc converter, analysis of an inverting dc-dc converter, and modeling and efficiency analysis of an electric vehicle system and of a USB power regulator.\n\nAfter completing this course, you will:\n● Understand what a switched-mode converter is and its basic operating principles\n● Be able to solve for the steady-state voltages and currents of step-down, step-up, inverting, and other power converters\n● Know how to derive an averaged equivalent circuit model and solve for the converter efficiency\n\nA basic understanding of electrical circuit analysis is an assumed prerequisite for this course.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 1-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/power-electronics",
+  "instructors": [
+    {
+      "name": "Dr. Robert Erickson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

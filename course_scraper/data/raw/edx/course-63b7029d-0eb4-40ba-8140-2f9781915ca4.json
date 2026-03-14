@@ -1,0 +1,53 @@
+{
+  "course_id": "course-63b7029d-0eb4-40ba-8140-2f9781915ca4",
+  "platform": "edx",
+  "title": "Prescription Drug Regulation, Cost, and Access: Current Controversies in Context",
+  "description": "Prescription drugs are among the most common health care interventions and have turnedsome once-fatal diseases into manageable conditions — but they have also been a growing source of controversy. Patients in the US struggle with increasing costs and express concerns about whymany conditions,such as Alzheimer’s disease, remain without adequate therapeutic options. \n At the center of these debates lies the US Food and Drug Administration (FDA), a federal agency responsible for monitoring the prescription drug marketplace and enforcing basic rules and laws that affect how prescription drugs are discovered, developed, and sold. \n This course investigates the major issues affecting the regulatory approval and evidence-based use of prescription drugs. You willlearn the rules and regulationsgoverning the pricing, marketing, and safety monitoring of approved prescription drugs and the importance of the FDA in regulating key aspects of the pharmaceutical market.",
+  "learning_goals": [
+    "Drug Administration",
+    "Medical Prescription",
+    "Medical Education",
+    "Marketing",
+    "Safety Monitoring",
+    "Drug Development",
+    "Pharmaceuticals"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 2-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "aaron-kesselheim",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jonathan-darrow",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ameet-sarpatwari",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jerry-avorn",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1866,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

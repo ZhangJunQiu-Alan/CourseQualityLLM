@@ -1,0 +1,59 @@
+{
+  "course_id": "course-f6623bd8-ea35-42b2-880c-77a2f9c744b0",
+  "platform": "edx",
+  "title": "Circuits and Electronics 2: Amplification, Speed, and Delay",
+  "description": "Want to learn how to construct an amplifier for mobile phones? Wondering how energy storage elements like capacitors and inductors work, or how to make microchips run faster? This free circuits course taught by edX CEO and MIT Professor Anant Agarwal and colleagues is for you.  \n This is the second of three online Circuits and Electronics courses and is taken by all MIT Electrical Engineering and Computer Science (EECS) majors.  \n Topics covered include: MOSFET large signal and small signal analysis; amplifiers; energy storage elements like capacitors and inductors; and dynamics of first-order networks and circuit speed. Design and lab exercises are also significant components of the course.  \n Weekly coursework includes interactive video sequences, readings from the textbook, homework, online laboratories, and optional tutorials. The course will also have a final exam.  \n This is a self-paced course, so there are no weekly deadlines. However, all assignments are due when the course ends.",
+  "learning_goals": [
+    "Computer Science",
+    "Smartphone Operation",
+    "Capacitors",
+    "Inductors",
+    "Electrical Engineering",
+    "Electronics",
+    "Digital Electronics",
+    "Mobile Phones"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 7-9 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "anant-agarwal-0",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "gerald-sussman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "piotr-mitros-0",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "chris-terman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "bonnie-lam",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 672,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

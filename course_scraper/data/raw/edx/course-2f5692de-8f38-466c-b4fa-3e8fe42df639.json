@@ -1,0 +1,32 @@
+{
+  "course_id": "course-2f5692de-8f38-466c-b4fa-3e8fe42df639",
+  "platform": "edx",
+  "title": "Improving Global Health: Focusing on Quality and Safety",
+  "description": "Improving access to healthcare is only as useful as the quality of care provided. Many agree that quality is important – but what is it? How do we define it? How do we measure it? And most importantly, how might we make it better?  \n The course is designed for those who care about health and healthcare and wish to learn more about how to measure and improve that care – for themselves, for their institutions, or for their countries. Each session will be interactive and provide concrete tools that students can use. We will empower you to raise questions, propose concrete solutions, and promote change.  \n We have assembled leading thinkers from around the globe – not only people who are experts – but people with real, hands-on experience running organizations, hospitals, and ministries of health. So join us – whether you are a physician, nurse, or other healthcare provider, if you are a student of medicine, public health, or health policy, or a patient who simply cares about getting good care – this course is for you.",
+  "learning_goals": [
+    "Public Health"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ashish-jha",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4614,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1450002161",
+  "platform": "mooc_cn",
+  "title": "工程流体力学",
+  "description": "本课程使用教材为闻德荪主编《工程流体力学（水力学）》（第4版），通过将高等数学和大学物理的基本概念应用于流体中，解决环境工程及给水排水工程中与水相关的流体力学问题，通过本课程的学习，培养学生严谨的思维能力和工程应用能力，为后续课程的学习打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450002161",
+  "instructors": [
+    {
+      "name": "王玉敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11214,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

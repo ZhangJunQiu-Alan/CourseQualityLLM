@@ -1,0 +1,31 @@
+{
+  "course_id": "1470431178",
+  "platform": "mooc_cn",
+  "title": "会计学——打通决策的理性",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470431178",
+  "instructors": [
+    {
+      "name": "周夏飞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3479,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

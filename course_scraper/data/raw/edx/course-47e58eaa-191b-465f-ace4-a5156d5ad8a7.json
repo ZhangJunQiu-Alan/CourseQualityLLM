@@ -1,0 +1,44 @@
+{
+  "course_id": "course-47e58eaa-191b-465f-ace4-a5156d5ad8a7",
+  "platform": "edx",
+  "title": "Maths Essentials",
+  "description": "This course introduces some of the basic ideas and methods of mathematics with an emphasis on their application. \n It works at an elementary level with the aim of developing sophisticated mathematical skills and bridging the gap between school leavers and undergraduate study. \n At the end of the mathematics course, you should be able to: \n \n \n Manipulate and use algebraic expressions \n \n \n Graph, differentiate and integrate simple functions \n \n \n Calculate basis quantities in financial mathematics \n \n \n Related skills developed during this course include Algebra, Basic Math, Calculus, Differential Calculus, Elementary Algebra, Integral Calculus, Linear Equations. \n Looking to study at the University of London on one of their EMFSS programmes but do not have the required mathematics qualifications? Prospective students who don't meet the mathematics entrance requirements are now able to meet this requirement by passing the  LSE Maths Essentials: Proctored Exam .",
+  "learning_goals": [
+    "Basic Math",
+    "Elementary Algebra",
+    "Political Sciences",
+    "Calculus",
+    "Economics",
+    "Differential Calculus",
+    "Integral Calculus",
+    "Algebra"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 6-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "james-ward",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "siri-kouletsis",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The London School of Economics and Political Science"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1938,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

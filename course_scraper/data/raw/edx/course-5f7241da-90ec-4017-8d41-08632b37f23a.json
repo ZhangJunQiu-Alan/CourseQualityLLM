@@ -1,0 +1,57 @@
+{
+  "course_id": "course-5f7241da-90ec-4017-8d41-08632b37f23a",
+  "platform": "edx",
+  "title": "Wiskunde voor (startende) studenten",
+  "description": "We kunnen (en willen) er niet rond: wiskunde speelt een sleutelrol in veel opleidingen. Vaak vormt wiskunde dan ook de taal om complexe fenomenen te omschrijven. Het is dan ook zeer belangrijk om de vereiste kennis op te frissen of grondig te bestuderen voor je met een opleiding start. Deze MOOC is geheel vrijblijvend en niet-bindend om te starten met een opleiding.",
+  "learning_goals": [
+    "Basic Math"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-4 小时",
+  "language": "Dutch",
+  "url": "",
+  "instructors": [
+    {
+      "name": "lynn-van-den-broeck",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "marc-coppens",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "guy-durinck",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "pedro-vynck",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dimitri-coppens",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "stijn-luca",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "KU Leuven"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 376,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

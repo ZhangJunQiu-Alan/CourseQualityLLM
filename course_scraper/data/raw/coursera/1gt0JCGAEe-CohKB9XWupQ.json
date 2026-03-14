@@ -1,0 +1,31 @@
+{
+  "course_id": "1gt0JCGAEe-CohKB9XWupQ",
+  "platform": "coursera",
+  "title": "GenAI for Data Engineers: Scaling with GenAI",
+  "slug": "genai-for-data-engineers-scaling-with-genai",
+  "description": "As part of the GenAI Academy, this course explores how Generative Artificial Intelligence (GenAI) is transforming the field of data engineering. This course serves as a primer where learners will discover the key capabilities of GenAI and uncover practical strategies to leverage these powerful tools in their day-to-day data engineering work.\n\nThis course is designed for data engineering team leaders and data engineers, including managers and team leads who are responsible for guiding their teams towards innovative practices, as well as data engineers and aspiring professionals looking to enhance their workflows and future-proof their skillsets by incorporating GenAI-powered tools.\n\nLearners should have a basic understanding of data pipelines, ETL/ELT processes, and data transformation, along with familiarity with databases, data warehouses, big data frameworks, and programming languages like Python and SQL. An open mindset and curiosity to explore new GenAI technologies are essential.\n\nBy the end of this course, data engineers will be equipped with the knowledge and skills to start scaling their productivity by harnessing the transformative potential of GenAI.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/genai-for-data-engineers-scaling-with-genai",
+  "instructors": [
+    {
+      "name": "Christopher Klaus",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

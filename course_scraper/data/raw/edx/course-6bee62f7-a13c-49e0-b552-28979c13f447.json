@@ -1,0 +1,48 @@
+{
+  "course_id": "course-6bee62f7-a13c-49e0-b552-28979c13f447",
+  "platform": "edx",
+  "title": "Build Your First Internet of Things (IoT) Application on Arm",
+  "description": "Arm technology powered the smartphone revolution, and now it’s helping power the Internet of Things (IoT). This online course will provide beginners with an accelerated path to gain the knowledge necessary to thrive in a world transformed by innovations in IoT. \n You can purchase the hardware kit required for the course directly from our technology partner, STMicroelectronics:   https://www.st.com/con tent/st_com/en/campaigns/educationalplatforms/iot-arm-edx-edu.html  \n You’ll start your learning journey with an introduction to the fundamentals of IoT, and then quickly move to working on practical projects where you'll learn the essentials of building Arm-based IoT applications. \n Mobile computing platforms are where IoT often happens, so the course prepares you with an understanding of Android application design, enabling you to integrate your mobile device into your IoT applications. \n IoT applications have the potential to change the lives of billions around the world. This is why we’ll also provide you with the social context behind the technology. The course includes videos that illustrate the global impact of IoT applications – especially in emerging economies. From ‘smart farming’, to solar panels and ‘blood drones’ - each case study contextualises IoT in real ‘first mile’ and ‘last mile’ applications, to help you understand the transformative impact of this technology in the real world. \n Over the 6 modules, you will gain a key overview of: \n • Internet of Things (IoT) fundamentals \n • IoT and embedded system architectures \n • Embedded application programming \n • Connectivity and networking technologies such as Bluetooth Low Energy (BLE), LoRaWAN, ZigBee, and the IEEE 802.1 protocols \n • Cloud computing \n While not a requirement for this course, we recommend that learners who would like to improve their embedded systems skills (one of the essential technologies behind IoT implementations), also take our  Embedded Systems Essentials on Arm  edX program. \n The Internet of Things is one of the fundamental building blocks of the next wave of computing. Forge your own career path in this connected world by enrolling in our course today!",
+  "learning_goals": [
+    "Bill Of Materials",
+    "Device Management",
+    "Computing Platforms",
+    "Embedded Systems",
+    "Smartphone Operation",
+    "Android (Operating System)",
+    "Zigbee",
+    "Peripheral Devices",
+    "Internet Of Things (IoT)",
+    "Cloud Services",
+    "Android Applications",
+    "Bluetooth Low Energy (Bluetooth)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "tom-spink",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mark-allen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Arm Education"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 398,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

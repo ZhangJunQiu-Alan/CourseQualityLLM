@@ -1,0 +1,31 @@
+{
+  "course_id": "1467009167",
+  "platform": "mooc_cn",
+  "title": "有机化学实验",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1467009167",
+  "instructors": [
+    {
+      "name": "杨锦明;王庆东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "盐城师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2515,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

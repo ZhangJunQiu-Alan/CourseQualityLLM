@@ -1,0 +1,31 @@
+{
+  "course_id": "1449601164",
+  "platform": "mooc_cn",
+  "title": "机器学习",
+  "description": "这是一门带您进入机器学习领域，从事机器学习相关研究和开发的必修课程。这门课教会您机器学习原理和方法，让您知其然，知其所以然，并通过产教融合、科教融汇的实践案例强化创新实践能力。课程强调机器学习的系统性、完整性，以及方法的时效性，让您体验机器学习的乐趣！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449601164",
+  "instructors": [
+    {
+      "name": "李侃;屈少杰;礼欣;郭宇航;刘琼昕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 83284,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

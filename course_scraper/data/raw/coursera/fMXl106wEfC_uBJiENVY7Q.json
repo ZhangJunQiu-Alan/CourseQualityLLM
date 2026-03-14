@@ -1,0 +1,26 @@
+{
+  "course_id": "fMXl106wEfC_uBJiENVY7Q",
+  "platform": "coursera",
+  "title": "Building Real-World Java Applications with Spring and Beyond",
+  "slug": "packt-building-real-world-java-applications-with-spring-and-beyond-3noz1",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\nUnlock the potential of Java with Spring as you learn to build dynamic, scalable applications. This course covers everything from the basics of Spring Framework to advanced Spring Boot and JPA integration, guiding you through creating real-world Java applications. You'll gain hands-on experience using Maven, JUnit, Spring Data JPA, and Spring Boot to build fully functional applications. By the end, you’ll have a deep understanding of dependency management, bean configuration, and the power of Spring’s ecosystem for robust application development.\nThroughout the course, you’ll work with key Spring tools and techniques. You’ll begin with creating a Spring Framework project, dive into core concepts like dependency injection and autowiring, and then transition to advanced Spring features, such as bean scopes and lifecycle management. With practical examples, you’ll also work with RESTful APIs and databases using Spring Boot and Spring Data JPA.\nThis course is ideal for developers eager to enhance their Java skills and dive into the Spring Framework for real-world application development. It’s designed for those with a basic understanding of Java who want to take their skills to the next level, whether they are building enterprise applications or simple web services.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-building-real-world-java-applications-with-spring-and-beyond-3noz1",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

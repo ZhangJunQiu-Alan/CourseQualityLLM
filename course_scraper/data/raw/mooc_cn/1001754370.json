@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754370",
+  "platform": "mooc_cn",
+  "title": "面向对象C++程序设计",
+  "description": "面向对象C++程序设计”是理工科专业的基础课程之一。它是计算机专业的一门专业基础课程，是学习后续课程的必要的专业基础知识；同时也是非计算机专业的计算机基础课，通过程序设计的学习可以使其具备利用计算机求解本专业领域内问题的能力。学好C++可以触类旁通其它语言，如Java和C#等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754370",
+  "instructors": [
+    {
+      "name": "皮德常",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 52281,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1465556162",
+  "platform": "mooc_cn",
+  "title": "系统解剖学",
+  "description": "系统解剖学是医学基础课，也是相关专业的重要课程。我们准备了丰富的学习资源：学前问题，学生可以带着问题来深入了解人体，也可以在启发下提出自己在生活中所遇到的人体问题、疾病问题，探索人体奥秘。100多个优质的教学短视频，帮助学生掌握知识、拓展视野、理解医务工作的价值和意义，培养高尚的医德医风。课后作业帮助学生及时复习、查漏补缺。在线讨论引发学生深入思考，发现问题、解决问题。阶段测试则希望学生们功在平时，踏实学习、扎实掌握。欢迎你进入课堂！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465556162",
+  "instructors": [
+    {
+      "name": "陈雪梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11254,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

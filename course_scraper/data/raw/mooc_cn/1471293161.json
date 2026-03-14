@@ -1,0 +1,31 @@
+{
+  "course_id": "1471293161",
+  "platform": "mooc_cn",
+  "title": "电路理论（下）",
+  "description": "本课程是电气工程及其自动化专业、电气工程与智能控制专业的第一门学科基础课，为学习后续课程准备必要的电路知识，是本科阶段培养目标中的专业技术基础必修课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471293161",
+  "instructors": [
+    {
+      "name": "刘良成",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "合肥工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 186,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

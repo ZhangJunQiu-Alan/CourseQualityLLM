@@ -1,0 +1,42 @@
+{
+  "course_id": "course-6e599f57-f685-4676-a47a-86f16743e2a7",
+  "platform": "edx",
+  "title": "Fundamentos de información financiera y contable",
+  "description": "Este curso online esta desarrollado como un recorrido introductorio al mundo de la contabilidad y las finanzas, de este modo, durante las semanas que trabajaremos en este curso de finanzas: \n \n Estudiaremos los conceptos básicos de la contabilidad, estableciendo las diferencias entre la contabilidad financiera y administrativa, identificando la normatividad contable, así como las características que debe de reunir la información para ser útil para los usuarios \n Identificaremos el uso y aplicación de la cuenta para elaborar los registros contables de la entidad \n Desarrollaremos la balanza de comprobación y la utilizaremos como base para hacer los cuatro estados financieros básicos \n Aplicaremos los conceptos aprendidos para el armado del balance general, el estado de resultado integral, el estado de variaciones en el capital contable y el estado de flujos de efectivo \n \n Los contenidos han sido desarrollados y organizados por expertos con experiencia como Gerentes administrativos en las organizaciones: Heidrick &amp; Struggles y BANOBRAS, y con varios años como docentes y como miembros del Colegio de Contadores Públicos. De este modo, el curso de finanzas esta diseñado pensado en la conjugación de las exigencias educativas de una de las principales universidades de México y haciendo énfasis en las habilidades que debes aplicar en cualquier entorno laboral.",
+  "learning_goals": [
+    "Trial Balance",
+    "Accounting Regulations",
+    "Balance Sheet",
+    "Comprehensive Income",
+    "Finance",
+    "Accounting"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 5-7 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "laura-avila-rodriguez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "maria-de-lourdes-rojas-catano",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidades Anáhuac"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 374,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

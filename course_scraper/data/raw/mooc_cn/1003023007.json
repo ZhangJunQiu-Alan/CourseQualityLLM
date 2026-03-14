@@ -1,0 +1,31 @@
+{
+  "course_id": "1003023007",
+  "platform": "mooc_cn",
+  "title": "微生物学",
+  "description": "微生物学是研究微生物的形态结构、生理生化、遗传变异及其进化、生态等生命活动规律及其应用的一门学科。生命科学中的许多重大发现、重大理论和技术的突破和证实均来自对微生物的研究，因此微生物学已经成为几乎所有生命科学研究的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003023007",
+  "instructors": [
+    {
+      "name": "徐淑霞;王明道;陈红歌;王旭;邱立友;张继冉;张世敏;刘新育;王风芹;宋安东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8901,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

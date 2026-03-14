@@ -1,0 +1,35 @@
+{
+  "course_id": "course-a2ae5d2b-18c8-4569-8c96-03ac1b152909",
+  "platform": "edx",
+  "title": "Models and Platforms for Generative AI",
+  "description": "This course is designed for enthusiasts and practitioners who share an interest in the rapidly advancing field of generative AI.  \n This course centers around the core concepts and generative AI models that form the building blocks of generative AI. You will delve into the concepts of deep learning and large language models (LLMs). You will learn about GANs, VAEs, transformers, and diffusion models – the fundamental components of generative AI.  \n You will learn about the concept of foundation models. You will gain insights into the capabilities of pre-trained models and platforms for AI application development. The course will also cover how foundation models utilize these platforms to generate text, images, and code. Additionally, participants will explore various generative AI platforms such as IBM watsonX and Hugging Face.  \n The course includes practical hands-on labs, offering participants the chance to delve into the applications of generative AI using the IBM Generative AI Classroom and platforms like IBM watsonX. Throughout the course, you'll have the opportunity to explore various models, including IBM Granite, OpenAI GPT, Google Flan, and Meta Llama. Additionally, expert practitioners will share insights into the capabilities, applications, and tools of generative AI.",
+  "learning_goals": [
+    "Transformers (Electrical)",
+    "Application Development",
+    "Artificial Intelligence",
+    "Deep Learning"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 503,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

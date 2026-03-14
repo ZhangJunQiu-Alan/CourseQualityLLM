@@ -1,0 +1,31 @@
+{
+  "course_id": "1002478006",
+  "platform": "mooc_cn",
+  "title": "动物学",
+  "description": "自地球诞生之日，便开始酝酿生命的形成。动物在演化的这条历史长河中，如何从单细胞的原生动物演化成高等的哺乳动物，形态结构及生活环境到底经历了怎样的发展变化，《动物学》慕课将带领大家一探究竟。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002478006",
+  "instructors": [
+    {
+      "name": "姬伟;周洋;王庆超;吴志新;涂加钢;陈楠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 52478,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

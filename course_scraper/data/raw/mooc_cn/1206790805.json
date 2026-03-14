@@ -1,0 +1,31 @@
+{
+  "course_id": "1206790805",
+  "platform": "mooc_cn",
+  "title": "病理生理学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206790805",
+  "instructors": [
+    {
+      "name": "张晓艳;李沛;鄢文海;杨婉景;陈新焕;赵继敏;路静;李翔;田芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26018,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

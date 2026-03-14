@@ -1,0 +1,31 @@
+{
+  "course_id": "1002534004",
+  "platform": "mooc_cn",
+  "title": "数学实验",
+  "description": "既要瘦身，又要身体健康，膳食如何搭配？买手机选择分期付款还是一次性付款？……。该课程将引导你学习和应用功能强大的科学计算软件MATLAB和微分方程、插值、拟合、优化、统计、图论等数学建模知识，提高学习者运用数学知识同时借助于软件工具分析和解决实际问题的能力，培养创新意识和创新能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002534004",
+  "instructors": [
+    {
+      "name": "龚劬;黄光辉;何光辉;肖剑;温罗生",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "重庆大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 50635,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

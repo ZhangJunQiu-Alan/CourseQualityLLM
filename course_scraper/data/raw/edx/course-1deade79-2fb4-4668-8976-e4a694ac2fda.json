@@ -1,0 +1,35 @@
+{
+  "course_id": "course-1deade79-2fb4-4668-8976-e4a694ac2fda",
+  "platform": "edx",
+  "title": "Le management",
+  "description": "Véritable phénomène de société, le management couvre un territoire immense. Borné d’un côté par des théories aussi foisonnantes qu’hétéroclites et de l’autre par des pratiques indéfiniment variées, le territoire du management est d’une richesse inouïe.  \n Cela dit, le management contemporain reste encore à inventer. Pour y parvenir, le gestionnaire d’aujourd’hui peut puiser dans l’histoire des théories du management. Il y trouvera toute une variété de solutions pratiques et de regards interprétatifs. Mais parce qu’il n’existe pas une telle chose qu’une théorie parfaite, le gestionnaire ne dispose que de solutions partielles et incomplètes.  \n Surtout, sa pratique concrète doit nécessairement osciller entre deux pôles complémentaires. D’un côté, il doit faire preuve d’efficacité et pour y parvenir, il dispose d’un grand nombre de techniques administratives et de règles de gestion qui le conduisent alors à penser l’organisation en termes juridiques, stratégiques, structurels et opérationnels. De l’autre, il ne peut pas se contenter d’être un technicien qui ne viserait que l’efficacité formelle; il doit aussi être profondément humain et inscrire son action dans le tissu social d’une organisation et du coup entrevoir ses dimensions politiques, symboliques, psychologiques et cognitives.  \n Ce cours de management s’adresse à celles et ceux qui sont à la recherche d’une meilleure compréhension des théories et des pratiques du management. Il fait une large place aux exemples tirés de la pratique et se réfère autant aux théoriciens qu’aux praticiens. Ce cours propose de regarder le management à travers trois regards complémentaires :  \n \n celui du management formel qui s’appuie sur la raison formelle et se donne comme idéal l’efficacité; \n celui du management charismatique qui s’appuie sur le charisme et se donne comme idéal la création; \n et celui du management traditionnel qui s’appuie sur la tradition et se donne comme idéal l’harmonie. \n \n Les adeptes du management au sens technique se limitent au premier; les adeptes du leadership ne jurent que par le deuxième et, malgré la fascination que la nouveauté exerce dans l’univers de la gestion, la tradition persiste dans bien des organisations. Pourtant, le gestionnaire est toujours, d’une certaine manière, confronté à ces trois logiques. Inventer le management contemporain pour répondre aux défis des Temps présents consiste à combiner de manière originale ces trois logiques.",
+  "learning_goals": [
+    "Textiles",
+    "Management",
+    "Psychology",
+    "Leadership"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-3 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "gilles-cazabon",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "HEC Montréal"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 361,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

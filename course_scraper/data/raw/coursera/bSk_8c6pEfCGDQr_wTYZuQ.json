@@ -1,0 +1,26 @@
+{
+  "course_id": "bSk_8c6pEfCGDQr_wTYZuQ",
+  "platform": "coursera",
+  "title": "Python for Data Analysis: Step-By-Step with Projects",
+  "slug": "packt-python-for-data-analysis-step-by-step-with-projects-kz1ja",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\nIn this hands-on course, you will learn how to use Python for data analysis through practical, step-by-step projects. You will start with Python basics, including data types, functions, and loops, and then dive into the powerful Pandas library to load, manipulate, and clean data. \nAs you explore data, you'll master techniques like combining datasets, renaming columns, sorting data, and cleaning text. The course then covers exploratory data analysis (EDA) using statistical methods and the Seaborn library to visualize and interpret relationships between variables. You’ll also gain experience working with time series data, learning how to resample data, handle time-based analysis, and apply rolling windows.\nThroughout the course, you’ll apply your skills to real-world datasets, including NBA games, Czech bank data, and Olympic Games data, providing valuable project experience. The course will also guide you in addressing common challenges in data analysis, such as handling missing data and outliers. \nThis course is perfect for beginners interested in data analysis or anyone looking to gain practical experience in using Python for data science. While no prior experience is required, familiarity with basic programming concepts is helpful.\nBy the end of the course, you will be able to clean and transform data, perform exploratory data analysis, and visualize relationships within datasets, all while working with real-world data projects.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-python-for-data-analysis-step-by-step-with-projects-kz1ja",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

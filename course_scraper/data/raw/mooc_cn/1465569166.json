@@ -1,0 +1,31 @@
+{
+  "course_id": "1465569166",
+  "platform": "mooc_cn",
+  "title": "城市管理学",
+  "description": "城市管理学是城市管理专业的专业基础必修课。课程主要任务是结合中国城市发展和城市管理的现实问题，使学生全面了解城市管理的基本内容，重点掌握城市管理的主要方面，明晰城市管理在新形势下的主要任务和工作内涵。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465569166",
+  "instructors": [
+    {
+      "name": "张大力",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南城建学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 660,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

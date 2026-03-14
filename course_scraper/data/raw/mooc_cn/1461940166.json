@@ -1,0 +1,31 @@
+{
+  "course_id": "1461940166",
+  "platform": "mooc_cn",
+  "title": "电工技术",
+  "description": "电工技术课程是高等工科院校一门重要的专业基础课，目的是使学生通过本课程的学习，获得电工技术必要的基本理论、基本知识和基本技能，建立完善的电类相关知识体系，为进一步从事专业研究奠定基础。具体内容包括电路基本概念与定理，直流电路分析方法，暂态电路分析，正弦交流电路分析，三相电路分析及常用电气设备变压器、电机的工作原理与特性分析等几大部分。课程内容涵盖面广，工程实践性强，具有理论和实践紧密结合的特点，着重培养学生分析问题和解决问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461940166",
+  "instructors": [
+    {
+      "name": "秦利锋;程翔;黄永芳;刘益芳;郑高峰;陈沁楠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "厦门大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6853,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

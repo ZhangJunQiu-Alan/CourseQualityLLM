@@ -1,0 +1,31 @@
+{
+  "course_id": "289001",
+  "platform": "mooc_cn",
+  "title": "微积分（三）",
+  "description": "微积分是近代数学中最伟大的成就，对它的重要性无论作怎样的评价都不为过。                                                                                                                                ——冯·诺依曼",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/289001",
+  "instructors": [
+    {
+      "name": "尹逊波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 93762,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

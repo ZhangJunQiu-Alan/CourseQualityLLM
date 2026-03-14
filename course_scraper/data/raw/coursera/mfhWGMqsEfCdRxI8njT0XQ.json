@@ -1,0 +1,26 @@
+{
+  "course_id": "mfhWGMqsEfCdRxI8njT0XQ",
+  "platform": "coursera",
+  "title": "Effective .NET Memory Management",
+  "slug": "packt-effective-net-memory-management",
+  "description": "Effective .NET Memory Management gives you the essential skills to control how your applications use memory and why it matters for building high-performance, stable software. Understanding these techniques is crucial for developers who want to create scalable systems that handle real-world workloads efficiently.\n\nThrough this course, you’ll learn how to optimize memory usage, reduce unnecessary allocations, and prevent common pitfalls that lead to performance degradation. You will gain practical insights that help you apply memory-efficient techniques directly to your .NET projects.\n\nWhat sets this course apart is its balanced approach—combining clear explanations of core memory concepts with hands-on examples drawn from real application scenarios. You will immediately see how theory translates into impactful improvements.\n\nThis course is ideal for intermediate to advanced developers familiar with C# and .NET Core who want to strengthen performance engineering skills. Some prior experience with application development is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-effective-net-memory-management",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

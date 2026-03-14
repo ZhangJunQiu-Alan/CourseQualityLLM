@@ -1,0 +1,31 @@
+{
+  "course_id": "1002932001",
+  "platform": "mooc_cn",
+  "title": "电力拖动自动控制系统",
+  "description": "“电力拖动自动控制系统”课程为自动化、电气等专业重要专业基础课程，是电气本科毕设、就业，就读控制、电气研究生必备的基础。教学内容循序渐进，从直流到交流、静态到动态、开环到闭环、单环到多环、不可逆到可逆、原理设计到工程设计、模拟到数字的教学过程，便于学习者掌握与实际应用。课程既注重基础理论的阐述，又注重工程实践的介绍，通过设计实例、仿真检验和实验实现了理论与实践的有效融合，使学习者能够学以致用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002932001",
+  "instructors": [
+    {
+      "name": "张敬南;彭辉;孟繁荣;巩冰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48476,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

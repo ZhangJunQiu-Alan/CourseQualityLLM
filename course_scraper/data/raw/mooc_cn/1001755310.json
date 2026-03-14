@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755310",
+  "platform": "mooc_cn",
+  "title": "线路板CAD",
+  "description": "课程以国产软件嘉立创EDA为平台，具有设计、采购、下单定制一体化的特色。通过完成一些具体的项目和任务，学习者可以在短时间内了解PCB设计规范、掌握PCB设计的技能，能够独立进行线路板设计与制作。    The course is based on the domestic software Jialichuang EDA platform, with the characteristics of integrated design, procurement, and order customization. By completing specific projects and tasks, learners can quickly understand PCB design specifications, master PCB design skills, and be able to independently design and manufacture circuit boards.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755310",
+  "instructors": [
+    {
+      "name": "崔鸣;邓建平;赵中琦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28362,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

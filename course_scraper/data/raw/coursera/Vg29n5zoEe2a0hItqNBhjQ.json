@@ -1,0 +1,26 @@
+{
+  "course_id": "Vg29n5zoEe2a0hItqNBhjQ",
+  "platform": "coursera",
+  "title": "IBM Storage Scale Remote Data Access",
+  "slug": "ibm-storage-scale-remote-data-access",
+  "description": "This course is intended for IT professionals tasked with administering a Storage Scale storage cluster consisting of Linux nodes. The course includes information on various Storage Scale features that enable remote access to data that is stored in a cluster file system. This includes: multi-cluster support, clustered NFS, cluster export services (CES) and protocol support (NFS, SMB, and Object), Active File Management (AFM), and AFM-based Asynchronous Disaster Recovery (AFM DR). The features are described in lecture materials and implemented in lab exercises.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks, 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/ibm-storage-scale-remote-data-access",
+  "instructors": [
+    {
+      "name": "Upendra Rajan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

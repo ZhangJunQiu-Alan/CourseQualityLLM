@@ -1,0 +1,31 @@
+{
+  "course_id": "1461781182",
+  "platform": "mooc_cn",
+  "title": "训诂学",
+  "description": "系统学习训诂学知识，领略文本解释的奥妙，掌握打开古代典籍宝库的钥匙！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461781182",
+  "instructors": [
+    {
+      "name": "王玥雯;萧红;王统尚;肖圣中;陈菡",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17910,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

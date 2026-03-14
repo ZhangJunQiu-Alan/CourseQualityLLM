@@ -1,0 +1,31 @@
+{
+  "course_id": "1471653170",
+  "platform": "mooc_cn",
+  "title": "物理化学实验",
+  "description": "本课程内容包括物理化学实验技术和实验项目以及数据的计算机处理方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471653170",
+  "instructors": [
+    {
+      "name": "高李璟;娄永兵;张雪勤;盛晓莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 406,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

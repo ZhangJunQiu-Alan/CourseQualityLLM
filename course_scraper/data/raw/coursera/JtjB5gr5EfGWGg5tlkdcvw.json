@@ -1,0 +1,26 @@
+{
+  "course_id": "JtjB5gr5EfGWGg5tlkdcvw",
+  "platform": "coursera",
+  "title": "Lakehouse Architecture and Delta Lake with Databricks",
+  "slug": "lakehouse-architecture-delta-lake-databricks",
+  "description": "Design and implement production ready Lakehouse architectures using Delta Lake and Databricks. By the end of this course, you will be able to build multi layer Medallion pipelines including Bronze, Silver, and Gold layers, manage ACID transactions, enforce and evolve schemas, implement Change Data Capture, and optimize Delta tables for performance using data skipping, compaction, and Liquid Clustering. You will also learn to unify batch and streaming workloads while ensuring reliability, scalability, and recoverability in enterprise environments.\n\nThis course stands out by going beyond Delta Lake syntax and focusing on end to end Lakehouse engineering, from architectural design patterns to production optimization and concurrency control. Through structured modules and hands on implementation, you will gain practical experience designing scalable data platforms that support both BI analytics and machine learning workloads.\n\nIf you are a data engineer, analytics engineer, or platform architect looking to modernize legacy data warehouses or data lakes, this course provides the applied skills required to build efficient, cost effective, and future ready data infrastructure on Databricks. This is primarily aimed at first- and second-year undergraduates interested in engineering or science, along with high school students and professionals with an interest in programming.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/lakehouse-architecture-delta-lake-databricks",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

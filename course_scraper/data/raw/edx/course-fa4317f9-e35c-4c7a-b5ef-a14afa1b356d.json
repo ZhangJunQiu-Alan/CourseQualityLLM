@@ -1,0 +1,41 @@
+{
+  "course_id": "course-fa4317f9-e35c-4c7a-b5ef-a14afa1b356d",
+  "platform": "edx",
+  "title": "Data Visualization and Building Dashboards with Excel and Cognos",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n This course provides students with the basics required to create data visualizations and dashboards using both Microsoft Excel and IBM Cognos Analytics. You begin the process of telling a story about your data by creating several basic and advanced charts in Excel and learning how to add them to a digital dashboard. You then become familiar with IBM Cognos Analytics - a popular tool for data visualization and analytics – and learn how to use it to create interactive and informative dashboards. By completing this course, you will gain a basic understanding of using spreadsheets as a tool for data visualization. You will also gain the ability to create effective data visualizations, such as charts or graphs, and you will start to see how they can play a key role in the communication of your data analysis findings to interested parties. All of this can be accomplished without the need to write any code. By the end of this course you will be able to describe common dashboarding tools used by a data analyst, design and create a dashboard in a cloud platform, and begin to raise your level of confidence when creating intermediate level data visualizations. \n The emphasis is on applied learning and hands-on practice in this course, and with each hands-on lab, you will gain further experience in the creation of basic and advanced charts and the creation of digital dashboards using both Excel and Cognos Analytics. The final assignment project will allow you to apply these newly acquired skills to create and use data visualizations and add them to a digital dashboard to fulfil a business scenario. \n This course makes it simple to get started using Excel and Cognos Analytics to create data \nvisualizations and dashboards to help tell a story about your data, and it does not require any previous data analysis or computer science \n experience. The course also does not require you to perform any software downloads or installations. All that is required is basic computer literacy, high-school level math, a device with a modern web browser, and the ability to use (or create) a Microsoft account to access Excel online at no-cost, and a basic understanding of Excel spreadsheets. Although the Excel hands-on labs steps are specifically related to using ‘Excel for the web’, if you already have the full desktop version of Excel, you should be able to use that to follow along quite easily with the labs.",
+  "learning_goals": [
+    "Spreadsheets",
+    "IBM Cognos Business Intelligence",
+    "Data Visualization",
+    "Microsoft Excel",
+    "Data Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "sandip-sasha-joy",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "steve-ryan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5092,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

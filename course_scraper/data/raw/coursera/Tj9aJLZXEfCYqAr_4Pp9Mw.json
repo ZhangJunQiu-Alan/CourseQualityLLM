@@ -1,0 +1,26 @@
+{
+  "course_id": "Tj9aJLZXEfCYqAr_4Pp9Mw",
+  "platform": "coursera",
+  "title": "Modular Asset Creation in Blender & Maze Building with Code",
+  "slug": "packt-9781837020478-rjxbe-p2",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\nIn this course, you will gain a deep understanding of modular asset creation in Blender and how to apply these assets programmatically in a maze-building context. You will start by creating modular maze pieces in Blender, learning important techniques such as planning, modeling, exporting, and applying textures. You'll also learn about Blender's add-ons, proper object origin settings, and fixing common issues like incorrect normals. By the end of the Blender section, you'll be able to build and export optimized models for Unity.\nNext, you'll dive into programmatically placing your modular maze pieces in Unity using code. You will learn how to control the placement of assets in the maze, implement wildcard placement patterns, and manage player starting positions. The course also covers advanced topics like using lighting sources and ensuring optimal maze layouts for gameplay.\nThis course is perfect for game developers, 3D artists, or hobbyists interested in creating modular assets for game environments. It requires no prior knowledge of Blender or Unity but assumes familiarity with basic programming concepts. The course progresses from beginner to intermediate topics, ensuring a solid grasp of both asset creation and programming principles.\nBy the end of the course, you will be able to create modular maze assets in Blender, export them to Unity, programmatically place them in a maze, and integrate these assets into a playable game environment.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-9781837020478-rjxbe-p2",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

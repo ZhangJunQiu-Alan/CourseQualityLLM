@@ -1,0 +1,31 @@
+{
+  "course_id": "1474204181",
+  "platform": "mooc_cn",
+  "title": "机械制造工程学",
+  "description": "《机械制造工程学》课程是面向机械设计制造及其自动化专业核心课程。课程从培养综合素质与应用能力出发，以机械制造工艺为主线，将加工方法与原理、工艺系统组成与功能、加工质量有机地结合起来，形成了宽结构、重实践的课程知识体系。本课程旨在使学生掌握解决机械制造工艺问题所需的专业知识并应用于机械产品制造及改进中。理解机械制造工艺基本原理，能够识别、表达、并通过文献研究分析工艺问题并获得有效结论。逐步培养和提高设计针对机械加工工艺问题的解决方案的能力，能够设计满足特定需求的零件工艺流程，并能够在设计环节中体现创新意识，考虑经济、安全、环境等方面因素。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1474204181",
+  "instructors": [
+    {
+      "name": "万宏强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 44,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1460615162",
+  "platform": "mooc_cn",
+  "title": "急救与自救",
+  "description": "珍惜生命，从学习急救开始！科普急救知识，学习急救技能，关爱生命健康，助力健康生活。守护生命，救在身边！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460615162",
+  "instructors": [
+    {
+      "name": "韩晶",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "青岛大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21417,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

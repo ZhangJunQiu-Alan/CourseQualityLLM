@@ -1,0 +1,26 @@
+{
+  "course_id": "HzTZxtnEEfCFIgr_898wQw",
+  "platform": "coursera",
+  "title": "Evaluate Vision Errors: Identify Failure Patterns",
+  "slug": "evaluate-vision-errors-identify-failure-patterns",
+  "description": "Transform your ability to diagnose and improve computer vision model performance through systematic error analysis. This course empowers you to move beyond aggregate metrics and conduct detailed failure analysis that reveals the root causes of model errors. You'll master the critical skills of analyzing confusion matrices, categorizing prediction errors into specific failure modes, and visualizing model predictions to identify correlations between errors and data characteristics. By completing this course, you'll be able to:\n• Evaluate computer-vision model errors systematically to identify failure patterns\n\nThis course is unique because it provides hands-on experience with real-world error analysis workflows used in enterprise computer vision deployments.\nTo be successful in this project, you should have a background in machine learning fundamentals, Python programming, and basic computer vision concepts.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "120",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/evaluate-vision-errors-identify-failure-patterns",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

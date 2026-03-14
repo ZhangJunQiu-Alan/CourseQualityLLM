@@ -1,0 +1,31 @@
+{
+  "course_id": "1464023178",
+  "platform": "mooc_cn",
+  "title": "微电子制造工艺",
+  "description": "本课程以微电子器件的制造工艺流程为主线，重点讲述了硅平面工艺流程、薄膜制备、气相淀积、光刻和掺杂技术，使学生掌握工艺原理及工艺流程，为学生在集成电路制造工作岗位打下坚实的理论基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464023178",
+  "instructors": [
+    {
+      "name": "陈强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3285,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

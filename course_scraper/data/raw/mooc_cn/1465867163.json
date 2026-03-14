@@ -1,0 +1,31 @@
+{
+  "course_id": "1465867163",
+  "platform": "mooc_cn",
+  "title": "生物制药设备",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465867163",
+  "instructors": [
+    {
+      "name": "吴旻",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国药科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5330,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

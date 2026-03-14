@@ -1,0 +1,26 @@
+{
+  "course_id": "jRkDtwN8EfCZBQr_8Qg1_w",
+  "platform": "coursera",
+  "title": "Palo Alto Networks Cybersecurity Fundamentals",
+  "slug": "packt-palo-alto-networks-cybersecurity-fundamentals-pccsa-nxmaz",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nCybersecurity is more critical than ever, and this course provides a solid foundation in understanding cyber threats and protective measures. You’ll explore the evolving threat landscape, identify common cyberattack techniques, and learn about Wi-Fi vulnerabilities and Advanced Persistent Threats (APTs). By the end, you'll be well-versed in key cybersecurity challenges.\n\nThe course begins with an introduction to networking fundamentals, covering essential concepts such as internet operations, routing protocols, and network addressing. You will then dive into security models, cybersecurity technologies, and security best practices for data centers, cloud environments, and virtualization. Additionally, you'll gain insights into endpoint security, system administration, and ITIL support functions.\n\nNext, you will explore Palo Alto Networks security solutions. You’ll learn about Next-Generation Firewalls (NGFWs), Prisma Cloud and Prisma Access, SaaS security solutions, and Cortex XDR and XSOAR for incident response. Understanding these tools will help you navigate modern cybersecurity challenges effectively.\n\nThis course is ideal for aspiring cybersecurity professionals, IT administrators, and network engineers. A basic understanding of networking and IT concepts is helpful but not required. The difficulty level is intermediate, making it accessible to those with foundational IT knowledge looking to expand into cybersecurity.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-palo-alto-networks-cybersecurity-fundamentals-pccsa-nxmaz",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

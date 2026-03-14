@@ -1,0 +1,37 @@
+{
+  "course_id": "course-2b907cc6-4020-4242-a369-38a48ae95f83",
+  "platform": "edx",
+  "title": "SQL for Data Science",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n Much of the world's data lives in databases. SQL (or Structured Query Language) is a powerful programming language that is used for communicating with and extracting various data types from databases. A working knowledge of databases and SQL is necessary to advance as a data scientist or a machine learning specialist. The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment. \n The emphasis in this course is on hands-on, practical learning. As such, you will work with real databases, real data science tools, and real-world datasets. You will create a database instance in the cloud. Through a series of hands-on labs, you will practice building and running SQL queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python. \n No prior knowledge of databases, SQL, Python, or programming is required.",
+  "learning_goals": [
+    "Jupyter",
+    "Machine Learning",
+    "Data Science",
+    "SQL (Programming Language)",
+    "Relational Databases",
+    "Python (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3475,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

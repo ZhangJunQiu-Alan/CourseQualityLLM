@@ -1,0 +1,47 @@
+{
+  "course_id": "course-da86cb0e-276a-47b1-89fb-cc025498c0e1",
+  "platform": "edx",
+  "title": "Energía eléctrica: conceptos y principios básicos",
+  "description": "Actualmente el uso de la electricidad es algo cotidiano, sin embargo, muy pocas personas conocen los conceptos y principios básicos que permiten comprender como funciona, cuáles son sus parámetros básicos, cómo se miden o cómo hacer un mejor uso de la energía.  \n Este curso de electricidad presenta conceptos básicos como voltaje, corriente y resistencia que te permitirán comprender cómo se mide la potencia y el consumo de energía.En este curso entenderás que es la energía eléctrica y su importancia.  \n Este MOOC te ayudará a diferenciar los componentes y parámetros que hay en un circuito eléctrico, así como a distinguir un circuito eléctrico de corriente directa de uno de corriente alterna. Tendrás la oportunidad de realizar prácticas con unlaboratorio remoto ubicado en las instalaciones físicas del Tecnológico de Monterrey para realizar experimentos de medición y monitoreo de parámetros eléctricos básicos.  \n Además, sabrás cómo hacer un uso eficiente de la energía eléctrica orientado a la protección del medio ambiente y a la reducción de costos del servicio eléctrico (ahorro de energía).  \n ¡Acompáñanos a través de estas semanas de aprendizaje!",
+  "learning_goals": [
+    "Electricity",
+    "Electrical Networks",
+    "Direct Current",
+    "Energy Consumption",
+    "Alternating Current",
+    "Voltage"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 4-5 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "manuel-macias-garcia",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rodolfo-anaya-zamora",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "cornelio-contreras-hinojosa",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tecnológico de Monterrey"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 383,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "234015",
+  "platform": "mooc_cn",
+  "title": "数字逻辑与集成电路设计（ASIC 设计）",
+  "description": "集成电路芯片是信息产业赖以发展的基石，更是人工智能、物联网、5G等新一代信息技术发展的强大推动力。与其它同类课程相比，本课程除了学习数字逻辑电路的基本设计与分析方法之外，还可以通过设计一个的简单CPU芯片初步掌握数字集成电路的FPGA设计及仿真验证技术。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/234015",
+  "instructors": [
+    {
+      "name": "郭志勇;阎波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 53072,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

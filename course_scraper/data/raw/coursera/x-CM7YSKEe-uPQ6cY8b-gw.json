@@ -1,0 +1,26 @@
+{
+  "course_id": "x-CM7YSKEe-uPQ6cY8b-gw",
+  "platform": "coursera",
+  "title": "Multimodal Use Cases with Gemini 1.5",
+  "slug": "googlecloud-multimodal-use-cases-with-gemini-1-5-kfoxw",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab, you will learn how to use Gemini 1.5 Pro and Gemini 1.5 Flash LLMs for multimodal use cases.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-multimodal-use-cases-with-gemini-1-5-kfoxw",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

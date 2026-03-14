@@ -1,0 +1,26 @@
+{
+  "course_id": "DXWRuPn_Ee-ehwr_ziEUiw",
+  "platform": "coursera",
+  "title": "AZ-204 Developing Solutions for Microsoft Azure",
+  "slug": "packt-az-204-developing-solutions-for-microsoft-azure-qjfyc",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThe AZ-204 certification course equips you with the skills needed to develop solutions for Microsoft Azure, preparing you for the official Azure Developer exam. You will gain hands-on experience with critical Azure tools and services, such as Virtual Machines, App Services, Containers, Functions, Storage Accounts, and more, all while learning to architect scalable and secure applications. By the end of the course, you will have mastered Azure development techniques that are in high demand across the cloud computing industry.\n\nThrough the course, you will first familiarize yourself with the Azure environment and the tools necessary for development. You'll learn how to manage and deploy resources using the Azure Dashboard and CLI. As you progress, you will dive deeper into more complex Azure services like virtual machines, web apps, serverless computing, and containers, all while utilizing the Azure portal and PowerShell for configuration and management. The course also covers critical topics such as data security, authentication, caching, monitoring, and troubleshooting solutions on Azure.\n\nThis course is perfect for developers who want to pursue a career in cloud development with Microsoft Azure. The content covers both the foundational and advanced aspects of Azure, making it suitable for learners looking to deepen their understanding of cloud development, while providing hands-on experience with real-world scenarios. The course is also beneficial for those preparing for the AZ-204 certification exam, with practical demos and knowledge checks along the way.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-az-204-developing-solutions-for-microsoft-azure-qjfyc",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

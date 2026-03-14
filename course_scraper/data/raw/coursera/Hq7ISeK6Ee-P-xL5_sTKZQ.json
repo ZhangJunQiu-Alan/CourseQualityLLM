@@ -1,0 +1,26 @@
+{
+  "course_id": "Hq7ISeK6Ee-P-xL5_sTKZQ",
+  "platform": "coursera",
+  "title": "NVIDIA: Fundamentals of Machine Learning",
+  "slug": "fundamentals-of-machine-learning",
+  "description": "NVIDIA: Fundamentals of Machine Learning Course is a foundational course designed to introduce learners to key machine learning concepts and techniques. This course is the first part of the Exam Prep (NCA-GENL): NVIDIA-Certified Generative AI LLMs Associate specialization.\n\nThe course covers fundamental machine learning principles, including supervised and unsupervised learning, model training, evaluation metrics, and optimization techniques. It also provides insights into data preprocessing, feature engineering, and common machine learning algorithms.\n\nThis course is structured into three modules, each containing Lessons and Video Lectures. Learners will engage with approximately 5:00-6:30 hours of video content, covering both theoretical concepts and hands-on practice. Each module is supplemented with quizzes to assess learners' understanding and reinforce key concepts.\n\nCourse Modules:\nModule 1: ML Basics and Data Preprocessing\nModule 2: Supervised Learning & Model Evaluation\nModule 3: Unsupervised Learning, Advanced Techniques & GPU Acceleration\n\nBy the end of this course, a learner will be able to:\n- Understand the fundamentals of AI, ML, and Deep Learning, and their key differences.\n- Implement supervised learning techniques like classification and regression.\n- Apply clustering methods and time series analysis using ARIMA.\n- Leverage NVIDIA RAPIDS for GPU-accelerated ML workflows.\n\nThis course is intended for individuals looking to enhance their machine-learning skills, particularly those interested in GPU-accelerated AI workflows and NVIDIA technologies.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of Study, 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/fundamentals-of-machine-learning",
+  "instructors": [
+    {
+      "name": "Whizlabs Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Whizlabs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

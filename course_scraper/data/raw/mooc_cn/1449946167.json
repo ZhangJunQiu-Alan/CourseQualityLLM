@@ -1,0 +1,31 @@
+{
+  "course_id": "1449946167",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "本课程遵循以应用为目的、必需和够用为尺度的原则，在保证科学性的前提下，突出概念与理论、方法与技巧、实践与应用三方面的合理安排与有机结合。在内容的编排上注重由浅入深，从具体到抽象再到具体，充分体现“ 实践—理论—再实践”的认识规律。希望给大家学习线性代数课程带来实实在在的帮助。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449946167",
+  "instructors": [
+    {
+      "name": "刘增;宋传静;赵操;黄志刚;茹立宁;初亚男;孙桂荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24573,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

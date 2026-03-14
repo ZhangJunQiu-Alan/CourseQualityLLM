@@ -1,0 +1,31 @@
+{
+  "course_id": "236010",
+  "platform": "mooc_cn",
+  "title": "数字信号处理",
+  "description": "数字信号处理是电子信息类专业的专业基础课程。电子科技大学对本课程的重大改革包括：1、选用美国加州大学的原版教材，教学内容、教学手段与国外著名大学同步。2、用MATLAB作工具引导学生进行仿真实现，加深对理论的理解。3、加入工程实例，培养学生自学能力、创新精神和工程素养。本团队期待你的加入!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/236010",
+  "instructors": [
+    {
+      "name": "朱学勇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 113903,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

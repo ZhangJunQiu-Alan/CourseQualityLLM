@@ -1,0 +1,48 @@
+{
+  "course_id": "course-080563f3-cb8a-4683-8d7d-7548cdd50049",
+  "platform": "edx",
+  "title": "Beer: the science of brewing",
+  "description": "In this course of 12 modules, our team of academic scientists and brewmasters will introduce you to the science underlying beer brewing. At the end of this MOOC, you will understand the science underlying beer production, and why your beer tastes the way it does! \n This MOOC also gives you a sneak peek inside some of Belgium’s most iconic breweries. It features talks from Belgian brewers and maltsters, as well as from some of the most renowned academics on key features of the malting and brewing process. \n Thirsty for more? Also check out the new postgraduate in malting and brewing sciences that is organized by KU Leuven:  https://www.biw.kuleuven.be/studeren/maltingbrewing",
+  "learning_goals": [
+    "Biochemistry",
+    "Influencing Skills"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "13 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "stijn-mertens",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "stijn-spaepen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "karin-voordeckers",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "kevin-kevin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "KU Leuven"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 406,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

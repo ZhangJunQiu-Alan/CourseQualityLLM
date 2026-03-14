@@ -1,0 +1,31 @@
+{
+  "course_id": "1462117166",
+  "platform": "mooc_cn",
+  "title": "安全人机工程及实验",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462117166",
+  "instructors": [
+    {
+      "name": "潘龙苇;陶骏骏;姚嘉杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2049,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

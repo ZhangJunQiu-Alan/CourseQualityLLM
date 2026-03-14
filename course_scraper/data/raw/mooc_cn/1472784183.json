@@ -1,0 +1,31 @@
+{
+  "course_id": "1472784183",
+  "platform": "mooc_cn",
+  "title": "大学物理实验",
+  "description": "物理实验方法、思想、仪器和技术已被普遍地应用于各个自然科学领域、技术部门以及其它学科领域，大学物理实验是培养学生的实验能力和科学素质的一门重要公共基础课。本课程由力学、电磁学、光学、热学和原理物理等实验组成，是对大学生进行系统的科学实验方法和技能训练的必修课。通过本课程的学习，提升学生在实践中分析和解决实际问题的能力以及归纳总结的能力。希望本课程线上线下结合的形式能辅助您更好的领略物理实验的魅力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472784183",
+  "instructors": [
+    {
+      "name": "党亚爱",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3169,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

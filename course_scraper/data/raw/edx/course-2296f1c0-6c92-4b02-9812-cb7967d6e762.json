@@ -1,0 +1,204 @@
+{
+  "course_id": "course-2296f1c0-6c92-4b02-9812-cb7967d6e762",
+  "platform": "edx",
+  "title": "Regenerative Materials and Construction",
+  "description": "The Massive Open Online Course in Regenerative Materials and Construction (MOOC ReMat) is a free, open-access online course aiming to introduce the basis of regenerative sustainability in the construction domain, guiding the audience through an overview of its construction materials and techniques. \n With a specific focus on solutions suitable for rapidly urbanizing contexts, such as the African, Asian, and Latin American continents, it offers a combination of theoretical and practical inputs and interviews with practitioners from Europe and beyond. The materials and technologies explored over the modules are: earth, bamboo, bio-based as timber and straw, and waste-based, both in their characterization and in their potential application and benefits. \n The course targets all professionals involved in the construction supply and development, such as architects and engineers, builders, material producers, technical personnel, and city officers, with an interest in sustainability in the construction domain from an environmental, economic, and social perspective. \n The content is proposed in a hybrid learning format, which combines video input, complementary text, and active learning exercises to keep the audience engaged. It is organized into five modules: \n \n MODULE 1: Regenerative Sustainability in Construction \n MODULE 2: Earth-based materials \n MODULE 3: Bio-based Structural - Timber and Bamboo \n MODULE 4: Bio-based Non-structural - Straw, Hemp, and More \n MODULE 5: Material Characterization and Behavior. \n \n In order to maintain the course grounded in the reality of material use and construction projects, and to bring in a global perspective, the inputs are provided both by the ETH Chair of Sustainable Construction and by practitioners and academic experts from different geographical areas. Frontal lectures are alternated with interviews, site visits, and material experiments. \n \n The course teaching list includes the following experts: \n \n Johann Baar, Prof. Lola Ben Alon, Prof. Dr. Tobias Luthe, Duarte Britto, Felix Hilgert, Philippe Garnier, Martin Rauch, Nicolar Coeckelberghs, Anna-Pia Rauch, Laurent de Wurstemberger, Prof. Dr. Mu Jun, Dr. Prof. Dominique Gauzin Muller, Dr. Michael Klippel, Sebastian Kaminski, Alejandro Montes Gonzalez, Dr. David Trujillo, Luis Felipe Lopez, Prof. Dr. Francesco Pitttau \n The course aims to make the knowledge and teaching produced by the ETH Chair of Sustainable Construction and its network widely accessible. The ReMat MOOC is the result of a team effort, of which you’ll see just some of the faces! Under the overview of Prof. Guillaume Habert, the ReMat MOOC team is composed by: Dr. Giulia Celentano (Course author and coordinator), Nuno Fernandes Silva (content and post-production coordination), Hager Al Laham (post-production coordination), Sofija Ljumovic, Ariadni Androulaki, and Despoina Papadopulou (technical assistance). A special thanks to all the group colleagues who supported the extensive work, and especially to those who – literally! – put their face on it: Dr. Arnaud Evrard, Dr. Edwin Zea Escamilla, Dr. Magda Posani, Dr. Verena Göswein, Dr. Yi Du, Julie Assunção, Dr. Daria Ardant, Dr. Coralie Brumaud.  \n Special appreciation to our collaborators from Amaco and INBAR for their contribution to the course's completeness and enrichment in their respective expertise, which were covered in this MOOC.  \n Video production by: ETH Multimedia (Artan Harjullahu). \n Illustrated animations by: Alberto Wolfango Amedeo D'Asaro",
+  "learning_goals": [
+    "Coordinating",
+    "Atlassian Bamboo",
+    "Post-Production",
+    "Blended Learning",
+    "Teaching",
+    "Active Learning",
+    "Material Characterization",
+    "Animations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "16 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "guillaume-habert-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "giuilia-celentano",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "nuno-fernandes-silva-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "hager-al-laham",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ricardo-perez-restrepo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ariadni-androulaki",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sofija-ljumovic",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "despoina-papadopoulou",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "edwin-zea-escamilla",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "magda-posani",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "verena-goswein",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "julie-silva-da-assuncao",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "arnaud-evrard",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "yi-du",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "daria-ardant",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "coralie-brumaud",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "johann-baar",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "lola-ben-alon",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "tobias-luthe-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "duarte-britto",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "felix-hilgert",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "philippe-garnier",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "martin-rauch",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "nicolar-coeckelberghs",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "anna-pia-rauch",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "laurent-de-wurstmberger",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mu-jun",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dominique-gauzin-muller",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "michael-klippel",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sebastian-kaminski",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alejandro-montes-gonzalez-alejandro-montes-gonzale",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-trujillo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "luis-felipe-lopez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "francesco-pittau",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "ETH Zurich"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 760,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "2mHi86qhEfC1FA5Nz5DuqQ",
+  "platform": "coursera",
+  "title": "Getting Started with Linux Fundamentals",
+  "slug": "getting-started-with-linux-fundamentals",
+  "description": "This is an introductory course intended for users and developers to acclimate to the Red Hat Enterprise Linux desktop and command-line interfaces.\n\nCourse objectives:\n\nPrepare candidates for their adoption of Red Hat Enterprise Linux 9.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 week of study, 2.5 hours per day",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/getting-started-with-linux-fundamentals",
+  "instructors": [
+    {
+      "name": "Red Hat Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Red Hat"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

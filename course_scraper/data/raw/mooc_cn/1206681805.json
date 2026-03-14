@@ -1,0 +1,31 @@
+{
+  "course_id": "1206681805",
+  "platform": "mooc_cn",
+  "title": "电气控制跟我学",
+  "description": "课程是国家“双高计划”（A 档校）数控技术专业群核心课程、国家职业教育在线精品课程、国家职业教育示范性基地（智能制造虚拟仿真实训基地）建设课程、“十四五”江苏省在线开放精品课程、江苏省课程思政示范课程、江苏省A类品牌专业建设课程、无锡市职业教育线上金课、双语精品课程。团队自编的配套教材获评国家“十四五”职业教育规划教材。课程“德技并修育工匠”，培养和提升学员现代电气控制及PLC的工程应用能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206681805",
+  "instructors": [
+    {
+      "name": "赵飞;魏昌洲;李学星;唐立平;宋广雷;奚茂龙;张宁菊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20437,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

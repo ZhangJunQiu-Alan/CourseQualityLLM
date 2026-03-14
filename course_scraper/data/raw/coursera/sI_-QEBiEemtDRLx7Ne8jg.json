@@ -1,0 +1,26 @@
+{
+  "course_id": "sI_-QEBiEemtDRLx7Ne8jg",
+  "platform": "coursera",
+  "title": "Unordered Data Structures",
+  "slug": "cs-fundamentals-3",
+  "description": "The Unordered Data Structures course covers the data structures and algorithms needed to implement hash tables, disjoint sets and graphs. These fundamental data structures are useful for unordered data. For example, a hash table provides immediate access to data indexed by an arbitrary key value, that could be a number (such as a memory address for cached memory), a URL (such as for a web cache) or a dictionary. Graphs are used to represent relationships between items, and this course covers several different data structures for representing graphs and several different algorithms for traversing graphs, including finding the shortest route from one node to another node. These graph algorithms will also depend on another concept called disjoint sets, so this course will also cover its data structure and associated algorithms.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cs-fundamentals-3",
+  "instructors": [
+    {
+      "name": "Wade Fagen-Ulmschneider",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Illinois Urbana-Champaign"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

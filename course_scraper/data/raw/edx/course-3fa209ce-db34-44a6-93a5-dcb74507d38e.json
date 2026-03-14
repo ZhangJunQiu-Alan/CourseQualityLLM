@@ -1,0 +1,39 @@
+{
+  "course_id": "course-3fa209ce-db34-44a6-93a5-dcb74507d38e",
+  "platform": "edx",
+  "title": "Inglés para todos: nivel básico",
+  "description": "Inglés para todos: nivel básico /   English for everyone: basics  es un curso diseñado para demostrar que todos podemos aprender una lengua nueva y qué fácil es aprender inglés. Para lograr este objetivo, los contenidos del curso inician con los aspectos más básicos y avanzan de modo progresivo y amigable. Durante este curso, trabajarás paso a paso en un proyecto de síntesis que podrás compartir con todos los participantes del curso y será el resultado de tu progreso en el proceso de aprendizaje. \n En este curso aprenderás a hacer una presentación básica de ti mismo, expresar tus sentimientos y hablar sobre el lugar donde vives. También, aprenderás a entender información básica de textos orales y escritos que son cotidianos, a entender y utilizar comunicación no verbal y a poner en práctica todo lo aprendido.",
+  "learning_goals": [
+    "Non-Verbal Communication",
+    "Presentations",
+    "English Language"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-6 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "cristian-camilo-cardenas-herrera",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "diana-rocio-umana-buitrago",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad del Rosario"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4285,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

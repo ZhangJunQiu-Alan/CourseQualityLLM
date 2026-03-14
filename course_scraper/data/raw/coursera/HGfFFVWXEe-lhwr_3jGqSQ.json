@@ -1,0 +1,26 @@
+{
+  "course_id": "HGfFFVWXEe-lhwr_3jGqSQ",
+  "platform": "coursera",
+  "title": "Data Engineering on AWS - Foundations",
+  "slug": "data-engineering-on-aws-foundations",
+  "description": "In this course, you will learn essential data engineering concepts such as what does a data engineer do, how to perform data discovery, and which AWS data services are available for running, automating, and securing your data solutions and projects. The course introduces you to data engineering tools for continuous integration and continuous delivery (CI/CD), infrastructure as code (IaC), serverless applications, cost optimization, and authentication. You will also learn what networking concepts should be taken into consideration for data engineers.\n\nThe course is divided into different modules. With the learning modules, you will learn new concepts and get introduced to AWS services to build your solution.\n\nIn this course you will learn to:\n\n- Describe the data engineering role and personas they work with.\n- Identify how to perform data discovery to help define requirements and review considerations.\n- Identify common data architectures and appropriate AWS services.\n- Recognize how to orchestrate and automate data pipelines using AWS services.\n- Identify AWS security and monitoring services.\n- Identify common CI/CD tools used by data engineers on AWS.\n- Identify IaC tools used by data engineers on AWS.\n- Describe AWS Serverless Application Model (AWS SAM).\n- Identify AWS cost optimization tools.\n- Identify different AWS security mechanisms.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-engineering-on-aws-foundations",
+  "instructors": [
+    {
+      "name": "AWS Instructor ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

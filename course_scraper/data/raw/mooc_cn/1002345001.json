@@ -1,0 +1,31 @@
+{
+  "course_id": "1002345001",
+  "platform": "mooc_cn",
+  "title": "运筹学",
+  "description": "运筹学这门学科自二次世界大战诞生以来，就对全世界的经济与社会发展产生了巨大的作用，做出了突出的贡献，正像其名称一样，最真实最完整地体现了运筹帷幄的思想。它总是用优化的理念、优化的方法来考虑实际问题，分析实际问题，并最终解决实际问题。它是管理类专业核心课程，也是经济类专业基础课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002345001",
+  "instructors": [
+    {
+      "name": "万树平;刘满凤;梁威;王翠霞;万龙;万建香",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江西财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 174134,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

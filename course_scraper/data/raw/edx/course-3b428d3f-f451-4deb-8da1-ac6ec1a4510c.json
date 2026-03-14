@@ -1,0 +1,44 @@
+{
+  "course_id": "course-3b428d3f-f451-4deb-8da1-ac6ec1a4510c",
+  "platform": "edx",
+  "title": "Measuring Sustainable Development",
+  "description": "Sustainable development is the most important global movement of our time. In 2015, the 193 member states of the United Nations unanimously adopted the 2030 Agenda for Sustainable Development and its 17 Sustainable Development Goals. These interconnected Goals aim to end poverty and promote economic prosperity, ensure social equity, and protect the environment. Above all, the 2030 Agenda commits to “leaving no one behind.” How do we know if we are on track to achieve the SDGs? Which Goals should different countries prioritize? And what kind of data do we need to ensure that everyone is counted? \n Launched in 2015 by the Sustainable Development Solutions Network (SDSN) and the Bertelsmann Stiftung, the  Sustainable Development Report  is the first worldwide study to assess where the world stands with regard to achieving sustainable development. The Report contains the SDG Index and Dashboards, which use a combination of official and unofficial data and indicators to understand each country’s progress on the 17 SDGs. \n In this short course, you will hear from some of the experts responsible for creating the Sustainable Development Report about the value of measuring progress on the SDGs, and how a tool like the SDG Index and Dashboards helps policymakers and other stakeholders make important decisions about their development priorities. You will examine the different types of data that can be used to measure development progress, and learn the technical steps needed to construct an index for the SDGs. Finally, you will explore regional and city-level indices, and discuss new approaches to SDG measurement and data-based decision-making.",
+  "learning_goals": [
+    "Data-Driven Decision-Making",
+    "Dashboard",
+    "Sustainable Development"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "guido-schmidt-traub-3",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "guillaume-lafortune",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jessica-espey",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "SDG Academy"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 587,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

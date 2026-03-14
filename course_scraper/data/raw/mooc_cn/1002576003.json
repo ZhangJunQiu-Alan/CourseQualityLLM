@@ -1,0 +1,31 @@
+{
+  "course_id": "1002576003",
+  "platform": "mooc_cn",
+  "title": "离散结构",
+  "description": "“离散结构”或“离散数学”被称为“计算机的数学”，作为计算机科学的理论基石深刻影响着我们的生活。本课程注重理论与应用结合，引导学习者主动发现，积极探索，学以致用。课程资源丰富，包括各类案例、真题，和实验指导等，可以满足广大学习者的需求。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002576003",
+  "instructors": [
+    {
+      "name": "张霞;袁景凌;巩晶;钟忺;王旭",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20437,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

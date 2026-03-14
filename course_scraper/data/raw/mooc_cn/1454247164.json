@@ -1,0 +1,31 @@
+{
+  "course_id": "1454247164",
+  "platform": "mooc_cn",
+  "title": "公安实用统计学（双语）",
+  "description": "本课程为公安学和公安技术本科学生及相关社会学习者提供较为全面、系统地警务数据统计分析的基础理论和知识，并通过基于警务策略量化研究范例等案例教学方法，使其了解和掌握规范的量化研究方法和科学思维方式。通过本课程的学习，学生能够具备利用 SPSS 等统计分析软件完成警务数据管理、描述统计和数据可视化、参数估计、方差分析、主成分和因子分析、相关和回归分析、时间序列分析、路径分析等能力，并能够利用概率方法进行基础辅助决策工作；帮助学习者扩展国际视野，逐步树立理性思维、批判思维和系统思维方式。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1454247164",
+  "instructors": [
+    {
+      "name": "陈朗梓",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京警察学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3525,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

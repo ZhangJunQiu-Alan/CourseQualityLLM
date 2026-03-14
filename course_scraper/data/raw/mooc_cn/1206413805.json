@@ -1,0 +1,31 @@
+{
+  "course_id": "1206413805",
+  "platform": "mooc_cn",
+  "title": "中医儿科学",
+  "description": "中医儿科学课程是中医学主干课程之一。本课程由北京中医药的大学东直门医院和东方医院两所临床医学院的儿科优秀教师联袂主讲，结合临床实际，选取中医药治疗的优势病种，进行重点讲解，突出中医药治疗的思路和优势。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206413805",
+  "instructors": [
+    {
+      "name": "王俊宏;孙洮玉;余惠平;吴力群;郝宏文;桑勉;王素梅;陈自佳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 31647,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

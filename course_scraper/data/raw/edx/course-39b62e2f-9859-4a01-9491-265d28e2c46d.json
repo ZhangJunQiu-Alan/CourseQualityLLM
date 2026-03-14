@@ -1,0 +1,43 @@
+{
+  "course_id": "course-39b62e2f-9859-4a01-9491-265d28e2c46d",
+  "platform": "edx",
+  "title": "Introduction to Probability",
+  "description": "Probability and statistics help to bring logic to a world replete with randomness and uncertainty. This course will give you tools needed to understand data, science, philosophy, engineering, economics, and finance. You will learn not only how to solve challenging technical problems, but also how you can apply those solutions in everyday life.  \n With examples ranging from medical testing to sports prediction, you will gain a strong foundation for the study of statistical inference, stochastic processes, randomized algorithms, and other subjects where probability is needed.",
+  "learning_goals": [
+    "Stochastic Process",
+    "Statistics",
+    "Statistical Inference",
+    "Engineering Economics",
+    "Medical Testing",
+    "Prediction",
+    "Algorithms",
+    "Finance",
+    "Probability",
+    "Data Science",
+    "Forecasting",
+    "Economics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-blitzstein",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9452,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

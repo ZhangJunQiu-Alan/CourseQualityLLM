@@ -1,0 +1,31 @@
+{
+  "course_id": "1206290801",
+  "platform": "mooc_cn",
+  "title": "病理形态实验学",
+  "description": "借助一双眼睛，我们能看到什么？是疾病发生过程中受累器官的大体形态？还是显微镜下的微观改变？在这里，也许你能找到一些答案。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206290801",
+  "instructors": [
+    {
+      "name": "潘旻;陈平圣;李懿萍;张爱凤;许纯;卜晓东;盛蓁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26440,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

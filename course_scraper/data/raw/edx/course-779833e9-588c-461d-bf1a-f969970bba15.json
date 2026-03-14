@@ -1,0 +1,63 @@
+{
+  "course_id": "course-779833e9-588c-461d-bf1a-f969970bba15",
+  "platform": "edx",
+  "title": "Macroeconomic Diagnostics",
+  "description": "In this online course on Macroeconomic Diagnostics (MDSx), you will learn some applied tools that will allow you to assess the economic situation in a country. These analytical tools are the ones most used by applied macroeconomists—including those at the IMF. You will learn both how to technically implement these tools and to interpret their results. \n The course will guide you through the different sectors of an economy. It will present tools to assess the relevant sector and its vulnerabilities. These applied tools will be simple to apply and they will bring out the critical information that an economist needs to make an assessment. \n Beyond the tools themselves, we’ll also be showing how to refine and interpret their output. We will be doing more than just plugging numbers into a spreadsheet formula. We will want to use the results of these tools – filtered through our judgement – to develop a narrative of a country’s economic situation. \n To help you make this course more hands-on, you will be examining a case study country called “Diagnostica.” We will run through a series of sector-by-sector assessments. Along the way, we will be demonstrating how to apply the diagnostic by using different country examples. Then, you will be asked to perform that same exercise and interpret it for “Diagnostica.” Finally, we’ll be integrating our sectoral assessments into a comprehensive analysis known as a ‘risk assessment matrix’ or RAM. This will give us a sense of where the major risks and weaknesses lie in Diagnostica’s macroeconomic picture. \n Macroeconomic Diagnostics is offered by the IMF with financial support from the Government of Japan.",
+  "learning_goals": [
+    "Vulnerability",
+    "Economics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dimitre-milkov",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "evan-tanner",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "adolfo-barajas",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "maksym-ivanyna",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "luciana-juvenal-0",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mikhail-pranovich",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "younes-zouhar",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1137,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

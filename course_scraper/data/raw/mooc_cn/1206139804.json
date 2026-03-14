@@ -1,0 +1,31 @@
+{
+  "course_id": "1206139804",
+  "platform": "mooc_cn",
+  "title": "简明固体物理",
+  "description": "本课程着眼于固体物理学的核心知识点，主要包括晶体结构、晶格振动、自由电子理论和能带理论，内容简洁精炼，逻辑清晰，讲解流畅，对学生基础知识要求较低，学时相对较短，视频总时长仅为10小时。材料类、电子类、物理类、化学类等相关专业学生在深入学习固体理论、开展相关科学研究前，学习本课程，可以达到快速入门的目的。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206139804",
+  "instructors": [
+    {
+      "name": "唐宇;白书欣;李巍;柳凤琦;叶益聪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35895,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

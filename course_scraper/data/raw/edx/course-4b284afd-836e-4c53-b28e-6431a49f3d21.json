@@ -1,0 +1,35 @@
+{
+  "course_id": "course-4b284afd-836e-4c53-b28e-6431a49f3d21",
+  "platform": "edx",
+  "title": "Foundations of Finance",
+  "description": "This course provides a rigorous, but straightforward, introduction to the key concepts of financial understanding. Using real-world case studies and practitioner interviews, as well as timely knowledge checks, you will integrate your new knowledge and problem solving skills with practical application. \n No prior knowledge is required or assumed, and the course will be particularly beneficial if: \n \n you engage with/need to engage with financial specialists, and want to collaborate more effectively; \n you are self-employed or are considering self-employment; \n you are considering a career or secondment in finance; you are interested in corporate finance, financial management, or business finance; \n you are simply interested in the subject and wish to know more",
+  "learning_goals": [
+    "Finance",
+    "Financial Management",
+    "Corporate Finance",
+    "Problem Solving"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "doug-williamson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Cambridge"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5092,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

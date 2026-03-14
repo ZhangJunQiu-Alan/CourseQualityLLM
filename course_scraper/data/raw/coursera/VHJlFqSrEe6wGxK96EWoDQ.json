@@ -1,0 +1,26 @@
+{
+  "course_id": "VHJlFqSrEe6wGxK96EWoDQ",
+  "platform": "coursera",
+  "title": "CPS Design with ARM Core using MicroPython for Industries",
+  "slug": "design-of-cps",
+  "description": "This course equips participants with the knowledge and hands-on skills needed to design and implement ARM Processor with Micro python in Cyber-Physical Systems (CPS) for industrial and use. Covering foundational concepts and practical development with Micro python programming on ARM processors, participants will explore the Consumer Industry, Smart City Perspective of CPS, and gain expertise to design and control the evolving smart systems. Participants will gain insights of Raspberry Pi Pico, Thonny IDE and Installing Micro Python for Pico and delve deep into the exploration of embedded systems in CPS. This covers 16x2 LCD Display using I2C Protocol, Interfacing ADC with Pico and displaying in OLED, Simple Weather Monitoring System, Interfacing Bluetooth with Pico and various embedded control systems for washing machine, design of Coffee machine, Vacuum cleaner and more using embedded system. Refrigeration Appliances, Weigh-In-Motion, induction, microwave oven. Furthermore, they will intricate concepts of civil structures, importance of sensors in smart civil structures and various controlling devices and systems for smart civil structures, gain knowledge in Smart city structures includes smart waste management, detection of underground utilities, smart metering and wireless occupancy and surveillance.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/design-of-cps",
+  "instructors": [
+    {
+      "name": "Subject Matter Expert",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "L&T EduTech"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

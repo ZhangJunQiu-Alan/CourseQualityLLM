@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753091",
+  "platform": "mooc_cn",
+  "title": "数字逻辑电路",
+  "description": "从世界上第一台通用计算机ENIAC到纳米工艺的微处理器，数字逻辑电路经历了从真空管到集成电路和可编程逻辑的发展。如今，数字电子技术已经渗透到人类社会经济生活的所有领域，并且改变着我们生活的方方面面。同学们，你想跟上信息社会飞奔的脚步吗？快来加入我们的课程，一起领略数字设计的魅力吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753091",
+  "instructors": [
+    {
+      "name": "花汉兵;谭雪琴;班恬;孙理;王建新;姜萍;姚云霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 90499,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

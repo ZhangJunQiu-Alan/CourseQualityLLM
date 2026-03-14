@@ -1,0 +1,26 @@
+{
+  "course_id": "p48BVSydEfCiAQ5S3BvtgQ",
+  "platform": "coursera",
+  "title": "Python Programming Essentials Training",
+  "slug": "python-programming-essentials-training",
+  "description": "This comprehensive Python Programming course equips you with the skills to code confidently, solve problems efficiently, and build real-world applications. Begin by mastering programming fundamentals—understand software types, programming models, and set up Python with an IDE. Get hands-on with writing your first Python program. Progress to core programming concepts—work with data types, operators, strings, conditionals, and loops to build logical, structured code. Advance to functions, lambda expressions, and generators for modular design. Conclude with object-oriented programming principles and threading techniques to develop scalable and high-performance Python applications.\n\nYou should have a basic understanding of computer operations and logical thinking.\n\nBy the end of this course, you will be able to:\n\n- Set Up & Start: Install Python, configure an IDE, and write your first program.\n- Build Logic: Use data types, loops, and conditionals to structure program flow.\n- Create Modular Code: Apply functions, lambdas, and OOP to organize and scale code.\n- Manage Concurrency: Use threading and multithreading to handle parallel tasks.\n\nIdeal for aspiring developers, coding professionals, and anyone looking to build a strong foundation in Python programming.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/python-programming-essentials-training",
+  "instructors": [
+    {
+      "name": "Priyanka Mehta",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Simplilearn"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

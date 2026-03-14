@@ -1,0 +1,31 @@
+{
+  "course_id": "course-f6d044f2-857d-4932-9be6-57d2a41a8e27",
+  "platform": "edx",
+  "title": "Draft, analyze, and present with Microsoft 365 Copilot",
+  "description": "In an increasingly digital workplace, mastering AI-driven tools is crucial for career growth. This course is designed to help professionals harness the power of Microsoft 365 Copilot to streamline their workflows, enhance productivity, and create high-quality documents and presentations.",
+  "learning_goals": [
+    "Workflow Management",
+    "Artificial Intelligence",
+    "Presentations",
+    "Visual Workplaces",
+    "Microsoft 365",
+    "Data-Driven Decision-Making"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "2 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 941,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

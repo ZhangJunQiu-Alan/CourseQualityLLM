@@ -1,0 +1,31 @@
+{
+  "course_id": "1206737802",
+  "platform": "mooc_cn",
+  "title": "建筑力学1",
+  "description": "建筑力学课程，是土建大类专业基础课，通过课程的学习，探索与掌握物体的平衡规律以及构件在受力后的内力、应力、变形的计算方法和规律，使结构和构件在经济的前提下，最大限度地保证具有足够的强度、刚度和稳定性。在建筑工程专业各门课程的学习中起着承上启下的作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206737802",
+  "instructors": [
+    {
+      "name": "倪晓燕;臧军;曹金龙;杨梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏建筑职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26432,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

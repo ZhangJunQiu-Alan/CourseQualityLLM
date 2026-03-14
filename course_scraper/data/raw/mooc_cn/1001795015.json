@@ -1,0 +1,31 @@
+{
+  "course_id": "1001795015",
+  "platform": "mooc_cn",
+  "title": "工程力学",
+  "description": "给我20小时带你“玩转”工程力学。       该课程荣获河南省首批线上一流课程，第十九届全国教育教学信息化交流展示活动本科组精品资源共享课三等奖，河南省首届信息技术与课程融合优质课大赛二等奖，河南省信息技术教育优秀成果二等奖。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001795015",
+  "instructors": [
+    {
+      "name": "何伟;韩立新;白冰;张俊红;唐克东;张建华;刘云;温中华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华北水利水电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23476,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

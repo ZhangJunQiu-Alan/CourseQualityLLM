@@ -1,0 +1,31 @@
+{
+  "course_id": "1464158164",
+  "platform": "mooc_cn",
+  "title": "Medical Physiology",
+  "description": "Physiology is a branch of the biology. It is a science that studies the vital regularity in living organisms. It has long been regarded as one of the most basic and important courses in medicine.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464158164",
+  "instructors": [
+    {
+      "name": "Biwen PENG",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Wuhan University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 120,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

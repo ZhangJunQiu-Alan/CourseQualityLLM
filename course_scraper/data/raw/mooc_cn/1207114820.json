@@ -1,0 +1,31 @@
+{
+  "course_id": "1207114820",
+  "platform": "mooc_cn",
+  "title": "系统解剖学",
+  "description": "系统解剖学知识繁杂，内容抽象，学习难度不言而喻。完整的人体系统知识，重点的内容讲解。让我们共同认识人体，走进医学！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207114820",
+  "instructors": [
+    {
+      "name": "孔凡镇;张力;刘菲;徐宁;阚氏海;李琳;于振海;周帅;赵冬梅;叶晶;赵光涛;王志强;张春雷;刘洪付;冯国营;张乃丽;梁少华;尹彦存;王利民;曲洪林;孙毅;张璐萍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "滨州医学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 53849,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

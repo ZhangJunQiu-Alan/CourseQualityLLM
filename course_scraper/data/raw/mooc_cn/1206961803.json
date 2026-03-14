@@ -1,0 +1,31 @@
+{
+  "course_id": "1206961803",
+  "platform": "mooc_cn",
+  "title": "管理运筹学",
+  "description": "本课程是一门理论与实际并重的课程，采用以基本理论为本﹑实用为主的教学指导思想。以《运筹学》基本理论为本，选择《运筹学》中最为基本的理论内容，讲清来龙去脉，理清定理的内容要点以及使用该定理的条件，而略去比较烦难的定理证明；以实用为主，选择一些典型的案例或例题，运用基本理论知识给予解决。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206961803",
+  "instructors": [
+    {
+      "name": "万武;张菁菁;赵观兵",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16240,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

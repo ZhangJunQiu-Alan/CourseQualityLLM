@@ -1,0 +1,37 @@
+{
+  "course_id": "course-63ca4f1d-411a-451c-acd6-697e100dc144",
+  "platform": "edx",
+  "title": "DevOps Basics for Everyone",
+  "description": "The DevOps Basics for Everyone course explores DevOps as a cultural movement. By thinking from a DevOps perspective, you will be able to build better products for your customer. This course provides views of DevOps from both a business perspective and as a DevOps engineer.        \n You will learn about building a business case for DevOps, the essentials of DevOps, and receive a brief history of DevOps. Additionally, new ways of thinking, working, organizing, and measuring to fully gain the benefits of DevOps methodologies will also be taught.     \n You will learn how breaking down silos and organizing developers and operators into single cross-functional teams is necessary for truly adopting DevOps. Having everyone contributing and being responsible is at the core of being successful at applying DevOps.     \n You will see how building a culture of shared responsibility and transparency is the foundation of every high performing DevOps team.     \n Exploring the key concepts of infrastructure for DevOps Continuous Integration and Continuous Delivery is taught during this course. You will be able to use actionable measures that apply directly to decision making that will ultimately result in continuous improvement.     \n The course wraps up with a case study of a DevOps scenario for you to test and apply your newly acquired DevOps knowledge.",
+  "learning_goals": [
+    "Continuous Delivery",
+    "Infrastructure",
+    "Continuous Integration",
+    "DevOps",
+    "Business Case",
+    "Decision Making"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "john-rofrano",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 819,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

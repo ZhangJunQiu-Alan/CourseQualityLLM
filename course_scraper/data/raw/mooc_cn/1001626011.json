@@ -1,0 +1,31 @@
+{
+  "course_id": "1001626011",
+  "platform": "mooc_cn",
+  "title": "药物分析",
+  "description": "药物分析是研究药品质量及其控制规律的科学。本课程学习药品质量观、分析方法原理、化学药物、中药、生物药物分析案例，及分析技术的前沿进展。课程依据《药物分析进展》(2版，柳文媛主编)、《药物分析》(9版，杭太俊主编)制作，可供药学相关专业学生、执业药师、药品检验相关从业人员学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001626011",
+  "instructors": [
+    {
+      "name": "宋沁馨;郑秋凌;柳文媛;李博;刘晶;吴春勇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国药科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 130065,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

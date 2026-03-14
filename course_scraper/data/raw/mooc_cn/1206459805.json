@@ -1,0 +1,31 @@
+{
+  "course_id": "1206459805",
+  "platform": "mooc_cn",
+  "title": "机械原理及设计",
+  "description": "机械原理与设计是一门培养学生工程思维与机械创新设计能力的技术基础课，是工科机械类系列教学的主干课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206459805",
+  "instructors": [
+    {
+      "name": "郭卫东;孙明磊;张武翔;郝壮;张秋婷;于靖军;田耀斌;王巍;裴旭;高志慧;赵晓慈;吕胜男",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9794,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

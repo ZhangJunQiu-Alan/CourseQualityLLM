@@ -1,0 +1,31 @@
+{
+  "course_id": "1002602006",
+  "platform": "mooc_cn",
+  "title": "动物营养学",
+  "description": "动物营养学课程的主要内容包括养分的营养生理作用及其消化吸收规律、动物营养学研究方法、动物的营养需要，通过学习同学们能够掌握养分代谢规律及其调控技术、了解动物营养学主要的研究方法、学会动物营养需要标准的实际使用原则与技巧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002602006",
+  "instructors": [
+    {
+      "name": "姚军虎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28088,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

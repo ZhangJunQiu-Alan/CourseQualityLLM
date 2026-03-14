@@ -1,0 +1,31 @@
+{
+  "course_id": "1469693214",
+  "platform": "mooc_cn",
+  "title": "单片机技术及应用",
+  "description": "单片机就是把一个计算机系统微型化在一个大规模集成电路芯片上，麻雀虽小五脏俱全，它是智能化嵌入式电子产品的核心。大到卫星、导弹，小到洗衣机、微波炉、儿童玩具，单片机的身影遍布工业、通讯、医用、家电等各电子产品领域。学习了单片机技术，将开启你的智能控制电子产品设计与应用之路。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1469693214",
+  "instructors": [
+    {
+      "name": "高玉玲;王璇;高杉;宋维君",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4113,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

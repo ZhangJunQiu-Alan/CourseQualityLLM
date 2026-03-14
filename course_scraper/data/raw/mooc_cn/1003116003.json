@@ -1,0 +1,31 @@
+{
+  "course_id": "1003116003",
+  "platform": "mooc_cn",
+  "title": "有机化学（下）",
+  "description": "天津大学有机化学课程，以高鸿宾主编的国家级规划教材为蓝本，由教学经验丰富的教师担任主讲，源于精品课程之积淀，秉承优秀教材之精髓，臻于理论应用之融合，蕴含人生哲理之启迪，以独特的视角、生动的描述、风趣的讲解、细致的分析，引领你感悟有机化学的博大精深，欣赏苯萘蒽菲的芳香诱人！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003116003",
+  "instructors": [
+    {
+      "name": "马宁;张文勤;唐向阳;赵温涛;郑艳;聂晶;张明杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "天津大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 38126,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

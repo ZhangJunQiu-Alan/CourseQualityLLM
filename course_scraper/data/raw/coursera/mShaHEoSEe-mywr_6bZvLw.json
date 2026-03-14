@@ -1,0 +1,26 @@
+{
+  "course_id": "mShaHEoSEe-mywr_6bZvLw",
+  "platform": "coursera",
+  "title": "SwiftUI Animations iOS 16 - Animate Anything with SwiftUI",
+  "slug": "packt-swiftui-animations-ios-16-animate-anything-with-swiftui-qdesb",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nCreate smooth and engaging animations with SwiftUI through a fun course that caters to all skill levels, from easy to advanced, exploring various types of animations. With just a working knowledge of Swift, you can utilize Apple’s SwiftUI to create beautiful animations with less code.\n\nThe course covers numerous techniques to translate your animation ideas into reality. SwiftUI, Apple's declarative framework, is fast, easy, and enjoyable. You will learn to create projects like a breathing flower with effects such as snow and wind, animate objects around different axes, create a marching ants effect, animate a weather graph with data, and combine animations for unique effects. \n\nAdditionally, you'll use the Shape protocol and paths to make custom wave shapes and animate them along control points, as well as animatableData for animating data in interesting ways. You will understand the Parallax effect, use iOS SpriteKit for physics-based animations, and add sound to make projects more engaging.\n\nThis course is ideal for intermediate iOS developers looking to expand their expertise with SwiftUI. A basic understanding of Swift programming is recommended. Whether you're a developer aiming to create more engaging user interfaces or a designer wanting to implement your ideas more effectively, this course is designed to elevate your skills.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-swiftui-animations-ios-16-animate-anything-with-swiftui-qdesb",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

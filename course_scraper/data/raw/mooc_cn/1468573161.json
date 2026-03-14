@@ -1,0 +1,31 @@
+{
+  "course_id": "1468573161",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "线性代数是高等学校理、工、经管、农、林等专业公共基础课程。本课程主要讨论有限维线性空间的线性理论与方法，它具有较强的抽象性、逻辑性与广泛的实用性。由于线性问题广泛存在于科学技术的各个领域，因此，本课程所介绍的基本理论和方法广泛地应用于各个学科。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468573161",
+  "instructors": [
+    {
+      "name": "侯丽英;周小燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2598,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

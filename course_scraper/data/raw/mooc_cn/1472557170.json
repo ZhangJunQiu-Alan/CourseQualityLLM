@@ -1,0 +1,31 @@
+{
+  "course_id": "1472557170",
+  "platform": "mooc_cn",
+  "title": "日本文化发展史",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472557170",
+  "instructors": [
+    {
+      "name": "姚琼;李国栋;江静",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江工商大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1261,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

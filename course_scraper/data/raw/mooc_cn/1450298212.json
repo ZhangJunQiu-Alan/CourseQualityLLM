@@ -1,0 +1,31 @@
+{
+  "course_id": "1450298212",
+  "platform": "mooc_cn",
+  "title": "物理化学",
+  "description": "《物理化学》是综合运用数学、物理等基础科学的理论和实验方法来研究化学过程中的平衡规律和速率规律及这些规律与微观结构的关系。物理化学是化学、食品、安工、环境、材料、医学、检验、药学、生物技术等专业的一门重要的基础理论课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450298212",
+  "instructors": [
+    {
+      "name": "孟素慈;白红叶;夏昌坤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6358,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1205962802",
+  "platform": "mooc_cn",
+  "title": "数据库技术与应用",
+  "description": "《数据库技术与应用》是软件技术专业的核心课程，是集基础性、综合性和实践性为一体的职业课程。本课程顺应云计算、大数据、物联网、人工智能等计算机领域前沿技术发展对数据信息管理的需求，紧贴岗位要求及实际开发任务，将数据库管理员岗位工作任务融入教学过程,运用数据库知识完成创建、使用、优化、管理及维护数据信息的操作，以真实项目为载体，遵循学生认知规律，重点培养学生具备数据库应用系统设计、开发、管理的专业知识及项目实践能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205962802",
+  "instructors": [
+    {
+      "name": "付晓强;杨阳;郎振红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "天津电子信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17976,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "course-760d56a2-69e4-45f7-9f8d-5de319a13714",
+  "platform": "edx",
+  "title": "Fundamentos de anatomía y técnica quirúrgica básica",
+  "description": "La anatomía es la ciencia que estudia la forma, ubicación y relaciones de las estructuras del cuerpo. Este curso en línea tiene como objetivo enseñar las principales características anatómicas del cuerpo humano desde la perspectiva médica.  \n A través de casos clínicos basados en hechos reales y en personajes históricos, se espera que los estudiantes conozcan la organización anatómica general del cuerpo humano, las principales regiones corporales y cómo los diferentes sistemas se organizan y relacionan en estos. Adicionalmente, el curso de medicina busca que los estudiantes que participen conozcan las bases anatómicas de algunos procedimientos que se usan en primeros auxilios y las técnicas para aplicarlos correctamente con el fin de salvar vidas.  \n La bomba de la maratón de Boston, la causa de la muerte de Napoleón Bonaparte, la maniobra de Heimlich para ayudar a personas que se están asfixiando y otros interesantes temas, serán repasados en éste curso.  \n Adicionalmente, quienes quieran certificarse, tendrán acceso a material interactivo con técnicas avanzadas como una cricotiroidotomía de urgencia o una ultrasonografía enfocada en trauma (FAST).  \n Por tanto, en este curso de anatomía humana aprenderás los conceptosanatómicos básicos que te permitirán ayudar a entender cómo se puede ayudar a una persona que se encuentra en una situación de emergencia y comprenderás mejor algunas enfermedades y sus tratamientos.",
+  "learning_goals": [
+    "Heimlich Maneuver",
+    "Anatomy",
+    "Medical Ultrasonography",
+    "Trauma Care",
+    "Emergency Procedures",
+    "First Aid"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-6 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "felipe-gonzalez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ricardo-miguel-luque-bernal",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad del Rosario"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 356,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

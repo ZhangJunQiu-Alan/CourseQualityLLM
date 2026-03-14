@@ -1,0 +1,31 @@
+{
+  "course_id": "1206067804",
+  "platform": "mooc_cn",
+  "title": "电力系统继电保护",
+  "description": "作为电力系统的第一道安全防线——电力系统继电保护，如何应对能源互联网时代带来的巨大挑战？       我们将在选择性、可靠性、速动性、灵敏性的矛盾和统一中寻求各种保护原理之间的区别与联系；在传统继电保护与微机继电保护的博弈中，探寻既是一项技术也是一门艺术的电力系统继电保护的奥秘！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206067804",
+  "instructors": [
+    {
+      "name": "王颖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国计量大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24039,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

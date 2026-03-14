@@ -1,0 +1,35 @@
+{
+  "course_id": "course-dec6dc78-6e82-49d2-ba50-793be1a327d3",
+  "platform": "edx",
+  "title": "Inteligencia Artificial en la Logística",
+  "description": "Este curso integral está diseñado para profesionales y entusiastas de la logística que desean profundizar en el uso y aplicación de la inteligencia artificial (IA) en sus operaciones diarias. A lo largo de cuatro módulos detallados, los participantes explorarán cómo la IA está revolucionando distintos aspectos de la industria logística, incluyendo la automatización de almacenes, la optimización inteligente de la logística de transporte, y la gestión avanzada de inventarios.  \n El programa ofrece un recorrido por casos de éxito en diversos sectores, como el comercio minorista, la distribución y la fabricación, mostrando ejemplos concretos de cómo la tecnología de IA puede solucionar problemas reales y generar eficiencias significativas. También se proporcionarán herramientas prácticas para la implementación de soluciones de IA, asegurando que los estudiantes puedan aplicar lo aprendido en sus contextos profesionales.  \n Además, el curso abordará importantes consideraciones éticas relacionadas con el uso de IA en logística y discutirá las tendencias futuras en este campo dinámico. De esta manera, los participantes estarán mejor preparados para enfrentar tanto los desafíos actuales como los futuros en el ámbito de la logística avanzada.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "cesar-becerra-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "oscar-velasquez",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LOGYCA"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 284,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

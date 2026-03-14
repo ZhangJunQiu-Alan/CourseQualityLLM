@@ -1,0 +1,46 @@
+{
+  "course_id": "UIi0kNpgEeWP9RIK11q74w",
+  "platform": "coursera",
+  "title": "Systems Science and Obesity",
+  "slug": "systems-science-obesity",
+  "description": "Systems science has been instrumental in breaking new scientific ground in diverse fields such as meteorology, engineering and decision analysis.   However, it is just beginning to impact public health.   This seminar is designed to introduce students to basic tools of theory building and data analysis in systems science and to apply those tools to better understand the obesity epidemic in human populations. There will also be a lab in which students will use a simple demonstration model of food acquisition behavior using agent-based modeling on standard (free) software (netlogo).   The central organizing idea of the course is to examine the obesity epidemic at a population level as an emergent properties of complex, nested systems, with attention to feedback processes, multilevel interactions, and the phenomenon of emergence.   While the emphasis will be on obesity, the goal will be to explore ways in which the systems approach can be applied to other non-communicable diseases both nationally and internationally.  \n \nTopics will include:\na) the epidemiology of obesity across time and place,\nb) theories to explain population obesity,\nc) the role of environments and economic resources in obesity\nc) basic concepts and tools of systems science,\nd) modeling energy-balance related behaviors in context,\ne) agent-based models, systems dynamic models, and social network models",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/systems-science-obesity",
+  "instructors": [
+    {
+      "name": "Jessica Jones-Smith",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Rahmat Beheshti",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Daniel Taber",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Kayla de la Haye",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Thomas Glass",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

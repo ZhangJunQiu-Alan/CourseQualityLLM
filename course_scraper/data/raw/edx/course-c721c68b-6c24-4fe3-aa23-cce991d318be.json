@@ -1,0 +1,44 @@
+{
+  "course_id": "course-c721c68b-6c24-4fe3-aa23-cce991d318be",
+  "platform": "edx",
+  "title": "Data Structures & Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms",
+  "description": "This Data Structures &amp; Algorithms course completes the 4-course sequence of the program with graph algorithms, dynamic programming and pattern matching solutions. A short Java review is presented on topics relevant to new data structures covered in this course. The course does require prior knowledge of Java, object-oriented programming and linear and non-linear data structures. Time complexity is threaded throughout the course within all the data structures and algorithms. \n You will delve into the Graph ADT and all of its auxiliary data structures that are used to represent graphs. Understanding these representations is key to developing algorithms that traverse the entire graph. Two traversal algorithms are studied: Depth-First Search and Breadth-First Search. Once a graph is traversed then it follows that you want to find the shortest path from a single vertex to all other vertices. Dijkstra’s algorithm allows you to have a deeper understanding of the Graph ADT. You will investigate the Minimum Spanning Tree (MST) problem. Two important, greedy algorithms create an MST: Prim’s and Kruskal’s. \n Prim’s focuses on connected graphs and uses the concept of growing a cloud of vertices. Kruskal’s approaches the MST differently and creates clusters of vertices that then form a forest. \n The other half of this course examines text processing algorithms. Pattern Matching algorithms are crucial in everyday technology. You begin with the simplest of the algorithms, Brute Force, which is the easiest to implement and understand. Boyer-Moore and Knuth-Morris-Pratt (KMP) improve efficiency by using preprocessing techniques to find the pattern. However, KMP does an exceptional job of not repeating comparisons once the pattern is shifted. The last pattern matching algorithm is Rabin-Karp which is an “out of the box” approach to the problem. Rabin-Karp uses hash codes and a “rolling hash” to find the pattern in the text. A different text processing problem is locating DNA subsequences which leads us directly to Dynamic Programming techniques. You will break down large problems into simple subproblems that may overlap, but can be solved. Longest Common Subsequence is such an algorithm that locates the subsequence through dynamic programming techniques.",
+  "learning_goals": [
+    "Algorithms",
+    "Dynamic Programming",
+    "Time Complexity",
+    "Brute Force Attacks",
+    "Data Structures",
+    "Java (Programming Language)",
+    "Pattern Matching",
+    "Graph Algorithms",
+    "Java Object Oriented Querying",
+    "Spanning Tree Protocols",
+    "Shortest Path Problem",
+    "Text Processing",
+    "Greedy Algorithm"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 9-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mary-hudachek-buswell",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 529,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

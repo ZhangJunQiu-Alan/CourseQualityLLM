@@ -1,0 +1,49 @@
+{
+  "course_id": "course-bad6807d-68fb-4580-9c07-ec255ad7f366",
+  "platform": "edx",
+  "title": "World of Wine: From Grape to Glass",
+  "description": "A wine course for anyone who loves wine and wine tasting  \n Think about your favourite wine. Imagine the brilliance of its colour in the glass, the ripe fruit aromas on the nose, a hint of toasty oak and lingering tannins on the back palate. Perhaps you like a specific wine, but can’t pinpoint the reason why. The attributes that make wine so enjoyable are achieved through the process of viticulture and winemaking, where decision-making in the vineyard and winery is underpinned by science – to be precise, viticulture and oenology. \n  What will you learn?  \n The finer details can take years to learn, but in a matter of weeks this course will give you a broad understanding of wine fundamentals and practices used to grow grapes and make wine, and their impact on wine appearance, aroma, flavour and taste. \n You’ll also gain an appreciation for how cutting-edge research is helping to secure the future sustainability of the global wine industry. \n By the end of this course, you'll be able to confidently describe wine appearance, aroma, flavour and taste. \n  Who should study this wine course?  \n Whether you’re a wine novice or a seasoned oenophile, this course is for anyone who loves wine and wine tasting. You’ll even get to make your own wine - virtually at least!",
+  "learning_goals": [
+    "Viticulture",
+    "Winemaking",
+    "Decision Making"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "kerry-wilkinson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "cassandra-collins",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-jeffery",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "paul-grbin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Adelaide University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 648,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

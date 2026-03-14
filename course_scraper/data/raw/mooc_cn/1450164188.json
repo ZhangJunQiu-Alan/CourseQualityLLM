@@ -1,0 +1,31 @@
+{
+  "course_id": "1450164188",
+  "platform": "mooc_cn",
+  "title": "刑法学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450164188",
+  "instructors": [
+    {
+      "name": "王恩海;刘宪权;何萍;马寅翔",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东政法大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 69952,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "ENhHCTboEeW8ZAoCexam_w",
+  "platform": "coursera",
+  "title": "Data Analysis Tools",
+  "slug": "data-analysis-tools",
+  "description": "In this course, you will develop and test hypotheses about your data. You will learn a variety of statistical tests, as well as strategies to know how to apply the appropriate one to your specific data and question. Using your choice of two powerful statistical software packages (SAS or Python), you will explore ANOVA, Chi-Square, and Pearson correlation analysis. This course will guide you through basic statistical principles to give you the tools to answer questions you have developed. Throughout the course, you will share your progress with others to gain valuable feedback and provide insight to other learners about their work.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-analysis-tools",
+  "instructors": [
+    {
+      "name": "Jen Rose",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Lisa Dierker",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Wesleyan University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

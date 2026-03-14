@@ -1,0 +1,26 @@
+{
+  "course_id": "cA9rxCrHEeyavRI3rIvGvQ",
+  "platform": "coursera",
+  "title": "Analyse de données avec la programmation R",
+  "slug": "analyse-de-donnees-avec-la-programmation-r",
+  "description": "Ce cours est le septième du Google Data Analytics Certificate. Ces cours vous permettront d’acquérir les compétences dont vous avez besoin pour postuler les emplois d’analyste de données de niveau junior. Dans ce cours, vous découvrirez le langage de programmation R. Vous découvrirez comment utiliser RStudio, l'environnement qui vous permet de travailler avec R. Ce cours abordera également les applications logicielles et les outils spécifiques à R, tels que les packs R. Vous découvrirez comment R vous permet de nettoyer, d'organiser, d'analyser, de visualiser et d’élaborer des rapports de données de manière nouvelle et plus efficace.  Des analystes de données actuellement chez Google vous instruiront et vous fourniront des moyens pratiques d’accomplir les tâches courantes des analystes de données, avec les meilleurs outils et ressources.\n\nLes participants qui terminent cette formation certifiante seront préparés à postuler des emplois d’analyste de données de niveau junior. Aucune expérience préalable n’est nécessaire.\n\nD’ici la fin de ce cours, vous :\n - Examinerez les avantages de l'utilisation du langage de programmation R.\n - Découvrirez comment utiliser RStudio afin d’appliquer R à votre analyse. \n - Découvrirez les concepts fondamentaux associés à la programmation dans R. \n - Examinerez le contenu et les composants des packs R, y compris le pack Tidyverse.\n - Comprendrez les trames de données et leur utilisation dans R.\n - Découvrirez les options de génération de visualisations dans R\n - Apprendrez R Markdown pour documenter la programmation R.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/analyse-de-donnees-avec-la-programmation-r",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

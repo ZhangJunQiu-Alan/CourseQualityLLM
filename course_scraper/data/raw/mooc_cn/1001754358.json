@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754358",
+  "platform": "mooc_cn",
+  "title": "自动控制原理",
+  "description": "反馈是生命的核心特征，反馈过程控制着我们如何成长、如何应对压力和挑战，并调节着体温和血压等身体参数。反馈机制在各种层次上起着作用，本课程阐述了物理系统中反馈控制的基本原理和设计方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754358",
+  "instructors": [
+    {
+      "name": "杨敏;杨杨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28688,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

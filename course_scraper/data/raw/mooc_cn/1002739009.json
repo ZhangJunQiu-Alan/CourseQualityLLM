@@ -1,0 +1,31 @@
+{
+  "course_id": "1002739009",
+  "platform": "mooc_cn",
+  "title": "物理化学",
+  "description": "物理化学与胶体化学是介于通用理论课程如高等数学、物理学、无机化学、有机化学等与专业理论课程如化工原理、生物工程、环境工程等之间的基础理论课程，其主要内容包括研究物质变化或迁移的方向和限度的化学热力学、研究化学反应速率和机理的化学动力学、研究物质结构和性能之间关系的结构化学。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002739009",
+  "instructors": [
+    {
+      "name": "张瑾华;丁聪;王嘉讯;黄德康",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14103,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "uqxpJgwkEeyNuxKAzhaylw",
+  "platform": "coursera",
+  "title": "Developing a Google SRE Culture en Français",
+  "slug": "developing-a-google-sre-culture-fr",
+  "description": "Dans bien des services informatiques, il existe des divergences entre les avantages souhaités par les développeurs, à savoir l'agilité, et ceux des opérateurs, qui recherchent la stabilité. L'ingénierie de la fiabilité des sites (SRE) permet à Google d'aligner les mesures incitatives entre le développement et les opérations, et de proposer une assistance à la production critique. Adopter des pratiques techniques et culturelles de l'ingénierie SRE permet d'améliorer la collaboration entre les équipes métiers et informatiques. Ce cours présente les pratiques clés de l'ingénierie SRE façon Google, ainsi que le rôle déterminant que jouent les responsables IT et les chefs d'entreprise dans la réussite de son adoption au sein de leur organisation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 weeks of study, 2-4 hours/week",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/developing-a-google-sre-culture-fr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

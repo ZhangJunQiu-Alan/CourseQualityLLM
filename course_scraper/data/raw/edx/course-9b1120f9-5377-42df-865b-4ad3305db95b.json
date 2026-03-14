@@ -1,0 +1,62 @@
+{
+  "course_id": "course-9b1120f9-5377-42df-865b-4ad3305db95b",
+  "platform": "edx",
+  "title": "Penser critique",
+  "description": "L'accès à une information de qualité est essentiel au fonctionnement de nos sociétés démocratiques. Or, la quantité d'informations et les canaux par lesquels elles nous parviennent deviennent tellement importants qu'il nous est impossible de les contrôler. \n De plus, des opérations de désinformation sont régulièrement organisées, avec la diffusion des fake news au travers des réseaux sociaux. Des théories complotistes prétendent également que tous les médias traditionnels et les dirigeants nous trompent. Dès lors, comment discerner le faux du vrai ? \n L'esprit critique n'est pas inné, mais peut s'apprendre comme on apprend à lire ou à calculer : développer son esprit critique, c'est apprendre à mettre en oeuvre une véritable démarche qui inclut notamment l'évaluation de la fiabilité de l'information et la confrontation d'autres opinions. Cela passe aussi par une prise de conscience des biais cognitifs qui peuvent altérer notre jugement et par une compréhension de la manière dont fonctionne la science et du statut des connaissances scientifiques. \n \n Depuis quand parle-t-on de pensée critique ? \n Quels obstacles devons-nous dépasser pour mettre en oeuvre une démarche critique ? \n Sur quels critères se baser pour évaluer la fiabilité d'une information ? \n Les mots, les images et les sons utilisés influencent-ils notre jugement ? \n Comment interpréter des données, un graphique ? \n Quelles sont les limites de la science ?... \n \n Si vous vous êtes déjà posé l'une de ces questions, alors ce cours en ligne est fait pour vous ! Une équipe de six enseignants et chercheurs enthousiastes issus de diverses disciplines ont réuni un large panel d'experts de domaines très différents pour partager leurs réflexions avec vous. Ils vous proposent différentes grilles de lectures, balises et analyses qui vous permettront de mettre à l'épreuve et de développer votre esprit critique. Vous ferez egalement la connaissance de Vanmulder et Skullenberg, nos deux agents très spéciaux, qui accompagneront avec humour votre parcours critique. \n Enfin, ce cours c'est aussi et surtout ceux qui y prennent part, vous : suivez nos débats et interagissez avec nous en live durant les émissions de radio qui seront diffusées en streaming tout au long des modules.",
+  "learning_goals": [
+    "Influencing Skills",
+    "ESPRIT AutoCAD",
+    "Critical Thinking",
+    "Operations",
+    "Research",
+    "Enthusiasm"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "14 周，每周 4-5 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "anne-bauwens",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "myriam-de-kesel",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jim-plumat",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "olivier-poncelet",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jean-francois-rees",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "olivier-servais",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Université catholique de Louvain"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1143,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

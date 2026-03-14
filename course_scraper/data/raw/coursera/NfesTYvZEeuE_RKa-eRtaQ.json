@@ -1,0 +1,26 @@
+{
+  "course_id": "NfesTYvZEeuE_RKa-eRtaQ",
+  "platform": "coursera",
+  "title": "Crea una aplicación web con Vue.js",
+  "slug": "crea-una-aplicacion-web-con-vue-js",
+  "description": "En este proyecto desarrollaras un aplicativo web usando Vue.js un framework progresivo fácil de integrar a tu proyecto. Crearemos un formulario usando elementos HTML y los vincularemos con el aplicativo en un documento JavaScript para que almacene y renderice los datos diligenciados.\nUsaremos como herramientas el navegador de texto Visual Studio Code y el navegador para visualizar el resultado.\nAprenderás como crear este proyecto desde cero, como construir el documento HTML y como crear el aplicativo vinculando Vue.js desde un CDN (Red de distribución de contenidos).\nEs importante conocer las bases de HTML, CSS y JavaScript sin embargo este proyecto es amigable y explica los conceptos para usar Vue desde cero, así que, aun si no te sientes fuerte en los códigos anteriores no habrá problema aprendiendo esta nueva opción de programación.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 Hora",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/crea-una-aplicacion-web-con-vue-js",
+  "instructors": [
+    {
+      "name": "Kristhian  Alexander Hueso",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

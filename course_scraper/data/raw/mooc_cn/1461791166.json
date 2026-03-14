@@ -1,0 +1,31 @@
+{
+  "course_id": "1461791166",
+  "platform": "mooc_cn",
+  "title": "电力电子技术",
+  "description": "2020年1月，三峡大学电气工程及其自动化专业和自动化专业入选2019年度国家级一流本科专业建设点。2020年11月，作为电气工程及其自动化专业和自动化专业核心课程之一的“电力电子技术”课程获批国家级线上线下混合式一流本科课程。        “电力电子技术”是20世纪60年代诞生和发展的一门崭新技术，它是由电力学、电子学和控制理论三个学科交叉而形成的。电力电子技术的应用范围十分广泛，它不仅用于一般工业，也广泛用于交通运输、电力系统、通信系统、计算机系统、新能源发电等，在照明、空调等家用电器及其他领域中也有着广泛的应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461791166",
+  "instructors": [
+    {
+      "name": "王辉;魏业文;邾玢鑫;佘小莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "三峡大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5734,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

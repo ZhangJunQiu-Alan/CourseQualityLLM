@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755043",
+  "platform": "mooc_cn",
+  "title": "机械制造技术基础",
+  "description": "《机械制造技术基础》是一门专业基础课程，针对中等职业学校毕业生、高职专科毕业生、五年一贯制高职毕业生生源的机械电子工程本科专业开设，对于培养学生工程意识和创新能力起着至关重要的作用。通过本课程的学习，使学生了解测量公差、金属材料性能及机械制造技术的基本理论；理解机械制造基本理论的特点；运用机械制造的基本理论与加工方法对具体案例进行实际操作；理论联系实际，加强学生动手能力与职业素养的培养。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755043",
+  "instructors": [
+    {
+      "name": "谢云舫;张霖霖;李连波;吴修娟;袁渊;韩腾飞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京工业职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10576,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

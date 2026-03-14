@@ -1,0 +1,31 @@
+{
+  "course_id": "1460813162",
+  "platform": "mooc_cn",
+  "title": "优化方法",
+  "description": "《优化方法》是数学类、运筹学、计算机、自动化、管理科学与工程、人工智能等专业的核心专业基础课，衔接高等数学、线性代数、概率论等先修知识，面向工程优化、数据建模、算法设计、决策分析等应用场景，是理论与实践紧密结合的工具型课程。本课程主要介绍最优化的理论和数值方法。理论部分主要为优化问题的最优性理论，算法部分包括阐明构造数值方法的基本思想和收敛性分析。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460813162",
+  "instructors": [
+    {
+      "name": "庞丽萍;郭方芳;张旭",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14177,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

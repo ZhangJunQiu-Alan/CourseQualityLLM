@@ -1,0 +1,43 @@
+{
+  "course_id": "course-f6bc9b9c-e03f-4cde-b09d-bddd82dca299",
+  "platform": "edx",
+  "title": "Computer Graphics",
+  "description": "Today, computer graphics is a central part of our lives, in movies, games, computer-aided design, virtual reality, virtual simulators, visualization and even imaging products and cameras. This course, part of the Virtual Reality (VR) Professional Certificate program, teaches the basics of computer graphics that apply to all of these domains. \n Students will learn to create computer-generated images of 3D scenes, including flybys of objects, make a real-time scene viewer, and create very realistic images with raytracing. We will start with a simple example of viewing a teapot from anywhere in space, understanding the basic mathematics of virtual camera placement. Next, you will learn how to use real-time graphics programming languages like OpenGL and GLSL to create your own scene viewer, enabling you to fly around and manipulate 3D scenes. Finally, we will teach you to create highly realistic images with reflections and shadows using raytracing. \n This course runs for 6 weeks and consists of four segments. Each segment includes an individual programming assignment: \n \n Overview and Basic Math (Homework 0: 10% of grade) \n Transformations (Homework 1: 20% of grade) \n OpenGL and Lighting (Homework 2: 35% of grade) \n Raytracing (Homework 3: 35% of grade) \n \n This term, students who earn a total score of 50% or greater will have passed the course and may obtain a certificate from UC San DiegoX.",
+  "learning_goals": [
+    "3D Computer Graphics",
+    "OpenGL",
+    "Autodesk Maya",
+    "Autodesk 3DS Max (3D Graphics Software)",
+    "Ray Tracing",
+    "DirectX (Software)",
+    "Visual Impairment Education",
+    "OpenGL Shading Language",
+    "Virtual Reality",
+    "C++ (Programming Language)",
+    "Computer-Aided Design",
+    "Development Environment"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 6-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ravi-ramamoorthi",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of California, San Diego"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 549,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

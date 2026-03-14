@@ -1,0 +1,31 @@
+{
+  "course_id": "1463856163",
+  "platform": "mooc_cn",
+  "title": "Modern Control Theory",
+  "description": "Modern control theory plays an important part in engineering related industry, it not only provides criteria and theories to analyze systems, but also it is an effective tool to adjust systems to a desired status. With the development of artificial intelligence, control theory and application encounter into big challenge ever. Control problems in large-scale systems, multi-agent systems or other systems bring us new challenge as well as opportunity.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463856163",
+  "instructors": [
+    {
+      "name": "周颖;蒋国平;丁洁;周映江;王晓玲;吴冬梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1848,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

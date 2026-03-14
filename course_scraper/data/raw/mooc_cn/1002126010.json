@@ -1,0 +1,31 @@
+{
+  "course_id": "1002126010",
+  "platform": "mooc_cn",
+  "title": "旅游学基础",
+  "description": "河南大学《旅游学基础》课程已经建设成为具有代表性和典范性的高等教育旅游管理专业课程。具有如下特色：      1．主讲教师旅游实践和课堂教学工作经验丰富，教师队伍的学历、年龄、职称结构合理。      2．案例分析、多媒体教学、课堂讨论等多重教学形式有机结合。      3．实行以学习能力提升为中心的全程化考核方式。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002126010",
+  "instructors": [
+    {
+      "name": "程遂营;张野;凌文锋;陈楠;余永霞;陈玉英",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25872,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

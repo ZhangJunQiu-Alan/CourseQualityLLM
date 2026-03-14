@@ -1,0 +1,31 @@
+{
+  "course_id": "1003159001",
+  "platform": "mooc_cn",
+  "title": "计算机组成原理",
+  "description": "华中科大“计算机组成原理”是国家精品资源共享课和国家一流线上课程，是计算机专业系统能力培养核心课程，也是实从硬件基础到计算机系统的桥梁课程。本课程采用系统观、构造观和工程观的教学设计，研究冯诺依曼计算机各功能部件的工作原理与设计方法，设计系列组成原理实验，提升智能硬件设计及软/硬协同计算机系统编程能力！提升研究生入学组成原理备考能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003159001",
+  "instructors": [
+    {
+      "name": "秦磊华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 333637,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

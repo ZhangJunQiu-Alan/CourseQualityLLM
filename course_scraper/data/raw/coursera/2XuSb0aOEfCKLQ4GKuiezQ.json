@@ -1,0 +1,26 @@
+{
+  "course_id": "2XuSb0aOEfCKLQ4GKuiezQ",
+  "platform": "coursera",
+  "title": "Core Apple Device Admin: iOS, macOS, & MDM Essentials",
+  "slug": "packt-core-apple-device-admin-ios-macos-mdm-essentials-cfg0f",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you'll gain comprehensive knowledge and hands-on experience in managing Apple devices. Whether you’re an IT professional or an organization looking to streamline device administration, you’ll learn how to configure, secure, and troubleshoot iOS and macOS devices. By exploring both the hardware and software management of iPhones, iPads, and Macs, this course covers everything from system setups to advanced device management techniques. You’ll also dive into Mobile Device Management (MDM) with Apple’s ecosystem, using tools like Apple Configurator and Mosyle MDM to efficiently manage devices in business and educational environments.\n\nThe course begins by laying a solid foundation in iOS and macOS management, covering device activation, privacy, and security. You’ll progress into managing multiple devices using Apple Configurator, with a deep dive into deployment and asset management. As you move forward, you’ll learn advanced macOS client management, explore server features, and gain expertise in tools like Apple Remote Desktop for efficient device control. Additionally, you will understand how to integrate with Apple Business Manager and leverage MDM solutions for seamless device management.\n\nThis course is ideal for IT administrators, network specialists, and those working in tech support roles. If you’re seeking to enhance your skills in managing Apple devices across diverse environments, this course is for you. The content is designed for intermediate learners, so prior experience with Apple devices and basic IT concepts is recommended.\n\nBy the end of the course, you will be able to confidently configure, manage, and secure both iOS and macOS devices using Apple’s management tools, troubleshoot hardware and software issues, deploy devices efficiently in enterprise settings, and leverage MDM systems to streamline operations and ensure security.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-core-apple-device-admin-ios-macos-mdm-essentials-cfg0f",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

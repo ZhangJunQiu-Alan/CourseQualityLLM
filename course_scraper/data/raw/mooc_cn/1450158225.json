@@ -1,0 +1,31 @@
+{
+  "course_id": "1450158225",
+  "platform": "mooc_cn",
+  "title": "网络系统安全",
+  "description": "网络系统安全（曾名：计算机网络安全/网络安全基础）是网络工程和计算机专业的专业基础课，是一门理论与实践相结合的网络安全基础课，是安全学习的入门选择。该课程获得浙江省一流线上课程认定、省级思政示范课程建设立项。课程团队包含高校教师和企业高级工程师。课程内容具体包括：网络安全模型、安全体系结构、加解密算法、报文摘要算法、认证技术、常见网络攻击的识别与防御、以太网接入控制与访问安全、安全协议、防火墙、入侵检测、VPN等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450158225",
+  "instructors": [
+    {
+      "name": "徐嬴颖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "温州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13049,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

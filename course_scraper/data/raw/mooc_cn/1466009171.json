@@ -1,0 +1,31 @@
+{
+  "course_id": "1466009171",
+  "platform": "mooc_cn",
+  "title": "生物化学与分子生物学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466009171",
+  "instructors": [
+    {
+      "name": "裴秀英;李建宁;张茜;罗明秀;杜星;姚青;高玉婧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "宁夏医科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2838,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

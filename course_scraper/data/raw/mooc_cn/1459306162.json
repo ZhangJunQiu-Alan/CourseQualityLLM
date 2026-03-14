@@ -1,0 +1,31 @@
+{
+  "course_id": "1459306162",
+  "platform": "mooc_cn",
+  "title": "大学英语（聋生）（下）",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1459306162",
+  "instructors": [
+    {
+      "name": "任媛媛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京特殊教育师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 649,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "442014",
+  "platform": "mooc_cn",
+  "title": "电子技术基础与技能——数字电路",
+  "description": "当今社会，我们身边的电子产品丰富多彩，超大规模集成电路组成的芯片功能越来越强大，大数据时代的崭新生活，这些都离不开数字电路，你想探索其中的奥秘吗？那么跟我们一起在数字电路的世界里遨游，为将来更广阔的发展插上翅膀吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/442014",
+  "instructors": [
+    {
+      "name": "俞艳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33097,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

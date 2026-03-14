@@ -1,0 +1,31 @@
+{
+  "course_id": "1002578005",
+  "platform": "mooc_cn",
+  "title": "数据结构与算法",
+  "description": "“数据结构与算法”是理论和实际紧密结合的计算机类专业核心骨干课程，广泛用于数据存储和信息处理中。课程将系统介绍软件开发中常用的数据结构、存储结构和操作算法；简要介绍算法设计与分析中的设计策略，包括贪心法、分治法等。通过学习，使你能解决实际复杂工程问题，成为程序分析和设计“达人”。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002578005",
+  "instructors": [
+    {
+      "name": "王曙燕;王燕;曾艳;王春梅;舒新峰;陈燕;王小银;初建玮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 93228,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

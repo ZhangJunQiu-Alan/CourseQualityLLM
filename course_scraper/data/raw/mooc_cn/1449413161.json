@@ -1,0 +1,31 @@
+{
+  "course_id": "1449413161",
+  "platform": "mooc_cn",
+  "title": "动物营养学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449413161",
+  "instructors": [
+    {
+      "name": "赵国琦;胡云;黄倩倩;詹康;林淼;胡平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "扬州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6287,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

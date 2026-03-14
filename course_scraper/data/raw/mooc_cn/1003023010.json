@@ -1,0 +1,31 @@
+{
+  "course_id": "1003023010",
+  "platform": "mooc_cn",
+  "title": "机械制图2",
+  "description": "机械制图研究用正投影法绘制和阅读机械图样及用图解法解决空间几何问题。是产品设计、制造过程中用来表达设计思想、加工质量的主要工具。为机械类、近机类专业本科生的一门必修课，是学习专业相关课程，进行课程设计和毕业设计等的基础，也是成为一名合格工程师必备的基本技能之一。让我们开启机械制图学习之旅，为在工程领域一展雄风打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003023010",
+  "instructors": [
+    {
+      "name": "刘梦瑶;白代萍;王永彪;陶浩;崔弘阳;肖志玲;蒋军杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州轻工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11831,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

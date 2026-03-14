@@ -1,0 +1,31 @@
+{
+  "course_id": "1205792815",
+  "platform": "mooc_cn",
+  "title": "电子线路",
+  "description": "《电子线路》是电子信息类学生的核心专业基础课程。本课程围绕半导体器件（二极管、三极管和场效应管）的特性、模型及应用展开学习，深入探讨基本放大器、负反馈放大器、集成运放应用电路的工作原理和分析设计方法。课程的每一章都配置了习题讲解视频，以提升同学们对理论知识的理解和应用能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205792815",
+  "instructors": [
+    {
+      "name": "吴晓芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "厦门大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16391,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,47 @@
+{
+  "course_id": "course-9efb5a34-0460-4fb3-b08d-9b0f7392765c",
+  "platform": "edx",
+  "title": "Introducción a Linux",
+  "description": "Desarrollar un buen conocimiento práctico de Linux, utilizando tanto la interfaz gráfica como la línea de comandos y conociendo las principales distribuciones de este sistema operativo de software libre.  \n Linux es el sistema operativo del 100% de los superordenadores del mundo, también de la mayoría de los servidores que alimentan Internet y de los que realizan operaciones financieras en todo el mundo, y es también la base de los dos mil millones de dispositivos Android. En resumen, Linux está en todas partes. Se utiliza en muchas arquitecturas diferentes, desde mainframes hasta servidores, desde computadoras de escritorio hasta dispositivos móviles, y en una vertiginosa variedad de hardware. \n Además, en una encuesta, el 80 por ciento de los gerentes de contratación dijeron que darán prioridad a la contratación de perfiles de Linux sobre otras áreas de especialización, y el 47 por ciento dijo que es más probable que contraten a un candidato con certificación de Linux. . \n Este curso explora las diversas herramientas y técnicas comúnmente utilizadas por los administradores de sistemas y usuarios finales para realizar su trabajo diario en un entorno Linux. Está diseñado para usuarios de computadoras experimentados que han tenido una exposición previa limitada o nula a Linux, tanto aquellos que trabajan en un entorno individual como aquellos que trabajan en un entorno empresarial. \n Al finalizar este curso, tendrá un buen conocimiento práctico de Linux, tanto de la interfaz gráfica como de la línea de comandos, lo que le permitirá navegar fácilmente por cualquiera de las principales distribuciones de Linux. Podrás seguir progresando como usuario, administrador de sistemas o desarrollador utilizando el conjunto de habilidades adquiridas. \n Únase a los más de 1.000.000 de estudiantes ya inscritos en este curso y comience su viaje a Linux.",
+  "learning_goals": [
+    "Operations",
+    "Debian Linux",
+    "Command-Line Interface",
+    "Linux",
+    "Linux Distribution",
+    "Supercomputing",
+    "Operating Systems",
+    "Android (Operating System)",
+    "Mainframe Computing",
+    "Graphical User Interface",
+    "Red Hat Enterprise Linux"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "14 周，每周 5-7 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jerry-cooperstein-phd",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jose-simo-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Linux Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1474,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

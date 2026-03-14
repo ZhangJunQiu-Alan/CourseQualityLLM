@@ -1,0 +1,31 @@
+{
+  "course_id": "1206693832",
+  "platform": "mooc_cn",
+  "title": "传热传质学",
+  "description": "课程是在国家级精品课程、国家精品资源共享课的基础上开发的，以理论结合实践为特征，配备丰富的案例(例题、CFD仿真、编程)，详细讲解了传热学的基本概念和分析方法。本课程每章均有测试、作业、讨论，不仅为学生提供了在线学习途径，也为课前预习、课后复习提供新的手段。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206693832",
+  "instructors": [
+    {
+      "name": "冯妍卉;豆瑞锋;侴爱辉;冯黛丽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6268,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752061",
+  "platform": "mooc_cn",
+  "title": "统计模型与统计实验",
+  "description": "统计类专业的一门新型课，也是财经类各专业一门新型公共专业类选修课。它是理论和实践之间的一座桥，基本内容为大数据、统计学和概率统计的应用与补充；目的是培养学生利用统计学、数据科学解决实际问题的能力。课程由统计模型与统计实验组成，前者介绍统计模型、统计建模和建模过程中的一些常用方法及统计建模实例; 后者通过六个实验，让学生去体验、学习、探索统计科学。(包含了部分数据科学模型与实验的内容)",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752061",
+  "instructors": [
+    {
+      "name": "王庚;詹鹏;穆燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35575,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

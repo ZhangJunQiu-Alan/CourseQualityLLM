@@ -1,0 +1,31 @@
+{
+  "course_id": "1463940162",
+  "platform": "mooc_cn",
+  "title": "跨平台移动应用开发——Flutter实践",
+  "description": "Flutter 是由 Google 的工程师团队打造的一款移动 UI 框架，它能够帮助开发者用一套代码创建出拥有美观 UI 界面、高性能、高稳定、高帧率、低延迟的跨平台移动应用App。《跨平台移动应用开发——Flutter实践》课程帮助想入门跨平台开发的学习者既能学到Flutter的开发技术，又能让学习者掌握解决实际问题的能力，提高实际项目开发水平，从而快速成为一名合格的跨平台移动应用开发工程师。课程团队采用“案例诠释理论内涵、项目推动实践创新”的授课理念，选择多个典型项目案例，让学习者边看边学、边学边做，真正实现“教、学、做”的有机融合。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463940162",
+  "instructors": [
+    {
+      "name": "倪红军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京师范大学泰州学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2815,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

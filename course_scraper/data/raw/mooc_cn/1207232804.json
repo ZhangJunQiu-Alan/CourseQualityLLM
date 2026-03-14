@@ -1,0 +1,31 @@
+{
+  "course_id": "1207232804",
+  "platform": "mooc_cn",
+  "title": "固体物理学",
+  "description": "通过本课程的学习， 掌握晶体结构、声子、自由电子和能带理论等基本概念和理论，掌握晶体中电子和晶格的运动规律以及能带的计算方法，应用固体物理的基本理论研究各种固体材料的性质及其应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207232804",
+  "instructors": [
+    {
+      "name": "李丹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25202,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

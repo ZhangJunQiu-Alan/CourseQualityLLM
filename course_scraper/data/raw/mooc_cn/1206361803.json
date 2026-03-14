@@ -1,0 +1,31 @@
+{
+  "course_id": "1206361803",
+  "platform": "mooc_cn",
+  "title": "数据结构",
+  "description": "“数据结构”是计算机科学的关键，对于构建高效的算法起着决定性的作用。作为程序设计的重要理论基础，它不仅是计算机专业的核心课程，而且在计算机相关应用领域中有着广泛的应用。本课程将数据结构的基本概念和常用算法紧密结合，配以完整的C 语言程序详解，并提供了丰富的测验习题和讨论。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206361803",
+  "instructors": [
+    {
+      "name": "骆健;肖甫;王海艳;陈蕾;戴华;朱洁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 71570,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

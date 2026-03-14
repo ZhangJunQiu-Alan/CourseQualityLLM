@@ -1,0 +1,31 @@
+{
+  "course_id": "1206419811",
+  "platform": "mooc_cn",
+  "title": "汉字与中国传统文化",
+  "description": "汉字是一把神奇的钥匙，为我们打开中国传统文化的大门。让我们一起走进汉字，拥抱中国文化的无限魅力！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206419811",
+  "instructors": [
+    {
+      "name": "王宁;卜师霞;董婧宸;凌丽君;孟琢",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 44668,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

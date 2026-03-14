@@ -1,0 +1,31 @@
+{
+  "course_id": "_M5Z5RbsEfCwdwr_1g1Hsw",
+  "platform": "coursera",
+  "title": "Generative AI for Java and Spring Development",
+  "slug": "generative-ai-for-java-and-spring-development",
+  "description": "This hands-on, project-driven course gives you the skills to bring artificial intelligence (AI) to life using Java and the Spring Framework. In just 3 weeks, you’ll learn how to build intelligent apps that create text, images, or recommendations quickly and become the go-to developer employers are looking for.\n \nTo start, you’ll set up your Java development environment and dive into the core principles of AI. You’ll then move straight to building hands-on experience using tools and techniques such as Deeplearning4j and Spring AI in practical projects that employ powerful Java and Spring AI libraries. Plus, you’ll integrate your AI skills with Spring, leveraging its robust architecture to build smart applications. \n\nThis course is ideal for developers with a working knowledge of Java and Spring who want to break into the fast-moving world of AI without switching ecosystems or learning a new language from scratch. \nIf that’s you… enroll today and build the highly sought-after GenAI skills employers are actively seeking in just 3 weeks.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks at 2 to 3 hours a week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/generative-ai-for-java-and-spring-development",
+  "instructors": [
+    {
+      "name": "SkillUp",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Ramanujam Srinivasan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "SkillUp"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

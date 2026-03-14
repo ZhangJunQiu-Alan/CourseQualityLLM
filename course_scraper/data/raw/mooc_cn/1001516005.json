@@ -1,0 +1,31 @@
+{
+  "course_id": "1001516005",
+  "platform": "mooc_cn",
+  "title": "材料力学",
+  "description": "你知道吗？就在我们身边，隐藏着一个奇妙的无所不在的力的世界。物体通过极其微小的变形进行力的传递，从而产生相互作用。本课程将通过深入浅出的例子、精妙的数学推导揭示物体在受力时所发生变形的基本组成、变形量及相应内力强度的计算、以及如何破坏的秘密。学习后你对力与变形的认识将突飞猛进。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001516005",
+  "instructors": [
+    {
+      "name": "甄玉宝",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 104469,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

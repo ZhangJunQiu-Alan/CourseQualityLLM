@@ -1,0 +1,31 @@
+{
+  "course_id": "1464007162",
+  "platform": "mooc_cn",
+  "title": "桥梁工程",
+  "description": "《桥梁工程》MOOC课程，是一门由桥梁工程基础知识、设计理论与方法、施工技术、养护管理相结合的专业课程。课程的授课对象是大专院校学生，同时也可以为工程建设领域的技术人员岗位学习服务。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464007162",
+  "instructors": [
+    {
+      "name": "汪晓倩",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "金陵科技学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1342,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

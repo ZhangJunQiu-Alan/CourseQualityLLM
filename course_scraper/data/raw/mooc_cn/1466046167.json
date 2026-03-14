@@ -1,0 +1,31 @@
+{
+  "course_id": "1466046167",
+  "platform": "mooc_cn",
+  "title": "麻醉药理学",
+  "description": "麻醉药理学是研究麻醉常用药物与机体相互作用规律及其机制的科学，授课内容侧重于麻醉相关药物，学习中的重点、难点问题通过师生问答讨论，节约查找资料的时间。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466046167",
+  "instructors": [
+    {
+      "name": "许勇;杨茗;王超云;杨美子;孙雪华;闫海静;栾海云;亢泽春;谢鑫;张全意;李庆忠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "滨州医学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3088,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

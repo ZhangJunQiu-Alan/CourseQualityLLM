@@ -1,0 +1,31 @@
+{
+  "course_id": "1449338161",
+  "platform": "mooc_cn",
+  "title": "中药鉴定学",
+  "description": "中药鉴定学是鉴定和研究中药品种和质量，制定中药标准，寻找和扩大新资源的应用学科。它在继承中医药学遗产和传统鉴别经验的基础上，运用现代自然科学的理论知识和技术方法，研究和探讨中药的来源、性状、显微特征、理化鉴别、质量标准及寻找新药等的理论和实践问题，为从事中药的真伪鉴别、品种整理、质量评价和开发应用打下基础，以保障临床用药的安全有效、质量可控。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449338161",
+  "instructors": [
+    {
+      "name": "桑梦如;濮春娟;刘政;刘圣金;吴啟南;杨帆;瞿城;刘潺潺;周婧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21229,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

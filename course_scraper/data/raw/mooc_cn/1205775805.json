@@ -1,0 +1,31 @@
+{
+  "course_id": "1205775805",
+  "platform": "mooc_cn",
+  "title": "课程与教学论",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205775805",
+  "instructors": [
+    {
+      "name": "刘鹂;陈晓端;尚晓青;任凯;张俊列",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "陕西师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 59794,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

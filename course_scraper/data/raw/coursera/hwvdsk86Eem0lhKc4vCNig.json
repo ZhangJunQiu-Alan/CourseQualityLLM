@@ -1,0 +1,26 @@
+{
+  "course_id": "hwvdsk86Eem0lhKc4vCNig",
+  "platform": "coursera",
+  "title": "Social Network Analysis",
+  "slug": "social-network-analysis",
+  "description": "This course is designed to quite literally ‘make a science’ out of something at the heart of society: social networks. Humans are natural network scientists, as we compute new network configurations all the time, almost unaware, when thinking about friends and family (which are particular forms of social networks), about colleagues and organizational relations (other, overlapping network structures), and about how to navigate delicate or opportunistic network configurations to save guard or advance in our social standing (with society being one big social network itself). While such network structures always existed, computational social science has helped to reveal and to study them more systematically. In the first part of the course we focus on network structure. This looks as static snapshots of networks, which can be intricate and reveal important aspects of social systems. In our hands-on lab, you will also visualize and analyze a network with a software yourself, which will help to appreciate the complexity social networks can take on. During the second part of the course, we will look at how networks evolve in time. We ask how we can predict what kind of network will form and if and how we could influence network dynamics.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "5 weeks of study, 2-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/social-network-analysis",
+  "instructors": [
+    {
+      "name": "Martin Hilbert",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of California, Davis"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

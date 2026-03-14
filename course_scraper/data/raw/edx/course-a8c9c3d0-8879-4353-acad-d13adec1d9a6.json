@@ -1,0 +1,43 @@
+{
+  "course_id": "course-a8c9c3d0-8879-4353-acad-d13adec1d9a6",
+  "platform": "edx",
+  "title": "Full Stack Application Development Project",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n In this project you will apply your knowledge of front end and back end development to build and deploy a full stack real-world web application on the cloud. \n Your project will showcase your understanding of the user experience and user interface design process, and your skills and technologies with Django, Python, Node.JS and Containers. \n After completing this project, you will have gained hands-on practical experience with a real-world project and be able to demonstrate your proficiency of front end and back end skills to potential employers.",
+  "learning_goals": [
+    "Front End (Software Engineering)",
+    "Python (Programming Language)",
+    "Node.js",
+    "Full Stack Development",
+    "Application Development",
+    "Django (Web Framework)",
+    "User Interface Design"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "2 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "upkar-lidder",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "yan-luo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 663,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

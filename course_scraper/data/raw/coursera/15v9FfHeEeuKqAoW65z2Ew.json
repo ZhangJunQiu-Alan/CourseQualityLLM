@@ -1,0 +1,26 @@
+{
+  "course_id": "15v9FfHeEeuKqAoW65z2Ew",
+  "platform": "coursera",
+  "title": "AWS Multi-Tier VPC Architecture",
+  "slug": "aws-multi-tier-vpc-architecture",
+  "description": "By the end of this Project, you will be able to understand how to create a Custom VPC and configure it based on your business needs and the detailed theory behind each tasks you are going to do inside this Project.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-multi-tier-vpc-architecture",
+  "instructors": [
+    {
+      "name": "Ann Kovattil",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

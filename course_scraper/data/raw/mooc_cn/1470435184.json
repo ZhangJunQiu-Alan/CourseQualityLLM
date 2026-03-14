@@ -1,0 +1,31 @@
+{
+  "course_id": "1470435184",
+  "platform": "mooc_cn",
+  "title": "算法设计与分析",
+  "description": "本课程是一门面向计算机科学与技术、软件工程、网络空间安全等相关学科专业的核心课程,主要讲述利用计算机求解具体问题的方法思想和设计策略。课程内容在介绍算法概念和复杂度分析方法的基础上，重点阐述十类问题求解的算法设计策略，包括蛮力法、减治法、分治法、变治法、时空权衡、动态规划、贪婪法、迭代改进、回溯法和分治限界法等。通过具体实例分析帮助学习者建立对每类算法策略应用场景和设计要点的具体认知，进而培养问题分析和求解的计算思维能力，为学习者针对实际问题进行算法设计和算法效率分析提供重要支撑。课程基于Educoder（网址https://www.educoder.net/paths/axjb8y5u）平台按知识单元建设了配套的实训项目，共30余个关卡，按照区分难易程度进行设计，配合学习者在学习知识点视频的同时，进行进阶式的实践能力锻炼。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470435184",
+  "instructors": [
+    {
+      "name": "杨国正;卢灿举;吴一尘;潘祖烈",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3051,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

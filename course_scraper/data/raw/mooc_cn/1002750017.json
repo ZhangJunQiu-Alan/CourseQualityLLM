@@ -1,0 +1,31 @@
+{
+  "course_id": "1002750017",
+  "platform": "mooc_cn",
+  "title": "工程流体力学",
+  "description": "工程流体力学课程是能源动力、化工、机械、海洋技术等专业不可缺少的专业基础课。该课程既涵盖流体力学的基本概念、原理等理论知识，又与大量工程实际问题密切联系，内容涉及流体静力学、流体动力学及气体动力学等方面，是衔接流体力学基础理论与工程应用的重要纽带。本课程为国家级线上一流课程、辽宁省线上一流课程、大连理工大学线上金课，与课程配套的教学资源获辽宁省教学成果奖特等奖、大连理工大学教学成果一等奖、校优秀多媒体课件一等奖等。本课程面向高校学生和社会学习者开放，可作为高等院校相关专业的专业基础课，适合48-56学时本科教学使用，同时可为相关领域的社会从业人员提供学习指导。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002750017",
+  "instructors": [
+    {
+      "name": "刘宏升;张博;贾明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48338,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

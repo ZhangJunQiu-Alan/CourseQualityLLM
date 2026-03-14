@@ -1,0 +1,31 @@
+{
+  "course_id": "1002256021",
+  "platform": "mooc_cn",
+  "title": "工程图学（一）",
+  "description": "大国工匠需要工程师，工程师必须掌握工程图样的理论知识和设计实践！工程图学是理工科学生传统的学科基础课。掌握机械制图国家标准、用二维投影投影理论表达立体结构形状及尺寸为本课程的主要任务。其中立体的二维模型（2D）与三维模型（3D)之间思维能力的转换具有挑战性，但这是成为工程师必备的能力。同学们，让我们一起迎接这个挑战吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002256021",
+  "instructors": [
+    {
+      "name": "谷艳华;闫冠;张云辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "吉林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 40737,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

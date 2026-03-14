@@ -1,0 +1,31 @@
+{
+  "course_id": "wfaMgVjEEfCekhJDthqyWw",
+  "platform": "coursera",
+  "title": "Introduction to DeepSeek",
+  "slug": "introduction-to-deepseek",
+  "description": "Did you know that a single AI model release wiped out over $1 trillion in global market value in just one day? As per Reuters, the launch of DeepSeek's R1 model in January 2025 triggered the largest tech selloff in history, with Nvidia alone losing $600 billion. This Chinese startup achieved something that shocked Silicon Valley: they built an AI model rivaling OpenAI's best at a small fraction of the cost and in a fraction of the time. \n\nWelcome to the world of DeepSeek, where open-source innovation meets high performance. This beginner-friendly course will take you from a curious observer to a confident user. We’ll walk through the basics, explain how the Mixture-of-Experts architecture works, and show you how to use DeepSeek tools in your projects. \n\nYou'll discover exactly how DeepSeek's reasoning models outperform industry-leading AI systems on mathematical tasks while costing 95% less to run. We'll walk you through three different ways to access these models: the free web interface, API integration, and running them locally on your hardware. \n\nThis course is designed for a diverse group of learners, including developers and AI enthusiasts who are curious about open-source alternatives to proprietary models. It’s equally valuable for data scientists exploring cost-effective reasoning models for R&D, as well as business professionals seeking to leverage AI for automation and content generation. Students and researchers with a passion for cutting-edge AI architectures will also benefit from the hands-on insights provided throughout the course.\n\nWhile this course is beginner-friendly, a basic understanding of artificial intelligence and machine learning concepts will help learners grasp core ideas more quickly. Familiarity with APIs and web-based tools is recommended, as the course covers accessing DeepSeek models through different interfaces. Some exposure to command-line tools is helpful—especially for those opting for local deployment—but is not strictly required.\n\nBy the end of this course, learners will be able to critically analyze the architecture and capabilities of DeepSeek models like V3 and R1 and how they stack up against proprietary offerings. They’ll gain the skills to implement DeepSeek in practical scenarios using web tools, APIs, and local environments. Learners will also explore real-world use cases—from content generation to automation—and apply strategies for cost-effective integration while accounting for limitations and best practices in deployment.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 Hours and 20 Minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-deepseek",
+  "instructors": [
+    {
+      "name": "Brian Newman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

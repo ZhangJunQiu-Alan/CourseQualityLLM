@@ -1,0 +1,31 @@
+{
+  "course_id": "1206808805",
+  "platform": "mooc_cn",
+  "title": "高职高等数学",
+  "description": "《高职高等数学》主要介绍一元函数微积分及其应用。本课程以技能型人才素质教育为本，注重基本概念、基本理论、基本运算的教学，融入数学技术和数学文化，开发学生思维能力和创新能力，为学生专业技能学习和未来持续发展打牢基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206808805",
+  "instructors": [
+    {
+      "name": "钱冰冰;蒋沈庆;王鲁欣;陈建兰;何文阁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏航运职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 38037,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

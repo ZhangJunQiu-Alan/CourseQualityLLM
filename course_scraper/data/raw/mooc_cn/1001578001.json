@@ -1,0 +1,31 @@
+{
+  "course_id": "1001578001",
+  "platform": "mooc_cn",
+  "title": "数据库系统（下）：管理与技术",
+  "description": "《数据库系统》不仅是计算机、软件工程等专业的核心课程，而且也是非计算机专业学生必修的信息技术课程。当前互联网+与大数据，一切都建立在数据库之上，以数据说话，首先需要聚集数据、需要分析和管理数据。数据库技术已成为各种计算系统的核心技术，数据库相关知识也已成为每个人必须掌握的知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001578001",
+  "instructors": [
+    {
+      "name": "张丽杰;史建焘;战德臣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 98186,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

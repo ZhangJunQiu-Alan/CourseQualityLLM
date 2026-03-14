@@ -1,0 +1,31 @@
+{
+  "course_id": "1206298828",
+  "platform": "mooc_cn",
+  "title": "从零起步学二胡",
+  "description": "从零起步学二胡是针对零基础的二胡学习者开设的二胡入门课程。通过简单有趣的方式让学生快速掌握二胡演奏的基本方法，并且启发学生对音乐的感知和理解力。这门课程是对二胡演奏的系统讲授，同时也是爱乐者快速了解二胡的通道。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206298828",
+  "instructors": [
+    {
+      "name": "张国亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川音乐学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16345,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

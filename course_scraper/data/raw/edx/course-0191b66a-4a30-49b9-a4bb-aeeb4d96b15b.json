@@ -1,0 +1,37 @@
+{
+  "course_id": "course-0191b66a-4a30-49b9-a4bb-aeeb4d96b15b",
+  "platform": "edx",
+  "title": "Data Analysis for the Behavioral Sciences",
+  "description": "Can you think of an area of your life that is influenced by statistics? Many times when we think about statistics in our daily lives, we think about numerical expressions of statistics, such as the number of daily COVID cases in our county, the percentage of students admitted each year to our university, or the number of people that voted in the last election. From each of these examples, we could go on to make inferences or look to answer questions based on this data, such as whether to open restaurants, how many new students are psychology majors, or if a specific issue drove voters to the polls in a specific state. \n This course will begin by introducing the basic concepts of how to describe and visualize data, the fundamentals of using statistics to make inferences, and the logic of null hypothesis testing. Various types of hypothesis tests will be introduced, along with criteria for selecting which is appropriate for different study conditions. As an extension of null hypothesis significance tests, you will learn about how to interpret effect sizes and confidence intervals, along with statistical power, before being introduced to alternatives to null hypothesis significance testing. All this is fleshed out in Data Analysis for the Behavioral Sciences.",
+  "learning_goals": [
+    "Psychology",
+    "Behavioral Science",
+    "Data Analysis",
+    "Statistical Hypothesis Testing",
+    "Statistics",
+    "Confidence Intervals"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 2-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mike-stadler",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "American Psychological Association"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 312,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

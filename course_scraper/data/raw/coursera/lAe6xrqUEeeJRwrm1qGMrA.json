@@ -1,0 +1,26 @@
+{
+  "course_id": "lAe6xrqUEeeJRwrm1qGMrA",
+  "platform": "coursera",
+  "title": "Getting Started with Google Kubernetes Engine",
+  "slug": "google-kubernetes-engine",
+  "description": "Welcome to the Getting Started with Google Kubernetes Engine course. If you're interested in Kubernetes, a software layer that sits between your applications and your hardware infrastructure, then you’re in the right place! Google Kubernetes Engine brings you Kubernetes as a managed service on Google Cloud. \n\nThe goal of this course is to introduce the basics of Google Kubernetes Engine, or GKE, as it’s commonly referred to, and how to get applications containerized and running in Google Cloud. The course starts with a basic introduction to Google Cloud, and is then followed by an overview of containers and Kubernetes, Kubernetes architecture, and Kubernetes operations.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 week of study, 5-7 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/google-kubernetes-engine",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

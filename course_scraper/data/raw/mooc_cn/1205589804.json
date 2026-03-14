@@ -1,0 +1,31 @@
+{
+  "course_id": "1205589804",
+  "platform": "mooc_cn",
+  "title": "农业气象学",
+  "description": "国家级一流本科课程、江苏省在线开放课程、南京信息工程大学核心课程，研究智慧农业生产与气象条件之间相互关系和规律的大气科学重要分支。课程重点介绍光照、温度、水分、二氧化碳等气象要素对作物生长发育、产量品质的影响规律及调控技术，及农业气象防灾减灾、农业应对气候变化、农业气候资源高效利用等方面的基本原理、应用和服务保障前沿。该课程负责人为南京信息工程大学景元书教授。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205589804",
+  "instructors": [
+    {
+      "name": "景元书;刘春伟;胡继超;江晓东;张雪松",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9660,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "47019",
+  "platform": "mooc_cn",
+  "title": "药用植物学",
+  "description": "从神奇的药用植物中提取的青蒿素及其衍生物，挽救了数百万人的生命。 人类的健康长寿、美容养颜已经离不开一株株植物、一颗颗小草，从《神农本草经》到《本草纲目》，从岐黄之术到民族医药，药用植物承载着数千年的无穷智慧，已深深植根于中华民族传统医药文化之中。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/47019",
+  "instructors": [
+    {
+      "name": "李涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 149681,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "212002",
+  "platform": "mooc_cn",
+  "title": "有机化学（下）",
+  "description": "教师团队精选教学内容，构建课程模块，利用现代教育技术，实施研究型教学和开放自主训练模式教学；通过深入浅出的讲解，将带你在有机化学的丛林中漫游，感受有机化学的魅力，共同揭开有机化学的奇妙面纱。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/212002",
+  "instructors": [
+    {
+      "name": "姜文凤;于丽梅;殷伦祥;Di Liu;高占先",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 76148,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

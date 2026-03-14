@@ -1,0 +1,31 @@
+{
+  "course_id": "1003512002",
+  "platform": "mooc_cn",
+  "title": "电磁学",
+  "description": "电磁学是普通物理系列中最重要的基础课之一，是经典物理的重要组成部分，也是近代物理和许多技术学科不可缺少的基础。本课程要求与北京大学普物平台课程04系列电磁学课程相对应，主要授课对象为对物理基础要求较强的工学、信科、化学等非物理类专业学生，也适合于应用物理专业学生选修。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003512002",
+  "instructors": [
+    {
+      "name": "穆良柱;王稼军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 50723,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

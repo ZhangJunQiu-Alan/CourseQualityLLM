@@ -1,0 +1,26 @@
+{
+  "course_id": "rnpNm2epEfCShQr_34u9zw",
+  "platform": "coursera",
+  "title": "PySpark: Apply & Analyze Advanced Data Processing",
+  "slug": "pyspark-apply-analyze-advanced-data-processing",
+  "description": "This course equips learners with the skills to apply and analyze advanced data processing techniques using PySpark, the Python API for Apache Spark. Designed for data professionals with foundational Python and PySpark knowledge, the course explores real-world use cases including customer segmentation, text mining, and stochastic modeling.\n\nLearners will begin by applying RFM (Recency, Frequency, Monetary) analysis and K-Means clustering to segment customers based on behavioral patterns. The course then advances to extracting textual data from images and PDFs using Optical Character Recognition (OCR) and PySpark’s DataFrame operations. Finally, learners will construct and interpret Monte Carlo simulations to model probability and uncertainty in data-driven scenarios.\n\nThroughout the course, students will engage in hands-on exercises, real-time demonstrations, and practical quizzes that reinforce both conceptual understanding and technical proficiency. By the end of this course, learners will be able to develop scalable, efficient data workflows using PySpark for business intelligence, analytics, and simulation modeling.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pyspark-apply-analyze-advanced-data-processing",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

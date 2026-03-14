@@ -1,0 +1,45 @@
+{
+  "course_id": "course-f33be2a5-322f-4b9c-9ac5-a89b43080427",
+  "platform": "edx",
+  "title": "Data Engineering Basics for Everyone",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n Welcome to Data Engineering Basics. This course is designed to familiarize you with data engineering concepts, ecosystem, lifecycle, processes, and tools. \n The Data Engineering Ecosystem includes several different components. It includes data, data repositories, data integration platforms, data pipelines, different types of languages, and BI and Reporting tools. Data pipelines gather raw data from disparate data sources. Data repositories, such as relational and non-relational databases, data warehouses, data marts, data lakes, and big data stores, store and process this data. Data Integration Platforms combine data into a unified view for secure and easy access by data consumers. Data consumers use BI, reporting, and analytical tools on data so they can glean insights for better decision-making. You will learn about each of these components in this course. \n A typical Data Engineering lifecycle includes architecting data platforms and designing data stores. It also includes the process of gathering, importing, wrangling, cleaning, querying, and analyzing data. Systems and workflows need to be monitored and finetuned for performance at optimal levels. In this course, you will learn about the architecture of data platforms and things you need to consider in order to design and select the right data store for your needs. You will also learn about the processes and tools a data engineer employs in order to gather, import, wrangle, clean, query, and analyze data. \n Through a series of hands-on labs, you will be guided to provision a data store on IBM cloud, prepare and load data into the data store, and perform some basic operations on data. \n Data Engineering is recognized as one of the fastest-growing fields today. The career opportunities available, and the different paths you can take to become a data engineer, are discussed in the course. Seasoned data professionals advice you on the practical and day-to-day aspects of being a data engineer and the skills and qualities employers look for in a data engineer.",
+  "learning_goals": [
+    "Relational Databases",
+    "Data Analysis",
+    "Operations",
+    "Data Integration",
+    "Data Lakes",
+    "Big Data",
+    "Decision Making",
+    "Data Store",
+    "Data Warehousing",
+    "Workflow Management",
+    "IBM Cloud Computing",
+    "Business Intelligence",
+    "Reporting Tools",
+    "Data Engineering"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 9-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1462,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

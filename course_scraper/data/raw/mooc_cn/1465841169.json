@@ -1,0 +1,31 @@
+{
+  "course_id": "1465841169",
+  "platform": "mooc_cn",
+  "title": "大学物理（农科类）",
+  "description": "物理学是整个自然科学的基础，是人类认识自然、改造自然和推动社会进步的动力和源泉。《大学物理》课程，用生动的语言、有趣的实验、交互的方式及数字化技术，为学习物理、探索科学提供优质的学习平台。来吧，让我们一起感受物理世界的无穷魅力！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465841169",
+  "instructors": [
+    {
+      "name": "张梦娇;王静;王亚玲;祁诗阳;刘小标;张彦斌;贾芳;李聪;李辉;李文强;郑丹;朱迎正;王飞宇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16269,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

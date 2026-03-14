@@ -1,0 +1,26 @@
+{
+  "course_id": "lA0sAxESEfC_-w572D3gsw",
+  "platform": "coursera",
+  "title": "Web Security, Social Engineering & External Attacks",
+  "slug": "packt-web-security-social-engineering-external-attacks-5eje3",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course offers an in-depth exploration of web security, social engineering, and external attacks. Through a combination of theoretical knowledge and hands-on practice, learners will gain the skills necessary to secure web applications, conduct ethical hacking, and understand the techniques used by attackers to exploit system vulnerabilities. By mastering tools like msfvenom, Beef, and social engineering tactics, students will develop expertise in identifying and defending against common security threats.\nThe course begins with an overview of user-targeted attacks, covering techniques like creating backdoors, capturing screenshots, and using tools such as msfvenom for payload generation. You’ll learn how to stealthily execute attacks, ensuring you can bypass antivirus software and gain unauthorized access to systems. Following this, social engineering tactics, including phishing, malware, and Trojan use, are explored to help you understand the psychological manipulation behind successful cyberattacks. Real-world scenarios show how attackers can exploit human behavior to gain access to sensitive information.\nThe course then shifts focus to external network attacks, teaching students how to execute attacks over the internet using tunneling services, msfvenom payloads, and external backdoors. With a focus on web-based exploits, learners will also be introduced to the powerful Beef framework for orchestrating attacks through fake websites. Understanding how to defend against these threats is key, and the course provides essential best practices for protecting against social engineering, XSS attacks, and vulnerabilities like file uploads and code execution.\nThis course is designed for beginners to intermediate-level cybersecurity enthusiasts, penetration testers, and IT professionals seeking to expand their knowledge of web security. There are no strict prerequisites, but familiarity with basic networking and security concepts will be beneficial. The course includes a mix of theory and practical exercises to give you the real-world skills you need.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-web-security-social-engineering-external-attacks-5eje3",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

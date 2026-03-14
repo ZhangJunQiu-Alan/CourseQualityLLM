@@ -1,0 +1,26 @@
+{
+  "course_id": "rO7rRJdAEeir-RIKs5gHUA",
+  "platform": "coursera",
+  "title": "Automated Reasoning: Symbolic Model Checking",
+  "slug": "automated-reasoning-symbolic-model-checking",
+  "description": "The Automated Reasoning: Symbolic Model Checking course presents how the properties of acting systems and programs can be verified automatically. The basic notion is a transition system: any system that can be described by states and steps. We present how in CTL (computation tree logic) properties like reach-ability can be described.\n\nTypically, a state space may be very large. One way to deal with this is symbolic model checking: a way in which sets of states are represented symbolically. A fruitful way to do so is by representing sets of states by BDDs (binary decision diagrams).\nDefinitions and basic properties of BDDs are presented in this course, and the algorithms to compute them, as needed for doing CTL model checking.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/automated-reasoning-symbolic-model-checking",
+  "instructors": [
+    {
+      "name": "Hans Zantema",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "28DIGITAL"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

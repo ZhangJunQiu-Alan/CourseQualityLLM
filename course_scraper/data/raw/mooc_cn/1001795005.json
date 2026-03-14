@@ -1,0 +1,31 @@
+{
+  "course_id": "1001795005",
+  "platform": "mooc_cn",
+  "title": "食品工艺学",
+  "description": "河南科技大学《食品工艺学》课程，1984年开始开设，先后被评为校级、省级精品课程、省级思政样板课程、省级混合式一流课程、国家级线上一流课程。将现场教学、网络教学等多种教学方法融合在一起形成多元化立体教学模式，采用现代化教学手段提高教学质量和效率，课程得到教育部食品科学与工程类专业教学指导委员会委员曾明湧教授、李斌教授、陈复生教授的高度评价。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001795005",
+  "instructors": [
+    {
+      "name": "刘丽莉;朱文学",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20618,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

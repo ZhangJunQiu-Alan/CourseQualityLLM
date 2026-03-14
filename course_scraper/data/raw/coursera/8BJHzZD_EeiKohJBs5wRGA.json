@@ -1,0 +1,41 @@
+{
+  "course_id": "8BJHzZD_EeiKohJBs5wRGA",
+  "platform": "coursera",
+  "title": "Introduction to Machine Learning",
+  "slug": "machine-learning-duke",
+  "description": "This course provides a foundational understanding of machine learning models (logistic regression, multilayer perceptrons, convolutional neural networks, natural language processing, etc.) and demonstrates how they can solve complex problems in various industries, from medical diagnostics to image recognition to text prediction. Through hands-on practice exercises, you'll implement these data science models on datasets, gaining proficiency in machine learning algorithms with PyTorch, used by leading tech companies like Google and NVIDIA.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 2-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/machine-learning-duke",
+  "instructors": [
+    {
+      "name": "Lawrence Carin ",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "David Carlson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Timothy Dunn",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Kevin Liang",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Duke University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

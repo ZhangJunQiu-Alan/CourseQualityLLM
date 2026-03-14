@@ -1,0 +1,31 @@
+{
+  "course_id": "1001616001",
+  "platform": "mooc_cn",
+  "title": "微积分CAP",
+  "description": "你想在上大学之前提前学习大学的课程吗？你想上大学之后更加轻松吗？现在这一切 即将成为现实。选修这门课程，考入哈尔滨工业大学后参加入学先修考试，通过即可节省下学期大量时间，来吧！证明你是数学学霸的机会到了！！！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001616001",
+  "instructors": [
+    {
+      "name": "尹逊波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 74697,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

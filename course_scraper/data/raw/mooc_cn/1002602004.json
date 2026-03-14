@@ -1,0 +1,31 @@
+{
+  "course_id": "1002602004",
+  "platform": "mooc_cn",
+  "title": "森林培育学",
+  "description": "森林是人类文明的摇篮。欢迎进入森林培育学课堂一起营造绿色的世界，《森林培育学》课程会将我们带入美丽的森林，去了解从一粒种子变成森林的过程，揭开森林形成的奥秘，为我们的生活创造更多更美好的绿色资源。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002602004",
+  "instructors": [
+    {
+      "name": "王乃江",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5547,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

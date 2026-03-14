@@ -1,0 +1,31 @@
+{
+  "course_id": "1206703821",
+  "platform": "mooc_cn",
+  "title": "人工智能之模式识别",
+  "description": "人工智能是当今的研究和产业应用热点，而模式识别技术是其中的一个重要分支，赋予人工智能系统感知和识别的能力。课程教学团队来自北京理工大学模式识别与智能系统研究所，具有丰富的教学、科研及工程经验，并创新性地将研究性教学模式引入在线课程，将帮助您在学习算法基础的同时获得实践应用的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206703821",
+  "instructors": [
+    {
+      "name": "冯肖雪;高琪;李位星",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26924,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207002811",
+  "platform": "mooc_cn",
+  "title": "C程序设计（上）",
+  "description": "本课程是程序设计的基础课程，可以作为第一门程序设计语言学习，没有基础也没关系，只要跟随课程讲解的内容，勤于练习，就能掌握程序设计的基本方法，具备使用C语言编写、调试程序的能力。本课程对应的教材是清华大学出版社出版谭浩强教授编写的《C程序设计（第五版）》。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207002811",
+  "instructors": [
+    {
+      "name": "金莹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41943,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "BKdtc6VCEe6ttwpNuoeiqQ",
+  "platform": "coursera",
+  "title": "CPS Design for Mechatronics, Healthcare, EV & Robotics",
+  "slug": "cps-design-for-mechatronics-healthcare-ev--robotics",
+  "description": "This course covers diverse aspects of mechatronics, electric vehicles (EVs), medical devices, and Cyber-Physical Systems (CPS). The Automotive Mechatronics module provides participants with a deep understanding of essential components, emphasizing the analysis of Electronic Control Units (ECUs) and the application of various sensor types and Advanced Driver Assistance Systems in critical automotive functions. The course culminates in the practical implementation of CAN interface integration with the STM32F407 microcontroller in automotive electronics. It delves into the workings and applications of digital stethoscopes, advanced thermometers, ultrasound machines, and more. Participants gain hands-on experience in setting up a remote health monitoring system using Arduino Nano, showcasing real-world applications of embedded systems in healthcare. Furthermore, it focuses on the on-board electrical system, 48 V system understanding, DC-DC converters, and the traction motors, on-board chargers, and various motor configurations in electric vehicles. Participants will gain concepts for the design and development of a 5 Degree Freedom Robotic ARM for industrial automation. It covers pneumatic and hydraulic systems, solenoid control valve components, Denavit–Hartenberg Parameters, and provides hands-on experience in assembling and testing a 5DOF robotic arm using Arduino Nano.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cps-design-for-mechatronics-healthcare-ev--robotics",
+  "instructors": [
+    {
+      "name": "Subject Matter Expert",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "L&T EduTech"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

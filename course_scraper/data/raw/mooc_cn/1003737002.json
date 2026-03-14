@@ -1,0 +1,31 @@
+{
+  "course_id": "1003737002",
+  "platform": "mooc_cn",
+  "title": "成本会计学",
+  "description": "《成本会计学》网络课程是在长期建设基础上，组织全国5所大学7位长期从事《成本会计学》一线教学的老师精心完成的。在课程内容上以最新《企业产品成本核算制度》为指导，以工业制造业为核心，系统介绍了费用与成本的基本概念、各项费用要素归集与分配的基本方法、企业成本核算的基本方法与辅助方法，全面介绍农业、批发零售业、建筑业、交通运输业，以及软件及信息技术服务业、文化产业成本核算的内容与方法，成本报表的编制与分析方法，以及成本会计的前沿内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003737002",
+  "instructors": [
+    {
+      "name": "孟全省;徐文娟;耿黎;张雯佳;林艳;乔娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 54140,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

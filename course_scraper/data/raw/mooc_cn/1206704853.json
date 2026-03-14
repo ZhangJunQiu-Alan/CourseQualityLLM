@@ -1,0 +1,31 @@
+{
+  "course_id": "1206704853",
+  "platform": "mooc_cn",
+  "title": "综合布线技术",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206704853",
+  "instructors": [
+    {
+      "name": "董进;纪乐平;赵陇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏电子信息职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12510,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

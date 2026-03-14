@@ -1,0 +1,26 @@
+{
+  "course_id": "rpFSNMjlEe-F1w4Ln2ce3Q",
+  "platform": "coursera",
+  "title": "Networking in Google Cloud: Hybrid and Multicloud - Português Brasileiro",
+  "slug": "networking-in-google-cloud-hybrid-and-multicloud-ptbr",
+  "description": "「Networking in Google Cloud 日本語版」シリーズの 6 番目のコース「Hybrid and Multicloud」へようこそ。最初のモジュールでは、Google Cloud のさまざまな接続オプションを説明します。Cloud Interconnect について掘り下げ、その種類とそれぞれの機能を確認します。2 番目のモジュールでは Cloud VPN の実装、高可用性 VPN トポロジ、Network Connectivity Center（NCC）による管理の効率化について説明します。このコースを修了すると、オンプレミス ネットワークや他のクラウド ネットワークを Google Cloud に拡張するためのさまざまな接続オプションについて説明できるようになります。また、Google Cloud の各種のハイブリッドおよびマルチクラウド接続サービスが特定のユースケースに適しているかどうかを検討する方法についても理解できます。さっそく始めましょう。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "pt-BR",
+  "url": "https://www.coursera.org/learn/networking-in-google-cloud-hybrid-and-multicloud-ptbr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

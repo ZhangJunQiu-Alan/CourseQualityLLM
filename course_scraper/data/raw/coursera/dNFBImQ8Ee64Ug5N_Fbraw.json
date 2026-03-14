@@ -1,0 +1,26 @@
+{
+  "course_id": "dNFBImQ8Ee64Ug5N_Fbraw",
+  "platform": "coursera",
+  "title": "Pipe Material Specification ",
+  "slug": "pipe-material-specification",
+  "description": "This particular course entitled “Pipe Material Specification” under the specialization entitled “Design of Industrial Piping Systems”  is mainly aimed at piping system design aspects. The major differences between tube and pipe should be known to the designer first. The right selection of the straight pipe for a given process requirement is entirely based on the sound knowledge of the designer on pipe manufacturing techniques, pipe ends, pipe materials, and ASME B31 pressure piping series. Designers should be capable of determining the pipe wall thickness for the internal pressure as well as external pressure based on the ASME B31.3 code and selecting of proper schedule number from the ASME B36.10M  and B36.19M standards. Piping is composed of pipe fittings, valves, flanges, gaskets, nuts and bolts, etc. Therefore, designers should be acquainted with various types of fittings, importance, ends, pressure-temperature ratings, and material. Similarly, designers should be acquainted with various types of flanges, ends, face finishing, pressure-temperature ratings, materials, and similar knowledge on gaskets and nuts and bolting. Valves are used for isolation, regulation, and one-way operations. Therefore, types, end connections, material, pressure-temperature ratings,  internal construction, internal parts, and functioning of valves should be known to the designer for their right selection. PFDs, P&IDs, General Arrangement Drawings (GADs), and Piping Isometrics are important drawings for any process plant; and development, reading, and interpreting these drawings is one of the desired requirements that the designer should possess. To fulfill this requirement the designer should be thorough with certain symbols used to present a three-plane piping system on a 2D sheet such as GADs, etc. The designers must familiarize themselves with general abbreviations, service codes, line number identification, ‘insulation and heat tracing codes’, representations of pipelines, boundaries, off-page connectors, pipe fittings, piping valves, piping components, and ‘fire, and safety’. In a nutshell, the designer should be thorough with the legend sheet of a particular industry.\nThe flexibility of a piping system is a major issue and it is dicey if the piping system doesn’t have inherent flexibility. Therefore, designers should be masters in all aspects of pipe stress analysis and perform flexibility analysis using industry-accepted pipe stress analysis software. They should be in a position to suggest the optimum pipe routing with appropriate supports, hangers, and expansion joints. To become an expert in flexibility analysis the designer should be well familiar with various types of primary supports, secondary supports, various types of hangers, good practices followed in piping and equipment layout known as layout rules, and expansion joints. Further, it is a requirement expected from the designer, i.e., the design of jacketed piping.  Vibration-induced loads are to be included in the pipe flexibility analysis. Unless the designer knows the sources for pipe vibration and types; the effect of vibration cannot be captured in the stress analysis process. The piping system needs insulation and a thorough knowledge of the types, shapes, and materials is essential. Pipes may be routed through underground. Therefore, designers should be capable of making the decision when the underground piping is preferred. If preferred, the designer should know what sort of challenges going to be faced that arise from corrosion and land sliding, and what are remedial solutions.  Hence, designers should know about proper cathodic protection as it is one of the remedial solutions to prevent the UG pipe.\nThe course is aimed to address all these aspects and these essential topics are included in the course. These are explained and demonstrated in a lucid form therefore, the learners can easily grasp the concepts and acquire the required skillset as mentioned above.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pipe-material-specification",
+  "instructors": [
+    {
+      "name": "Subject Matter Expert",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "L&T EduTech"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

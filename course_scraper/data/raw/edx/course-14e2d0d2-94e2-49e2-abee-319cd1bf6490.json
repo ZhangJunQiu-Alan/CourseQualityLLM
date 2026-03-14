@@ -1,0 +1,51 @@
+{
+  "course_id": "course-14e2d0d2-94e2-49e2-abee-319cd1bf6490",
+  "platform": "edx",
+  "title": "Electromagnetic Compatibility Essentials",
+  "description": "Why can’t I connect to WiFi? Why does my Bluetooth stop working when I use USB4? Oh! I just sparked into my computer after sitting down; is it damaged now?  All of these issues have to do with  electromagnetic compatibility (EMC) . International EMC experts  David Pommerenke  and  Bernd Deutschmann  break down situations that seem highly complex in order to highlight the causes of interference. \n This course is designed to gain  essential know-how  in today’s world of very high frequencies. For instance, smartphone CPUs already work with clock frequencies above 3 GHz. But did you know that such fast switching disturbs other devices nearby? Such disturbances are either simply annoying or can become a real problem. As a consequence, international regulations exist which demand for emission and immunity tests before selling an electronic device. \n The topic of EMC must be  considered in all aspects of circuit design  in order to reduce the number of prototypes. We would like you to gain an intuition for EMC with the help of lab examples. We emphasize basic physical principles and avoid highly complex mathematical derivations instead. After completion, a certificate will be awarded backed by Graz University of Technology. \n Did you know that TU Graz is one of the best universities for research and teaching in the field of EMC? We regularly publish in scientific journals and are represented at the most important conferences. Around a dozen full-time researchers work at our institute in the field of EMC, either experimentally in the lab, or through simulations on the PC, which also involve machine learning. We would like to share this expertise with the community, since EMC must be considered by all electronics engineers and project managers. \n The   FREE version   of this course   includes all material   except final exam questions and the certificate. This is a self-paced course, so there are no weekly deadlines. You can join this class completely free of charge and purchase the certificate later in case you liked it.  Give it a try and dive into the fascinating world of EMC.  \n Made with ❤️ by the IFE team. \nThanks to Jan Eberl, Stefanie Frossard, Michael Fuchs, Maria Haas, Sabrina Koffler, Christoph Maier, Marco Pfeifer.",
+  "learning_goals": [
+    "Smartphone Operation",
+    "Bluetooth",
+    "Research",
+    "Basic Math",
+    "Electromagnetism",
+    "Selling Techniques",
+    "Electromagnetic Interference And Compatibility (EMC/EMI)",
+    "Lecturing",
+    "USB",
+    "Electronic Engineering"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 6-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "bernd-deutschmann",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-pommerenke",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ko-odreitz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Graz University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 334,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

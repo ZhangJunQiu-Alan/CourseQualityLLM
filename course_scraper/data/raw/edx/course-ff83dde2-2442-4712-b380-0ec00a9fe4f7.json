@@ -1,0 +1,82 @@
+{
+  "course_id": "course-ff83dde2-2442-4712-b380-0ec00a9fe4f7",
+  "platform": "edx",
+  "title": "Digitalization of Intelligent and Integrated Energy Systems",
+  "description": "This course will teach you how to digitalize the 'conventional' grid and which digital technologies you can use for this, including but not limited to, AI, machine learning, blockchain and computer simulations. \n Even though the power grid has been the main driver of the rapid advancement of technology in the past decades, the engineering of the grid is outdated by today's standards. Equipment is still hardwired and analogue, there is limited data acquisition, and many control actions are performed manually. Subsequently, it becomes harder to ensure similar system quality and efficient operations when more renewables are added to the grid. The next big leap, therefore, is to revamp and digitalize the energy system.  \nWe invited five prominent industry leaders to share industry perspectives, case studies and applications of digitalization in the fields of Grid Operations, Electric Power Systems, Power Distribution, Electrical Systems, Control Systems and Cybersecurity, but also in Consultancy and Software Development. Our guest speakers are: Philip Gladek (CEO of Spectral), Bas Kruimer (Business Director Digital Grid Operations at DNV), Martin Wevers (Grid Planner at TenneT), Evelyn Heylen (Head of research at Centrica) and Antoine Marot (Lead AI Scientist at RTE).  \nYou will also get hands-on experience through solving an optimal scheduling problem, noting the differences between different numerical simulation methods and applying machine learning to predict system overloads. \n This course is aimed at professionals in the energy industry who want to broaden their perspective and discover alternative approaches to energy integration in an intelligent way such as: \n- grid operators, electrical systems managers, control systems managers, power engineers \n- cybersecurity consultants, software developers, artificial intelligence managers/ scientists, energy consultants \n- project managers, planners, policy makers etc. \nAny other enthusiasts with the desire to learn more about current practices of the power grid, novel digital technologies and trends to deploy them can also enrol in this course. \n  \"At DNV, our vision is to be a trusted voice to tackle global transformations. The energy transition is vital to decelerate climate change. Integrating energy systems in an intelligent way is a critical skill for the engineers, project managers, planners, policymakers, and scientists of the future.  \n The course “Digitalization of intelligent and integrated energy systems” comes at the right time to tackle the challenges and complexity of today’s energy systems. It provides you with a powerful framework to digitalize energy systems by using AI, machine learning, simulations, digital twins and sheds light on cyber security matters. It helps you to integrate electric cars, heat, gas and electricity into the energy system. I would highly recommend this innovative course to everyone who is interested in the digital transformation of the energy system.\"  \n Bas Kruimer, Business Director Digital Grid Operations, Energy Systems, DNV",
+  "learning_goals": [
+    "Operations",
+    "Electrical Systems",
+    "Integration",
+    "Electric Vehicles",
+    "Research",
+    "Cyber Security",
+    "Willingness To Learn",
+    "Digital Transformation",
+    "Software Development",
+    "Digital Twin",
+    "Data Acquisition",
+    "Control Systems",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Power Distribution",
+    "Blockchain",
+    "Innovation",
+    "Electric Power Systems",
+    "Computer Simulation",
+    "Computer Control Systems",
+    "Scheduling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "peter-palensky",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "simon-tindemans",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "pedro-p-vergara",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "kees-vuik",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "marieke-kootte",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jochen-lorenz-cremer",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alexandru-stefanov",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 360,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

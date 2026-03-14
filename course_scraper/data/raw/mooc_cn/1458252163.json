@@ -1,0 +1,31 @@
+{
+  "course_id": "1458252163",
+  "platform": "mooc_cn",
+  "title": "Digital Signal Processing",
+  "description": "DSP is a basic theory course combined with practical engineering applications. The teacher in DSP teaching team of UESTC has been engaged in communication signal processing  for a long time. The Chinese version of this course has won the title of 'National Excellent Course.'",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458252163",
+  "instructors": [
+    {
+      "name": "Lian YANG",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Electronic Science and Technology of China"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3020,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

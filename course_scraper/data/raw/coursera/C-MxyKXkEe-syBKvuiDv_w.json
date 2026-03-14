@@ -1,0 +1,26 @@
+{
+  "course_id": "C-MxyKXkEe-syBKvuiDv_w",
+  "platform": "coursera",
+  "title": "Data Structures & Algos: Software Development Skills",
+  "slug": "data-structures--algos-software-development-skills",
+  "description": "This course will guide you through the essential principles of algorithms and their significance in computational problem-solving. You'll begin by exploring what an algorithm is, its core characteristics, and how it applies to real-world scenarios—from simple everyday tasks to complex computing challenges. As you progress, you will learn about the critical role algorithms play in improving efficiency and scalability across various fields. We’ll break down key concepts such as algorithmic complexity, helping you evaluate the efficiency of different approaches, which will ultimately guide your decision-making.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-structures--algos-software-development-skills",
+  "instructors": [
+    {
+      "name": "Nicholas Brown",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Northeastern University "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

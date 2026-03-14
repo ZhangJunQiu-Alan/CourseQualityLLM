@@ -1,0 +1,26 @@
+{
+  "course_id": "LuXbfNnCEeq3nQoreMGNOQ",
+  "platform": "coursera",
+  "title": "Performing Data Aggregation using SQL Aggregate Functions",
+  "slug": "performing-data-aggregation-using-sql-aggregate-functions",
+  "description": "In this 2-hour long project-based course, you will learn how to retrieve data from tables in a database using SQL SELECT statement with SQL Aggregate functions. The aggregate functions we will consider in this project are COUNT, SUM, MIN, MAX and AVG. Aggregate functions are used to summarize data from rows of a table into a single value. In addition, you will learn how to set conditions on the output of an aggregate function using the HAVING clause. Finally, you will learn how to tidy up the result set of aggregate functions using the ROUND function.\n\nNote: You do not need to be a data administrator or data analyst to be successful in this guided project, just a familiarity with querying databases using SQL SELECT statement suffice for this project. If you are not familiar with SQL and want to learn the basics, start with my previous guided projects titled “Performing Data definition and Manipulation in SQL.\"  and “Querying Databases using SQL SELECT statement”",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/performing-data-aggregation-using-sql-aggregate-functions",
+  "instructors": [
+    {
+      "name": "Arimoro Olayinka Imisioluwa",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

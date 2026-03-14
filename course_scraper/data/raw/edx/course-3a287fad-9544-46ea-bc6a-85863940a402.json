@@ -1,0 +1,41 @@
+{
+  "course_id": "course-3a287fad-9544-46ea-bc6a-85863940a402",
+  "platform": "edx",
+  "title": "Compilers",
+  "description": "The course lectures will be presented in short videos. To help you master the material, there will be in-lecture questions to answer, quizzes, and two exams: a midterm and a final. There will also be homework in the form of exercises that ask you to show a sequence of logical steps needed to derive a specific result, such as the sequence of steps a type checker would perform to type check a piece of code, or the sequence of steps a parser would perform to parse an input string. This checking technology is the result of ongoing research at Stanford into developing innovative tools for education, and we're excited to be the first course ever to make it available to students. \n An optional course project is to write a complete compiler for COOL, the Classroom Object Oriented Language. COOL has the essential features of a realistic programming language, but is small and simple enough that it can be implemented in a few thousand lines of code. Students who choose to do the project can implement it in either C++ or Java. \n I hope you enjoy the course!",
+  "learning_goals": [
+    "C++ (Programming Language)",
+    "Runtime Systems",
+    "Lexical Analysis",
+    "Semantics",
+    "Parsing",
+    "Syntax",
+    "Code Generation",
+    "Program Optimization",
+    "Compilers",
+    "Object-Oriented Programming (OOP)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alex-aiken",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1380,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

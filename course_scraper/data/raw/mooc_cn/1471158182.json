@@ -1,0 +1,31 @@
+{
+  "course_id": "1471158182",
+  "platform": "mooc_cn",
+  "title": "金属塑性成形原理",
+  "description": "《金属塑性成形原理》是材料科学与工程的核心课程，专注于金属塑性加工的理论基础。课程涵盖金属塑性变形中工件与模具的弹塑性变形控制，材料尺寸、结构与性能的演变，以及成形问题的力学分析和质量评估。课程内容包括：材料塑性的基本概念、金属塑性变形力学分析的基本方程、不同成形工艺及力/能计算方法。其中，力学基础涉及应力、应变状态计算，塑性力学本构关系与屈服准则，以及平面和轴对称问题。金属塑性成形中的摩擦特性、影响因素及润滑技术也是课程重点。此外，课程还介绍主应力法及其在计算金属流动变形力中的应用，平面变形问题的滑移线法，以及上限法的基本原理和解题技巧。这些理论和方法为金属塑性成形工艺的设计和优化提供了重要的理论基础和工具。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471158182",
+  "instructors": [
+    {
+      "name": "杜冰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "燕山大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1922,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

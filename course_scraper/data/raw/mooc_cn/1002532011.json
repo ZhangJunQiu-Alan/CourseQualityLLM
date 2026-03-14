@@ -1,0 +1,31 @@
+{
+  "course_id": "1002532011",
+  "platform": "mooc_cn",
+  "title": "工程热力学",
+  "description": "本课程为第二批国家级一流本科课程（线上）【教高函〔2023〕7号】。工程热力学是研究热能与机械能的转换规律，以提高能量利用经济性的一门科学。工程热力学是能源动力、机械、航空航天、材料、化学、生物工程等领域的重要基础课，是培养涉及能源特别是与热能相关的各领域中具有创新能力人才的学科基础课，也是培养21世纪工科学生科学素质的基础课。本课程也在中国大学MOOC上开设了英文版课程，课程名为：Thermodynamics: Fundamentals and Applications. 英文版课程内容（视频）在中文版课程基础上有丰富和更新，欢迎有需求有兴趣的同学们选择学习，并获得收获。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002532011",
+  "instructors": [
+    {
+      "name": "严林博;王超俊;何伯述",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24333,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002704005",
+  "platform": "mooc_cn",
+  "title": "互联网金融概论",
+  "description": "《互联网金融概论》（2022年新版）是一门全面系统讲述互联网金融原理、业务创新与运行、风控、监管实践与金融发展科技基础设施等内容的课程，从互联网技术与金融业务融合的角度，揭示金融创新演进中不变的逻辑，讲解互联网金融给百姓生活带来的变化，提高学习者对互联网金融的认识与风险识别控制能力，掌握国家金融监管部门政策变化，把握金融与技术融合创新发展趋势。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002704005",
+  "instructors": [
+    {
+      "name": "彭俞超;Jianjun Li  李建军;方意;王忏;苏治;郭豫媚;欧阳日辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中央财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 94606,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

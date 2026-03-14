@@ -1,0 +1,31 @@
+{
+  "course_id": "1207458801",
+  "platform": "mooc_cn",
+  "title": "Java Web开发基础",
+  "description": "Java语言能长期霸占语言排行榜的一个重要原因就是强大的web开发能力，web开发是Java的基石，所以了解Java Web开发是非常重要的。加入我们，一起动起来，学习Java Web开发！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207458801",
+  "instructors": [
+    {
+      "name": "罗茂权;陈耀武;张婵;罗佳;吴绍根",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "广东轻工职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 44897,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1450194213",
+  "platform": "mooc_cn",
+  "title": "中医基础理论",
+  "description": "夯实中医基础  培养中医思维  传承中医理论",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450194213",
+  "instructors": [
+    {
+      "name": "  张庆祥;魏凤琴;高冬梅;马月香;郑红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 54076,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

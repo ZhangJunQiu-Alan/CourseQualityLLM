@@ -1,0 +1,26 @@
+{
+  "course_id": "wBYtMroaEfCh_g7IcfE8GQ",
+  "platform": "coursera",
+  "title": "Data Storage and Management for Big Data",
+  "slug": "microsoft-big-data-storage-management",
+  "description": "This course provides a comprehensive overview of data storage and management approaches for big data. Learners will explore structured, semi-structured, and unstructured data formats, compare SQL and NoSQL database technologies, and implement data lakes and data warehouses. The course includes working with various file formats and understanding the differences between batch and real-time processing approaches.\n\nCourse Learning Objectives: \n\nBy the end of this course, you will be able to:\n- Compare and implement SQL and NoSQL database solutions for different big data scenarios\n- Work effectively with structured, semi-structured, and unstructured data formats\n- Design and implement data lakes and data warehouses for big data workloads\n- Build data pipelines using ETL and ELT approaches with Azure Data Factory\n- Differentiate between batch and real-time processing methodologies and implement appropriate solutions",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 months, 5 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/microsoft-big-data-storage-management",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

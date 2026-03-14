@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755402",
+  "platform": "mooc_cn",
+  "title": "微机系统与接口",
+  "description": "本课程通俗易懂，起点较低，只要具备计算机硬件的基础知识的同学都可以轻松学习。    本课程面向的对象主要包括全国理工类高校的电类和计算机类专业本专科学生，从事硬件开发的工程技术人员，以及参加全国计算机等级考试的其它人员。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755402",
+  "instructors": [
+    {
+      "name": "徐启敏;周晓晶;李会军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9329,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,34 @@
+{
+  "course_id": "course-0e575a39-da1e-4e33-bb3b-e96cc6ffc58e",
+  "platform": "edx",
+  "title": "How to Learn Online",
+  "description": "This course harnesses science-backed techniques applicable across different learning platforms, equipping you with the strategies you need to thrive as an online learner. \n  \n \n\nIn this course, you will:   \n  \n \n\nReflect on your Identity as a Learner: Learn about the history and benefits of learning online and reflect on how embarking on this new journey of learning online fits into your broader narrative as a lifelong learner. \n  \n \n\nDevelop Digital Literacy Skills: Acquire essential skills for navigating and utilizing online learning technologies effectively, including familiarity with Learning Management Systems, the unique features of the edX platform, and using AI to support your learning.   \n \n\nEnhance Metacognitive Skills: Learn to develop awareness of your own learning behaviors and thought processes, a key aspect of successful online learning.   \n  \n \n\nApply Effective Study Strategies: Examine a range of study strategies based on current research, covering awareness, balance, community engagement, and dedication to learning. \n  \n \n\nLeverage Community Resources: Discuss how to effectively utilize peer interactions and community resources to enhance your learning experience. \n  \n \n\nImprove Time Management: Cultivate strong time management skills tailored for online learning, including techniques like the Pomodoro method and understanding your chronotype for optimal learning.",
+  "learning_goals": [
+    "Artificial Intelligence",
+    "Time Management",
+    "Learning Design",
+    "Lifelong Learning",
+    "Research",
+    "Metacognition",
+    "Learning Management Systems",
+    "Digital Literacy",
+    "Learning Platforms"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "edX"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33737,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

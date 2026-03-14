@@ -1,0 +1,26 @@
+{
+  "course_id": "DxFiPr9FEe633hLyyfBA1Q",
+  "platform": "coursera",
+  "title": "Getting Started with Application Development - Português",
+  "slug": "getting-started-with-application-development---ptbr",
+  "description": "Neste curso, os desenvolvedores de apps aprendem a criar e desenvolver aplicativos nativos da nuvem que se integram totalmente aos serviços gerenciados do Google Cloud. Com as apresentações, as demonstrações e os laboratórios práticos, os participantes vão aprender a aplicar as práticas recomendadas para o desenvolvimento de apps e usar os serviços do Google Cloud Storage específicos para objetos, dados relacionais, armazenamento em cache e análises de dados. \n\nÉ necessário concluir pelo menos uma versão de cada laboratório. Todos os laboratórios estão disponíveis em Node.js. A maioria deles também tem versões em Python ou Java. Use a linguagem que você preferir.\n\nEste é o primeiro curso da série \"Developing Applications with Google Cloud\". Depois de concluir este curso, inscreva-se no \"Securing and Integrating Components of your Application\".",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "pt-BR",
+  "url": "https://www.coursera.org/learn/getting-started-with-application-development---ptbr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "iKjxF6kwEeywagovoAKHOQ",
+  "platform": "coursera",
+  "title": "Interact with Terraform Modules",
+  "slug": "googlecloud-interact-with-terraform-modules-7tizt",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. \nIn this hands-on lab you will create and use Terraform modules to organize your cloud configuration.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour ",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-interact-with-terraform-modules-7tizt",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

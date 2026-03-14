@@ -1,0 +1,31 @@
+{
+  "course_id": "1003110002",
+  "platform": "mooc_cn",
+  "title": "C语言程序设计",
+  "description": "初次学习程序设计语言的学习者，由于计算机系统整体认识不足，思维转换困难，动手实践跟不上知识更新是问题所在。本课程“活化知识”渐进式渗透教学内容，问题导向，遵循“发现问题-分析问题-解决问题”最终落地实际问题求解的设计思路，融合学科前沿知识与思政元素，取境生活，贴近学生的案例驱动，“基础-增强-拓展”逐步推进。课程以程序设计方法为主，实际案例开发为驱动，编程语言基本知识为辅，通过精心设计的案例，将编程语言基本知识融入实际案例的开发中，注重软件分析、设计方法的学习。特别增加了指针与链表以及等级考试和知名企业笔试面试题等版块，带领学习者由浅入深开启程序设计之旅。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003110002",
+  "instructors": [
+    {
+      "name": "王春梅;王燕;孙雪华;孙家泽;王小银;王曙燕;孙巍;刘擎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 75821,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

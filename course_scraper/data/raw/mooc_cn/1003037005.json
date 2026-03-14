@@ -1,0 +1,31 @@
+{
+  "course_id": "1003037005",
+  "platform": "mooc_cn",
+  "title": "金融工程概论",
+  "description": "本课程反映金融工程学理论和实践的最新进展，系统介绍金融工程基本概念、基本原理和基本分析方法，结合金融工程领域最重要的金融衍生工具的交易机制、定价和策略，培养学生利用金融工程思想实现创新的设计理念和思维方式，并掌握金融工程领域产品设计、产品定价、量化策略和风险管理等技术。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003037005",
+  "instructors": [
+    {
+      "name": "王辉;周德清;戴韡;郭剑光;刘向丽;高言",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中央财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 57088,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

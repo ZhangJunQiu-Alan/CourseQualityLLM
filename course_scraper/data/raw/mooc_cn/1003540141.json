@@ -1,0 +1,31 @@
+{
+  "course_id": "1003540141",
+  "platform": "mooc_cn",
+  "title": "武术与强身避险",
+  "description": "“中国武术之十用”带你一探武术神妙，了解攻守之方略，把握技击之术法。“中国武术之近身十战、远身十战”带你一解攻防玄机，习得远身可踢打，掌握近身会摔拿。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003540141",
+  "instructors": [
+    {
+      "name": "屈国锋;陈新萌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22436,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

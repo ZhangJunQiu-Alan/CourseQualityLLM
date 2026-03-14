@@ -1,0 +1,31 @@
+{
+  "course_id": "1457998162",
+  "platform": "mooc_cn",
+  "title": "Soil Mechanics",
+  "description": "Soil Mechanics is a well-established course open at Tongji University for over 60 years. With this condensed online course, we are going to start your journey to the fundamental physics of complex mechnical behavior of soils, and the basic principles behind geotechnical engineering applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1457998162",
+  "instructors": [
+    {
+      "name": "Jiangu Qian",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tongji University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 216,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

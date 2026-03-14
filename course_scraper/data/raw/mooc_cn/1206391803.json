@@ -1,0 +1,31 @@
+{
+  "course_id": "1206391803",
+  "platform": "mooc_cn",
+  "title": "电子线路分析基础",
+  "description": "本课程以模拟信号放大为主线，介绍电子线路的基本单元电路、基本原理、基本分析方法以及基本应用。讲述时，力求化繁为简，便于学习理解。希望通过本课程的学习，掌握对模拟信号的产生、放大等处理方法，掌握模拟电子线路的分析、设计方法，能读懂模拟集成电路内部基本单元电路。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206391803",
+  "instructors": [
+    {
+      "name": "陈健",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12477,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

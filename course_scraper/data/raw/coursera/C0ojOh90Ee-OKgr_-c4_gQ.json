@@ -1,0 +1,26 @@
+{
+  "course_id": "C0ojOh90Ee-OKgr_-c4_gQ",
+  "platform": "coursera",
+  "title": "Cloud: Infrastructure as a Service - Bachelor's",
+  "slug": "illinois-tech-cloud-infrastructure-as-a-service-bit",
+  "description": "Infrastructure as a Service (IaaS) allows users to provision processing, storage, networks, and other fundamental computing resources which then allows them to deploy and run arbitrary software, which can include operating systems and applications. Students will learn how to provision, deploy and manage operating systems, storage, and deployed applications as well as virtual networking components such as switches, routers, and firewalls in a cloud environment accessible remotely through a network.\n\nBy the end of this course, students will be able to: \n- Use concepts of cloud computing and cloud native applications to provision. \n- Deploy and manage operating systems, storage, and deployed applications as well as virtual networking components such as switches, routers, and firewalls in a cloud environment accessible remotely through a network, using standard planning methodologies to meet identified business and/or consumer needs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/illinois-tech-cloud-infrastructure-as-a-service-bit",
+  "instructors": [
+    {
+      "name": "Thomas Johnson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Illinois Tech"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

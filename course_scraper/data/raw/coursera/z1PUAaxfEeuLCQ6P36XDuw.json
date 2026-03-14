@@ -1,0 +1,26 @@
+{
+  "course_id": "z1PUAaxfEeuLCQ6P36XDuw",
+  "platform": "coursera",
+  "title": "Robot Localization with Python and Particle Filters",
+  "slug": "robot-localization-python-particle-filter",
+  "description": "In this one hour long project-based course, you will tackle a real-world problem in robotics.  We will be simulating a robot that can move around in an unknown environment, and have it discover its own location using only a terrain map and an elevation sensor.  We will encounter some of the classic challenges that make robotics difficult: noisy sensor data, and imprecise movement.\n\nWe will tackle these challenges with an artificial intelligence technique called a particle filter.\n\nBy the end of this project, you will have coded a particle filter from scratch using Python and numpy. \n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/robot-localization-python-particle-filter",
+  "instructors": [
+    {
+      "name": "Daniel Romaniuk",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

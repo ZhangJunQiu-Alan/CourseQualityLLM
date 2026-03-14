@@ -1,0 +1,26 @@
+{
+  "course_id": "sDiROFV_EfCekhJDthqyWw",
+  "platform": "coursera",
+  "title": "Azure Practical - Cognitive Services",
+  "slug": "azure-practical---cognitive-services",
+  "description": "This comprehensive, hands-on course is designed to empower learners to analyze, build, deploy, and optimize intelligent applications using Microsoft Azure Cognitive Services. Through a structured six-module framework, learners will explore a variety of AI-powered tools that mimic human cognition—including vision recognition, speech processing, language understanding, anomaly detection, personalization, and intelligent web search.\n\nStarting with foundational concepts and free-tier account setup, the course delves into real-world applications such as computer vision, face recognition, custom object detection, form and ink recognition, and natural language processing. Learners will gain proficiency in configuring and invoking REST APIs, training models, integrating services into applications, and visualizing insights.\n\nAdvanced modules guide learners through building anomaly detection workflows, implementing decision-making logic via the Personalizer API, and enriching user experiences with Bing-powered web search capabilities. Each module is reinforced with hands-on exercises, quizzes, and application-driven learning objectives aligned with Bloom’s Taxonomy verbs such as \"implement,\" \"configure,\" \"differentiate,\" \"evaluate,\" and \"design.\"\n\nBy the end of the course, learners will be able to develop adaptable, AI-enhanced applications capable of processing visual data, interpreting language, detecting anomalies, and providing tailored user experiences in a cloud-first ecosystem.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "6 weeks, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/azure-practical---cognitive-services",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "wXKHaKKgEe-N5wr_8TuRrQ",
+  "platform": "coursera",
+  "title": "Python Programming Fundamentals",
+  "slug": "microsoft-python-programming-fundamentals",
+  "description": "Description: This course lays the groundwork for your Python programming journey. You'll learn essential Python syntax, data structures, and control flow, while practicing debugging and basic code optimization techniques.\n\nBenefits: Gain a solid foundation in Python programming, enabling you to write clean, functional scripts and tackle common programming challenges.\n\nBy the end of this course, you'll be able to:\n\n• Write basic Python programs using variables, data types, and operators.\n• Implement conditional statements and loops to control program flow.\n• Utilize functions and modules to write reusable and organized code.\n• Manipulate data using lists, dictionaries, and other data structures.\n• Debug code and handle errors effectively.\n• Employ Git for version control and create a professional GitHub portfolio.\n\nTools/Software: Python, Jupyter Notebook, Git, GitHub\n\nThis course is for entry-Level professionals looking to build a foundational understanding and experience with Python, while seeking employment as a Python developer. No prior work experience or degree is required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/microsoft-python-programming-fundamentals",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

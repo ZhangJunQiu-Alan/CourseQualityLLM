@@ -1,0 +1,26 @@
+{
+  "course_id": "Im5tlqWjEfCsJA6212UCYQ",
+  "platform": "coursera",
+  "title": "Optimize Deep Learning: Tune PyTorch Models",
+  "slug": "optimize-deep-learning-tune-pytorch-models",
+  "description": "Optimize Deep Learning: Tune PyTorch Models is an intermediate course for deep learning practitioners ready to move beyond off-the-shelf training and gain granular control over their models. Standard training loops can hide critical issues, leading to unstable performance and suboptimal results. This course empowers you to take full command of the training process using PyTorch Lightning.\n\nYou will learn to implement custom callbacks for sophisticated control, such as early stopping and model checkpointing, to save costs and prevent overfitting. Through hands-on labs, you will master advanced debugging techniques, learning to diagnose and fix training instabilities by analyzing gradient norms and activation distributions. You will also gain practical experience in fine-tuning large, pretrained models for specialized tasks. By the end of this course, you will be able to build, diagnose, and optimize high-performing, stable, and efficient PyTorch models ready for real-world deployment.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "176 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/optimize-deep-learning-tune-pytorch-models",
+  "instructors": [
+    {
+      "name": "LearningMate",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

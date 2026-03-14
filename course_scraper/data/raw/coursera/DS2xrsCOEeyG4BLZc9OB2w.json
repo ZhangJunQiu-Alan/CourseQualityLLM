@@ -1,0 +1,26 @@
+{
+  "course_id": "DS2xrsCOEeyG4BLZc9OB2w",
+  "platform": "coursera",
+  "title": "Engineering of Structures: Shear and Bending",
+  "slug": "engineering-of-structures-shear-and-bending",
+  "description": "This course deals with shear and bending. Shear is a set of parallel, non-collinear forces acting across an element and bending is the curved form taken by a slender element when subjected to loads perpendicular to the element. These forces are easy to understand. You will study how stress and bending force acts for different structures and also, identify what role these forces play in their designs. The first module introduces you to the concept of shear and bending while building structures. The second module explores different understanding of stress and bending. It defines important terms used to understand these forces. It also studies the impact of shear and compression on beams of different materials. You will also learn how to calculate shear stresses and bending stresses. The third module explores how to build a cardboard beam or shelf . You'll also study the structure beam and share a report on it.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/engineering-of-structures-shear-and-bending",
+  "instructors": [
+    {
+      "name": "Vicki May",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dartmouth College"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

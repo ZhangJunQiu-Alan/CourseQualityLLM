@@ -1,0 +1,31 @@
+{
+  "course_id": "1003535158",
+  "platform": "mooc_cn",
+  "title": "数字图像处理",
+  "description": "数字图像处理是通过计算机处理所获取视觉信息的技术。主要内容包括图像感知与获取、图像增强和复原、图像压缩、图像分割、彩色图像处理、图像表示等原理和技术。数字图像处理应用于航空航天、通信、工业、医学、军事、公安等领域，在智能监控、视频内容分析、虚拟现实、多模态图像视频生成、人工智能等方面起重要作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003535158",
+  "instructors": [
+    {
+      "name": "郭志强;靳淇文;桂林;王昱",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 86918,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

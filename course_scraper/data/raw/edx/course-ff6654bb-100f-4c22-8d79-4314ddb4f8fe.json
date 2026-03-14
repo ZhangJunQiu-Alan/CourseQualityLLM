@@ -1,0 +1,37 @@
+{
+  "course_id": "course-ff6654bb-100f-4c22-8d79-4314ddb4f8fe",
+  "platform": "edx",
+  "title": "Business and Data Analysis Skills",
+  "description": "In the modern workplace, it’s crucial to know how to analyze, synthesize, and tell stories with data. This self-paced career development course will help you learn how to use a spreadsheet application (like Microsoft Excel) as a powerful analytical and communication tool. You will perform real-world market and financial analyses and practice presenting your findings visually for maximum impact. By the end of the course, you will be able to make data-driven decisions that help your organization grow and prosper. \n This is the fourth course in Fullbridge’s four-part Career Development XSeries, designed to prepare you to succeed in the modern workplace.",
+  "learning_goals": [
+    "Financial Analysis",
+    "Career Development",
+    "Data Analysis",
+    "Microsoft Excel",
+    "Data-Driven Decision-Making",
+    "Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jim-pautz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Fullbridge"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 893,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

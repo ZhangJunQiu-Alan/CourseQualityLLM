@@ -1,0 +1,35 @@
+{
+  "course_id": "course-eb713d8d-945b-4252-9f0c-2247b933210b",
+  "platform": "edx",
+  "title": "Stock Trading Professional Certification Examination",
+  "description": "Ready to start your career in trading? If you’ve gained a clear, comprehensive understanding of stock trading, your next step is to complete the Stock Trading Certification Exam from the New York Institute of Finance.  \n To earn your Professional Certificate in Stock Trading from NYIF, you must pass this exam. \n The exam is 20 questions, timed at one hour. To qualify for the certificate, learners must receive a grade of at least 70% or better. \n Prerequisite to sit for this exam is to earn a Verified Certificate in all 2 Stock Trading courses from NYIF: \n \n  Intro to Stock Trading  \n  Technical Analysis and the Skill of Day Trading",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-green",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "peter-tuchman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "New York Institute of Finance"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 669,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

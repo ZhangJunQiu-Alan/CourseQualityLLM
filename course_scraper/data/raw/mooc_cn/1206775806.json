@@ -1,0 +1,31 @@
+{
+  "course_id": "1206775806",
+  "platform": "mooc_cn",
+  "title": "生产过程控制系统的设计与运行维护Production Process Control System Design and Operation Maintenance",
+  "description": "本课程聚焦于控制系统设计，操作与运维，需要清楚“什么是生产过程控制系统”，“为什么选择DCS”，“DCS如何组态、调试与维护”等问题。课程学习完成后，一些学生会在企业从事操作员工作，具有维护、监控和解决基本问题的能力；一些学生能持续学习，后续会在企业从事初级工程师工作，具有设计、组态和解决较复杂问题的能力。The course is focus on design, operation and maintenance of control system. To gain the skills control it , we should know by learning: “What is Production Process Control System”,  “why choose DCS”,  “how does it work” , etc. Finishing the course, some students could be operator in the factory, they can maintain、monitor、and solve some basic problems，and some students could keep studying，they could be junior engineer, and they can design,config and solve some difficult problems.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206775806",
+  "instructors": [
+    {
+      "name": "唐明军;马小燕Xiaoyan Ma（中英文主讲）;杨润贤Runxian Yang（中英文主讲）;花良浩Lianghao Hua（中英文主讲）;蒋凌云;王国庆;周峰Feng Zhou （中英文主讲）;万杰星",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "扬州工业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12512,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206620829",
+  "platform": "mooc_cn",
+  "title": "组合数学",
+  "description": "“组合数学”是既古老而又年轻的数学分支，中外历史上许多著名的数学游戏是它古典部分的主要内容。公元1666年，德国著名数学家莱布尼兹为它起名为“组合学”，并预言了这一数学分支的诞生。1940年以来，随着电子计算机科学、计算数学、通信以及许多学科的发展，”组合数学“得到了迅速发展。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206620829",
+  "instructors": [
+    {
+      "name": "纪建",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19531,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

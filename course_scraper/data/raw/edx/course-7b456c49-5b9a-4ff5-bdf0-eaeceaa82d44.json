@@ -1,0 +1,37 @@
+{
+  "course_id": "course-7b456c49-5b9a-4ff5-bdf0-eaeceaa82d44",
+  "platform": "edx",
+  "title": "Mathematics 1 Part 2: Integral calculus, algebra, and applications",
+  "description": "Mathematics 1 Part 2 is the second of two self-paced courses from LSE which aim to introduce and develop and understanding of essential mathematical concepts, methods and techniques.  This course can be taken alone or as part of the LSE MicroBachelors program in Mathematics and Statistics Fundamentals. \n Part 2 covers the following topics: \n \n \n Integration \n \n \n Profit maximisation \n \n \n Constrained optimisation \n \n \n Matrices, vectors, and linear equations \n \n \n Sequences, series, and financial modelling \n \n \n This course will equip you with the skills to solve unseen mathematical problems in these areas and will emphasise their applications to problems in economics, management, and related areas.",
+  "learning_goals": [
+    "Integral Calculus",
+    "Economics",
+    "Basic Math",
+    "Statistics",
+    "Algebra",
+    "Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 12-15 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "siri-kouletsis",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The London School of Economics and Political Science"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 330,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

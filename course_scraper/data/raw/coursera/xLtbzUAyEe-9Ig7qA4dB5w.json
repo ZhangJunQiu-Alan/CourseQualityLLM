@@ -1,0 +1,31 @@
+{
+  "course_id": "xLtbzUAyEe-9Ig7qA4dB5w",
+  "platform": "coursera",
+  "title": "Seaborn: Visualizing Basics to Advanced Statistical Plots",
+  "slug": "seaborn-visualizing-basics-to-advanced-statistical-plots",
+  "description": "Data visualization is a powerful tool for exploring and communicating insights from data effectively. Seaborn, a Python visualization library built on top of Matplotlib, offers a wide range of features for creating attractive and informative statistical plots. This course provides a comprehensive overview of Seaborn, covering basic plotting techniques as well as advanced statistical visualizations. Participants will learn how to leverage Seaborn to visualize data distributions, relationships, and patterns, enabling them to convey complex information visually with confidence. \n\nData visualization is a powerful tool for exploring and communicating insights from data effectively. Seaborn, a Python visualization library built on top of Matplotlib, offers a wide range of features for creating attractive and informative statistical plots. This course provides a comprehensive overview of Seaborn, covering basic plotting techniques as well as advanced statistical visualizations. Participants will learn how to leverage Seaborn to visualize data distributions, relationships, and patterns, enabling them to convey complex information visually with confidence. \n\nParticipants should have a basic understanding of Python programming and fundamental data visualization concepts before enrolling in this course. Familiarity with Python's data manipulation libraries such as Pandas, and an introductory knowledge of Matplotlib, will be beneficial. This foundational knowledge will enable learners to quickly grasp Seaborn's functionalities and apply them effectively in their data visualization tasks.\n\nBy the end of this course, learners will be equipped to explain the critical role of data visualization in data analysis and interpretation. They will gain practical skills in creating basic plots using Seaborn to visualize data distributions and relationships. Additionally, learners will explore advanced statistical plots for deeper data analysis and develop the ability to customize and enhance Seaborn visualizations, ensuring their data stories are communicated clearly and impactfully.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/seaborn-visualizing-basics-to-advanced-statistical-plots",
+  "instructors": [
+    {
+      "name": "Caio Avelino",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

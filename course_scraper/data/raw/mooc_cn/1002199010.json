@@ -1,0 +1,31 @@
+{
+  "course_id": "1002199010",
+  "platform": "mooc_cn",
+  "title": "随机信号分析",
+  "description": "随机信号分析是通信工程、信息工程、空间信息与数字技术专业必修的一门专业基础课和信息安全专业的限选专业基础课。同时也是空间科学与技术学院教改班的一门必修的专业基础课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002199010",
+  "instructors": [
+    {
+      "name": "李兵兵",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 31673,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

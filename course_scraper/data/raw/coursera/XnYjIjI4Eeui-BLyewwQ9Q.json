@@ -1,0 +1,26 @@
+{
+  "course_id": "XnYjIjI4Eeui-BLyewwQ9Q",
+  "platform": "coursera",
+  "title": "Bases de Datos SQL en Azure",
+  "slug": "bases-datos-sql-azure",
+  "description": "Este proyecto es un curso práctico y efectivo para aprender a utilizar las bases de datos SQL de Azure, desde cero. Aprenderás de manera práctica a crear y saber a cuando utilizar las BD de Azure SQL, los elastic pools, Managed Instance, etc. También aprenderás acerca de Azure Synapse Analytics.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 horas",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/bases-datos-sql-azure",
+  "instructors": [
+    {
+      "name": "Leire Ahedo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,33 @@
+{
+  "course_id": "course-bb90d02a-a562-4632-a0af-e72987f27fea",
+  "platform": "edx",
+  "title": "Cybersecurity Fundamentals",
+  "description": "In this introduction to the field of computing security, you will be given an extensive overview of the various branches of computing security. You will learn cybersecurity concepts, issues, and tools that are critical in solving problems in the computing security domain. \n You will have opportunities to learn essential techniques in protecting systems and network infrastructures, analyzing and monitoring potential threats and attacks, devising and implementing security solutions for organizations large or small. \n This offering is part of the RITx Cybersecurity MicroMasters Program that prepares students to enter and advance in the field of computing security.",
+  "learning_goals": [
+    "Infrastructure",
+    "Cyber Security"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "8 周，每周 10-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jonathan-s-weissman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Rochester Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1277,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "DMDCiXltEe-cBRK_mZB3Bw",
+  "platform": "coursera",
+  "title": "AWS Cloud Practitioner (CLF-C02)",
+  "slug": "aws-cloud-practitioner-clf-c02",
+  "description": "Are you ready to embark on a transformative journey into the world of cloud computing? Look no further than our comprehensive AWS Cloud Practitioner course. Designed to equip individuals from various backgrounds – whether you’re an IT professional, manager, sales representative, or business executive – with the fundamental knowledge and skills needed to excel in cloud computing, this course is your essential starting point.\n\nThe course is structured to be engaging and interactive, incorporating a variety of teaching methods such as videos, demos, quizzes, and exercises to facilitate a thorough understanding of the material.\n\nThe course is divided into several sections, each focusing on a specific aspect of AWS and cloud computing. Here are the key general topics covered in this course:\n\n- Introduction to Cloud Computing and AWS: This section provides an overview of cloud computing, its benefits, and why certification is important. It also introduces AWS, its billing, security, and services.\n- AWS Security and Compliance: This section delves into AWS’s shared responsibility model for security, AWS Cloud security and compliance concepts, and AWS Identity Access Management.\n- AWS Technology and Services: This part of the course covers methods of deploying and operating in the cloud, AWS’s global infrastructure, and core AWS Services including Networking, Storage, Compute, Database, Application Integration, AI/ML and Business Applications.\n- AWS Billing and Pricing: This section provides a detailed understanding of general billing in AWS, specific billing for various AWS services, and how account structures can affect billing. It also introduces tools for billing analysis and support, and AWS support options.\n- Bringing it all together: The final section of the course provides a summary of all the topics covered in the course and guides students on how to use the practice exams. It also provides insights on the road ahead on the AWS journey.\n\nAWS Certified Cloud Practitioner Exam Readiness:\n\nUpon completing this course, you’ll be thoroughly prepared to tackle the AWS Certified Cloud Practitioner exam. Our comprehensive curriculum will empower you to navigate the exam’s challenges with confidence. Once you pass the exam, you will earn the prestigious AWS Cloud Practitioner certification, validating your understanding of cloud computing concepts and your ability to leverage the AWS platform effectively.\nJoin us on this transformative educational adventure and unlock endless possibilities in the realm of cloud computing. Don’t wait – start your AWS Cloud Practitioner journey today!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-cloud-practitioner-clf-c02",
+  "instructors": [
+    {
+      "name": "Michael Forrester",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Sanjeev ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "KodeKloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

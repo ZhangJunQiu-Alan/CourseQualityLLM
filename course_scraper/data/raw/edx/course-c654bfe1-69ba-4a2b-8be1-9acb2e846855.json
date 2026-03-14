@@ -1,0 +1,37 @@
+{
+  "course_id": "course-c654bfe1-69ba-4a2b-8be1-9acb2e846855",
+  "platform": "edx",
+  "title": "Data Science: Inference and Modeling",
+  "description": "Statistical inference and modeling are indispensable for analyzing data affected by chance, and thus essential for data scientists. In this course, you will learn these key concepts through a motivating case study on election forecasting.  \n This course will show you how inference and modeling can be applied to develop the statistical approaches that make polls an effective tool and we'll show you how to do this using R. You will learn concepts necessary to define estimates and margins of errors and learn how you can use these to make predictions relatively well and also provide an estimate of the precision of your forecast.  \n Once you learn this you will be able to understand two concepts that are ubiquitous in data science: confidence intervals, and p-values. Then, to understand statements about the probability of a candidate winning, you will learn about Bayesian modeling. Finally, at the end of the course, we will put it all together to recreate a simplified version of an election forecast model and apply it to the 2016 election.",
+  "learning_goals": [
+    "Data Science",
+    "Forecasting",
+    "Bayesian Modeling",
+    "Confidence Intervals",
+    "Probability",
+    "Data Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rafael-irizarry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5332,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

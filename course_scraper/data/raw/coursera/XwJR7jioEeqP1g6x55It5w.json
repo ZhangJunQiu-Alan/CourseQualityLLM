@@ -1,0 +1,26 @@
+{
+  "course_id": "XwJR7jioEeqP1g6x55It5w",
+  "platform": "coursera",
+  "title": "Generalized Linear Models and Nonparametric Regression",
+  "slug": "generalized-linear-models-and-nonparametric-regression",
+  "description": "In the final course of the statistical modeling for data science program, learners will study a broad set of more advanced statistical modeling tools. Such tools will include generalized linear models (GLMs), which will provide an introduction to classification (through logistic regression); nonparametric modeling, including kernel estimators, smoothing splines; and semi-parametric generalized additive models (GAMs). Emphasis will be placed on a firm conceptual understanding of these tools. Attention will also be given to ethical issues raised by using complicated statistical models.\n\nThis course can be taken for academic credit as part of CU Boulder’s Master of Science in Data Science (MS-DS) degree offered on the Coursera platform. The MS-DS is an interdisciplinary degree that brings together faculty from CU Boulder’s departments of Applied Mathematics, Computer Science, Information Science, and others. With performance-based admissions and no application process, the MS-DS is ideal for individuals with a broad range of undergraduate education and/or professional experience in computer science, information science, mathematics, and statistics. Learn more about the MS-DS program at https://www.coursera.org/degrees/master-of-science-data-science-boulder.\n\nLogo adapted from photo by Vincent Ledvina on Unsplash",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/generalized-linear-models-and-nonparametric-regression",
+  "instructors": [
+    {
+      "name": "Brian Zaharatos",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

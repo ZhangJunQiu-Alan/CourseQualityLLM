@@ -1,0 +1,26 @@
+{
+  "course_id": "W4XVJakuEeywagovoAKHOQ",
+  "platform": "coursera",
+  "title": "Ingesting HL7v2 Data with the Healthcare API",
+  "slug": "googlecloud-ingesting-hl7v2-data-with-the-healthcare-api-xdnyz",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab you will discover and use the basic functionality of Cloud Healthcare API using HL7v2 messages.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-ingesting-hl7v2-data-with-the-healthcare-api-xdnyz",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

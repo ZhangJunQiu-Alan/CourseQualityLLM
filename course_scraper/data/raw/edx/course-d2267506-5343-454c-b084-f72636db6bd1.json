@@ -1,0 +1,48 @@
+{
+  "course_id": "course-d2267506-5343-454c-b084-f72636db6bd1",
+  "platform": "edx",
+  "title": "AWS Cloud Practitioner Essentials",
+  "description": "Welcome to  AWS Cloud Practitioner Essentials . If you’re new to the cloud, whether you’re in a technical or non-technical role such as finance, legal, sales, marketing, this course will provide you with an understand of fundamental AWS Cloud concepts to help you gain confidence to contribute to your organization’s cloud initiatives. This course is also the starting point to prepare for your AWS Certified Cloud Practitioner certification whenever it’s convenient for you. \n After you complete the course, you’ll understand the benefits of the AWS Cloud and the basics of its global infrastructure. You’ll be able to describe and provide an example of the core AWS services, including compute, network, databases, and storage. For the finance-minded, you’ll be able to articulate the financial benefits of the AWS Cloud, define core billing and pricing models, and learn how to use pricing tools to make cost-effective choices for AWS services.",
+  "learning_goals": [
+    "AWS Certified Cloud Practitioner",
+    "Amazon Web Services",
+    "Cloud Technologies",
+    "Cloud Computing",
+    "Finance",
+    "Infrastructure",
+    "Marketing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "morgan-willis",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rudy-chetty",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alan-meridian",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 794,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

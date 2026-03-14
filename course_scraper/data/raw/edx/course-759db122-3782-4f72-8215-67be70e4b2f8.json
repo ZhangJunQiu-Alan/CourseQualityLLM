@@ -1,0 +1,55 @@
+{
+  "course_id": "course-759db122-3782-4f72-8215-67be70e4b2f8",
+  "platform": "edx",
+  "title": "Fundamentos de Ciberseguridad: un enfoque práctico",
+  "description": "¿Has oído hablar de los ataques que reciben las grandes compañías o los bancos a través de sus sistemas informáticos? ¿Sabes detectar un archivo infectado por un virus? O ¿conoces medidas de seguridad para proteger un equipo o una red de ciber-ataques? \n De acuerdo con una investigación de Cybersecurity Workforce Study (2018), existe un déficit de más de cien mil profesionales con competencias para proteger los sistemas informáticos de instituciones públicas y privadas en América Latina y el Caribe, y se tiene previsto que este siga en aumento. \n Este curso ofrecido por la Universidad Carlos III de Madrid y el Banco Interamericano de Desarrollo (BID), presenta una introducción a la ciberseguridad desde diferentes aspectos de esta disciplina. \n Aprenderás cuáles son las principales amenazas de seguridad cibernética existentes y cómo protegerte contra ellas desde un enfoque práctico, en el que se proporciona el material necesario para comprender mejor los ataques y establecer contramedidas apropiadas. \n Impartido por instructores con años de experiencia en el campo de la seguridad informática, este curso allanará el camino hacia el área de seguridad de las profesiones relacionadas con tecnologías de la información (TI). \n Los estudiantes que obtengan el certificado en este curso también recibirán una insignia digital. Las insignias digitales te permiten compartir fácilmente, y de forma más confiable, las habilidades o el conocimiento adquirido. \n Para más informaciones sobre las insignias digitales, visitar el sitio  https://cursos.iadb.org/es/indes/credenciales-digitales .",
+  "learning_goals": [
+    "Computer Security",
+    "Research",
+    "Information Technology",
+    "Cyber Security"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 5-7 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "lorena-gonzalez-manzano-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jose-maria-de-fuentes-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "juan-e-tapiador-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "pedro-peris-lopez-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "arturo-ribagorda-garnacho",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Inter-American Development Bank"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 311,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

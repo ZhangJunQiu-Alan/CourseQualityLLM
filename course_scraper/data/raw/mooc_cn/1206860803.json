@@ -1,0 +1,31 @@
+{
+  "course_id": "1206860803",
+  "platform": "mooc_cn",
+  "title": "MATLAB语言基础",
+  "description": "“MATLAB语言基础”是一门计算机语言课程，其应用广泛，无论是科学计算，还是数据可视化以及交互式的程序设计，都可以用它实现，所以该语言适用于几乎所有专业，是当代大学生、研究生以及科研工作者进行科学研究和工程计算必须掌握的数学软件。本门课程以基本知识讲解并配以程序演示的方式呈现给大家。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206860803",
+  "instructors": [
+    {
+      "name": "俎云霄",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 83893,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206575805",
+  "platform": "mooc_cn",
+  "title": "计算机操作系统",
+  "description": "Windows、Linux、Andriod、iOS，以及Deepin、鸿蒙、OpenEuler等，都是操作系统。你几乎每天都在使用操作系统，可是你有没有想过，操作系统是如何设计实现出来的呢？本课程将带你深入剖析操作系统各个管理模块的功能设理念和实现要点，引导你从操作系统的使用者一步步进阶为操作系统的设计开发者。本课程为国家级线下一流课程、山东省线下一流课程、山东省课程思政示范课程、主讲教师孙英华教授是山东省教学名师、获得全国高校教师数智教育创新大赛一等奖、山东省教师教学创新大赛一等奖等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206575805",
+  "instructors": [
+    {
+      "name": "孙英华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "青岛大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22012,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

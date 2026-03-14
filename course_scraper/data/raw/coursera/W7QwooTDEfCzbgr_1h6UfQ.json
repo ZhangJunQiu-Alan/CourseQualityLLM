@@ -1,0 +1,26 @@
+{
+  "course_id": "W7QwooTDEfCzbgr_1h6UfQ",
+  "platform": "coursera",
+  "title": "Google Vids で魅力的な動画を作成",
+  "slug": "google-vids-ja",
+  "description": "\"このコースでは、一部の Google Workspace ユーザーが利用できるオンラインの動画制作および編集アプリ、Google Vids について学びます。レッスンとデモを通じて、職場で動画を通じて魅力的なストーリーを作成し伝える方法を学びます。また、メディア、音声、動画クリップをシームレスに取り込む、スタイルをカスタマイズする、作成した動画を簡単に共有するといった方法も学べます。\n\nGoogle Vids の一部の機能では、作業効率を高めるために生成 AI を使用しています。Gemini を含む生成 AI ツールは不正確または不適切な情報を示す場合があるため、Gemini 機能を医療、法律、金融、またはその他の専門的な助言として利用しないでください。また、Gemini 機能による提案は Google の見解を述べるものではなく、Google に帰属するものでもないことにもご留意ください。\"",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/google-vids-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

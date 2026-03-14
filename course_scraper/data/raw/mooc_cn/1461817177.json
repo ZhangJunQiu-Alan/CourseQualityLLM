@@ -1,0 +1,31 @@
+{
+  "course_id": "1461817177",
+  "platform": "mooc_cn",
+  "title": "普通物理热学",
+  "description": "本课程主要面向物理学专业、应用物理学专业、理科大类相关专业的本科生开设。本课程从宏观角度介绍热力学第零定律、热力学第一定律和热力学第二定律等热力学的主要内容；从微观角度介绍气体动理论内容；最后简单介绍当热力学系统偏离平衡态时向平衡态转化的输运过程，最后介绍相变。重点突出知识从无到有的创造过程中蕴含的创新性思维，特别展现科学工作者独特的科学素养和品质。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461817177",
+  "instructors": [
+    {
+      "name": "李元昌;李军刚;吕勇军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5960,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

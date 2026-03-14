@@ -1,0 +1,31 @@
+{
+  "course_id": "1205983805",
+  "platform": "mooc_cn",
+  "title": "汽车电子学",
+  "description": "随着现代汽车行业的不断发展，人们对汽车的要求也不断增多，汽车每一个课题的研究都离不开汽车电子，70%的创新技术都集中在汽车电子上。《汽车电子》，以现代汽车电子控制技术为重点，系统地介绍了车用传感器、发动机电控系统，防滑系统、电控转向系统等汽车电子系统的组成、原理和特性。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205983805",
+  "instructors": [
+    {
+      "name": "王典",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12095,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

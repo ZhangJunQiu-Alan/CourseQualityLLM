@@ -1,0 +1,31 @@
+{
+  "course_id": "1470429180",
+  "platform": "mooc_cn",
+  "title": "新能源材料与表征技术",
+  "description": "人类一直在不懈寻找能源的踪迹。我们从自然界的各个角落不断获取能源，包括石油、煤炭、天然气等传统一次能源，以及风能、太阳能、地热能等洁净新能源。然而，即便是如此多样的能源，仍无法完全满足人类的需求。《新能源材料与表征技术》课程应运而生，是对能源挑战的回应，反映了人类对能源的持续探索和科技的进步。这门课程不仅传授了新能源材料和表征的基础知识，还融入了中国工程院吴锋院士和长江学者陈人杰教授团队的研究成果。学生们将有机会深入了解新能源的发展历程，欣赏锂离子电池、燃料电池和太阳电池等先进技术的精妙之处，学习探索物质微观世界的先进材料表征技术，从而深入了解新能源领域的前沿技术和挑战。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470429180",
+  "instructors": [
+    {
+      "name": "陈人杰;赵利媛;赵腾;陈楠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2433,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

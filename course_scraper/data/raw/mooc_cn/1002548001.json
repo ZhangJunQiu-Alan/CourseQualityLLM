@@ -1,0 +1,31 @@
+{
+  "course_id": "1002548001",
+  "platform": "mooc_cn",
+  "title": "传感技术及应用",
+  "description": "本课程为普通高等教育国家级规划教材《传感器》团队倾心打造，主讲人是本教材主编张晓琳老师。课程按照传感器工作原理分章，条理清晰，内容丰富，适合工科相关专业本科生和研究生学习，也可供相关领域工程技术和研究人员参考。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002548001",
+  "instructors": [
+    {
+      "name": "张晓琳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 38934,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

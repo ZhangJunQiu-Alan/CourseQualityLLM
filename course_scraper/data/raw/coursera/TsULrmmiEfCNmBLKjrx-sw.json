@@ -1,0 +1,31 @@
+{
+  "course_id": "TsULrmmiEfCNmBLKjrx-sw",
+  "platform": "coursera",
+  "title": "Practical Windows PowerShell Scripting: Unit 3",
+  "slug": "pearson-practical-windows-powershell-scripting-unit3",
+  "description": "This course covers PowerShell's capabilities, starting with server management and extending to advanced GUI creation. You'll learn about remote server management, enabling you to execute commands and compile data seamlessly across multiple systems. Dive into Active Directory management, where you'll learn to create, modify, and query user accounts and groups. Harness the power of PowerShell as a reporting engine to generate custom reports in various formats, including CSV, text, and HTML, complete with advanced formatting. Additionally, explore the latest features of PowerShell 7, such as pipeline chain operators and parallelization, to enhance your scripting efficiency. By the end of this course, you'll be equipped to create intuitive GUI interfaces, manage servers remotely, and generate insightful reports, all while leveraging the latest PowerShell advancements.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "6 hours 15minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-practical-windows-powershell-scripting-unit3",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Brien Posey",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

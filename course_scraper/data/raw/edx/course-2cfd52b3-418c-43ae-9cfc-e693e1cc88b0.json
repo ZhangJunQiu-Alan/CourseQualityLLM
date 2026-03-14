@@ -1,0 +1,39 @@
+{
+  "course_id": "course-2cfd52b3-418c-43ae-9cfc-e693e1cc88b0",
+  "platform": "edx",
+  "title": "The Essentials of Data Literacy Online Course",
+  "description": "Learn data literacy online using R programming \n What is data literacy and why is it important? In this data literacy course, you will learn how to become data literate. This will be accomplished by performing data analysis, data visualization, and communicating with data, using real datasets and examples that are relevant to a variety of audiences and academic disciplines. Data is part of every field, but not everyone has had the opportunity to gain the skills necessary to find the data they need and use it in ways that add to their work. Whether you are in public health, healthcare, banking, law, education, graduate school, or a variety of other fields, there is a way to understand and make use of related data.  \n Earn your data literacy certificate online \n This free four-week course will give you the opportunity to build and leverage your data skills for upward mobility at any stage in your career. It will take you through the six steps of the data lifecycle, using different case studies and contexts, and teach you how to analyze, manage, and communicate data, working in R to achieve basic R programming competencies. R is a statistical programming language that is a great resource to analyze data, manage data, and visualize data. \n No experience is required to learn this in-demand skill. By the end of this data literacy training course, you will be able to identify key principles of data analysis, use critical thinking skills, and become proficient in building powerful visuals. If you are interested in building a career in data analytics, first learning these foundational lessons is vital. \n  Photo by NASA on Unsplash",
+  "learning_goals": [
+    "Critical Thinking",
+    "Data Auditing",
+    "Data Analysis",
+    "Data Literacy",
+    "Statistical Programming",
+    "Communications",
+    "R (Programming Language)",
+    "Data Visualization"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "che-smith-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Davidson College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 613,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

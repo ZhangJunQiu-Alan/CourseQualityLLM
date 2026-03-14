@@ -1,0 +1,26 @@
+{
+  "course_id": "Z9NjLBpLEe6d2ArZyo781Q",
+  "platform": "coursera",
+  "title": "Introduction to Large Language Models - Français",
+  "slug": "introduction-to-large-language-models-fr",
+  "description": "Ce cours de micro-apprentissage, qui s'adresse aux débutants, explique ce que sont les grands modèles de langage (LLM). Il inclut des cas d'utilisation et décrit comment améliorer les performances des LLM grâce au réglage des requêtes. Il présente aussi les outils Google qui vous aideront à développer votre propre application d'IA générative.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/introduction-to-large-language-models-fr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

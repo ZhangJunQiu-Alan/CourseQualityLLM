@@ -1,0 +1,31 @@
+{
+  "course_id": "1465145161",
+  "platform": "mooc_cn",
+  "title": "大学生实用快速阅读术",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465145161",
+  "instructors": [
+    {
+      "name": "简兮课堂",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "MOOC考培"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 544,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

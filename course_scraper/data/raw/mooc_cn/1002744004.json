@@ -1,0 +1,31 @@
+{
+  "course_id": "1002744004",
+  "platform": "mooc_cn",
+  "title": "计算机网络实验",
+  "description": "本课程为计算机专业实践类课程，配合计算机网络原理课程，通过实验加深理解和巩固所学的理论知识，并提高学生的动手能力、工程实践能力和综合应用能力。课程将MOOC的先进教学理念应用于计算机网络实验教学，探索计算机硬件类实验课程的MOOC教学新模式。针对学员反映没有实验教材的问题，已在高教书苑网站发布教材在线阅读版本。同时，部分转码压缩后不清晰的实验操作录屏视频已更新，再结合电子版教材上的组网图和配置命令，此问题也基本解决。课程大部分实验已发布华为eNSP网络模拟软件实验最终文件及说明，方便大家预习、复习和提高学习效率。针对在线实验的实时交流和在线答疑需求，课程专门创建了微信群。每天上午、下午和晚上，都专门安排了教师和助教远程在线答疑。大家可以添加微信号：yytwozhang（请注明MOOC学员），我们来邀请各位入群。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002744004",
+  "instructors": [
+    {
+      "name": "张力军;张亮;焦福菊;刘艳芳;吴秀娟;谷云超;吕良双",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 42887,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "course-ab62c5b3-54b0-462c-95f5-531de5c6eefc",
+  "platform": "edx",
+  "title": "Power Automate: Automate a business process",
+  "description": "You will learn the fundamentals of Power Automate, enabling you to design, build, and implement automated workflows. Key concepts include understanding how to trigger flows, use connectors to integrate with various services, and manipulate data within your automated processes. You'll also develop skills in identifying manual tasks suitable for automation and creating efficient, error-free workflows to streamline operations and improve productivity.",
+  "learning_goals": [
+    "Workflow Automation",
+    "Automation",
+    "Microsoft Power Automate/Flow",
+    "Workflow Management",
+    "Business Process",
+    "Operations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 550,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

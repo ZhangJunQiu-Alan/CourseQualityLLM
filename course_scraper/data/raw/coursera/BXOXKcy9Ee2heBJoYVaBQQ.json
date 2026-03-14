@@ -1,0 +1,31 @@
+{
+  "course_id": "BXOXKcy9Ee2heBJoYVaBQQ",
+  "platform": "coursera",
+  "title": "Introducción al deep learning contemporáneo",
+  "slug": "introduccion-al-deep-learning-contemporaneo",
+  "description": "El aprendizaje profundo actualmente es una parte central de la inteligencia artificial contemporánea, y se refiere al proceso realizado por los computadores para aprender de la experiencia permitiendo describir abstracciones complejas a partir de conceptos más simples de forma jerárquica. Este curso presenta una introducción al aprendizaje profundo, centrándose en los métodos más utilizados en diferentes contextos y tipos de datos. A lo largo del curso se estudiarán arquitecturas como redes neuronales artificiales, redes neuronales convolucionales, redes neuronales recurrentes, Transformers para lenguaje y para visión y redes generativas como las redes generativas adversarias y los modelos de difusión. Este es el único curso en español disponible en la plataforma que habla de las más recientes arquitecturas de aprendizaje profundo, como lo son los Transformers para visión.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "12 horas semanales",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/introduccion-al-deep-learning-contemporaneo",
+  "instructors": [
+    {
+      "name": "Luis Felipe Giraldo Trujillo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Pablo Andrés Arbeláez Escalante",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad de los Andes"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

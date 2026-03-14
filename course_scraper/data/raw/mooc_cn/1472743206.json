@@ -1,0 +1,31 @@
+{
+  "course_id": "1472743206",
+  "platform": "mooc_cn",
+  "title": "电路（下）",
+  "description": "亲爱的同学们：欢迎来到《电路（下）》课程的学习之旅！在《电路（上）》课程中，我们已经对电路的基本概念、基本定律以及直流电路和简单交流电路的分析方法有了深入的了解。而《电路（下）》课程将在此基础上进一步拓展和深化，带你进入更加复杂、更具挑战性但也更加精彩的电路世界。这门课程将为你打开通往高级电路分析、电子系统设计以及现代电气工程应用的大门，是你们专业成长道路上不可或缺的重要一环",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472743206",
+  "instructors": [
+    {
+      "name": "冯瑞珏;李杰辉;曾丽萍;陈芷筠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "广州城市理工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2894,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

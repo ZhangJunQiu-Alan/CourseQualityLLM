@@ -1,0 +1,37 @@
+{
+  "course_id": "course-40e02c86-a59c-4e18-886a-a6d6e75aa081",
+  "platform": "edx",
+  "title": "Data Representation and Visualization in Tableau",
+  "description": "Use Tableau to explore data and discover insights to innovate data-driven decision-making.  \n Employer demand for Tableau skills will grow 35% over the next 10 years. Whether you are in a data-centric role or just need to add data skills to take your job or career to the next level, this course will provide the foundation and skills to get started using one of today’s most impactful data visualization tools.  \n You will learn the basics of data representation and data visualization, and then explore the various elements of graphical representation. You will practice creating Tableau representations using your data sources to visually communicate insights.  \n Together we will discuss examples and cases of visual representations, assessing accuracy and identifying any misrepresentations, and ultimately evaluate decisions and solutions based on data visualizations.  \n You will gain foundational skills for using tableau desktop’s drag and drop functions. You will learn how to create commonly used data representations to help visualize data.",
+  "learning_goals": [
+    "Graphic Communication",
+    "Drag And Drop",
+    "Tableau (Business Intelligence Software)",
+    "Decision Making",
+    "Data Visualization",
+    "Data-Driven Decision-Making"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "daniel-moscoe-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Rochester Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 358,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

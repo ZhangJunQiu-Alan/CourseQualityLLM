@@ -1,0 +1,31 @@
+{
+  "course_id": "1463185162",
+  "platform": "mooc_cn",
+  "title": "宏观经济学",
+  "description": "北京市青年教学名师、中央财经大学教授、博士生导师张苏教授给你讲授深刻、精彩的中级宏观经济学！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463185162",
+  "instructors": [
+    {
+      "name": "张苏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中央财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35129,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

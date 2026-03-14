@@ -1,0 +1,26 @@
+{
+  "course_id": "NEMPQKWKEeis9hK3qadDqA",
+  "platform": "coursera",
+  "title": "Elastic Cloud Infrastructure: Scaling and Automation en Español",
+  "slug": "gcp-infrastructure-scaling-automation-es",
+  "description": "En este curso acelerado a pedido, se presentan los servicios flexibles y completos de infraestructura y plataforma que proporciona Google Cloud. A través de una combinación de clases por video, demostraciones y labs prácticos, los participantes exploran y, también, implementan elementos de las soluciones, como la interconexión segura de redes, el balanceo de cargas, el ajuste de escala automático, la automatización de la infraestructura y los servicios administrados.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 semana de estudio, entre 7 y 9 horas semanales",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-es",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

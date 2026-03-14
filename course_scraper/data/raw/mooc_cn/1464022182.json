@@ -1,0 +1,31 @@
+{
+  "course_id": "1464022182",
+  "platform": "mooc_cn",
+  "title": "PCB设计及应用",
+  "description": "《PCB设计及应用》是电子信息工程技术专业核心课程，本课程以Altium Designer电路设计软件为平台，培养学生掌握软件的使用方法，进行原理图绘制、原理图库元件创建、PCB封装创建、单面PCB设计、双面PCB设计以及四层PCB的设计方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464022182",
+  "instructors": [
+    {
+      "name": "国佳;陈强;秦拥军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8161,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

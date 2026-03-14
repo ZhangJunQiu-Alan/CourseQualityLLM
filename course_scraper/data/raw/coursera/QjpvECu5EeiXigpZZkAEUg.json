@@ -1,0 +1,26 @@
+{
+  "course_id": "QjpvECu5EeiXigpZZkAEUg",
+  "platform": "coursera",
+  "title": "Introduction to Cloud Identity",
+  "slug": "cloud-identity",
+  "description": "Introduction to Cloud Identity serves as the starting place for any new Cloud Identity, Identity/Access Management/Mobile Device Management admins as they begin their journey of managing and establishing security and access management best practices for their organization.  This 15-30 hour accelerated, one-week course will leave you feeling confident to utilize the basic functions of the Admin Console to manage users, control access to services, configure common security settings, and much more.\n\nThrough a series of introductory lessons, step-by-step hands-on exercises, Google knowledge resources, and knowledge checks, learners can expect to leave this training with all of the skills they need to get started as new Cloud Identity Administrators.\n\nLearning Objectives\n\nBy the end of this course participants will be able to:\n• Establish a Cloud Identity domain for their organization or personal domain. \n• Add users in order to practice user lifecycle management.\n• Modify user permissions to gain an understanding of core Cloud Identity features.\n• Add mobile devices within the Google Mobile Management module.\n• Modify mobile management policy sets to gain familiarity with product options.\n• Navigate the Reports module, and practice running reports.\n• Explore and apply different security protocols to the domain.\n\nIMPORTANT - Before you enroll, you should be prepared to:\n\n• Sign up for a free 14 day trial of Cloud Identity.  You will need to enter payment method information.  We will show you step-by-step how to cancel your account if you wish to end your Cloud Identity instance at the end of training and avoid being charged.\n• Purchase a new domain or use one that you already own. The domain you use IS NOT included as part of the Cloud Identity trial.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 week of study 15-30 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cloud-identity",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

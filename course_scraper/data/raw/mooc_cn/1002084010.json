@@ -1,0 +1,31 @@
+{
+  "course_id": "1002084010",
+  "platform": "mooc_cn",
+  "title": "电路",
+  "description": "让我们一起，共同领略电路之美、电路之趣、电路之易。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002084010",
+  "instructors": [
+    {
+      "name": "叶晶晶;黄辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 67187,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

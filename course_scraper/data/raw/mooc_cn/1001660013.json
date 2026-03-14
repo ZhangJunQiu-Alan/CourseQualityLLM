@@ -1,0 +1,31 @@
+{
+  "course_id": "1001660013",
+  "platform": "mooc_cn",
+  "title": "数据结构",
+  "description": "如果说C语言只教您基本驾驶（编程）技术，那么数据结构课程则教您漂移、飞跃、侧驶…（编写高质量程序），和挑选、修理、改装、设计汽车。数据结构课程就像杂草丛中的青蒿，庄稼地里的红高粱，说不定因此给您带来“诺贝尔”奖，助您从生（学生）到猿（程序员），从猿到狮（算法大师）。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001660013",
+  "instructors": [
+    {
+      "name": "陈卫卫;唐艳琴;吴永芬;李清;袁恩",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国人民解放军陆军工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 125767,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

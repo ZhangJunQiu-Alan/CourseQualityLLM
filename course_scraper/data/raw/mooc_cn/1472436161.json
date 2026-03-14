@@ -1,0 +1,31 @@
+{
+  "course_id": "1472436161",
+  "platform": "mooc_cn",
+  "title": "人工智能通识与实践",
+  "description": "◆ 课程讲授计算机视觉、语音处理、自然语言处理、智能机器人、机器学习与深度学习算法等关键技术，并配备相关实验。 ◆ 通识篇介绍人工智能技术的入门普及部分。 ◆ 利用生成式人工智能技术进行AIGC的实践，开展文章撰写与润色等文本生成与创作工作。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472436161",
+  "instructors": [
+    {
+      "name": "娄琼丹;邓赵红;史荧中;左云;宁乔;桑庆兵;张炜;卞则康",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4550,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

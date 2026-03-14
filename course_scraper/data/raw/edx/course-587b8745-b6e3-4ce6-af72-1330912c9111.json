@@ -1,0 +1,37 @@
+{
+  "course_id": "course-587b8745-b6e3-4ce6-af72-1330912c9111",
+  "platform": "edx",
+  "title": "Foundations of RISC-V Assembly Programming",
+  "description": "A basic understanding of the assembly language with RISC-V is vital for hardware-related programming. Tasks like debugging and identifying performance-critical program sections are easier to achieve with the foundations of Assembly. \n This course is designed for software developers who want to understand what instructions a RISC-V microprocessor finally executes for any software running on it. While this is an introductory course, developers should have a basic understanding of programming concepts and methodologies in order to benefit from the course material.",
+  "learning_goals": [
+    "Debugging",
+    "Reduced Instruction Set Computing",
+    "Microprocessor",
+    "Software Development",
+    "Assembly Language",
+    "Programming Concepts"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "matthias-koenig",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Linux Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 435,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

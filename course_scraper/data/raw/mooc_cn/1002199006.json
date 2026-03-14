@@ -1,0 +1,31 @@
+{
+  "course_id": "1002199006",
+  "platform": "mooc_cn",
+  "title": "理论力学",
+  "description": "长安大学理论力学课程为陕西省精品资源共享课、省级线上线下混合一流课程、省级课程思政示范课、校级智慧课程，主讲教师均为省级课程思政示范课程教学团队——长安大学理论力学教学团队的骨干成员。本课程内容满足教育部基础课程教指委编制的高等学校工科理论力学课程教学基本要求。本课程教学资源适用于高等工科院校力学、机械、土木、航空航天、交通运输、能源动力等专业54—72学时的理论力学课程教学，也可供相关工程技术人员及考研学生学习参考。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002199006",
+  "instructors": [
+    {
+      "name": "拓宏亮;王慧;刘兰亭;商泽进;孙威;刘雪梅;马维力;赵建华;张浪渟;高磊;董健涛;梁佳宇;丁四海",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长安大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17960,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001807014",
+  "platform": "mooc_cn",
+  "title": "数字信号处理",
+  "description": "数字信号处理是电子信息类专业的专业基础课。本课程以信号分解、系统描述为主线，结合计算机、DSP、FPGA等数字系统实现，讲解离散时间信号与系统理论基础、数字滤波器设计与实现、数字频谱分析；制作了图片、知识导图，辅助学习；此外，给出了科学计算软件/DSP/FPGA等实例，巩固基础理论、提升工程能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001807014",
+  "instructors": [
+    {
+      "name": "张玉玺;王俊;雷鹏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 96575,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

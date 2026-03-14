@@ -1,0 +1,26 @@
+{
+  "course_id": "HmZsVwCDEfCehwr_ziEUiw",
+  "platform": "coursera",
+  "title": "Java Control Flow, IDE, and Object-Oriented Programming",
+  "slug": "packt-java-control-flow-ide-and-object-oriented-programming-tbejc",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach! \n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.  \n\nThis course offers an in-depth exploration of Java, starting from the fundamentals and advancing to more complex topics. Through hands-on exercises and examples, you will master Java programming, focusing on key elements like control structures, methods, and development environments. By the end, you’ll be able to write and debug your own Java programs with confidence.\n\nThe journey begins with a thorough introduction to Integrated Development Environments (IDEs), focusing on IntelliJ IDEA, one of the most powerful and widely used IDEs for Java development. You’ll learn how to install and navigate the IDE and explore its functionalities to streamline your coding experience. From there, the course dives into Java’s syntax, including conditional statements, logical operators, and comparison operators, each accompanied by practical exercises to reinforce learning.\n\nAs you progress, you’ll work through expressions, statements, and control flow mechanisms in Java, such as the switch statement, loops, and debugging techniques. The course also introduces you to more advanced concepts like method overloading, nested control structures, and parsing user input. You will gain hands-on experience with Java’s various control flow constructs, which are essential for building dynamic, interactive applications.\n\nThis course is ideal for aspiring Java developers, beginners, and intermediate learners who wish to strengthen their programming skills. No prior knowledge of Java is required, but familiarity with basic programming principles will be beneficial. You will emerge from this course with a solid foundation in Java, ready to tackle real-world projects and further your development career.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-java-control-flow-ide-and-object-oriented-programming-tbejc",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

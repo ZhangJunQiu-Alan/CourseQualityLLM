@@ -1,0 +1,31 @@
+{
+  "course_id": "1003240002",
+  "platform": "mooc_cn",
+  "title": "书法欣赏",
+  "description": "该课程系统、全面，图文并茂地讲授和演示中国书法欣赏的有关知识和技法，有文字演变常识、字体书体介绍、书法史演变、经典作品鉴赏、书法家故事、书法技法演示等，集书法艺术的用笔、结构、章法、墨法与一体，综合性极强，具有知识性、资料性、丰富性、趣味性等特点。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003240002",
+  "instructors": [
+    {
+      "name": "倪文东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48932,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

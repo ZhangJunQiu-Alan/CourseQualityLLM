@@ -1,0 +1,31 @@
+{
+  "course_id": "1458187167",
+  "platform": "mooc_cn",
+  "title": "机器人技术",
+  "description": "机器人很有趣，您是否关心机器人的系统构成？机器人能怎么运动？为什么能这样运动？机器人能承受多少载荷？为什么能承受这些载荷？这些问题是设计和研究机器人的基础，《机器人技术》与您一起开启机器人学习和创造之旅。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458187167",
+  "instructors": [
+    {
+      "name": "李二伟;边辉;李姿葳;许允斗;赵延治;陈子明;李艳文;杨慧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "燕山大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19778,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

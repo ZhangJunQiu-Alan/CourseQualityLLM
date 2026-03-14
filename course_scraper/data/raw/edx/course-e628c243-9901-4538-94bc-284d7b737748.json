@@ -1,0 +1,40 @@
+{
+  "course_id": "course-e628c243-9901-4538-94bc-284d7b737748",
+  "platform": "edx",
+  "title": "Monetary and Financial Statistics",
+  "description": "This course, presented by the Statistics Department, provides participants with an introduction to the compilation of monetary statistics covering the central bank (CB), other depository corporations (ODCs) and other financial corporations (OFCs) in accordance with international statistical standards. Course materials are based on the 2016 Monetary and Financial Statistics Manual and Compilation Guide (MFSMCG). The course discusses the principles of residency and sectoring of institutional units, the characteristics and types of financial instruments, valuation principles, and other accounting issues that are relevant to the compilation of monetary statistics. Participants will also become familiar with the defining characteristics of depository corporations (DCs), notably their role as money issuers, and with the main principles on which analysis of monetary and credit aggregates is based. They will also gain a deeper understanding of the OFCs sector and their relevance for compiling a broader and often more reliable measure of the liquidity available in an economy and financing extended to the nonfinancial sectors and nonresidents by the financial corporations.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "bidisha-das-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "padma-sandhya-hurree-gobin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "darja-milic",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 490,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

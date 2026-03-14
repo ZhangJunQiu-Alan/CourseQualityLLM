@@ -1,0 +1,31 @@
+{
+  "course_id": "1466067191",
+  "platform": "mooc_cn",
+  "title": "光学薄膜与制备技术",
+  "description": "光学薄膜的发展极大地促进了现代光学仪器性能的提高，光学薄膜器件已经广泛应用到光通信技术、光伏产业技术、激光技术、光刻技术、航空航天技术等诸多领域。可以说：没有光学薄膜技术的发展，就没有现代光学仪器和测控技术的发展。掌握光学薄膜特性计算方法，设计光学薄膜系统，熟悉薄膜制备技术，理解薄膜生长物理机制及其性能指标，已成为在微电子、通信、航天、新材料等高新技术产业和科研单位工作的必要条件。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466067191",
+  "instructors": [
+    {
+      "name": "王月花;张荣;贾传磊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国矿业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2299,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206300836",
+  "platform": "mooc_cn",
+  "title": "轻松学BIM",
+  "description": "《轻松学BIM》课程是由江西财经大学旅游与城市管理学院工程管理教学团队精心制作完成，课程以Revit与Navisworks软件为操作平台，采用“理论剖析+项目实战+技巧提升”的教学方式，以实际项目为例，全面系统地介绍BIM在工程建设领域的应与实践。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206300836",
+  "instructors": [
+    {
+      "name": "殷乾亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江西财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36247,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

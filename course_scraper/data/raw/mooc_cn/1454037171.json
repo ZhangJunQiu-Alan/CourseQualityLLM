@@ -1,0 +1,31 @@
+{
+  "course_id": "1454037171",
+  "platform": "mooc_cn",
+  "title": "数控机床应用",
+  "description": "本课程以工作过程为导向，引导学生在实现工作任务的过程中掌握数控加工工艺、编程及机床操作技术，同时获得必要的理论知识；通过本课程的学习，使学生熟悉数控机床的基本组成和工作原理，了解数控机床的基本机械结构、传动部件、主轴部件，掌握数控机床的编程和操作。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1454037171",
+  "instructors": [
+    {
+      "name": "徐炜波;李玉炜;刘杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "深圳职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4063,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "Tq_sjE-_EeiNBQqYqBGpZg",
+  "platform": "coursera",
+  "title": "Google Cloud Fundamentals: Core Infrastructure en Français",
+  "slug": "gcp-fundamentals-fr",
+  "description": "Le cours \"Google Cloud Fundamentals: Core Infrastructure\" présente les concepts et les termes à connaître pour utiliser Google Cloud. À travers des vidéos et des ateliers pratiques, il décrit et compare la plupart des services Google Cloud de calcul et de stockage, ainsi que des outils importants de gestion des ressources et des règles.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "Une semaine de formation, six à dix heures par semaine",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/gcp-fundamentals-fr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

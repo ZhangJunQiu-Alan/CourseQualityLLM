@@ -1,0 +1,30 @@
+{
+  "course_id": "course-494f368e-13b6-48f6-bf5b-83f15ca0438f",
+  "platform": "edx",
+  "title": "Digital Forensics Essentials (DFE)",
+  "description": "The rapid evolution of computers has brought technical devices as an active weapon to criminals. Cybercriminals have enjoyed the pleasure of being able to combine a large array of complex technologies to be successful in their mission. Due to the complexity of the attack, investigating a crime in the cyber world has become increasingly difficult to do.    \n Computer forensics is the process of detecting hacking attacks and properly extracting evidence to report the crime and conducting audits to prevent the future attacks. It is used in different types of investigations like crime and civil investigation, corporate litigation, cybercrime etc. It plays a vital role in the investigation and prosecution of cybercriminals. It refers to a set of methodological procedures and techniques to identify, gather, preserve, extract, interpret, document, and present evidence from computing equipment so that the discovered evidence can be used during a legal and/or administrative proceeding in a court of law. Evidence might be sought in a wide range of computer crime or misuse, including but not limited to theft of trade secrets, theft of or destruction of intellectual property, and fraud.   \n Digital Forensics Essentials (DFE) is a security program covering the fundamental concepts of computer forensics. It equips students with the skills required to identify an intruder’s footprints and to properly gather the necessary evidence to prosecute in a court of law.   \n This program will give a holistic overview of the key components of computer forensics. It provides a solid fundamental knowledge required for a career in computer forensics.   \n Why is DFE Important?   \n §  It facilitates your entry into the world of computer forensics    \n §  It provides a professional understanding of the concepts of computer forensics    \n §  It enhances your skills as a Computer Forensics Specialist and increases your employability",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 16-24 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "kevin-king",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EC-Council"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 792,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

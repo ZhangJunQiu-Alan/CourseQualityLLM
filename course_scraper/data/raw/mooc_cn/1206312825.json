@@ -1,0 +1,31 @@
+{
+  "course_id": "1206312825",
+  "platform": "mooc_cn",
+  "title": "教你选择医学影像检查方式-医学影像原理与设备",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206312825",
+  "instructors": [
+    {
+      "name": "李文",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "广西医科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30777,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

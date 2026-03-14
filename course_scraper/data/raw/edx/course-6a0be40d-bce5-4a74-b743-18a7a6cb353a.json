@@ -1,0 +1,40 @@
+{
+  "course_id": "course-6a0be40d-bce5-4a74-b743-18a7a6cb353a",
+  "platform": "edx",
+  "title": "Probability and Statistics III:  A Gentle Introduction to Statistics",
+  "description": "This course provides an introduction to basic statistical concepts. \n We begin by walking through a library of probability distributions, where we motivate their uses and go over their fundamental properties.  \nThese distributions include such important folks as the Bernoulli, binomial, geometric, Poisson, uniform, exponential, and normal distributions, just to name a few. Particular attention is paid to the normal distribution, because it leads to the Central Limit Theorem (the most-important mathematical result in the universe, actually), which enables us to make probability calculations for arbitrary averages and sums of random variables. \n We then discuss elementary descriptive statistics and estimation methods, including unbiased estimation, maximum likelihood estimation, and the method of moments – you gotta love your MoM! Finally, we describe the t, X2, and F sampling distributions, which will prove to be useful in upcoming statistical applications.",
+  "learning_goals": [
+    "Random Variables",
+    "Probability Distribution",
+    "Maximum Likelihood",
+    "Statistics",
+    "Normal Distribution",
+    "Probability",
+    "Probability And Statistics",
+    "Basic Math",
+    "Sampling (Statistics)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 6-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-goldsman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 274,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

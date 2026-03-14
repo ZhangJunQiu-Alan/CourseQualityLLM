@@ -1,0 +1,31 @@
+{
+  "course_id": "1205829813",
+  "platform": "mooc_cn",
+  "title": "细胞生物学",
+  "description": ">是北京市精品课，国家双语示范课程，北京市优质本科课程，国家线上线下混合式一流本科课程，首师大课程思政示范课程。由首都师范大学李静教授(北大本科、耶鲁博士、北京市首届青年教学名师，北京市高校优秀专业课主讲教师)主讲。此课程是生命科学最重要的基础课程之一，现在就让我们开始进入神奇的细胞世界吧!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205829813",
+  "instructors": [
+    {
+      "name": "李静",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "首都师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18184,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

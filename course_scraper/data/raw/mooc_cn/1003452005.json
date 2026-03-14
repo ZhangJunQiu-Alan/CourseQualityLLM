@@ -1,0 +1,31 @@
+{
+  "course_id": "1003452005",
+  "platform": "mooc_cn",
+  "title": "电气与电子测量技术",
+  "description": "“电气与电子测量技术”是上海交通大学电气工程及其自动化本科专业的专业必修课之一，2017年入选上海市精品课程，2020年，电气与电子测量技术MOOC被认定为首批国家级一流在线开放课程，课程配套教材《电气与电子测量技术》（第3版）被评为“十四五”国家规划教材。本在线课程以数字化测量系统为主线，聚焦电气工程中的测量重点和难点，设计了极具特色的理论课教学和配套实验，内容丰富、精彩，主讲教师将20年的教学积累和盘托出，期待您的加入！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003452005",
+  "instructors": [
+    {
+      "name": "罗利文;徐青菁;李喆;朱荻彬;张君",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23145,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

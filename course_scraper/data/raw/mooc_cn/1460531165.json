@@ -1,0 +1,31 @@
+{
+  "course_id": "1460531165",
+  "platform": "mooc_cn",
+  "title": "城乡规划量化分析",
+  "description": "本课程主要介绍城乡规划量化模型的概念、软件和操作流程，以著名的世界文化遗产地鼓浪屿为实证案例，讲解数据的获取、分析过程、结果和讨论，从理论到实践，带领同学们掌握量化分析技能并提升量化思维能力。课程主要讲解数据统计基础知识、问卷数据量化整理、结构方程量化分析、要素聚类量化分析、语义差异量化分析、离散选择量化分析、手段目的量化分析、社会网络量化分析、空间统计量化分析、空间句法量化分析以及神经网络量化分析。本课程面向对象包括城乡规划、旅游管理、建筑、风景园林、社会学、管科科学等学生和在职人士。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460531165",
+  "instructors": [
+    {
+      "name": "李渊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "厦门大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3512,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

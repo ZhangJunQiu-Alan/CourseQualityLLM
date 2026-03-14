@@ -1,0 +1,39 @@
+{
+  "course_id": "course-9ed274f9-9db1-4e08-93a6-0fa07e684970",
+  "platform": "edx",
+  "title": "Introduction to Corporate Finance",
+  "description": "In this course, you will gain an understanding of time-honored financial concepts and rules, and how these can be applied to value firms, bonds, and stocks. \n We will cover the time value of money, cost of capital and capital budgeting. You will be using Excel for many process including valuing bonds and stocks, computing NPV and finding IRR. \n An introductory finance course that is required for all first-year MBA students at Columbia Business School, the course is taught by a world-class instructor, actively training the next generation of market leaders on Wall Street. \n Participants from all backgrounds will be prepared to participate on the ever-evolving financial playing field.",
+  "learning_goals": [
+    "Cost Of Capital",
+    "Master Of Business Administration (MBA)",
+    "Corporate Finance",
+    "Stocks (Finance)",
+    "Time Value Of Money",
+    "Capital Budgeting",
+    "Investments",
+    "Finance"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "daniel-wolfenzon",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Columbia University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7687,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

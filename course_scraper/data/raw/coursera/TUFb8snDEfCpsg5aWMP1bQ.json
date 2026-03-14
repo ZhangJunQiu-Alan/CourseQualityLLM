@@ -1,0 +1,26 @@
+{
+  "course_id": "TUFb8snDEfCpsg5aWMP1bQ",
+  "platform": "coursera",
+  "title": "Python for Google App Engine",
+  "slug": "packt-python-for-google-app-engine",
+  "description": "This course covers how to leverage Google App Engine to build and deploy scalable Python web applications. With practical tools and techniques, it equips developers to create cloud-based services and applications. Google App Engine’s infrastructure helps developers enhance their Python expertise and scale applications efficiently.\n\nLearners will gain hands-on experience in setting up backend services, managing data, and automating tasks on Google Cloud, offering real-world applications for cloud-based development. The course empowers developers to deploy applications rapidly and ensures they are scalable for the cloud.\n\nWhat sets this course apart is its focus on applying Google Cloud technologies directly to Python development. You’ll not only learn the theory but also put it into practice through real-world projects, ensuring a balanced mix of knowledge and skills.\n\nThis course is suitable for Python developers interested in building scalable web applications. No prior experience with web development is required, although a basic understanding of Python will be beneficial.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-python-for-google-app-engine",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "uFgnx8LgEeux9w57Jm7QdQ",
+  "platform": "coursera",
+  "title": "Traitement d'images : introduction au filtrage",
+  "slug": "moocimage-filtrage",
+  "description": "Ce MOOC sur le traitement d'images est à l’intersection de plusieurs domaines scientifiques et techniques : les mathématiques, la physique, l’informatique.\n\nDe la ligne de fabrication jusqu’au scanner médical en passant par les satellites. Les images nous servent à extraire des informations omniprésentes aujourd’hui. Elles doivent être systématiquement traitées pour s’affranchir des mauvaises conditions d’acquisition, afin d’isoler les objets pertinents et de les analyser.\n\nLes traitements présentés (filtrage , rehaussement, suppression du bruit) sont le point de départ de la chaîne d’analyse. Ils permettent par exemple le relevé des diagnostics en imagerie médicale, la détection de pièce défectueuse sur une ligne de production ou encore la reconnaissance des plaques d’immatriculation sur les radars.\n\nDans ce MOOC, vous prendrez connaissance des bases nécessaires en mathématiques et en informatique avec le langage Python. Vous apprendrez à manipuler les algorithmes et la programmation des opérations élémentaires du traitement d’images : charger et observer une image, analyser sa qualité, améliorer sa netteté et ses contrastes, ajouter du flou ou détecter des contours.\n\nPour suivre ce cours, des bases du langage de programmation Python sont nécessaires : boucles, opérateur logique, vectorisation des opérations , définition de fonction, tableaux et numpy.\n\nUne attestation de suivi avec succès est attribuée par Coursera aux apprenants réussissant à obtenir une note supérieure à 50 %.\n\nCe cours a été créé avec le soutien de la Fondation Patrick & Lina Drahi.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 semaines, 4h/semaine",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/moocimage-filtrage",
+  "instructors": [
+    {
+      "name": "Yann Gavet",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Vincent Mazet",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Institut Mines-Télécom"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

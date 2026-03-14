@@ -1,0 +1,71 @@
+{
+  "course_id": "course-a7b81597-0819-4c7e-bb96-d3681c702b1a",
+  "platform": "edx",
+  "title": "Financial Market Analysis",
+  "description": "In this IMFx course you will learn, from hands-on demonstrations, how to price different types of bonds, how to calculate different measures of bond yields and how to compare them across different types of instruments. You will become familiar with the term structure of interest rates, a key ingredient in establishing benchmark rates used to price securities in the markets and a valuable tool for monetary policy design and diagnosis. \n You’ll gain an understanding of the firm fundamentals that can explain why a stock price may go up or down, or why it might be higher for one company in comparison to another, you will be able to apply these fundamentals at the economy-wide level to analyze valuations of the stock market as a whole. \n Finally, you will gain insight into investors’ decisions. You’ll explore the main criteria that an investor uses to determine how to construct the best possible portfolio of risky assets. You will also adopt the perspective of a policymaker interested in understanding how monetary policy affects the risk and return properties of financial investments. \n In short, the FMAx course is designed to provide a common language in finance, thus allowing you to interpret and analyze financial data. It will also provide you with a foundation upon which you can proceed to more advanced or policy-oriented training in areas in which macroeconomics and finance meet. \n Financial Market Analysis is offered by the IMF with financial support from the Government of Japan.",
+  "learning_goals": [
+    "Demonstration Skills",
+    "Financial Analysis",
+    "Securities (Finance)",
+    "Finance",
+    "Financial Data Analysis",
+    "Financial Market",
+    "Stock Markets",
+    "Macroeconomics",
+    "Monetary Policies",
+    "Market Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "adolfo-barajas",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "evan-tanner",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "seung-mo-choi",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "fabio-comelli",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alex-ho",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "christian-johnson-0",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "francisco-vasquez",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1732,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

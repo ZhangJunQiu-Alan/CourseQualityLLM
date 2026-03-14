@@ -1,0 +1,31 @@
+{
+  "course_id": "1457985170",
+  "platform": "mooc_cn",
+  "title": "Medical Physiology",
+  "description": "You are a person, but also an extremely sophisticated machine. In your body, there are screws, parts, lubricants, electricity, they are systems, organs, tissues and cells in our body, they are all extremely important. Do you want to know how do they work for us? Please follow me!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1457985170",
+  "instructors": [
+    {
+      "name": "Linbo Yuan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Wenzhou Medical University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2787,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

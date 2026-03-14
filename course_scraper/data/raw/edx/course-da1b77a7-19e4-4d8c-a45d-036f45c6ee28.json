@@ -1,0 +1,55 @@
+{
+  "course_id": "course-da1b77a7-19e4-4d8c-a45d-036f45c6ee28",
+  "platform": "edx",
+  "title": "GIS Image Analysis in ArcGIS Pro",
+  "description": "Image analysis is the extraction of meaningful information from an image to accomplish a simple task like understanding the landscape or to solve a complex problem like face recognition. \n \n\nThis course is focused on image analysis and applications in the area of natural resource management, geography, geology, and environmental studies. Participants will use a variety of remotely sensed data including high resolution aerial photo of earth, Landsat and Terra MODIS satellite data to solve specific problems. \n \n\nLearners in this course will learn fundamentals of remote sensing, image processing, and image analysis. Learn image analysis in Esri ArcGIS Pro through hands-on exercises including image display, image interpretation, change detection using spectral indices, supervised and unsupervised image classification for land cover mapping, and effect of arctic warming on vegetation productivity. \n \n\nThe course features lessons covering GIS image analysis applications on real-world problems. \n \n\nVerified track learners will receive one-year ArcGIS Pro Desktop (Windows) license with support only for tools used in the course in addition to unlimited course access and a verified certificate. \n \n\nSign up for this online course or full GIS Essentials certificate today to expand your skill set in geographic information systems.",
+  "learning_goals": [
+    "Contextual Image Classification",
+    "Geography",
+    "Georeference",
+    "ArcGIS (GIS Software)",
+    "Image Resolution",
+    "Mapping",
+    "Geology",
+    "Remote Sensing",
+    "Geographic Information Systems",
+    "Digital Elevation Models",
+    "Image Processing",
+    "Image Analysis",
+    "Natural Resource Management",
+    "Environmental Studies"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "santosh-panda",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "anushree-badola",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "chris-smith",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Alaska Fairbanks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 408,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

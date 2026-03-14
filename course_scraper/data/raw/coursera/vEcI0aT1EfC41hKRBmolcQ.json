@@ -1,0 +1,26 @@
+{
+  "course_id": "vEcI0aT1EfC41hKRBmolcQ",
+  "platform": "coursera",
+  "title": "5G Open RAN Essentials: Architecture & Ecosystem Basics",
+  "slug": "5g-open-ran-essentials-architecture--ecosystem-basics",
+  "description": "5G Open RAN Essentials: Architecture & Ecosystem Basics is a hands-on course designed for engineers, analysts, and telecom professionals who want to understand the building blocks and business case behind Open RAN. You’ll start by exploring what sets Open RAN apart from traditional RAN—from modular architecture to open interfaces—using simple, visual walkthroughs.\n\nAs you move forward, you’ll dive into the core components of O-RAN—RU, DU, CU, and RIC—and learn how they work together to enable vendor interoperability and flexible deployments. Through real-world case studies, interactive labs, and industry-aligned design tasks, you’ll apply your learning in practical ways—from designing pilot architectures to making a strategic pitch for O-RAN adoption.\n\nBy the end, you’ll be able to confidently explain how Open RAN works, why it matters, and how it’s being deployed around the world to drive innovation, cost-efficiency, and supply chain diversity.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "30 mins/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/5g-open-ran-essentials-architecture--ecosystem-basics",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

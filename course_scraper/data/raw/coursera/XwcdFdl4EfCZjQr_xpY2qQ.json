@@ -1,0 +1,26 @@
+{
+  "course_id": "XwcdFdl4EfCZjQr_xpY2qQ",
+  "platform": "coursera",
+  "title": "Building RAG and MCP Servers with Claude",
+  "slug": "building-rag-and-mcp-servers-with-claude",
+  "description": "This course focuses on building reliable, production-ready AI systems using Claude, Model Context Protocol (MCP), and Retrieval-Augmented Generation (RAG).\n\nYou will begin by learning the fundamentals of MCP, including why it exists, how MCP servers work, and how Claude interacts with tools, resources, and external integrations through a controlled server-based architecture. You will build MCP servers, expose tools and resources, and enforce strict input and output schemas to ensure predictable and safe system behavior.\n\nThe course then moves into Retrieval-Augmented Generation, where you will design complete RAG pipelines. You will learn how to chunk documents effectively, generate embeddings, apply keyword and vector-based retrieval techniques, and improve results using ranking and reranking strategies. You will also integrate MCP servers directly into RAG workflows to create scalable and modular retrieval systems.\n\nIn the final module, you will build agent-driven workflows using Claude. You will design planning and decision agents, coordinate multiple agents, and automate end-to-end workflows that combine RAG, tools, and structured decision-making. By the end, you will be able to build fully automated AI systems that retrieve information, reason over it, and take action reliably.\n\nBy completing this course, you will be able to:\n- Explain MCP architecture, including clients, servers, tools, and resources\n- Build MCP servers that safely expose tools, files, databases, and APIs to Claude\n- Design and enforce structured input and output schemas for reliable AI behavior\n- Implement complete RAG pipelines using chunking, embeddings, ranking, and reranking\n- Integrate MCP servers as retrieval backends for modular RAG systems\n- Build planning agents and multi-agent workflows using Claude\n- Automate end-to-end AI workflows that combine retrieval, reasoning, and tool execution\n\nThis course is ideal for developers and AI practitioners who want to move beyond simple prompt-based applications and build scalable, controllable, and production-ready AI systems using Claude.\n\nBasic familiarity with Python and APIs is recommended, but no prior experience with MCP or RAG is required.\n\nJoin us to learn how to design modern AI architectures that combine MCP, RAG, and agent workflows into real-world, production-ready systems.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "Example: 4 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/building-rag-and-mcp-servers-with-claude",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

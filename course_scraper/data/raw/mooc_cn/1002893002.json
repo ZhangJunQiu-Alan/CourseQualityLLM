@@ -1,0 +1,31 @@
+{
+  "course_id": "1002893002",
+  "platform": "mooc_cn",
+  "title": "模拟电子电路",
+  "description": "模拟电子技术广泛应用于各类硬件开发和集成电路设计中，因此该课程是培养电子通信类工程从业人员的基础课程。本课程为国家首批线上线下混合式一流课程的线上部分，课程设置侧重理论与实际结合，适合普通高校电子信息类专业学生、及社会相关从业人员选读学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002893002",
+  "instructors": [
+    {
+      "name": "刘圆圆;吕帅帅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "杭州电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 31853,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

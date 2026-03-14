@@ -1,0 +1,31 @@
+{
+  "course_id": "1206460831",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术基础",
+  "description": "《电路与电子技术Ⅱ—模拟电子技术》是电类专业学生的专业基础课。通过该课程的学习，掌握基本半导体器件的特性及其构成的基本放大电路的功能，掌握集成运算放大电路的特性和应用，培养针对模拟电子电路的基本分析方法并进行相关设计的基本能力。学习并利用基本EDA工具进行模拟电子电路的分析和设计。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206460831",
+  "instructors": [
+    {
+      "name": "林平;蔡忠法;周箭;张德华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15560,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

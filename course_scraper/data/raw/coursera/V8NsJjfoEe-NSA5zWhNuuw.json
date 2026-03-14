@@ -1,0 +1,26 @@
+{
+  "course_id": "V8NsJjfoEe-NSA5zWhNuuw",
+  "platform": "coursera",
+  "title": "Advanced Data Analysis and Visualization with Pandas",
+  "slug": "packt-advanced-data-analysis-and-visualization-with-pandas-ofifg",
+  "description": "This advanced Pandas course delves deep into date-time manipulation, covering Timestamps, DatetimeIndex objects, and pd.date_range for effective time series handling. \n\n- You'll master techniques like using the dt attribute and DateOffset objects for arithmetic operations and timedeltas. \n- Learn essential input-output operations, including exporting DataFrames to CSV and Excel files using openpyxl, and seamless file imports. \n- Enhance data presentation with Matplotlib for basic visualizations, customizing aesthetics with templates, and creating bar and pie charts. \n\nIdeal for data analysts, scientists, and Python enthusiasts with intermediate to advanced Pandas skills, this course enriches data workflows and visualization capabilities.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-advanced-data-analysis-and-visualization-with-pandas-ofifg",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002127007",
+  "platform": "mooc_cn",
+  "title": "旅游学",
+  "description": "旅游学就是将旅游作为一种综合的社会现象，以其所涉及的各项要素的有机整体为依托，以旅游者活动和旅游产业活动在旅游运作过程中的内在矛盾为核心对象，全面研究旅游的本质属性、运行关系、内外条件、社会影响和发生发展规律的新兴学科。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002127007",
+  "instructors": [
+    {
+      "name": "祖恩厚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15676,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

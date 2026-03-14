@@ -1,0 +1,39 @@
+{
+  "course_id": "course-95e8f7af-8d8f-4786-a070-317e0e3d3658",
+  "platform": "edx",
+  "title": "SOLIDWORKS CAD Fundamentals",
+  "description": "For over 25 years, SOLIDWORKS has been the trusted industry standard in mechanical design and engineering. Intuitive 3D modeling and product development solutions from SOLIDWORKS help you conceptualize, create, validate, communicate, manage, and transform your innovate ideas into great product designs. \n This course uses many features to teach you the functionality of the SOLIDWORKS 3D CAD software, including: \n \n Over 100 videos created by SOLIDWORKS experts showing how to use the software. These are the same SOLIDWORKS experts who wrote the SOLIDWORKS Essentials book that has sold over 250,000 copies in the last 10 years! \n Over 200 knowledge check questions to make sure you are on track. \n Over 30 practice exercises that test your ability to create sketches, parts, and assemblies as well as to edit parts and assemblies. Many of these practice exercises are graded if you choose the Verified track. \n \n When you are done this course, you will be prepared to attempt the Certified SOLIDWORKS Associate (CSWA) exam. SOLIDWORKS certifications can be used as a benchmark to measure your knowledge and competency with SOLIDWORKS software. The CSWA certification is the starting point for users looking to prove their knowledge to prospective employers.",
+  "learning_goals": [
+    "New Product Development",
+    "Computer-Aided Design",
+    "Sketching",
+    "Solidworks Certification",
+    "3D Modeling",
+    "Engineering Design Process",
+    "SolidWorks (CAD)",
+    "Mechanical Design"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joe-rousseau",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dassault Systèmes SOLIDWORKS"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1998,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

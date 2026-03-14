@@ -1,0 +1,43 @@
+{
+  "course_id": "course-d4c7cc7d-aa4a-4e74-849c-d17417e0a649",
+  "platform": "edx",
+  "title": "Introduction to Management Information Systems (MIS): A Survival Guide",
+  "description": "This MIS course will cover supporting tech infrastructures (Cloud, Databases, Big Data), the MIS development/ procurement process, and the main integrated systems, ERPs, such as SAP®, Oracle® or Microsoft Dynamics Navision®, as well as their relationship with Business Process Redesign. \n Management Information Systems (MIS) are an integral part of today’s professional landscape. From customer relationship management (CRM) systems handling the day to day interactions with clients and prospects, to financial systems issuing invoices and paying bills, day to day working life is increasingly controlled by these systems that dictate what to do and how. \n This course will focus on what MIS are, how they influence your current or prospective jobs, why they impose specific - and sometimes seemingly absurd - operational procedures, and how to use this knowledge to your advantage in your professional life. \n Grasping the key concepts in MIS does not need to be daunting. We will use real world examples to illustrate key concepts, and strive to strike a proper balance between clarity / amenity and conceptual soundness. Join us on this stimulating journey that will allow you to better understand and perform in your current or desired job. \n This course is also available in Spanish: \" Introducción a los Sistemas de Información Gerencial (MIS): Una guía de supervivencia \".",
+  "learning_goals": [
+    "Financial Systems",
+    "Management Information Systems",
+    "Invoicing",
+    "Microsoft Dynamics",
+    "Enterprise Resource Planning",
+    "Customer Relationship Management",
+    "Influencing Skills",
+    "Information Systems",
+    "Infrastructure",
+    "Business Process",
+    "Big Data",
+    "Procurement"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alfonso-duran-heras",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Carlos III de Madrid"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 460,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

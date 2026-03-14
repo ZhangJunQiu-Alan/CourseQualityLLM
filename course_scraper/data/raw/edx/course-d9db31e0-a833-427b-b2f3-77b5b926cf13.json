@@ -1,0 +1,32 @@
+{
+  "course_id": "course-d9db31e0-a833-427b-b2f3-77b5b926cf13",
+  "platform": "edx",
+  "title": "Computational Neuroscience: Neuronal Dynamics of Cognition",
+  "description": "What happens in your brain when you make a decision? And what happens if you recall a memory from your last vacation? Why is our perception of simple objects sometimes strangely distorted? How can millions of neurons in the brain work together without a central control unit?  \n This course explains the mathematical and computational models that are used in the field of theoretical neuroscience to answer the above questions. The core of the answer to cognition may lie in the collective dynamics of thousands of interacting neurons - and these dynamics are mathematically analyzed in this course using methods such as mean-field theory and non-linear differential equations.",
+  "learning_goals": [
+    "Computational Neuroscience"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "wulfram-gerstner",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "École polytechnique fédérale de Lausanne"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 387,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,57 @@
+{
+  "course_id": "course-38b1571e-2183-476e-a59c-f8383c3e519d",
+  "platform": "edx",
+  "title": "GIS Foundations",
+  "description": "GIS is a framework for gathering, managing, and analyzing data. Using the principles of geographic science, it integrates many types of geospatial data, analyzes their relationships, and organizes them in layers of information for visualization and improved understanding. This free online course focuses on ESRI’s ArcGIS software, the industry standard within GIS software. Jack Dangermond, CEO of ESRI, describes GIS as “uncovering meaning and insights from within data.” \n Participants in this course will learn GIS concepts and fundamentals, tools, and processing applicable to problems in a variety of fields, including cartography, remote sensing, data science, public health, health care, information technology, social science, urban planning, government, and business. Your enrollment in this course will prepare you to work with spatial data and conduct spatial data analysis with datasets and geographic data. \n This self-paced course is designed for self-study. Coursework covers GIS applications of real-world problems, and prepares learners for more advanced applications such as 3D GIS and GIS Image Analysis, the two other GIS courses in the GIS Essentials Professional Certificate program. This course can be taken individually as an elective or as part of this larger specialization. \n GIS, once an esoteric technology limited to geographers and data scientists, is now available to everyone. Thousands of organizations in virtually every field are using GIS to analyze data, make maps that reveal patterns and relationships, share insights, and solve complex problems of local to global significance in the areas of sustainability, land use, watershed mapping, and more. The ability to conduct this kind of geospatial analysis and conduct web mapping is a skill growing in relevance to employers. \n Verified track learners will receive one-year ArcGIS Pro Desktop (Windows) license with support only for tools used in the course in addition to unlimited course access and a verified certificate. \n Sign up for this online course or full GIS certificate today to expand your skillset in geographic information systems.",
+  "learning_goals": [
+    "Health Information Technology",
+    "GIS Certificate",
+    "GIS Applications",
+    "Data Science",
+    "Geospatial Analysis",
+    "Complex Problem Solving",
+    "Problem Solving",
+    "ArcGIS (GIS Software)",
+    "Social Sciences",
+    "Cartography",
+    "Remote Sensing",
+    "Data Analysis",
+    "Urban Planning",
+    "Web Mapping",
+    "Spatial Data Infrastructures",
+    "Geographic Information Systems"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "santosh-panda",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "chris-smith",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "anushree-badola",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Alaska Fairbanks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1108,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

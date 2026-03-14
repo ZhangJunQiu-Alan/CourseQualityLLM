@@ -1,0 +1,55 @@
+{
+  "course_id": "course-e4f3ec0c-7a24-45f5-8a77-3ba421e90b0f",
+  "platform": "edx",
+  "title": "Mining Engineering Principles: Exploration to Innovation",
+  "description": "Explore one of the most dynamic fields with one of the best mining courses available online. Designed for learners from top universities, professionals in the mining industry, and individuals looking to upskill, this course covers the essentials of mining engineering, from exploration to innovation, in a flexible and accessible format. This mining engineering program is suitable for those interested in natural resources, sustainability, and related fields such as civil engineering and environmental engineering. \n Welcome to Mining Engineering! \n Our online course, \"Mining Engineering Principles: Exploration to Innovation,\" is a comprehensive exploration of the fundamental concepts and principles that underpin this dynamic field. Whether you’re a student preparing for a bachelor’s degree in mining engineering or a professional seeking professional development, this course equips you with essential skills and insights. \n With no prerequisites required, learners will embark on a journey to understand the need for sustainable practices in the mining sector while exploring the impact of mining on the value chain and broader sustainability goals. The program includes electives and hands-on experience to enrich the learning process. \n Course Goals \n This course aims to provide learners with a strong foundation in mining engineering, covering topics crucial to the mining business and related sectors such as electrical engineering, robotics, and data analytics. The course leverages instructor videos, expert interviews, interactive modules, and case studies to enhance engagement. \n Topics include: \n \n Why mining is essential and its role in achieving sustainable development goals. \n Contributions of the mining industry to the U.S. economy. \n The fundamentals of mineral resource identification and evaluation. \n Exploration of modern mining technologies like IoT, augmented reality, and data science. \n Sustainability and health and safety practices in mining operations. \n Key engineering problems and innovative solutions in the mining sector.",
+  "learning_goals": [
+    "Sustainable Development",
+    "Data Analysis",
+    "Innovation",
+    "Internet Of Things (IoT)",
+    "Mining Engineering",
+    "Civil Engineering",
+    "Electrical Engineering",
+    "Augmented Reality",
+    "Operations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 5-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "tathagata-ghosh",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "long-fan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sampurna-arya",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "bill-schnabel",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Alaska Fairbanks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 538,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

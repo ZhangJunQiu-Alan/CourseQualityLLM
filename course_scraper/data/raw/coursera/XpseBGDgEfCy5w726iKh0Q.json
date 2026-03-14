@@ -1,0 +1,31 @@
+{
+  "course_id": "XpseBGDgEfCy5w726iKh0Q",
+  "platform": "coursera",
+  "title": "Linux Foundation Certified System Administrator (LFCS): Unit 2",
+  "slug": "pearson-linux-foundation-certified-system-administrator-lfcs-complete-vide-us8uc",
+  "description": "This course delves into the critical aspects of Linux permission management, user and group administration, and storage management. Begin by understanding the foundational read, write, and execute permissions, and advance to mastering SUID, SGID, and sticky bits for specialized scenarios. Gain comprehensive skills in managing users and groups, essential for setting permissions and maintaining security. Explore storage management essentials, including partitioning, file systems, and mounting techniques. With practical labs and real-world scenarios, this course ensures you gain hands-on experience and confidence in managing Linux systems.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours 18 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-linux-foundation-certified-system-administrator-lfcs-complete-vide-us8uc",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Sander van Vugt",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

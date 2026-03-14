@@ -1,0 +1,26 @@
+{
+  "course_id": "bitsBtaBEfC5ggr_52z1YQ",
+  "platform": "coursera",
+  "title": "Apply Chef to Automate Cloud Infrastructure Projects",
+  "slug": "apply-chef-automate-cloud-infrastructure-projects",
+  "description": "Learners will configure Chef-based infrastructure, develop reusable cookbooks, automate cloud and database environments, and deploy a complete web application using industry-standard DevOps practices. They will analyze infrastructure requirements, implement configuration management workflows, and evaluate system stability using Chef tooling across local, standalone, and centralized models.\n\nThis course provides hands-on, project-driven learning focused on building an online college registration system from the ground up using Chef and AWS. Learners gain practical experience setting up Chef workstations, writing Ruby-based recipes, managing nodes, configuring databases, and automating Apache web servers. By progressing from local development to centralized Chef Server deployments, learners develop a strong understanding of real-world infrastructure automation pipelines.\n\nWhat makes this course unique is its end-to-end project orientation—instead of isolated concepts, learners implement a complete production-style solution that mirrors enterprise DevOps environments. The course bridges the gap between theory and practice, making it ideal for aspiring DevOps engineers, system administrators, and cloud professionals seeking job-ready configuration management skills.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/apply-chef-automate-cloud-infrastructure-projects",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

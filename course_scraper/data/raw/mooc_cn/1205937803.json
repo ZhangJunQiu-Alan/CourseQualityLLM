@@ -1,0 +1,31 @@
+{
+  "course_id": "1205937803",
+  "platform": "mooc_cn",
+  "title": "生理学（下）",
+  "description": "本课程分生理学（上）和生理学（下）（已于近期开课），与北京大学《生理学》线下课程同步、混合进行，可与北大线下的老师同学讨论互动。配套的《生理学实验》（北京大学）慕课可以同时选课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205937803",
+  "instructors": [
+    {
+      "name": "白书农;周辰;柴真;罗冬根;王世强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30573,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

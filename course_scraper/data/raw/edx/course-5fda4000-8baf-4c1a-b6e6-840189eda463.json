@@ -1,0 +1,40 @@
+{
+  "course_id": "course-5fda4000-8baf-4c1a-b6e6-840189eda463",
+  "platform": "edx",
+  "title": "Data Structures & Algorithms I: ArrayLists, LinkedLists, Stacks and Queues",
+  "description": "The Data Structures &amp; Algorithms course begins with a review of some important Java techniques and nuances in programming. The course requires some prior knowledge of Java and object-oriented programming, but not in data structures or algorithms. This course introduces you to time complexity, and threads this concept throughout all data structures and algorithms presented in the course. You will work with the principles of data storage in Arrays and LinkedList nodes. You will program the low-level data structures: Singly, Circular and Doubly LinkedLists; and explore edge cases and efficiencies. LinkedLists and Arrays are used to implement Abstract Data Types, ADTs: Stacks, Queues and Deques. Harnessing the power of recursion to move through these data structures is necessary. As the size changes in your data structures, it becomes important to examine amortized analysis of the operations. \n The course design has several components and is built around modules. A module consists of a series of short (3-5 minute) instructional videos. In between the videos, there are textual frames with additional content information for clarification, as well as video errata dropdown boxes. All modules include an Exploratory Lab that incorporates a Visualization Tool specifically designed for this course. The lab includes discovery questions that lead you towards delving deeper into the efficiency of the data structures and examining the edge cases. This is followed by a set of comprehension questions on topics covered in the module that count for 10% of your grade. The modules end with Java coding assignments which are 60% of your grade. Lastly, you'll complete a course exam, which counts for the remaining 30% of your grade. \n This is a great course that has been derived from the on-campus version of CS1332 at the Georgia Institute of Technology, and is backed with an impressive reputation.",
+  "learning_goals": [
+    "Algorithms",
+    "Data Storage Technologies",
+    "Java (Programming Language)",
+    "Abstract Data Types",
+    "Operations",
+    "Nodes (Networking)",
+    "Object-Oriented Programming (OOP)",
+    "Time Complexity",
+    "Data Structures"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 9-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mary-hudachek-buswell",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2312,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

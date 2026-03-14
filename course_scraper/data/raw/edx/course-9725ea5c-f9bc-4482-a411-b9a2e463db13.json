@@ -1,0 +1,64 @@
+{
+  "course_id": "course-9725ea5c-f9bc-4482-a411-b9a2e463db13",
+  "platform": "edx",
+  "title": "Cantonese Language and Culture for Beginners",
+  "description": "Here describes some characteristics of our course: \n - Although there are various free online Cantonese learning resources and videos available, most of them are loosely organized and not as systematic as a university credit bearing course. The proposed MOOC will be designed in a way that help learners acquire the language step by step, following the scientific findings of second language acquisition. \n - The comparable existing certificate programmes or credit-bearing courses such as those offered by the Chinese Language Centre of The University of Hong Kong and the Yale-China Chinese Language Centre of The Chinese University of Hong Kong as well as by the overseas universities mentioned above are delivered in the traditional mode, which are bound by various practical limitations. Therefore, the proposed MOOC, which goes beyond time constraints and geographical barriers, will be the first ever delivered on such a platform, attracting global learners. \n - Cantonese, unlike many other languages/dialects, cannot be written verbatim, nor does it have an officially recognized romanization convention. This makes Cantonese learning difficult. The proposed MOOC will use the Jyutping system to teach Cantonese. Jyutping was proposed by the Linguistic Society of Hong Kong, and is one of the two commonly used conventions for Cantonese romanization in academic publications. \n - As a MOOC from Hong Kong, some aspects of the Hong Kong culture (especially food) will be introduced. \n - Verified Certificates will be issued for paid participants who completed the course and passed all assessments.",
+  "learning_goals": [
+    "Mandarin Chinese",
+    "Time Management",
+    "Cantonese Chinese"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dr-siu-kei-ken-cheng",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-chun-wah-david-yuen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-yan-yan-lam",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ms-yuk-ling-choi",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-wai-sin-tsang",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ms-ching-sum-sarah-wong",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-yuet-yee-yau",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Hong Kong Polytechnic University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1518,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,58 @@
+{
+  "course_id": "course-8f9c73ef-73f5-45dd-aca1-7dad3696f743",
+  "platform": "edx",
+  "title": "Circuits and Electronics 1: Basic Circuit Analysis",
+  "description": "Want to learn about circuits and electronics, but unsure where to begin? Wondering how to make computers run faster or your mobile phone battery last longer? This free circuits course taught by edX CEO and MIT Professor Anant Agarwal and colleagues is for you.  \n This is the first of three online Circuits &amp; Electronics courses offered by Professor Anant Agarwal and colleagues at MIT, and is taken by all MIT Electrical Engineering and Computer Science (EECS) majors.  \n Topics covered include: resistive elements and networks; circuit analysis methods including KVL, KCL and the node method; independent and dependent sources; linearity, superposition, Thevenin &amp; Norton methods; digital abstraction, combinational gates; and MOSFET switches and small signal analysis. Design and lab exercises are also significant components of the course.  \n Weekly coursework includes interactive video sequences, readings from the textbook, homework, online laboratories, and optional tutorials. The course will also have a final exam.  \n This is a self-paced course, so there are no weekly deadlines. However, all assignments are due when the course ends.",
+  "learning_goals": [
+    "Electrical Engineering",
+    "Combinational Logic",
+    "Electrical Circuit Analysis",
+    "Smartphone Operation",
+    "Network Switches",
+    "Computer Science",
+    "Electronics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 5-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "anant-agarwal-0",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "gerald-sussman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "piotr-mitros-0",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "chris-terman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "bonnie-lam",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6419,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

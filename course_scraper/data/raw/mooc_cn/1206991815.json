@@ -1,0 +1,31 @@
+{
+  "course_id": "1206991815",
+  "platform": "mooc_cn",
+  "title": "计算机应用基础",
+  "description": "本课程是高校本科非计算机文理科专业的一门公共基础课。开设本课程的目的是使学生了解计算机科学与技术中的一些基本概念、知识、技术和方法，掌握计算机的基本操作，具有使用计算机常用软件的基本技能，达到全国计算机一级考试的要求。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206991815",
+  "instructors": [
+    {
+      "name": "王志明;李专峰;杨素娣;常逢佳;陈小辉;xutest;司艳丽;朱亚辉;汪慧敏;孙家军;顾阳;张勇;黄焱;陈海波;孙金玉;黄磊;王江涛;文静;杨海东;任舰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "淮阴师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 46336,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

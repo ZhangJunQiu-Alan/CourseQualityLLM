@@ -1,0 +1,26 @@
+{
+  "course_id": "4x_9rjB3Ee6Sqw5utkPkdw",
+  "platform": "coursera",
+  "title": "Encoder-Decoder Architecture - Italiano",
+  "slug": "encoder-decoder-architecture-it",
+  "description": "Questo corso ti offre un riepilogo dell'architettura encoder-decoder, che è un'architettura di machine learning potente e diffusa per attività da sequenza a sequenza come traduzione automatica, riassunto del testo e risposta alle domande. Apprenderai i componenti principali dell'architettura encoder-decoder e come addestrare e fornire questi modelli. Nella procedura dettagliata del lab corrispondente, implementerai in TensorFlow dall'inizio un semplice codice dell'architettura encoder-decoder per la generazione di poesie da zero.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/encoder-decoder-architecture-it",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

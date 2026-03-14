@@ -1,0 +1,31 @@
+{
+  "course_id": "1206329801",
+  "platform": "mooc_cn",
+  "title": "微观经济学",
+  "description": "《微观经济学》是国内外大学经济学院、管理学院、应用数学等相关专业的基础核心课程。本课程作为初级经济学，以奶奶式语言+座谈式教学、问题导向学习、整合思维植入为特色，是进一步学习经济学的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206329801",
+  "instructors": [
+    {
+      "name": "郑慕强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "汕头大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12623,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

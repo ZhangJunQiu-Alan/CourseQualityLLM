@@ -1,0 +1,31 @@
+{
+  "course_id": "153001",
+  "platform": "mooc_cn",
+  "title": "微积分（一）",
+  "description": "伦琴在回答科学家需要怎样修养时说：第一是数学第二是数学第三还是数学",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/153001",
+  "instructors": [
+    {
+      "name": "尤超;雷强;尹逊波;任雪昆;郭玉坤;张夏;张超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 166433,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

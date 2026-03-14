@@ -1,0 +1,26 @@
+{
+  "course_id": "4EOwdnX9EeuG_xLe4EWIOw",
+  "platform": "coursera",
+  "title": "Advanced AI Techniques for the Supply Chain",
+  "slug": "advanced-ai-techniques-for-the-supply-chain",
+  "description": "In this course, we’ll learn about more advanced machine learning methods that are used to tackle problems in the supply chain. We’ll start with an overview of the different ML paradigms (regression/classification) and where the latest models fit into these breakdowns. Then, we’ll dive deeper into some of the specific techniques and use cases such as using neural networks to predict product demand and random forests to classify products. An important part to using these models is understanding their assumptions and required preprocessing steps. We’ll end with a project incorporating advanced techniques with an image classification problem to find faulty products coming out of a machine.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 3-5 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-ai-techniques-for-the-supply-chain",
+  "instructors": [
+    {
+      "name": "LearnQuest Network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LearnQuest"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

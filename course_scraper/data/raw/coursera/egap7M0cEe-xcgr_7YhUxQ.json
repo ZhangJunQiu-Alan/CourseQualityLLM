@@ -1,0 +1,31 @@
+{
+  "course_id": "egap7M0cEe-xcgr_7YhUxQ",
+  "platform": "coursera",
+  "title": "Modelos predictivos con Machine Learning",
+  "slug": "modelos-predictivos-con-machine-learning",
+  "description": "Este curso tiene como objetivo proporcionar a los estudiantes una comprensión integral de los modelos predictivos utilizando técnicas de Machine Learning. Los participantes aprenderán a implementar, evaluar y mejorar modelos predictivos aplicables a diversas problemáticas reales, utilizando herramientas como Python y bibliotecas especializadas.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 semanas",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/modelos-predictivos-con-machine-learning",
+  "instructors": [
+    {
+      "name": "Eduardo Rodríguez del Angel",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Jorge Alberto Cerecedo Cordoba",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidades Anáhuac"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

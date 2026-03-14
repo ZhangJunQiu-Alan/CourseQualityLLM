@@ -1,0 +1,32 @@
+{
+  "course_id": "course-f046e41c-0b03-48a7-af8a-f839c09038ca",
+  "platform": "edx",
+  "title": "Azure AI Fundamentals: Build & Deploy AI",
+  "description": "This course offers a comprehensive introduction to artificial intelligence (AI) concepts and the array of Azure services available for developing AI solutions. Designed for individuals with both technical and non-technical backgrounds, this course requires no prior experience in data science or software engineering. \n It is ideal for professionals looking to understand AI and machine learning concepts, particularly in relation to Azure services. It provides a foundational step for those considering advanced AI-related certifications or roles in AI development, data science, or cloud computing. \n Participants will explore fundamental AI workloads, including machine learning, computer vision, natural language processing (NLP), and generative AI. The course emphasizes responsible AI principles, ensuring learners understand considerations such as fairness, privacy, and security in AI applications.",
+  "learning_goals": [
+    "Natural Language Processing",
+    "Data Science",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Artificial Intelligence Development",
+    "Computer Vision",
+    "Microsoft Azure"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 910,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

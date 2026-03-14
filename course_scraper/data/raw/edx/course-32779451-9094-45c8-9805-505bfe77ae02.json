@@ -1,0 +1,38 @@
+{
+  "course_id": "course-32779451-9094-45c8-9805-505bfe77ae02",
+  "platform": "edx",
+  "title": "Climate Change: The Science and Global Impact",
+  "description": "Climate change is arguably the greatest challenge of our time. Human activity has already warmed the planet by one degree Celsius relative to pre-industrial times, and we are feeling the effects through record heat waves, droughts, wildfires and flooding. If we continue to burn fossil fuels at the current rate, the planet will reach two degrees of warming by 2050—the threshold that many scientists have identified as a dangerous tipping point. What is the science behind these projections? \n Join climate science expert Michael Mann to learn about the basic scientific principles behind climate change and global warming. We need to understand the science in order to solve the broader environmental, societal and economic changes that climate change is bringing. \n By the end of this course, you will: \n \n Develop a deep scientific understanding of HOW the climate system has been changing; \n Articulate WHY the climate system is changing; \n Understand the nature of these changes; \n Develop a systems thinking approach to analyzing the impacts of climate change on both natural and human systems. \n \n The course covers the basic principles of atmospheric science, methods of climate data collection and tracking of greenhouse gas emissions. It introduces basic climate modeling and explores the impact of various greenhouse gas emissions scenarios. Finally, it outlines the impacts of climate change on environmental, social, economic and human systems, from coral reefs and sea level rise to urban infrastructure. The course follows the general outline of the  5th Assessement Report of the United Nations Intergovernmental Panel on Climate Change .",
+  "learning_goals": [
+    "Climate Variability And Change",
+    "Climate Modeling",
+    "Infrastructure",
+    "Systems Thinking",
+    "Atmospheric Sciences",
+    "Greenhouse Gas",
+    "Climatology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "michael-mann",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "SDG Academy"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 802,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

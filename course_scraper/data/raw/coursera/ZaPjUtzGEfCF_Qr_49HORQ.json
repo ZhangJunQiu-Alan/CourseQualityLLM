@@ -1,0 +1,26 @@
+{
+  "course_id": "ZaPjUtzGEfCF_Qr_49HORQ",
+  "platform": "coursera",
+  "title": "Develop a Swipe-Match iOS App Using Swift",
+  "slug": "develop-swipe-match-ios-app-using-swift",
+  "description": "By completing this course, learners will be able to design swipe-based user interfaces, implement gesture-driven interactions, organize application logic using clean architecture principles, optimize animations for performance, and deliver a polished Tinder-style iOS prototype using Swift and UIKit.\n\nThis course provides a hands-on, project-based approach to iOS development by guiding learners through building a Tinder clone from scratch using iOS 12 and Swift. Learners will progress step by step from setting up the project and designing swipeable cards to managing user actions, structuring data models, and refining animations for a smooth user experience. Each module builds practical skills that mirror real-world iOS app development workflows.\n\nWhat makes this course unique is its focus on interaction-driven UI development rather than isolated concepts. Instead of learning features in abstraction, learners apply them immediately within a complete, functional app. The course emphasizes clean code practices, gesture handling, animation polish, and maintainable architecture—skills highly valued in professional iOS development. Upon completion, learners gain not only a strong portfolio project but also confidence in building modern, interactive iOS applications from idea to prototype.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/develop-swipe-match-ios-app-using-swift",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

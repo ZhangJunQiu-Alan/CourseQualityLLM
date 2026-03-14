@@ -1,0 +1,31 @@
+{
+  "course_id": "4BvqLQCqEe612QpSO89dGw",
+  "platform": "coursera",
+  "title": "Hands-on with AWS: Software Development Practices",
+  "slug": "aws-software-dev",
+  "description": "Let’s get you working efficiently in a software development team and shorten the time it takes to get high quality applications to your customers. We start with the theory and benefits of building software with Continuous Integration and Continuous Delivery. Continuous Integration starts with source control. We get you working with AWS CodeCommit, a managed source control service that makes it easier for teams to collaborate on code and with Git repository you learn branching strategies and get hands-on committing bug fixes and writing unit tests. Your commits initiate an AWS CodePipeline pipeline where we can run automated tests for fast code quality feedback. We then use AWS CodeBuild to run tests and package code for deployment. Finally, we use AWS CodeDeploy to automate code deployment. Let’s use your coding skills to automate the process of getting quality code to production infrastructure.  \n\nThis course will provide a combination of video-based lectures, demonstrations and hands-on lab exercises to get you hands-on committing code that flows through a full Continuous Integration and Continuous Delivery pipeline.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2-4 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-software-dev",
+  "instructors": [
+    {
+      "name": "Russell Sayers",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Seph Robinson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

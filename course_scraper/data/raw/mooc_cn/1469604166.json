@@ -1,0 +1,31 @@
+{
+  "course_id": "1469604166",
+  "platform": "mooc_cn",
+  "title": "机器学习",
+  "description": "机器学习的核心是机器使用算法来分析海量数据，通过学习数据，挖掘数据中存在的潜在联系，并训练出一个有效的模型，并将其应用于决定或预测中。相信在不久的将来，机器学习势必能够将人们的认知、学习、推理等结合起来，展望深层次机器学习的美好前景。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1469604166",
+  "instructors": [
+    {
+      "name": "王平平;陈燕华;穆燕;陈海清",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5407,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "iyXbd0IMEfC0sQr_9lgCRw",
+  "platform": "coursera",
+  "title": "JavaScript for Dynamic Web Development",
+  "slug": "packt-javascript-for-dynamic-web-development-wnupq",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course introduces you to JavaScript, the dynamic programming language used for creating interactive, engaging web applications. You’ll start by learning the basics of JavaScript, such as variables, data types, loops, and conditional statements. From there, you’ll move on to more advanced topics, including manipulating the DOM (Document Object Model) to interact with HTML elements and handle user inputs through events. The course emphasizes practical application, with a focus on building real-world projects.\n\nThroughout the course, you'll work on projects such as \"Guess My Number\" and a fully functional web application where you design t-shirts, calculate prices and sizes, and validate forms using JavaScript. Each project builds on the skills learned in previous lessons, culminating in a comprehensive final project where you implement dynamic interactivity and integrate your JavaScript knowledge to enhance the user experience.\n\nIdeal for beginners with some prior programming experience, this course will help you develop a strong foundation in JavaScript, empowering you to create interactive and dynamic websites. By the end of the course, you'll be ready to tackle complex JavaScript-driven web projects with confidence.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-javascript-for-dynamic-web-development-wnupq",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

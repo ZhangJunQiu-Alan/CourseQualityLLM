@@ -1,0 +1,46 @@
+{
+  "course_id": "course-0ebb25a7-244b-4702-84d6-e11cb84e3995",
+  "platform": "edx",
+  "title": "Intro to AI for Digital Marketing",
+  "description": "In this course, we delve into the dynamic synergy between Artificial Intelligence (AI) and digital marketing. Over the span of two modules, we embark on a journey through the evolution of AI and its pivotal role in reshaping modern marketing strategies. \n Beginning with an overview of how AI has revolutionized digital marketing, we will cover its applications in retail, entertainment, and customer engagement. Topics include fundamental AI concepts, considerations for successful integration, and ethical implications, highlighting the importance of aligning AI with business goals to drive growth and enhance customer experiences. \n Additionally, we explore the exciting realm of generative AI and its potential in enhancing marketing efforts. From generating engaging social media posts to crafting compelling product descriptions, you'll discover the endless possibilities offered by generative AI. However, with great power comes great responsibility, and we'll address the potential risks associated with combining generative AI and digital marketing, including ethical considerations, brand consistency, and misinformation. \n By the end of this course, you'll emerge with a comprehensive understanding of how to leverage generative AI and master prompt engineering to craft compelling marketing messages that resonate with your audience. You'll also gain practical insights and strategies to navigate the evolving landscape of AI-driven digital marketing with confidence.",
+  "learning_goals": [
+    "Artificial Intelligence",
+    "Customer Engagement",
+    "Digital Marketing",
+    "Social Media",
+    "Marketing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "miguel-a-morales-chan-ph-d",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rocael-hernandez-rizzardini-ph-d",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "vanessa-ai-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Davidson College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2790,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

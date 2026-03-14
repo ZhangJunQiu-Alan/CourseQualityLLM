@@ -1,0 +1,26 @@
+{
+  "course_id": "c_iafNYIEfCilA75SlTASQ",
+  "platform": "coursera",
+  "title": "Web Dev: Environment Setup and Basic Page Creation",
+  "slug": "web-dev-environment-setup-basic-page-creation-lo094023",
+  "description": "This course will be useful for anyone who wants to gain a firm technical understanding of the core languages and tools used in web development. You will begin by preparing your web platform, preparing your development tools and processes, and monitoring the web request–response cycle. Then, you'll create a basic web page, provide navigation links between pages, and improve web-page structure and navigation.\n\nThis is the first course in a multi-course Specialization.\n\nAll of the courses in this Specialization require that you run a XAMPP web server on localhost. The course setup instructions provided in the first module of this course go into more detail about the hardware and software requirements.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/web-dev-environment-setup-basic-page-creation-lo094023",
+  "instructors": [
+    {
+      "name": "Bill Rosenthal",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Logical Operations"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

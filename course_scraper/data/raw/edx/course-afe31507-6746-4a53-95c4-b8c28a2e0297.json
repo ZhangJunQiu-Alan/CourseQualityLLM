@@ -1,0 +1,42 @@
+{
+  "course_id": "course-afe31507-6746-4a53-95c4-b8c28a2e0297",
+  "platform": "edx",
+  "title": "Retail Fundamentals",
+  "description": "In this course, part of the Retail Management Professional Certificate program, you will learn the four key components of the retail business: \n \n Demand forecasting, \n Inventory management \n Assortment planning \n Pricing decisions \n \n You will learn about the different challenges that retailers face and have the opportunity to explore methods and techniques available to address these challenges. You will also have access to simulation tools to better internalize the concepts. \n The course will take a hands-on, problem driven approach that will help you understand and put into practice the concepts you learn. At the end of the course you, will be able to make better decisions at every step of the retail process. \n We have designed this course to suit a wide variety of participants, from retail owners and store managers, to undergrad business majors or specialists in retail.",
+  "learning_goals": [
+    "Planning",
+    "Forecasting",
+    "Retail Management",
+    "Inventory Forecasting",
+    "Management",
+    "Product Assortment"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "santiago-gallino",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "antonio-moreno-garcia",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dartmouth College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 397,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

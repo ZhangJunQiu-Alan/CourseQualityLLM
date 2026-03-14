@@ -1,0 +1,49 @@
+{
+  "course_id": "course-91f52ef3-fa3f-4934-9d19-8d5a32635cd4",
+  "platform": "edx",
+  "title": "Data Science: R Basics",
+  "description": "The first in our  Professional Certificate Program in Data Science , this course will introduce you to the basics of R programming. You can better retain R when you learn it to solve a specific problem, so you'll use a real-world dataset about crime in the United States. You will learn the R skills needed to answer essential questions about differences in crime across the different states.  \n We'll cover R's functions and data types, then tackle how to operate on vectors and when to use advanced functions like sorting. You'll learn how to apply general programming features like \"if-else,\" and \"for loop\" commands, and how to wrangle, analyze and visualize data.  \n Rather than covering every R skill you might need, you'll build a strong foundation to prepare you for the more in-depth courses later in the series, where we cover concepts like probability, inference, regression, and machine learning. We help you develop a skill set that includes R programming, data wrangling with dplyr, data visualization with ggplot2, file organization with UNIX/Linux, version control with git and GitHub, and reproducible document preparation with RStudio.  \n The demand for skilled data science practitioners is rapidly growing, and this series prepares you to tackle real-world data analysis challenges.",
+  "learning_goals": [
+    "Ggplot2",
+    "Data Science",
+    "Github",
+    "Data Wrangling",
+    "File Organization",
+    "Data Analysis",
+    "Document Preparations",
+    "Probability",
+    "Linux",
+    "R (Programming Language)",
+    "Version Control",
+    "Unix",
+    "Data Visualization",
+    "RStudio",
+    "Dplyr",
+    "Sorting",
+    "Git (Version Control System)",
+    "Machine Learning"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rafael-irizarry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25052,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

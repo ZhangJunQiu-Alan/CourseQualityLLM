@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755037",
+  "platform": "mooc_cn",
+  "title": "计算机网络基础及应用",
+  "description": "本课程实地调研企业对于网络技术和应用人才的实际需求，讲解网络基础、局域网、互联网和网络安全与新一代网络技术，配合实验帮助学生加深对网络原理的理解，培养能够进行局域网规划、设计，开展基于个人和企业因特网服务应用的信息化人才。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755037",
+  "instructors": [
+    {
+      "name": "吴鹏;丁晟春",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 103661,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

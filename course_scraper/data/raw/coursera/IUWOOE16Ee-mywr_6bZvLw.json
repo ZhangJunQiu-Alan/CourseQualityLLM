@@ -1,0 +1,26 @@
+{
+  "course_id": "IUWOOE16Ee-mywr_6bZvLw",
+  "platform": "coursera",
+  "title": "Comprehensive Guide to Server-Side Logic and Development",
+  "slug": "comprehensive-guide-server-side-logic-and-development",
+  "description": "Course Description:\n\nThis course offers a comprehensive understanding of server-side development, focusing on the creation of robust back-end logic, efficient database management, and seamless API integration. It covers key server-side technologies, including Node.js and Express.js, providing learners with practical knowledge to set up development environments and build scalable server applications. The course also delves into database fundamentals, comparing SQL and NoSQL databases, and demonstrates how to use MongoDB with Node.js for advanced data handling. Additionally, it explores RESTful API design, authentication, and authorization methods, equipping participants with the skills to build secure and efficient server-side applications. Through hands-on video lessons and practical examples, learners will gain the expertise needed to develop, manage, and secure server-side logic in modern web applications.\n\nLearning Objectives:\n\n1. Understand and apply core server-side technologies and programming languages.\n2. Set up and manage databases, perform CRUD operations, and handle advanced database concepts.\n3. Design, build, and implement RESTful APIs using modern web development frameworks.\n4. Apply authentication and authorization techniques to secure web applications.\n5. Integrate and consume APIs effectively in front-end and back-end applications.\n\nTarget Audience:\nThis course is ideal for aspiring full-stack developers, back-end developers, software engineers, and anyone interested in building robust server-side applications. It is suitable for beginners who want to learn server-side programming and professionals looking to deepen their understanding of back-end development and API integration.\n\nPrerequisites:\nBasics of html, css, javascript and familiarity with front end frameworks.\n\nDisclaimer: This is an independent educational resource created by Board Infinity for informational and educational purposes only. This course is not affiliated with, endorsed by, sponsored by, or officially associated with any company, organization, or certification body unless explicitly stated. The content provided is based on industry knowledge and best practices but does not constitute official training material for any specific employer or certification program. All company names, trademarks, service marks, and logos referenced are the property of their respective owners and are used solely for educational identification and comparison purposes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 Weeks of Study, 5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/comprehensive-guide-server-side-logic-and-development",
+  "instructors": [
+    {
+      "name": "Board Infinity",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Board Infinity "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

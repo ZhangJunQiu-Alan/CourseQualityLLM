@@ -1,0 +1,31 @@
+{
+  "course_id": "1002123019",
+  "platform": "mooc_cn",
+  "title": "生理学",
+  "description": "生理学是研究正常状态下机体功能活动规律的科学，包括生命活动的现象、过程、规律、机制以及影响因素等，是一门是重要的基础骨干课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002123019",
+  "instructors": [
+    {
+      "name": "蔡智慧;王福青;王兴红;韩坤;李明华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "漯河医学高等专科学校"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 55384,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

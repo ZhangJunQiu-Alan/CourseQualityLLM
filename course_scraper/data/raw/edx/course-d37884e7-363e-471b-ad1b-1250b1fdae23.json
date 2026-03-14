@@ -1,0 +1,48 @@
+{
+  "course_id": "course-d37884e7-363e-471b-ad1b-1250b1fdae23",
+  "platform": "edx",
+  "title": "Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry)",
+  "description": "During each module of this course, chefs reveal the secrets behind some of their most famous culinary creations — often right in their own restaurants. Inspired by such cooking mastery, the Harvard team will then explain the science behind the recipe. \n Topics will include: \n \n How molecules influence flavor \n The role of heat in cooking \n Diffusion, revealed by the phenomenon of spherification, the culinary technique pioneered by Ferran Adrià. \n \n You will also have the opportunity to become an experimental scientist in your very own laboratory — your kitchen. By following along with the engaging recipe of the week, taking precise measurements, and making skillful observations, you will learn to think like both a cook and a scientist. The lab is certainly one of the most unique components of this course — after all, in what other science course can you eat your experiments?",
+  "learning_goals": [
+    "Chemical Reactions",
+    "Influencing Skills",
+    "Research",
+    "Physics",
+    "Cooking",
+    "Soft Matter",
+    "Chemistry"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "16 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "michael-brenner",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-weitz",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "pia-sorensen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2114,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

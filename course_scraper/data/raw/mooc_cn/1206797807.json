@@ -1,0 +1,31 @@
+{
+  "course_id": "1206797807",
+  "platform": "mooc_cn",
+  "title": "基于游戏开发的C语言程序设计入门与实践",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206797807",
+  "instructors": [
+    {
+      "name": "童晶",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13126,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

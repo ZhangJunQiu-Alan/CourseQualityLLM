@@ -1,0 +1,36 @@
+{
+  "course_id": "course-3e68e2bb-4fd6-440e-8018-775255b22616",
+  "platform": "edx",
+  "title": "Microsoft Azure Fundamentals: Describe Cloud concepts",
+  "description": "This course covers Microsoft Azure Fundamentals, focusing on core cloud computing concepts. Learners will explore the basics of cloud computing, including its definition as delivering IT services over the internet. They'll understand the consumption-based model and how cloud pricing works. The folder covers the shared responsibility model, explaining how security and management tasks are divided between the provider and user. Key topics include different cloud models like public, private, and hybrid, and the three main cloud service types: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). They'll learn about the characteristics and use cases of each service type and how the shared responsibility model applies to them. Additionally, this course discusses the benefits of cloud computing, such as high availability, scalability, reliability, and predictability. It also covers security, governance, and manageability advantages, and how the cloud shifts IT spending from capital expenditure (CapEx) to operational expenditure (OpEx). Overall, it's a foundational guide to understanding cloud concepts in the context of Microsoft Azure.",
+  "learning_goals": [
+    "Microsoft Azure",
+    "Governance",
+    "Platform as a Service (PaaS)",
+    "Infrastructure As A Service (IaaS)",
+    "Capital Expenditure",
+    "Scalability",
+    "IT Service Management",
+    "Cloud Services",
+    "Management",
+    "Cloud Computing",
+    "Software as a Service (SaaS)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 459,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

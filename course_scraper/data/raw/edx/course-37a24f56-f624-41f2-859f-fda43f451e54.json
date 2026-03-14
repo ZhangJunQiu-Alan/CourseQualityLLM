@@ -1,0 +1,39 @@
+{
+  "course_id": "course-37a24f56-f624-41f2-859f-fda43f451e54",
+  "platform": "edx",
+  "title": "A-level Mathematics for Year 12 - Course 1: Algebraic Methods, Graphs and Applied Mathematics Methods",
+  "description": "This course by Imperial College London is designed to help you develop the skills you need to succeed in your A-level maths exams.  \n You will investigate key topic areas to gain a deeper understanding of the skills and techniques that you can apply throughout your A-level study. These skills include:  \n \n Fluency – selecting and applying correct methods to answer with speed and efficiency \n Confidence – critically assessing mathematical methods and investigating ways to apply them \n Problem solving – analysing the ‘unfamiliar’ and identifying which skills and techniques you require to answer questions \n Constructing mathematical argument – using mathematical tools such as diagrams, graphs, logical deduction, mathematical symbols, mathematical language, construct mathematical argument and present precisely to others \n Deep reasoning – analysing and critiquing mathematical techniques, arguments, formulae and proofs to comprehend how they can be applied \n \n Over seven modules, your initial skillset will be extended to give a clear understanding of how background knowledge underpins the A  \n-level course. You’ll also be encouraged to consider how what you know fits into the wider mathematical world.",
+  "learning_goals": [
+    "Applied Mathematics",
+    "Basic Math",
+    "Language Construct"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "philip-ramsden",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "phil-chaffe",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Imperial College London"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1532,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1461182172",
+  "platform": "mooc_cn",
+  "title": "运动控制系统",
+  "description": "基于电力拖动的运动控制系统又称为电力拖动运动控制系统，课程教学内容包括转速开环控制的直流调速系统、转速闭环控制的直流调速系统、转速与电流反馈控制的直流调速系统、基于稳态模型的异步电动机调速系统、基于动态模型的异步电动机调速系统，课程内容循序渐进。课程在理论分析的基础上重视实际应用，实现了理论与实践的高度统一。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461182172",
+  "instructors": [
+    {
+      "name": "南余荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 34924,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

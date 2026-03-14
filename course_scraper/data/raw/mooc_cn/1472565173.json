@@ -1,0 +1,31 @@
+{
+  "course_id": "1472565173",
+  "platform": "mooc_cn",
+  "title": "光纤通信",
+  "description": "《光纤通信》是针对通信工程专业本科生开设的一门较为重要的专业课程。重点讲解光纤通信系统中的光源与光放大、光纤波导、光电接收机、光网络器件、光网络生存性及WDM光网路系统的基本原理及设计。通过学习使学生充分理解光纤通信与光网络系统的关键技术，能够利用在跨语言背景下利用专业知识来分析和设计光纤通信及光网络系统的相关问题，从而达到培养跨语言的专业问题的沟通交流能力、提升学生广博视野。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472565173",
+  "instructors": [
+    {
+      "name": "周雪芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "杭州电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 456,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

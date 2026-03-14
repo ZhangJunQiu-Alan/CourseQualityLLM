@@ -1,0 +1,31 @@
+{
+  "course_id": "1002147001",
+  "platform": "mooc_cn",
+  "title": "通信原理",
+  "description": "当今时代，我们无时无刻都离不开通信。信息的传递将处在地球任意角落的人和物体紧紧相连。你想知道话音、图像、数据等消息是如何通过有线或无线信道快速准确地传输到通信的对端吗？通过本课程中信号传输基本原理的学习，你将获得答案。请加入我们的课程吧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002147001",
+  "instructors": [
+    {
+      "name": "何雪云;董恒;储婉琴;曹士坷;梁彦;朱彤;张翠芳;周小燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 95831,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

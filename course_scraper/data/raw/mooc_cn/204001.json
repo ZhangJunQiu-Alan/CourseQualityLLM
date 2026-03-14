@@ -1,0 +1,31 @@
+{
+  "course_id": "204001",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "声音怎样通过电话传到对方耳朵？微信如何通过网络传到对方的手机？空中为什么可以同时有许多个无线电信号而相互不打架？一根CATV电缆为什么可以同时传输那么多路电视信号？……想知道这些问题的答案，那就请参加我们课程吧！在这里你还会知道柯南的变声器原理，傅里叶是谁，拉普拉斯又是哪一位……",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/204001",
+  "instructors": [
+    {
+      "name": "王东;冯熳;孟桥;俞菲;曹振新;燕锋;陈鹏;吴亮;赵鑫泰;梁乐;张雷;姚帅;徐浩",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 173302,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

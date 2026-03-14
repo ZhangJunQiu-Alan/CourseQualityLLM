@@ -1,0 +1,44 @@
+{
+  "course_id": "course-0bc79586-dd66-49d1-a17b-3e07ac0b724f",
+  "platform": "edx",
+  "title": "An Introduction to Credit Risk Management",
+  "description": "Imagine that you are a bank and a main part of your daily business is to lend money. Unfortunately, lending money is a risky business - there is no 100% guarantee that you will get all your money back. If the borrower defaults, you will face losses in your portfolio. Or, in a bit less extreme scenario, if the credit quality of your counterparty deteriorates according to some rating system, the loan will become more risky. These are typical situations in which credit risk manifests itself. \n According to the Basel Accords, a global regulation framework for financial institutions, credit risk is one of the three fundamental risks a bank or any other regulated financial institution has to face when operating in the markets (the two other risks being market risk and operational risk). As the 2008 financial crisis has shown us, a correct understanding of credit risk and the ability to manage it are fundamental in today’s world. \n This course offers you an introduction to credit risk modelling and hedging. We will approach credit risk from the point of view of banks, but most of the tools and models we will overview can be beneficial at the corporate level as well. \n At the end of the course, you will be able to understand and correctly use the basic tools of credit risk management, both from a theoretical and, most of all, a practical point of view. For each methodology, we will analyse its strengths as well as its weaknesses. We will do this in a rigorous way, but also with fun: there is no need to be boring.",
+  "learning_goals": [
+    "Financial Crisis",
+    "Operational Risk",
+    "Manifests",
+    "Credit Risk",
+    "Credit Risk Management",
+    "Market Risk",
+    "Loans",
+    "Hedging"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 6-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "pasquale-cirillo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "fang-fang",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 358,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

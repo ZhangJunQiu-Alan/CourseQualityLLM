@@ -1,0 +1,31 @@
+{
+  "course_id": "1206627826",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术实验",
+  "description": "“模拟电子技术实验”是电类专业独立设置的实践课程，本课程通过Multisim仿真、面包板搭试电路以及虚拟仪器测量等多种形式，使学生掌握不同的实验方法与手段；通过验证性、设计性、综合性分层次的实验项目训练，逐步提高学生的分析和解决问题的能力，培养学生工程实践能力和电子电路的设计能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206627826",
+  "instructors": [
+    {
+      "name": "杨立生;葛年明;周泉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "三江学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7266,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206774803",
+  "platform": "mooc_cn",
+  "title": "地理信息系统（GIS）实验",
+  "description": "地理信息系统是地理信息科学、测绘工程等专业的专业基础课程，而GIS实验是该课程的主要部分。本课程体系完整，涵盖数据采集、编辑、健库、管理、空间分析、可视化等地理信息系统学习与应用的所有环节；课程基础扎实，是国家精品课程和资源共享课程的主要组成部分；由国家教学名师领衔的教学团队授课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206774803",
+  "instructors": [
+    {
+      "name": "熊礼阳;李发源;汤国安;杨昕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 80565,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

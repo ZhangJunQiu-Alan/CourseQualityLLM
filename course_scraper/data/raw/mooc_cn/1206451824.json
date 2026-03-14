@@ -1,0 +1,31 @@
+{
+  "course_id": "1206451824",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "线性代数是理工科各专业非常重要的基础课之一，通过学习本课程使同学们掌握行列式、矩阵、向量、线性方程组、相似矩阵和二次型等线性代数的基本理论与方法，领会线性代数的思维方法，为后续课奠定必要的基础，逐步培养同学们分析问题、解决问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206451824",
+  "instructors": [
+    {
+      "name": "王香柯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26661,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

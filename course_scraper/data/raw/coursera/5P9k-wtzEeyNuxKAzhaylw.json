@@ -1,0 +1,26 @@
+{
+  "course_id": "5P9k-wtzEeyNuxKAzhaylw",
+  "platform": "coursera",
+  "title": "Sécurité informatique et dangers du numérique",
+  "slug": "securite-informatique-defense-contre-les-pratiques-sombres-du-numerique",
+  "description": "Ce cours couvre une grande variété de concepts, d’outils et de meilleures pratiques en matière de sécurité informatique. Il présente les menaces et les attaques et les nombreuses façons dont elles peuvent se manifester. Nous allons vous présenter les algorithmes de cryptage et la manière dont ils sont utilisés pour protéger les données. Ensuite, nous nous plongerons dans les trois A de la sécurité de l’information : authentification, autorisation et comptabilité. Nous aborderons également les solutions de sécurité du réseau, allant des pare-feu aux options de cryptage Wi-Fi. Le cours se termine par la mise en commun de tous ces éléments dans une architecture de sécurité multicouche et approfondie, suivie de recommandations sur la manière d’intégrer une culture de la sécurité dans votre organisation ou votre équipe.\n\nÀ la fin de ce cours, vous serez capables de comprendre :\n● le fonctionnement des différents algorithmes et techniques de cryptage, ainsi que leurs avantages et leurs limites ;\n● divers systèmes et types d’authentification ;\n● la différence entre l’authentification et l’autorisation ;\n● comment évaluer les risques potentiels et recommander des moyens de réduire les risques ;\n● les meilleures pratiques pour sécuriser un réseau ;\n● comment aider les autres à appréhender les concepts de sécurité et à se protéger.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/securite-informatique-defense-contre-les-pratiques-sombres-du-numerique",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

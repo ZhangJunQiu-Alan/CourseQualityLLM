@@ -1,0 +1,34 @@
+{
+  "course_id": "course-84f89d1e-6533-4d22-a601-2a3e3a9fe3eb",
+  "platform": "edx",
+  "title": "Quantum Mechanics for Scientists and Engineers 1",
+  "description": "This 9 week course aims to teach quantum mechanics to anyone with a reasonable college-level understanding of physical science or engineering. Quantum mechanics was once mostly of interest to physicists, chemists and other basic scientists. Now the concepts and techniques of quantum mechanics are essential in many areas of engineering and science such as materials science, nanotechnology, electronic devices, and photonics. \n This course is a substantial introduction to quantum mechanics and how to use it. It is specifically designed to be accessible not only to physicists but also to students and technical professionals over a wide range of science and engineering backgrounds.",
+  "learning_goals": [
+    "Materials Science",
+    "Quantum Mechanics",
+    "Physical Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "9 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-miller",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3212,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

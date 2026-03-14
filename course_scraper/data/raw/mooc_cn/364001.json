@@ -1,0 +1,31 @@
+{
+  "course_id": "364001",
+  "platform": "mooc_cn",
+  "title": "微积分（四）",
+  "description": "18世纪被称为数学史上的英雄世纪。微积分被应用于天文学、力学、光学、热学等各个领域，并获得了丰硕的成果。在数学本身又发展出了多元微分学、多重积分学、微分方程、无穷级数的理论，这其中的一部分内容经过不断完善就形成了我们今天这门课程中要给大家介绍的内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/364001",
+  "instructors": [
+    {
+      "name": "尹逊波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 66839,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

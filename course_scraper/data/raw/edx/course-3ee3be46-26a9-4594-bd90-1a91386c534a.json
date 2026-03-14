@@ -1,0 +1,40 @@
+{
+  "course_id": "course-3ee3be46-26a9-4594-bd90-1a91386c534a",
+  "platform": "edx",
+  "title": "Energy Within Environmental Constraints",
+  "description": "Humanity faces an immense challenge: providing abundant energy to everyone without wrecking the planet. If we want a high-energy future while protecting the natural world for our children, we must consider the environmental consequences of energy production and use. But money matters too: energy solutions that ignore economic costs are not realistic, particularly in a world where billions of people currently can’t afford access to basic energy services. How can we proceed?  \n Energy Within Environmental Constraints won’t give you the answer. Instead, we will teach you how to ask the right questions and estimate the consequences of different choices.  \n This course isrich in details of real devices and light on theory. You won’t find any electrodynamics here, but you will find enough about modern commercial solar panels to estimate if they would be profitable to install in a given location. We emphasizes costs: the cascade of capital and operating costs from energy extraction all the way through end uses. We also emphasize quantitative comparisons and tradeoffs: how much more expensive is electricity from solar panels than from coal plants, and how much pollution does it prevent? Is solar power as cost-effective an environmental investment as nuclear power or energy efficiency? And how do we include considerations other than cost?  \n This course is intended for a diverse audience. Whether you are a student, an activist, a policymaker, a business owner, or a concerned citizen, this course will help you start to think carefully about our current energy system and how we can improve its environmental performance.  \n Photo credits:  \n  Solar Farm  CC-BY Michael Mees on flickr \n Smokestack  CC-BY Patrick on flickr",
+  "learning_goals": [
+    "Energy Production",
+    "Operating Cost",
+    "Energetic",
+    "Environmentalism"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-keith",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "daniel-thorpe",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3412,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

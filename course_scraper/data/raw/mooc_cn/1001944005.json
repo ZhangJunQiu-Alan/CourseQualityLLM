@@ -1,0 +1,31 @@
+{
+  "course_id": "1001944005",
+  "platform": "mooc_cn",
+  "title": "材料科学基础",
+  "description": "材料科学是探究材料结构、制备、性能和使役行为之间关系和变化规律的一门应用基础学科。“材料科学基础”是材料类各专业的重要专业基础课程。通过本课程相关基础理论知识的学习，学生将具有分析、解决材料科学与工程专业复杂工程问题的基本能力，并为后续专业课的继续学习奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001944005",
+  "instructors": [
+    {
+      "name": "赵杰;王清;叶飞;李佳艳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 88312,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002193001",
+  "platform": "mooc_cn",
+  "title": "大学物理专题：质点力学、刚体与流体、电磁学、相对论",
+  "description": "大学物理专题Mooc不是对物理知识点的讲授，而是通过把教材上的知识点与息息相关的历史、生活、工程和科学实例相结合，让大家能在轻松有趣的学习中，体会物理是如何解决实际问题以及感受物理的妙趣。学好本课程也会对大家的课堂学习有益。本课程结构简单，可用少的时间取得最大的收获，欢迎参与学习！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002193001",
+  "instructors": [
+    {
+      "name": "侯吉旋;刘甦;董科;夏柱红;刘冬梅;庞侯荣;周雨青;彭毅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 46992,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

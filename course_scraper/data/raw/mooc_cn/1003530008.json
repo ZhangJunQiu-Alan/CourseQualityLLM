@@ -1,0 +1,31 @@
+{
+  "course_id": "1003530008",
+  "platform": "mooc_cn",
+  "title": "单片机原理及应用",
+  "description": "《单片机原理及应用》是国家级一流课程，这门课主要介绍MCS-51系列单片机的工作原理和软件，硬件设计方法。通过本门课的学习，大家将学会使用C语言设计单片机应用程序。本门课以通俗易懂的语言讲解单片机的工作原理，以实际演示的方式，帮助大家掌握C语言程序的设计方法，还会展示一些基于单片机设计的实际电子产品。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003530008",
+  "instructors": [
+    {
+      "name": "高宏亮;杨华;王玉涛;杨丹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 71487,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

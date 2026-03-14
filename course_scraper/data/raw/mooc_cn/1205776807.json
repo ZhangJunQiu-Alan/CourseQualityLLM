@@ -1,0 +1,31 @@
+{
+  "course_id": "1205776807",
+  "platform": "mooc_cn",
+  "title": "App Inventor-零基础Android移动应用开发",
+  "description": "以 Android 的图形化积木式编程软件 App Inventor 2 中文版为载体，从零起点开始， 以10个精心设计的趣味案列为主线进行项目驱动的教学，培养学生的计算思维，并具备基本的 Android应用开发能力。 本课程为国家精品在线开放课程、Google精品课程，Google App Inventor全国中学生挑战赛推荐课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205776807",
+  "instructors": [
+    {
+      "name": "吴明晖;李甜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙大城市学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 55408,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "217001",
+  "platform": "mooc_cn",
+  "title": "微积分启蒙",
+  "description": "数学的重要主题是方程与函数。其中最简单的是一次方程与一次函数。宇宙没有这么简单,大量的是非匀速的运动和变化,需要研究非一次函数。怎样研究? 变成一次函数来研究。这就是微积分的“兵法”。在这个兵法指挥下发展出一整套“剑法”，就是微积分课程的主要内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/217001",
+  "instructors": [
+    {
+      "name": "李尚志",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 60826,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

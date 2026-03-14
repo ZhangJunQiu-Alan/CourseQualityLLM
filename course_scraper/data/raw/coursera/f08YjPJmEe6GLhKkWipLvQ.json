@@ -1,0 +1,26 @@
+{
+  "course_id": "f08YjPJmEe6GLhKkWipLvQ",
+  "platform": "coursera",
+  "title": "Google Cloud Customer Care Fundamentals - 日本語版",
+  "slug": "google-cloud-customer-care-fundamentals-ja",
+  "description": "このコースでは、Google Cloud サポートを最大限に活用する方法について説明します。Google Cloud カスタマーケアが提供するさまざまなサポート サービス、サポートケースを作成および管理する方法、Google Cloud のサービスに影響を与える既知の問題を確認する方法、サポート エンジニアと効果的にコミュニケーションを取る方法について学習します。さらに、さまざまなケースの優先順位付けとサービスレベル目標（SLO）についても学習し、ケースのステータスや必要に応じてサポートケースをエスカレーションする方法についての理解を深めます。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/google-cloud-customer-care-fundamentals-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

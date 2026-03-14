@@ -1,0 +1,26 @@
+{
+  "course_id": "IsT3WDYrEeyZlQoNyXy15Q",
+  "platform": "coursera",
+  "title": "Developing Data Models with LookML",
+  "slug": "developing-data-models-with-lookml",
+  "description": "This course empowers you to develop scalable, performant LookML (Looker Modeling Language) models that provide your business users with the standardized, ready-to-use data that they need to answer their questions. Upon completing this course, you will be able to start building and maintaining LookML models to curate and manage data in your organization’s Looker instance.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/developing-data-models-with-lookml",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1471102163",
+  "platform": "mooc_cn",
+  "title": "大学物理（力学、电磁学）",
+  "description": "物理学是研究物质的基本结构、相互作用和物质最基本、最普遍的运动方式及其相互转化规律的学科。物理学的研究对象具有极大的普遍性。其基本理论渗透自然科学的一切领域，应用于生产技术的各个部门，它是自然科学的许多领域和工程技术的基础。以物理学基础知识为内容的大学物理课，它所包括的经典物理、近代物理和物理学在科学技术上应用的基本概念、基本理论和基本方法是构成学生科学素养的重要组成部分，因此，大学物理课是理工类学生重要的必修基础课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471102163",
+  "instructors": [
+    {
+      "name": "史顺平;陶明杰;郭家兴;赵晓凤;马丽;何九宁;袁靖雯;李侠;郜婵;张飒;刘双;王小霞;唐科;王乾鹏;雷丹;张洁;邓邦林;刘雪峰;宋永;温晓会;胡燕飞;张传瑜;陈小凤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "成都理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6221,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

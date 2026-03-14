@@ -1,0 +1,31 @@
+{
+  "course_id": "efoByQBKEeyqpRL9ChOPjQ",
+  "platform": "coursera",
+  "title": "Integral Calculus and Numerical Analysis for Data Science",
+  "slug": "integral-calculus-and-numerical-analysis-for-data-science",
+  "description": "Are you interested in Data Science but lack the math background for it? Has math always been a tough subject that you tend to avoid? This course will provide an intuitive understanding of foundational integral calculus, including integration by parts, area under a curve, and integral computation. It will also cover root-finding methods, matrix decomposition, and partial derivatives.\n\nThis course is designed to prepare learners to successfully complete Statistical Modeling for Data Science Application, which is part of CU Boulder's Master of Science in Data Science (MS-DS) program. \n\nLogo courtesy of  ThisisEngineering RAEng on Unsplash.com",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/integral-calculus-and-numerical-analysis-for-data-science",
+  "instructors": [
+    {
+      "name": "James Bird",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Jane Wall",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

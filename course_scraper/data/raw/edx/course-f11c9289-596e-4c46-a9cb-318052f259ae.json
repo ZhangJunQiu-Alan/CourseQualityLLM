@@ -1,0 +1,36 @@
+{
+  "course_id": "course-f11c9289-596e-4c46-a9cb-318052f259ae",
+  "platform": "edx",
+  "title": "AI for Everyone: Master the Basics",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n In this course, you will learn what AI is and understand its applications and use cases and how it is transforming our lives. You will explore basic AI concepts including machine learning, deep learning, and neural networks as well as use cases and applications of AI. You will be exposed to concerns surrounding AI, including ethics, bias, jobs and the impacts on society. \n You will take a glimpse of the future with AI, get advice for starting an AI related career, and wrap up the course by demonstrating AI in action with a mini project. \n This AI for Everyone course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
+  "learning_goals": [
+    "Artificial Neural Networks",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Deep Learning",
+    "Computer Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 34085,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

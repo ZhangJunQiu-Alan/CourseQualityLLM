@@ -1,0 +1,39 @@
+{
+  "course_id": "course-b4943c80-33c7-4f11-b6f8-4de028dd7251",
+  "platform": "edx",
+  "title": "Energy and Thermodynamics",
+  "description": "What is energy and why is it so important? How does chemistry inform energy efficiency and sustainability?  Energy and Thermochemistry  is an interdisciplinary, online course that introduces you to the concept of energy. Providing a foundational understanding of energy, this course shows you how energy at the molecular level forms the basis of nearly every scientific discussion of chemical, physical, and biological change. \n In this course, you will cover three core concepts — energy, atoms and molecular structure, and thermodynamics. At the start of this course, you will learn about the different types of energy, including potential, kinetic, electrical, chemical, electromagnetic, thermal, and internal energy. You will examine Newton’s Second Law of Thermodynamics, the Joule apparatus, energy release and consumption, and energy and power scales. In the next section, you will move to the study of atoms, the building blocks of molecules, discovering electrons and the nucleus, atomic mass, and molecular structure. Finally, you’ll end the course learning about thermochemistry and the relationship between energy, heat transfer, and work, leading to an understanding of energy in a modern setting and how chemistry can inform energy efficiencies. \n Through readings, videos, and case studies, these modules will help you to understand how energy flows through an economic structure. You will gain a deeper knowledge of the consumption of fossil fuels, conservation of energy, and, ultimately, how to build a sustainable energy future.",
+  "learning_goals": [
+    "Thermal Management",
+    "Heat Transfer",
+    "Renewable Energy",
+    "Biology",
+    "Thermodynamics",
+    "Chemistry",
+    "Thermochemistry",
+    "Enthalpy"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 4-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "james-anderson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4529,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

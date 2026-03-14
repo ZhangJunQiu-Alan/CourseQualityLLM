@@ -1,0 +1,75 @@
+{
+  "course_id": "course-ee757321-8abb-4bb6-ae9f-c7fd2df67977",
+  "platform": "edx",
+  "title": "Academic Writing Made Easy",
+  "description": "This MOOC takes you through the basics of academic writing step by step. From structuring and organising an academic text to avoiding common pitfalls that can negatively affect your credibility, this 6-week course offers a guide for those who want to improve their writing. It looks at various components that will make your academic writing stand out for all the right reasons, including paragraphing, style, tone, paraphrasing and punctuation. Using samples of student writing it also gives you tips on what to avoid and explains why. Each week is comprised of video lessons, followed by exercises and peer-review tasks, taking you through various aspects of academic writing. \n The course requires upper-intermediate (B2) to advanced English (C1).",
+  "learning_goals": [
+    "Writing",
+    "Punctuation And Capitalization",
+    "Academic Writing",
+    "Paraphrasing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dr-heidi-minning",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jeremiah-hendren",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-stephen-starck",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-aparna-bhar",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "susan-obyrne",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rose-jacobs",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ruth-shannon",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "elizabeth-hamzi-schmidt",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "tina-schrier",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Technical University of Munich"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1127,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

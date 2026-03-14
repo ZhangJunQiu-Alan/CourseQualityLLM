@@ -1,0 +1,26 @@
+{
+  "course_id": "wVK32ROPEfCYRxIhlWcJNQ",
+  "platform": "coursera",
+  "title": "Dynamic volume provisioning on GKE with Google Cloud NetApp Volumes",
+  "slug": "googlecloud-dynamic-volume-provisioning-on-gke-with-google-cloud-netapp-vo-3weox",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "45 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-dynamic-volume-provisioning-on-gke-with-google-cloud-netapp-vo-3weox",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "zbYRhbmHEfC_hBK8sRL5fQ",
+  "platform": "coursera",
+  "title": "Voice AI: Introduction to Building Voice Applications",
+  "slug": "voice-ai-introduction-to-building-voice-applications",
+  "description": "Build Practical Voice Apps: From Basics to Implementation is a beginner-level course designed to help developers create voice applications that users actually want to use. As voice AI transforms industries from healthcare to retail, the demand for skilled voice application developers continues to grow. \n\nThis course provides hands-on experience with the core technologies—speech recognition, natural language processing, and text-to-speech—while emphasizing real-world implementation challenges and user experience design. Through practical projects, real-world case studies from companies like Deepgram and VAPI AI, and comprehensive testing strategies, you'll learn to build voice applications that solve genuine business problems. \n\nThe course covers everything from choosing the right APIs and optimizing for different environments to integrating with existing systems and deploying production-ready solutions. Whether you're adding voice features to existing applications or creating entirely new voice-first experiences, this course gives you the practical skills and strategic thinking needed to succeed in the rapidly evolving voice AI landscape.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "30 min/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/voice-ai-introduction-to-building-voice-applications",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

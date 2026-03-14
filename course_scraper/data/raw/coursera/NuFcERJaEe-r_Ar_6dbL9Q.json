@@ -1,0 +1,26 @@
+{
+  "course_id": "NuFcERJaEe-r_Ar_6dbL9Q",
+  "platform": "coursera",
+  "title": "Building Multimodal Search and RAG",
+  "slug": "building-multimodal-search-and-rag",
+  "description": "Learn how to build multimodal search and RAG systems. RAG systems enhance an LLM by incorporating proprietary data into the prompt context. Typically, RAG applications use text documents, but, what if the desired context includes multimedia like images, audio, and video? This course covers the technical aspects of implementing RAG with multimodal data to accomplish this.\n\n1. Learn how multimodal models are trained through contrastive learning and implement it on a real dataset.\n\n2. Build any-to-any multimodal search to retrieve relevant context across different data types.\n\n3. Learn how LLMs are trained to understand multimodal data through visual instruction tuning and use them on multiple image reasoning examples.\n\n4. Implement an end-to-end multimodal RAG system that analyzes retrieved multimodal context to generate insightful answers.\n\n5. Explore industry applications like visually analyzing invoices and flowcharts to output structured data.\n\n6. Create a multi-vector recommender system that suggests relevant items by comparing their similarities across multiple modalities.\n\nAs AI systems increasingly need to process and reason over multiple data modalities, learning how to build such systems is an important skill for AI developers.\n\nThis course equips you with the key skills to embed, retrieve, and generate across different modalities. By gaining a strong foundation in multimodal AI, you’ll be prepared to build smarter search, RAG, and recommender systems.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/building-multimodal-search-and-rag",
+  "instructors": [
+    {
+      "name": "Sebastian Witalec",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "DeepLearning.AI"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

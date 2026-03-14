@@ -1,0 +1,26 @@
+{
+  "course_id": "ypWjWfS3Ee2OqwqhrYNGhQ",
+  "platform": "coursera",
+  "title": "Perform exploratory data analysis on retail data with Python",
+  "slug": "perform-exploratory-data-analysis-on-retail-data-with-python",
+  "description": "In this project, you'll serve as a data analyst at an online retail company helping interpret real-world data to help make key business decisions. Your task is to explore and analyze this dataset to gain insights into the store's sales trends, customer behavior, and popular products. \n\nUpon completion, you’ll be able to demonstrate your ability to perform a comprehensive data analysis project that involves critical thinking, extensive data analysis and visualization, and making data-driven business decisions.\n\nThere isn’t just one right approach or solution in this scenario, which means you can create a truly unique project that helps you stand out to employers.\n\nROLE: Data Analyst\n\nSKILLS: Python\n\nPREREQUISITES: \nPython, Numpy, Matplotlib or Seaborn, Git, Jupyter Notebook",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "8 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/perform-exploratory-data-analysis-on-retail-data-with-python",
+  "instructors": [
+    {
+      "name": "Justin Flett",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

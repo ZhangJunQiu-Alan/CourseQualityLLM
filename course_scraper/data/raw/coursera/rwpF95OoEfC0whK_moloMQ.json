@@ -1,0 +1,26 @@
+{
+  "course_id": "rwpF95OoEfC0whK_moloMQ",
+  "platform": "coursera",
+  "title": "SwiftUI Covid19 Statistics Tracker with REST API & Swift 5",
+  "slug": "packt-swiftui-covid19-statistics-tracker-with-rest-api-and-swift-5-xjvji",
+  "description": "In this course, you will build a fully functional SwiftUI app to track COVID-19 statistics, using Swift 5 and integrating a REST API. By the end of this course, you will understand how to fetch live data, display real-time statistics, and design an intuitive user interface for an iOS app. The course walks you through every step, ensuring a practical learning experience with real-world applications.\n\nThe course begins with setting up the project and registering for the required API. You'll then proceed through 13 detailed video lessons, each guiding you through key aspects of app development, from designing user interfaces to managing and displaying COVID-19 statistics. With each part of the course, you will progressively build out more complex app functionality, resulting in a complete, dynamic iOS 15 app by the end.\n\nThis course is perfect for beginners with a basic understanding of programming who want to dive into mobile app development with SwiftUI. It’s especially useful for those who want to learn how to integrate APIs into their apps and build data-driven mobile applications. The course is beginner-friendly, but a basic understanding of programming concepts will be beneficial.\n\nBy the end of the course, you will be able to build a COVID-19 tracking app using SwiftUI, integrate and manage real-time data from a REST API, and develop a polished iOS application with a focus on usability and functionality.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-swiftui-covid19-statistics-tracker-with-rest-api-and-swift-5-xjvji",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

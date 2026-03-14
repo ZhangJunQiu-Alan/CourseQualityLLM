@@ -1,0 +1,26 @@
+{
+  "course_id": "OHIER565EfCwTRI-ULT-KQ",
+  "platform": "coursera",
+  "title": "Unreal Engine 5 for Games - Physics",
+  "slug": "packt-unreal-engine-5-for-games-physics-gvj3x",
+  "description": "This course features Coursera Coach! A smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nUnreal Engine 5 is one of the most powerful game development tools available today. This course offers a comprehensive guide to mastering Unreal Engine's physics system, providing you with the skills to create realistic, dynamic game environments. Throughout this course, you will learn how to simulate physical interactions, handle object collisions, and manipulate forces and materials for a more immersive gaming experience.\n\nThe course starts with foundational physics principles in Unreal Engine 5, such as physics bodies, vectors, and collision volumes. As you progress, you'll explore more advanced topics like destruction physics, cloth simulation, and cable dynamics. Practical applications will guide you through creating interactive gameplay elements, and by the end of the course, you'll be able to apply your knowledge in real-world game development projects.\n\nThis course is ideal for aspiring game developers, particularly those with an interest in the technical aspects of Unreal Engine. No prior experience with physics engines is required, although familiarity with game development basics will be helpful. The course has an intermediate difficulty level, so it is perfect for learners with some foundational knowledge of game development who are ready to dive deeper into physics simulations.\n\nBy the end of the course, you will be able to simulate realistic physics interactions in Unreal Engine 5, create dynamic environments with forces and materials, design destructible objects, and implement advanced simulation systems such as cloth physics and cable dynamics.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-unreal-engine-5-for-games-physics-gvj3x",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

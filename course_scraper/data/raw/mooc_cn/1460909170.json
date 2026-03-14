@@ -1,0 +1,31 @@
+{
+  "course_id": "1460909170",
+  "platform": "mooc_cn",
+  "title": "数学建模导引——透过数学看世界",
+  "description": "数学建模中主要用到哪些数学知识？这些知识分布在大学里的哪些数学课程中？在数学建模时，怎样才能把这些数学知识用对、用好？《数学建模导引——透过数学看世界》这门课将着重回答这三个问题，同时，通过学习这门课，大家还可以了解如何透过数学方法、数学观点来看待世间万物。我们会概略性地介绍大学本科阶段会学习的微积分、线性代数、概率论与统计学、微分方程、运筹学、计算方法等课程的主要内容和应用背景，帮助大学生对这些课程建立一些宏观的认识、面向应用的理解。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460909170",
+  "instructors": [
+    {
+      "name": "熊春光;王宏洲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4159,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

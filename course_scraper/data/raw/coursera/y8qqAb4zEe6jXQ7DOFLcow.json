@@ -1,0 +1,26 @@
+{
+  "course_id": "y8qqAb4zEe6jXQ7DOFLcow",
+  "platform": "coursera",
+  "title": "Introduction to FastAPI framework",
+  "slug": "introduction-to-fastapi-framework",
+  "description": "In this 2-hour hands-on course, you will build a web application with FastAPI. You will create routes to handle requests and responses, define request body models with validation, serve dynamic content, and run the API with Uvicorn. You will also leverage FastAPI's interactive OpenAPI docs to test endpoints and generate curl commands. By the end, you will have built and deployed a FastAPI web app using best practices for request handling, response validation, and documentation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-fastapi-framework",
+  "instructors": [
+    {
+      "name": "Alfredo Deza",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Duke University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

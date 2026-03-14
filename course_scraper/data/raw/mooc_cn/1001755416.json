@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755416",
+  "platform": "mooc_cn",
+  "title": "电子线路",
+  "description": "电子信息技术是发展最为迅速的领域之一，这主要得益于集成电路和计算机的发明。这两项技术既是电子技术发展的产物，又是电子技术持续发展的推动力。在这样的时代背景下，掌握电子技术是对所有电类专业学生的基本要求。本课程将引领您进入模拟电子电路的知识大门，为您解读其中的奥秘。欢迎加入本课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755416",
+  "instructors": [
+    {
+      "name": "陈珂;王成华;闫成刚;夏永君;胡志忠;刘伟强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24178,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

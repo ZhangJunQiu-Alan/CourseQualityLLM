@@ -1,0 +1,26 @@
+{
+  "course_id": "jtX_viAXEe671A66sAWTEw",
+  "platform": "coursera",
+  "title": "Fundamentals of Information System Security Architecture",
+  "slug": "information-system-security-architecture-first-course-1",
+  "description": "This course is designed for Cybersecurity and Application Security Specialists, IT Security Managers and System Administrators, Software Developers, as well as IT Consultants and Penetration Testers. The course provides an introduction to the principles of information system security architecture. The focus will be on understanding key concepts, existing frameworks, and risk assessment methodologies. It will also cover topics like the CIA triad (Confidentiality, Integrity, Availability), defense in depth, and zero-trust architectures. By the end of the course, learners should have a firm grasp of security architecture fundamentals and be ready to delve into more advanced topics.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/information-system-security-architecture-first-course-1",
+  "instructors": [
+    {
+      "name": "LearnQuest Network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LearnQuest"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

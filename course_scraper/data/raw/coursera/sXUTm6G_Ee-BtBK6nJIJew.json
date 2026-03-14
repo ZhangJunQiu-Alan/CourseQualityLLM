@@ -1,0 +1,26 @@
+{
+  "course_id": "sXUTm6G_Ee-BtBK6nJIJew",
+  "platform": "coursera",
+  "title": "Boost Productivity with Gemini in BigQuery - 日本語版",
+  "slug": "boost-productivity-with-gemini-in-bigquery-ja",
+  "description": "このコースでは、データを AI 活用へつなげるためのワークフローに役立つ AI 搭載の機能スイート、Gemini in BigQuery について説明します。この機能スイートには、データの探索と準備、コード生成とトラブルシューティング、ワークフローの検出と可視化などが含まれます。このコースでは、概念の説明、実際のユースケース、ハンズオンラボを通じて、データ実務者が生産性を高め、開発パイプラインを迅速化できるよう支援します。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/boost-productivity-with-gemini-in-bigquery-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

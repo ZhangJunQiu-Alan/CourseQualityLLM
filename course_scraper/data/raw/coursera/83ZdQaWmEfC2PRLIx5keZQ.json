@@ -1,0 +1,31 @@
+{
+  "course_id": "83ZdQaWmEfC2PRLIx5keZQ",
+  "platform": "coursera",
+  "title": "Bitbucket Pipelines for CI/CD Automation",
+  "slug": "bitbucket-pipelines-for-cicd-automation",
+  "description": "DevOps has become a core aspect of the everyday development process. Being able to automate common tasks like testing, building, and deploying software allows developers to be more efficient and effective.  This comprehensive course equips DevOps specalists and software developers with essential skills to build Bitbucket CI/CD pipelines into their development processes. Through hands-on labs using industry standard tools like Bitbucket, you'll master the process of building CI/CD pipelines and integrating the DevOps workflow. By course completion, you'll confidently be able to build pipelines that integrate build, test, and deployment tasks into your deveopment workflow. This course provides the practical expertise required to enhance your development process and automate the common tasks you have.\n\nThis course is designed for DevOps specialists and software developers eager to integrate CI/CD automation into their workflows using Bitbucket Pipelines. With a basic understanding of programming concepts, you'll learn how to build and configure Bitbucket pipelines for tasks like testing, building, and deploying software. Ideal for those looking to automate and streamline their development process, this course provides hands-on experience and practical skills for enhancing your DevOps practices.\n\nA basic understanding of any programming language means being familiar with concepts like variables, loops, conditionals, and functions. You don’t need to be an expert, but having a grasp of these basics will help you work with code, automate tasks, and troubleshoot effectively throughout this course.\n\nBy the end of this course, you will have the practical expertise to seamlessly integrate Bitbucket Pipelines into your development process, automating tasks like testing, building, and deployment. With hands-on experience, you'll be ready to enhance your workflows and boost your productivity in real-world DevOps environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "60 Minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/bitbucket-pipelines-for-cicd-automation",
+  "instructors": [
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Scott Cosentino",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "62001",
+  "platform": "mooc_cn",
+  "title": "高级语言程序设计",
+  "description": "本课程面向无编程基础，并致力于编程的学生，使其掌握结构化程序设计的基本概念、思想和方法，并培养其计算思维能力。通过本课程学习，学生能够掌握程序设计语言的基本语法、结构化程序设计的思想和方法，养成良好的编程风格；最终能在这些方法和思想的指导下，使用C语言写出解决实际问题的程序。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/62001",
+  "instructors": [
+    {
+      "name": "吕帅;陈娟;张长海",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "吉林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 66085,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

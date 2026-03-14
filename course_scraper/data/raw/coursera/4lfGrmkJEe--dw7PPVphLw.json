@@ -1,0 +1,26 @@
+{
+  "course_id": "4lfGrmkJEe--dw7PPVphLw",
+  "platform": "coursera",
+  "title": "SAP Landing Zone: Plan and Deploy the SAP Network",
+  "slug": "googlecloud-sap-landing-zone-plan-and-deploy-the-sap-network-lxeqt",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab, students will be introduced to the key activities involved in deploying GCP network resources involved in building an “SAP Landing Zone”.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-sap-landing-zone-plan-and-deploy-the-sap-network-lxeqt",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

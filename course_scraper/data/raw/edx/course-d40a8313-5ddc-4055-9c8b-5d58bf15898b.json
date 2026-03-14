@@ -1,0 +1,30 @@
+{
+  "course_id": "course-d40a8313-5ddc-4055-9c8b-5d58bf15898b",
+  "platform": "edx",
+  "title": "Agile with AI",
+  "description": "In this cutting-edge course, you'll discover how to: \n \n Leverage the power of generative AI to rapidly prototype and iterate on ideas \n Apply prompt engineering techniques to guide AI models towards desired outputs \n Utilize AI pair programming tools to boost developer productivity and creativity \n Integrate generative AI seamlessly into your DevOps workflow for maximum impact \n \n Whether you're a seasoned software engineer or just starting your coding journey, this course will equip you with the skills and knowledge to push the boundaries of what's possible with AI-powered software development. Get ready to transform the way you build software and stay ahead of the curve in this exciting new era of AI-driven innovation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "noah-gift",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pragmatic AI Labs"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 581,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

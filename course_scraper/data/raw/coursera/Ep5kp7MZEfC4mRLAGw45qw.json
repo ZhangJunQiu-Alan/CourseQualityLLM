@@ -1,0 +1,31 @@
+{
+  "course_id": "Ep5kp7MZEfC4mRLAGw45qw",
+  "platform": "coursera",
+  "title": "Detect & Respond to Mobile AI Threats",
+  "slug": "detect--respond-to-mobile-ai-threats-",
+  "description": "Smartphones now run powerful on-device AI that learns from your behavior—and that means new risk. In this intermediate course, you’ll learn how AI turns phones into active attack surfaces and how adversaries weaponize deepfakes, side-channel inference, and mobile LLM agents. Through short, focused videos and scenario-based discussions, you’ll see exactly how zero-permission sensors and cache traces reveal activity, how overlays and prompt injection hijack agents, and why “permissions” alone don’t ensure privacy. Then you’ll turn knowledge into action: baseline telemetry, write simple detection rules, verify links and intents, quarantine devices, rotate tokens, and draft a one-page SOP. AI-graded labs provide hands-on practice, and a capstone project ties everything together. By the end, you can detect, respond, and harden against AI-driven mobile threats—skills you can apply immediately at home or in an enterprise.\n\nThis course is designed for IT professionals, security analysts, mobile administrators, and technical learners who want to strengthen their ability to protect mobile environments from emerging AI-driven threats. It is also valuable for MDM specialists, SOC/incident response teams, and cybersecurity students looking to understand how modern AI models and agents are changing the mobile threat landscape.\n\nLearners should have a basic understanding of mobile or IT security concepts, along with some comfort navigating Android settings, ADB, or Mobile Device Management (MDM) tools. General familiarity with AI systems or LLM-based agents will also help learners follow demonstrations and better understand how modern AI features influence mobile risk.\n\nBy the end of the course, learners will be able to analyze how AI-driven capabilities—such as sensors, on-device models, and autonomous agents—expand the mobile attack surface and enable scams like deepfake social engineering. They will evaluate real-world AI attack paths, including zero-permission inference and multi-layer agent exploits, and will be able to design a practical detection and response plan using clear rules, fast containment steps, and core resilience controls tailored for mobile environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "90 Minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/detect--respond-to-mobile-ai-threats-",
+  "instructors": [
+    {
+      "name": "Reza Moradinezhad",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

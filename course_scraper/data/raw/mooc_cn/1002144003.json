@@ -1,0 +1,31 @@
+{
+  "course_id": "1002144003",
+  "platform": "mooc_cn",
+  "title": "走近马克思",
+  "description": "跟随马克思的脚步，发现不一样的自己；马克思主义与我们同行，唤醒自己内在的使命。因为马克思主义，人类文明增添了希望与力量！青年们，读马克思吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002144003",
+  "instructors": [
+    {
+      "name": "田明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "暨南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 47798,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1205808826",
+  "platform": "mooc_cn",
+  "title": "遗传学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205808826",
+  "instructors": [
+    {
+      "name": "孙红荧;李金杰;孙传清;刘庆昌;鄂立柱;刘凤霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 58973,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

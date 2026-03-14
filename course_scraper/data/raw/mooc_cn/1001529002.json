@@ -1,0 +1,31 @@
+{
+  "course_id": "1001529002",
+  "platform": "mooc_cn",
+  "title": "经济数学—线性代数",
+  "description": "“经济数学”是高等学校经济管理类专业的一门重要基础课。本课程融经济于数学，体现“数学为本，经济为用”的原则；本课程旨在突出线性代数的基本概念及基本思想；加强学生应用数学知识解决经济问题的能力；处理好具体和抽象、定量和定性、直观判断和逻辑推理等关系，体现数学在经济学中的作用和意义。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001529002",
+  "instructors": [
+    {
+      "name": "杨文霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 123760,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

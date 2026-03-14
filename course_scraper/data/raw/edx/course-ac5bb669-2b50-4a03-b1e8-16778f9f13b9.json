@@ -1,0 +1,36 @@
+{
+  "course_id": "course-ac5bb669-2b50-4a03-b1e8-16778f9f13b9",
+  "platform": "edx",
+  "title": "Fundamentals of Digital Transformation",
+  "description": "This course is a prerequisite for the  Data Analytics for Digital Transformation Professional Certificate  and must be completed before enrolling in the core courses: Predictive Analytics, Simulation for Digital Transformation, and Prescriptive Analytics.  \n The Fundamentals of Digital Transformation course provides a comprehensive introduction to the technologies, strategies, and business models driving digital innovation. Participants will explore key concepts such as cloud computing, artificial intelligence (AI), the Internet of Things (IoT), automation, and data-driven decision-making, learning how these tools reshape industries and enhance customer experiences.  \n Through case studies, interactive activities, and role-play exercises, students will analyze real-world examples of digital transformation in companies like Microsoft, Starbucks, JPMorgan Chase, and Dell. The course also examines ethical considerations, privacy concerns, and organizational challenges, helping participants develop strategies for implementing digital solutions while addressing leadership resistance and compliance requirements. \n By the end of this course, learners will gain a practical understanding of digital transformation frameworks, enabling them to drive innovation, optimize operations, and remain competitive in an increasingly digital economy.",
+  "learning_goals": [
+    "Automation",
+    "Leadership",
+    "Prescriptive Analytics",
+    "Internet Of Things (IoT)",
+    "Cloud Computing",
+    "Predictive Analytics",
+    "Artificial Intelligence",
+    "Data-Driven Decision-Making",
+    "Operations",
+    "Innovation",
+    "Digital Transformation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "2 周，每周 2-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Dartmouth College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 891,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

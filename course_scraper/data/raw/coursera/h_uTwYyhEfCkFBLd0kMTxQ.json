@@ -1,0 +1,26 @@
+{
+  "course_id": "h_uTwYyhEfCkFBLd0kMTxQ",
+  "platform": "coursera",
+  "title": "Elasticsearch: Build, Query & Optimize with ELK",
+  "slug": "elasticsearch-build-query-optimize-elk",
+  "description": "By completing this course, learners will be able to design data models, configure clusters, build custom analyzers, and construct powerful queries in Elasticsearch. They will also master the use of Cluster, Indices, and Document APIs to manage distributed data efficiently. The course provides practical skills in configuring analyzers, avoiding split-brain issues, translating SQL queries into Elasticsearch DSL, and implementing advanced queries such as geo_point and geo_shape searches.\n\nThis course benefits learners by bridging the gap between theory and hands-on application, enabling them to use Elasticsearch with Logstash and Kibana for real-time data ingestion, indexing, and visualization. Unlike traditional database training, this course emphasizes distributed architecture, near real-time search, and practical troubleshooting strategies.\n\nWhat makes this course unique is its comprehensive coverage of Elasticsearch fundamentals through to advanced APIs, combined with real-world scenarios that highlight scalability, performance optimization, and query precision. Whether you are a beginner in NoSQL systems or an IT professional aiming to go beyond basics, this course equips you with the knowledge and confidence to apply Elasticsearch effectively in modern data-driven environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/elasticsearch-build-query-optimize-elk",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

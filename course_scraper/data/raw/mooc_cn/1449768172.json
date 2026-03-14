@@ -1,0 +1,31 @@
+{
+  "course_id": "1449768172",
+  "platform": "mooc_cn",
+  "title": "机械振动学",
+  "description": "本课程由上海交通大学机械系统与振动国家重点实验室的华宏星、李富才、黄修长、李鸿光、龙新华、郑辉、张志谊、何清波、严莉、张振果主讲。使用教材为吴天行、华宏星主编的《机械振动》（清华大学出版社）。课程涵盖了单自由度系统、多自由度系统和连续系统的振动建模、求解和分析，振动控制，振动测量等内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449768172",
+  "instructors": [
+    {
+      "name": "何清波;龙新华;黄修长;华宏星",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17332,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

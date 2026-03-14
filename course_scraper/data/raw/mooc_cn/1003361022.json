@@ -1,0 +1,31 @@
+{
+  "course_id": "1003361022",
+  "platform": "mooc_cn",
+  "title": "光学系统设计与工艺",
+  "description": "《光学系统设计与工艺》是光电信息和测控仪器等相关专业的核心专业课程。本课程将紧密联系理论与实践，带领大家学习光学系统的像质评价方法、光学设计理论，并学会运用国际先进的主流光学设计软件开展典型光学系统的设计。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003361022",
+  "instructors": [
+    {
+      "name": "黄一帆",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23975,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

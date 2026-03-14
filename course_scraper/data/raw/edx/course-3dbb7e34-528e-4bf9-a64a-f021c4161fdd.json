@@ -1,0 +1,47 @@
+{
+  "course_id": "course-3dbb7e34-528e-4bf9-a64a-f021c4161fdd",
+  "platform": "edx",
+  "title": "Supply Chains for Manufacturing: Inventory Analytics",
+  "description": "A supply chain entails two or more parties that are linked together by material, information and money flows. The management of a supply chain attempts to coordinate the activities of the parties so that merchandise is produced and distributed at the right quantities, to the right locations, and at the right time, in order to minimize system-wide costs while satisfying service level requirements.  \n As part of the Principles of Manufacturing MicroMasters program, this course will expose learners to concepts and models important in supply chain and manufacturing system planning,so that you canbettercoordinatevarious resources and assets to optimize the delivery of goods, with an emphasis on key tradeoffs and phenomena. There will be a particular emphasis on how to cope with variability as it arises across a supply chain. The course will introduce a set of operational tactics for dealing with supply chain variability, including:  \n \n Risk pooling \n Inventory placement \n Integrated planning and collaboration \n Information sharing \n Delayed differentation \n Dual sourcing \n Smoothing \n \n Lectures, computer exercises, and case discussions introduce various models and methods for supply chain analysis and optimization.  \n Develop the engineering and management skills needed for competence and competitiveness in today’s manufacturing industry with the Principles of Manufacturing MicroMasters Credential, designed and delivered by MIT's #1-ranked Mechanical Engineering departmentin the world. Learners who pass the 8 courses in the program earn the MicroMasters Credential and qualify to apply to gain credit for MIT’s Master of Engineering in Advanced Manufacturing &amp; Design program.",
+  "learning_goals": [
+    "Mechanical Engineering",
+    "Supply Chain Strategy",
+    "Supply Chain Integration",
+    "Supply Chain Analysis",
+    "Supply Chain",
+    "Planning",
+    "Management",
+    "Merchandising",
+    "Advanced Manufacturing",
+    "Service Level Objectives",
+    "Flexible Manufacturing Systems"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "9 周，每周 10-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "stephen-graves",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sean-willems",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 719,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

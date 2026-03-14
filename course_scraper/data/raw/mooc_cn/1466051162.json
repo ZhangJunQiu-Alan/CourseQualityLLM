@@ -1,0 +1,31 @@
+{
+  "course_id": "1466051162",
+  "platform": "mooc_cn",
+  "title": "数控加工工艺与编程",
+  "description": "《数控加工工艺与编程》是高职院校数控技术、机械设计与制造、模具设计与制造等专业的专业核心课程之一。课程涉及金属切削原理与刀具、数控机床编程、数控机床加工工艺、数控机床原理和 CAD/CAM等方面的知识，与其他专业基础课和专业核心课紧密衔接，是学生进行课程设计、毕业设计及参加工作所必需具备的专业知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466051162",
+  "instructors": [
+    {
+      "name": "史家迎;杨建波;李慧明;王军鹏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东劳动职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5966,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

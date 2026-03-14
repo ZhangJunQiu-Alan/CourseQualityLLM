@@ -1,0 +1,31 @@
+{
+  "course_id": "1461807176",
+  "platform": "mooc_cn",
+  "title": "建筑灭火设施",
+  "description": "《建筑灭火设施》课程是一门历史悠久的消防专业基础课，由经典的《消防给水》和《固定灭火系统》课程整合而成。其内容包括消防给水基础设施、消火栓系统、自动喷水灭火系统、水喷雾系统、细水雾系统、泡沫灭火系统、气体灭火系统、干粉灭火系统和灭火器的工作原理、系统组成、设置要求以及维护管理要求。学生学好这门课，将有助于理解建筑灭火设施的概念范畴，掌握各类灭火系统的内涵和外延，为将来从事有关消防工作打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461807176",
+  "instructors": [
+    {
+      "name": "张福东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国人民警察大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3906,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

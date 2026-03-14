@@ -1,0 +1,26 @@
+{
+  "course_id": "PxDaqdXIEfCZihIC4LWgUw",
+  "platform": "coursera",
+  "title": "Create Sales Charts in C++ Using Graphics Programming",
+  "slug": "create-sales-charts-cpp-graphics-programming",
+  "description": "By the end of this course, learners will be able to design, implement, and analyze graphical sales charts using C++ programming. They will apply user input handling, screen coordinate systems, scaling techniques, and graphical functions to create accurate bar charts and pie charts that visually represent sales data.\n\nThis hands-on course focuses on building a complete mini-project from scratch, guiding learners step by step through the process of creating interactive sales charts in C++. Instead of relying on theory alone, the course emphasizes practical graphics programming using real data entry, allowing learners to understand how numerical values are transformed into meaningful visual representations.\n\nWhat makes this course unique is its project-driven approach combined with incremental development. Learners start with basic chart concepts and gradually enhance their visualizations by adding scaling, labels, and multiple chart types. By working through bar charts and pie charts in detail, learners gain confidence in C++ graphics programming and data visualization techniques that are rarely covered in depth in beginner-level courses.\n\nThis course is ideal for students, beginners, and aspiring programmers who want to strengthen their C++ skills through real-world graphical applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/create-sales-charts-cpp-graphics-programming",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

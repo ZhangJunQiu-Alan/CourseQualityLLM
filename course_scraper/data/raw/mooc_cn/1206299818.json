@@ -1,0 +1,31 @@
+{
+  "course_id": "1206299818",
+  "platform": "mooc_cn",
+  "title": "普通物理实验",
+  "description": "《普通物理实验》为我校公共必修课，面向全校28个专业2400余名本科生开设，由浙江理工大学理学院物理学系建设。课程时数为32学时，主要介绍测量误差与数据处理的基本知识、基础性实验、综合性及应用性实验、设计性实验、演示实验等具体内容，是学生进入大学后接受系统实验方法和实验技能训练的开端。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206299818",
+  "instructors": [
+    {
+      "name": "金立",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4272,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

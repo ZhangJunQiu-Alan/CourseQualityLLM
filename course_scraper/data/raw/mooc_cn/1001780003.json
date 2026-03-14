@@ -1,0 +1,31 @@
+{
+  "course_id": "1001780003",
+  "platform": "mooc_cn",
+  "title": "西餐之旅",
+  "description": "西餐之旅邀您一起领略西餐文化、认识西式餐厅、赴宴西式餐厅、巧点西式菜肴、优雅品味西餐。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001780003",
+  "instructors": [
+    {
+      "name": "北京市外事学校     汪珊珊;刘畅;张辉云",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25577,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

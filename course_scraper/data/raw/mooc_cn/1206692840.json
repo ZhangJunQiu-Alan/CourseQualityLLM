@@ -1,0 +1,31 @@
+{
+  "course_id": "1206692840",
+  "platform": "mooc_cn",
+  "title": "病理学",
+  "description": "欢迎各位学员学习新乡医学院三全学院的病理学课程！本课程授课时间共计16周，每周都会更新新的内容，课程中会涉及课堂测试、讨论、作业以巩固知识帮助学员复习，最后会有期末检验大家学习效果，祝各位学习愉快！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206692840",
+  "instructors": [
+    {
+      "name": "郭珺;崔力;常晓宾;周瑛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "豫北医学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 38526,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

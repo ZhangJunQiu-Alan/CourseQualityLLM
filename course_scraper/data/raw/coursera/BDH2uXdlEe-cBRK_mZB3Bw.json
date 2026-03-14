@@ -1,0 +1,26 @@
+{
+  "course_id": "BDH2uXdlEe-cBRK_mZB3Bw",
+  "platform": "coursera",
+  "title": "Advanced Routing, Infrastructure, and Network Management",
+  "slug": "packt-advanced-routing-infrastructure-and-network-management-xgtip",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course offers an in-depth exploration of advanced networking technologies and infrastructure management, designed for IT professionals aiming to master complex network environments. Beginning with foundational infrastructure concepts, the course covers IEEE 802.1Q trunking, VLAN management, and the principles of spanning tree protocols. You'll delve into advanced Layer 2 technologies such as EtherChannel and Multiple Spanning Tree, learning how to configure and troubleshoot these critical components to optimize network performance and resilience.\n\nAs the course progresses, you will tackle sophisticated routing protocols like OSPF and BGP. Each module is structured to provide a thorough understanding of theory, followed by practical configuration and troubleshooting exercises. You'll explore OSPF neighbor formation, route summarization, and the nuances of BGP path selection and IPv6 routing. These hands-on labs and real-world scenarios are designed to enhance your ability to implement, manage, and optimize complex routing solutions in any enterprise network.\n\nThe final sections focus on network services and management, covering essential tools such as SNMP, Syslog, and NetFlow. You’ll gain expertise in configuring IP SLA, Policy-Based Routing, and Embedded Event Manager (EEM) for automated network responses. This comprehensive training ensures you are well-equipped to manage, monitor, and secure large-scale network infrastructures, making you a valuable asset in any IT environment.\n\nThis course is intended for network engineers, IT professionals, and systems administrators who have a foundational knowledge of networking concepts and are looking to advance their skills in routing, infrastructure, and network management. Prior experience with basic network configuration and troubleshooting is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-advanced-routing-infrastructure-and-network-management-xgtip",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

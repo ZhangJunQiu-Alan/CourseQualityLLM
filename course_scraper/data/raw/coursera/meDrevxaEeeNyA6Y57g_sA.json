@@ -1,0 +1,32 @@
+{
+  "course_id": "meDrevxaEeeNyA6Y57g_sA",
+  "platform": "coursera",
+  "title": "Mathematics for Computer Science",
+  "slug": "mathematics-for-computer-science",
+  "description": "Mathematics for Computer Science course is designed to give you part of the mathematical foundations needed to work in computer science in any of its strands, from business to visual digital arts, music, games. At any stage of the problem solving and modelling stage you will require numerical and computational tools. We get you started in binary and other number bases, some tools to make sense of sequences of numbers, how to represent space numerical using coordinates, how to study variations of quantities via functions and their graphs. For this we prepared computing and everyday life problems for you to solve using these tools, from sending secret messages to designing computer graphics. \n\nIf you wish to take it further you can join the University of London's  BSc Computer Science degree and complete the full module ‘Numerical Mathematics’. \n\nEnjoy!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/mathematics-for-computer-science",
+  "instructors": [
+    {
+      "name": "Omar Karakchi",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Professor Matthew Yee-King",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of London",
+    "Goldsmiths, University of London"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207170804",
+  "platform": "mooc_cn",
+  "title": "光纤传感技术",
+  "description": "光纤也可以用于传感？没错！光纤不仅亿万倍地提升了现代通信速度，还可以延伸我们的感知器官，像皮肤、神经和五官一样，成为物联网最前端的传感器！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207170804",
+  "instructors": [
+    {
+      "name": "邓硕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8976,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "25OCTd1oEfCfFwr_ziW5Ew",
+  "platform": "coursera",
+  "title": "Apply OpenGL Texturing and Camera Systems",
+  "slug": "apply-opengl-texturing-and-camera-systems",
+  "description": "By the end of this course, learners will be able to apply OpenGL texturing techniques, analyze texture sampling behavior, implement transformation mathematics using GLM, configure camera and projection systems, and interactively debug rendering pipelines using ImGUI.\n\nThis course provides a structured, practice-driven pathway to mastering one of the most critical aspects of modern graphics programming: rendering realistic, controllable, and optimized 3D scenes. Learners gain hands-on expertise in texture loading, coordinate mapping, filtering, mipmapping, multitexturing, and shader-based enhancements, followed by a deep understanding of transformation matrices, camera movement, and projection models.\n\nCompleting this course equips learners with transferable skills for game development, simulation systems, visualization tools, and real-time graphics applications. Each module builds logically from foundational concepts to applied workflows, ensuring learners not only understand what to implement, but why it works.\n\nWhat makes this course unique is its integrated focus on texturing, mathematics, and interactive debugging within a single cohesive learning experience. Rather than treating these topics in isolation, the course demonstrates how they work together in real-world OpenGL applications, preparing learners for professional-grade graphics development.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/apply-opengl-texturing-and-camera-systems",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

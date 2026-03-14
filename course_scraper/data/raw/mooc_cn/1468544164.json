@@ -1,0 +1,31 @@
+{
+  "course_id": "1468544164",
+  "platform": "mooc_cn",
+  "title": "思想道德与法治",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468544164",
+  "instructors": [
+    {
+      "name": "杨洋;钱程;顾青瑶;陈良斌;黄睿",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18495,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,30 @@
+{
+  "course_id": "course-a80c50c9-d063-48b3-a203-436434866fa6",
+  "platform": "edx",
+  "title": "Japanese Architecture and Structural Design",
+  "description": "Tokyo Institute of Technology (Tokyo Tech) created this online as a edX member before it merged with Tokyo Medical and Dental University (TMDU) to form Institute of Science Tokyo (Science Tokyo) on October 1, 2024. The institute names “Tokyo Tech” and “Tokyo Institute of Technology” are used in this course, however, the current name of the institute is “Institute of Science Tokyo”. \n --- \n In this revised course, in depth video lectures cover various concepts related to architecture and structural design are presented and are accompanied by detailed articles for further study. Modern approaches to seismic design and retrofit will be covered through case studies of some unique campus buildings in Tokyo. The course starts by introducing the progression of structural design from traditional timber buildings to the first steel high rise structures, metabolism movement and the evolution of modern spatial structures in Japan. Concepts like ‘Integrated Facade Engineering’ and ‘Grid-skin structures’ are discussed and illustrated through case studies of Tokyo-Tech campus buildings wherein seismic performance was enhanced sustainably while considering the environmental performance and aesthetics. In addition, a number of 360-degree videos of Tokyo Tech buildings provide learners with an immersive experience. The application of the grid-skin concept to RC buildings is discussed using shear walls and a two-layer framing system. Modern response control strategies to achieve immediate occupancy post-earthquake like rocking frame systems and seismic isolation in steel buildings are covered and practical considerations while adopting these systems are explained through the design of campus buildings. Grid shell systems and their unique seismic response characteristics are explained. The design of the metro station near campus was used to explain the practical and technical difficulties of designing lightweight roofs. Finally, the importance of collaboration between structural engineers and architects is discussed in a number of interviews between ETH Zurich’s Prof. L. Stalder, Tokyo Tech’s Prof. T. Takeuchi and Prof. Y. Tsukamoto.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "toru-takeuchi-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Institute of Science Tokyo"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 919,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

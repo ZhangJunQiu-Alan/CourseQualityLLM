@@ -1,0 +1,31 @@
+{
+  "course_id": "1002525019",
+  "platform": "mooc_cn",
+  "title": "电路分析基础",
+  "description": "聆听自然的声音，开启人类的智慧。人类对电现象的好奇与探索，带领世界进入明亮、高速、自动、智能的新时代。《电路分析基础》是与这些领域相关的电气、电子专业的基础课程，是开启电路设计大门的钥匙，她带领你从零基础开始，把基本元件模型、电路一般规律、基本特性和分析方法，逐一呈现在你面前。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002525019",
+  "instructors": [
+    {
+      "name": "王辉;李小平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 128448,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

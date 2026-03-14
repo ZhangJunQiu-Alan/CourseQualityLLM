@@ -1,0 +1,32 @@
+{
+  "course_id": "course-ab50691f-5414-4a2d-97ed-413fac5dbdc1",
+  "platform": "edx",
+  "title": "Maths Foundations",
+  "description": "What will you learn?  \n This foundation maths course provides learners with the foundational skills necessary to excel in mathematics. \n This standalone course may assist learners who wish to undertake  AdelaideX’s MathTrackX XSeries Program , however, it is not a mandatory course within the MathTrackX Program. \n  Who should study this foundation mathematics course?  \n For school leavers, it acts as a maths bridging course between their prior educational experiences and the requirements of tertiary education. Professionals who want to refresh their knowledge or return to higher education will benefit from the course's tools and techniques, equipping them to effectively communicate their mathematical ideas in a business or an academic setting.",
+  "learning_goals": [
+    "Basic Math"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-butler",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Adelaide University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 783,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

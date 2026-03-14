@@ -1,0 +1,33 @@
+{
+  "course_id": "course-3c9b15c8-345b-4b5e-9b01-b2138ff39556",
+  "platform": "edx",
+  "title": "Python: aprender a programar",
+  "description": "Este curso empieza desde 0 para aprender a programar con Python, tratando los fundamentos de programación como son las variables y constantes, las condiciones, los bucles y los módulos y funciones, para acabar introduciendo el tratamiento de cadenas de texto y los ficheros. De esta forma, al acabar el curso el alumno será capaz de realizar programas útiles a la hora de procesar datos de diversas fuentes para obtener conclusiones",
+  "learning_goals": [
+    "Python (Programming Language)",
+    "Data Visualization"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 3-4 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "leonardo-salom-munoz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 693,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

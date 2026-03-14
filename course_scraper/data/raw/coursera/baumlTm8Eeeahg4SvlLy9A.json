@@ -1,0 +1,26 @@
+{
+  "course_id": "baumlTm8Eeeahg4SvlLy9A",
+  "platform": "coursera",
+  "title": "API Security on Google Cloud's Apigee API Platform",
+  "slug": "api-security-apigee-gcp",
+  "description": "In this course, you learn how to secure your APIs. You explore the security concerns you will encounter for your APIs. You learn about OAuth, the primary authorization method for REST APIs. You will learn about JSON Web Tokens (JWTs) and federated security. You also learn about securing against malicious requests, safely sending requests across a public network, and how to secure your data for users of Apigee.\n\nThrough a combination of lectures, hands-on labs, and supplemental materials, you will learn how to design, build, secure, deploy, and manage API solutions using Google Cloud's Apigee API Platform.\n\nThis is the second course of the Developing APIs with Google Cloud's Apigee API Platform series. After completing this course, enroll in the API Development on Google Cloud's Apigee API Platform course.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/api-security-apigee-gcp",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

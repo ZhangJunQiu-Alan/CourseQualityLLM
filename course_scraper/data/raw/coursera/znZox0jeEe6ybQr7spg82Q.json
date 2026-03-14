@@ -1,0 +1,26 @@
+{
+  "course_id": "znZox0jeEe6ybQr7spg82Q",
+  "platform": "coursera",
+  "title": "Angewandte numerische Fluiddynamik",
+  "slug": "applied-computational-fluid-dynamics-de",
+  "description": "Wenn Sie dies lesen, sind Sie wahrscheinlich daran interessiert, sich in der Simcenter STAR-CCM+ Software oder einem anderen CFD-Tool mit der angewandten numerischen Fluiddynamik (englisch Computational Fluid Dynamics, Abk. CFD) zu beschäftigen. Dieser Kurs kann ein erster Schritt zur Verbesserung Ihrer Arbeitsleistung und zur Förderung Ihrer Karriere oder Ihres Bildungsweges sein.\n\nWir haben diesen Kurs entwickelt, um Ihnen zu helfen, das Wissen der Strömungsphysik und numerischen Fluiddynamik zu nutzen, um Strömungs- und Wärmeübertragungsprobleme höchst effizient und professionell zu lösen. In diesem Kurs geht es nicht um Anweisungen zur Verwendung einer bestimmten Software. Für alle in diesem Kurs vorgestellten Simulationen wurde ausschließlich Simcenter STAR-CCM+ verwendet. Dennoch wären die Lernergebnisse dieselben, wenn eine andere öffentliche oder kommerzielle Software verwendet würde, solange sie dieselben Funktionen hat.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "de",
+  "url": "https://www.coursera.org/learn/applied-computational-fluid-dynamics-de",
+  "instructors": [
+    {
+      "name": "Siemens Digital Industries Software",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Siemens"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

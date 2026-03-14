@@ -1,0 +1,31 @@
+{
+  "course_id": "1003361038",
+  "platform": "mooc_cn",
+  "title": "面向对象程序设计",
+  "description": "用对象思考，用类来写作。Java语言是一种面向对象语言，它简单易学、面向对象、强壮稳健，近年来一直稳居编程语言排行榜首。本课程以“做中学”为主要教学指导思想，以面向对象解决实际问题为主线，兼顾实用性和趣味性，让热爱编程的小伙伴快速get新技能，具备Java程序语言开发的基本知识和常用技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003361038",
+  "instructors": [
+    {
+      "name": "孙媛;刘王宁;李静;仇丹丹;杨梅芳;杜轻;于亚楠;汪绪彪;曾俊彦;崔建平;刘琰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "濮阳职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24372,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

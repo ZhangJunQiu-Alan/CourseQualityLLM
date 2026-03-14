@@ -1,0 +1,30 @@
+{
+  "course_id": "course-8ff895c8-8f42-4375-a185-1d17018498a4",
+  "platform": "edx",
+  "title": "Mastering Generative AI: Model Foundations and NLP",
+  "description": "The gen AI market is projected to grow by 42% CAGR by 2033 (Bloomberg). And with natural language processing (NLP) being an integral part of this gen AI revolution, data scientists and AI professionals with the right skills are in high demand!  \n If you’re an aspiring AI professional or data scientist, this IBM course on Generative AI - Model Foundations and NLP gives you highly sought-after skills employers are looking for.  \n AI professionals use NLP to help generative AI applications understand and generate human language and enable tasks like text generation, summarization, translation, and conversational interactions.  \n During this course, you’ll learn how to implement, train, and evaluate gen AI models for NLP. You’ll explore document classification, language modeling, language translation, and develop a fundamental understanding of how to build small and large language models.  \n You’ll learn how to convert words to features. You’ll discover one-hot encoding, bag-of-words, embedding, and embedding bags. Plus, you’ll implement PyTorch to embed models using word2vec for feature representation in text data.  \n You’ll also build, train, and optimize neural networks for document categorization. You’ll learn about concepts such as N-gram language model and sequence-to-sequence models. And you’ll evaluate the quality of generated text using metrics, such as BLEU.  \n Importantly, you’ll get hands-on in labs, where you’ll gain practical experience in tasks such as implementing document classification using torchtext in PyTorch, and building and training a simple language model with a neural network to generate text. You’ll also integrate pre-trained embedding models, such as word2vec, for text analysis and classification.  \n If you’re an aspiring AI professional or data scientist looking to power up your resume with in-demand gen AI skillso, ENROLL TODAY and prepare to take your career to the next level!  \n Prerequisites: To enroll for this course, a basic knowledge of Python and familiarity with machine learning and neural network concepts is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "2 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 297,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

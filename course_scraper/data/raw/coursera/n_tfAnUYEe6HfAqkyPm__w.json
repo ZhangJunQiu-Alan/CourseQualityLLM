@@ -1,0 +1,26 @@
+{
+  "course_id": "n_tfAnUYEe6HfAqkyPm__w",
+  "platform": "coursera",
+  "title": "Object-Oriented Programming with Java",
+  "slug": "object-oriented-programming-with-java-up",
+  "description": "If you have basic knowledge of Java and want to delve into the world of object-oriented programming, this course is for you. \nIn four weeks, you will start with the fundamental concepts of object orientation to advance towards more advanced concepts. You will immerse yourself in the world of object-oriented design. \nThrough this course, you will learn how to apply these concepts in your Java programs, translate them into code and make the most of the tools provided by the language.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks: 3-4 hours/week.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/object-oriented-programming-with-java-up",
+  "instructors": [
+    {
+      "name": "Guido Chiesa",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad de Palermo"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

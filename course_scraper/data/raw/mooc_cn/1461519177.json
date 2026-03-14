@@ -1,0 +1,31 @@
+{
+  "course_id": "1461519177",
+  "platform": "mooc_cn",
+  "title": "机械设计基础",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461519177",
+  "instructors": [
+    {
+      "name": "杨皓;许倩;樊百林;杨光辉;陈平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4833,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

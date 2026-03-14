@@ -1,0 +1,31 @@
+{
+  "course_id": "1466233162",
+  "platform": "mooc_cn",
+  "title": "内科护理学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466233162",
+  "instructors": [
+    {
+      "name": "谷利斌;夏浩志;王丹文;焦文娟;钱鑫",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9529,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

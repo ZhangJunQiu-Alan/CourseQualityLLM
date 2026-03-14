@@ -1,0 +1,26 @@
+{
+  "course_id": "CB_oYF2OEeuaew6diVe1Ww",
+  "platform": "coursera",
+  "title": "Shell Scripting with Bash: Basics",
+  "slug": "bash-shell-scripting",
+  "description": "In this project, you will learn how to use Bash for creating basic shell scripts. After completing the 1-hour hands-on guided project, you'll know how to automatically rename a collection of files, read the contents of a file line by line and use all basic constructs of Bash.\n\nNote: It's recommended that you have some experience with the command line before starting this project. Consider looking into the project 'Practical introduction to the Command Line' first - https://www.coursera.org/projects/practical-introduction-to-the-command-line.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/bash-shell-scripting",
+  "instructors": [
+    {
+      "name": "Stanimira Vlaeva",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

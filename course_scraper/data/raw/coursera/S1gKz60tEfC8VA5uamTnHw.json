@@ -1,0 +1,26 @@
+{
+  "course_id": "S1gKz60tEfC8VA5uamTnHw",
+  "platform": "coursera",
+  "title": "Introduction to AKS and Core Networking Concepts",
+  "slug": "packt-introduction-to-aks-and-core-networking-concepts-i9q4p",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nGain a comprehensive understanding of Azure Kubernetes Service (AKS) and the core networking concepts that power secure, scalable containerized applications. This course equips you with the skills to design, deploy, and manage Kubernetes workloads on Azure using advanced networking strategies.\n\nThe course begins by establishing foundational knowledge of AKS architecture and Kubernetes fundamentals, including Pods, Deployments, and cluster setup. You’ll then dive into configuring public and private clusters, explore VNET integrations, and securely access clusters using Azure Bastion. Advanced demos walk you through practical implementations that bring theory to life.\n\nAs you progress, you’ll explore network isolation, private DNS at scale, External DNS, CoreDNS configurations, and how to manage application traffic using Gateway APIs and Ingress Controllers. The final modules cover outbound traffic management, NAT Gateway, UDR, and troubleshooting common ingress/egress issues.\n\nThis course is ideal for cloud engineers, DevOps professionals, and network architects looking to deepen their Kubernetes networking expertise. Intermediate knowledge of cloud infrastructure and Kubernetes is recommended.\n\nBy the end of the course, you will be able to architect AKS clusters with advanced networking, implement secure DNS and routing configurations, and manage outbound and ingress traffic for real-world Kubernetes workloads.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-introduction-to-aks-and-core-networking-concepts-i9q4p",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "18001",
+  "platform": "mooc_cn",
+  "title": "唐诗经典",
+  "description": "唐诗是中国古典诗歌的顶峰，浓缩了古典诗歌语言的精华。本课程是以唐诗经典为核心，以弘扬优秀传文化为宗旨，从经典名家、经典名篇、经典名著等多方面展开。内容上兼有经典性、学术性和前沿性的特点；形式上兼有实践性、多元化、启发式的特点。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/18001",
+  "instructors": [
+    {
+      "name": "陶然;咸晓婷;胡可先",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 427613,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

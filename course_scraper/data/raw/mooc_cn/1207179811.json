@@ -1,0 +1,31 @@
+{
+  "course_id": "1207179811",
+  "platform": "mooc_cn",
+  "title": "Python语言程序设计",
+  "description": "从科学计算到人工智能，从Web开发到游戏开发，从金融分析到自动化运维，Python语言以其“简单，易学，免费，开源”的特点得到了广泛的应用，成为当今世界最受欢迎的编程语言。如果你没有任何编程语言的学习经验，那么这门课程就非常适合你，请跟随我们一起进入Python的世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207179811",
+  "instructors": [
+    {
+      "name": "张昱;翟莹莹;薛丽芳;李凤云",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 42637,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

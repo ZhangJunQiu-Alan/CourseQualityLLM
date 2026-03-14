@@ -1,0 +1,31 @@
+{
+  "course_id": "1471130166",
+  "platform": "mooc_cn",
+  "title": "水利工程测量",
+  "description": "本课程主要讲述测量学的基础知识，通过学习，要求学生对本课程的内容有较系统的认识，掌握常规测量仪器的使用，能运用各种测量方法进行生产实际中的测量工作。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471130166",
+  "instructors": [
+    {
+      "name": "张小娜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 641,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

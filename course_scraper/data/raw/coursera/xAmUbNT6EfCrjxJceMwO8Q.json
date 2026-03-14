@@ -1,0 +1,26 @@
+{
+  "course_id": "xAmUbNT6EfCrjxJceMwO8Q",
+  "platform": "coursera",
+  "title": "Build a C# WinForms Exhibition Visitor Entry System",
+  "slug": "build-csharp-winforms-exhibition-visitor-entry-system",
+  "description": "By completing this course, learners will analyze real-world requirements, design structured databases, develop intuitive WinForms user interfaces, and implement a fully functional Exhibition Visitor Entry system using C# and ADO.NET. Learners will gain hands-on experience in connecting UI elements with backend logic, managing relational data, validating user input, and handling exceptions in a production-ready desktop application.\n\nThis course enables learners to move beyond theory by building a complete end-to-end practical project that mirrors real business scenarios. Instead of isolated concepts, learners follow a step-by-step workflow—from planning and database design to UI creation, coding, validation, and final application polishing. The structured module and lesson approach ensures clarity, while the progressive coding demonstrations reinforce industry-relevant best practices.\n\nWhat makes this course unique is its project-centric methodology, focusing on practical implementation using C# WinForms and ADO.NET, technologies still widely used in enterprise desktop applications. By the end of the course, learners will have a deployable project, improved problem-solving skills, and the confidence to design and develop similar real-world desktop applications independently.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-csharp-winforms-exhibition-visitor-entry-system",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

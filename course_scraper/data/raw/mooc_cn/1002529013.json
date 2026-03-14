@@ -1,0 +1,31 @@
+{
+  "course_id": "1002529013",
+  "platform": "mooc_cn",
+  "title": "中级宏观经济学",
+  "description": "本课程将动态随机一般均衡框架纳入课程知识结构体系，使学生掌握具备微观经济基础的宏观经济模型，进一步了解经济波动、经济增长、宏观经济政策研究中的理论知识，理解宏观经济运行、政策评估与设计研究的范式及过程。使学生了解宏观经济学理论研究、实证研究和政策分析的方法及方法论，能够运用理论和政策研究中的前沿知识，亲自动手分析中外宏观经济运行和政策实践中的重要问题，具备扎实的分析能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002529013",
+  "instructors": [
+    {
+      "name": "陈师",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 62264,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

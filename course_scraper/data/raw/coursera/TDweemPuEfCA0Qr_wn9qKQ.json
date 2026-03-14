@@ -1,0 +1,26 @@
+{
+  "course_id": "TDweemPuEfCA0Qr_wn9qKQ",
+  "platform": "coursera",
+  "title": "(SSCP) Systems Security Certified Practitioner: Unit 6",
+  "slug": "pearson-sscp-systems-security-certified-practitioner-complete-video-course-hxu9x",
+  "description": "This course covers systems and application security. You'll explore the critical aspects of endpoint security, learning to build, install, and maintain security measures using technologies like TPM, IDS, IPS, and host-based firewalls. Gain insights into identifying and mitigating malicious code and social engineering attacks, equipping you with proactive strategies to safeguard systems. You'll learn about secure virtual environments, including hypervisors, containers, and virtual appliances to effectively manage virtualization technologies. You'll also learn about cloud security, including service deployment models and navigating legal and regulatory concerns. Additionally, the course covers Enterprise Mobility Management, focusing on mobile device security and provisioning techniques.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours 15 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-sscp-systems-security-certified-practitioner-complete-video-course-hxu9x",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

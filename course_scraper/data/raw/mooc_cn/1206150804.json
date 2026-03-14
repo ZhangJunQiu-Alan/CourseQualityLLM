@@ -1,0 +1,31 @@
+{
+  "course_id": "1206150804",
+  "platform": "mooc_cn",
+  "title": "原子物理学",
+  "description": "物理学的两大问题：（1）世界是由什么组成的？（2）世界是怎么组成的？原子物理学是关于物质微观结构的一门学科，在本课程中，我们将讲述量子物理的基本概念和物理图像，以及支配物质运动和变化的基本相互作用，并在此基础上讨论物质结构在原子、原子核以及基本粒子等层次的性质、特点和规律。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206150804",
+  "instructors": [
+    {
+      "name": "毛鸿",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "杭州师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29584,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

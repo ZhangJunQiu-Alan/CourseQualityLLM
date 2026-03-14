@@ -1,0 +1,42 @@
+{
+  "course_id": "course-2d2f6edf-3715-4056-a7b0-226ef76ca23d",
+  "platform": "edx",
+  "title": "Quantitative Marketing Research",
+  "description": "Marketing research is crucial to marketing managers, as it helps answer crucial marketing questions using data. In this course, we introduce quantitative marketing research techniques in conjunction with key marketing concepts. The participant is introduced to the design, implementation and interpretation of quantitative market research projects.  \n The participant is introduced to the concept of value and willingness-to-pay, along with how to use auctions to estimate this. We then cover conjoint analysis, where the concept of value as a function of different attributes is discussed. We then move on to cluster analysis, where we discuss market segmentation based on different value propositions that different customers may seek.  \n Finally, we discuss ethical issues in marketing research, going beyond its technical aspects.",
+  "learning_goals": [
+    "Marketing",
+    "Addressing Ethical Concerns",
+    "Marketing Research",
+    "Conjoint Analysis",
+    "Value Propositions",
+    "Market Research",
+    "Cluster Analysis",
+    "Marketing Concepts",
+    "Research",
+    "Market Segmentation",
+    "Quantitative Marketing Research"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "prithwiraj-mukherjee",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Indian Institute of Management Bangalore"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 532,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

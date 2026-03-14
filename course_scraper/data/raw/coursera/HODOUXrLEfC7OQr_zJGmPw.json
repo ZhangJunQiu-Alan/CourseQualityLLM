@@ -1,0 +1,26 @@
+{
+  "course_id": "HODOUXrLEfC7OQr_zJGmPw",
+  "platform": "coursera",
+  "title": "Certified Kubernetes Security Specialist (CKS): Unit 6",
+  "slug": "pearson-certified-kubernetes-security-specialist-cks-video-course-6-4fwrj",
+  "description": "This course teaches you how to defend your Kubernetes environments against supply chain threats. You’ll secure image registries, enforce image signing, and set up access controls. Learn to use tools like KubeLinter and KubeSec for static analysis, reduce base image size, and scan for vulnerabilities with Trivy. Automate security policies using Trivy Operator and Kyverno. By course end, you’ll be able to secure your software supply chain and maintain a safe Kubernetes infrastructure.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours 44 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-certified-kubernetes-security-specialist-cks-video-course-6-4fwrj",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

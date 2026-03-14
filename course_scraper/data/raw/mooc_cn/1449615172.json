@@ -1,0 +1,31 @@
+{
+  "course_id": "1449615172",
+  "platform": "mooc_cn",
+  "title": "教育学",
+  "description": "《教育学》是一门关于如何理解教育、开展教育、解决教育基本问题的基础理论课程，课程内容包括教育的产生和发展、教育的社会作用与个体作用、教育的目的和教育制度，人的全面发展理论、课程与教学的基本知识、师生关系的理解、如何开展教育研究等。通过课程学习，能够运用社会学、政治学、心理学、伦理学等相关学科知识分析教育问题，养成关注教育，理解教育，推进教育，自主探索与解决教育相关问题的素养。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449615172",
+  "instructors": [
+    {
+      "name": "王莹;黄世虎;陈滔娜;熊岚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 130714,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

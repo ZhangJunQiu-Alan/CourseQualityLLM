@@ -1,0 +1,31 @@
+{
+  "course_id": "1469059164",
+  "platform": "mooc_cn",
+  "title": "移动通信网络规划部署与优化",
+  "description": "通过本课程的学习，可以掌握移动通信网络、IP网络、光传送网络、切片分组网络等的网络结构和工作原理。具体包括：独立组网SA和非独立组网NSA网络架构、工作原理；移动通信网络从无线接入网、承载网到核心网的设备部署、数据配置和业务调试，基本网络优化功能，包括定点优化（满足语音业务、高清视频业务、直播业务的服务质量需求）、移动性管理（实现双向的重选、切换、漫游功能）、网络切片编排（实现多种切片的编排：智慧医疗、智慧农业、智慧灯杆、车联网）。学习到IP地址规划、路由技术、移动通信网络业务数据规划、波束管理、无线资源管理、光传送网络OTN、切片分组网SPN等技术。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1469059164",
+  "instructors": [
+    {
+      "name": "沈建华;孙晓玲;卢敏;陈美娟;张颖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2525,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

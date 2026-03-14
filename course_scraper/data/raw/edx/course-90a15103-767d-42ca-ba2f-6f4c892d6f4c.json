@@ -1,0 +1,39 @@
+{
+  "course_id": "course-90a15103-767d-42ca-ba2f-6f4c892d6f4c",
+  "platform": "edx",
+  "title": "A Hands-on Introduction to Engineering Simulations",
+  "description": "In this hands-on course, you'll learn how to perform engineering simulations using a powerful tool from Ansys, Inc. This is a problem-based course where you'll learn by doing. The focus will be on understanding what's under the blackbox so as to move beyond garbage-in, garbage-out. You'll practice using a common solution approach to problems involving different physics: structural mechanics, fluid dynamics and heat transfer. \n We'll solve textbook examples to understand the fundamental principles of finite-element analysis and computational fluid dynamics. Then we'll apply these principles to simulate real-world examples in the tool including a bolted rocket assembly and a wind turbine rotor.We'll discuss current industry practices with a SpaceX engineer. By working through examples in a leading simulation tool that professionals use, you'll learn to move beyond button pushing and start thinking like an expert. \n This course teaches fundamental concepts and tool use in an integrated fashion using the power of online learning. All learners will have access to a free download of Ansys Student. \n Join us to discover why simulations have changed how engineering is done and how you can be a part of this revolution.",
+  "learning_goals": [
+    "Ansys Simulation Software",
+    "Physics",
+    "Computational Fluid Dynamics",
+    "Industry Practices",
+    "Fluid Dynamics",
+    "Structural Mechanics",
+    "Finite Element Methods",
+    "Simulations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rajesh-bhaskaran",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Cornell University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9405,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

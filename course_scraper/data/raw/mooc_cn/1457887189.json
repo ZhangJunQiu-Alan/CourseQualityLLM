@@ -1,0 +1,31 @@
+{
+  "course_id": "1457887189",
+  "platform": "mooc_cn",
+  "title": "Cell Biology for Medical or Life Sciences",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1457887189",
+  "instructors": [
+    {
+      "name": "Xiangdong WANG",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Shandong University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 926,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003364007",
+  "platform": "mooc_cn",
+  "title": "管理运筹学",
+  "description": "“管理运筹学”课程作为管理科学与工程类专业的一门基础课程，在经济管理、交通运输等专业中广泛开设。本课程由张星臣教授带领的教学团队依托北京交通大学深厚的交通办学特色，将传统运筹学内容体系与国际运筹领域知识、交通运输专业知识相结合，采用科学的教学方式，创造学生更易接受的在线课堂。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003364007",
+  "instructors": [
+    {
+      "name": "张星臣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 38329,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

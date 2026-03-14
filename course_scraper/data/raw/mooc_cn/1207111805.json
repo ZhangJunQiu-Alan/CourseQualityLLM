@@ -1,0 +1,31 @@
+{
+  "course_id": "1207111805",
+  "platform": "mooc_cn",
+  "title": "景观水工程",
+  "description": "景观水工程是南京林业大学给排水科学与工程的专业特色课,2021 江苏省一流线上开放课程，2024江苏省一流线上线下混合课程，2025年国家第三批一流线上线下混合课程。课程共计32个学时，8个章节，主要介绍景观中与水相关的工程技术等，包括静水、动水（溪流，瀑布与跌水，喷泉）等美学选择及给排水系统设计，绿地喷灌系统，景观水体修复，城镇雨洪管理方法及雨水景观，湿地景观，海绵城市理念和实施等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207111805",
+  "instructors": [
+    {
+      "name": "曹世玮;范旭红;荆肇乾;韩超南",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6357,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

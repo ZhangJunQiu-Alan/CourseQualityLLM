@@ -1,0 +1,41 @@
+{
+  "course_id": "course-9e81e405-4ffa-4cfc-be90-e4f4d8ac2e74",
+  "platform": "edx",
+  "title": "Technical Analysis and the Skill of Day Trading",
+  "description": "If your goal is a career in  trading, then this is the course for you! Taught by instructors with decades of experience on Wall Street, Peter Tuchman and David Green, deliver a comprehensive course that equips students with the skills and knowledge needed to become savvy stock and options traders. \n This course takes a deeper dive into the strategies and techniques used to navigate volatile equities markets with technical analysis and risk management. \n You will learn how to identify stocks that are in play, identify opportunities for trade setups, and understand the art and skill of using charts and technical analysis to execute successful day trades. You will be introduced to advanced training techniques such as options and swing trading. \n This course is part of the New York Institute of Finance’s Stock Trading Professional Certificate program.",
+  "learning_goals": [
+    "Equities",
+    "Risk Management",
+    "Finance",
+    "Technical Analysis",
+    "Stocks (Finance)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-green",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "peter-tuchman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "New York Institute of Finance"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 468,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

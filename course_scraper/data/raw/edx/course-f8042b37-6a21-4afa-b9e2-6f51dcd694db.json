@@ -1,0 +1,24 @@
+{
+  "course_id": "course-f8042b37-6a21-4afa-b9e2-6f51dcd694db",
+  "platform": "edx",
+  "title": "Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron",
+  "description": "Fundamentals of Neuroscience is a three-courseseries that explores the structure and function of the nervous system—from the inner workings of a single nerve cell to the staggering complexity of the brain and the social interactions they enable.  \n In this first course, you'll learn how individual neurons use electricity to transmit information. You'll build a neuron, piece by piece, using interactive simulations, then travel around Harvard's campus, where you'll see the inner workings of a lab and learn how to conduct DIY neuroscience experiments on your own.  \n Join us as we study the electrical properties in individual neurons, building a foundation for understanding the function of the entire nervous system.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28733,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

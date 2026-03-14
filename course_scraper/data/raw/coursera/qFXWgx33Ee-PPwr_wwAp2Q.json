@@ -1,0 +1,26 @@
+{
+  "course_id": "qFXWgx33Ee-PPwr_wwAp2Q",
+  "platform": "coursera",
+  "title": "Mastering UX & Business App Development with OOP",
+  "slug": "mastering-ux-business-app-development-with-oop",
+  "description": "This course is an introduction to the Java programming language and the concepts of object-oriented design. It not only covers the fundamentals of programming in Java, but it also brings in the concepts of object-oriented design and guides students to build GUI-based applications to address real-world problems. Topics include, but not limited to, fundamentals of programming in Java, classes and methods, objects and references, overloading, inheritance, polymorphism, abstract classes and interfaces, basic data structures, and GUI applications. Students are expected to apply learned knowledge to address an identified problem found in the real world.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/mastering-ux-business-app-development-with-oop",
+  "instructors": [
+    {
+      "name": "Jones Yu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Northeastern University "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

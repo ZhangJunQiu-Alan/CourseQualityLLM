@@ -1,0 +1,31 @@
+{
+  "course_id": "1206821806",
+  "platform": "mooc_cn",
+  "title": "大学化学",
+  "description": "欢迎大家学习中国大学 MOOC《大学化学》在线开放课程！本课程立足基础化学核心体系，系统讲解化学基本概念、基本原理与重要定律，以化学学科方法论为指引，坚持辩证唯物主义观点，带领学习者理解化学知识在科学研究、工业生产与日常生活中的广泛应用，清晰认识本课程在自然科学体系中的基础地位与支撑作用。        通过本课程学习，你将夯实化学理论基础，为各专业后续学习与创新研究筑牢根基；面向职场人士，本课程提供系统、实用的化学知识 “再学习” 平台，助力职业资格备考与能力提升；面向一线教师，本课程可作为教学参考与教研资源，为课堂教学与课程建设提供思路借鉴。愿我们以化学为桥，探物质之妙，悟规律之真，在学习中增长学识、提升素养，共赴一场严谨而生动的化学之旅！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206821806",
+  "instructors": [
+    {
+      "name": "赵晓森;杨宗斐;李靖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "徐州工程学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9142,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207242801",
+  "platform": "mooc_cn",
+  "title": "通信原理",
+  "description": "涵盖通信概述、随机过程初步、模拟调制、数字调制、最佳接收、PCM和差错控制编码部分。以物理思想为本，工程导向为核，深入浅出，从通信的本质解决问题。是通向各种专门通信的敲门砖、铺路石。由北京市教学名师郭宇春教授主讲，并专业教学团队为你答疑解惑。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207242801",
+  "instructors": [
+    {
+      "name": "郭宇春",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8177,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

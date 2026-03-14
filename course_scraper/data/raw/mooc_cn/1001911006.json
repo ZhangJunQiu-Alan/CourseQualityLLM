@@ -1,0 +1,31 @@
+{
+  "course_id": "1001911006",
+  "platform": "mooc_cn",
+  "title": "信息安全素养——计算机安全",
+  "description": "“计算机安全”课程属于“信息安全素养”系列课程，涵盖新购计算机的防护，共用计算机的防护，重要数据的加密、备份与恢复等内容，通过IT小专家的讲解分析、各种实操技能的录屏演示与讲解、动画小故事演示案例等多种形式，帮助学习者提高在使用个人计算机过程中的信息安全意识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001911006",
+  "instructors": [
+    {
+      "name": "鲁菲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20337,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

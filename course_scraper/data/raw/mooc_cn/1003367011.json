@@ -1,0 +1,31 @@
+{
+  "course_id": "1003367011",
+  "platform": "mooc_cn",
+  "title": "大学化学实验",
+  "description": "《大学化学实验》课程是大学化学、化工类专业大学一二年级的必修基础实验课程。该课程打造了一门全新的网络实验课程，内容涵盖四大化学的基础要求。通过本课程的学习，使学生能掌握化学实验的基本技能、学会化学研究的基本方法及从事化学领域科学研究的基本能力，为专业课学习打下良好的实践能力基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003367011",
+  "instructors": [
+    {
+      "name": "张丽丹;张春婷;张瑶;崔猛;李春闯;李顺来;徐向宇;瞿梅梅;陈咏梅;靳兰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京化工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 88101,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

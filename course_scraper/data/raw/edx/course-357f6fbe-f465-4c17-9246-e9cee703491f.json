@@ -1,0 +1,33 @@
+{
+  "course_id": "course-357f6fbe-f465-4c17-9246-e9cee703491f",
+  "platform": "edx",
+  "title": "Building Applications: Get started",
+  "description": "You will learn the foundational elements of building .NET applications using the C# programming language. This includes understanding the basic structure of a .NET application, the syntax and semantics of C#, and how to utilize core libraries and tools within the .NET framework. You will gain knowledge of essential programming concepts such as variables, data types, control flow, object-oriented programming principles, and how to write and execute code.",
+  "learning_goals": [
+    "Syntax",
+    "Semantics",
+    "Programming Concepts",
+    "ASP.NET Core",
+    "Web Applications",
+    ".NET Framework",
+    "C# (Programming Language)",
+    "Object-Oriented Programming (OOP)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 532,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

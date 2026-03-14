@@ -1,0 +1,26 @@
+{
+  "course_id": "0t2bn2YrEe-99A4YM4NoOw",
+  "platform": "coursera",
+  "title": "Performance Optimization and Scalability",
+  "slug": "performance-optimization-and-scalability",
+  "description": "This course focuses on performance optimization and scalability in application development. You'll learn key techniques like caching, query optimization, and load balancing while using Microsoft Copilot to improve application code and database query performance.\n\nBy the end of the course, you will be able to…\n\nDefine the concepts and importance of caching, query optimization, and principles of scalability in application performance\n\nExplain how to implement in-memory and distributed caching, indexing strategies, and architectural patterns for scalability\n\nDescribe techniques for analyzing query performance, load balancing, traffic management, and best practices for caching, query optimization, and scalable applications\n\nOptimize performance using Microsoft Copilot, focusing on application code and database queries",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 10 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/performance-optimization-and-scalability",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

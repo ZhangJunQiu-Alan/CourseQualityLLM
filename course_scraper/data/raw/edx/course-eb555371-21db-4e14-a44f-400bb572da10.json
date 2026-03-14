@@ -1,0 +1,50 @@
+{
+  "course_id": "course-eb555371-21db-4e14-a44f-400bb572da10",
+  "platform": "edx",
+  "title": "Hardware and Operating Systems",
+  "description": "Are you looking to break into tech as an entry-level IT support specialist? IT support professionals are in high demand and employers are actively looking for individuals with strong skills in computer hardware and operating systems. This course gives complete beginners the job-ready essentials needed to catch their eye.  \n During this course, you’ll explore the brain of a computer, its operating system software, where you’ll become familiar with the fundamentals of the Microsoft Windows operating system. You’ll learn to recognize key internal hardware computer components, including motherboard components, central processing unit (CPU), memory, hard drives, expansion slots, and more. Plus, you’ll explore how modern technologies such as virtualization (including host/guest OS and hypervisors), parallel-processing GPUs, IoT devices, and VR/AR systems are transforming today’s IT environments.  \n You’ll also investigate the various hardware connections, including categories of ports, add-on peripherals such as mice, and other hardware components. Plus, you’ll learn other IT support basics, including standard workstation setup, commonly used operating system settings, screen capture commands, and best-in-class troubleshooting practices.  \n As you learn, you’ll gain hands-on experience through online labs. Then, in a real-world inspired project, you’ll apply your new skills to demonstrate your hardware and operating systems knowledge by troubleshooting malfunctioning computer systems.  \n If you’re keen to break into tech as an IT support professional and land an entry-level role as a Help Desk Support Specialist, IT Support Specialist, Virtual Customer Service Agent, or Technical Support Representative, enroll today!",
+  "learning_goals": [
+    "Hard Disk Drives",
+    "Parallel Processing",
+    "Internet Of Things (IoT)",
+    "Hypervisor",
+    "Help Desk Support",
+    "Operating Systems",
+    "Virtual Reality",
+    "Expansion Cards",
+    "Peripheral Devices",
+    "Technical Support",
+    "Information Technology",
+    "Augmented Reality",
+    "Computer Systems",
+    "Motherboard",
+    "Computer Hardware",
+    "Customer Service",
+    "Screen Capture",
+    "Troubleshooting (Problem Solving)",
+    "Virtualization"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 9-11 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "skills-network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 838,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

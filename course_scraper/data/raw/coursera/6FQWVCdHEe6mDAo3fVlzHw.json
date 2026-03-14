@@ -1,0 +1,26 @@
+{
+  "course_id": "6FQWVCdHEe6mDAo3fVlzHw",
+  "platform": "coursera",
+  "title": "Data Processing and Manipulation",
+  "slug": "data-processing-and-manipulation",
+  "description": "The \"Data Processing and Manipulation\" course provides students with a comprehensive understanding of various data processing and manipulation concepts and tools. Participants will learn how to handle missing values, detect outliers, perform sampling and dimension reduction, apply scaling and discretization techniques, and explore data cube and pivot table operations. This course equips students with essential skills for efficiently preparing and transforming data for analysis and decision-making.\n\nLearning Objectives:\n\n1. Understand the importance of data processing and manipulation in the data analysis pipeline.\n2. Learn techniques to handle missing values in datasets, including imputation and exclusion strategies.\n3. Identify and detect outliers to assess their impact on data analysis and decision-making.\n4. Explore sampling methods and dimension reduction techniques for large datasets and high-dimensional data.\n5. Apply data scaling techniques to normalize and standardize variables for meaningful comparisons.\n6. Utilize discretization to transform continuous data into categorical representations, simplifying analysis.\n7. Understand the concept of data cube and perform multidimensional aggregation for exploratory analysis.\n8. Create pivot tables to summarize and reshape data, gaining valuable insights from complex datasets.\n\nThroughout the course, students will actively engage in practical exercises and projects, allowing them to apply data processing and manipulation techniques to real-world datasets. By the end of the course, participants will be well-equipped to effectively prepare, clean, and transform data for subsequent analysis tasks and data-driven decision-making.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-processing-and-manipulation",
+  "instructors": [
+    {
+      "name": "Di Wu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

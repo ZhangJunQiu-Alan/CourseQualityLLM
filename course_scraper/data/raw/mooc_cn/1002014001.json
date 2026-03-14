@@ -1,0 +1,31 @@
+{
+  "course_id": "1002014001",
+  "platform": "mooc_cn",
+  "title": "军事理论",
+  "description": "《军事理论》是一门公共基础课程，学生通过该课程的学习，可以掌握基本军事知识，熟悉国际战略环境，了解军事高技术发展，同时能帮助学生树立国防观念，培养服务国防的意识。本课程由哈尔滨工程大学五位青年军事教师主讲，他们风格各异，寓教于乐，用精彩的讲解评述军事知识，为大家带来全新学习体验。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002014001",
+  "instructors": [
+    {
+      "name": "李彦涛;于凡;李秋荣;赵树森;刁莹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 149827,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

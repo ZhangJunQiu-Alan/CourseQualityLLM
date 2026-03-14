@@ -1,0 +1,31 @@
+{
+  "course_id": "1449304161",
+  "platform": "mooc_cn",
+  "title": "可编程控制器应用技术",
+  "description": "如何实现自动化流水线的控制？如何实现机构的运动控制？如何实现温度等模拟量的闭环控制？人机界面是如何实现？本课程将工程实例设计方法与理论知识有机融合，向您介绍可编程控制器（PLC）应用技术，使您具备编制PLC控制程序、初步设计电气控制系统的能力，并了解PLC的最新技术，为培养工程应用能力打下扎实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449304161",
+  "instructors": [
+    {
+      "name": "孙志娟;严法高;黄震宇;邬玉晶;魏国莲;侯宁;谈蓉蓉;杨勇;顾叶虎;李文明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏开放大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6109,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

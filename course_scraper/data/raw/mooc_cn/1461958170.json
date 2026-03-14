@@ -1,0 +1,31 @@
+{
+  "course_id": "1461958170",
+  "platform": "mooc_cn",
+  "title": "电子产品检测与维修",
+  "description": "《电子产品检测与维修》是电子信息工程技术专业的核心课程，它包含整机电路分析、信号分析及测试、故障判断及排除等内容，是一门综合性和实践性较强的课程。      它使用智能液晶电视作为课程载体，通过对典型整机产品-液晶电视的原理分析、信号测试、整机故障分析、整机故障维修，使学生系统地掌握典型整机产品-液晶电视的基本原理，熟练的使用示波器、信号源等仪器完成电子整机的检测和维修。训练学生的实际操作技能，为从事相关工作准备所需职业技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461958170",
+  "instructors": [
+    {
+      "name": "张成;孙宏光;李水;贾凤伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4310,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

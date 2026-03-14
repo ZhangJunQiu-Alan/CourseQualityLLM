@@ -1,0 +1,31 @@
+{
+  "course_id": "1003253001",
+  "platform": "mooc_cn",
+  "title": "画法几何",
+  "description": "想了解自己的空间想象能力如何吗？提高自己的空间想象能力吗？来画法几何课程挑战自己吧！学习完本课程，可以在三维空间形体和二维平面图形之间自由切换，带给您不一样的思维和视野！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003253001",
+  "instructors": [
+    {
+      "name": "王迎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48307,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

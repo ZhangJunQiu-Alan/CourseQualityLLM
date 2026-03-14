@@ -1,0 +1,31 @@
+{
+  "course_id": "1206706817",
+  "platform": "mooc_cn",
+  "title": "误差理论与数据处理",
+  "description": "本课程是仪器类专业的专业基础课。作为仪器类专业的学生，仪器设计的主线是设计合理的仪器原理方案、选择合适的器件、搭建可靠的测试系统以及进行准确的数据处理与误差分析，所以作为处理仪器测量结果和判断仪器性能的重要环节，本课程的学习将对引导学生灵活运用理论知识于实践环节起到重要支撑作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206706817",
+  "instructors": [
+    {
+      "name": "钱政",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14973,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

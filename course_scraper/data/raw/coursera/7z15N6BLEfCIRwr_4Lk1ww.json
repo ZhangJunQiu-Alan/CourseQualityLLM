@@ -1,0 +1,26 @@
+{
+  "course_id": "7z15N6BLEfCIRwr_4Lk1ww",
+  "platform": "coursera",
+  "title": "Styling & JavaScript Essentials",
+  "slug": "packt-styling-javascript-essentials-ygtwk",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\nLearn essential web development skills with Tailwind CSS and JavaScript. Start by mastering Tailwind CSS, a utility-first framework for building responsive designs. Explore layout techniques, customization, and responsive websites. Then, dive into JavaScript to understand key concepts like data types, functions, loops, and asynchronous programming.\nApply your knowledge by building two real-world projects: a Facebook login page with Tailwind CSS and a Slither game using JavaScript. This hands-on approach reinforces learning and prepares you for real-world tasks.\nPerfect for beginners with no prior knowledge of web design or programming, this course builds your foundation in styling websites and creating interactive content.\nBy the end, you will be able to design responsive websites using Tailwind CSS, add interactive elements with JavaScript, and build projects like login pages and games.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-styling-javascript-essentials-ygtwk",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

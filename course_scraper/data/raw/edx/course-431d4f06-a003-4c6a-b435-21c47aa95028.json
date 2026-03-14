@@ -1,0 +1,45 @@
+{
+  "course_id": "course-431d4f06-a003-4c6a-b435-21c47aa95028",
+  "platform": "edx",
+  "title": "Manufacturing Systems II",
+  "description": "Manufacturing systems are complex systems that require analytical analysis. Managers and practitioners use a wide variety of methods to analyze and optimize the performance of manufacturing systems and control costs.  \n In this course, part of the Principles of Manufacturing MicroMasters program, you will learn about Multi-Part-Type Manufacturing Systems. We will discuss Material Requirements Planning (MRP), Multi-Stage Control and Scheduling as well as Simulation and Quality.  \n This course will enableyou to develop an intuition about stochastic production lines.You will understand the importance and cost of inventory buffers, run basic simulation and optimizations and develop a policy to manage production systems.  \n The topics that we cover will provide the basis for you to continue into the manufacturing field in roles such as an operations manager and supply chain manager.  \n This course should be taken in sequence following Introduction to Manufacturing Systems.  \n Develop the skills needed for competence and competitiveness in today’s manufacturing industry with the Principles of Manufacturing MicroMasters Credential, designed and delivered by MIT’s #1-ranked Mechanical Engineering department in the world. Learners who pass the 8 courses in the program will earn the MicroMasters Credential and qualify to apply to gain credit towards MIT’s Master of Engineering in Advanced Manufacturing &amp; Design program.",
+  "learning_goals": [
+    "Supply Chain Management",
+    "Mechanical Engineering",
+    "Industrial Engineering",
+    "Scheduling",
+    "Material Requirements Planning",
+    "Production Systems",
+    "Advanced Manufacturing",
+    "Cost Control",
+    "Operations Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "9 周，每周 10-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "stanley-b-gershwin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "brian-anthony",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 288,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

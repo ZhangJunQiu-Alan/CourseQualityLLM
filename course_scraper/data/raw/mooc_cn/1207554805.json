@@ -1,0 +1,31 @@
+{
+  "course_id": "1207554805",
+  "platform": "mooc_cn",
+  "title": "机械产品数字化设计实战——NX CAD从入门到精通",
+  "description": "本课程通过零件的三维建模（项目1-12）、部件的虚拟装配（项目13-15）、零部件的工程图绘制（项目16-17）、非标设备的数字化设计（项目18-19）等4个模块，基于NX软件平台，介绍源于企业的变速箱转接器、压缩机缸体夹具、注塑机下料口、轴承装针机等典型产品的数字化设计方案。此外，还配有自主知识产权的发明专利案例库、双语教学资源等选学模块，为学习提供便利。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207554805",
+  "instructors": [
+    {
+      "name": "季业益;丁云鹏;丁倩倩;刘三利;石皋莲;吉绍山;刘凡;张英琦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12728,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

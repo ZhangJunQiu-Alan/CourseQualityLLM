@@ -1,0 +1,31 @@
+{
+  "course_id": "1462062165",
+  "platform": "mooc_cn",
+  "title": "古琴艺术",
+  "description": "古琴是中华民族最古老的乐器之一，居“四艺”之首，借上古圣贤之手而生，数千年来传承不绝。本MOOC是古琴学习的入门课程，我们一起来认识古琴、爱上古琴，感受古琴的魅力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462062165",
+  "instructors": [
+    {
+      "name": "吴晶",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "合肥工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9059,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

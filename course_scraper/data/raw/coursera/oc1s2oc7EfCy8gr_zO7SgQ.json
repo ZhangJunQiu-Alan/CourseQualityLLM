@@ -1,0 +1,26 @@
+{
+  "course_id": "oc1s2oc7EfCy8gr_zO7SgQ",
+  "platform": "coursera",
+  "title": "Network Operations",
+  "slug": "google-network-operations",
+  "description": "This course explores the network tools, protocols, and techniques that govern the functioning of network systems. Communication takes place on a network, and that communication can introduce vulnerabilities to the network. You will understand protocols that regulate network communication and be introduced to the tools and concepts that play a major role in ensuring network operations are safe and reliable. \n\nBy the end of this course, you will be able to:\n- Recognize common network protocols\n- Identify common network security measures and protocols\n- Describe the protocol(s) used to transmit and access data over wireless networks",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/google-network-operations",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

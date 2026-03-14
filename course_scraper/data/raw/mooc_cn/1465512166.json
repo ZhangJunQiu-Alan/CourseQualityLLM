@@ -1,0 +1,31 @@
+{
+  "course_id": "1465512166",
+  "platform": "mooc_cn",
+  "title": "市场营销学",
+  "description": "徐州工程学院《市场营销学》是第一批国家级线上线下混合式一流本科课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465512166",
+  "instructors": [
+    {
+      "name": "尹彬;杨雪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "徐州工程学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2050,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

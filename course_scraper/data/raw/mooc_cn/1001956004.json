@@ -1,0 +1,31 @@
+{
+  "course_id": "1001956004",
+  "platform": "mooc_cn",
+  "title": "核反应堆物理",
+  "description": "核能是应对能源危机的方法之一，具有安全和清洁的特点。核能的利用有两条途径，其中裂变能已经在实际中广泛应用。核反应堆物理作为核能科学与工程专业的基础课，为大家介绍了反应堆内与中子相关的物理过程以及与中子学相关的理论与计算方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001956004",
+  "instructors": [
+    {
+      "name": "李伟;曹欣荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16550,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

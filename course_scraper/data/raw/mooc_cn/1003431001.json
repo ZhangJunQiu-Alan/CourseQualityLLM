@@ -1,0 +1,31 @@
+{
+  "course_id": "1003431001",
+  "platform": "mooc_cn",
+  "title": "机器人基础原理",
+  "description": "《机器人基础原理》是顺应当前机器人技术的快速发展以及人才的迫切需求而开设的，是机器人工程专业的基础主干课程之一，学习对象是大学二年级以上本科学生及其他各类感兴趣的人员。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003431001",
+  "instructors": [
+    {
+      "name": "房立金;王斐;贾子熙;王帅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 61229,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003043004",
+  "platform": "mooc_cn",
+  "title": "管理学原理",
+  "description": "《管理学原理》是管理学类各个专业的一门专业基础课。本课程主要面向具有一定的自然科学和社会科学基础知识，渴望得到管理知识系统培训的学习者。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003043004",
+  "instructors": [
+    {
+      "name": "卢小君;王丽丽;孙岩",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 72582,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

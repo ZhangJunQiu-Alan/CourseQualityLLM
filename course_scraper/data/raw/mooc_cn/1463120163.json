@@ -1,0 +1,31 @@
+{
+  "course_id": "1463120163",
+  "platform": "mooc_cn",
+  "title": "纺织服装专业人工智能技术导论",
+  "description": "本课程从人工智能技术的基本原理出发，涵盖人工神经网络的基本原理，网络优化过程中的超参数设置，以及卷积神经网络的基本概念与常见架构。在此基础上，介绍了如何通过Tensorflow 2.x进行深度学习的编程实践，并对深度学习技术在目标检测、少样本学习、神经风格迁移以及生成对抗等方面的基本原理和常用模型进行了较为详细的剖析。本课程针对零编程基础的学生，课程体系由浅入深，主要采用Python语言和Tensorflow编程框架。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463120163",
+  "instructors": [
+    {
+      "name": "钟跃崎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东华大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5290,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

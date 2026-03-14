@@ -1,0 +1,31 @@
+{
+  "course_id": "1207002807",
+  "platform": "mooc_cn",
+  "title": "汽车故障诊断与排除实务",
+  "description": "课程主要讲授汽车发动机、电气等故障诊断与排除知识，培养学生分析故障、诊断故障和排除故障能力，具有较全面的汽车故障诊断与排除综合素质，为从事汽车机电工等工作打下基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207002807",
+  "instructors": [
+    {
+      "name": "张宏阁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南工业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9795,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

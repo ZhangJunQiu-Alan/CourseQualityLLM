@@ -1,0 +1,31 @@
+{
+  "course_id": "1459666161",
+  "platform": "mooc_cn",
+  "title": "建筑漫游",
+  "description": "欢迎加入我们的建筑漫游课程，开启一段探索建筑与空间设计的旅程！本课程专为希望提升设计表达能力的学生而设，通过学习先进的建筑设计软件，如 SketchUp 和 Lumion，您将掌握创建精美三维模型和生动动画的技巧。无论您是建筑设计、室内设计、景观设计专业的学生，还是希望提升视觉表达能力的设计爱好者，这门课程都将为您提供宝贵的经验和技能。快来加入我们，打造您的建筑梦想！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1459666161",
+  "instructors": [
+    {
+      "name": "张灿",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南科技学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4591,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

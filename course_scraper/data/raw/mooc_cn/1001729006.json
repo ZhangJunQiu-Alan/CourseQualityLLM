@@ -1,0 +1,31 @@
+{
+  "course_id": "1001729006",
+  "platform": "mooc_cn",
+  "title": "单片机原理与应用",
+  "description": "单片机无处不在，从民用电子产品到军用电子产品，在我们生活的各个领域都可以找到它的身影。单片机一直以入手简单、成本低、性能稳定等优点著称。一起来学习具有在线仿真调试的C51单片机吧，比起见到的绝大多数只能工作在下载模式单片机有质的飞越，是单片机开发高手的利器，是学习单片机的捷径。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001729006",
+  "instructors": [
+    {
+      "name": "李润梅;李正交;周兴;杨世武;黄赞武;马连川;张文静;戴胜华;周永华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 366806,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

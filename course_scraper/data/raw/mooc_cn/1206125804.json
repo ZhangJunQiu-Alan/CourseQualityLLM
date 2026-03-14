@@ -1,0 +1,31 @@
+{
+  "course_id": "1206125804",
+  "platform": "mooc_cn",
+  "title": "人人爱物流",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206125804",
+  "instructors": [
+    {
+      "name": "纪方",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "天津财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6823,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1464108175",
+  "platform": "mooc_cn",
+  "title": "档案学基础",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464108175",
+  "instructors": [
+    {
+      "name": "张卫东;周文泓;高大伟;王玉珏;吴振新;王平;加小双",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13224,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

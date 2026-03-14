@@ -1,0 +1,31 @@
+{
+  "course_id": "3gSileNMEe-ccQr_xjRSew",
+  "platform": "coursera",
+  "title": "DevOps and AI on AWS: Upgrading Apps with Generative AI",
+  "slug": "upgrading-apps-generative-ai",
+  "description": "Explore the intersection of DevOps and Generative AI on AWS in this hands-on course. Learn to enhance existing applications with powerful AI features using Amazon Bedrock's large language models (LLMs). You'll gain practical experience in implementing customized text generation, mastering prompt engineering, and applying advanced techniques like fine-tuning and Retrieval Augmented Generation (RAG).\n\nWe focus on essential DevOps practices, guiding you through the process of coding, building, and testing an application upgraded with generative AI capabilities. You'll learn to integrate these AI features seamlessly into your software development lifecycle, ensuring smooth deployment and maintenance.\n\nThe course also sharpens crucial developer skills. We highlight how to enable effective source control management, enabling efficient collaboration and version control in your projects. Additionally, you'll master unit testing to ensure the reliability of your applications.By the end of this course, you'll be equipped to modernize applications using generative AI, implement proven DevOps practices, and leverage AWS' AI services. Whether you're a developer expanding your AI expertise or a DevOps professional incorporating AI technologies, this course provides the tools to excel in the evolving landscape of software development and artificial intelligence.\n\nJoin us to transform your applications and development practices with the power of generative AI on AWS.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2-4 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/upgrading-apps-generative-ai",
+  "instructors": [
+    {
+      "name": "Russell Sayers",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Rafael Lopes",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

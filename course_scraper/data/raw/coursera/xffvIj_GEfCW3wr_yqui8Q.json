@@ -1,0 +1,26 @@
+{
+  "course_id": "xffvIj_GEfCW3wr_yqui8Q",
+  "platform": "coursera",
+  "title": "Optimizing Generative AI on Arm Processors",
+  "slug": "optimizing-generative-ai",
+  "description": "AI models are becoming increasingly powerful—but also increasingly demanding. As Generative AI moves from cloud data centers to mobile phones, autonomous systems and embedded IoT devices, the need to optimize performance across diverse hardware environments has never been more critical. Arm-based processors power more than 300 billion devices globally, from smartphones to hyperscale cloud servers, making them a key foundation for efficient AI deployment across the compute landscape. To meet this growing demand, learners need the skills to translate machine learning models into real-time, hardware-aware implementations across Arm-based platforms. \n\nOptimizing Generative AI on Arm Processors: from Edge to Cloud is designed for intermediate machine learning practitioners who want to bridge the gap between model design and deployment efficiency. Rather than revisiting ML fundamentals, this course dives straight into performance engineering for Generative AI on Arm-based platforms, including mobile, edge and cloud environments. \n  \nYou’ll explore real-world constraints, Arm architecture features, and software techniques used to accelerate AI inference—including SIMD (SVE, Neon), low-bit quantization, and the KleidiAI library. Each concept is taught using concise, interactive notebooks and narrated examples, enabling you to measure, tweak, and iterate on actual hardware like the Raspberry Pi 5 or AWS Graviton3 cloud instances.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 3-6 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/optimizing-generative-ai",
+  "instructors": [
+    {
+      "name": "Arm Education",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Arm"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

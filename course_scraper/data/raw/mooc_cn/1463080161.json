@@ -1,0 +1,31 @@
+{
+  "course_id": "1463080161",
+  "platform": "mooc_cn",
+  "title": "过程控制",
+  "description": "本课程为自动化专业核心课，由北京科技大学自动化学院5位教师主讲。其在培养学习者综合设计能力和自动化工程实践能力方面占有重要的地位，旨在培养学习者掌握工业中过程控制的基本概念、过程控制系统的主要结构类型和工作原理，以及实现其计算机控制的方法，具备相应的过程控制系统设计、理论分析、工程实现等基本能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463080161",
+  "instructors": [
+    {
+      "name": "董洁;彭开香;马亮;李江昀;张凯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6403,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

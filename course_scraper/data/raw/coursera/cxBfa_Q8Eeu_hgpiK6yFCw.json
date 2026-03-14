@@ -1,0 +1,26 @@
+{
+  "course_id": "cxBfa_Q8Eeu_hgpiK6yFCw",
+  "platform": "coursera",
+  "title": "Step into RPA",
+  "slug": "step-into-rpa",
+  "description": "Step into RPA is a 4-hour course where you will learn the basic concepts of Robotic Process Automation, commonly known as RPA, and understand the capabilities of software robots. The course equips you with skills to automate repetitive day-to-day tasks.\n\nThis course is tailored for non-technical audience who want to learn the basics of Robotic Process Automation and have basic knowledge of computers.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/step-into-rpa",
+  "instructors": [
+    {
+      "name": "UiPath",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "UiPath"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

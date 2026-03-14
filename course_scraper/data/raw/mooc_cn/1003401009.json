@@ -1,0 +1,31 @@
+{
+  "course_id": "1003401009",
+  "platform": "mooc_cn",
+  "title": "马克思主义基本原理",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003401009",
+  "instructors": [
+    {
+      "name": "杨谦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南开大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 97154,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

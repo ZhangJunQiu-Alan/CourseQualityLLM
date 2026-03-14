@@ -1,0 +1,31 @@
+{
+  "course_id": "97001",
+  "platform": "mooc_cn",
+  "title": "大学物理-电磁学和光学",
+  "description": "山东大学《大学物理》被评为首批国家精品在线开放课程，欢迎来到课程团队精心打造的《大学物理MOOC》！本课程包括力学和热学、电磁学和光学、相对论和量子物理三大模块，教学体系完整丰富，课程讲解详实易懂，便于自主学习和移动学习！希望本课程能够帮助您去了解、去探索美妙神奇的物理世界！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/97001",
+  "instructors": [
+    {
+      "name": "李玉香;于淑云;刘建强;葛美华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 100192,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

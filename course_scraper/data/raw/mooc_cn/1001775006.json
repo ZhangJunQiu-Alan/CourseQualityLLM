@@ -1,0 +1,31 @@
+{
+  "course_id": "1001775006",
+  "platform": "mooc_cn",
+  "title": "实用大众线性代数(MATLAB版)",
+  "description": "本课程特色如下：1. 现代化：用MATLAB实现线性代数运算，并对数学模型进行求解。2. 大众化：删减部分繁琐的数学论述，使概念形象易懂。3. 实用化：给出几十个经典方法不能解决的、后续课和工程上的应用案例，并给出MATLAB程序。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001775006",
+  "instructors": [
+    {
+      "name": "杨威;陈怀琛;樊松涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 121190,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

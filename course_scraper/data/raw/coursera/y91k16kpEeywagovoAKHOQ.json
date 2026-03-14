@@ -1,0 +1,26 @@
+{
+  "course_id": "y91k16kpEeywagovoAKHOQ",
+  "platform": "coursera",
+  "title": "Google Cloud SDK: Qwik Start - Redhat/Centos",
+  "slug": "googlecloud-google-cloud-sdk-qwik-start-redhat-centos-u2ycf",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.\n\nIn this hands-on lab you will learn how to perform basic tasks in Cloud Storage using the gsutil command-line tool. For a short preview, watch <A HREF=\"https://youtu.be/69MdTXgA6Ws\"/>Cloud SDK - Essential Command-Line Tools for Google Cloud Platform</A>.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "30 Minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-google-cloud-sdk-qwik-start-redhat-centos-u2ycf",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

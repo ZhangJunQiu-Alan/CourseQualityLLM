@@ -1,0 +1,31 @@
+{
+  "course_id": "1002015021",
+  "platform": "mooc_cn",
+  "title": "辐射与防护",
+  "description": "放射性物质可对人体造成电离损伤，对环境造成污染。随着经济社会快速发展，电脑、手机、家电使用中产生的非电离辐射也逐渐增多。本课程依据国家放射防护法律法规，由专业教师由浅至深、通俗地介绍辐射的来源、分类、对机体损伤的机理。着重介绍了针对不同类型辐射的安全防护策略,具有科学性、权威性。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002015021",
+  "instructors": [
+    {
+      "name": "侯桂华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19445,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

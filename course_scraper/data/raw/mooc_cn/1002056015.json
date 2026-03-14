@@ -1,0 +1,31 @@
+{
+  "course_id": "1002056015",
+  "platform": "mooc_cn",
+  "title": "电路基础",
+  "description": "现代社会科技飞速发展，电的使用无处不在，我们使用的电脑、手机，乘坐的高铁、飞机，连接世界每个角落的互联网，都离不开电路的支持。要深入探究这些电路的功能，必须从学习电路基础知识开始。在这门课程中，我们将带领大家学习电路的基本理论、基本分析方法和基本技能，养成工程思维模式，提升逻辑思维能力。让我们一起走进电路的神秘世界！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002056015",
+  "instructors": [
+    {
+      "name": "吴青萍;蒋莉;陆梦薇;夏莹;杨娜;刘雪燕;沈凯;胡春芬;施静;于忠良;徐敏;张慧敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22581,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

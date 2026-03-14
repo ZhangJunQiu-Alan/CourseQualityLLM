@@ -1,0 +1,31 @@
+{
+  "course_id": "1463260177",
+  "platform": "mooc_cn",
+  "title": "数字电子技术",
+  "description": "《数字电子技术》是电子信息工程技术专业的一门职业核心课程，目的是培养学生从事电子技术类工作的核心职业能力，在本课程中体现为数字电路设计与制作的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463260177",
+  "instructors": [
+    {
+      "name": "万冬;徐静;王甜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1869,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

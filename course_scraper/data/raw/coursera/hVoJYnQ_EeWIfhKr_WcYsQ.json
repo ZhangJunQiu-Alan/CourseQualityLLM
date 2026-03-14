@@ -1,0 +1,26 @@
+{
+  "course_id": "hVoJYnQ_EeWIfhKr_WcYsQ",
+  "platform": "coursera",
+  "title": "Introduction to Web Development",
+  "slug": "web-development",
+  "description": "This course is designed to build your skills in web development and design, no matter how little experience or technical knowledge you currently have. You probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With a billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills.  \n\nBy the end of this course you’ll be able to describe the structure and functionality of the world wide web, create static web pages using HTML and CSS, select an appropriate web hosting service, and publish your webpages for the world to see. Finally, you’ll be able to develop a working model for creating your own personal or business websites in the future and launch yourself on a learning journey in web development.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/web-development",
+  "instructors": [
+    {
+      "name": "William Mead",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of California, Davis"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

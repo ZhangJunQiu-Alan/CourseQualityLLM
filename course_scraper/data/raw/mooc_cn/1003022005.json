@@ -1,0 +1,31 @@
+{
+  "course_id": "1003022005",
+  "platform": "mooc_cn",
+  "title": "微观经济学",
+  "description": "我们欢迎你，有梦想了不起！欢迎你来学习微观经济学。微观经济学，教你如何理小家，如何管企业，如何治理社会；微观经济学，教你理性作选择，陪你自信闯市场，助你潇洒圆梦想！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003022005",
+  "instructors": [
+    {
+      "name": "吴开超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 67429,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

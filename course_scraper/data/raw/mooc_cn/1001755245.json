@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755245",
+  "platform": "mooc_cn",
+  "title": "数值天气预报",
+  "description": "数值天气预报课程是气象科学的一门专业课，主要介绍数值天气预报的基础知识、基本原理和基本方法。通过学习，使学生系统地理解数值天气预报的基本原理；切实地掌握制作数值天气预报的方法；初步具备设计数值天气预报模式的能力；为从事数值天气预报业务、数值预报产品释用、数值模拟研究等打下基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755245",
+  "instructors": [
+    {
+      "name": "陈海山;王祥;邵海燕;马旭林;施宁;陈耀登;段明铿;闵锦忠;俞淼",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25873,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

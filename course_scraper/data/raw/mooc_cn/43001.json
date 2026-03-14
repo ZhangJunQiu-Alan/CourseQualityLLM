@@ -1,0 +1,31 @@
+{
+  "course_id": "43001",
+  "platform": "mooc_cn",
+  "title": "设计的力量",
+  "description": "在全球化时代的语境中，设计产生的巨大价值更是深刻地影响着当代经济、文化与社会发展，成为展现一个国家现代文明程度和科技发展水平的标志。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/43001",
+  "instructors": [
+    {
+      "name": "何人可",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 143903,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002860004",
+  "platform": "mooc_cn",
+  "title": "社会工作概论",
+  "description": "本课程是一门学科基础课程，课程在博采众长的基础上，注重突出社会工作作为学科基础课程的学理性和实务性、学科性和研究性、国际性与本土化的统一，能够帮助学生很好地把握社会工作的主要理论、六大专业方法以及实务操作技巧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002860004",
+  "instructors": [
+    {
+      "name": "吴同",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 51956,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

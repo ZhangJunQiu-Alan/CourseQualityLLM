@@ -1,0 +1,26 @@
+{
+  "course_id": "Hk5wdmECEe62wwrYx-2qTQ",
+  "platform": "coursera",
+  "title": "Scaling Microservices App: Migration to Redis Enterprise on Google Cloud",
+  "slug": "googlecloud-scaling-microservices-applications-migration-to-redis-enterpri-f6ltt",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. \n\nIn this lab, you will deploy a fully functioning microservices e-Commerce website application on Google Cloud using Redis to run the shopping cart service and then migrate that to Redis Enterprise for scalability and high availability.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "90 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-scaling-microservices-applications-migration-to-redis-enterpri-f6ltt",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

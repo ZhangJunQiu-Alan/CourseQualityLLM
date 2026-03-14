@@ -1,0 +1,31 @@
+{
+  "course_id": "N3EyGZOGEe6RghJ0G7_aCw",
+  "platform": "coursera",
+  "title": "Encryption and Cryptography Essentials",
+  "slug": "encryption-and-cryptography-essentials",
+  "description": "Over 10,600 confirmed breaches were reported globally in 2024, exposing millions of records, including sensitive healthcare and financial data. Organizations need cybersecurity professionals who can protect them against this costly risk. This Encryption and Cryptography Essentials course gives aspiring cybersecurity professionals job-ready skills in encryption, hashing, and digital signatures—key competencies employers are looking for.  \n\nYou’ll master symmetric (AES) and asymmetric (RSA) encryption techniques and apply hashing methods like MD5 and SHA to ensure data integrity. You’ll learn how to manage and verify certificates using the Online Certificate Status Protocol (OCSP). Plus, you’ll explore blockchain technology and its applications.  \n\nThis course is a comprehensive guide to mastering encryption and cryptography in cybersecurity. Through hands-on labs, interactive quizzes, and projects, you’ll learn how to secure digital information, tackle cybersecurity challenges, and implement encryption and cryptographic solutions.  \n\nIf you’re looking to add job-ready encryption and cryptography skills employers need to your resume, enroll today!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks; 3 hours/week ",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/encryption-and-cryptography-essentials",
+  "instructors": [
+    {
+      "name": "Dr. Manish Kumar",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "IBM Skills Network Team",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

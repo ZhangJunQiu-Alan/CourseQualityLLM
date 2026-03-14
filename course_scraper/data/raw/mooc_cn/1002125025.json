@@ -1,0 +1,31 @@
+{
+  "course_id": "1002125025",
+  "platform": "mooc_cn",
+  "title": "财务会计学",
+  "description": "本课程是会计学科各专业的核心课程，又称“中级财务会计”，是构建会计知识体系非常重要的一门专业课。该课程承上启下：既是对基础会计学揭示的基本理论和方法的运用与深化，又是进一步学习税务会计学、成本会计学、高级财务会计、审计学、财务管理学等课程的必要前提和基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002125025",
+  "instructors": [
+    {
+      "name": "程会洁;李经路;潘广伟;王秀芬;刘永丽;张春红;于双丽;董红星;张津津;刘辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州航空工业管理学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 47386,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

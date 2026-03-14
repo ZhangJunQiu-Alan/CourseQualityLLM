@@ -1,0 +1,49 @@
+{
+  "course_id": "course-a2753795-125d-4466-9365-3b085de0be4b",
+  "platform": "edx",
+  "title": "System Design for Supply Chain Management and Logistics",
+  "description": "Logistics and supply chain structures can be found in virtually any system. In this business and management course you will learn not only what makes leading systems competitive but also how to design, or redesign, your own system. \n The MOOC is based on a widely popular university course that will give you a working knowledge on supply chain strategy and design that can be applied in your organisation. \n Course topics include: \n \n How to increase ROI (Return on Investment) using logistics \n Logistics trade-offs (service vs cost vs capital) \n The SCOR model for analysis of supply chains \n Sustainability in supply chains (the triple bottom line) \n The Bullwhip effect and how to beat it \n Strategies regarding:  \n Sourcing \n Warehousing \n Product range \n Production \n Distribution \n Transportation \n Etc. \n \n \n Concepts like:  \n Quick Response - QR \n Efficient Consumer Response, ECR \n Collaborative Planning, Forecasting and Replenishment, CPFR \n \n \n \n Many of the topics in the course will be illustrated using real companies and real logistics professionals as logistics is not a theoretical subject – it exists all around us – everywhere. \n By the end of this course, you will be able to better describe, understand and ultimately design your own system for your organisation based on existing knowledge in this exciting field. \n Regardless of your industry or organisation type, the concepts and methods from this course will help you become a logistics and supply chain professional. You will never look at a hotel breakfast buffet, a loading bay, a warehouse, a factory, an emergency room or even at a fast food restaurant the same way again…",
+  "learning_goals": [
+    "Management",
+    "Supply Chain",
+    "Supply Chain Operations Reference Model",
+    "Systems Design",
+    "Forecasting",
+    "Warehousing",
+    "Triple Bottom Line (TBL)",
+    "Supply Chain Management",
+    "Supply Chain Strategy",
+    "Return On Investment",
+    "Emergency Departments",
+    "Restaurant Operation",
+    "Planning"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "olof-arnas",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ola-hultkrantz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Chalmers University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 457,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

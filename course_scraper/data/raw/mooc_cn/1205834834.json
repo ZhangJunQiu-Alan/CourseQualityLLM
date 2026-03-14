@@ -1,0 +1,31 @@
+{
+  "course_id": "1205834834",
+  "platform": "mooc_cn",
+  "title": "运筹学",
+  "description": "课程通过简明的例子深入浅出地讲解了运筹学的各分支的基本方法，并配有相应的习题练习和讲解。通过本课程的学习，可掌握线性规划、目标规划、动态规划、图论、决策论等分支的基本方法，并利用这些方法初步解决一些实际问题。本课程为：福建省精品在线开放课程；华侨大学精品在线开放课程；华侨大学百门优质课程；华侨大学一流本科线上课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205834834",
+  "instructors": [
+    {
+      "name": "郭韧;程小刚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华侨大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30114,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

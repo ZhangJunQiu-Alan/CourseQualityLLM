@@ -1,0 +1,31 @@
+{
+  "course_id": "1207408806",
+  "platform": "mooc_cn",
+  "title": "网络管理与安全技术",
+  "description": "随着当今社会信息技术的快速发展，特别是云计算、物联网、大数据和人工智能等热点领域的发展，信息已经成为目前非常重要的战略资源，因此在网络中各类信息数据的安全便显得尤为重要。习近平总书记指出“没有网络安全就没有国家安全，没有信息化就没有现代化。”网络安全事关国家安全与社会稳定，必须采取有效措施来保障我国的网络信息安全。从2017年6月1日起我国开始施行《中华人民共和国网络安全法》，此举显示了党和国家对网络安全问题的高度重视，是我国网络安全法治建设的一个重大战略契机。因此本课程的学习对于计算机网络技术和信息安全技术等相关专业的学生来说具有重要意义。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207408806",
+  "instructors": [
+    {
+      "name": "王亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏商贸职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3879,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

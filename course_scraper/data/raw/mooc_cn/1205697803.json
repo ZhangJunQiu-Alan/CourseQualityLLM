@@ -1,0 +1,31 @@
+{
+  "course_id": "1205697803",
+  "platform": "mooc_cn",
+  "title": "结构化学（一）",
+  "description": "结构化学基础课是化学专业本科生的一门主干基础课，对于培养学生的创新思维和科研能力有至关重要的作用。本课程介绍原子结构和分子结构的基础知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205697803",
+  "instructors": [
+    {
+      "name": "朱月香",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41257,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

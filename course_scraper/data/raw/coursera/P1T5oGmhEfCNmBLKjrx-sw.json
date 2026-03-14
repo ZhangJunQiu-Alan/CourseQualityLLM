@@ -1,0 +1,31 @@
+{
+  "course_id": "P1T5oGmhEfCNmBLKjrx-sw",
+  "platform": "coursera",
+  "title": "Practical Windows PowerShell Scripting: Unit 1",
+  "slug": "pearson-practical-windows-powershell-scripting-unit1",
+  "description": "This course provides a solid foundation in PowerShell, a versatile tool for managing Windows environments. In the first module, you'll explore the essentials of PowerShell, including its interface, syntax, and troubleshooting techniques. By the end of the course, you'll be equipped to predict command behaviors and handle common errors with confidence. The course also delves deeper into essential concepts for everyday use, such as cmdlets, objects, and variables, setting the stage for advanced scripting. You'll also learn to interpret error messages and create custom ones, empowering you to manage and automate tasks efficiently.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 hours 45 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-practical-windows-powershell-scripting-unit1",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Brien Posey",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

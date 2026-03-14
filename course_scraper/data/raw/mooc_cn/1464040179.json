@@ -1,0 +1,31 @@
+{
+  "course_id": "1464040179",
+  "platform": "mooc_cn",
+  "title": "解析几何",
+  "description": "本课程是针对数学类专业开设的专业基础课，也适合理工科专业学生选修；每一知识点配以相符的练习题，其中还包含对往年大学生数学竞赛中解析几何部分试题的讲解，从而满足不同层次学生的需求；授课过程中加入一些实际应用案例，通过 MATLAB,PYTHON运用其图形可视化功能对图形进行静态与动态的可视化。教学团队的老师有着丰富的教学经验获得多个省部级奖项、教学成果显著、主持多个教改项目。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464040179",
+  "instructors": [
+    {
+      "name": "张林桐;司新辉;储继迅;曹丽梅;牛敏;陈学慧;朱婧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18701,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

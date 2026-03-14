@@ -1,0 +1,31 @@
+{
+  "course_id": "1461948167",
+  "platform": "mooc_cn",
+  "title": "电气与PLC控制技术",
+  "description": "《电气与PLC控制技术》课程的任务是使学生掌握可编程控制器的基本工作原理、低压电气控制的基础知识、可编程控制器控制线路连接、调试与编程技术，提高学生专业知识水平、培养职业技能和综合素质，使学生初步具备PLC控制程序设计以及电气控制系统设计能力，并具有实际应用能力，能解决常见现场技术问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461948167",
+  "instructors": [
+    {
+      "name": "周建波;董微",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8057,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

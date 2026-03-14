@@ -1,0 +1,31 @@
+{
+  "course_id": "1001760010",
+  "platform": "mooc_cn",
+  "title": "文科高等数学",
+  "description": "本课程是国家精品课程（2009年）、国家精品资源共享课程（2016年）、国家精品在线开放课程（2018年）、国家级线上一流课程。江苏省线上线下混合式一流课程。本课程是给文科类大学生开设的一门素质教育课，坚持人文与数学融合的课程观，以数学知识和数学科学的发展历程为载体，以揭示数学科学精神与思想方法为中心，以提高学生数学素养为宗旨，将课堂讲授和课外阅读有机结合，努力实现知识传授和人文熏陶的有机交融。通过学习，在掌握高等数学基本知识的同时，能够培育人的思维品格和思辨能力，启迪人的聪明才智，开发人的潜在的能动性和创造力，提升人的整体素质。学习一次，终身受益。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001760010",
+  "instructors": [
+    {
+      "name": "苏简兵",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21504,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

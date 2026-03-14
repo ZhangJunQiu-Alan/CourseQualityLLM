@@ -1,0 +1,43 @@
+{
+  "course_id": "course-6978740e-3978-42d2-bfab-2408f298b4c7",
+  "platform": "edx",
+  "title": "Agile and Scrum Fundamentals",
+  "description": "After successfully completing this course, you will be able to embrace the Agile concepts of adaptive planning, iterative development, and continuous improvement - resulting in early deliveries and value to customers. This course will benefit anyone who wants to get started with working the Agile way. It is particularly suitable for IT practitioners such as software developers, development managers, project managers, product managers, and executives. \n You will learn to apply Agile practices derived from lean manufacturing concepts, like test-driven development. Learn how a scrum team functions. Learn how to write good user stories and track your team’s progress using a kanban board. Create and refine a product backlog collaboratively with the team and the customer, in a flexible and blameless culture. This approach will lead you to higher levels of efficiency, with the ability to plan and execute sprints with your development team, measuring success with actionable metrics. This course is about more than facts and processes. It is about working collaboratively on a self-organizing team, coached by a scrum master, and building what is needed, rather than simply following a plan. Developed and taught by an experienced Agile practitioner, the course includes hands-on practice through realistic scenario-based labs using GitHub and ZenHub.",
+  "learning_goals": [
+    "Scrum (Software Development)",
+    "Test-Driven Development (TDD)",
+    "Continuous Improvement Process",
+    "Refining",
+    "Agile Methodology",
+    "Software Development",
+    "Planning",
+    "Iterative And Incremental Development",
+    "User Story",
+    "Kanban Principles",
+    "Github",
+    "Lean Manufacturing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "john-rofrano",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 836,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

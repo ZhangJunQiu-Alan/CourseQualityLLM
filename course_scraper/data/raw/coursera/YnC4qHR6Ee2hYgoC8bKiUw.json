@@ -1,0 +1,26 @@
+{
+  "course_id": "YnC4qHR6Ee2hYgoC8bKiUw",
+  "platform": "coursera",
+  "title": "Machine Learning in the Enterprise - Français",
+  "slug": "machine-learning-in-enterprise-fr",
+  "description": "Ce cours présente une approche pratique du workflow de ML avec une étude de cas dans laquelle une équipe est confrontée à plusieurs exigences métier et cas d'utilisation de ML. Cette équipe doit comprendre quels outils sont nécessaires pour gérer et gouverner les données, et trouver la meilleure approche pour les prétraiter.\n\nOn présente à cette équipe trois options de création de modèles de ML pour deux cas d'utilisation spécifiques. Ce cours explique pourquoi l'équipe tire parti des avantages d'AutoML, de BigQuery ML ou de l'entraînement personnalisé pour atteindre ses objectifs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 5-7 hours per week",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/machine-learning-in-enterprise-fr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

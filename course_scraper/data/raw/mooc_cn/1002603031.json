@@ -1,0 +1,31 @@
+{
+  "course_id": "1002603031",
+  "platform": "mooc_cn",
+  "title": "农药化学",
+  "description": "《农药化学》这门课程主要阐述各类农药的化学性质，合成方法，结构与活性，代谢，作用机制等。在学习了这门课程之后，你将知道农药是怎么设计合成出来的；农药为什么能起到杀虫、杀菌、除草的作用等。餐桌中的农药“鸡尾酒”进入到人体后会怎样？农药有那么可怕吗？通过后面的学习，将逐一为大家揭晓。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002603031",
+  "instructors": [
+    {
+      "name": "徐胜臻",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12867,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

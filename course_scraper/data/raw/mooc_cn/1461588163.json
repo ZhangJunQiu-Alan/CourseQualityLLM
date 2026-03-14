@@ -1,0 +1,31 @@
+{
+  "course_id": "1461588163",
+  "platform": "mooc_cn",
+  "title": "气象学",
+  "description": "朝晖夕阴，气象万千。多变的天气和变化的气候与我们的生活息息相关。通过课程的学习，可以了解天气与气候的形成变化原因，认识并理解地球系统的复杂性，从而更好地阅读并感知我们共同生活的地球家园。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461588163",
+  "instructors": [
+    {
+      "name": "王鹤松",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7128,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

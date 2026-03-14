@@ -1,0 +1,40 @@
+{
+  "course_id": "course-1d8dc871-ee1b-40c2-8428-c725a96a809f",
+  "platform": "edx",
+  "title": "Technical Support Basics for Everyone",
+  "description": "According to Indeed.com in August 2022, the average annual salary for Technical Support is $51,758, though it can go considerably higher. The need for technology is constantly growing, as is the job market for tech support professionals. \n In this course you’ll get an insider’s view into IT Support work. Learn about IT Support roles and levels, the support escalation matrix, ticketing systems, common support tools, and remote support software.  \n To help you with moving into the field, the course covers tech support career opportunities and career pathways from experienced, expert Information Technology professionals.  \n By the end of this course, you will be able to: \n - Describe and develop a customer service and support mindset. \n - Explore the features and benefits of ticketing systems. \n - Identify support tools and systems used in technical support. \n - Define the levels of IT support and the escalation matrix.  \n - Explore various tech support roles and responsibilities, including service-level agreement responsibilities. \n - Recognize the career paths and progression in Technical Support. \n This course provides several real-world inspired activities to demonstrate your skills in the areas of support tools, resolving IT issues, escalations and ticketing. \n These skills will help you engage prospective employers and ask insightful questions that demonstrate your knowledge of the day-to-day role-related responsibilities.",
+  "learning_goals": [
+    "Service-Level Agreement",
+    "Technical Support",
+    "Information Technology",
+    "Customer Service"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 9-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "amy-norton",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1484,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1470428180",
+  "platform": "mooc_cn",
+  "title": "密码分析学",
+  "description": "密码分析学是山东大学网络空间安全学院密码科学与技术专业的必修课，是密码学引论的进阶课程。该课程从攻击者的角度，评估密码算法的安全性；以易于上手的小算法为例，探讨对称密码和杂凑函数的主流分析技术；注重数学原理和编程测试相结合，循序渐进的引导学生发现问题，分析问题，解决问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470428180",
+  "instructors": [
+    {
+      "name": "王薇;王伟嘉;樊燕红;王美琴;郭淳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 491,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,38 @@
+{
+  "course_id": "course-5c90d49e-e57d-4789-a729-334980458fe0",
+  "platform": "edx",
+  "title": "Data Analytics Basics for Everyone",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge —a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n In this course, you will learn about the various components of a modern data ecosystem and the role Data Analysts, Data Scientists, and Data Engineers play in this ecosystem. You will gain an understanding of data structures, file formats, sources of data, and data repositories. You will understand what Big Data is and the features and uses of some of the Big Data processing tools. \n This course will introduce you to the key tasks a Data Analyst performs in a typical day. This includes how they identify, gather, wrangle, mine and analyze data, and finally communicate their findings to different stakeholders impactfully. You will be introduced to some of the tools Data Analysts use for each of these tasks. \n You will learn about the features and use of relational and non-relational databases, data warehouses, data marts, and data lakes. You will understand how ETL, or Extract-Transform-Load, process converts raw data into analysis-ready data. And what are some of the specific languages used by data analytics to extract, prepare, and analyze data. \n By the end of this course you will know about the various career opportunities available in the field of Data Analytics, and the different learning paths you can consider to gain entry into this field. \n The course ends with some exercises and a hands-on lab to test your understanding of some of the basic data gathering, wrangling, mining, analysis, and visualization tasks.",
+  "learning_goals": [
+    "Relational Databases",
+    "Big Data",
+    "Data Structures",
+    "Data Warehousing",
+    "Data Analysis",
+    "Extract Transform Load (ETL)",
+    "Data Lakes"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7691,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

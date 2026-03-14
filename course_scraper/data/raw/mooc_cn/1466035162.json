@@ -1,0 +1,31 @@
+{
+  "course_id": "1466035162",
+  "platform": "mooc_cn",
+  "title": "高等代数I",
+  "description": "本课程注重内容的可视化、课程的的交互性。通过大量动态图展示，使学生能形象直观理解代数问题的深刻几何意义；课程注重以学生为主体的教育理念，针对课程知识点设计了一些交互页面。利用界面中已经提前设计好的互动条，学生可以通过主动操作，就会对相关知识点内容有主动、直观、深入的理解。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466035162",
+  "instructors": [
+    {
+      "name": "胡峻;张杰;孙玉姣;万金奎;魏丰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4572,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

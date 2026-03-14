@@ -1,0 +1,31 @@
+{
+  "course_id": "1003651002",
+  "platform": "mooc_cn",
+  "title": "地球流体力学",
+  "description": "《地球流体力学》课程是南京大学大气科学学院的专业核心课和主要基础课程之一，主要的研究对象为地球上流体（大气、海洋）的宏观运动规律，本课程授课对象是大气科学/应用气象学专业本科二年级学生，也是本科生接触到的第一门动力学课程，为后期的专业课程学习奠定了动力学基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003651002",
+  "instructors": [
+    {
+      "name": "任雪娟;孙旭光;张洋;蒋益荃;黄丹青;胡海波;房佳蓓;杨修群",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13302,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

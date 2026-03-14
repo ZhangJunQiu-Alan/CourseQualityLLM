@@ -1,0 +1,32 @@
+{
+  "course_id": "course-c675d751-509f-41e9-8192-d609c5b2edfb",
+  "platform": "edx",
+  "title": "Energy to Electrochemistry Final Exam",
+  "description": "Final exam covering content from the first three courses",
+  "learning_goals": [
+    "Chemistry"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "james-anderson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 645,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

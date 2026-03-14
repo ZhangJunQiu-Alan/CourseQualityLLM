@@ -1,0 +1,26 @@
+{
+  "course_id": "PSvnbjSaEe-H2BLw-oHycQ",
+  "platform": "coursera",
+  "title": "Programming with Java",
+  "slug": "programming-with-java",
+  "description": "This is the second course in the Amazon Junior Software Developer Professional Certificate. In this course, you will explore advanced Object-Oriented Programming (OOP) concepts in Java, starting with an introduction to Interfaces and Abstract Classes. You'll learn how to effectively utilize interfaces for achieving multiple inheritance and how abstract classes play a crucial role in designing class hierarchies. Moving forward, you'll dive into Exception Handling, covering various types of exceptions in Java, along with best practices for handling them using try-catch-finally blocks. You'll also gain knowledge of File I/O operations, acquire skills in reading from and writing to files, understand different types of streams, and perform file operations efficiently. Finally, you'll explore Serialization and Deserialization techniques, enabling you to save and reconstruct object states, as well as use last run files for configuring current run states effectively. Overall, this course equips you with advanced Java programming skills essential for developing robust, efficient, and scalable applications.\n\nAfter completing this course, you’ll be able to:   \n• Develop methods to organize and reuse code effectively.\n• Apply object-oriented programming concepts within the Java language to design modular and scalable code.\n• Handle errors and exceptions in Java to create robust applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "Approximately 21 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/programming-with-java",
+  "instructors": [
+    {
+      "name": "Amazon ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

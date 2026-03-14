@@ -1,0 +1,26 @@
+{
+  "course_id": "vt3GiQCJEfCehwr_ziEUiw",
+  "platform": "coursera",
+  "title": "HashiCorp Vault Foundations and Secrets Management",
+  "slug": "packt-hashicorp-vault-foundations-and-secrets-management-hbxj3",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you will gain a deep understanding of HashiCorp Vault and how it helps manage secrets in an automated and secure way. You will learn about Vault’s various secrets engines, authentication methods, and security features. By the end, you’ll be proficient in setting up Vault in real-world scenarios, enabling you to securely manage credentials, encryption keys, and sensitive data for your organization. The course focuses on hands-on demos and practical implementations to ensure you're ready for real-world applications.\n\nYou’ll start by familiarizing yourself with Vault’s core concepts, including the Key/Value Secrets Engine, Database Secrets Engine, and Transit Secrets Engine. Then, you'll dive deeper into the security hardening aspects of Vault, such as auto-unsealing, integrated storage, and Vault initialization. Through demos, you’ll configure these engines and methods to understand how they interact with one another.\n\nAs you move through the course, you’ll configure different authentication methods like AppRole, Userpass, and Vault tokens, learning how each plays a role in ensuring access to secrets. The course also covers critical aspects like regenerating root tokens, securing Vault initialization, and rotating encryption keys, ensuring your Vault deployment remains secure and resilient.\n\nThis course is ideal for security engineers, DevOps professionals, and anyone looking to strengthen their skills in secrets management and Vault security. No prior experience with HashiCorp Vault is required, but familiarity with IT infrastructure, cloud computing, or security concepts will be helpful. The course is structured for learners of all levels but leans toward an intermediate understanding of security and cloud technologies.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-hashicorp-vault-foundations-and-secrets-management-hbxj3",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

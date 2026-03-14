@@ -1,0 +1,26 @@
+{
+  "course_id": "piiiwg53EeuQDw7azRMhCQ",
+  "platform": "coursera",
+  "title": "Hands-On Labs in Google Cloud for Networking Engineers",
+  "slug": "hands-on-labs-google-cloud-networking-engineer",
+  "description": "This course consists of a series of labs, designed to provide the learner hands-on experience performing a variety of tasks pertaining to setup and maintenance of their Google VPC networks.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 week of study",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/hands-on-labs-google-cloud-networking-engineer",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

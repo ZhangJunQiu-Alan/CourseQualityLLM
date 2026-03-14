@@ -1,0 +1,47 @@
+{
+  "course_id": "course-131ce1df-6106-4de3-a337-e85f8731dab7",
+  "platform": "edx",
+  "title": "Calculus I: From Functions to Differential Equations",
+  "description": "A strong foundation in mathematics is critical for success in all science and engineering disciplines. Whether you want to make a strong start to a master’s degree, prepare for more advanced courses, solidify your knowledge in a professional context or simply brush up on fundamentals, this course will get you up to speed. \n This course allows you to get a solid basis by refreshing and reviewing your bachelor-level calculus. \n The course focuses on functions of one variable. In the first 5 weeks you will learn all the basic integration, differentiation and approximation techniques required in a first calculus course of an engineering bachelor education. In the final week these topics will all come together as you solve and analyze several ordinary differential equations. \n We use examples that are based on real-life applications so you can practice your mathematical skills in an engineering context. Our courses in calculus offer enough depth to cover what you need to succeed in your engineering master’s or profession in areas such as modeling, physics, fluid dynamics, dynamical systems and more. \n  This is a review course  \nThis self-contained course is modular, so you do not need to follow the entire course if you wish to focus on a particular aspect. As a review course you are expected to have previously studied or be familiar with most of the material. Hence the pace will be higher than in an introductory course. \n This format is ideal for refreshing your bachelor level mathematics and letting you practice as much as you want. Through the Grasple platform, you will have access to plenty of exercises and receive intelligent, personal and immediate feedback. \n This course is part of our series  Mastering Mathematics for Engineers  , and together with the course Calculus II part of the program  Mastering Calculus .",
+  "learning_goals": [
+    "Fluid Dynamics",
+    "Basic Math",
+    "Calculus",
+    "Physics",
+    "Dynamical Systems",
+    "Differential Equations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "niek-de-kleijn",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "willem-schouten-straatman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "beryl-van-gelderen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2011,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

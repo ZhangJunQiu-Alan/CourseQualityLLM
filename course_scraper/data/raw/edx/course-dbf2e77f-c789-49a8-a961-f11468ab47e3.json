@@ -1,0 +1,43 @@
+{
+  "course_id": "course-dbf2e77f-c789-49a8-a961-f11468ab47e3",
+  "platform": "edx",
+  "title": "Solar Energy 1",
+  "description": "In this first course in the program Solar Energy you will be introduced to the technology that converts solar energy into electricity. The role of solar energy in both the energy transition towards a sustainable future and the improvement of the electricity access in specific regions in the world will be discussed in detail. Solar energy is the technology among all sectors with the potential to result in the largest net reduction in CO2 emissions at the lowest costs by 2030. The merits of solar energy in reference to other renewable electricity generation technologies will be analysed and we will discuss the important metrics related to performance, costs, reliability and circularity of solar energy. \n You will be introduced to the solar spectrum and irradiance on earth. The physical principle of the PV energy conversion using semiconductor materials are discussed, including the light excitation of charge carriers, charge carrier transport, separation and collection. The physics of the interaction of light with matter will be covered. \n The design of a solar cell is a complex interplay between the spectral utilisation, light management and electrical properties of the device. In this course you will be introduced to the optical and electrical design rules, the equivalent electrical circuit of a solar cell and parameters that determine the performance of a solar cell.",
+  "learning_goals": [
+    "Physics",
+    "Management",
+    "Energy Conversion",
+    "Semiconductor Materials",
+    "Optics",
+    "Electrical Networks",
+    "Climate Change Mitigation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "arno-smets",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "thierry-de-vrijer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 752,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

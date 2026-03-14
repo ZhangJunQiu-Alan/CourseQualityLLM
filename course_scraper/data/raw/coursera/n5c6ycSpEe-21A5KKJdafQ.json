@@ -1,0 +1,26 @@
+{
+  "course_id": "n5c6ycSpEe-21A5KKJdafQ",
+  "platform": "coursera",
+  "title": "AZ-104: Azure Storage, Compute, Containers, and Automation",
+  "slug": "packt-az-104-azure-storage-compute-containers-and-autoamtion-pps7c",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach! \n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.  \n\nUnlock the full potential of Microsoft Azure with this comprehensive course on storage, compute, containers, and automation. You’ll learn to manage complex cloud environments while building expertise in configuring and deploying Azure services. This course equips you with practical skills to streamline operations, optimize resources, and enhance scalability in your cloud infrastructure.\n\nThe course begins with mastering Azure Storage, including data import/export, redundancy, and object replication. You'll progress to configuring Azure Files and Blob Storage, covering everything from file shares to lifecycle management. Practical demonstrations ensure you can integrate these tools seamlessly into real-world IT workflows.\n\nDive deeper into automation using Azure Resource Manager templates and VM extensions. You’ll also explore virtual machine configurations, disk encryption, and resource management, building a robust foundation in virtualized compute environments. Further modules introduce container management, from scaling Kubernetes services to creating container apps, and finally, Azure App Service for custom domains, backups, and secure deployment.\n\nThis course is designed for IT professionals, cloud administrators, and security specialists aiming to enhance their Azure expertise. A basic understanding of cloud computing and familiarity with Azure fundamentals is recommended. With hands-on exercises and expert guidance, this intermediate-level course will elevate your Azure management skills.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-az-104-azure-storage-compute-containers-and-autoamtion-pps7c",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

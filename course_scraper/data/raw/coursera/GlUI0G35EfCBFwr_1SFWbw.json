@@ -1,0 +1,26 @@
+{
+  "course_id": "GlUI0G35EfCBFwr_1SFWbw",
+  "platform": "coursera",
+  "title": "UiPath Agentic Automation Associate",
+  "slug": "uipath-agentic-automation-developer",
+  "description": "This course, available on Coursera with content from UiPath, takes you through the complete journey of building, configuring, and evaluating intelligent agents in UiPath Studio Web, with a focus on Generative AI (Gen AI) activities and scalable evaluation strategies.\n\nYou’ll begin with Build your first agent with Studio Web, where you’ll create intelligent agents using no-code tools and Autopilot. Then, in Agentic prompt engineering, you’ll learn to design effective prompts that help AI agents deliver accurate, structured, and useful outputs.\n\nWith Configure context and escalations for agents, you’ll make your agents enterprise-ready by grounding their responses in business context and creating escalation flows for human-in-the-loop scenarios. Finally, in Configure evaluations for agents, you’ll explore structured evaluation sets and scoring methods like LLM-as-a-Judge, Exact Match, and JSON Similarity to test and refine your agents.\n\nBy the end of this course, you’ll be equipped to build and deploy Studio Web agents that are reliable, context-aware, and evaluation-driven.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 hours per week and 4 weeks",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/uipath-agentic-automation-developer",
+  "instructors": [
+    {
+      "name": "UiPath",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "UiPath"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

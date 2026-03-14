@@ -1,0 +1,31 @@
+{
+  "course_id": "1207124819",
+  "platform": "mooc_cn",
+  "title": "运动生物力学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207124819",
+  "instructors": [
+    {
+      "name": "李翰君;周兴龙;曲峰;万祥林;邓辰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京体育大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20339,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

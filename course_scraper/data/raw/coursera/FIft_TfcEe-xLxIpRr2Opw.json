@@ -1,0 +1,26 @@
+{
+  "course_id": "FIft_TfcEe-xLxIpRr2Opw",
+  "platform": "coursera",
+  "title": "Test-Driven Development in .NET Core - The Handbook",
+  "slug": "packt-test-driven-development-in-net-core-the-handbook-hljqf",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course is designed to take you on an in-depth journey through Test-Driven Development (TDD) with .NET 6/7, emphasizing practical application and real-world scenarios. Starting with the fundamentals, you'll learn how to set up and use .NET 6/7, create test projects, and develop unit tests based on specific requirements. You'll then delve into implementing code that meets these requirements, ensuring your applications return the correct data and function as expected.\n\nAs you progress, the course will guide you through more advanced TDD concepts, including the testing and implementation of application core functionalities. You'll explore creating and saving room bookings, checking room availability, and handling various booking scenarios. The lessons are designed to build your confidence and competence in managing exceptions, adding booking IDs, and ensuring the reliability of your code through thorough testing.\n\nFinally, the course culminates with integration testing and continuous integration using GitHub. You’ll refactor projects for better data access, create unit test scenarios for ASP.NET Core applications, and learn to set up and protect GitHub repositories. By the end of the course, you'll be equipped with the skills to run and test your ASP.NET Core applications effectively and streamline your development process with continuous integration techniques.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-test-driven-development-in-net-core-the-handbook-hljqf",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

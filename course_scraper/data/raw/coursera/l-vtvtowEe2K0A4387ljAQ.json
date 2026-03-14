@@ -1,0 +1,26 @@
+{
+  "course_id": "l-vtvtowEe2K0A4387ljAQ",
+  "platform": "coursera",
+  "title": "4. ツールを使いこなす：Linux と SQL",
+  "slug": "linux-and-sql-jp",
+  "description": "Google サイバーセキュリティ プロフェッショナル認定証の 4 つめのコースです。各コースでは初級サイバーセキュリティの職に必要なスキルを身につけることができます。\n\nこのコースでは、サイバーセキュリティ アナリストとして実際に業務で使用するコンピュータ スキルを探求します。まず、サイバーセキュリティの職種でよく使われるオペレーティング システム（OS）である Linux の使い方を学びます。例えば、Bash シェルによる Linux のコマンドラインを使って、ファイル システムの操作や管理、ユーザー認証を実行します。そして、データベースと通信するために SQL を使う方法についても学びます。\n\nサイバーセキュリティの分野で働いている現職の Google 社員が最適なツールやリソースを使って一般的なサイバーセキュリティの業務を遂行する実践的な方法を指導します。また就職活動への準備も手助けします。\n\nこの認定プログラムを修了すると、エントリーレベルのサイバーセキュリティの職に応募できるようになります。過去の業務経験は不要です。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/linux-and-sql-jp",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

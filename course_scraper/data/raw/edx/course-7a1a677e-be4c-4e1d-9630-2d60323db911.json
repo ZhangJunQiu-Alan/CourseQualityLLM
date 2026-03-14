@@ -1,0 +1,59 @@
+{
+  "course_id": "course-7a1a677e-be4c-4e1d-9630-2d60323db911",
+  "platform": "edx",
+  "title": "Introduction to Cloud Computing",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge —a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!    \n Begin your cloud computing mastery with this easy-to-follow, self-paced course. Gain the essential knowledge needed to understand cloud computing from a business perspective and as a hands-on cloud practitioner.   \n This course immerses you in the world of notable cloud service providers, including AWS, Google, IBM, and Microsoft. Explore their offered services and examine real-world applications through industry-specific case studies. You'll also dive into cloud adoption and its connection with technologies such as blockchain, analytics, and AI.   \n Discover the diverse cloud service models—Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS)—and deployment models—public, private, and hybrid. You'll grasp the core elements of cloud infrastructure, including VMs, networking, storage types, and CDNs. You’ll learn about emerging trends like Hybrid Multicloud, Microservices, Serverless, DevOps, Cloud Native, and Application Modernization. Learn the basics of cloud security, monitoring, and understand various roles in the cloud industry.   \n Throughout the course, you’ll hear from subject matter experts who will share their insights into Cloud technology and work as a Cloud Practitioner.   \n You'll gain hands-on experience, having deployed an application on IBM Cloud—a shareable project that makes for an impressive employment portfolio addition!   \n Whether you're an executive, manager, student, or professional seeking familiarity with cloud computing terminology and concepts, or you aim for a solid grounding in cloud computing for a career as a cloud engineer, full stack developer, DevOps engineer, service reliability engineer, or cybersecurity analyst, this course is your starting point.",
+  "learning_goals": [
+    "Virtualization",
+    "Cloud Computing Security",
+    "Full Stack Development",
+    "Infrastructure As A Service (IaaS)",
+    "Private Cloud",
+    "Hybrid Cloud Computing",
+    "Serverless Computing",
+    "DevOps",
+    "Platform as a Service (PaaS)",
+    "Microservices",
+    "Software as a Service (SaaS)",
+    "Public Cloud",
+    "Reliability Engineering",
+    "Cloud Computing Architecture",
+    "Cloud-Native Computing",
+    "Cloud Computing",
+    "Blockchain",
+    "Cyber Security",
+    "Cloud Engineering",
+    "Multi-Cloud",
+    "Cloud Services",
+    "File Explorer",
+    "Cloud Security Infrastructure",
+    "Cloud Security Architecture",
+    "Amazon Web Services",
+    "IBM Cloud Computing",
+    "Business Case",
+    "Cloud Infrastructure"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2456,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

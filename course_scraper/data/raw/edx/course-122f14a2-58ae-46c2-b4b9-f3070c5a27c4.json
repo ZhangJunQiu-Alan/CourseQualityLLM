@@ -1,0 +1,60 @@
+{
+  "course_id": "course-122f14a2-58ae-46c2-b4b9-f3070c5a27c4",
+  "platform": "edx",
+  "title": "Cell cultivation techniques: An introduction",
+  "description": "Over the past 20 years, many aspects of cell cultivation techniques have become increasingly important. Today, animal and human cell cultures are used to produce antibodies to treat cancer and autoimmune and inflammatory diseases. In addition, these cells are of interest for vaccine production and gene therapies.       \n The current focus is on sustainability, therefore plant cell and tissue cultures have recently been used in commercial products, active ingredients in cosmetics, and food additives, and they are also used to make therapeutic enzymes. That, however, is not all. Human stem cell-based therapies and human on-chip models for testing cancer drugs and therapies are becoming more and more attractive.      \n Our course will provide you with a solid foundation in how to successfully cultivate the most commonly used cells for these applications. It will prepare you for the practice when you are handling these cells in the laboratory and at the same time will help you to better understand the language/concepts used by cell culture technologists. The focus will be on Chinese hamster ovary cells - CHO cells for short, mesenchymal stem cells, and plant suspension cultures.",
+  "learning_goals": [
+    "Enzymes",
+    "Cell Biology",
+    "Bioreactors",
+    "Suspension (Vehicle)",
+    "Antibodies",
+    "Cell Cultures",
+    "Chinese Hamster Ovary Cell",
+    "Biopharmaceuticals",
+    "Tissue Culture"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "regine-eibl",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rudiger-maschke",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "valentin-jossen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "stefan-seidel",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "cedric-schirmer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "ZHAW Zurich University of Applied Sciences"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 328,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "350EFQUFEfCPRRJPAkb9OQ",
+  "platform": "coursera",
+  "title": "CyberSec First Responder (CFR-310)",
+  "slug": "packt-cybersec-first-responder-cfr-310-x6eph",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you’ll gain the foundational knowledge needed to respond effectively to cybersecurity incidents. You will be introduced to the key elements of identifying and analyzing cyber threats, attacks, and vulnerabilities. Throughout the course, you'll develop the skills to assess the security posture of a network and prepare a response to potential incidents. By the end, you'll have a comprehensive understanding of the cybersecurity landscape, empowering you to safeguard and protect organizational systems.\n\nThe course begins with an in-depth exploration of the different types of cyber threats and actors, as well as the common attack vectors they use. You will learn how attacks are structured, their motives, and the impact they may have on businesses and individuals. In addition to understanding the threats, you'll delve into tools and techniques for vulnerability scanning, penetration testing, and network and system reconnaissance, all critical for identifying weaknesses before an attack happens.\n\nAs you progress, the course will focus on gaining access through various attack techniques, including web app scanning, social engineering, and wireless attacks. You will also dive deeper into post-exploitation tactics such as data exfiltration, pivoting, lateral movement, and maintaining persistence. Equipped with these skills, you'll be able to recognize when an attack is underway and respond appropriately.\n\nThis course is ideal for aspiring cybersecurity professionals or those looking to enhance their skills in incident response. It’s designed for individuals with a basic understanding of IT concepts, and while no advanced technical knowledge is required, familiarity with networking and security basics will help you excel. The course is structured to build both theoretical understanding and practical skills for dealing with cyber threats.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-cybersec-first-responder-cfr-310-x6eph",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

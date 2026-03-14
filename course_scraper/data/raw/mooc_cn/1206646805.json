@@ -1,0 +1,31 @@
+{
+  "course_id": "1206646805",
+  "platform": "mooc_cn",
+  "title": "工程材料",
+  "description": "工程材料是高等院校机类、近机类等专业的基础课，在长期的教学过程中形成了“加强基础、突出重点、注重应用、适应面宽”的教学理念，教学内容设计合理，理论与实践并重，课程的核心任务是培养学生“知理论、懂性能、会选材”的综合能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206646805",
+  "instructors": [
+    {
+      "name": "秦丽元;吴超华;彭兆;杨爽;黄丰;史晓亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17039,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

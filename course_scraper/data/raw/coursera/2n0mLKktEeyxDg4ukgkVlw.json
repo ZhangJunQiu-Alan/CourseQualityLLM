@@ -1,0 +1,26 @@
+{
+  "course_id": "2n0mLKktEeyxDg4ukgkVlw",
+  "platform": "coursera",
+  "title": "How to Build a BI Dashboard Using Google Data Studio and BigQuery",
+  "slug": "googlecloud-how-to-build-a-bi-dashboard-using-google-data-studio-and-bigqu-cfi1a",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. Learn how to build a BI dashboard with Data Studio as the front end, powered by BigQuery on the back end",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-how-to-build-a-bi-dashboard-using-google-data-studio-and-bigqu-cfi1a",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

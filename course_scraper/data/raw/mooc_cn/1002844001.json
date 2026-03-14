@@ -1,0 +1,31 @@
+{
+  "course_id": "1002844001",
+  "platform": "mooc_cn",
+  "title": "统计学",
+  "description": "《统计学》是一门理论与实践紧密结合、应用性广泛的方法类课程。结合社会经济实践，顺应大数据分析需求，运用统计数量分析的理论、方法和大数据分析技术，分析社会经济现象数量的表现、关系和变化规律，使学生了解统计思想，培养数据应用思维，学会用统计方法和数据处理技术分析和解决社会经济问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002844001",
+  "instructors": [
+    {
+      "name": "李金昌;朱宗元;陈雄强;项莹;周银香;李时兴;刘波;陈玉娟;洪兴建",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 222268,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

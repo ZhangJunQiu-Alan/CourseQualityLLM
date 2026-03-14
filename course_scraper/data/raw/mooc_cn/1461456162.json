@@ -1,0 +1,31 @@
+{
+  "course_id": "1461456162",
+  "platform": "mooc_cn",
+  "title": "锅炉原理",
+  "description": "火力发电是我国主要的发电方式，电站锅炉作为火电站的三大主机设备之一，伴随着我国火电行业的发展而发展。锅炉是一种能量转换设备，其主要工作原理是利用燃料燃烧后释放的热能或工业生产中的余热传递给容器内的水，使水达到所需要的温度或一定压力的蒸汽。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461456162",
+  "instructors": [
+    {
+      "name": "冯磊华;刘亮;汪淑奇;田红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长沙理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26108,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

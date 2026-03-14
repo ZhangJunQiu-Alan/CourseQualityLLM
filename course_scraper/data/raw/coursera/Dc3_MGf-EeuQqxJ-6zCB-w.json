@@ -1,0 +1,26 @@
+{
+  "course_id": "Dc3_MGf-EeuQqxJ-6zCB-w",
+  "platform": "coursera",
+  "title": "Google Meet",
+  "slug": "google-meet",
+  "description": "In this course, we introduce you to Google Meet, Google’s video conference software included with Google Workspace. \n\nYou learn how to create and manage video conference meetings using Google Meet. You explore different ways to open Google Meet and add people to a video conference. You also learn how to join meetings from different sources like calendar events or meeting links.\n\nWe discuss how Google Meet can help you better communicate, exchange ideas, and share resources with your team wherever they are. You learn how to customize the Google Meet environment to fit your needs and how to effectively use chat messages during a video conference. You also explore different ways to share resources, such as by using calendar invites or attachments.\n\nYou learn about using host controls in Google Meet to manage participants and utilize interactive moderation features. You also learn how to record and live stream video conferences.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks of study, 6-8 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/google-meet",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

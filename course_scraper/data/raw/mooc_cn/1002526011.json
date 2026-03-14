@@ -1,0 +1,31 @@
+{
+  "course_id": "1002526011",
+  "platform": "mooc_cn",
+  "title": "电磁学",
+  "description": "这是一门关于电磁学的基础课程，与实体课程的教学要求基本相同。        以大量有趣的实验以及物理过程的动态模拟，力图降低课程知识的学习难度，帮助学习者能够较为容易地理解、掌握课程的基本知识以及研究问题的基本方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002526011",
+  "instructors": [
+    {
+      "name": "王瑞敏;王兴;刘丹东;徐忠锋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 51397,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

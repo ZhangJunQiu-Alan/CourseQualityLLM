@@ -1,0 +1,31 @@
+{
+  "course_id": "1207397801",
+  "platform": "mooc_cn",
+  "title": "细胞生物学实验",
+  "description": "细胞是组成生命有机体的基本结构与功能单位，研究和了解细胞是揭示生命奥秘、改造生命和征服疾病的基础。\"细胞生物学实验\"是一门传授研究细胞结构、功能及生命活动等相关研究方法与技能的实验课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207397801",
+  "instructors": [
+    {
+      "name": "薛雅蓉;华子春;张晶",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 38207,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

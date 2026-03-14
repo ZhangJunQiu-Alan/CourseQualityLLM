@@ -1,0 +1,31 @@
+{
+  "course_id": "ibTCwKNjEfCeCgr_64w_jw",
+  "platform": "coursera",
+  "title": "Design & Secure LLM APIs for Scalability",
+  "slug": "design--secure-llm-apis-for-scalability",
+  "description": "Master the art of building enterprise-grade LLM APIs that scale to millions of users while maintaining bulletproof security. This hands-on course transforms you from API developer to platform architect, teaching you to design microservices architectures that handle 10M+ daily requests with sub-100ms response times. You'll implement advanced security frameworks protecting against prompt injection and data exfiltration, master OAuth2/JWT authentication, and build comprehensive monitoring systems that ensure 99.9% uptime. Through real-world scenarios from companies like Stripe and Netflix, you'll learn cost optimization strategies, auto-scaling configurations, and disaster recovery protocols.\n\nThis course is designed for developers, security engineers, and platform teams who want to design, secure, and operate large-scale enterprise LLM APIs.  \n\nLearners should be familiar with Python programming, API usage,  ML concepts,cloud basics, Git/GitHub usage, and general software knowledge.\n\nBy course end, you'll architect production-ready LLM APIs that meet enterprise security standards (HIPAA, SOC 2) and scale seamlessly from startup to unicorn. Perfect for senior developers, platform engineers, and technical leads building the next generation of AI-powered applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/design--secure-llm-apis-for-scalability",
+  "instructors": [
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": " Ashraf S. A. AlMadhoun",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

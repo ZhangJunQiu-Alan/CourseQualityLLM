@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752376",
+  "platform": "mooc_cn",
+  "title": "数学实验",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752376",
+  "instructors": [
+    {
+      "name": "王正新;鲁延玲;杨真真;金正猛;肖丽丽;王辉;郦志新;赵礼峰;金栩;付春尧;张沫;宫婧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36009,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

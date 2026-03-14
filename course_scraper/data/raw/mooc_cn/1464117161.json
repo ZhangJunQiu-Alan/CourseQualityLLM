@@ -1,0 +1,31 @@
+{
+  "course_id": "1464117161",
+  "platform": "mooc_cn",
+  "title": "生理学",
+  "description": "生理学是一门研究机体生命活动现象及其规律的科学。对于所有想从事临床医学、药学、护理、康复等相关工作的学生，生理学是一门必须要学习的重要医学基础课。学好生理学为后续学习其它基础及临床课程奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464117161",
+  "instructors": [
+    {
+      "name": "李想;程硕;郭瑞;陈琳;陈瑞妮;李育;李佳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16381,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

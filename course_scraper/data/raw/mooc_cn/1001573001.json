@@ -1,0 +1,31 @@
+{
+  "course_id": "1001573001",
+  "platform": "mooc_cn",
+  "title": "心理学与生活",
+  "description": "心理学很神秘？你会发现，只要有人的地方，就有心理学！心理学很深奥？你会发现，似乎每个人都是大众心理学家，谁都可以说点“心理学”。我们生活中处处都是心理学！但这门课程却要告诉你，我们常常挂在嘴边的“心理学”绝大部分是错的，剩下的一小部分也是不全面的。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001573001",
+  "instructors": [
+    {
+      "name": "陈昌凯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3263038,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

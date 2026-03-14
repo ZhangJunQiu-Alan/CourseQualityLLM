@@ -1,0 +1,31 @@
+{
+  "course_id": "1206687808",
+  "platform": "mooc_cn",
+  "title": "复变函数",
+  "description": "18世纪，数学家欧拉创立了复数的系统理论。在19世纪，复变函数理论得到了全面发展， 其深刻地渗入到数论、微分方程、概率论等数学分支，同时，它在热力学、流体力学等方面也有很多应用。在20世纪，复变函数论广泛应用于理论物理、天体力学等方面、还开辟了单叶函数论、多复变函数论等新的研究分支。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206687808",
+  "instructors": [
+    {
+      "name": "陈行堤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华侨大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12325,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

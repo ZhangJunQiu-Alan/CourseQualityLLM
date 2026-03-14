@@ -1,0 +1,35 @@
+{
+  "course_id": "course-d5234734-307f-4974-aa96-fd670469b569",
+  "platform": "edx",
+  "title": "Virtualization, Docker, and Kubernetes for Data Engineering",
+  "description": "Dive into the world of virtualization, containerization, and orchestration for data engineering: \n \n Understand virtualization fundamentals and work with virtual machines \n Explore Docker containers and build scalable microservices \n Orchestrate containers using Kubernetes and cloud platforms \n Utilize cloud development environments like GitHub Codespaces \n Learn production best practices, including monitoring, testing, and CI/CD \n \n Gain practical experience with industry-standard tools and techniques. Develop the skills to build, deploy, and manage containerized data solutions at scale. Whether you're a student or data professional, level up your data engineering capabilities.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "noah-gift",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "kennedy-behrman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pragmatic AI Labs"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 291,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

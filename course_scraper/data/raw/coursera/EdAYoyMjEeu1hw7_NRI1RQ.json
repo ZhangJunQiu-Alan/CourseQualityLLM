@@ -1,0 +1,26 @@
+{
+  "course_id": "EdAYoyMjEeu1hw7_NRI1RQ",
+  "platform": "coursera",
+  "title": "Python استخدام قواعد البيانات مع",
+  "slug": "python-databases-ar",
+  "description": "سيتعرف الطلاب خلال هذه الدورة على أساسيات لغة الاستعلام البنوية (SQL) وتصميم قاعدة البيانات الأساسية لتخزين البيانات كجزءٍ من جمع البيانات متعددة الخطوات وتحليلها ومعالجتها. تستخدم الدورة التدريبية SQLite3 قاعدة بيانات لها. نعمل أيضًا على إنشاء متتبعات الويب وعمليات جمع البيانات متعددة الخطوات وتصورها. نستخدم مكتبة D3.js لإجراء تصور البيانات الأساسية. تتناول هذه الدورة الفصلين 14 و15 من كتاب \"Python for Everybody\". كي تجتاز هذه الدورة، ينبغي أن تكون على دراية بالمواد المذكورة في الفصل الأول إلى الفصل 13 من الكتاب الدراسي والدورات الثلاث الأولى في هذا التخصص. تتناول هذه الدورة Python 3.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "‫5 أسابيع دراسية، 2- 3 ساعات أسبوعيًا",
+  "language": "ar",
+  "url": "https://www.coursera.org/learn/python-databases-ar",
+  "instructors": [
+    {
+      "name": "Charles Russell Severance",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Michigan"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

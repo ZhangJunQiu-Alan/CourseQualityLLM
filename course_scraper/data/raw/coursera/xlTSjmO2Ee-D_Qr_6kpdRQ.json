@@ -1,0 +1,26 @@
+{
+  "course_id": "xlTSjmO2Ee-D_Qr_6kpdRQ",
+  "platform": "coursera",
+  "title": "Azure SQL Data Warehouse Synapse Analytics Service",
+  "slug": "packt-azure-sql-data-warehouse-synapse-analytics-service-s5uqu",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nUnlock the potential of cloud data warehousing with Azure Synapse Analytics. This course begins by introducing the core concepts of cloud-based warehousing, highlighting the advantages over traditional systems. You will gain insights into Synapse Analytics' unified approach to data, enabling you to manage SQL and Spark workloads with ease, all while streamlining analytics and reporting tasks.\n\nAs you move through the course, you'll dive into practical applications, including demos on creating and managing dedicated SQL pools, integrating Spark for big data analysis, and leveraging serverless capabilities for efficient data processing. The course also covers the crucial aspects of cloud security, teaching you how to safeguard your data with tools like dynamic data masking and auditing. By exploring best practices in architecture, partitioning, and performance tuning, you'll understand how to optimize your data warehouse for enterprise-scale tasks.\n\nFinally, the course walks you through key data migration strategies, emphasizing the use of SSIS, PolyBase, and Data Factory. You’ll wrap up by exploring Azure’s monitoring and troubleshooting features, ensuring your Synapse deployment runs smoothly. This course not only equips you with essential technical skills but also prepares you to tackle real-world challenges in cloud-based data warehousing.\n\nThis course is designed for data professionals, cloud engineers, and database administrators who are interested in building scalable, secure data warehouses using Azure Synapse Analytics. Prior knowledge of SQL and basic cloud computing concepts is recommended but not required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-azure-sql-data-warehouse-synapse-analytics-service-s5uqu",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

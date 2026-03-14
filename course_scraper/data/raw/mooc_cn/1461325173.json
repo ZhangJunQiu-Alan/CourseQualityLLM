@@ -1,0 +1,31 @@
+{
+  "course_id": "1461325173",
+  "platform": "mooc_cn",
+  "title": "Medical Microbiology",
+  "description": "Medical microbiology concerns the nature, distribution and activities of microbes and how they impact on health and wellbeing, most particularly as agents of infection. Infections remain a major global cause of mortality and in most hospitals around one in ten of those admitted will suffer from an infection acquired during their stay. The evolution of microbes presents a massive challenge to modern medicine and public health. The constant changes in viruses such as influenza, HIV, tuberculosis, malaria and SARS demand vigilance and insight into the underlying process.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461325173",
+  "instructors": [
+    {
+      "name": "Pengfei Jiang",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Wenzhou Medical University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 965,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

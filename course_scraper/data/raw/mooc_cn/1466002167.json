@@ -1,0 +1,31 @@
+{
+  "course_id": "1466002167",
+  "platform": "mooc_cn",
+  "title": "民航运筹学",
+  "description": "在交通运输、经济管理、数据科学等领域中存在大量的决策问题，如何合理地利用人力、物力、财力等资源，实现最佳效果；例如在机场塔台管制、进近和区域程序管制、进近雷达管制、飞行签派和航行情报等如何最优安排调度，从而使得现有资源发挥最大的利用率、最好安全性、最佳的经济效益等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466002167",
+  "instructors": [
+    {
+      "name": "徐海文;何亚兴;游庆山;农历;李永正;江怡;余德兴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国民用航空飞行学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8259,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

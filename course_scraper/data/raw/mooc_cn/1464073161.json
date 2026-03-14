@@ -1,0 +1,31 @@
+{
+  "course_id": "1464073161",
+  "platform": "mooc_cn",
+  "title": "物理化学实验",
+  "description": "欢迎加入厦门大学物理化学实验的在线课程！这里，我们将带您深入物理化学的精彩世界，涵盖热力学、电化学、动力学及表面化学等核心领域。课程旨在通过视频讲解、习题库等数字化教学资源，培养您的实验技能，提升科学思维和创新能力。在这个探索之旅中，复杂的实验原理将变得通俗易懂，枯燥的概念公式将变得生动有趣。加入我们，体验物理化学实验的乐趣，开启您的科学探索之旅吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464073161",
+  "instructors": [
+    {
+      "name": "袁汝明;吴伟泰;张来英;吴德印;周剑章;颜佳伟;邓卫平;吴平平;董鑫;李岩云;田娜;徐晓明;郑明森",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "厦门大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5783,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

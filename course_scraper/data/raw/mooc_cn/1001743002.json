@@ -1,0 +1,31 @@
+{
+  "course_id": "1001743002",
+  "platform": "mooc_cn",
+  "title": "植物学",
+  "description": "植物是地球生命存在和发展的基础，它不仅为人类和其它生物提供了生长发育必需的物质和能量，而且为生命的产生和发展提供了适宜的环境。揭示植物生长、发育和进化的基本规律、及物种多样性，有助于人类更好地了解自然、利用自然、保护自然。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001743002",
+  "instructors": [
+    {
+      "name": "刘文哲;蔡霞;王丹阳;李忠虎;畅国丽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 66382,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

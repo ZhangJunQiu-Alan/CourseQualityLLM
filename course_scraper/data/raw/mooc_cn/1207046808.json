@@ -1,0 +1,31 @@
+{
+  "course_id": "1207046808",
+  "platform": "mooc_cn",
+  "title": "大数据分析原理和应用",
+  "description": "随着互联网的发展，大数据思想与技术已经逐渐渗入到我们生活工作的方方面面。本课程从大数据分析的原理、技术和应用的角度，围绕着大数据分析的基础知识、大数据分析平台的核心原理、大数据分析的关键技术、大数据分析的应用四个方面进行讲述，使学生能掌握大数据分析的基本原理和核心技术，同时熟悉大数据分析的原理和技术在商业、投资、保险和银行中的应用，并能搭建大数据分析平台分析大规模数据集。该课程对于初步了解大数据的思想，掌握基本的大数据技术，都有一定的帮助。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207046808",
+  "instructors": [
+    {
+      "name": "海沫",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中央财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26750,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

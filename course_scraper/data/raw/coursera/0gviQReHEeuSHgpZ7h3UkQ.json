@@ -1,0 +1,26 @@
+{
+  "course_id": "0gviQReHEeuSHgpZ7h3UkQ",
+  "platform": "coursera",
+  "title": "Interpretable Machine Learning Applications: Part 1",
+  "slug": "interpretable-machine-learning-applications-part-1",
+  "description": "In this 1-hour long project-based course, you will learn how to create interpretable machine learning applications on the example of two classification regression models, decision tree and random forestc classifiers. You will also learn how to explain such prediction models by extracting the most important features and their values, which mostly impact these prediction models. In this sense, the project will boost your career as Machine Learning (ML) developer and modeler in that you will be able to get a deeper insight into the behaviour of your ML model. The project will also benefit your career as a decision maker in an executive position, or consultant, interested in deploying trusted and accountable ML applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2-hour course, including time of video recordings, practicing and readings, taking the quiz.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/interpretable-machine-learning-applications-part-1",
+  "instructors": [
+    {
+      "name": "Epaminondas Kapetanios",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

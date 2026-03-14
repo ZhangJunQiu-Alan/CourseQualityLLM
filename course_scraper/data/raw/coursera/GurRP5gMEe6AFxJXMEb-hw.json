@@ -1,0 +1,26 @@
+{
+  "course_id": "GurRP5gMEe6AFxJXMEb-hw",
+  "platform": "coursera",
+  "title": "Build a Chat Application using the PaLM 2 API on Cloud Run",
+  "slug": "googlecloud-build-a-chat-application-using-the-palm-2-api-on-cloud-run-g4pjb",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.In this lab, you build and deploy an AI-based chat application on Cloud Run that utilizes the PaLM 2 API's Chat Bison model (text-chat).",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "90 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-build-a-chat-application-using-the-palm-2-api-on-cloud-run-g4pjb",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

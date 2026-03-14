@@ -1,0 +1,31 @@
+{
+  "course_id": "1206948801",
+  "platform": "mooc_cn",
+  "title": "普通动物学",
+  "description": "普通动物学以动物演化系统为主线，系统介绍动物界各主要类群的特征；重要代表动物的形态结构、生理机能、个体发育的特点；动物各门、纲、目的分类、生态及经济意义；动物界发生发展的基本规律及各门、纲的演化关系以及动物地理分布知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206948801",
+  "instructors": [
+    {
+      "name": "周延",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10971,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

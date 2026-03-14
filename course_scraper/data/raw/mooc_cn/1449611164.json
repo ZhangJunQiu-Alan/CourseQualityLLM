@@ -1,0 +1,31 @@
+{
+  "course_id": "1449611164",
+  "platform": "mooc_cn",
+  "title": "网络安全——应用技术与工程实践",
+  "description": "本课程为国家一流课程。网络攻防是网络空间这个看不见硝烟的战场的永恒主题，保护网络安全需要构建完善的防御体系。课程从技术和工程两个层面，全景式展示网络安全知识图谱，循序渐进地带你走进迷人的网络安全世界。无论你是安全小白，还是安全达人，都会从中深度受益。不要犹豫，请随我们一起踏上成为安全大咖的探索之旅。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449611164",
+  "instructors": [
+    {
+      "name": "闫怀志",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30271,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

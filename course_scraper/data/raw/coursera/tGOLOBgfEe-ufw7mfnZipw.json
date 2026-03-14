@@ -1,0 +1,26 @@
+{
+  "course_id": "tGOLOBgfEe-ufw7mfnZipw",
+  "platform": "coursera",
+  "title": "Gemini in Google Docs 繁體中文",
+  "slug": "gemini-in-google-docs-zhtw",
+  "description": "使用者將能透過 Gemini 版 Google Workspace 外掛程式運用生成式 AI 功能。本課程會使用影片、實作活動和練習範例，深入介紹 Gemini 版 Google 文件的功能。您將學到如何透過 Gemini 使用提示生成撰寫內容、編輯寫好的文字，以提升整體工作效率。本課程結束後，您將具備 Gemini 版 Google 文件的知識及技能，可自信地運用這項工具提升寫作品質。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "zh-TW",
+  "url": "https://www.coursera.org/learn/gemini-in-google-docs-zhtw",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

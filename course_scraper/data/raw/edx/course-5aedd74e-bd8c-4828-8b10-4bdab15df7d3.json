@@ -1,0 +1,46 @@
+{
+  "course_id": "course-5aedd74e-bd8c-4828-8b10-4bdab15df7d3",
+  "platform": "edx",
+  "title": "Cyber Risk Supervision",
+  "description": "As the reliance of the financial sector on Information Technology and the interconnectedness of systems continue to rise, cybersecurity has become a financial stability risk. Financial supervisors need to understand the nature of the risk, learn the essential concepts of cyber risk management, and acquire basic skills needed for effective regulation and supervision. \n To this end, the course will lay out the cyber risk landscape for financial institutions, core principles of sound risk management based on the understanding of IT architectures, and approaches to regulations and effective supervisory practices. Course developed with the financial support of the Financial Sector Stability Fund (FSSF) and the Government of Japan.",
+  "learning_goals": [
+    "Information Technology",
+    "Management",
+    "Risk Management",
+    "Cyber Risk",
+    "Cyber Security"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "tamas-gaidosch",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "emran-islam",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rangachary-ravikumar",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 329,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "73001",
+  "platform": "mooc_cn",
+  "title": "化学与社会",
+  "description": "这是一门有趣的化学课，既讲述化学知识，也思考人文内涵；它通过化学的观点来观察生活，也从化学家的角度剖析社会生活中的各种问题。2014年9月首次开课，2018年1月，课程获评首批国家精品在线开放课程！2020年，课程获评首批国家级线上一流课程！ 基础如何并不重要，只要您对化学感兴趣，我们都欢迎您的加入！！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/73001",
+  "instructors": [
+    {
+      "name": "胡涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 44036,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

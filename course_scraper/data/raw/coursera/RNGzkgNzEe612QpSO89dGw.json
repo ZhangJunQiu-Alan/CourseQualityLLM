@@ -1,0 +1,26 @@
+{
+  "course_id": "RNGzkgNzEe612QpSO89dGw",
+  "platform": "coursera",
+  "title": "Introduction to Vertex AI Studio",
+  "slug": "introduction-to-generative-ai-studio",
+  "description": "This course introduces Vertex AI Studio, a tool to interact with generative AI models, prototype business ideas, and launch them into production. Through an immersive use case, engaging lessons, and a hands-on lab, you’ll explore the prompt-to-product lifecycle and learn how to leverage Vertex AI Studio for Gemini multimodal applications, prompt design, prompt engineering, and model tuning. The aim is to enable you to unlock the potential of gen AI in your projects with Vertex AI Studio.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 week of study, 6-8 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-generative-ai-studio",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

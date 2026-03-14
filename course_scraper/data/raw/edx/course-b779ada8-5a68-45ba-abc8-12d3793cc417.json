@@ -1,0 +1,36 @@
+{
+  "course_id": "course-b779ada8-5a68-45ba-abc8-12d3793cc417",
+  "platform": "edx",
+  "title": "Upper-Intermediate English: Business and Technology",
+  "description": "This course is the fourth in a series of four English language MOOCs designed for students with an intermediate level of English looking to reach a higher intermediate level. The course is comprised of video lessons, reading comprehension activities, grammar explanations and exercises, listening comprehension activities and speaking practice.  \n The course covers interesting topics such as cultural differences, aviation and global warming, historical monuments or technological innovation.  \n This course also includes preparatory materials and recommendations to take the Cambridge University First Certificate in English Examination (FCE).",
+  "learning_goals": [
+    "Vocabulary",
+    "Grammar",
+    "Reading Comprehension",
+    "Listening Skills",
+    "English Language"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "prof-ana-gimeno",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 452,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

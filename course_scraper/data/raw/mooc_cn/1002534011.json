@@ -1,0 +1,31 @@
+{
+  "course_id": "1002534011",
+  "platform": "mooc_cn",
+  "title": "管理学原理",
+  "description": "《管理学原理》是每个人都应该学习的基础课程。通过学习，你能够对所在的组织以及组织的工作有更深入的了解，你可以学会自我管理、自我激励。通过学习，我们能够发现管理问题，采取有效办法解决这些问题。当然，你仍然可以从《管理学原理》的课程中获取许多有价值的管理知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002534011",
+  "instructors": [
+    {
+      "name": "吴菁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "暨南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 52917,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

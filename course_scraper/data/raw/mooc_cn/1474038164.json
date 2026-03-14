@@ -1,0 +1,31 @@
+{
+  "course_id": "1474038164",
+  "platform": "mooc_cn",
+  "title": "中国武术导论",
+  "description": "武汉体育学院牵头精品力作登陆中国大学 MOOC！《中国武术导论》重磅上线！从武术缘起追溯千年脉络，涵盖古今内容分类、技法原理、功能作用，深入剖析武术精神内核、美学特征、哲学意涵与伦理道德，更揭秘军事渊源与民间武术的深厚关联。专业师资团队依托武体权威教研背景，从基础概说到深度解读，系统解锁中国武术的文化密码。无论你是武术初学者、资深爱好者，还是文化研究者，都能在这里开启专业系统的武术文化探索之旅，尽享权威知识盛宴！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1474038164",
+  "instructors": [
+    {
+      "name": "孙健",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉体育学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

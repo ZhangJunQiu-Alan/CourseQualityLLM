@@ -1,0 +1,39 @@
+{
+  "course_id": "course-fe3bf07f-bc54-49db-b8ff-28eb54692ac6",
+  "platform": "edx",
+  "title": "Women Making History: Ten Objects, Many Stories",
+  "description": "As we approach the centennial of the passage of women’s suffrage in 1920, there has been a recent burst of activism among American women. Women are running for political office in record numbers. Women are organizing and taking to the streets to demand change. Women are grappling with inclusion and intersectionality.  \n While some of this activity may have been a response to the 2016 presidential elections, its roots lie deep in 20th-century history — a history richly preservedin Harvard’s Schlesinger Library building on the library’s 75th Anniversary Exhibit.  \n This course exemplifies the importance of archives in themaking of history. Professors Laurel Ulrich and Jane Kamensky, along with colleagues from across Harvard University and beyond, show how women in the 20th-century United States pushed boundaries, fought for new rights, and challenged contemporary notions of what women could and should do.  \n Through the exploration of ten iconic objects from the Schlesinger collection, they demonstrate how women created change by embracing education, adopting new technologies, and creating innovative works of art; pushing against discrimination and stepping into new roles in public and in private.",
+  "learning_goals": [
+    "Innovation",
+    "Archives",
+    "Library"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "laurel-thatcher-ulrich",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jane-kamensky",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3527,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

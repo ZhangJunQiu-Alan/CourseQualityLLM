@@ -1,0 +1,31 @@
+{
+  "course_id": "1002844008",
+  "platform": "mooc_cn",
+  "title": "口腔修复学",
+  "description": "口腔修复学是研究口腔及颌面各种缺损的病因、机制、症状、诊断、预防和治疗方法，利用人工材料制作各种修复体，以恢复、重建各类缺损或异常的口腔颌面系统疾病，从而恢复其正常的形态和功能，以促进患者健康的专门科学。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002844008",
+  "instructors": [
+    {
+      "name": "牛林",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29242,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

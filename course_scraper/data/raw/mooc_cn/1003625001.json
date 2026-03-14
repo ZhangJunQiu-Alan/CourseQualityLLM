@@ -1,0 +1,31 @@
+{
+  "course_id": "1003625001",
+  "platform": "mooc_cn",
+  "title": "纪录片制作",
+  "description": "纪录片是电影的长子,而记录是电影的本性。本课程以国际纪录片为背景，立足当下中国纪录片发展前沿，解析纪录片制作流程，希望和大家一起在纪录片里找到生命的意味：以生命记录生命，从时间里发现生命的秘密。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003625001",
+  "instructors": [
+    {
+      "name": "张同道",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41303,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

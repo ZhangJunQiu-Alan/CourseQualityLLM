@@ -1,0 +1,38 @@
+{
+  "course_id": "course-5a631d1c-cb20-4cfc-9b49-1cc9c8fc981e",
+  "platform": "edx",
+  "title": "Introduction to Linux",
+  "description": "Develop a good working knowledge of Linux using both the graphical interface and command line, covering the major Linux distribution families. \n Linux powers 100% of the world’s supercomputers, most of the servers powering the Internet, the majority of financial trades worldwide and over two billion Android devices. In short, Linux is everywhere. It appears in many different architectures, from mainframes to server to desktop to mobile and on a staggeringly wide variety of hardware. \n Moreover, 80 percent of hiring managers reported that they will prioritize hiring Linux talent relative to other skills areas, and 47 percent of hiring managers say they’re more likely to hire a candidate with Linux certification. \n This course explores the various tools and techniques commonly used by Linux system administrators and end users to achieve their day-to-day work in a Linux environment. It is designed for experienced computer users who have limited or no previous exposure to Linux, whether they are working in an individual or Enterprise environment. \n Upon completion of this training you should have a good working knowledge of Linux, from both a graphical and command line perspective, allowing you to easily navigate through any of the major Linux distributions. You will be able to continue your progress as either a user, system administrator or developer using the acquired skill set. \n Join the 1,000,000+ learners who are already enrolled in this course and start your Linux journey.",
+  "learning_goals": [
+    "Graphical User Interface",
+    "Mainframe Computing",
+    "Linux",
+    "Command-Line Interface",
+    "Linux Distribution",
+    "Android (Operating System)",
+    "Supercomputing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "14 周，每周 5-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jerry-cooperstein-phd",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Linux Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6881,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

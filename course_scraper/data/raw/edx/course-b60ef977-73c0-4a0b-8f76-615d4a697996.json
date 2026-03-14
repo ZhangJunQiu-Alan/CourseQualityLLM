@@ -1,0 +1,73 @@
+{
+  "course_id": "course-b60ef977-73c0-4a0b-8f76-615d4a697996",
+  "platform": "edx",
+  "title": "Introduction to AI",
+  "description": "Are you curious about how artificial intelligence (AI) really works? Wondering which models power these systems, and how they impact society and the environment? Presented by engineers from Arm, this course offers a comprehensive introduction to AI, machine learning, and data science—shedding light on their historical evolution, current capabilities, and potential future developments. \n By exploring both the technical concepts and the broader ethical, social, and environmental dilemmas, you will gain a well-rounded understanding of AI’s potential and challenges. You’ll discover how AI, machine learning, and data science interrelate; understand the fundamental algorithms, models, and frameworks; and learn how to apply these concepts in real-world scenarios. The course also addresses the pressing issue of energy consumption in AI. \n  Key Topics Covered  \n \n  The turbulent history of AI  and its evolution into today’s powerful technology \n  How AI, machine learning, and data science fit together  , including their definitions, examples, and interrelationship \n  Current and potential future applications  of AI in various industries \n  Fundamental machine learning concepts  , including classifiers, linear regression, and neural networks \n  Training, validation, and test data  : how to prepare and evaluate machine learning models \n  Optimizers and loss functions  : building blocks for fine-tuning your models \n  Ethical and social considerations  : exploring AI’s benefits, challenges, and the importance of responsible development \n  Power consumption vs. sustainability  : balancing performance and efficiency with environmental impact \n  Practical frameworks  , such as PyTorch, for implementing and training ML models \n  AI in the cloud and on the edge  : deploying AI across diverse platforms and computing environments \n \n The course culminates with a hands-on capstone project using the PyTorch framework and the CIFAR-10 dataset, allowing you to apply newly acquired skills to a real-world image classification challenge. Whether you’re a budding data scientist, a developer looking to integrate AI into your projects, or simply an AI enthusiast, this course offers both the foundational knowledge and practical skills needed to excel in the rapidly evolving world of artificial intelligence.",
+  "learning_goals": [
+    "Artificial Intelligence",
+    "Software Development",
+    "Balancing (Ledger/Billing)",
+    "Linear Regression",
+    "Contextual Image Classification",
+    "Keys And Locks",
+    "PyTorch (Machine Learning Library)",
+    "Algorithms",
+    "Energy Consumption",
+    "Machine Learning",
+    "Curiosity",
+    "Data Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "12 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "oli-howson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "gianluca-cantone-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "paul-piwek",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "adam-brock-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sarina-ramchandani-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "megan-arnold-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "caitlin-bentley-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Arm Education"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 981,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "ayidwY1xEfCX0Qr_xQICLQ",
+  "platform": "coursera",
+  "title": "NumPy & Pandas: Analyze & Manage Retail Data",
+  "slug": "numpy-pandas-analyze-manage-retail-data",
+  "description": "By the end of this course, learners will be able to manipulate NumPy arrays, implement gradient descent, clean and transform retail datasets using Pandas, create pivot tables and groupby aggregations, manage string and datetime data, and export results for business reporting. This hands-on case study–driven program begins with NumPy foundations to establish strong numerical computing skills, then transitions into Pandas for retail data management and analysis.\n\nLearners will benefit by building both technical depth (NumPy optimization, array operations, linear algebra) and business-ready skills (retail dataset cleaning, transformation, and advanced Pandas analytics). Unlike generic tutorials, this course integrates practical projects with real-world datasets, ensuring students practice problem-solving with tools they will use in professional environments.\n\nWhat makes this course unique is its two-in-one structure: learners first gain confidence in numerical computing with NumPy, then seamlessly apply those skills to business data analysis in Pandas. This progression creates a complete, industry-relevant learning pathway for aspiring data analysts, business intelligence professionals, and Python enthusiasts.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/numpy-pandas-analyze-manage-retail-data",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

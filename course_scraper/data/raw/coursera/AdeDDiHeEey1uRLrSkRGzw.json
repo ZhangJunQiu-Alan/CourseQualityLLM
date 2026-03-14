@@ -1,0 +1,26 @@
+{
+  "course_id": "AdeDDiHeEey1uRLrSkRGzw",
+  "platform": "coursera",
+  "title": "Kubernetes in AWS: Create Cluster in EKS in your own VPC",
+  "slug": "kubernetes-in-aws-create-cluster-in-eks-in-your-own-vpc",
+  "description": "Kubernetes in AWS: Create Cluster in EKS in your own VPC\n\nIMPORTANT: You must have or create an AWS account to work along to this course.\n\nBy the end of this course, you will know the steps necessary to set up your own EKS clusters in AWS. You will configure the AWS CLI and connect your local kubectl to the cluster so you can perform direct operations to the cluster.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/kubernetes-in-aws-create-cluster-in-eks-in-your-own-vpc",
+  "instructors": [
+    {
+      "name": "Rudi Hinds",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

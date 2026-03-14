@@ -1,0 +1,31 @@
+{
+  "course_id": "1206508804",
+  "platform": "mooc_cn",
+  "title": "高电压技术",
+  "description": "高电压技术是电工学科的一个重要分支，主要研究高电压、强电场下的各种电气物理问题。即，在极端电磁条件下电介质会表现出哪些性质，如何人为地获取高电压，如何确定电压受到干扰后的变化规律，怎样防止过电压对系统造成危害，如何人为利用高电压，让我们一起进入《高电压技术》一窥究竟。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206508804",
+  "instructors": [
+    {
+      "name": "吴广宁;刘毅杰;张血琴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28066,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

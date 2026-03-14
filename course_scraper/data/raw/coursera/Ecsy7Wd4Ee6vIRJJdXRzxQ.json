@@ -1,0 +1,26 @@
+{
+  "course_id": "Ecsy7Wd4Ee6vIRJJdXRzxQ",
+  "platform": "coursera",
+  "title": "Business Intelligence (BI) Essentials",
+  "slug": "business-intelligence-essentials",
+  "description": "This course provides a comprehensive introduction to business intelligence (BI), its key concepts, components, and the benefits and challenges of implementing BI solutions. It also discusses career opportunities and roles available in the BI arena and the skills and qualifications required.\n\nYou will also gain insight into the data ecosystem, BI analytics landscape, data repositories, and the extract, transform, and load (ETL) process. Additionally, you will be introduced to the role of statistical analysis in mining and visualizing data to identify patterns and trends and how to weave a compelling story with data.\n\nThe course offers practical exposure with hands-on activities and a final project that enables you to apply your knowledge in real-world scenarios. This specialized program is tailored for individuals interested in pursuing a career as a BI analyst, and no prior data analytics experience or degree is required to take this course.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "6 weeks of study, 2 to 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/business-intelligence-essentials",
+  "instructors": [
+    {
+      "name": "Rav Ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

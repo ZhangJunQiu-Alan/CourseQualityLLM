@@ -1,0 +1,31 @@
+{
+  "course_id": "1206818801",
+  "platform": "mooc_cn",
+  "title": "物理基础及应用",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206818801",
+  "instructors": [
+    {
+      "name": "王彦彪;钱超义;邱文彬;杨宇晴;王旭;王志萍;李振东;刘婷婷;胡海",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21895,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

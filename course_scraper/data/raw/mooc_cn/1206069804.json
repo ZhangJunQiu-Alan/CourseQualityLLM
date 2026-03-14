@@ -1,0 +1,31 @@
+{
+  "course_id": "1206069804",
+  "platform": "mooc_cn",
+  "title": "物理化学实验",
+  "description": "物理化学实验在线开放课程涵盖物理化学中的热力学、电化学、动力学、表面化学和结构化学等相关理论和实验操作。课程包括基础、综合、设计、研究及兴趣开放等多种教学层次，通过虚实结合、混合式、在线开放等多种教学形式，传授学习者物理化学基本研究方法和实验技术，提升学习者的化学实践创新能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206069804",
+  "instructors": [
+    {
+      "name": "吴勇;岳岭;王明德;李骁勇;王耿;卜腊菊;王栋东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 27424,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

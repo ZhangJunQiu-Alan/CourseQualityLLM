@@ -1,0 +1,26 @@
+{
+  "course_id": "c-czjfnIEeyxiRKaoDccyw",
+  "platform": "coursera",
+  "title": "Create IoT Solutions in Microsoft Azure",
+  "slug": "create-iot-solutions-in-microsoft-azure",
+  "description": "In this 1-hour long project-based course, you will learn to create an IoT hub in the Azure cloud, and learn to use the Azure IoT Hub extension for Visual Studio Code to monitor and send device-to-cloud messages and cloud-to-device messages. Then you will learn to create an Azure storage account and create a stream analytics job with an IoT hub as input and a storage account as output so that the messages can be stored on the Azure storage. Finally, you will also configure message routing that enables sending telemetry data from IoT Hub to custom endpoints, and to store the data we will route the messages to the blob storage in Azure.\nBefore beginning this course, you should be familiar with the services of Microsoft Azure such as Azure IoT hub, stream analytics, and Storage account.\nAlso, you should have an Azure account prior.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/create-iot-solutions-in-microsoft-azure",
+  "instructors": [
+    {
+      "name": "Priya Jha",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

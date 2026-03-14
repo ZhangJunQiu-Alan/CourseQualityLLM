@@ -1,0 +1,50 @@
+{
+  "course_id": "course-38e678c9-527f-42af-bb44-174c3bb73f93",
+  "platform": "edx",
+  "title": "Sustainable Construction Management",
+  "description": "Can building structures be sustainable?   \n This course aims to answer that question. It covers sustainable construction management project elements from conception to completion. We discuss the important contributions facility managers and property managers make to sustainable construction projects by acting as the owner’s representatives. And we show how the construction contract and project delivery method greatly influences how the project will be performed sustainably.  \n Sustainable construction methods and processes are highlighted, along with newer construction document production systems such as building information modeling (BIM), laser scanning, and drones. This course also gives an example of a scheduling method known as the critical path method (CPM).  \n We discuss methods, materials, and the equipment used to mitigate damage to buildings due to environmental conditions, and the different types of building systems. Current technologies and green innovations also reviewed include exterior wall systems, green roofs, elevators, HVAC systems, and new methods of sustainable building choices for green construction best practices. \n Other topics include sustainable maintenance operations, energy management, green building certifications, renewable energy, sustainability construction trends and the use of best practices in sustainable planning, design, and construction, including the steps needed to develop a high-performance project. \n Core concepts include: \n \n Frameworks for implementing a sustainable green project or a high-performance project.  \n Role of the facility manager. \n Sustainable building design, construction, remodeling, and building improvements. \n Disaster management procedures. \n Sustainable Infrastructure. \n Decision making techniques in sustainable project development \n How to reduce emissions during construction \n How to control energy consumption and maximize sustainable efficiency \n Climate control. \n Greenhouse gas emissions. \n Stormwater management controls. \n Sediment and erosion controls. \n Renewable energy use \n Involvement of stakeholders in the planning, design, and construction process. \n Green building certifications, such as LEED and Green Globes. \n Latest trends and future in sustainable construction management. \n The best sustainable practices in design and construction.",
+  "learning_goals": [
+    "Energy Consumption",
+    "Energy Management",
+    "Sustainability",
+    "Roofing",
+    "Planning",
+    "Building Design",
+    "Laser Scanning",
+    "Green Building",
+    "Construction Management",
+    "Building Information Modeling",
+    "Construction",
+    "Document Production",
+    "Critical Path Method (CPM) Scheduling",
+    "HVAC",
+    "Management",
+    "Erosions",
+    "Operations",
+    "Renovation",
+    "Scheduling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "neil-schulman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Maryland, College Park"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 533,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

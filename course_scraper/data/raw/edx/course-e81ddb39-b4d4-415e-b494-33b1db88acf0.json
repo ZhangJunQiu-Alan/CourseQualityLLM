@@ -1,0 +1,36 @@
+{
+  "course_id": "course-e81ddb39-b4d4-415e-b494-33b1db88acf0",
+  "platform": "edx",
+  "title": "Psychologie de la négociation",
+  "description": "Souvent confinée à l'étude des techniques permettant de vendre une encyclopédie en 24 volumes à une octogénaire récalcitrante ou à l'art de marchander son salaire, la négociation est souvent abordée sous un angle exclusivement utilitariste. Mais négocier ce n'est pas se limiter à la recherche du bénéfice maximum. La négociation traverse toutes les dimensions de la vie humaine. Nous négocions tous les jours, dans toutes les sphères de notre existence : au travail, avec la famille, les amis… Dès qu'il s'agit de partager des biens matériels mais aussi de résoudre une divergence d'intérêts, de concilier différentes envies, rêves, goûts, couleurs… \n Ce cours s'éloigne de l'approche classique des négociations et tente de rendre compte des phénomènes psychologiques à la base du comportement. L'approche poursuivie sera descriptive plutôt que prescriptive. Contrairement aux théoriciens du jeu qui « examinent ce que de super-hommes, ultra-intelligents et impeccablement rationnels devraient faire dans les situations compétitives », nous explorerons la façon dont « des êtres imparfaits se comportent dans la réalité » (Raiffa, 1982, p. 21). Ainsi, les êtres humains poursuivent des motivations, ont des attentes, des préjugés, des biais et des émotions. Ils analysent l'information qui leur est soumise et prennent des décisions à travers le spectre de leurs propres limites cognitives. Leurs actions fluctuent en fonction de la situation ou de leur personnalité. Toutes ces variables influencent non seulement le comportement des personnes mais, plus fondamentalement, elles modifient la dynamique même de résolution des divergences. Ce cours mettra en évidence ces variables multiples et offrira aux étudiantes et étudiants une compréhension fine et detaillée des processus psychologiques qui entrent en jeu avant, pendant et après toute négociation.",
+  "learning_goals": [
+    "Psychology",
+    "Negotiation",
+    "Influencing Skills",
+    "Spectre Circuit Simulator",
+    "Selling Techniques"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 4-6 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "stephanie-demoulin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Université catholique de Louvain"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 671,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

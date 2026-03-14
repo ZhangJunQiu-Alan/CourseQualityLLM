@@ -1,0 +1,31 @@
+{
+  "course_id": "1463798162",
+  "platform": "mooc_cn",
+  "title": "演化——地球生命简史",
+  "description": "本课程是由中国科学院院士周忠和教授发起，南京大学生物演化与环境科教融合中心主办，南京大学地球科学与工程学院出品，旨在科普，希望用通俗的语言向大家解释科学，但同时又是一门课程，每节课十几分钟，在传播知识的过程中传递科学思维。这门课最独特的地方，是没有单一的老师，即将在这门课上为大家讲授的，是二十多位来自高校、科研院所的优秀科学家，他们有自己的研究领域和专长，要在这里共同为大家讲解一个叫做“演化”的故事。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463798162",
+  "instructors": [
+    {
+      "name": "周忠和;史宇坤;沈树忠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10226,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003679003",
+  "platform": "mooc_cn",
+  "title": "药理学",
+  "description": "西安交通大学药理学科始于1939年，是陕西省精品课程、国家级双语教学示范课程、国家级教学团队。 药理学幕课由名师领衔，结合执业医师、执业药师资格考试大纲，将药理学的基本内容概念化、条理化、形象化，提供课程教学大纲、视频、在线测试等内容，便于不受空间和时间限制地自主学习、反复学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003679003",
+  "instructors": [
+    {
+      "name": "曹永孝;史小莲;孙强;赵铭;陈莉娜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 88466,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

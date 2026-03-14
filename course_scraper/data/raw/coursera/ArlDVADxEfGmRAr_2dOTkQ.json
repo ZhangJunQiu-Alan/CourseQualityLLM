@@ -1,0 +1,26 @@
+{
+  "course_id": "ArlDVADxEfGmRAr_2dOTkQ",
+  "platform": "coursera",
+  "title": "Generative AI and LLMs on Databricks",
+  "slug": "generative-ai-and-llms-on-databricks",
+  "description": "Build production GenAI systems on Databricks by mastering prompt engineering, RAG pipelines, model governance, and code intelligence. You will apply chain-of-thought, ReAct, and few-shot prompting patterns to decompose complex tasks, then construct retrieval-augmented generation pipelines that fuse vector search with BM25 using Reciprocal Rank Fusion.\nThe course progresses from foundational techniques through production deployment across four weeks. Week one covers tokenization mechanics, sampling parameters, system prompts, and the Databricks Playground. Week two builds RAG systems using embeddings, MLflow experiment tracking, Feature Store, and PMAT code intelligence with TDG scoring and PageRank on call graphs. Week three addresses the fine-tuning vs RAG decision matrix, cryptographic model signing with SHA-256 chain-of-trust verification, AI Gateway configuration, model registry governance via Unity Catalog, and Databricks compute infrastructure. Week four integrates all concepts into a capstone project: a quality-aware code retrieval pipeline using trueno-rag and pmat.\nYou will evaluate RAG quality using faithfulness-relevance diagnostic quadrants and six standard retrieval metrics including MRR, NDCG, recall, precision, hit rate, and MAP.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "  4 weeks at 3-4 hours per week (approximately 14 hours total)",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/generative-ai-and-llms-on-databricks",
+  "instructors": [
+    {
+      "name": "Noah Gift",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pragmatic AI Labs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

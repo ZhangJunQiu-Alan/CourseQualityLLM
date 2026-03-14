@@ -1,0 +1,31 @@
+{
+  "course_id": "386003",
+  "platform": "mooc_cn",
+  "title": "电工技术基础与技能",
+  "description": "在工程技术领域和实际生活中，电工技术基础与技能都有非常广泛的应用。从简单的照明电路，到复杂的电力系统；从单个的手提电话、收音机、电视机，到卫星通信网络、计算机互联网，都与电路理论有着密切的关系。可以说，只要在有电能产生、传输和使用的地方，就有电路理论的应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/386003",
+  "instructors": [
+    {
+      "name": "陈雅萍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 78822,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

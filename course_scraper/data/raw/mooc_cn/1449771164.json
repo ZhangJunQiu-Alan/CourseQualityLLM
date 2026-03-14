@@ -1,0 +1,31 @@
+{
+  "course_id": "1449771164",
+  "platform": "mooc_cn",
+  "title": "Python程序设计基础",
+  "description": "本课程介绍Python运算符、内置函数、常用数据类型、选择结构与循环结构、函数设计与使用、字符串与正则表达式、面向对象编程基础、文件操作、数据库操作等内容，案例丰富、实用性强，注重Python内功修炼。通过本课程的学习，大家会对Python有更深入的了解，能够编写优雅的代码解决自己专业中的问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449771164",
+  "instructors": [
+    {
+      "name": "董付国",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东工商学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25099,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

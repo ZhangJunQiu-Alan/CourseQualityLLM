@@ -1,0 +1,31 @@
+{
+  "course_id": "1205577801",
+  "platform": "mooc_cn",
+  "title": "数字信号处理",
+  "description": "当今世界是信息化的时代，也是数字化的时代，数字信号处理是数字化时代的重要支撑。课程探讨采用数值计算的方法对信号进行处理，包括变换、滤波、分析、估计、增强等，以达到有用信息提取、加工和应用目的。通过课程学习与体验，给你装上电子眼，洞察数字世界的本质，感受数字世界的真实。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205577801",
+  "instructors": [
+    {
+      "name": "周玉;李宗艳;刘卫东;张晓光;王艳芬;张林;李剑;王刚;孙彦景;云霄",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国矿业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15600,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

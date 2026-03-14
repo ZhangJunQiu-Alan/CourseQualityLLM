@@ -1,0 +1,31 @@
+{
+  "course_id": "89007",
+  "platform": "mooc_cn",
+  "title": "航空航天概论",
+  "description": "航空航天是二十世纪以来发展最为迅速、应用最为广泛、对人类社会生活影响最大的科技领域之一。 航空航天概论将为大家展示航空航天发展的壮丽史诗和人类探索太空的艰辛历程，通过航空航天基本知识和飞行器科学与技术的学习，领略航空航天的魅力，体会人类不断探索的奋斗精神，畅想太空的奥秘和未来。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/89007",
+  "instructors": [
+    {
+      "name": "杨超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 87062,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

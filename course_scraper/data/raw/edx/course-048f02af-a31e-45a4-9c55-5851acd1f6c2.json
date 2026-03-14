@@ -1,0 +1,40 @@
+{
+  "course_id": "course-048f02af-a31e-45a4-9c55-5851acd1f6c2",
+  "platform": "edx",
+  "title": "Essentials of Leading Strategic Projects",
+  "description": "The Oxford Essentials of Leading Strategic Projects course provides essential knowledge to help you lead complex projects with a strategic, forward-thinking mindset. You will consider the risks and opportunities that arise in diverse project environments and learn leadership techniques that drive success, particularly in VUCA (volatile, uncertain, complex, and ambiguous) conditions. Designed for today’s fast-evolving business landscape, this course equips you with skills to go beyond traditional project management. \r\n Oxford faculty highlight that strong project leadership requires not only technical expertise but also the ability to manage a range of human and political factors. Through real-world case studies, you will learn how successful leaders navigate stakeholder dynamics, anticipate emerging risks, and capitalise on opportunities to create lasting value. By the end, you will be equipped to lead strategic projects that clearly deliver impact. \r\n This course offers a foundational overview, introducing key concepts and frameworks for those new to the subject. For a more in-depth exploration,  the full Oxford Leading Strategic Projects Programme  builds on these foundations. It explores modern approaches focused on innovation and adaptability, preparing you to lead in dynamic, high-stakes contexts.",
+  "learning_goals": [
+    "Project Risk Management",
+    "Leadership",
+    "Innovation",
+    "Adaptability"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "harvey-maylor",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-alexander-budzier",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Oxford"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 500,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "Pxw2CpOcEfCnbQr_8XAuZw",
+  "platform": "coursera",
+  "title": "ChatGPT Clone using React.js",
+  "slug": "packt-chatgpt-clone-using-react-js-feurm",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\nIn this hands-on course, you will build a powerful AI chatbot application using React.js. Starting with an introduction to the fundamentals of React, you'll explore components, props, and state management—essential skills for any web developer. As you progress, you'll dive into creating the chat interface, integrating the ChatGPT API, and enhancing the user experience with local storage and environment variables. Along the way, you’ll tackle error boundaries, styling, and loading indicators, all while refining your React.js expertise.\n\nThe course guides you step-by-step, from building the chat window and input system to deploying the app live on Vercel. Each section is designed to provide you with the skills necessary to create a real-world AI chatbot. You’ll implement the ChatGPT API using Axios, handle asynchronous processes smoothly, and store user data effectively.\n\nThis course is ideal for developers looking to expand their front-end skills while exploring AI integration. With its hands-on approach, you'll leave with a fully functional ChatGPT clone that is production-ready.\n\nBy the end of the course, you will be able to build dynamic, interactive web applications with React.js, integrate external APIs, and deploy apps to Vercel. Additionally, you'll gain the ability to manage state and props effectively, implement error boundaries, and style React components to create a seamless user experience.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-chatgpt-clone-using-react-js-feurm",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

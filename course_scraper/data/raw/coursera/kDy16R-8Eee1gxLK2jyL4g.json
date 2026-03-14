@@ -1,0 +1,31 @@
+{
+  "course_id": "kDy16R-8Eee1gxLK2jyL4g",
+  "platform": "coursera",
+  "title": "Web and Mobile Testing with Selenium",
+  "slug": "web-mobile-testing",
+  "description": "Modern applications that we build invariably have touch-points with its users through web-based and mobile platforms.  Users interact with the software through these interfaces and the experiences those interfaces provide have a strong influence on the perceived quality of the software.  \n\nThe pace at which modern applications deploy new versions and features call for careful prioritization of testing effort and rapid execution through automation. Techniques and methods for testing of such applications will be the focus of this course. We will cover key concepts relevant to testing of web and mobile platforms, underlying techniques and the use of Selenium as a framework for automating testing of such applications.\n\nThe learner will gain a solid foundation in web and mobile testing principles and the ability to use a testing framework to automate test execution.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/web-mobile-testing",
+  "instructors": [
+    {
+      "name": "Sanjai Rayadurgam",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Kevin Wendt",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Minnesota"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

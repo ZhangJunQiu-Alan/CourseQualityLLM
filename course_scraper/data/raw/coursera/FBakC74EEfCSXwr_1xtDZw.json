@@ -1,0 +1,31 @@
+{
+  "course_id": "FBakC74EEfCSXwr_1xtDZw",
+  "platform": "coursera",
+  "title": "Harden AI: Patch and Recover Incidents Fast",
+  "slug": "harden-ai-patch-and-recover-incidents-fast",
+  "description": "Master the critical skills needed to maintain AI systems in production through this hands-on course designed for DevOps engineers, ML engineers, and SREs. As AI deployments grow more complex, the ability to patch safely, recover from incidents quickly, and maintain operational health becomes essential.\n\nThrough realistic crisis scenarios, you'll learn systematic patching strategies that minimize downtime, conduct blameless post-mortems that transform failures into knowledge, and build monitoring systems that detect issues before users notice. Work with industry tools like MLflow while practicing with real incident data.\n\nYou'll tackle challenges like emergency vulnerability patches, investigate mysterious model failures, and design monitoring for a million-user scale. Each module features immersive scenarios where you make critical decisions under pressure.\n\nIdeal for DevOps, ML engineers, and SREs managing AI systems in production. Perfect for those seeking to strengthen skills in monitoring, incident response, and reliability, or preparing for senior operations roles.\n\nBasic knowledge of AI/ML concepts, familiarity with deployment pipelines, and some experience in incident management are recommended for successful course completion.\n\nBy course completion, you'll confidently handle production AI incidents, implement preventive measures, and lead operational excellence initiatives. Perfect for professionals managing AI in production or preparing for senior DevOps/SRE roles.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "60 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/harden-ai-patch-and-recover-incidents-fast",
+  "instructors": [
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Ritesh Vajariya",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

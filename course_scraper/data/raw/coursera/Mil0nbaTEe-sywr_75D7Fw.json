@@ -1,0 +1,26 @@
+{
+  "course_id": "Mil0nbaTEe-sywr_75D7Fw",
+  "platform": "coursera",
+  "title": "Cluster Analysis and Unsupervised Machine Learning in Python",
+  "slug": "packt-cluster-analysis-and-unsupervised-machine-learning-in-python-3rdaw",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nMaster the art of unsupervised machine learning with this in-depth course on clustering techniques. Begin by understanding the fundamental concepts of unsupervised learning and how clustering is applied in real-world scenarios. You'll gain insights into key algorithms such as K-Means, hierarchical clustering, and Gaussian Mixture Models, while also learning practical implementation in Python.\n\nThe course is structured to guide you through various clustering techniques, starting with K-Means clustering. Through a combination of theory, hands-on exercises, and visual walkthroughs, you'll learn how to implement these algorithms, evaluate their effectiveness, and overcome their limitations. Next, you'll dive into hierarchical clustering, exploring its applications in data visualization and real-world contexts, such as evolutionary studies and social media analysis.\n\nThe final sections cover advanced techniques like Gaussian Mixture Models and Expectation-Maximization, alongside practical comparisons with other methods like K-Means. You'll also explore tools for setting up your environment, coding basics for beginners, and effective learning strategies to optimize your experience in machine learning.\n\nDesigned for data enthusiasts, analysts, and aspiring machine learning practitioners, this course is ideal for learners with basic Python knowledge who want to deepen their expertise in clustering algorithms. Whether you're a beginner or looking to expand your machine learning toolkit, this course has something for everyone.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-cluster-analysis-and-unsupervised-machine-learning-in-python-3rdaw",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

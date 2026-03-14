@@ -1,0 +1,30 @@
+{
+  "course_id": "course-91f7877a-4fde-44b1-b29e-4483c2d11af5",
+  "platform": "edx",
+  "title": "ChatGPT pour tous",
+  "description": "On vous amènera à essayer plusieurs commandes originales, amusantes et pratiques pour une utilisation personnelle et professionnelle de ChatGPT. On vous invitera à discuter de ses lacunes et limites et éventuellement à rejoindre une communauté internationale qui fait progresser la discussion sur ChatGPT de façon originale. \n Ce MOOC permettra à l’usager de se familiariser avec ChatGPT, le modèle de langage populaire d’OpenAI, devenu une sensation mondiale. Quels sont les enjeux et les limites de l’outil ? Êtes-vous en mesure de comprendre la situation de ChatGPT par rapport aux autres avancées de l’IA ? \n Publié pour la 1e fois en février 2023, ce MOOC est à sa 4e édition et est co-construit avec les discussions précédentes avec le public et les avancées récentes de l'IA.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 2-3 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "vincent-laberge",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Université de Montréal"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 530,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

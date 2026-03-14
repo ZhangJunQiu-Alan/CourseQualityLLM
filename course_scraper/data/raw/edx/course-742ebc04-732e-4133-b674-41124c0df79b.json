@@ -1,0 +1,35 @@
+{
+  "course_id": "course-742ebc04-732e-4133-b674-41124c0df79b",
+  "platform": "edx",
+  "title": "Data Mining and Knowledge Discovery",
+  "description": "Data mining has recently emerged as a major field of research and applications. Aimed at extracting useful and interesting knowledge from large data repositories such as databases and the Web, data mining integrates techniques from the fields of database, statistics and AI.",
+  "learning_goals": [
+    "Web Mining",
+    "Data Mining",
+    "Knowledge Discovery",
+    "Research"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 6-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "raymond-chi-wing-wong",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Hong Kong University of Science and Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 378,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

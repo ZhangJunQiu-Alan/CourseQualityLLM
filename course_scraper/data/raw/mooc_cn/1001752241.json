@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752241",
+  "platform": "mooc_cn",
+  "title": "操作系统",
+  "description": "《操作系统》已在苏州大学开设了20多年，2004年被评为江苏省二类优秀课程，2011年被评为苏州大学精品课程，2018年被评为国家精品在线开放课程， 2021年被评为国家级线上一流本科课程和江苏省线上线下混合式一流课程。本课程采用美国最新教材，以原理和具体实例两个维度入手，结合基本原理和具体实例，由经验丰富的老师深入浅出讲授。 欢迎各类高校本科和专科生选修本课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752241",
+  "instructors": [
+    {
+      "name": "李培峰;王红玲;吕强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 89702,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

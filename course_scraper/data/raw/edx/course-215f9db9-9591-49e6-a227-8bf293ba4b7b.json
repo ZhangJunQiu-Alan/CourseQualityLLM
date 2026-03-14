@@ -1,0 +1,44 @@
+{
+  "course_id": "course-215f9db9-9591-49e6-a227-8bf293ba4b7b",
+  "platform": "edx",
+  "title": "Open Source Software Development: Linux for Developers",
+  "description": "Open source software (OSS) has become dominant in the technology space. Since its launch in 1991, Linux has grown to power virtually all the world’s supercomputers, most mobile devices, financial exchanges, space stations and rovers, and serves as the backbone of the cloud and the internet itself. Companies, organizations, governments and individuals around the world rely on Linux and open source technologies to conduct business and live their lives every single day. At the same time, the demand for Linux and open source talent is as strong as ever, as revealed by the 2021 Open Source Jobs report.  \n This course will guide developers to understanding the ‘rules of the road’ of creating open source software, either as a newbie or as someone with experience primarily in creating and working with proprietary code.  \n The first part of this course covers the fundamentals of open source software development: the who (successful projects and communities), what (definition), why (benefits), where (Git), and how (licensing, compliance, collaboration tips, managing diversity, and continuous development &amp; integration). \n The second part of this course dives into the world of Linux: what Linux is, its history, how to separate the kernel from the operating system, and making contributions to it. It covers the graphical system interface, as well as working at the command line, and continues to discuss filesystems, major system components, user accounts, and more, to help you get fully oriented to working on a Linux system. \n This course will provide you with a strong foundation for working comfortably and productively in open source development communities. By the end of this course, you will have a better understanding of the Linux environment, as well as the methods and tools required to successfully use the Linux environment.",
+  "learning_goals": [
+    "Supercomputing",
+    "Diversity Management",
+    "Open-Source Software",
+    "File Systems",
+    "Linux",
+    "Open Source Technology",
+    "User Accounts",
+    "Space Stations",
+    "Open Source Development",
+    "Operating Systems",
+    "Integration",
+    "Git (Version Control System)",
+    "Command-Line Interface"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "14 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jerry-cooperstein-phd",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Linux Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 482,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

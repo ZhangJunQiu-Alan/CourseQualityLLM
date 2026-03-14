@@ -1,0 +1,46 @@
+{
+  "course_id": "course-82449b2e-4869-4179-b682-cf8ba3525ae8",
+  "platform": "edx",
+  "title": "3D Printing Essentials: From Design to Reality",
+  "description": "This online course is designed to transform beginners into practiced makers. Over three short modules it will guide learners through the fascinating process of bringing your ideas to life using 3D printing technology. Work at your own pace through a series of short tutorials and quizzes that will ready you for managing the 3D printing process. \n Section 1: Dive into Design \n Kickstart your adventure by mastering the fundamentals of Autodesk Tinkercad. You'll begin by crafting a personalized keychain, learning to manipulate shapes by adding, resizing, creating holes, and grouping objects. As your skills advance, you'll explore more sophisticated features like mirroring and aligning. This work culminates in designing a unique makercoin that represents you, and utilizes all the skills you've acquired. \n Section 2: Slicing Software  \n With a solid design foundation, you'll delve into the essentials of file types and slicing software. Using your Tinkercad-designed .STL file, you'll navigate Ultamaker’s Cura, though our teachings are versatile enough to translate to various slicing programs. This segment culminates in fine-tuning printer settings — supports, infill density, print temperature, and more — to ensure your design is perfectly prepped for printing. \n Section 3: Printing and Troubleshooting  \n In the final stretch, you'll bring your digital creation into the physical world by printing your makercoin. This section's guidance is universal, fitting any 3D printer you might use. We wrap up with a practical exploration of common 3D printing challenges and effective troubleshooting techniques to maximize your printer’s performance, and jumpstart your prototyping. You will learn the fundamental skills necessary to operate any modern 3D printer, from Bambu to AnkerMake to Ultimaker to Prusa. \n Whether you’re looking to unleash your creativity, kickstart a hobby, gain a new skill for professional development, or prepare yourself to enter the growing fields of product design, product development, or robotics, this course is your gateway to the exhilarating world of 3D printing. Join us to transform the imaginary into reality, one layer at a time.",
+  "learning_goals": [
+    "Additive Manufacturing (3D Printing)",
+    "Creativity",
+    "Troubleshooting (Problem Solving)",
+    "New Product Development",
+    "Prototyping",
+    "TinkerCAD",
+    "3D Modeling",
+    "Keychain",
+    "Autodesk",
+    "Product Design"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "zachary-cureton-hazard",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sean-holland",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Alaska Fairbanks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 395,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "uZuqAO_wEe6gPxJK4ChNFw",
+  "platform": "coursera",
+  "title": "Fundamentals of Digital Design for VLSI Chip Design",
+  "slug": "fundamentals-of-digital-design-for-vlsi-chip-design",
+  "description": "This comprehensive learning module delves into Boolean algebra and its applications in digital circuit design, covering fundamental concepts like Boolean variables, logic gates, and their relationship with digital logic circuits. Participants explore Boolean expressions, simplification techniques, and consensus theorems, including the advanced Quine McCluskey method.\nThe module also addresses combinational circuits, detailing the design and functionality of adders, subtractors, parity circuits, and multipliers. Encoding complexities are navigated with insights into encoders, decoders, multiplexers, and demultiplexers. Binary shifting operations, emphasizing logical and arithmetic shifting with multiplexers for efficient design, are covered.\nMoving forward, the module provides an in-depth exploration of sequential circuits, including latch and flip-flop circuits like SR latch, JK flip-flop, and more. Hazards in digital circuits, along with registers, bidirectional shift registers, and various counters, are thoroughly explained. The exploration concludes with Mealy and Moore state sequential circuits.\nAdditionally, participants gain a comprehensive understanding of memory systems, programmable logic devices, and VLSI physical design considerations. The module covers SRAM and DRAM, tri-state digital buffers, Read-Only Memory (ROM), and Programmable Logic Devices (PLD) such as PROM, PLA, and PAL. Architecture and implementation of Complex Programmable Logic Devices (CPLD) and Field-Programmable Gate Arrays (FPGA) are discussed, along with the VLSI design cycle and design styles for CPLD, SPLD, and FPGA.\n\nBy the end of this course, you will be able to:\n\tUnderstand the distinctions between analog and digital signals and the transformative benefits of digitization.\n\tComprehend various number systems, Boolean algebra, and its application to logic gates.\n\tMaster Boolean expression manipulation, canonical forms, and simplification techniques.\n\tProficiently handle SOP and POS expressions, recognizing relationships between minterms and maxterms.\n\tRecognize the universality of NAND and NOR gates, implementing functions using De Morgan's Law.\n\tMaster Karnaugh map techniques, including advanced methods and handling don't care conditions.\n\tGain a comprehensive understanding of combinational circuits, covering principles and applications.\n\tUnderstand binary addition principles and design various adder circuits, including 4-bit ripple carry adders.\n\tExplore advanced adder designs for arithmetic operations.\n\tProficiently design binary subtractors, analyze overflow/underflow scenarios, and understand signed number representation.\n\tUnderstand parity generation, detection, and various methods of binary multiplication.\n\tMaster the design and application of various multipliers, incorporating the Booth algorithm.\n\tUnderstand applications of comparators, encoders, and decoders in digital systems.\n\tProficiently use multiplexers and demultiplexers in digital circuit design, recognizing their role as function generators.\n\tUnderstand binary shifting operations, designing logical shifters, and principles of arithmetic and barrel shifting.\n\tGrasp foundational principles of sequential circuits, focusing on storage elements and designing an SR latch.\n\tUnderstand the operation of JK flip-flops, addressing race around conditions, and design master-slave JK flip-flops and Gated SR latches.\n\tGain proficiency in designing and analyzing various types of counters in sequential circuits.\n\tUnderstand principles and design techniques for Mealy and Moore state sequential circuits.\n\tGrasp fundamental principles of memory, differentiating internal structures between SRAM and DRAM, and gain practical skills in addressing memory, controlling tri-state digital buffers, and understanding ROM, PLD, and various PLDs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/fundamentals-of-digital-design-for-vlsi-chip-design",
+  "instructors": [
+    {
+      "name": "Subject Matter Expert",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "L&T EduTech"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

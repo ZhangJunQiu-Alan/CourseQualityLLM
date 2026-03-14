@@ -1,0 +1,31 @@
+{
+  "course_id": "XXZBGc97EeufchLeGgZGZQ",
+  "platform": "coursera",
+  "title": "Relational Database Administration (DBA)",
+  "slug": "relational-database-administration",
+  "description": "Get started with Relational Database Administration and Database Management in this self-paced course!  \n\nThis course begins with an introduction to database management; you will learn about things like the Database Management Lifecycle, the roles of a Database Administrator (DBA) as well as database storage. You will then discover some of the activities, techniques, and best practices for managing a database.  \n\nYou will also learn about database optimization, including updating statistics, slow queries, types of indexes, and index creation and usage. You will learn about configuring and upgrading database server software and related products. You’ll also learn about database security; how to implement user authentication, assign roles, and assign object-level permissions. And gain an understanding of how to perform backup and restore procedures in case of system failures.  \n\nYou will learn how to optimize databases for performance, monitor databases, collect diagnostic data, and access error information to help you resolve issues that may occur. Many of these tasks are repetitive, so you will learn how to schedule maintenance activities and regular diagnostic tests and send automated messages of the success or failure of a task. The course includes both video-based lectures as well as hands-on labs to practice and apply what you learn. \n\nThis course ends with a final project where you will assume the role of a database administrator and complete a number of database administration tasks across many different databases.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": " 5 weeks of study, 2-4 hours / week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/relational-database-administration",
+  "instructors": [
+    {
+      "name": "Ramesh Sannareddy",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Rav Ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

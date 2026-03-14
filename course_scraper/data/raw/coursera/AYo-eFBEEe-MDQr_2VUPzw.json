@@ -1,0 +1,26 @@
+{
+  "course_id": "AYo-eFBEEe-MDQr_2VUPzw",
+  "platform": "coursera",
+  "title": "Linux Bash Shell Scripting with Real-Life Examples",
+  "slug": "packt-a-complete-course-on-linux-bash-shell-scripting-with-real-life-examp-icxwt",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nEmbark on a journey to master Linux Bash Shell Scripting, starting with an insightful introduction to the course and a detailed overview of the syllabus. You'll set up your lab environment using Oracle Virtual Box and create your first virtual machine to run CentOS 7, providing a solid foundation for your scripting practice.\n\nNext, delve into the core concepts of shell scripting, from understanding the kernel and different types of shells to running your first script. This section is designed to build your confidence as you learn scripting standards, including naming conventions, file permissions, and script formatting. By the end of this phase, you'll be equipped with the skills to write and execute basic shell scripts.\n\nThe course culminates with real-life scripting projects that simulate common administrative tasks. You'll learn to automate processes such as file backups, remote server connectivity checks, and user account management. These practical examples will not only solidify your scripting knowledge but also enhance your ability to handle real-world scenarios efficiently. Additional resources offer advanced tips and troubleshooting techniques to ensure your success in a Linux environment.\n\nThis course is ideal for aspiring system administrators, developers, and IT professionals who want to enhance their Linux skills through Bash shell scripting. A basic understanding of Linux and command-line operations is recommended but not required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-a-complete-course-on-linux-bash-shell-scripting-with-real-life-examp-icxwt",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

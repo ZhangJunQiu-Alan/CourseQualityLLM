@@ -1,0 +1,46 @@
+{
+  "course_id": "course-7e2383ac-27ba-40e9-95bc-e86e61841211",
+  "platform": "edx",
+  "title": "Visualizing Data with Python",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n \"A picture is worth a thousand words.\" We are all familiar with this expression. It especially applies when trying to explain the insights obtained from the analysis of increasingly large datasets. Data visualization plays an essential role in the representation of both small and large-scale data. \n One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way. \n In this course, you will learn how to leverage a software tool to visualize data that will also enable you to extract information, better understand the data, and make more effective decisions. \n When you sign up for this course, you get free access to  IBM Watson Studio . In Watson Studio, you’ll be able to start creating your own data science projects and collaborating with other data scientists. Start now and take advantage of everything this platform has to offer!",
+  "learning_goals": [
+    "Watson Studio",
+    "Python (Programming Language)",
+    "Data Science",
+    "Data Visualization",
+    "Graphic Communication"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "saishruthi-swaminathan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alex-aklson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 412,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

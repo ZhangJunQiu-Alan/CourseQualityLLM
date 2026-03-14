@@ -1,0 +1,31 @@
+{
+  "course_id": "1456129162",
+  "platform": "mooc_cn",
+  "title": "组织学与胚胎学",
+  "description": "探索微观世界，追溯生命本源，学习形态结构，联系生理功能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1456129162",
+  "instructors": [
+    {
+      "name": "王镓;张娜;宋军营;田韵仪;王琦;张钟允;董倩倩",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17355,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

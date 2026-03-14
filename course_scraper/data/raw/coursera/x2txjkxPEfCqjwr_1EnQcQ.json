@@ -1,0 +1,26 @@
+{
+  "course_id": "x2txjkxPEfCqjwr_1EnQcQ",
+  "platform": "coursera",
+  "title": "Beyond basics: Advanced Data Analysis with Python",
+  "slug": "beyond-basics-advanced-data-analysis-with-python",
+  "description": "In this course, you'll elevate your analytical capabilities with advanced statistical methods and testing procedures. You'll learn to conduct hypothesis tests, design and analyze A/B tests, and automate analytical workflows. Working with real employee and medical data, you'll gain hands-on experience in applying sophisticated analytical techniques to solve complex business problems.\n\nUpon completion, you'll be able to:\n• Perform hypothesis testing and correlation studies.\n• Design, conduct, and analyze A/B tests to compare different versions of an approach\n• Automate repetitive tasks, generate professional reports, and document workflows effectively using automated tools.\n• Tackle a challenge that integrates statistical analysis, A/B testing, and workflow automation to simulate real-world data problems.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "6 -7  hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/beyond-basics-advanced-data-analysis-with-python",
+  "instructors": [
+    {
+      "name": "Coursera",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

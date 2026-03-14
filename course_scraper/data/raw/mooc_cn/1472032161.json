@@ -1,0 +1,31 @@
+{
+  "course_id": "1472032161",
+  "platform": "mooc_cn",
+  "title": "自动控制原理",
+  "description": "《自动控制原理》是一门多学科交叉、多层次研究的综合学科，主要讲授：自动控制系统的基本概念、自动控制系统的性能指标计算与分析方法（时域法、频域法、根轨迹法）、基于频域的系统校正方法等。通过本课程的学习，学生可以了解有关自动控制系统的运行机理、控制器参数对系统性能的影响以及控制器设计方法等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472032161",
+  "instructors": [
+    {
+      "name": "余瑞星",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1069,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

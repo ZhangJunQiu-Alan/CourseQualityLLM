@@ -1,0 +1,31 @@
+{
+  "course_id": "1207422810",
+  "platform": "mooc_cn",
+  "title": "土壤学",
+  "description": "《土壤学》是介绍土壤科学基础理论和基本技能的一门重要课程。土壤是珍贵的自然资源，也是环境的重要组成部分，人类的健康生活离不开健康的土壤。本课程通过土壤科学基础知识和基本技能传授，使学习者更深入地认识土壤，更深刻地理解“藏粮于地、藏粮于技”的国家战略，为进一步学习相关专业知识奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207422810",
+  "instructors": [
+    {
+      "name": "张锡洲;刘涛;余海英;袁大刚;李云;李廷轩;蒲玉琳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30249,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

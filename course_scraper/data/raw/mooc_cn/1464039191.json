@@ -1,0 +1,31 @@
+{
+  "course_id": "1464039191",
+  "platform": "mooc_cn",
+  "title": "电路分析基础",
+  "description": "“电路分析基础”所涉及的电路理论被广泛应用于各类硬件电路开发、分析与设计，是培养电气工程师和科研人员的电类基础课程。本课程为浙江省线上一流本科课程，课程设置侧重理论和实践结合，适合普通高校电子信息类、电气自动化等专业学生、及社会相关从业人员选读学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464039191",
+  "instructors": [
+    {
+      "name": "顾梅园;梁燕;乔文;袁博;白茹;吕伟锋;赵文生;杜铁钧;盛卫琴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "杭州电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9322,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

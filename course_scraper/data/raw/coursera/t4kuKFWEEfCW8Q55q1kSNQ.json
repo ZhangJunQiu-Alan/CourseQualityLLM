@@ -1,0 +1,26 @@
+{
+  "course_id": "t4kuKFWEEfCW8Q55q1kSNQ",
+  "platform": "coursera",
+  "title": "Block Cipher Modes of Operation Training",
+  "slug": "block-cipher-modes-of-operation-training",
+  "description": "This Block Cipher Fundamentals and Modes of Operation course equips you with the foundational skills to understand and apply encryption in real-world security systems. Start by exploring the basics of encryption and how block ciphers protect digital data. Compare block and stream ciphers to understand their strengths and applications in secure communications. Dive into core encryption modes like ECB (Electronic Codebook) and CBC (Cipher Block Chaining), then advance to modern modes such as CFB, OFB, and CTR. Learn how each mode influences encryption strength, efficiency, and data integrity.\n\nTo be successful in this course, no prior experience is required, this course is beginner-friendly and ideal for students, developers, and cybersecurity enthusiasts.\n\nBy the end of this course, you will be able to:\n\n- Understand the structure and role of block ciphers in digital security\n- Distinguish between block and stream ciphers\n- Apply key block cipher modes like ECB, CBC, CFB, OFB, and CTR\n- Evaluate how different modes affect encryption performance and strength\n\nIdeal for anyone looking to build a strong foundation in cryptography and secure system design.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/block-cipher-modes-of-operation-training",
+  "instructors": [
+    {
+      "name": "Priyanka Mehta",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Simplilearn"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

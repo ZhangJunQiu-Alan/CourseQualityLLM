@@ -1,0 +1,31 @@
+{
+  "course_id": "1206804809",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "本课程共64课时，其中线上16课时，线下48课时。线上基于慕课和学习通平台自建的SPOC课程开展，主要完成三个任务：（1）学生线上预习，复习及章节测验与线上作业；（2）线下项目驱动教学的项目发布，组队及评分；（3）线上师生的互动答疑解惑。线下课程主要对重点难点知识进行重点讲解，同时对学生项目完成情况进行点评分析，其中部分知识点根据学生线上学习的情况开展翻转课堂形式的教学。实现以教为主向以学为主、以课堂教学为主向课内外结合、以结果评价为主向结果过程相结合评价的三大教学转变，达到“能学，辅教”的效果。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206804809",
+  "instructors": [
+    {
+      "name": "常建华;张艳萍;宦海;施建锋;张艳艳;谢亚琴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5140,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

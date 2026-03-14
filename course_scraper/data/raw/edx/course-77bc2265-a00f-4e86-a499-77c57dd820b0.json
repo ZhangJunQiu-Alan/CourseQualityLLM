@@ -1,0 +1,36 @@
+{
+  "course_id": "course-77bc2265-a00f-4e86-a499-77c57dd820b0",
+  "platform": "edx",
+  "title": "Introduction to Object-Oriented Programming with Java II: Object-Oriented Programming and Algorithms",
+  "description": "Students will build on the skills learned from “Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics” and learn the basics of writing classes that serve as blueprints of concepts or objects that are represented in a programming problem. Students will leverage the concepts of inheritance, interfaces, and polymorphism to program reusability and flexibility in classes. Finally, students will gain experience walking through and analyzing algorithms that are applied on data (including objects) in many object-oriented programs.",
+  "learning_goals": [
+    "Polymorphism",
+    "Syntax",
+    "Algorithms",
+    "Java (Programming Language)",
+    "Object-Oriented Programming (OOP)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "olufisayo-omojokun",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 504,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

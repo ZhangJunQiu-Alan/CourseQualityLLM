@@ -1,0 +1,31 @@
+{
+  "course_id": "1002199008",
+  "platform": "mooc_cn",
+  "title": "通信网络基础",
+  "description": "电话网、移动通信网、无线局域网......网络无处不在，语音通信、数据通信、视频通信......通信无时不有。然而，是什么使得通信网络世界七彩缤纷且井然有序呢？让我们从《通信网络基础》这门课程开启奇妙的通信网络技术之旅，从中找到答案吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002199008",
+  "instructors": [
+    {
+      "name": "盛敏;杨春刚;周笛;黄鹏宇;姬思敬;马英红;赵晨曦;李建东;刘伟;刘勤;文娟;刘俊宇;白卫岗;郑阳;朱彦;李红艳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 53985,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

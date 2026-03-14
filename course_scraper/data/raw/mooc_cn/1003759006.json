@@ -1,0 +1,31 @@
+{
+  "course_id": "1003759006",
+  "platform": "mooc_cn",
+  "title": "结构设计原理（1）",
+  "description": "本课程是土木工程专业、工程管理专业必修的核心专业基础课程，围绕最新《工程结构通用规范》(GB55001-2021)、《混凝土结构通用规范》(GB55008-2021)和《混凝土结构设计规范》(GB50010-2010）(2015年版）主讲混凝土结构基本原理，分析组成混凝土结构的各类基本构件的受力性能和计算方法，帮助你掌握混凝土结构的基本原理。       本课程2020年被评为首批国家级本科一流课程（线上一流课程），线下课程2021年被评为江苏省一流课程、江苏省高校课程思政示范课程。课程配套教材《混凝土结构设计原理（第四版）》为江苏省“十四五” 规划教材，《混凝土结构设计原理（第三版）》为江苏省高等学校重点教材（2014-1-166）。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003759006",
+  "instructors": [
+    {
+      "name": "李富民;叶继红;贾福萍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国矿业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14696,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

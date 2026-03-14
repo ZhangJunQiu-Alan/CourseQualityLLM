@@ -1,0 +1,31 @@
+{
+  "course_id": "1206446837",
+  "platform": "mooc_cn",
+  "title": "工程力学",
+  "description": "本课程采用工程实例引出问题，力学理论解释工程问题，最后又举一反三回归到解决其他工程问题的讲述方法。课程力求深入浅出，将神奇深奥的力学知识通过案例教学得以生动展示。本课程既适合于在校工科大学生，又适合具有简单物理或数学基础的，对力学有较大需求和浓厚兴趣的职场人员。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206446837",
+  "instructors": [
+    {
+      "name": "吴昌聚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 34773,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

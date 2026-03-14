@@ -1,0 +1,26 @@
+{
+  "course_id": "CJlO86ktEeyjPxJkzIUqCw",
+  "platform": "coursera",
+  "title": "Bracketology with Google Machine Learning",
+  "slug": "googlecloud-bracketology-with-google-machine-learning-5ytsd",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab you use Machine Learning (ML) to analyze the public NCAA dataset and predict NCAA tournament brackets.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-bracketology-with-google-machine-learning-5ytsd",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

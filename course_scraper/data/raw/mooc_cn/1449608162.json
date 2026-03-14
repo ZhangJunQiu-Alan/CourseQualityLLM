@@ -1,0 +1,31 @@
+{
+  "course_id": "1449608162",
+  "platform": "mooc_cn",
+  "title": "高等数学（一）",
+  "description": "《高等数学（一）（二）》是工科院校相关专业的学生进行专业学习和研究必不可少的数学工具。随着当今社会日新月异的发展，数学学科已渗透到社会生活的各个领域，高等数学课程的学习将为同学们在今后的工作中更新数学知识，掌握现代科学技术方法奠定良好的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449608162",
+  "instructors": [
+    {
+      "name": "马树建;杨赟;焦军彩;王刚;赵剑;张小平;许丙胜;李金凤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10317,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

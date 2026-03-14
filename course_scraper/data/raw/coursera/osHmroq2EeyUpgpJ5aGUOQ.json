@@ -1,0 +1,26 @@
+{
+  "course_id": "osHmroq2EeyUpgpJ5aGUOQ",
+  "platform": "coursera",
+  "title": "Introduction to C++",
+  "slug": "introduction-to-c",
+  "description": "This course is an introduction to the course. It presents the teacher, the tools and the content of the courses and explains why C/C++ is important. This course also covers C/C++ particularities a programmer needs to know to create secure programs using these languages.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-c",
+  "instructors": [
+    {
+      "name": "Martin Dubois",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Infosec"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

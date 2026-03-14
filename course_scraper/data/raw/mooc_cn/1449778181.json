@@ -1,0 +1,31 @@
+{
+  "course_id": "1449778181",
+  "platform": "mooc_cn",
+  "title": "程序设计基础",
+  "description": "软件定义一切!人工智能、互联网+、大数据、5G技术等，所有一切都离不开软件！软件的运行离不开程序的支持！学习编程，成就我们的梦想！启航吧，亲爱的朋友！从这里开启我们的程序设计之旅！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449778181",
+  "instructors": [
+    {
+      "name": "杨锋英",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "黄淮学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4067,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

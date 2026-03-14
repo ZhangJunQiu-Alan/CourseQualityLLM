@@ -1,0 +1,26 @@
+{
+  "course_id": "PS48lefiEe-ccQr_xjRSew",
+  "platform": "coursera",
+  "title": "Data Validation with Alteryx: Testing and Optimization Tools",
+  "slug": "data-validation-with-alteryx-testing-and-optimization-tools",
+  "description": "Tired of spending hours looking for that one pesky bug that keeps messing up your results? This hands-on Alteryx course teaches you to audit and validate you data input and workflows, to get confidence in you output.\n\nYou will learn to check input data files for potential errors, detect data loss when combining data streams, and maintain data integrity through joins and aggregations. The course also covers ways to output data into multiple Excel tabs and add custom messages to guide future users of your workflows. \n\nBy the end, you will be able to add steps to your workflows to minimise errors, ensure consistency and improve the user experience for your colleagues.\n\nBy taking on the role of somebody tasked with collecting survey results data, you will learn to validate data sources, join and test data streams, keep numeric fields consistent, write data to multi-tab Excel files and implement custom alerts for better workflow management.\n\nLearners should already have an understanding of the basic functions in Alteryx such as inputting/outputting data, using joins/unions, and manipulating data with filters, select or formula tools.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-validation-with-alteryx-testing-and-optimization-tools",
+  "instructors": [
+    {
+      "name": "Thomas Luthi-Bhatti",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

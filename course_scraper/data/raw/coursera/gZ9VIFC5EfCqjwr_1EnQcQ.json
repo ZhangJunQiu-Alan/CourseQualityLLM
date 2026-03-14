@@ -1,0 +1,26 @@
+{
+  "course_id": "gZ9VIFC5EfCqjwr_1EnQcQ",
+  "platform": "coursera",
+  "title": "XML Practical - XSLT and SVG Project",
+  "slug": "xml-practical-xslt-and-svg-project",
+  "description": "This hands-on course empowers learners to construct, apply, and optimize scalable vector graphics (SVG) and XSLT-enhanced XML documents through structured, practical projects. Designed for aspiring web developers, data visualizers, and interface designers, the course introduces foundational XML syntax, builds competency in SVG drawing, and advances into reusability, filters, text integration, and markup semantics.\n\nSpanning five progressive modules, participants will define XML-based SVG structure, apply styling with CSS and inline attributes, create interactive and accessible graphics using text and metadata, and implement advanced stroke and filter effects. The course culminates with the design of polished SVG interfaces through gradients, animation hooks, and semantic enhancements.\n\nBy engaging with quizzes, graded assessments, and project-based learning, learners will evaluate their understanding of visual logic, and synthesize reusable components to produce clean, scalable, and standards-compliant vector graphics.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/xml-practical-xslt-and-svg-project",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

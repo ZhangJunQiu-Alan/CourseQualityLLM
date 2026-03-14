@@ -1,0 +1,31 @@
+{
+  "course_id": "1464035185",
+  "platform": "mooc_cn",
+  "title": "数据库原理——GaussDB云数据库",
+  "description": "诚如一句名言所说：“信息社会的生存就是数字化生存”，而数字化符号的本质则在于富有价值的“数据”。可以说，“数据”已成为人类生存的依据和时代的象征。这也就是我们为什么要学习《数据库原理——GaussDB云数据库》这样一门课程的原由所在。数字化的生存决定了我们要生活在充满数据的时代，即所谓的大数据时代。数据知识，即数据理论和数据技术，构成了这个时代的新的知识模式和生活模式。而数据库，就是人们为了描述和掌握这个数据的世界所建立的一门学问和一门技术。《数据库原理——GaussDB云数据库》是有关数据的筛选、贮存、调用、运算、分布、保全的理论与技术，是从信息科学、计算机科学发展出来的、适应数据时代社会需求的一门基础课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464035185",
+  "instructors": [
+    {
+      "name": "李雁翎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5980,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

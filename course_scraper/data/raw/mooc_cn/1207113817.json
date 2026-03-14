@@ -1,0 +1,31 @@
+{
+  "course_id": "1207113817",
+  "platform": "mooc_cn",
+  "title": "随机信号分析",
+  "description": "《随机信号分析》是电子信息类专业的一门专业基础课，重点论述随机信号的统计描述、特性、分析方法，为学生在信号与信息处理领域打下扎实的理论基础，广泛应用于雷达、通信、自动控制、随机振动、图像处理、生物医学、目标探测等领域，是现代信号分析与处理的重要理论基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207113817",
+  "instructors": [
+    {
+      "name": "宋承天",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11637,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

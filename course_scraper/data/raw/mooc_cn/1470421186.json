@@ -1,0 +1,31 @@
+{
+  "course_id": "1470421186",
+  "platform": "mooc_cn",
+  "title": "机器人导论",
+  "description": "本课程为机器人方向的入门课程，在概要介绍机器人发展历史、应用分类和技术组成的基础上，对研制机器人所涉及的核心关键技术做了系统性的基础知识介绍，包括机器人的机构、驱动、传感器、微控制器、视觉感知及导航规划。课程内容可帮助兴趣者了解机器人方面的相关知识，为初学者研制基础机器人提供方法支撑，为学习者进一步深入学习机器人相关知识奠定基础。课程授课老师为浙江大学控制科学与工程学院机器人团队相关教师，长期从事机器人方向的教学和科研工作，分别熊蓉、朱秋国、周春琳、王酉、王越、高飞（按讲课顺序排名）。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470421186",
+  "instructors": [
+    {
+      "name": "王酉;周春琳;高飞;熊蓉;王越;朱秋国",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1108,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

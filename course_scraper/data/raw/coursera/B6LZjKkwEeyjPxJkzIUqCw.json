@@ -1,0 +1,26 @@
+{
+  "course_id": "B6LZjKkwEeyjPxJkzIUqCw",
+  "platform": "coursera",
+  "title": "Debugging Apps on Google Kubernetes Engine",
+  "slug": "googlecloud-debugging-apps-on-google-kubernetes-engine-8pzmb",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. This lab teaches you how logging works on GKE and some best practices for log collection by going through some common logging use cases.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour 15 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-debugging-apps-on-google-kubernetes-engine-8pzmb",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

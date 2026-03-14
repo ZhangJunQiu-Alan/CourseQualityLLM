@@ -1,0 +1,34 @@
+{
+  "course_id": "course-837da851-4644-464b-a638-28adc2ecc74f",
+  "platform": "edx",
+  "title": "La maladie d’Alzheimer : comprendre pour mieux aider",
+  "description": "Ce cours présente, de façon simple et compréhensible par tous, la maladie d’Alzheimer et les maladies apparentées. Sont abordés les données actuelles sur leur physiopathologie, les signes de ces maladies, la démarche médicale qui conduit à leur diagnostic, ainsi que leur prise en soin. De plus, le retentissement sur la société, l’état de la recherche et les pistes pour la prévention sont aussi abordés. \n Ce cours s’adresse à toute personne intéressée par ces maladies et aussi aux professionnels de santé intéressés. Il ne concerne pas les spécialistes des maladies de la mémoire ou les experts de ces maladies. \n Ce cours est formé de 10 parties comportant chacune un exposé, des interviews d’experts, des ressources complémentaires et un questionnaire d’autoévaluation. Un forum permet des échanges entre participants.",
+  "learning_goals": [
+    "Presentations",
+    "Medical Practices And Procedures",
+    "Research"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 1-2 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joel-belmin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Sorbonne Université"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 499,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

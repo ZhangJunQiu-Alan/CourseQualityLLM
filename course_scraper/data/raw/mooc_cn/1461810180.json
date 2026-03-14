@@ -1,0 +1,31 @@
+{
+  "course_id": "1461810180",
+  "platform": "mooc_cn",
+  "title": "C++程序设计实践",
+  "description": "在人工智能的时代，掌握C++程序设计不仅意味着掌握了一项技能，更意味着打开了通向未来科技的大门。通过本课程，你将深入了解程序设计的核心知识，同时培养自己的计算思维，提升解决复杂工程问题的能力。更重要的是，你将站在时代的前沿，为未来的职业发展打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461810180",
+  "instructors": [
+    {
+      "name": "支瑞聪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3552,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

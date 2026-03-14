@@ -1,0 +1,31 @@
+{
+  "course_id": "1206431808",
+  "platform": "mooc_cn",
+  "title": "细胞、分子与基因",
+  "description": "该课程是一门整合课程：课程名称为《细胞、分子与基因》，取英文首字母，简称为CMG。是原学科体系下四门课程的整合：包括细胞生物学、医学遗传学、生物化学、医学分子生物学。该课程是武汉大学与芝加哥大学合作建设的新课程之一。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206431808",
+  "instructors": [
+    {
+      "name": "赖茹洁;赵熠;何春燕;苗丽霞;卢晅;武军驻",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13369,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

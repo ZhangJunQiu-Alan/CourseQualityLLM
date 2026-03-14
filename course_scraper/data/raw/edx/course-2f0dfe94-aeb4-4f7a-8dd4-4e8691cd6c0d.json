@@ -1,0 +1,34 @@
+{
+  "course_id": "course-2f0dfe94-aeb4-4f7a-8dd4-4e8691cd6c0d",
+  "platform": "edx",
+  "title": "PredictionX: Lost Without Longitude",
+  "description": "Humans have been navigating for ages. As we developed the tools and techniques for determining location and planning a route, navigation grew into a practice, an art, and a science. Navigational skill has long been tied to commercial, economic, and military success. However, the ability to predict when and where one will reach a distant destination is more than just a key to empire-building — it’s often a matter of life and death.  \n Using video, text, infographics, and Worldwide Telescope tours, we will explore the tools and techniques that navigators have used, with a particular focus on the importance (and difficulty) of measuring longitude. Grounded in the principles of position, direction, speed, and time, we will learn the challenges of navigating without a GPS signal. We’ll learn how the Age of Exploration and the economic forces of worldwide trade encouraged scientific progress in navigation; and how Jupiter’s moons, lunar eclipses, and clockmakers all played a part in orienting history’s navigators.  \n Centuries of progress in navigation have helped put humans on the moon and spacecraft on a comet. This course will explain how we got there, and how that progress enables you to get where you’re going today.",
+  "learning_goals": [
+    "Infographics",
+    "Planning",
+    "Spacecraft"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 2-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alyssa-goodman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 381,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

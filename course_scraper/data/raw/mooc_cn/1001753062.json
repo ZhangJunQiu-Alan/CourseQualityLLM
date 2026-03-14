@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753062",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术",
+  "description": "模拟电子技术课程面向注重实践操作，通过实验演示和仿真过程，直观展示模拟电子技术。课程包含7个项目，每个项目由导学、原理知识、器件认知、实操技能、电路分析、电路应用、实验测试、Multisim仿真、thinkcad仿真、小结几个部分构成。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753062",
+  "instructors": [
+    {
+      "name": "张智玮;徐结海;张园;钱丽英;孙敏;钱丽英;赵玮;吴珊珊;陈永权;吴学功",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22559,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

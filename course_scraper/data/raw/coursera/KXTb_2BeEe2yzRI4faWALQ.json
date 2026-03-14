@@ -1,0 +1,26 @@
+{
+  "course_id": "KXTb_2BeEe2yzRI4faWALQ",
+  "platform": "coursera",
+  "title": "Data Visualization for Genome Biology",
+  "slug": "data-visualization-for-genome-biology",
+  "description": "The past decade has seen a vast increase in the amount of data available to biologists, driven by the dramatic decrease in cost and concomitant rise in throughput of various next-generation sequencing technologies, such that a project unimaginable 10 years ago was recently proposed, the Earth BioGenomes Project, which aims to sequence the genomes of all eukaryotic species on the planet within the next 10 years. So while data are no longer limiting, accessing and interpreting those data has become a bottleneck. One important aspect of interpreting data is data visualization. This course introduces theoretical topics in data visualization through mini-lectures, and applied aspects in the form of hands-on labs. The labs use both web-based tools and R, so students at all computer skill levels can benefit. Syllabus may be viewed at https://tinyurl.com/DataViz4GenomeBio.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "Around 2.5 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-visualization-for-genome-biology",
+  "instructors": [
+    {
+      "name": "Nicholas James Provart",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Toronto"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

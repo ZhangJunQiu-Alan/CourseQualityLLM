@@ -1,0 +1,31 @@
+{
+  "course_id": "1003316002",
+  "platform": "mooc_cn",
+  "title": "药物设计学",
+  "description": "药物发现，是机缘巧合，还是人为设计？计算机技术如何推动药物发现？药物设计学首次被复旦大学药学院冠名，课程获国家级教学成果二等奖，上海市教学成果一等奖、上海市精品课程，课程以付伟教授为负责人，由陈凯先院士等组成一支优秀的教学团队，该团队已编写5本药物设计学及相关的配套教材及参考书。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003316002",
+  "instructors": [
+    {
+      "name": "付伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "复旦大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26652,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

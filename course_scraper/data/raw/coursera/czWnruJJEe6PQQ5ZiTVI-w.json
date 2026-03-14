@@ -1,0 +1,26 @@
+{
+  "course_id": "czWnruJJEe6PQQ5ZiTVI-w",
+  "platform": "coursera",
+  "title": "Python for Serverless Applications and Automation on AWS",
+  "slug": "aws-python-serverless",
+  "description": "This course gives you a thorough introduction to the python programming language. You'll start by learning the definition of python, its history, semantics, and how it works. The first week concludes by writing a python script to solve a problem. In Week 2, you'll learn about Serverless Architectures and understand the differences between microservices, service-oriented and monolith architectures. You'll build a microservices architecture by learning how to use the following tools: AWS Lambda, Amazon API Gateway, and Cloud9. It's then time to go deep with AWS Databases. You'll see Amazon RDS and Amazon DynamoDB in action, visualizing the important role they play in developing applications in python. The course's final week will cover application integration services. Amazon's Simple Notification Service (SQS), Simple Queue Service (SQS), and EventBridge take center stage as important “glue” components for scalable, cloud-based applications. You'll close the course with a hands-on project, writing some code to use some hardcoded data to write to dynamodb and then convert that into a lambda function.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2-4 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-python-serverless",
+  "instructors": [
+    {
+      "name": "Russell Sayers",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

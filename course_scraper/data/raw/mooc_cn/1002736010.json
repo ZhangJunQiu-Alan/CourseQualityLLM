@@ -1,0 +1,31 @@
+{
+  "course_id": "1002736010",
+  "platform": "mooc_cn",
+  "title": "概率论",
+  "description": "“概率论”是一门研究随机现象的数量规律的数学学科，广泛应用于自然科学，工程技术甚至是社会科学等各个领域。华中农业大学概率论团队主讲教师拥有丰富的教学经验，我们以简单易学为原则，帮大家掌握概率论的基本概念、思想和方法，为后续课程的学习打下良好的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002736010",
+  "instructors": [
+    {
+      "name": "陈晓坤;池红梅;潘志斌;邓昊;李淑华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 43459,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

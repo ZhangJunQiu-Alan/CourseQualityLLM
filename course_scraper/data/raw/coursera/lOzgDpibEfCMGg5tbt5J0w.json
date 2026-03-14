@@ -1,0 +1,51 @@
+{
+  "course_id": "lOzgDpibEfCMGg5tbt5J0w",
+  "platform": "coursera",
+  "title": "Build AI Agents using MCP",
+  "slug": "build-ai-agents-using-mcp",
+  "description": "Get hands-on designing secure, intelligent AI agent workflows using the Model Context Protocol (MCP) in this labs-driven course. You’ll see how AI systems connect to external tools, services, and data sources. You’ll learn how those connections can be designed to stay safe and predictable using structured permissions, user prompts, and validation workflows. And in hands-on labs, you’ll build agents that reason, retrieve information, and carry out tasks while maintaining security and control.\n\nYou’ll also work with permission enforcement models, JSON-schema-based elicitation, auditing concepts, and real-world security scenarios. You’ll explore how MCP works and why secure design decisions matter in practice. Plus, you’ll break down user requests, shape safe execution flows, and reduce the risk of unintended actions.\n\nFinally, you’ll plan and test a complete MCP-driven agent workflow, showing how usability, capability, and security come together in a real implementation.\n\nThis course is designed for professionals in development, architecture, automation, or AI-powered applications who want hands-on, practical experience building responsible AI workflows.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks, 3–4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-ai-agents-using-mcp",
+  "instructors": [
+    {
+      "name": "Abdul Fatir",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Zikai Dou",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Joseph Santarcangelo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Wojciech 'Victor' Fulmyk",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Joshua Zhou",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Jianping Ye",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

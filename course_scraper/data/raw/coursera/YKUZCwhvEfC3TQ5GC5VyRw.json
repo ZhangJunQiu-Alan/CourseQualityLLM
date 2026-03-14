@@ -1,0 +1,31 @@
+{
+  "course_id": "YKUZCwhvEfC3TQ5GC5VyRw",
+  "platform": "coursera",
+  "title": "Angular 11+ & Material UI: Build Responsive Web Apps",
+  "slug": "angular-11--material-ui-build-responsive-web-apps",
+  "description": "Welcome to Angular 11+ & Material UI: Build Responsive Web Apps! In this course, you’ll learn how to build sleek, responsive, and accessible web applications using Angular 11+ and Angular Material UI. Through hands-on projects, practical walkthroughs, and real-world examples, you'll master how to integrate Material Design components into your Angular apps, customize themes, and optimize UI performance. Whether you're creating enterprise dashboards or modern admin panels, this course gives you the tools to deliver polished, scalable, and high-performing user interfaces.\n\nThis course is designed for frontend developers who already have a solid understanding of Angular and want to take their UI development skills to the next level. Whether you're working on enterprise apps, internal dashboards, or client-facing products, this course will help you implement consistent, scalable, and visually polished user interfaces using Angular Material. It's also a great fit for software engineers, tech leads, and development teams aiming to streamline their UI workflows and standardize design systems across projects.\n\nTo get the most out of this course, you should have a working knowledge of JavaScript and TypeScript, along with a solid grasp of Angular fundamentals—such as components, services, and routing. Some familiarity with CSS and responsive web design principles is also expected, as you'll be customizing themes and layouts to ensure your applications look great across devices. If you're comfortable building basic Angular apps, you're ready to jump in.\n\nBy the end of this course, you’ll have the confidence and practical skills to build responsive, accessible, and visually polished web applications using Angular Material. You'll know how to structure clean UI layouts, implement interactive components like forms and tables, customize themes to match branding needs, and optimize performance for real-world projects. More importantly, you’ll walk away with a solid foundation for creating scalable and consistent user interfaces—making you a more efficient and impactful Angular developer.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 Hour 20 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/angular-11--material-ui-build-responsive-web-apps",
+  "instructors": [
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Karlis Zars",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

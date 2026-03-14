@@ -1,0 +1,26 @@
+{
+  "course_id": "V89-3YlfEfCjuAr_591eFQ",
+  "platform": "coursera",
+  "title": "Red Hat Linux: Configure, Manage & Optimize",
+  "slug": "red-hat-linux-configure-manage-optimize",
+  "description": "By the end of this course, learners will be able to configure system time and users, manage and analyze services with systemctl, monitor active processes, configure file systems, deploy and manage web servers, and apply advanced Linux shell commands to streamline administration tasks.\n\nThis Red Hat Linux course is designed to equip learners with practical, hands-on skills that go beyond theory. Through structured modules and guided demonstrations, learners gain the ability to apply commands confidently, troubleshoot real-world scenarios, and optimize system performance.\n\nWhat makes this course unique is its step-by-step progression from foundational system operations to advanced shell mastery, ensuring both beginners and intermediate users can follow along and build competence. Each lesson is enriched with practice quizzes and graded assessments to reinforce learning and measure progress effectively.\n\nUpon completion, learners will not only understand Red Hat Linux fundamentals but also demonstrate industry-relevant skills needed for server administration, web services management, and process optimization. This comprehensive yet accessible approach prepares learners to excel in system administration roles or advance their IT career with confidence.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/red-hat-linux-configure-manage-optimize",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

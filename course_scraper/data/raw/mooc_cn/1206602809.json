@@ -1,0 +1,31 @@
+{
+  "course_id": "1206602809",
+  "platform": "mooc_cn",
+  "title": "博弈论",
+  "description": "人们每天都在做出决策。每个人的选择相互作用，选择的结果相互影响。博弈论就是研究包含相互依存情况中的理性行为选择。了解博弈论的思维方法，能让人们更客观地审视自己的得与失，合理地做出正确的选择。了解博弈论，不是让我们赢，但能帮我们赢。欢迎来到博弈的世界!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206602809",
+  "instructors": [
+    {
+      "name": "温湖炜;胡杜妮;卢有红;徐玮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南昌大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33396,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

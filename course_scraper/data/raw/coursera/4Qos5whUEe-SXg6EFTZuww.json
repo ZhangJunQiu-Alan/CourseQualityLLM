@@ -1,0 +1,26 @@
+{
+  "course_id": "4Qos5whUEe-SXg6EFTZuww",
+  "platform": "coursera",
+  "title": "Core Java - Design Patterns",
+  "slug": "core-java-design-patterns",
+  "description": "Want to write cleaner, smarter, and more scalable Java code?  \n\nDesign patterns are the secret tools that experienced developers use to solve common software challenges with elegance and efficiency. This course provides a comprehensive exploration of Java Design Patterns, with a focus on real-world applications and maintainable architecture. \n\nThrough relatable scenarios and demos, you'll explore creational, structural, and behavioral design patterns—from the simplicity of the Singleton to the sophistication of Chain of Responsibility and Command. You'll also learn how patterns like Adapter, Facade, Iterator, and State bring clarity and flexibility to your code. \n\nBut this course isn't just about memorizing definitions. It's about learning how and when to use each pattern to solve real problems in enterprise-grade Java development. With advanced JEE (J2EE) patterns also included, you'll be equipped to build scalable applications with confidence. \n\nThis Core Java course is ideal for learners with a solid understanding of object-oriented programming concepts like classes, inheritance, polymorphism, and encapsulation. \n\nUltimately, you'll recognize and apply design patterns. Learn to code more effectively and build robust, long-lasting Java applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 week of study, 5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/core-java-design-patterns",
+  "instructors": [
+    {
+      "name": "LearnKartS",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LearnKartS"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1470422183",
+  "platform": "mooc_cn",
+  "title": "电路与模拟电子技术实验",
+  "description": "《电路与模拟电子技术实验》课程以电工测量、电子测量为核心，以电路原理和模拟电子技术基础为依托，通过不同类型的实验项目建立科学的思维方法、实验设计、测量技术、数据分析等基本素养，为专业课程的学习以及科学研究打下坚实的基础。课程通过操作演示和实际应用介绍仪器设备使用和工具软件使用；通过知识讲解、原理分析、仿真解析、实物电路调试等现场操作演示，介绍实验相关的技术与方法；通过远程实物实景实验感受真实实验；通过相关测试和设计作业检验学习者的理解和掌握情况。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470422183",
+  "instructors": [
+    {
+      "name": "姚缨英",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1912,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002602005",
+  "platform": "mooc_cn",
+  "title": "有机化学",
+  "description": "有机化学是关于碳和碳的化合物的科学，在于研究和探索有机物组成、结构、性质、功能、制备与应用规律，并创造大量分子服务人类健康生活。有机化学是探索绚丽多彩生命奥秘的金钥匙，与农学、生物医学、材料等交叉融合，驱动发展，未来使命将拓展到“任何与有机分子相关的事物”上。让我们一起认识生命活动中分子群体的多彩魅力，推动自身未来在新农科及相关领域的创新发展！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002602005",
+  "instructors": [
+    {
+      "name": "王俊儒;张强;袁茂森;李剑利;魏梦雪;张艳荣;汤江江;陈淑伟;尹霞;白红进;涂琴;李满林;王凤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 88850,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

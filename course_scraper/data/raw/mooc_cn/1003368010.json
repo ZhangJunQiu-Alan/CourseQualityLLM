@@ -1,0 +1,31 @@
+{
+  "course_id": "1003368010",
+  "platform": "mooc_cn",
+  "title": "遗传学实验",
+  "description": "遗传学是实验科学。本实验课以研究基因功能为导向，以不同模式生物为实验对象，通过一系列实验背景目的的介绍、实验过程体验，循序渐进地学习遗传学研究设计的精髓，建立遗传学研究的思维理念框架；进一步引导大家运用生物学不同层次的知识技术，研究感兴趣的生物学问题。为科研入门起抛砖引玉的作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003368010",
+  "instructors": [
+    {
+      "name": "张文霞;辛广伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19847,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

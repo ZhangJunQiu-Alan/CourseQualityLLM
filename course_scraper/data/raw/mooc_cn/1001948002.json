@@ -1,0 +1,31 @@
+{
+  "course_id": "1001948002",
+  "platform": "mooc_cn",
+  "title": "C语言程序设计",
+  "description": "在当今社会计算机技术飞速发展，AI热度非凡和互联网+形势下，学习给电脑编写程序的技术，是多数人需要和渴望掌握的技术。本课程将用最简明的语言、最典型的实例和通俗的讲解为你讲授程序设计的思想，以及利用C语言进行编写程序的方法，并将带领你逐步掌握通过编写程序解决生活中的实际问题的初步方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001948002",
+  "instructors": [
+    {
+      "name": "朱鸣华;汪德刚;罗晓芳;潘昭天;孟军;董明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 259664,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

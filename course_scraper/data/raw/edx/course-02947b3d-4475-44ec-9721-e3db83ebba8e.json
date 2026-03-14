@@ -1,0 +1,41 @@
+{
+  "course_id": "course-02947b3d-4475-44ec-9721-e3db83ebba8e",
+  "platform": "edx",
+  "title": "Habilidades de negociación y comunicación efectiva",
+  "description": "Negociamos desde que inicia el día, a través de todas nuestras interacciones, ya sean laborales, sociales o familiares. Pero te has preguntado ¿Qué tan eficientemente negocias y si lo podrías hacer mejor? Esta es una gran oportunidad para que pongas en práctica y de manera inmediata los conocimientos adquiridos y compruebes que el proceso de negociar es dinámico y siempre se puede mejorar.  \n Este curso de negociación incorpora los avances más recientes en el desarrollo de habilidades de negociación, en función de las complejidades de la vida moderna, de una manera sencilla y directa.  \n Este curso en línea inicia con la estructura de la comunicación efectiva en una negociación, con la intención de identificar nuestras áreas de oportunidad y mejorarlas a través de los mecanismos del aprendizaje activo.  \n ¿Y qué decir del rol de las emociones en un proceso de negociación? Es necesario reconocerlas, administrarlas y aprovecharlas utilizando los mecanismos de la inteligencia emocional.  \n La negociación, por definición implica la relación entre dos o más partes que eventualmente manifiestan intereses contrapuestos y demandan habilidades para la resolución de conflictos. En el curso de negociación aprenderás a reconocer y gestionar por anticipado sus consecuencias irreversibles.",
+  "learning_goals": [
+    "Emotional Intelligence",
+    "Conflict Resolution",
+    "Negotiation",
+    "Active Learning",
+    "Communications"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 5-8 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "daniel-meade-monteverde",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "luz-maria-vargas-reguer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tecnológico de Monterrey"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 706,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

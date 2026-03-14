@@ -1,0 +1,31 @@
+{
+  "course_id": "1457425174",
+  "platform": "mooc_cn",
+  "title": "电气技术实践",
+  "description": "《电气技术实践》是针对本科电类工科专业独立设置的核心实验课程。本课程体系完备，教学内容包括：电路分析实验、模拟电子电路实验、数字电路实验、综合实验、可编程逻辑器件（FPGA）应用实验、应用系统综合设计。通过实验原理研究、方案设计、研究讨论和实验操作，学生将加深对理论知识及其应用的理解，并从中获取新知识，积累实践经验；通过实验磨炼，学生将熟悉和掌握电路问题的一般处理方法，积累和提高电子实验技能，培养严谨的科学态度和工作作风，以及独立分析和解决问题的能力。本课程涵盖基础性、综合性和挑战性内容，对本科生的创新意识和解决复杂工程问题能力的培养具有重要意义。       让我们共同携手，去开启这具有航空航天特色的学习之旅！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1457425174",
+  "instructors": [
+    {
+      "name": "肖瑾",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8034,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

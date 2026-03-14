@@ -1,0 +1,39 @@
+{
+  "course_id": "course-caedfa38-f8d7-47d4-a4ea-e8a8771ef674",
+  "platform": "edx",
+  "title": "Introduction to Digital Asset Management (DAM)",
+  "description": "The introduction to Digital Asset Management (DAM) course is critical to managing large collections of digital content, digital assets, and metadata. Having a solid understanding of user experience and organizational digital asset needs will help get your management system and process underway. This course covers topics such as: \n \n \n Identifying digital asset management role in institutions \n \n \n Defining standards and tools used in digital asset management \n \n \n Build your fundamentals of digital assets and digital asset management through this introductory course.",
+  "learning_goals": [
+    "Workflow Management",
+    "User Experience",
+    "Automation",
+    "Digital Assets",
+    "Digital Asset Management",
+    "Digital Content",
+    "Metadata",
+    "Collections"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "bronwen-masemann-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Wisconsin-Madison"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 346,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

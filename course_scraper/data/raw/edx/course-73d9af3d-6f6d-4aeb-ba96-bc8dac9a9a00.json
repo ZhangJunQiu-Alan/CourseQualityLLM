@@ -1,0 +1,43 @@
+{
+  "course_id": "course-73d9af3d-6f6d-4aeb-ba96-bc8dac9a9a00",
+  "platform": "edx",
+  "title": "Topics in AP Physics",
+  "description": "Preparing for the AP Physics 1 exam requires a deep understanding of many different topics in physics as well as an understanding of the AP exam and the types of questions it asks. This course is designed to teach you everything you need to know and help you prepare for the AP Physics 1 Exam. \n As you work through this course, you will find lecture videos taught by Rice professors, problem-solving sessions with expert AP Physics teachers, interactive lab experiences and practice questions. By the end of the course, you should be ready to take on the AP exam!",
+  "learning_goals": [
+    "Problem Solving",
+    "Physics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "18 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "matt-wilson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "gigi-nevils",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jason-hafner",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Rice University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 590,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

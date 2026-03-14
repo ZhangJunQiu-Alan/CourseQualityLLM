@@ -1,0 +1,31 @@
+{
+  "course_id": "1207427803",
+  "platform": "mooc_cn",
+  "title": "中学物理教学设计",
+  "description": "站三尺讲台，讲万物之理。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207427803",
+  "instructors": [
+    {
+      "name": "张军朋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华南师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14495,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

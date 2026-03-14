@@ -1,0 +1,26 @@
+{
+  "course_id": "4Rz7G4RpEe-L8RKezlgehQ",
+  "platform": "coursera",
+  "title": "Essential Linux Training Course",
+  "slug": "essential-linux-training-course",
+  "description": "This comprehensive Linux course equips you with the skills to navigate, manage, and control Linux systems with confidence. Begin by mastering Linux fundamentals—understand the differences between Linux, Unix, and Windows, explore open-source principles, and get hands-on with Ubuntu installation, terminal usage, and kernel architecture. Progress to file system and command-line essentials—learn to manage directories, permissions, and users while practicing core commands like top, uname, and lsusb. Advance to more complex tasks in text editing and package management using tools like vi, grep, and apt-get, and gain the ability to maintain and update Linux systems effectively.\n\nYou should have a basic understanding of computer operations and familiarity with any graphical user interface.\n\nBy the end of this course, you will be able to:\n\n- Navigate Linux: Use Ubuntu, GNOME, and CLI to operate Linux systems confidently.\n- Manage Systems: Handle files, directories, and user permissions with core commands.\n- Edit & Search Files: Use vi, grep, and egrep for efficient text handling and system queries.\n- Control Software: Install, update, and manage packages with apt-get, repositories, and PPAs.\n\nIdeal for aspiring system administrators, developers, and IT professionals seeking foundational Linux expertise.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/essential-linux-training-course",
+  "instructors": [
+    {
+      "name": "Priyanka Mehta",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Simplilearn"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

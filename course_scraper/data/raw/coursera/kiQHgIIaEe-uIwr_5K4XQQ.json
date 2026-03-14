@@ -1,0 +1,31 @@
+{
+  "course_id": "kiQHgIIaEe-uIwr_5K4XQQ",
+  "platform": "coursera",
+  "title": "Oracle Performance: Exadata, Enterprise Manager Mastery",
+  "slug": "oracle-performance-exadata-enterprise-manager-mastery-1",
+  "description": "Oracle Performance: Exadata, Enterprise Manager Mastery platform is designed to run Oracle Database workloads of any scale with very high performance, scalability, availability and security. Oracle Exadata has been engineered with many unique database-aware optimizations to run transactional, analytical, AI and mixed workloads faster. This course will introduce the learner to the key optimization features of Oracle Exadata, best performance practices for running databases on Exadata and configuring an Exadata Database Machine to be managed using Oracle Enterprise Manager Cloud Control.\n\nThis course is designed for database administrators and database developers who are looking to enhance their expertise in Oracle Exadata. It caters to professionals responsible for managing and optimizing Oracle databases, ensuring high performance, scalability, and availability. The course will be particularly beneficial to those overseeing complex database systems who are eager to leverage Exadata's powerful optimization features for improved efficiency and performance.\n\nParticipants should have a strong understanding of Oracle Database Administration, RAC, ASM, and Oracle Clusterware, along with familiarity with the Oracle Exadata Database Machine architecture and Oracle Enterprise Manager Cloud Control. This knowledge will help learners effectively engage with the course and apply the concepts to real-world scenarios.\n\nBy the end of this course, learners will be able to identify the key features of Oracle Exadata that significantly enhance database performance. They will also be able to demonstrate best practices for configuring Oracle databases running on Exadata to optimize efficiency and reliability. Finally, participants will learn to implement steps for configuring Oracle Enterprise Manager Cloud Control, enabling them to monitor and manage Oracle Exadata Database Machines effectively.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "1 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/oracle-performance-exadata-enterprise-manager-mastery-1",
+  "instructors": [
+    {
+      "name": "Karen Reliford",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

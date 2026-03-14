@@ -1,0 +1,45 @@
+{
+  "course_id": "course-7f08e72a-2a5c-4d51-aad1-28e8048167eb",
+  "platform": "edx",
+  "title": "Operating Systems and Security",
+  "description": "In total, 51% of organizations are planning to increase security investments as a result of a breach (IBM Report). Companies need skilled IT support and cybersecurity professionals now more than ever. Whether you’re just starting out or switching to tech, this course provides the critical operating systems (OS) knowledge you need to move forward.  \n OS is fundamental to all aspects of computing. In this course, you’ll learn foundational concepts common to all OS and the unique aspects of Windows, Linux, and macOS.  \n You’ll explore OS file systems and the associated security features. You'll discover the macOS features that revolutionized OS functionality. Moreover, you’ll investigate virtualization and containerization.  \n Additionally, through labs and a final project, you’ll get hands-on managing virus and threat protection, configuring user accounts and permissions with command-line tools, and securing systems against threats.  \n If you’re looking to get started in IT or cybersecurity, enroll today to gain essential knowledge in OS that enables you to work toward a career in cybersecurity, system administration, network engineering, or IT support.",
+  "learning_goals": [
+    "File Systems",
+    "Cyber Security",
+    "Technical Support",
+    "User Accounts",
+    "Linux",
+    "Planning",
+    "Mac OS",
+    "Cyber Security Systems",
+    "Network Engineering",
+    "Virtualization",
+    "Computer Security",
+    "Operating Systems",
+    "Containerization",
+    "Command-Line Interface"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "coreen-ryskamp",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 688,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

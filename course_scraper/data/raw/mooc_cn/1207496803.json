@@ -1,0 +1,31 @@
+{
+  "course_id": "1207496803",
+  "platform": "mooc_cn",
+  "title": "结构力学",
+  "description": "结构力学课程主要研究工程结构受力和传力的规律，保证结构体系的合理性。以土木工程中的各种常见结构为研究对象，分析各类结构在各种荷载作用下的受力特性，计算不同杆件结构内力和位移，以保证结构的强度、刚度和稳定性。长江大学结构力学课程为国家一流在线课程，课程注重基本理论的讲解，通俗易懂，特别加强了静定结构弯矩图绘制方法的学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207496803",
+  "instructors": [
+    {
+      "name": "张衡;张露",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7292,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

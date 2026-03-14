@@ -1,0 +1,31 @@
+{
+  "course_id": "1452311174",
+  "platform": "mooc_cn",
+  "title": "画法几何与工程制图",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1452311174",
+  "instructors": [
+    {
+      "name": "王彦峰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏海洋大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19054,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "ODKsT6WvEfC2PRLIx5keZQ",
+  "platform": "coursera",
+  "title": "Secure AI: API and Dependency Risks",
+  "slug": "secure-ai-api-and-dependency-risks",
+  "description": "Secure AI: API and Dependency Risks is an intermediate course that moves you from developer to defender, teaching you the essential practices for building production-grade, secure AI.\n\nYou will learn to implement OWASP ASVS guidelines to harden API endpoints with critical controls like JWT authentication, input validation to prevent injection attacks, and rate limiting. Then, you will adopt an attacker’s mindset, using DAST tools like OWASP ZAP to verify your defenses are effective. Next, you will master the art of managing your software supply chain by analyzing dependency vulnerability reports, using the CVSS framework to prioritize real threats over noise, and formulating verified hotfix and rollback plans.\n\nThrough hands-on labs simulating real-world security incidents, you will leave this course ready to build, deploy, and maintain resilient AI services that can withstand modern threats.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "130 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/secure-ai-api-and-dependency-risks",
+  "instructors": [
+    {
+      "name": "LearningMate",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

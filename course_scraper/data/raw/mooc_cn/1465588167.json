@@ -1,0 +1,31 @@
+{
+  "course_id": "1465588167",
+  "platform": "mooc_cn",
+  "title": "物联网前沿技术",
+  "description": "美好生活，万物互联，引领前沿，使命担当。欢迎和我们一起学习物联网前沿技术！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465588167",
+  "instructors": [
+    {
+      "name": "马海华;邓淼磊;张苗",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3877,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206505802",
+  "platform": "mooc_cn",
+  "title": "机械制造工艺学",
+  "description": "本课程为机械类专业核心课程，讲授机械加工质量、机床夹具设计理论、机械加工工艺规程的制订及机器的装配工艺。学习者掌握机械制造工艺的基本理论和基本知识，设计符合工艺要求的一般机械部件和零件，具有制定机械加工和装配工艺规程、分析和提高零件加工质量和机器装配质量、设计机床夹具的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206505802",
+  "instructors": [
+    {
+      "name": "郑书河;应龙",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建农林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20244,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

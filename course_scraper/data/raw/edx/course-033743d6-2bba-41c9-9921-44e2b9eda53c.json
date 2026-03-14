@@ -1,0 +1,24 @@
+{
+  "course_id": "course-033743d6-2bba-41c9-9921-44e2b9eda53c",
+  "platform": "edx",
+  "title": "Mastering Generative AI Project:  RAG and LangChain App",
+  "description": "Ready to put your gen AI engineering skills into action? This hands-on project will challenge you to build your own real-world generative AI application and give you plenty to talk about in interviews!  \n During this course, you'll deepen your understanding of LangChain document loaders and learn how to upload your own documents from various sources. You'll explore text-splitting strategies to improve model responsiveness and use Watsonx for document embedding. Additionally, you'll leverage a vector database to store document embeddings and LangChain to create a retriever for fetching documents.  \n As you progress, you'll implement retrieval-augmented generation (RAG), build a QA bot, and set up a Gradio interface to interact with your models. By the end of the course, you'll then have a tangible project that showcases your generative AI engineering expertise to potential employers.  \n If you’re keen to build some hands-on experience that demonstrates how you’ve mastered key gen AI engineering skills, ENROLL TODAY and get ready to take your AI engineering career to the next level!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "3 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 277,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

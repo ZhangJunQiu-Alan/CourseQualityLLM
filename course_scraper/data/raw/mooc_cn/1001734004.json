@@ -1,0 +1,31 @@
+{
+  "course_id": "1001734004",
+  "platform": "mooc_cn",
+  "title": "模拟电子线路A",
+  "description": "当今社会已经离不开电子技术，大到航空航天、互联网，小到手机、导航仪等日常设备。在电子系统中，模拟电子线路执行着与现实世界的物理信号相对应的模拟电信号的产生、变换、放大、处理等功能。有人说模拟电路就像魔鬼电路，真的吗？请加入我们的课程，我们将带您拨开重重迷雾，踏入模拟电路的圣殿。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001734004",
+  "instructors": [
+    {
+      "name": "朱莉娟;何艳;黄丽亚;杨恒新;周洪敏;袁丰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 52047,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

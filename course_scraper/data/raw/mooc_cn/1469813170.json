@@ -1,0 +1,31 @@
+{
+  "course_id": "1469813170",
+  "platform": "mooc_cn",
+  "title": "数据网组建",
+  "description": "数据网组建—学什么？ （通俗点）家里的网络：网线如何做？光纤如何熔？无线AP怎么配？IP地址啥意思？单位的网络（校园、企业） ：交换机选啥型号？怎么连线？怎么配置（让谁和谁能联机）？运营商的网络（电信、移动、联通）：网络大，用户多，上路由器、防火墙这些高级货（让谁和谁能联机）？学好这些货，干好这些活，滋润的活！                                            --课程团队",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1469813170",
+  "instructors": [
+    {
+      "name": "胡峰;陈彧芳;林畅;才岩峰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2799,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

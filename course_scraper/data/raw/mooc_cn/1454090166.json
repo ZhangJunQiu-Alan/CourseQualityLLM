@@ -1,0 +1,31 @@
+{
+  "course_id": "1454090166",
+  "platform": "mooc_cn",
+  "title": "软件测试",
+  "description": "每一位程序员都应该对自己的程序负责。这样的负责靠的不是海誓山盟。这样的负责靠的是对软件质量一丝不苟的态度，这样的负责靠的是对软件测试技术的深刻理解，这样的负责靠的是对软件测试工具的熟练使用。所以，欢迎来到我们的软件测试课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1454090166",
+  "instructors": [
+    {
+      "name": "王子元",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13497,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

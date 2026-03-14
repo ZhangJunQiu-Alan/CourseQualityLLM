@@ -1,0 +1,31 @@
+{
+  "course_id": "1003003004",
+  "platform": "mooc_cn",
+  "title": "钢结构基本原理",
+  "description": "钢结构是现代土木工程的基本结构形式之一，而《钢结构基本原理》是土木工程专业的专业基础必修课程。本课程以建立基本概念、阐释基本原理为宗旨，使学生全面掌握钢结构材料、构件和连接的基础知识，理解钢结构分析的基本原理，为今后进一步学习各类钢结构与金属结构的设计、制作和建造奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003003004",
+  "instructors": [
+    {
+      "name": "赵宪忠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 65416,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

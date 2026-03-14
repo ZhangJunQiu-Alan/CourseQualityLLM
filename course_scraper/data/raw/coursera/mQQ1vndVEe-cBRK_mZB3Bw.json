@@ -1,0 +1,26 @@
+{
+  "course_id": "mQQ1vndVEe-cBRK_mZB3Bw",
+  "platform": "coursera",
+  "title": "Ethernet Switching and Routing",
+  "slug": "packt-ethernet-switchinga-and-routing-opw3e",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course delves into the essential concepts of Ethernet switching and routing, providing a comprehensive understanding crucial for network management. It begins with an introduction to Ethernet switching, covering the fundamentals of Layer 2 and multilayer switches, MAC address tables, and neighbor discovery protocols such as CDP and LLDP. You will also explore Virtual LANs (VLANs), learning how to configure and manage them effectively to enhance network performance and security.\n\nAs you progress, the course introduces more advanced topics like trunking and the Spanning Tree Protocol (STP), essential for maintaining a stable and loop-free network. You will gain hands-on experience configuring trunk links, managing multiple VLANs, and implementing Voice VLANs. The course also covers critical STP features such as Root Guard, Loop Guard, and BPDU Guard, helping you ensure network resilience and prevent potential issues.\n\nIn the routing modules, the focus shifts to static and dynamic routing techniques. You will learn about the fundamentals of routing, static route configurations, and the OSPFv2 protocol. The course includes in-depth coverage of OSPF neighbor formation, DR and BDR elections, and LSA types, preparing you for real-world routing scenarios. By the end of the course, you will have a strong grasp of Ethernet switching, VLAN management, and routing protocols, enabling you to design and troubleshoot complex network environments confidently.\n\nThis course is designed for network professionals and students looking to deepen their knowledge of Ethernet switching and routing. A basic understanding of networking concepts is recommended but not required. It is ideal for those preparing for certifications like CCNA or seeking to advance their careers in network management.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-ethernet-switchinga-and-routing-opw3e",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,62 @@
+{
+  "course_id": "course-6272a8ba-5bef-495e-a3f9-fae6abd47ed0",
+  "platform": "edx",
+  "title": "Revenue Forecasting and Analysis",
+  "description": "Revenue forecasting refers to the use of analytical techniques to produce estimates of future financial inflows for the government. It is of crucial importance to policymakers, as it helps them devise sound public polices and plan spending programs based on these projected revenues. While governments derive revenues from various sources, taxes typically are the main funding mechanism. Therefore, this course focuses on the forecasting and analysis of tax revenue. \n We first pinpoint places where data can be accessed and guide you on how to assess the quality of your data. We then move to general forecasting techniques. We apply these techniques to forecast major tax revenue items such as: value added taxes, import duties, excises, personal income tax and corporate income tax. The course also provides an introduction to techniques that can be used to estimate the revenue effects of policy changes and their distributional impact.",
+  "learning_goals": [
+    "Revenue Forecasting",
+    "Analytical Techniques",
+    "Corporate Tax",
+    "Forecasting",
+    "Income Tax",
+    "Quantitative Modeling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "sebastien-leduc",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dinar-prihardini",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "fabien-gonguet",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "aqib-aslam",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sebastian-beer",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "li-liu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 346,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207045801",
+  "platform": "mooc_cn",
+  "title": "微积分（1）",
+  "description": "本课程课程分为两部分，我们专门为此本课程配套了《微积分（2）》，将和《微积分（1）》课程同步上线。https://www.icourse163.org/course/SCU-1207041803",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207045801",
+  "instructors": [
+    {
+      "name": "牛健人",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19900,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

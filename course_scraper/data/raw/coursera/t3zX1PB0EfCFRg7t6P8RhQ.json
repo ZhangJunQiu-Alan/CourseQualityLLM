@@ -1,0 +1,26 @@
+{
+  "course_id": "t3zX1PB0EfCFRg7t6P8RhQ",
+  "platform": "coursera",
+  "title": "Fundamentals of Machine Learning",
+  "slug": "fundamentals-of-machine-learning-ml",
+  "description": "This course provides a comprehensive introduction to the Fundamentals of Machine Learning, covering both conceptual understanding and practical implementation across modern machine learning workflows. It focuses on building strong core foundations, preparing and evaluating data, applying supervised and unsupervised learning techniques, and implementing scalable machine learning solutions using cloud platforms such as AWS and Azure.\n\nParticipants will gain hands-on experience in developing, training, evaluating, and optimizing machine learning models, along with exposure to advanced techniques such as GPU-accelerated workflows and MLOps. Real-world use cases, demos, and step-by-step guidance are included to ensure learners can confidently apply machine learning concepts in practical scenarios.\n\nBy the end of this course, you will be able to learn how to:\n\nUnderstand and explain core machine learning concepts, terminology, and workflows\n\nDifferentiate between AI, Machine Learning, and Deep Learning\n\nPrepare, preprocess, and evaluate data for machine learning models\n\nBuild and evaluate supervised learning models for classification and regression problems\n\nApply unsupervised learning techniques for clustering and pattern discovery\n\nOptimize models using cross-validation, hyperparameter tuning, and performance metrics\n\nLeverage GPU-accelerated workflows for large-scale machine learning tasks\n\nDesign and implement machine learning solutions on AWS\n\nBuild, manage, and operationalize ML workflows using Azure Machine Learning and MLOps best practices\n\nThis course facilitates learners with approximately 6:30–7:00 hours of video lectures, delivering a balanced mix of theory and hands-on demonstrations. The course is divided into 6 modules, and each module is further split into focused lessons. To reinforce learning, each module includes assignments in the form of quizzes and in-video questions.\n\nCourse Modules\n\nModule 1: Building Core Concepts and Foundations of Machine Learning\n\nModule 2: ML Development, Data Preparation, and Evaluation\n\nModule 3: Unsupervised Learning Techniques – Clustering and Pattern Discovery\n\nModule 4: Advanced Machine Learning Techniques and GPU-Accelerated Workflows\n\nModule 5: Designing and Implementing Machine Learning Solutions on AWS\n\nModule 6: Building & Managing ML Workflows with Azure Machine Learning and MLOps\n\nThis course is ideal for learners and professionals who want to build a strong foundation in machine learning and progress toward real-world, cloud-based ML implementations using industry-standard tools and best practices.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of Study, 3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/fundamentals-of-machine-learning-ml",
+  "instructors": [
+    {
+      "name": "Whizlabs Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Whizlabs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

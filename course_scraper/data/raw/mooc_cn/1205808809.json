@@ -1,0 +1,31 @@
+{
+  "course_id": "1205808809",
+  "platform": "mooc_cn",
+  "title": "视频压缩通信",
+  "description": "同学们：       大家好！       您一定在手机、电脑上浏览过视频，那么您有没有思考过，对于视频这么大的数据量是怎样存储、传输的呢？怎样才能让视频更加流畅、不卡顿？《视频压缩通信》主要讲述了视频/图像的压缩算法原理基础，即编、解码的算法原理基础，欢迎大家跟随我们一起发现其中的奥秘吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205808809",
+  "instructors": [
+    {
+      "name": "刘卫华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8290,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

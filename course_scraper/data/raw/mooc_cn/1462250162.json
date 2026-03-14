@@ -1,0 +1,31 @@
+{
+  "course_id": "1462250162",
+  "platform": "mooc_cn",
+  "title": "数据库原理及应用",
+  "description": "在大数据时代，为更好实现用数据说话、用数据管理、用数据决策，用数据创新，首先要有效组织、存储和管理数据，数据库技术就是数据管理的有效技术。欢迎加入我们课程团队，让我们一起进入数据库的精彩世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462250162",
+  "instructors": [
+    {
+      "name": "姜代红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "徐州工程学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2469,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

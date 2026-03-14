@@ -1,0 +1,31 @@
+{
+  "course_id": "1449975172",
+  "platform": "mooc_cn",
+  "title": "BIM技术与应用",
+  "description": "本课程介绍了BIM的概念与应用的基本知识，着重讲授Revit 2020软件的操作，使零基础的学生，通过本课程的学习，掌握Revit的建模操作与方法，能够独立完成Revit建筑与结构的建模，从而拥有BIM的概念与技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449975172",
+  "instructors": [
+    {
+      "name": "李莉;戴柳丝;汪德江;朱杰江",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25813,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

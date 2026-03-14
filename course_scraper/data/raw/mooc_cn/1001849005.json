@@ -1,0 +1,31 @@
+{
+  "course_id": "1001849005",
+  "platform": "mooc_cn",
+  "title": "会计基础",
+  "description": "“会计基础”课程是职业院校财经类专业的专业基础课。它既是会计基本技能、基本理论和基本知识的载体，也是初级会计岗位职业能力的“成型”课程。然而，学历教育内容与用人单位需求往往不相一致，致使很多学生无法顺利走上工作岗位。开通在线课堂，同学们无须走出校门即可得到良好的职业辅导。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001849005",
+  "instructors": [
+    {
+      "name": "徐蓓;邹建军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 47551,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

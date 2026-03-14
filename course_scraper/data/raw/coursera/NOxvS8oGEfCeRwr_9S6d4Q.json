@@ -1,0 +1,26 @@
+{
+  "course_id": "NOxvS8oGEfCeRwr_9S6d4Q",
+  "platform": "coursera",
+  "title": "Advanced SwiftUI, MVVM, and App Design Patterns",
+  "slug": "packt-advanced-swiftui-mvvm-and-app-design-patterns-anj2w",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you will delve into advanced SwiftUI techniques, focusing on app design patterns, UI customization, and the MVVM architecture. You'll master the art of stylizing text views, including using Markdown, string interpolation, and attributed strings. Further, you’ll explore creating custom view modifiers, building complex UI elements, and adapting your app for dark and light mode support.\n\nThe journey continues with the implementation of real-world projects like a calculator app with advanced features, an MVVM-based recipe app, and a platform-adaptive hotkeys app. You'll also work with advanced design techniques using iOS 18 capabilities such as Text Renderer effects and Metal shaders. Along the way, you'll learn the intricacies of state management, UI responsiveness, and incorporating complex business logic into your apps.\n\nThis course will also introduce design best practices for scalable, maintainable, and testable SwiftUI applications. You will work on real-world challenges, applying MVVM to organize your code, use efficient data handling, and develop polished apps.\n\nBy the end of the course, you will be able to create highly interactive SwiftUI interfaces, build robust apps using MVVM, and apply design patterns to optimize your development process and code structure.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-advanced-swiftui-mvvm-and-app-design-patterns-anj2w",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

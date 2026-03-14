@@ -1,0 +1,26 @@
+{
+  "course_id": "S3Hq7-PtEeaH9Q51wS-wDA",
+  "platform": "coursera",
+  "title": "Engineering Practices for Building Quality Software",
+  "slug": "engineering-practices-secure-software-quality",
+  "description": "Agile embraces change which means that team should be able to effectively make changes to the system as team learns about users and market.  To be good at effectively making changes to the system, teams need to have engineering rigor and excellence else embracing change becomes very painful and expensive.  \n\nIn this course, you will learn about engineering practices and processes that agile and traditional teams use to make sure the team is prepared for change. In additional, you will also learn about practices, techniques and processes that can help team build high quality software. You will also learn how to calculate a variety of quantitative metrics related to software quality.\n\nThis is an intermediate course, intended for learners with a background in software development. To succeed in the course, you should have experience developing in modern programming languages (e.g., Java, C#, Python, JavaScript), an understanding of software development lifecycle models, familiarity with UML diagrams (class and sequence diagrams), and a desire to better understand quality aspects of software development beyond program correctness.\n\nAt the end of this course, you will be able to comfortably and effectively participate in various techniques and processes for building secure and high quality software.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 3-7 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/engineering-practices-secure-software-quality",
+  "instructors": [
+    {
+      "name": "Kevin Wendt",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Minnesota"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,34 @@
+{
+  "course_id": "course-2c9ed992-c007-4182-a9f4-7524b2029082",
+  "platform": "edx",
+  "title": "PredictionX: Omens, Oracles & Prophecies",
+  "description": "Humans have always sought to know their own future, be it the destiny of an empire or an individual's fate. Across cultures and history, we find people trying to find their place in the Universe by attempting to gaze into the future. \n Join us for this one-week, immersive learning experience as we explore “pre-scientific” prediction systems ranging from  ancient Chinese bone burning  to the  Oracle of Delphi  to  modern astrology  and  tarot , with practitioners and Harvard faculty leading the journey. We will examine the details of over a dozen prediction systems as well as theoretical frameworks connecting them. \n This module is a part of PredictionX, which examines our efforts to predict the future over all of recorded history. PredictionX courses will cover topics from omens and oracles in ancient civilizations, which this course discusses, to the evolution of the general approach to science most take today (which includes the course  John Snow and the Cholera Outbreak of 1854 ) as well as modern computer simulations and the role they play in predicting our futures today.",
+  "learning_goals": [
+    "Computer Simulation",
+    "Forecasting",
+    "Futures Exchange"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alyssa-goodman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14341,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

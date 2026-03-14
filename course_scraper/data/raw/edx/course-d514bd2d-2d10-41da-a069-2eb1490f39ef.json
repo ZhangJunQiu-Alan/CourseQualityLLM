@@ -1,0 +1,48 @@
+{
+  "course_id": "course-d514bd2d-2d10-41da-a069-2eb1490f39ef",
+  "platform": "edx",
+  "title": "Relational Database Basics",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n This course is an introduction to the world of relational databases. You will explore the fundamental concepts of relational databases and Relational Database Management Systems (RDBMS), learn about relational database design, and understand how to transform source data into tables with clearly defined relationships. From there, you will learn how to apply relational database design principles to your own data, and create databases, tables, and load data yourself. You’ll get an introduction to Structured Query Language (SQL) and use it to add the keys and constraints necessary in a relational database. \n This course includes hands-on, practical exercises to help you demonstrate your learning. You will work with several industry standard relational databases, including IBM Db2, MySQL, and PostgreSQL. Based on what you’ve learned through the course, you’ll complete a final project in which you’ll design, create, and populate a database instance containing multiple tables. \n No prior knowledge of databases or programming is required.",
+  "learning_goals": [
+    "Relational Database Management Systems",
+    "Relational Databases",
+    "Relational Database Design",
+    "IBM DB2",
+    "PostgreSQL",
+    "SQL (Programming Language)",
+    "MySQL"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "lin-joyner",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rose-malcolm",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 437,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

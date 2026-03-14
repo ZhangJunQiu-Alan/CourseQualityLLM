@@ -1,0 +1,31 @@
+{
+  "course_id": "1001757003",
+  "platform": "mooc_cn",
+  "title": "软件需求工程",
+  "description": "本课程帮助您建立软件需求工程的概念，掌握软件需求获取、分析的技术和方法，通过案例和项目实践，教会您使用AI工具，理解和编写规范化的软件需求规格说明文档（系统解决方案），并能够使用AI工具 验证需求、对需求进行管理，具备一个软件需求工程师（产品经理）的基本素质。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001757003",
+  "instructors": [
+    {
+      "name": "沈维燕;李尤丰;洪蕾",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "金陵科技学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15962,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

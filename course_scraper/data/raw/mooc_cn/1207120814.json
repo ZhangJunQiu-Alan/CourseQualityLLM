@@ -1,0 +1,31 @@
+{
+  "course_id": "1207120814",
+  "platform": "mooc_cn",
+  "title": "基础生态学",
+  "description": "生态学与人类息息相关。本课程将带领我们领悟生物与环境及生物与生物之间的相互关系，激发您对大自然的热爱，也更能培养你利用系统思维来思考问题的习惯。让我们一起探索自然世界的奥秘。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207120814",
+  "instructors": [
+    {
+      "name": "许勇;曹瑞;李正鹏;严燕儿",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "淮阴师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15786,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

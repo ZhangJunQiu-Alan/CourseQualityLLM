@@ -1,0 +1,26 @@
+{
+  "course_id": "qqRBbiEREeW5Rwo0txKkgQ",
+  "platform": "coursera",
+  "title": "Hardware Security",
+  "slug": "hardware-security",
+  "description": "In this course, we will study security and trust from the hardware perspective. Upon completing the course, students will understand the vulnerabilities in current digital system design flow and the physical attacks to these systems. They will learn that security starts from hardware design and be familiar with the tools and skills to build secure and trusted hardware.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/hardware-security",
+  "instructors": [
+    {
+      "name": "Gang Qu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Maryland, College Park"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

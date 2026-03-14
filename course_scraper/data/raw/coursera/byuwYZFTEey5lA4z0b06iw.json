@@ -1,0 +1,26 @@
+{
+  "course_id": "byuwYZFTEey5lA4z0b06iw",
+  "platform": "coursera",
+  "title": "Cómo manejar datos faltantes",
+  "slug": "missing-data-es",
+  "description": "En este curso, se tratarán los pasos que se deben seguir para ponderar encuestas de muestra. Se incluirán los métodos para ajustar las no respuestas y para usar datos externos a la encuesta para calibrarla.  Entre las técnicas que se abordarán, se encuentran los ajustes que se utilizan para las propensiones de respuesta estimada, la postestratificación, el rastrillado y la estimación de regresión general.  Asimismo, se discutirán las técnicas alternativas para imputar los valores de los elementos faltantes.  Se tratarán las funciones que ofrecen los diferentes paquetes de software estadístico R®, Stata® y SAS® para la ponderación y la imputación.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "4 semanas de estudio, 1 a 2 horas por semana",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/missing-data-es",
+  "instructors": [
+    {
+      "name": "Richard Valliant, Ph.D.",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Maryland, College Park"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

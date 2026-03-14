@@ -1,0 +1,37 @@
+{
+  "course_id": "course-efff5748-4be0-46e0-8762-58c281354435",
+  "platform": "edx",
+  "title": "Medical Terminology",
+  "description": "Medicine has a very distinct and highly specialized language. It is necessary for any student wishing to pursue a successful career in the medical field to acquire comprehension in this system of communication, including Allied Healthcare professionals. Learners will receive thorough instruction in developing fluency with medical terms. Medical vocabulary will be taught with specific emphasis on root (or stem words), prefixes, suffixes and abbreviations. By the end of this course learners will be expected to have a basic comprehension of medical terms and be able to communicate accurately to their peers in the field. \n Terms associated with anatomy, physiology, pathology and diagnostic tests of different systems are discussed but no previous knowledge of these topics is necessary.",
+  "learning_goals": [
+    "Medical Terminology",
+    "Anatomy",
+    "Physiology",
+    "Pathology",
+    "Academic Integrity",
+    "Auditing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "amanda-mckinney",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Doane University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1866,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

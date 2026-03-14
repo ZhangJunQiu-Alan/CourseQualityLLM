@@ -1,0 +1,26 @@
+{
+  "course_id": "7sNP37xrEeiL4Q6DgrZ6DA",
+  "platform": "coursera",
+  "title": "Natural Language Processing on Google Cloud",
+  "slug": "sequence-models-tensorflow-gcp",
+  "description": "This course introduces the products and solutions to solve NLP problems on Google Cloud. Additionally, it explores the processes, techniques, and tools to develop an NLP project with neural networks by using Vertex AI and TensorFlow.\n\n- Recognize the NLP products and the solutions on Google Cloud.\n- Create an end-to-end NLP workflow by using AutoML with Vertex AI.\n- Build different NLP models including DNN, RNN, LSTM, and GRU by using TensorFlow.\n- Recognize advanced NLP models such as encoder-decoder, attention mechanism, transformers, and BERT.\n- Understand transfer learning and apply pre-trained models to solve NLP problems.\n\nPrerequisites: Basic SQL, familiarity with Python and TensorFlow",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/sequence-models-tensorflow-gcp",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

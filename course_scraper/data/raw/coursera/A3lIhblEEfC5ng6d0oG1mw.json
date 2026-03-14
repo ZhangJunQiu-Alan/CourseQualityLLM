@@ -1,0 +1,31 @@
+{
+  "course_id": "A3lIhblEEfC5ng6d0oG1mw",
+  "platform": "coursera",
+  "title": "PCB/CAD Design – DFM & DFT Considerations",
+  "slug": "pcbcad-design--dfm--dft-considerations",
+  "description": "Designing a PCB isn’t just about connecting components — it’s about ensuring the board can be manufactured reliably and tested effectively. This course focuses on Design for Manufacturability (DFM) and Design for Testability (DFT) principles, showing you how to reduce production costs, improve yield, and make debugging easier. With a hands-on, demo-driven approach in KiCAD, you will learn how to apply these practices directly to a microcontroller development board project. Through a structured curriculum, you’ll explore component placement, routing for manufacturability, applying design rules, adding test points, and performing verification checks — all while building a consistent, real-world PCB design.\t\n\nThis course helps beginners and early-career engineers move from basic PCB layout to professional, production-ready design. Through a hands-on microcontroller project, you’ll learn essential DFM and DFT practices to create PCBs that are easy to manufacture, assemble, and test.\n\nLearners should know basic electronics—components, circuits, and simple schematics. PCB layout familiarity helps but isn’t required. Experience with KiCad or other design tools is a bonus. With guided demos, beginners can follow along. Curiosity and willingness to experiment are key.\n\nBy the end, you’ll be able to create boards that are not only functional, but also ready for mass production and efficient testing. This course is ideal for beginners, hobbyists, and early-career engineers who want to move beyond basic PCB design into professional-level practices for manufacturability and testability. By following a single consistent project, you’ll see how every principle is applied in real-time — from schematic to production-ready PCB.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "70 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pcbcad-design--dfm--dft-considerations",
+  "instructors": [
+    {
+      "name": "Maheen Rasheed",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

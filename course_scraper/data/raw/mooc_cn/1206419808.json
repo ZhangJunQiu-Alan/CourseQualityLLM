@@ -1,0 +1,31 @@
+{
+  "course_id": "1206419808",
+  "platform": "mooc_cn",
+  "title": "微信小程序开发",
+  "description": "课程基于2018年教育部产学合作协同育人项目（腾讯支持）建设而成，获第二批国家级一流本科课程（线上）。基于本课程讲授的校本课程获首批国家级和北京市课程思政示范课，课程配套教材获北京高校优质本科教材课件（重点），配套教案获北京高校优质本科教案。课程本着简单易学、有用有趣的教学理念，采用案例教学方式，每个案例采用“案例描述→实现效果→案例实现→知识要点→案例总结”的讲解步骤，符合认知规律，使学习者能够在轻松愉悦中掌握小程序开发的方法和技巧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206419808",
+  "instructors": [
+    {
+      "name": "杜春涛;付瑞平;马礼",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北方工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41055,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

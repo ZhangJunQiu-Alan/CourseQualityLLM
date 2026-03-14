@@ -1,0 +1,31 @@
+{
+  "course_id": "1471101164",
+  "platform": "mooc_cn",
+  "title": "人工智能应用基础",
+  "description": "◆ 五行代码见效果，单项串联成系统。跟着视频做起来，创新创业我也行！借助AI开放平台实现典型应用，锻炼创新思维。◆ 课程讲授计算机视觉、语音处理、自然语言处理、智能机器人、机器学习与深度学习算法等关键技术，并配备相关实验。 ◆ 通识篇介绍人工智能技术的入门普及部分。实践篇实现迎宾机器人的人脸检测与识别、智能语音对话、公司知识问答等。◆ 对于没有代码经验的学员，团队开发“零代码人工智能应用”，学员们只要到百度、科大讯飞官网上申请秘钥即可调用。ᐅ 利用生成式人工智能技术进行AIGC的实践，开展文章撰写与润色等文本生成与创作工作。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471101164",
+  "instructors": [
+    {
+      "name": "邓赵红;钱晓忠;史荧中",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3750,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

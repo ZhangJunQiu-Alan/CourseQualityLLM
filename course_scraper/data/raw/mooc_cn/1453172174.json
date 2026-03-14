@@ -1,0 +1,31 @@
+{
+  "course_id": "1453172174",
+  "platform": "mooc_cn",
+  "title": "机器人技术与应用",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1453172174",
+  "instructors": [
+    {
+      "name": "孙洪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5696,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

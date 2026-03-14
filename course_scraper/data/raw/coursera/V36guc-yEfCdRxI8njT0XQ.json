@@ -1,0 +1,26 @@
+{
+  "course_id": "V36guc-yEfCdRxI8njT0XQ",
+  "platform": "coursera",
+  "title": "PCEP: Python Setup",
+  "slug": "pcep-python-setup-lo094027",
+  "description": "This course will be useful to anyone new to Python programming. You will learn how to set up a Python development environment and develop a simple application.\n\nThis is the first course in a multi-course Specialization.\n\nAll of the courses in this Specialization require that you use the provided virtual machine, which includes an installation of Python. The course setup instructions provided in the first module of this course go into more detail about the hardware and software requirements.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pcep-python-setup-lo094027",
+  "instructors": [
+    {
+      "name": "Bill Rosenthal",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Logical Operations"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

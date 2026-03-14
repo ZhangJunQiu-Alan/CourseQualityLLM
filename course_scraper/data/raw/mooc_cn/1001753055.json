@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753055",
+  "platform": "mooc_cn",
+  "title": "射频技术",
+  "description": "本课程包含无线通信系统的两大核心模块：无线发射机和无线接收机电路。课程从基本概念、基本原理入手，通过多元化的主题内容，让学习者逐步掌握射频电子线路的分析方法，形成完备的知识体系和操作技能。欢迎各行各业的学习者们加入本课程的学习！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753055",
+  "instructors": [
+    {
+      "name": "顾斌;高燕;徐结海;汤滟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23523,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

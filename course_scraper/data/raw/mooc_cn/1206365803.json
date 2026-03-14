@@ -1,0 +1,31 @@
+{
+  "course_id": "1206365803",
+  "platform": "mooc_cn",
+  "title": "数据库原理与应用",
+  "description": "数据库管理已经从一种专门的计算机应用发展为现代企业管理中的常用工具，无论你将来从事哪个行业的工作，数据库都是重要的基础技能。在本课程中我们会讲述数据库的基本理论和实际应用等相关知识，帮助大家掌握在不同的管理领域中利用数据库工具进行数据组织、管理和操作的技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206365803",
+  "instructors": [
+    {
+      "name": "翟丹妮;徐润森;李宏伟;查敦林",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13500,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

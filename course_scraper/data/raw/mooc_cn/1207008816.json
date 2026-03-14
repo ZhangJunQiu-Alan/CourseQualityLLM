@@ -1,0 +1,31 @@
+{
+  "course_id": "1207008816",
+  "platform": "mooc_cn",
+  "title": "动物病理",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207008816",
+  "instructors": [
+    {
+      "name": "方向红;高月秀;陈高;李芙蓉;孙谦;李刘慧;刘运镇;於敏(YU Min);董亚青（Dong Yaqing）;王琳琳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏农牧科技职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 38416,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

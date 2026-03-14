@@ -1,0 +1,26 @@
+{
+  "course_id": "Nt3AeXmtEe-cBRK_mZB3Bw",
+  "platform": "coursera",
+  "title": "Advanced JavaScript 3: Objects, Collections, Functions",
+  "slug": "advanced-javascript-3-objects-collections-functions",
+  "description": "In this course, you'll explore some of JavaScript’s most powerful features to enhance your coding skills. You’ll learn how to design and manage custom objects, as well as work with advanced patterns for handling collections and functions. These concepts will help you write cleaner, more efficient code and leverage JavaScript’s unique capabilities to handle complex scenarios effectively.\n\nThere are 3 sections in this course:\n\n1. Creating Custom Objects: Learn how to create custom objects using factory functions, constructor functions, and classes. Explore inheritance via the prototype chain, the use of methods like apply(), call(), and static methods, as well as defining getters, setters, and private fields for controlled property access.\n\n2. Collections and Symbols: Discover efficient data management with JavaScript’s Map and Set collections, and explore Symbols, a unique, immutable data type for private or globally unique properties in objects.\n\n3. Advanced Function Patterns and Generators: Master advanced function techniques including closures, IIFE’s, and recursion. Learn about throttling and debouncing to optimize function execution, and use generators to create controlled iterable sequences.\n\nBy the end of the course, you’ll have a wealth of knowledge on modern JS techniques and patterns, giving you the ability to write more efficient, scalable code.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-javascript-3-objects-collections-functions",
+  "instructors": [
+    {
+      "name": "Tom Chant",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Scrimba"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

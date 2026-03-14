@@ -1,0 +1,26 @@
+{
+  "course_id": "jZPeA8oUEfCeRwr_9S6d4Q",
+  "platform": "coursera",
+  "title": "Design Patterns & Fundamentals in Node.js",
+  "slug": "packt-design-patterns-and-fundamentals-in-node-js-dww5l",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nMastering design patterns in Node.js is an essential skill for developing maintainable and scalable applications. This course will guide you through the core principles of design patterns, from creational and structural to behavioral and advanced patterns, using real-world Node.js examples. By learning these patterns, you will enhance your ability to write cleaner code, manage dependencies effectively, and build robust systems.\n\nThe course is divided into eight comprehensive modules, starting with an introduction to the prerequisites and course structure. You’ll explore various design patterns in-depth, from the Singleton and Factory patterns to the Strategy and State patterns. The course also covers advanced topics such as asynchronous task cancellation and asynchronous initialization, demonstrating how to handle concurrency and manage asynchronous workflows efficiently.\n\nThe journey will take you through practical examples and case studies that challenge you to think critically and apply these patterns in real-world situations. \nThis course is ideal for developers who have a basic understanding of Node.js and wish to deepen their knowledge of design patterns. It is suitable for intermediate-level learners looking to sharpen their skills in building scalable and maintainable software systems. Familiarity with JavaScript and basic web development concepts is recommended.\n\nBy the end of the course, you will be able to apply design patterns such as Singleton, Factory, and Observer in Node.js, manage asynchronous flows with async/await and promises, and enhance your application's performance and scalability through advanced patterns.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-design-patterns-and-fundamentals-in-node-js-dww5l",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

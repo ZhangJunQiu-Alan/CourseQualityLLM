@@ -1,0 +1,31 @@
+{
+  "course_id": "1449643174",
+  "platform": "mooc_cn",
+  "title": "软件测试与质量保证",
+  "description": "通过本课程学习，使学生系统化地学习软件质量保证、软件测试的概念、原理和方法，培养学生软件测试与质量保证的能力，为学生从事测试工程师、质量保证工程师岗位奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449643174",
+  "instructors": [
+    {
+      "name": "董瑞志;宋东兴;苏超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2790,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

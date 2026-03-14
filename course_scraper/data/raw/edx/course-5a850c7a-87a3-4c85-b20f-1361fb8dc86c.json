@@ -1,0 +1,34 @@
+{
+  "course_id": "course-5a850c7a-87a3-4c85-b20f-1361fb8dc86c",
+  "platform": "edx",
+  "title": "Introduction to psychology of personality",
+  "description": "Personality Psychology aims to explain the way humans act and how individual behaviour remains consistent and coherent. The course explores the main theories and methods in the field of personality psychology, how it developed, and the role of cognitive processes i.e. the mechanisms involved in the acquisition and elaboration of information, in the construction of our individual personalities. \n Space will also be given to the recent Positive Orientation theory, highlighting its importance and potential as an integral part of research perspectives in personality psychology.",
+  "learning_goals": [
+    "Personality Psychology",
+    "Research",
+    "Psychology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "claudio-barbaranelli",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Università degli Studi di Napoli Federico II"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 728,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

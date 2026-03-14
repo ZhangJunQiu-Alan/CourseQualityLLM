@@ -1,0 +1,31 @@
+{
+  "course_id": "1003499005",
+  "platform": "mooc_cn",
+  "title": "机械原理",
+  "description": "四川大学“机械原理”课程是四川省精品课程，是机械类各专业必修的基础核心课程。本课程可以为希望从事机械产品的创新、开发、设计和服务工作的人员，提供必不可少的专业知识，包括机构结构分析基本知识、机构的运动分析方法、机器动力学基本知识及常用机构分析与设计。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003499005",
+  "instructors": [
+    {
+      "name": "李敬敏;马咏梅;高山;张顶成;刁燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23177,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

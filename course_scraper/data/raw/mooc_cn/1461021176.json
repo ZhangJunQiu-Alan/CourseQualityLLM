@@ -1,0 +1,31 @@
+{
+  "course_id": "1461021176",
+  "platform": "mooc_cn",
+  "title": "工程管理概论",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461021176",
+  "instructors": [
+    {
+      "name": "宁延;袁竞峰;成虎;刘静;陆彦;李德智;吴伟巍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17021,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1449929189",
+  "platform": "mooc_cn",
+  "title": "C51与单片机应用技术",
+  "description": "本课程是电控类相关专业能力课程，主要以“人机交互、监测控制”能力培养为出发点，以学生认知规律安排对应项目实例学习，按照知识学习、案例实践 、拓展提高三步法，课前、课中、课后相结合，培养学生对C51和单片机相关知识的掌握和其扩展能力的提高，通过学习使学员初步掌握对智能电控产品设计方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449929189",
+  "instructors": [
+    {
+      "name": "庄乾成",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15100,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003483003",
+  "platform": "mooc_cn",
+  "title": "动物学",
+  "description": "北京师范大学动物学课程有长期的积淀，教学团队不断更新教学理念、完善教学内容，立足基础和吸纳前沿，课程始终保持着旺盛生命力。课程教学改革成果两获国家级教学成果奖，课程被评为“国家级精品课程”（2004）、“国家精品资源共享课”（2013）、首批“国家一流线上本科课程”（2020），获评教育部“动物学”课程虚拟教研室（2022）。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003483003",
+  "instructors": [
+    {
+      "name": "张雁云;董路;韩洁;邓文洪;夏灿玮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 59139,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

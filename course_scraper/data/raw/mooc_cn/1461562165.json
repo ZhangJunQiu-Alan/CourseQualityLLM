@@ -1,0 +1,31 @@
+{
+  "course_id": "1461562165",
+  "platform": "mooc_cn",
+  "title": "实变函数",
+  "description": "本课程是第三批国家级线下一流本科课程，陕西省课程思政示范课程，也是智慧课程，含有知识图谱、智能助手等智能功能，可供各高校相关专业学生以及社会学习者学习使用。《实变函数》是数学类专业的重要专业核心基础课之一，主要讲述勒贝格积分理论。它不仅是《数学分析》中经典黎曼积分的改进与完善，更是学生进一步学习泛函分析、Fourier分析、概率论、分形几何、偏微分方程和调和分析等后继专业课程的基础。希望大家通过本课程的学习能够掌握勒贝格积分和微分的知识体系和思想，在掌握专业知识的同时培养自己的科学精神和科学思维，提升自己的抽象思维能力和数学素养。祝大家学习愉快！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461562165",
+  "instructors": [
+    {
+      "name": "张丽;肖伟;宋学力;王凯明;曹倩;邓佳威;包雄雄",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长安大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15285,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

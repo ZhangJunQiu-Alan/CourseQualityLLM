@@ -1,0 +1,31 @@
+{
+  "course_id": "1206327801",
+  "platform": "mooc_cn",
+  "title": "理论力学（动力学专题）",
+  "description": "哈工大理力教研室是全国最早成立的理力教研室，曾主持制定了全国第一部理论力学教学大纲。本课程为国家精品课程、国家精品资源共享课程、基础力学国家级教学团队的重要组成课程，所编教材是使用范围最广，发行量最大的《理论力学》教材。课程负责人曾凡林教授入选哈工大教学青年拔尖人才计划，曾获国家教学成果二等奖、全国基础力学青年教师讲课比赛一等奖、宝钢全国优秀教师奖等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206327801",
+  "instructors": [
+    {
+      "name": "曾凡林;郝志伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18969,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

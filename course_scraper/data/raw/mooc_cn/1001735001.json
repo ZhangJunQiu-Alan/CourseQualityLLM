@@ -1,0 +1,31 @@
+{
+  "course_id": "1001735001",
+  "platform": "mooc_cn",
+  "title": "走进数字媒体",
+  "description": "我们的生活离不开各种各样的媒体，它们是我们表达、传递、接受信息的媒介。随着信息技术的发展，数字媒体越来越普遍地走入我们的日常生活中。数字媒体技术作为信息技术与媒体文化相结合的产物，涉及的研究内容多、关键技术深、应用领域广、人才需求大。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001735001",
+  "instructors": [
+    {
+      "name": "苏东伟;曾珍;张乐天;许欣欣;顾旭飞;谢坚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 61646,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

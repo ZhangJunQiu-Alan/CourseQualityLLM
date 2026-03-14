@@ -1,0 +1,31 @@
+{
+  "course_id": "1003044001",
+  "platform": "mooc_cn",
+  "title": "微处理器与嵌入式系统设计",
+  "description": "随着互联网3.0时代的到来，物联网正在重新定义新经济世界的生活方式和工作方式，以嵌入式计算机系统设计为基础的智能终端植入技术将为世界各地的用户创造丰富的“智能触点”。本课程的学习将帮助您迈入嵌入式微处理器系统设计的技术殿堂，了解物联网中智能终端的工作原理与设计方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003044001",
+  "instructors": [
+    {
+      "name": "阎波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30113,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

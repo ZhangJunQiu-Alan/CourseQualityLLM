@@ -1,0 +1,26 @@
+{
+  "course_id": "usSrw8CQEfCGXRKdI9StnQ",
+  "platform": "coursera",
+  "title": "Kubernetes & Cloud Native Associate (KCNA) Prep",
+  "slug": "packt-kubernetes-cloud-native-associate-kcna-prep-h12ek",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course prepares you for the Kubernetes and Cloud Native Associate (KCNA) exam by covering key Kubernetes concepts and cloud-native technologies. You will explore the fundamentals of container orchestration, Kubernetes architecture, and essential components like pods, deployments, and services. Learn how to set up and manage Kubernetes clusters, configure networking, and implement best practices for security, including RBAC and network policies.\nWith hands-on demonstrations, you'll dive into Kubernetes objects, storage, and services, while also gaining insights into cloud-native observability tools. \nThis course is ideal for those preparing for the KCNA exam and IT professionals seeking to deepen their Kubernetes knowledge.\nBy the end of the course, you’ll be able to deploy and manage Kubernetes clusters, secure applications, and utilize cloud-native tools for monitoring and application delivery.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-kubernetes-cloud-native-associate-kcna-prep-h12ek",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1450794222",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "没有物质的世界是虚无的世界，没有能量的世界是死寂的世界，没有信息的世界则是混乱的世界。我们每天都在同各种信号打交道，通过信号传递的信息来认识世界、了解世界，进而改造世界。人与人、人与物、物与物之间的交互都离不开信号。我们正处于一个高速发展的信息时代，5G网络、物联网、智联网、人工智能、机器人、虚拟现实等不断出现的新技术正改变着我们的生活、出行、学习等方式，那么它们共同的原理是什么呢？请跟随湘潭大学信号处理课程团队来学习《信号与系统》课程，带您揭开信号、系统、卷积、滤波、傅里叶变换、拉普拉斯变换等的神秘面纱。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450794222",
+  "instructors": [
+    {
+      "name": "李伯勋;刘钢;曾金芳;张勇;杨恢先;嵇海宁;曾以成;许冉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湘潭大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9551,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206685808",
+  "platform": "mooc_cn",
+  "title": "运动控制系统安装调试与运行",
+  "description": "无锡职业技术大学开设的《运动控制系统安装调试与运行》课程是江苏省“十四五”职业教育在线精品课程，曾获评国家精品课程。课程以施耐德PLC、变频器、伺服系统等典型工控产品为载体，帮助学生了解三大工业控制系统之一的运动控制系统；掌握变频、伺服系统典型应用；学会运动控制系统的构建、调试及简单故障排除。课程资源丰富，不但有教学视频、操作视频、现场设备视频，还有PPT、数字化课程讲义、设备手册，以及视频内练习、单元练习、作业、考试等。本课程亦可用于变频器类相关课程的线上学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206685808",
+  "instructors": [
+    {
+      "name": "赵翱东;陆荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6654,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

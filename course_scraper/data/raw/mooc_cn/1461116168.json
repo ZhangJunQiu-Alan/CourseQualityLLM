@@ -1,0 +1,31 @@
+{
+  "course_id": "1461116168",
+  "platform": "mooc_cn",
+  "title": "计算机辅助生物过程设计",
+  "description": "现代过程设计理念已广泛应用于各个工业领域，鉴于生物过程的特殊性和复杂性，利用合适的计算机辅助工具（如SuperPro Designer），进行系统的过程开发和评价显得尤为重要。通过计算机辅助生物过程设计，可以实现：(1) 全流程建模，全局把控流程，促进过程的整体优化，实现资源的科学安排；(2) 合理评价工艺参数，评估新技术，整合原料/设备和各项消耗，提高过程的整体效率；(3) 系统分析成本要素，改善过程经济性，降低生产成本，为生物制造过程提供合理指导。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461116168",
+  "instructors": [
+    {
+      "name": "林东强;于浩然;卢丹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4674,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

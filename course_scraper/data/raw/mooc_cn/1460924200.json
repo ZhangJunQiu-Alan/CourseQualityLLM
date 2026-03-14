@@ -1,0 +1,31 @@
+{
+  "course_id": "1460924200",
+  "platform": "mooc_cn",
+  "title": "物理化学（下）",
+  "description": "《物理化学》是化学、材料、能源、环境、生物、医药、农业等专业的必修课程。通过该课程的学习，学生可以全面系统地了解物理化学的基本原理和知识，掌握如何运用物理和数学的理论和方法研究化学变化的基本规律。学会灵活运用热力学和动力学的相关原理和知识辩证地解决生产生活和科学实验中与化学相关的各种理论和实际问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460924200",
+  "instructors": [
+    {
+      "name": "孙艳辉;马国正;邓峰;李国良;郑奇峰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华南师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3838,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

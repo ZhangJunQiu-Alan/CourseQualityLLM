@@ -1,0 +1,26 @@
+{
+  "course_id": "M1AcJuI0EfC_4g4vtP_l4w",
+  "platform": "coursera",
+  "title": "Build End-to-End RPA Solutions with UiPath",
+  "slug": "build-end-to-end-rpa-solutions-with-uipath",
+  "description": "Learners will develop the ability to design, implement, and optimize an end-to-end Robotic Process Automation (RPA) solution using UiPath. By the end of this course, learners will be able to prepare structured input data, configure queue-based transaction processing, automate web applications, handle business and system exceptions, implement dynamic email notifications, and modularize workflows for maintainable automation.\n\nThis hands-on, project-driven course guides learners through a complete real-world UiPath automation using industry best practices. Rather than focusing on isolated activities, the course emphasizes building a production-ready automation that mirrors how RPA solutions are developed in enterprise environments. Learners gain practical experience working with Excel input files, Orchestrator queues, web automation, error handling using Try-Catch, and reusable workflow design.\n\nWhat makes this course unique is its strong focus on real project execution and architectural thinking. Learners not only learn how to automate but also why design decisions matter for scalability, reliability, and maintainability. Upon completion, learners will be well-prepared to apply UiPath RPA concepts confidently in professional automation projects and enterprise settings.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-end-to-end-rpa-solutions-with-uipath",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

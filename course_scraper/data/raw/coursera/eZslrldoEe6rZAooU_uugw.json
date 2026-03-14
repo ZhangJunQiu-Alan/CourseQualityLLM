@@ -1,0 +1,26 @@
+{
+  "course_id": "eZslrldoEe6rZAooU_uugw",
+  "platform": "coursera",
+  "title": "Data Storytelling with Power BI",
+  "slug": "data-storytelling-with-power-bi",
+  "description": "Welcome to the Data Storytelling with Power BI course, where you'll embark on a journey to acquire practical expertise in data transformation and visualization. Leverage the potential of Power BI to create narratives through structured data, leading to the discovery of more profound insights. \n\nThroughout this course, you'll explore the industry-specific applications of Power BI and delve into its various features and functionalities. \n\nBy the end of this course, you’ll be able to:\n- Explain essential concepts in data connectivity, transformation, and modeling using Power BI effectively.\n- Apply DAX formulas and functions to create measures, build relationships, and perform advanced calculations.\n- Design engaging and interactive visuals, reports, and dashboards to address diverse business requirements.\n- Evaluate Power BI Service capabilities to deploy, secure, and publish reports for scalable, data‑driven insights.\n\nThis course is designed for a diverse audience: freshers, data analyst, business analysts, business intelligence analyst and IT professionals who are looking to enhance their data analysis skills through Power BI. \n\nPrior experience with Microsoft Excel or spreadsheet applications can be beneficial when working with Power BI.\n\nEmbark on an educational voyage to master Microsoft Power BI and enhance your skills in creating efficient Reports and Dashboards using the Power BI ecosystem.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 weeks of study, 3-4 hours /week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-storytelling-with-power-bi",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

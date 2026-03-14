@@ -1,0 +1,26 @@
+{
+  "course_id": "wFuyfqktEeywagovoAKHOQ",
+  "platform": "coursera",
+  "title": "Hardening Default GKE Cluster Configurations",
+  "slug": "googlecloud-hardening-default-gke-cluster-configurations-akguq",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. This lab demonstrates some of the security concerns of a default GKE cluster configuration and the corresponding hardening measures to prevent multiple paths of pod escape and cluster privilege escalation",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "1.5 hours ",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-hardening-default-gke-cluster-configurations-akguq",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

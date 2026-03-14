@@ -1,0 +1,38 @@
+{
+  "course_id": "course-c4cd77f1-9d1f-4478-bb4a-45f90fcd71d4",
+  "platform": "edx",
+  "title": "IT Support Case Studies",
+  "description": "In this Capstone, you will demonstrate your ability to perform in an Information Technology (IT) Support role by applying your new knowledge to real-world situations. You will practice analyzing user help requests and troubleshooting various issues that a Tech Support role would encounter. \n You’ll demonstrate your knowledge of hardware, software, networking, security, and cloud computing – all areas with which a tech support role interacts regularly. You'll also showcase your knowledge and understanding of escalation, levels of support, ticketing systems, and other support tools and systems, as well as communication and customer service skills for delivering technical support. \n This course also includes a final exam that contains questions on the topics and style found in the CompTIA IT Fundamentals (Tech+) Certification Exam. It serves as this program’s final exam, helps you practice for the Certification, and measures your preparedness. By the end of the Capstone course, you’ll be equipped with the technical support skills that are found in everyday professional settings. \n Before taking this course, it is highly recommended that you first complete all the previous courses in the IBM IT Support Professional Certificate.",
+  "learning_goals": [
+    "Technical Support",
+    "Communications",
+    "Cloud Computing",
+    "Customer Service",
+    "Troubleshooting (Problem Solving)",
+    "CompTIA IT Fundamentals",
+    "Information Technology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 301,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

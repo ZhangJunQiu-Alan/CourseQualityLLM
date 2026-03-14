@@ -1,0 +1,26 @@
+{
+  "course_id": "qS2YVVmHEfCekhJDthqyWw",
+  "platform": "coursera",
+  "title": "Integrating Python for Web Systems, Testing, and Packaging",
+  "slug": "integrating-python-for-web-systems-testing-and-packaging",
+  "description": "This course is designed to guide learners through the complete pipeline of Python-based web application development, from structured document parsing to cross-platform deployment and performance tuning. Through three progressively advanced modules, learners will apply, construct, and evaluate server-side scripting techniques, Python-based integration tools, and distribution mechanisms.\n\nIn Module 1, learners will explore the foundations of web content parsing, using libraries such as Tidy and Beautiful Soup, and will demonstrate the creation and debugging of CGI-based web applications.\n\nIn Module 2, learners will construct dynamic server-side components using Python Server Pages (PSP), implement XML-RPC communication, and validate their applications with testing tools like doctest and unittest, followed by evaluating performance using profiling tools.\n\nIn Module 3, learners will demonstrate integration with external platforms like Java and .NET through Jython and IronPython, analyze memory management using reference counting, and construct Python packages using distutils for scalable application deployment.\n\nThis hands-on, project-based course enables learners to not only build web solutions but also optimize and package them efficiently for diverse environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/integrating-python-for-web-systems-testing-and-packaging",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

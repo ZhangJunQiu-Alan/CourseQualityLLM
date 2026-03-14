@@ -1,0 +1,26 @@
+{
+  "course_id": "WHan-XWWEe-Quwr_1ABTmQ",
+  "platform": "coursera",
+  "title": "Incident Response and Risk Management",
+  "slug": "packt-incident-response-and-risk-management-ce9ny",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this comprehensive course, you will delve into the key components of effective incident response and risk management. The journey begins with building a strong foundation in response planning, focusing on preparation, detection, analysis, containment, and recovery strategies. Through real-world examples and scenarios, you’ll learn how to develop robust incident response plans that are vital during crises such as the COVID-19 pandemic. Each episode provides practical insights and guidance, ensuring you can confidently handle incidents within any IT environment.\n\nNext, you will explore the intricacies of digital forensics, gaining skills in evidence preservation and chain-of-custody management. You’ll also understand how to effectively test and train your incident response capabilities to ensure your team is well-prepared for any eventuality. The course further covers mitigation techniques, emphasizing the importance of continuous improvement in your response strategies. Practical advice from industry experts, including insights into NIST cybersecurity frameworks, ensures a well-rounded understanding of these critical concepts.\n\nIn the final sections, you will dive into the NIST Risk Management Framework (RMF), learning to integrate security and risk management into your organization’s operations. You will gain a thorough understanding of how to categorize information systems, establish risk management scopes, and implement effective system security plans. The course concludes with business continuity strategies, backup and recovery methods, and the application of virtualization and cloud technologies to ensure seamless recovery and resilience in the face of disruption.\n\nThis course is designed for IT and audit professionals, cybersecurity practitioners, and those involved in organizational risk management. A basic understanding of IT security concepts is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-incident-response-and-risk-management-ce9ny",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

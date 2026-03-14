@@ -1,0 +1,26 @@
+{
+  "course_id": "GA_Sr3PzEeyrDAqvINCGXQ",
+  "platform": "coursera",
+  "title": "Architecting Google Kubernetes Engine: Foundations in italiano",
+  "slug": "foundations-google-kubernetes-engine-gke-it",
+  "description": "\"In questo corso, \"\"Architecting with Google Kubernetes Engine: Foundations\"\", troverai un ripasso del layout e dei principi di Google Cloud, seguito da un'introduzione alla creazione e alla gestione dei container software, nonché all'architettura di Kubernetes.\n \n Si tratta del primo corso della serie Architecting with Google Kubernetes Engine. Dopo il completamento di questo corso, iscriviti al corso Architecting with Google Kubernetes Engine: Workloads.\"",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 6-8 hours/week",
+  "language": "it",
+  "url": "https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-it",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

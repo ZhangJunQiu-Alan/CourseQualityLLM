@@ -1,0 +1,34 @@
+{
+  "course_id": "course-c6ad9bb7-cafc-48c8-92e5-5f0900460e66",
+  "platform": "edx",
+  "title": "English Grammar and Style",
+  "description": "With the rise of social media and the Internet, many people are writing more today for different mediums than ever before. We'll present materials that cover grammatical principles, word usage, writing style, sentence and paragraph structure, and punctuation. We'll introduce you to some marvelous resources that we have annotated for your guidance. We'll show you video clips of interviews conducted with distinguished grammarians, challenge you with quizzes and writing activities that will give you strategies to help you to build skills that will enhance the quality of your writing, and invite you to participate in discussions and assess the work of your peers.",
+  "learning_goals": [
+    "Writing",
+    "Punctuation And Capitalization",
+    "Grammar"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "roslyn-petelin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Queensland"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8098,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

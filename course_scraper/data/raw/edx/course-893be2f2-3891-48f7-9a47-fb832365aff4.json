@@ -1,0 +1,37 @@
+{
+  "course_id": "course-893be2f2-3891-48f7-9a47-fb832365aff4",
+  "platform": "edx",
+  "title": "Mathematics 1 Part 1: Differential Calculus",
+  "description": "Mathematics 1 Part 1 is the first of two self-paced courses from LSE which aim to introduce and develop your understanding of essential mathematical concepts, methods and techniques. This course can be taken alone or as part of the LSE MicroBachelors program in Mathematics and Statistics Fundamentals.  \n Part 1 covers the following topics: \n \n \n Functions and graphs \n \n \n The derivative \n \n \n Curve sketching and optimisation \n \n \n Functions of two variables and partial derivatives \n \n \n Critical points of two-variable functions \n \n \n This course will equip you with the skills to solve unseen mathematical problems in these areas and will emphasise their applications to problems in economics, management, and related areas.",
+  "learning_goals": [
+    "Basic Math",
+    "Differential Calculus",
+    "Management",
+    "Sketching",
+    "Statistics",
+    "Economics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 12-15 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "siri-kouletsis",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The London School of Economics and Political Science"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1048,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

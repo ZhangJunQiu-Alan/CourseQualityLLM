@@ -1,0 +1,26 @@
+{
+  "course_id": "Y8YQkHGTEe6vVQ4BPfdaww",
+  "platform": "coursera",
+  "title": "Asset Pricing Fundamentals",
+  "slug": "asset-pricing-fundamentals",
+  "description": "The course Asset Pricing I will provide students with the main theoretical and analytical tools to study and understand the economics of financial markets and portfolio choices. After learning the different structure that financial markets can take and the key functions that these perform, learners will analyze how financial markets affect saving and investment decisions in an economy with no uncertainty. \nThen, learners will be introduced to expected utility theory, which will provide them with the key analytical tools to study choices under uncertainty. These tools will then be used to model and analyze portfolio choices: first, learners will study the so-called canonical portfolio problem, that is, the problem of an investor who has to choose how to allocate their wealth between a safe and a risky asset; then, they will study portfolio choices that involve multiple risky assets. \nThe analysis of portfolio choices will allow learners to characterize and determine investors’ optimal demand for risky assets, which will lay the foundation for the analysis of the Capital Asset Pricing Model, a milestone for asset pricing and financial economics. \nThe analysis of the CAPM will finally teach learners how to characterize equilibrium returns and asset prices in financial markets, also understanding the key forces that govern these key variables.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/asset-pricing-fundamentals",
+  "instructors": [
+    {
+      "name": "Lorenzo Pandolfi",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Università di Napoli Federico II"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

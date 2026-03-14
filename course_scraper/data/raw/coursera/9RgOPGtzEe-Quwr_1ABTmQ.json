@@ -1,0 +1,26 @@
+{
+  "course_id": "9RgOPGtzEe-Quwr_1ABTmQ",
+  "platform": "coursera",
+  "title": "Data Structures and Algorithms: Merge Sort",
+  "slug": "learn-algorithms-merge-sort-in-javascript",
+  "description": "In this course, you'll practice your software craftsmanship skills by coding six different merge sort algorithms. Each solution will teach you a new technique for solving problems as a software developer and level up your computer science skills in general.\n\nThe course aims to help working developers or bootcamp graduates to step up their software design skills by learning to think algorithmically.\n\nAlong the way, you'll learn to code six alternative implementations of the Merge Sort algorithm, as well as algorithm analysis and a handful of powerful design patterns.\n\nBy the end, you’ll be more confident in your CS skills and have sharper problem-solving abilities.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/learn-algorithms-merge-sort-in-javascript",
+  "instructors": [
+    {
+      "name": "Jonathan Lee Martin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Scrimba"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

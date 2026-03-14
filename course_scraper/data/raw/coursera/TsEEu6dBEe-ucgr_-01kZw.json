@@ -1,0 +1,26 @@
+{
+  "course_id": "TsEEu6dBEe-ucgr_-01kZw",
+  "platform": "coursera",
+  "title": "HDFS Architecture and Programming",
+  "slug": "hdfs-architecture-and-programming",
+  "description": "The course “HDFS Architecture and Programming” offers a comprehensive understanding of the Hadoop Distributed File System (HDFS) architecture, components, and advanced programming techniques. You will gain practical experience in setting up and configuring Hadoop for Java development, while mastering key concepts such as file and directory CRUD operations, data compression, and serialization. By the end of the course, you will be proficient in using HDFS to handle large-scale data processing, enabling you to build scalable, high-availability solutions. \n\nWhat sets this course apart is its hands-on approach, where you will work directly with HDFS, writing client programs and applying advanced techniques such as using Sequence and Map Files for specialized data storage. Whether you're new to Hadoop or looking to refine your existing skills, this course equips you with the tools and knowledge to become proficient in HDFS programming, making you a valuable asset in the field of Big Data.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 4-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/hdfs-architecture-and-programming",
+  "instructors": [
+    {
+      "name": "Karthik Shyamsunder",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

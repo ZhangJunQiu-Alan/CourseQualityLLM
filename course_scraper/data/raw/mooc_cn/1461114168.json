@@ -1,0 +1,31 @@
+{
+  "course_id": "1461114168",
+  "platform": "mooc_cn",
+  "title": "跨境电子商务",
+  "description": "欢迎大家学习跨境电子商务课程",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461114168",
+  "instructors": [
+    {
+      "name": "冯宗宪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7233,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

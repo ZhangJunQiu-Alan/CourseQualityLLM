@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753205",
+  "platform": "mooc_cn",
+  "title": "决策模拟",
+  "description": "现代管理学是定性和定量相结合的学科，科学的管理决策不能仅是定性研究，还需要依托定量分析；另一方面，随着管理复杂性的提高，有必要通过计算机辅助来解决和处理实际工作中的管理决策问题。因此，本课程综合运用管理学知识和计算机工具，从定量分析和计算机模拟的角度来研究管理决策问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753205",
+  "instructors": [
+    {
+      "name": "李毅心",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5196,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

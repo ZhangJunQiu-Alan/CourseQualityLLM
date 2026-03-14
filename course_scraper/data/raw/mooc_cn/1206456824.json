@@ -1,0 +1,31 @@
+{
+  "course_id": "1206456824",
+  "platform": "mooc_cn",
+  "title": "计量经济学导论",
+  "description": "本课程是一门入选国家一流线上课程的计量经济学入门课程。学生经过理论知识模块、实证研究模块和上机操作模块的锤炼，将掌握使用横截面数据，面板数据和时间序列数据建模和分析的理论基础和操作技巧。本课程的特色是：1.深入浅出，体系完整，可以灵活选择模块学习；2.理论推导严谨，实际操作具体； 3.使用Stata软件。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206456824",
+  "instructors": [
+    {
+      "name": "陈志鸿;潘红宇;唐丹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "对外经济贸易大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 89883,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

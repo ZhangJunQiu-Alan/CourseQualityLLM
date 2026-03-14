@@ -1,0 +1,24 @@
+{
+  "course_id": "course-d04bae51-9058-45bc-9b1b-92ecc929bfcf",
+  "platform": "edx",
+  "title": "Networking Basics and Security",
+  "description": "The US Bureau of Labor Statistics forecasts a 32% growth in information security analyst jobs until 2032. These analysts are in demand as part of the team that keeps networks secure. \n This course provides practical hands-on computer networking and network security experience that employers want. Through innovative hands-on labs, you’ll learn how to secure a small home office network (SOHO), install and configure DHCP, and filter DNS. You’ll also get real-world practice installing and using an open-source Extended Detection and Response (XDR) system. \n Additionally, you’ll build valuable supporting knowledge of ports, protocols, and IP addresses, including IPv6 and network routing. You’ll learn about layer 2 and 3 addressing, routers, and routing tables. \n Plus, you’ll develop knowledge of cybersecurity analyst tools for data protection, endpoint protection, and Security information and event management (SIEM), which you can apply to an organization’s compliance and threat intelligence needs, which is crucial in today’s cybersecurity landscape. \n You’ll complete a final project where you will demonstrate your ability to perform network and security planning tasks. \n Networking and network security skills pay. Invest in yourself and enroll today!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1215,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

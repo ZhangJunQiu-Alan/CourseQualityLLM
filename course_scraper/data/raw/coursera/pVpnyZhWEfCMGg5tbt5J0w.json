@@ -1,0 +1,26 @@
+{
+  "course_id": "pVpnyZhWEfCMGg5tbt5J0w",
+  "platform": "coursera",
+  "title": "Transitioning from Console to WinForms with Source Control",
+  "slug": "packt-transitioning-from-console-to-winforms-with-source-control-prn8k",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you will learn how to seamlessly transition from building C# console applications to creating fully functional Windows Forms (WinForms) applications, while incorporating source control for a professional development workflow. The course begins with setting up a GitHub account and adding your Visual Studio solutions to source control, providing you with the foundational skills to manage and track your projects.\n\nYou’ll then dive into WinForms basics, starting with setting up your environment using Visual Studio 2022. Learn how to create a simple car rental application, and understand how to work with controls, properties, and events in WinForms. As you build your first applications, you’ll gain hands-on experience with form validation, exception handling, and integrating databases using SQL Server and ADO.NET.\n\nThrough this course, you’ll acquire the essential skills to create database-driven WinForms applications. You’ll learn to work with SQL Server Express, set up databases, and utilize Language Integrated Query (LINQ) to interact with your database, making your applications dynamic and interactive.\n\nThis course is perfect for developers who already have a basic understanding of C# and want to transition into WinForms development. It’s ideal for those looking to create more advanced, interactive applications and manage their code effectively with source control. Prerequisites include basic knowledge of C# programming and familiarity with Visual Studio.\n\nBy the end of the course, you will be able to create Windows Forms applications, manage your projects with GitHub, interact with databases using ADO.NET and LINQ, and implement exception handling and form validation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-transitioning-from-console-to-winforms-with-source-control-prn8k",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206685803",
+  "platform": "mooc_cn",
+  "title": "电机学",
+  "description": "南通大学《电机学》是国家一流课程，课程从加强培养工程实践能力出发，注重电机基础知识与工程实践应用相结合，重点突出，由浅入深地阐述了变压器、直流电机、异步电机、同步电机的运行原理。                  现在，让我们一起开启学习《电机学》之旅吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206685803",
+  "instructors": [
+    {
+      "name": "易龙芳;秦岭;高宁宇;杨慧;顾菊平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8974,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "BBWz15fDEeu46w60Xgbpdw",
+  "platform": "coursera",
+  "title": "Computer Vision in Microsoft Azure",
+  "slug": "computer-vision-microsoft-azure",
+  "description": "In Microsoft Azure, the Computer Vision cognitive service uses pre-trained models to analyze images, enabling software developers to easily build applications\"see\" the world and make sense of it. This ability to process images is the key to creating software that can emulate human visual perception. In this course, you'll explore some of these capabilities as you learn how to use the Computer Vision service to analyze images.\n\nThis course will help you prepare for Exam AI-900: Microsoft Azure AI Fundamentals. This is the third course in a five-course program that prepares you to take the AI-900 certification exam. This course teaches you the core concepts and skills that are assessed in the AI fundamentals exam domains.  This beginner course is suitable for IT personnel who are just beginning to work with Microsoft Azure and want to learn about Microsoft Azure offerings and get hands-on experience with the product. Microsoft Azure AI Fundamentals can be used to prepare for other Azure role-based certifications like Microsoft Azure Data Scientist Associate or Microsoft Azure AI Engineer Associate, but it is not a prerequisite for any of them.\n\nThis course is intended for candidates with both technical and non-technical backgrounds. Data science and software engineering experience is not required; however, some general programming knowledge or experience would be beneficial.  To be successful in this course, you need to have basic computer literacy and proficiency in the English language. You should be familiar with basic computing concepts and terminology,  general technology concepts, including concepts of machine learning and artificial intelligence.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks of study, 1-2 hours/week.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/computer-vision-microsoft-azure",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

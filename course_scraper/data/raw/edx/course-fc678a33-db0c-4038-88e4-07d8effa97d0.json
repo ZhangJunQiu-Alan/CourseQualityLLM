@@ -1,0 +1,46 @@
+{
+  "course_id": "course-fc678a33-db0c-4038-88e4-07d8effa97d0",
+  "platform": "edx",
+  "title": "Mastering Generative AI for Cybersecurity",
+  "description": "Generative AI is transforming cybersecurity, enabling faster threat detection, proactive defense strategies, and advanced solutions to combat sophisticated attacks. This course builds skills in valuable generative AII techniques and tools that help cybersecurity professionals effectively handle complex cybersecurity challenges.  \n During the course, you’ll explore undetected vulnerabilities by leveraging AI and machine learning. You’ll learn the foundational principles of gen AI and their practical applications in cybersecurity, including user and entity behavior analytics (UEBA), threat intelligence, report summarization, automated playbooks, countering phishing, malware, misinformation, and deepfakes. Plus, you’ll look at natural language processing attack techniques, such as prompt injection, and the strategies to counteract them.  \n You’ll learn how generative AI transforms Security Information and Event Management (SIEM) and Security Operations Center (SOC) workflows. The course covers how generative AI enhances incident response, threat detection, and vulnerability management.  \n You’ll also review the latest advancements in gen AI for cyber defense and threat prediction. Plus, you’ll complete real-world practical exercises, hands-on labs, and a final project where you’ll apply your skills.  \n If you’re an existing or aspiring cybersecurity professional looking to add in-demand gen AI skills to your resume, enroll today!",
+  "learning_goals": [
+    "Security Operations",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Workflow Management",
+    "Cyber Threat Intelligence",
+    "Threat Detection",
+    "Phishing",
+    "Security Information And Event Management (SIEM)",
+    "Demand Generation",
+    "Vulnerability Management",
+    "Cyber Defense",
+    "Vulnerability",
+    "Cyber Security",
+    "Forecasting",
+    "Natural Language Processing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "3 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 996,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+  "course_id": "course-490f5022-588e-40c8-841e-2c1a070ca801",
+  "platform": "edx",
+  "title": "Introduction to Quantum Mechanics",
+  "description": "This course will delve into quantum mechanics by introducing learners to its core principles, mathematical foundations, and real-world applications. From understanding the fundamental concepts to exploring practical examples, this course aims to equip learners with the knowledge and tools necessary to understand the importance of quantum mechanics and appreciate its potential to the future world.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ella-meyer-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "conan-lee",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "harshinee-sriram",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of British Columbia"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 411,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

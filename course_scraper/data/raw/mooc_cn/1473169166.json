@@ -1,0 +1,31 @@
+{
+  "course_id": "1473169166",
+  "platform": "mooc_cn",
+  "title": "微分方程数值解法",
+  "description": "《微分方程数值解》是本专业核心课程，内容涵盖微分方程数值解法的基础理论、数值方法和编程实现等。现有教材的知识和内容过于陈旧，与实际科研有些脱节，教材内容缺乏前沿性。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473169166",
+  "instructors": [
+    {
+      "name": "张继伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 43,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

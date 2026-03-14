@@ -1,0 +1,31 @@
+{
+  "course_id": "1003422002",
+  "platform": "mooc_cn",
+  "title": "数据库技术与应用",
+  "description": "本课程以MySQL数据库管理系统为平台，以案例教学法为讲解模式，介绍了数据库系统的基本概念和数据库应用技术。课程随着技术的发展，同时提供MySQL5.6和MySQL8.0版本的讲解视频，满足不同学校、企业、师生的多种需求。与MySQL8.0版本配套的教材《MySQL数据库技术与应用（慕课版）（第2版）》 ISBN：978-7-115-60050-9已于2023年2月1日正式出版，请广大学习者自行参考。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003422002",
+  "instructors": [
+    {
+      "name": "李纪云;何连连;张铁头;张素青;宋欢;赵大鹏;翟慧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22701,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

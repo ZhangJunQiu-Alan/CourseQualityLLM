@@ -1,0 +1,31 @@
+{
+  "course_id": "1002920013",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术基础",
+  "description": "早上你可能被手机闹铃叫醒，开始翻看朋友圈信息，在学校餐厅刷射频卡就餐之后，背着笔记本电脑来到教室开始一天的学习，晚上你可能带着智能手环入眠。你会发现，电子产品无处不在。你是否也想了解电子技术了呢？  《模拟电子技术基础》（模电）课程是在电子技术方面入门性质的基础课程，新增了multisim仿真及模电习题课内容，欢迎大家选修。课程采用平台的证书政策。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002920013",
+  "instructors": [
+    {
+      "name": "刘纪红;赵丽红;李景宏;孙宇舸;杨楠;田亚男;程同蕾;雷红玮;沈鸿媛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 83333,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

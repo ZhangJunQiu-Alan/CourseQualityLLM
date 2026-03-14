@@ -1,0 +1,53 @@
+{
+  "course_id": "course-1a666720-9507-4ea7-992e-8a956c83d775",
+  "platform": "edx",
+  "title": "HTML5 and CSS Fundamentals",
+  "description": "This course is part of  W3C's \"Front-End Web Developer\" Professional Certificate . \n Learn the basic building blocks of Web design and style – HTML5 and CSS – to give your site a professional look and feel. We guide you step-by-step in how to use the latest Web standards to create a site to be proud of. \n By the end of the course, you should understand all the fundamental elements – from headers and links to images and sidebars – and leave having built a basic framework for your own Web site. \n  This course has been initially developed by Dale A. Schouten, Anusha Muthiah and Christopher Perkins, as part of a partnership between W3C and Intel®.",
+  "learning_goals": [
+    "Web Development",
+    "Web Standards",
+    "HTML5",
+    "Look And Feel",
+    "Front End (Software Engineering)",
+    "Web Design",
+    "Cascading Style Sheets (CSS)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "marwa-hussein",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "andrew-byrne",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "adrian-leven",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "gerry-obrien",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The World Wide Web Consortium (W3C)"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 957,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

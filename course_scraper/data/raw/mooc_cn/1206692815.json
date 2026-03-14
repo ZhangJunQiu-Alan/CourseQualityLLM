@@ -1,0 +1,31 @@
+{
+  "course_id": "1206692815",
+  "platform": "mooc_cn",
+  "title": "生物统计与试验设计",
+  "description": "“生物统计与试验设计”课程主要讲述数据资料的收集、整理、分析和解释方法以及常用试验设计方法，同时学习使用EXCEL和R语言统计分析软件进行数据处理。课程内容丰富；结合例题讲解通俗易懂；演示加讲解教授统计软件使用直观易学；主讲教师具有多年本课程教学经验；最后还有线下学生汇报交流生物统计在科研工作中的应用课堂实录。欢迎大家选课学习、分享交流！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206692815",
+  "instructors": [
+    {
+      "name": "郑惠玲;魏泽辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25354,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

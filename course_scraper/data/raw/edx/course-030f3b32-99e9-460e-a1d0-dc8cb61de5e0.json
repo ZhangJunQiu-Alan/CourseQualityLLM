@@ -1,0 +1,48 @@
+{
+  "course_id": "course-030f3b32-99e9-460e-a1d0-dc8cb61de5e0",
+  "platform": "edx",
+  "title": "Cyber Defense: Penetration Testing, Threat Hunting, and Cryptography",
+  "description": "The cost of a security breach averages nearly $5M (IBM) and is increasing every year. So, businesses are always looking for professionals who can anticipate threats and prevent them. This IBM Penetration Testing, Threat Hunting, and Cryptography course builds expertise in identifying vulnerabilities, protecting assets, and using AI and cryptography techniques to strengthen an organization’s cybersecurity posture.  \n During the course, you’ll explore the penetration testing phases and gain practical experience performing software pen testing and scanning code repositories. You’ll also learn to create comprehensive pen testing reports, perform threat hunting, and integrate AI into threat intelligence. Plus, you’ll learn to leverage cyber threat intelligence (CTI) frameworks for effective threat identification. Finally, you’ll explore cryptography, including encryption, decryption, and hashing techniques, while also learning about common cryptographic attacks and cryptanalysis methods.  \n To complete the hands-on labs and project, you’ll require a laptop or desktop and basic knowledge of networking and cybersecurity.  \n This course is ideal for existing and aspiring cybersecurity professionals looking to enhance their skills and advance their careers. It is recommended that you have fundamental knowledge of IT systems and cybersecurity principles prior to starting this course.  \n If you’re looking to build in-demand cybersecurity skills in threat prevention, enroll today! In five weeks, you’ll add penetration testing, threat hunting, and cryptography to your resume.",
+  "learning_goals": [
+    "Data Collection",
+    "Cyber Security",
+    "Scripting",
+    "Cryptography",
+    "Cyber Threat Hunting",
+    "Cyber Defense",
+    "Penetration Testing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "skills-network",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dee-dee-collette-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-manish-kumar-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 780,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001774002",
+  "platform": "mooc_cn",
+  "title": "模拟电子电路实验",
+  "description": "“模拟电子电路实验”在线课程精心选择实验项目，以实验目的、实验原理、实验举例讲解为基础，引导学习者通过设计仿真、在线自主实验和实验报告撰写等多个环节，提高模拟电子电路的实验技能、设计能力以及发现问题、分析问题、解决问题的综合能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001774002",
+  "instructors": [
+    {
+      "name": "堵国樑;郑磊;李霞;刘琳娜;黄慧春",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22290,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

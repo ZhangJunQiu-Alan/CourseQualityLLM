@@ -1,0 +1,30 @@
+{
+  "course_id": "course-1dc2b7e4-21ab-4c39-9da0-1784d3321948",
+  "platform": "edx",
+  "title": "Machine Learning and AI with Python",
+  "description": "It’s time to make a decision: beach or mountains? When choosing where you want to go for vacation, it can be simple. The options may be a or b. From a decision-making standpoint, it’s easy for the brain to process this decision tree. But, what happens when you’re faced with more complex, multifaceted decisions? You might make a comprehensive pro/con list, rank ordering the most important considerations. But, that can take endless amounts of time that you might not have to spare. When parsing through thousands or millions of data points, you and your organization need to tap into a more sophisticated approach.  \n The solution? Harnessing the power of artificial intelligence (AI) through machine learning to enhance your decision-making processes. Machine learning with Python can not only help organize data, but machines can also be taught to analyze and learn from disparate data sets – forming hypotheses, creating predictions, and improving decisions. \n In Machine Learning and AI with Python, you will explore the most basic algorithm as a basis for your learning and understanding of machine learning: decision trees. Developing your core skills in machine learning will create the foundation for expanding your knowledge into bagging and random forests, and from there into more complex algorithms like gradient boosting.  \n Using real-world cases and sample data sets, you will examine processes, chart your expectations, review the results, and measure the effectiveness of the machine’s techniques. \n Throughout the course, you will witness the evolution of the machine learning models, incorporating additional data and criteria – testing your predictions and analyzing the results along the way to avoid overtraining your data, mitigating overfitting and preventing biased outcomes. \n Put your data to work through machine learning with Python.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "pavlos-protopapas-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41926,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

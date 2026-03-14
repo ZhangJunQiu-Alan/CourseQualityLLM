@@ -1,0 +1,26 @@
+{
+  "course_id": "HOpuOakxEeywagovoAKHOQ",
+  "platform": "coursera",
+  "title": "Protecting Data with NetApp Cloud Manager & Cloud Volumes ONTAP for Google Cloud",
+  "slug": "googlecloud-protecting-data-with-netapp-cloud-manager-cloud-volumes-ontap-iojct",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.\nIn this lab, you will learn how to implement a full data protection strategy with NetApp Cloud Volumes ONTAP and Cloud Manager capabilities.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-protecting-data-with-netapp-cloud-manager-cloud-volumes-ontap-iojct",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

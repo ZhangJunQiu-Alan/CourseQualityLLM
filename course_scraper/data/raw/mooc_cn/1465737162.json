@@ -1,0 +1,31 @@
+{
+  "course_id": "1465737162",
+  "platform": "mooc_cn",
+  "title": "基础医学概论",
+  "description": "基础医学是专门研究生命与疾病的本质及治疗原理的一组学科群，涵盖了人体解剖学、组织胚胎学、分子生物学、生理学、生物化学、医学微生物学、医学免疫学、人体寄生虫学、机体病理学等多门学科。它是临床医学、预防医学和药学等医学相关学科的理论基础。正是由于基础医学的建立和发展，医学才逐渐由只知其然而不知其所以然的阶段进入了知其所以然而后使其然的阶段。没有基础医学的长足发展，就不可能有医学的日新月异。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465737162",
+  "instructors": [
+    {
+      "name": "强磊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国药科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7865,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

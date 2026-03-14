@@ -1,0 +1,26 @@
+{
+  "course_id": "5H_dQ6ktEeywagovoAKHOQ",
+  "platform": "coursera",
+  "title": "Visualize the 10,000 Bitcoin Pizza Transaction Using BigQuery and AI Notebooks",
+  "slug": "googlecloud-visualize-the-10-000-bitcoin-pizza-transaction-using-bigquery-c2igp",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab you will use an AI Platform Notebook instance to retrieve as many transactions as possible from BigQuery within 2 degrees of separation from the pizza exchange, post-process the transactions to remove excess transaction, then visualize the directed graph.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "45 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-visualize-the-10-000-bitcoin-pizza-transaction-using-bigquery-c2igp",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

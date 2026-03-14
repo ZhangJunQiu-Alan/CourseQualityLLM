@@ -1,0 +1,31 @@
+{
+  "course_id": "1003254002",
+  "platform": "mooc_cn",
+  "title": "美术欣赏",
+  "description": "《美术欣赏》慕课以欣赏中外美术经典作品为课程内容，该课程主要围绕美术基础语言和基本术语，中外优秀美术作品和艺术家艺术流派，美术欣赏的基本方法与思维模式等美育要素，从而培养大学生基本的审美素养，浸润心灵，体味艺术的魅力，并进一步提高中外优秀文化传承和创意、创新、拓展的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003254002",
+  "instructors": [
+    {
+      "name": "甄巍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 59406,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

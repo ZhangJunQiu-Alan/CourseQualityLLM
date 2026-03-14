@@ -1,0 +1,31 @@
+{
+  "course_id": "1473673167",
+  "platform": "mooc_cn",
+  "title": "大学启航【飞鹰计划】预备营",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473673167",
+  "instructors": [
+    {
+      "name": "后保研",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "MOOC考培"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

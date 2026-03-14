@@ -1,0 +1,26 @@
+{
+  "course_id": "lbHNC-oxEfCOdQ63PWC_Sw",
+  "platform": "coursera",
+  "title": "Apply PowerShell Scripting for Automation and Projects",
+  "slug": "apply-powershell-scripting-for-automation-and-projects",
+  "description": "By completing this course, learners will be able to explain core PowerShell concepts, use cmdlets effectively, create and debug scripts, apply logical decision-making, develop a real-world PowerShell application, and automate tasks using scheduling for unattended execution.\n\nThis course is designed to take learners from foundational knowledge to applied PowerShell automation in a clear, structured, and practice-driven manner. Starting with PowerShell basics, learners gain a solid understanding of cmdlets, scripting syntax, and the PowerShell environment before progressing to practical logic building and script organization. The course then transitions into a hands-on project where learners build a functional application and automate it using scheduling techniques.\n\nLearners benefit by acquiring job-relevant scripting skills that can be immediately applied to system administration, IT operations, and automation tasks. The inclusion of a complete project ensures learners do not just understand concepts but can implement them confidently in real scenarios.\n\nWhat makes this course unique is its end-to-end learning journey: fundamentals, logic building, real-world project development, and automation—combined into a single, cohesive learning experience focused on practical outcomes rather than isolated theory.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/apply-powershell-scripting-for-automation-and-projects",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

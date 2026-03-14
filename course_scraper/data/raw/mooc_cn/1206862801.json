@@ -1,0 +1,31 @@
+{
+  "course_id": "1206862801",
+  "platform": "mooc_cn",
+  "title": "中医临床护理学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206862801",
+  "instructors": [
+    {
+      "name": "叶然;杨敏;李玮彤;姜荣荣;徐桂华;黄丽娜;徒文静;严姝霞;王秋琴;徐秋月",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25777,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

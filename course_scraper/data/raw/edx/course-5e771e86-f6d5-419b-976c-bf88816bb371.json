@@ -1,0 +1,36 @@
+{
+  "course_id": "course-5e771e86-f6d5-419b-976c-bf88816bb371",
+  "platform": "edx",
+  "title": "Intro Course: Data Storytelling",
+  "description": "Learn to build a compelling narrative that drives business decisions using data. You will use Google Data Studio, basic design principles, and a no-code approach to storytelling to transform data points into powerful visuals. This course is ideal for early career professionals working to rise to strategic roles. \n This course is ideal for those interested in building their professional toolkit and growing their career with hard skills, such as: \n \n Google Data Studio and dashboard creation \n Fundamental visual design principles \n Visualization and presentation tools",
+  "learning_goals": [
+    "Design Elements And Principles",
+    "Storytelling",
+    "Presentations",
+    "Visual Design",
+    "Data Storytelling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 80-100 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "edx-boot-camps-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "edX"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 505,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

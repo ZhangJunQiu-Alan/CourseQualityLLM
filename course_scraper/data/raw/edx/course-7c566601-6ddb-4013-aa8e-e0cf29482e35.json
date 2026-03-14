@@ -1,0 +1,47 @@
+{
+  "course_id": "course-7c566601-6ddb-4013-aa8e-e0cf29482e35",
+  "platform": "edx",
+  "title": "Financial Accounting",
+  "description": "Accounting is the language of business. It is difficult to understand business without knowing some accounting. Knowing accounting will help learners better understand and contribute to their own companies and better understand business around them. This course also helps students use the financial statements to gather inputs to valuation models and for corporate finance decisions. \n Financial Accounting is part of the MicroMasters® Program in Finance. It provides a rigorous introduction to the principles of financial accounting. We focus on the preparation and analysis of financial statements, and on why financial statements take the form they do. We cover the basic structure of financial reports and the process of recording transactions. We will also learn how investors, creditors, and other users analyze financial statements to assess corporate performance. The course focuses on using the financial statements to gather inputs to valuation models and for corporate finance decisions. \n This course offers general managers, financial analysts, financial advisors, quantitative researchers, asset managers, risk managers, quantitative developers working in financial services, professionals servicing the financial industry the tools to succeed. Undergraduate and graduate students looking to enter business in general or finance in particular would also benefit greatly from this valuable course.",
+  "learning_goals": [
+    "Financial Services",
+    "Financial Analysis",
+    "Accounting",
+    "Financial Accounting",
+    "Corporate Finance",
+    "Planning",
+    "Chartered Financial Analyst",
+    "Business Performance Management",
+    "Finance",
+    "Financial Statements",
+    "Valuation Models"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "12 周，每周 10-14 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "john-core",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "egor-matveyev",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5995,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

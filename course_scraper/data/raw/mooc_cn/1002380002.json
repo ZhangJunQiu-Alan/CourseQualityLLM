@@ -1,0 +1,31 @@
+{
+  "course_id": "1002380002",
+  "platform": "mooc_cn",
+  "title": "工程制图基础",
+  "description": "工程制图被称为工程界的“技术语言”，是学习工程类专业的入门课程。本课程以现代工程应用为背景，旨在使学生掌握工程图纸的绘制方法和解读方法。是后续专业课程学习的基础，也是制造型企业大部分岗位需要掌握的岗位职业技能。本课程的知识是每位工程技术人员必备的知识。Engineering Drawing is often referred to as the \"technical language\" of the engineering field and serves as an introductory course. This course is set against the backdrop of modern engineering applications and aims to equip students with the skills to create and interpret engineering drawings. It serves as the foundation for subsequent specialized courses and is a crucial occupational skill required in various positions within manufacturing companies. The knowledge gained from this course is essential for every engineering professional.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002380002",
+  "instructors": [
+    {
+      "name": "周凌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡商业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13739,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

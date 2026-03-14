@@ -1,0 +1,26 @@
+{
+  "course_id": "ajxDcm7NEe-Quwr_1ABTmQ",
+  "platform": "coursera",
+  "title": "Security Operations",
+  "slug": "packt-security-operations-mrcgl",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this comprehensive course on Security Operations, you will gain the skills necessary to manage and secure ongoing operations within an organization, aligned with the latest CISSP curriculum. You will start by exploring the fundamentals of operational security, including forensic investigation standards, logging, and monitoring activities. You'll dive into the importance of Configuration Management (CM) and the use of logging tools like IDPS, SIEM, and SOAR to detect and prevent security threats.\n\nThe course also covers essential topics such as incident management, detection, and preventive measures, ensuring you can handle and respond to security breaches effectively. You'll learn how to apply media protection methods, manage patches, and implement change management processes that help reduce vulnerabilities in your IT environment. The focus on recovery strategies will teach you how to maintain business continuity during disruptions, while disaster recovery planning ensures your organization is prepared for any major incident.\n\nPhysical security and personnel safety are key components of operational security, and this course provides detailed insights into the methods and controls used to protect both digital and physical assets. You’ll explore contingency planning and continuity strategies, ensuring you are ready to implement resilient security operations in your organization. By the end of this course, you will have a comprehensive understanding of security operations, ensuring success in the CISSP exam and real-world cybersecurity environments.\n\nThis course is designed for IT professionals, security managers, and incident response teams preparing for the CISSP certification or seeking to enhance their expertise in Security Operations. A basic understanding of cybersecurity principles is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-security-operations-mrcgl",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

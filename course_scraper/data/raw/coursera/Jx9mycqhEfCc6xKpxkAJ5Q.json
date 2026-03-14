@@ -1,0 +1,26 @@
+{
+  "course_id": "Jx9mycqhEfCc6xKpxkAJ5Q",
+  "platform": "coursera",
+  "title": "Transform Audio: Extract Features & Augment Models",
+  "slug": "transform-audio-extract-features--augment-models",
+  "description": "Did you know that 80% of audio AI models fail in production due to acoustic variability they never encountered during training?  \n\nThis Short Course was created to help machine learning professionals accomplish robust audio processing through advanced feature extraction and data augmentation techniques.\n\nBy completing this course, you'll be able to transform raw audio waveforms into machine learning-ready features using spectral and cepstral analysis, and build automated augmentation pipelines that simulate real-world acoustic conditions your models will encounter in deployment.\n\nBy the end of this course, you will be able to:\n\nApply spectral and cepstral feature extraction techniques to audio data.\nCreate audio augmentation pipelines to improve the robustness of audio models.\nApply spectral and cepstral feature extraction techniques to preprocess and analyze audio data.\nDesign and implement audio augmentation pipelines to enhance model robustness and generalization\n\nThis course is unique because it combines theoretical signal processing foundations with practical pipeline implementation, giving you both the mathematical understanding and hands-on skills to build production-ready audio ML systems.\n\nTo be successful in this project, you should have a background in Python programming, basic machine learning concepts, and familiarity with audio processing libraries.\nThis course stands out by blending core signal processing theory with hands-on pipeline implementation, giving you both the mathematical grounding and practical experience required to build production-ready audio ML systems. To succeed, you should be familiar with Python, basic ML concepts, and common audio processing tools.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "127 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/transform-audio-extract-features--augment-models",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

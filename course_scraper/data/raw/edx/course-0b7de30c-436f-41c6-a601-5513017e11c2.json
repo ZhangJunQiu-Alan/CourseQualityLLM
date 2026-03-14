@@ -1,0 +1,54 @@
+{
+  "course_id": "course-0b7de30c-436f-41c6-a601-5513017e11c2",
+  "platform": "edx",
+  "title": "Crisis Resource Management",
+  "description": "Research suggests that lack of crisis resource management skills in the healthcare profession result in at least 100,000 deaths annually in the United States alone. This course will arm you with the critical skills to effectively make decisions and manage teams in a crisis situation, especially teams of strangers—a common occurrence for many health workers dealing with the COVID-19 pandemic. The course provides real-life examples and simulations for medical professionals to practice these skills. \n Crisis Resource Management (CRM) refers to the non-technical skills required for effective teamwork in a crisis situation. Based on lessons learned in the aviation industry, CRM can be applied in the health care setting and taught to practitioners to help teams to manage and prevent crises. This curriculum emphasizes shared decision-making and appropriate team management that crosses multiple disciplines and professions. \n This course makes CRM concepts accessible, moving away from theoretical and abstract presentations of the topics. It also contextualizes medical experiences in real-life examples or simulations. The basic and more elaborate concepts of CRM and utility of non-technical skills have a broad application across global health care environments, a curriculum that often is not exposed to health care students, residents, and fellows. \n The interactive format of this online course will allow us to explore cultural influences on these principles.",
+  "learning_goals": [
+    "Decision Making",
+    "Resource Management",
+    "Presentations",
+    "Team Management",
+    "Aviation",
+    "Customer Relationship Management",
+    "Cultural Influences",
+    "Teamwork"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "12 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "vivek-k-moitra",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-o-kessler",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jessica-spellman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "columbia-university-center-teaching",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Columbia University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 308,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

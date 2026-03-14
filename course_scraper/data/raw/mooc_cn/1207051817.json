@@ -1,0 +1,31 @@
+{
+  "course_id": "1207051817",
+  "platform": "mooc_cn",
+  "title": "现代教育技术应用",
+  "description": "《现代教育技术应用》是一门面向师范生和在职教师的课程。本课程以国家重点学科教育技术学专业基础课为依托，构建基于教师教学实践需求的课程内容体系，关注教育教学实践中的实际问题，并介绍了大量信息技术教育应用的新理念、新模式、新工具及新成果，为教师专业能力持续发展打下基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207051817",
+  "instructors": [
+    {
+      "name": "柯清超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华南师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28438,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

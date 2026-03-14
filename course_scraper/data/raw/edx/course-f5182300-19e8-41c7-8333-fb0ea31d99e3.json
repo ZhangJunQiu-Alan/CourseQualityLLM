@@ -1,0 +1,30 @@
+{
+  "course_id": "course-f5182300-19e8-41c7-8333-fb0ea31d99e3",
+  "platform": "edx",
+  "title": "Assessment Design with AI",
+  "description": "Conversational AI tools like ChatGPT have taken the world by storm, and education is one of the biggest areas for potential impact. \n In this course, teachers will learn how to adjust to the existence of these new technologies. To start, this course will teach some crucial strategies for adjusting existing assessments to expected student use of new AI tools so that you can remain assured your students are achieving your learning goals. \n Defensive adjustment of our assessments is just the starting point, though; from there, this course will move on to exciting ways you can leverage AI in your class, from teaching students how to use it as a “calculator” for writing to using it yourself to author engaging new assignments tailored to your specific context. \n At the end, you will come away with the confidence that not only are your students learning what you want them to learn, but that they are going beyond what they could have done in the past using new technologies.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-joyner",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 301,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

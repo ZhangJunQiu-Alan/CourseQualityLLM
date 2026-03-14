@@ -1,0 +1,31 @@
+{
+  "course_id": "1002533005",
+  "platform": "mooc_cn",
+  "title": "电磁场",
+  "description": "以麦克斯韦方程组为核心的电磁场理论是电工、电子和信息技术的理论基础，是发展与电磁效应相关领域高新技术不可或缺的本源知识。电磁场理论以数学形式反映电磁场的统一本质，是物理规律与数学语言的完美结合。我们诚恳邀请大家一起来探索和感受数学语言所描绘的电磁之美！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002533005",
+  "instructors": [
+    {
+      "name": "金钊;由佳欣;周学",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 37268,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

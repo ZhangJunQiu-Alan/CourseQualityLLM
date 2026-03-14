@@ -1,0 +1,31 @@
+{
+  "course_id": "1002339005",
+  "platform": "mooc_cn",
+  "title": "微电子器件",
+  "description": "在微电子器件课程的教学过程中，自始自终把培养学生掌握微电子器件的基本分析方法放在首位，培养学生具备举一反三，触类旁通的能力，使学生在将来的工作中能够进一步深入地学习、研究、设计及测试微电子器件打下坚实的基础。本课程采用的教材是陈星弼院士等编著的《微电子器件》。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002339005",
+  "instructors": [
+    {
+      "name": "刘继芝",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 32689,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1469915161",
+  "platform": "mooc_cn",
+  "title": "机械基础",
+  "description": "《机械基础》是高职高专院校机电一体化技术、机械制造及其自动化、工业机器人技术、电气自动化技术、模具设计与制造、数控技术、汽车等机械类和近机类的专业基础课，由工程力学基础、机械工程材料、常用机构、常用机械传动、常用机械零部件和公差与配合六大单元组成，各专业可以根据需要灵活选取单元进行学习，每个单元由若干个任务组成。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1469915161",
+  "instructors": [
+    {
+      "name": "孙妍;马勋;郝钢;曲杨;宋燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4294,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

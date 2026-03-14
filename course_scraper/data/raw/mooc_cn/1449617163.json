@@ -1,0 +1,31 @@
+{
+  "course_id": "1449617163",
+  "platform": "mooc_cn",
+  "title": "单片机应用技术",
+  "description": "本课程主要培养学生单片机控制系统的设计、分析、调试制作与维护能力，课程将知识点和技能点分散到项目中去学习和掌握，通过实际项目的设计制作，让学生掌握相关知识和技能，学生可借助KEIL软件和PROTEURS软件仿真实现单片机控制系统功能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449617163",
+  "instructors": [
+    {
+      "name": "陈峰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏商贸职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3357,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

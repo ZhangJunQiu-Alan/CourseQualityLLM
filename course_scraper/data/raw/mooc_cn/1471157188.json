@@ -1,0 +1,31 @@
+{
+  "course_id": "1471157188",
+  "platform": "mooc_cn",
+  "title": "基于物联网的水工艺仪表与智能控制",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471157188",
+  "instructors": [
+    {
+      "name": "周道;黄理志",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 103,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

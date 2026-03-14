@@ -1,0 +1,31 @@
+{
+  "course_id": "1461576161",
+  "platform": "mooc_cn",
+  "title": "基础设计",
+  "description": "基础设计课程是学科基础课向与专业课程的过渡中的一门专业基础课程，衔接起构成基础课和产品设计课。课程重点解决造型能力，即设计语法问题，希望能够使学生在学习完这门课程后，为后续的产品设计、专题设计课程打好基础，提高起设计实践能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461576161",
+  "instructors": [
+    {
+      "name": "林璐",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6812,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

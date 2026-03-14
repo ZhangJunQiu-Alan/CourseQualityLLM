@@ -1,0 +1,26 @@
+{
+  "course_id": "jc-FiG7HEfCBPw7Ay81q_Q",
+  "platform": "coursera",
+  "title": "Python: Apply & Evaluate Sales Forecasting with Time Series",
+  "slug": "python-apply-evaluate-sales-forecasting-time-series",
+  "description": "This practical, hands-on course equips learners with the skills to analyze, build, and evaluate sales forecasting models using advanced time series techniques in Python. Designed for learners with foundational Python skills, the course progresses from preprocessing raw time series data to implementing complex forecasting models including SARIMA and Facebook Prophet.\n\nLearners begin by preparing data through structured preprocessing, feature engineering, and time series decomposition to uncover patterns and trends. The course then guides learners in training and statistically evaluating SARIMA models, validating model performance, and visualizing predictions.\n\nThrough real-world comparisons of multiple datasets and categories, learners explore advanced model evaluation methods. The second half of the course focuses on the Prophet library, where learners will construct, visualize, and critically assess forecasts using Prophet’s intuitive capabilities for modeling trend, seasonality, and holidays.\n\nBy the end of the course, learners will be able to apply statistical reasoning, build robust forecasting models, compare prediction strategies, and visualize results to support data-driven sales decisions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/python-apply-evaluate-sales-forecasting-time-series",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

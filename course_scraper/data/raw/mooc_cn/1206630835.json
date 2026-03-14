@@ -1,0 +1,31 @@
+{
+  "course_id": "1206630835",
+  "platform": "mooc_cn",
+  "title": "汉语修辞学",
+  "description": "出言，陈辞，身之得失，国之安危也。……“人而无辞，安所用之。”……夫辞者，乃所以尊君重身，安国全性者也。故辞不可不修，说不可不善。——刘向《说苑·善说》",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206630835",
+  "instructors": [
+    {
+      "name": "陈汝东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 54862,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

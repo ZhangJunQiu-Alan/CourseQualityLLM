@@ -1,0 +1,26 @@
+{
+  "course_id": "5TfJSmhWEfCNmBLKjrx-sw",
+  "platform": "coursera",
+  "title": "Python: Logistic Regression & Supervised ML",
+  "slug": "python-logistic-regression-supervised-ml",
+  "description": "This hands-on course equips learners with the foundational knowledge and practical skills required to build and evaluate supervised machine learning models using Python. Designed around the real-world Titanic dataset, the course walks learners through the complete machine learning pipeline—from project setup and lifecycle understanding to model deployment readiness.\n\nIn Module 1, learners will define the machine learning project structure, identify essential Python libraries such as NumPy and pandas, and understand the conceptual foundations of algorithms including Decision Trees and Logistic Regression.\n\nIn Module 2, learners will apply exploratory data analysis techniques, clean and prepare datasets, and construct engineered features. They will also evaluate their models using metrics such as confusion matrices and cross-validation to improve model reliability and generalization.\n\nBy the end of this course, learners will be able to independently implement supervised learning models on real datasets and interpret results with confidence.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/python-logistic-regression-supervised-ml",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

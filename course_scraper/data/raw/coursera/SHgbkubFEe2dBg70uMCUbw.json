@@ -1,0 +1,26 @@
+{
+  "course_id": "SHgbkubFEe2dBg70uMCUbw",
+  "platform": "coursera",
+  "title": "Data Modeling in Power BI",
+  "slug": "data-modeling-in-power-bi",
+  "description": "This course forms part of the Microsoft Power BI Analyst Professional Certificate. This Professional Certificate consists of a series of courses that offers a good starting point for a career in data analysis using Microsoft Power BI.\n\nIn this course, you'll learn how to use Power BI to create and maintain relationships in a data model and form a model using multiple Schemas. You'll explore the basics of DAX, Power BI's expression language, and add calculations to your model to create elements and analysis in Power BI. You'll discover how to configure the model to support Power BI features for insightful visualizations, analysis, and optimization. \n\nAfter completing this course you'll be able to:\n\n●\tCreate and maintain relationships in a data model.  \n●\tForm a model using a Star Schema  \n●\tWrite calculations DAX to create elements and analysis in Power BI \n●\tCreate calculated columns and measures in a model \n●\tPerform useful time intelligence calculations in DAX \n●\tOptimize performance in a Power BI model  \n\nThis is also a great way to prepare for the Microsoft PL-300 exam. By passing the PL-300 exam, you’ll earn the Microsoft Power BI Data Analyst certification.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 3 - 5 hours/week.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-modeling-in-power-bi",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

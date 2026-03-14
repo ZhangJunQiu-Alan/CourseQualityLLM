@@ -1,0 +1,37 @@
+{
+  "course_id": "course-34ea79ed-b0c4-4a12-aeb6-64a5b507607a",
+  "platform": "edx",
+  "title": "Machine Learning with Python: A Practical Introduction",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n This Machine Learning with Python course dives into the basics of machine learning using Python, an approachable and well-known programming language. You'll learn about supervised vs. unsupervised learning, look into how statistical modeling relates to machine learning, and do a comparison of each. \n We'll explore many popular algorithms including Classification, Regression, Clustering, and Dimensional Reduction and popular models such as Train/Test Split, Root Mean Squared Error (RMSE), and Random Forests. Along the way, you’ll look at real-life examples of machine learning and see how it affects society in ways you may not have guessed! \n Most importantly, you will transform your theoretical knowledge into practical skill using hands-on labs. Get ready to do more learning than your machine! \n We'll explore many popular algorithms including Classification, Regression, Clustering, and Dimensional Reduction and popular models such asTrain/Test Split, Root Mean Squared Error and Random Forests. \n Mostimportantly, you will transform your theoretical knowledge into practical skill using hands-on labs. Get ready to do more learning than your machine!",
+  "learning_goals": [
+    "Unsupervised Learning",
+    "Machine Learning",
+    "Algorithms",
+    "Statistical Modeling",
+    "Python (Programming Language)",
+    "Random Forest Algorithm"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "saeed-aghabozorgi",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1659,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

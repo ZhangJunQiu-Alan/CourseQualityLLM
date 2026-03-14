@@ -1,0 +1,42 @@
+{
+  "course_id": "course-bb5e9463-0248-4f78-a337-b8bb9d829f2b",
+  "platform": "edx",
+  "title": "C Programming: Getting Started",
+  "description": "In this course, you will learn the principles of C programming and start coding hands-on in a browser tool that will provide instant feedback on your code.  \r\n The C programming language is one of the most stable and popular programming languages in the world. It helps to power your smartphone, your car's navigation system, robots, drones, trains, and almost all electronic devices. C is used in any circumstances where speed and flexibility are important, such as in embedded systems or high-performance computing.  \r\n In this course, you will get started with C and learn how to write your first programs, how to make simple computations and print the results to the screen, how to store values in variables and how to repeat instructions using loops.  \r\n Beginners, even those without any programming experience, will be able to immediately start coding in C with the help of powerful yet simple coding tools right within the web browser. No need to install anything!  \r\n We are excited to introduce you to the world of coding and launch you along your path to becoming a skilled C programmer!  \r\n This is the first course in the C Programming with Linux Professional Certificate program. This series of seven short courses will establish your programming skills and unlock doors to careers in computer engineering.  \r\n This course has received financial support from the Patrick &amp; Lina Drahi Foundation.",
+  "learning_goals": [
+    "Computer Engineering",
+    "Linux",
+    "Web Browsers",
+    "Smartphone Operation",
+    "C (Programming Language)",
+    "Embedded Systems"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "petra-bonfert-taylor",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "remi-sharrock",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dartmouth College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2210,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

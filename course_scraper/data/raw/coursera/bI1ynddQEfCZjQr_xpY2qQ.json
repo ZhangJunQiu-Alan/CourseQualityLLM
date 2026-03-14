@@ -1,0 +1,26 @@
+{
+  "course_id": "bI1ynddQEfCZjQr_xpY2qQ",
+  "platform": "coursera",
+  "title": "GUI Development and AI-Enhanced Programming",
+  "slug": "gui-development-and-ai-enhanced-programming",
+  "description": "This capstone course brings together all the skills learned to build practical applications using the C# language and .NET framework. Learners will design and develop multi-layered applications, integrate APIs, and implement testing strategies. The course culminates in a hands-on project where you’ll build and deploy a complete C# application.\n\nBy the end of this course, you will be able to:\n\nDesign and implement applications using the .NET framework\n\nIntegrate APIs and external libraries into C# applications\n\nApply testing and debugging strategies for production-ready code\n\nBuild and deploy a complete C# application project\n\nTools/Software: Microsoft Visual Studio, .NET SDK, Postman (for API testing)\n\nSkills: Application development, API integration, Testing, Deployment, .NET framework",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/gui-development-and-ai-enhanced-programming",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

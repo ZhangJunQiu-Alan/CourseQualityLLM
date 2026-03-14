@@ -1,0 +1,31 @@
+{
+  "course_id": "1003762007",
+  "platform": "mooc_cn",
+  "title": "雷达气象学",
+  "description": "天气雷达探测的降水回波信息是临近预报的最重要参考数据，要认识和理解天气雷达回波，需要掌握雷达气象学知识。本开放课程参考了国内外教学材料，精心安排和组织了讲课内容，既重视理论基础，也强调理论知识的应用，同时还结合当代双偏振天气雷达的相关内容。可供高校学生和气象业务和研究人员使用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003762007",
+  "instructors": [
+    {
+      "name": "沈菲菲;楚志刚;李南;黄兴友;寇蕾蕾;魏鸣;于华英",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17299,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

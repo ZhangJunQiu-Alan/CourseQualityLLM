@@ -1,0 +1,26 @@
+{
+  "course_id": "PPL-IKkuEeywagovoAKHOQ",
+  "platform": "coursera",
+  "title": "Understanding and Analyzing Your Costs with Google Cloud Billing Reports",
+  "slug": "googlecloud-understanding-and-analyzing-your-costs-with-google-cloud-billi-3slw7",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab, you familiarize yourself with Google Cloud Billing reports, which provides built-in cost reporting for GCP within the Google Cloud Console. You view Billing reports from a live billing account, understand current and forecasted GCP costs, and then analyze costs using report filters to identify cost drivers and trends",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "45 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-understanding-and-analyzing-your-costs-with-google-cloud-billi-3slw7",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

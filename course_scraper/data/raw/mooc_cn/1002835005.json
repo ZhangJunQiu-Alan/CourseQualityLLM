@@ -1,0 +1,31 @@
+{
+  "course_id": "1002835005",
+  "platform": "mooc_cn",
+  "title": "功能汉语速成",
+  "description": "看情景剧，学汉语！                      只需七周，轻松学初级交际汉语！不出国门，体验在北语学习汉语！ Watch TV series and learn Chinese！Master survival Chinese in 7 weeks！Experience student life at BLCU！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002835005",
+  "instructors": [
+    {
+      "name": "徐雨隽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京语言大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17531,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

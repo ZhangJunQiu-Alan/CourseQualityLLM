@@ -1,0 +1,26 @@
+{
+  "course_id": "pkGGJ4SKEe-L8RKezlgehQ",
+  "platform": "coursera",
+  "title": "Develop Code with Gemini in BigQuery",
+  "slug": "googlecloud-develop-code-with-gemini-in-bigquery-l6l2o",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab you learn how to use Gemini code generation, explanation and suggestions in BigQuery.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-develop-code-with-gemini-in-bigquery-l6l2o",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

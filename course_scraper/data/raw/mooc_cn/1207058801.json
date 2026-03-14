@@ -1,0 +1,31 @@
+{
+  "course_id": "1207058801",
+  "platform": "mooc_cn",
+  "title": "财税法",
+  "description": "政府治国理财的金钥匙，纳税人权利保护的利器！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207058801",
+  "instructors": [
+    {
+      "name": "侯卓;黎江虹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南财经政法大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21592,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

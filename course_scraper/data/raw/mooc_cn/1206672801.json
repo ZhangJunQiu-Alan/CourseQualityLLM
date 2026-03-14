@@ -1,0 +1,31 @@
+{
+  "course_id": "1206672801",
+  "platform": "mooc_cn",
+  "title": "常微分方程",
+  "description": "常微分方程是近现代各科学工程领域进行数学建模和定量研究的基本工具之一。这门核心课程紧密联系了高等数学（微积分和线性代数）与实际应用，是后续许多数学和专业课程的基础。通过本课程的学习，学生将掌握微分方程的基本概念、基本理论和基本方法，以及了解到在不同科学领域里用常微分方程进行数学建模的一些典型实例。课程授课老师为浙江大学数学科学学院林智教授和童雯雯高级讲师。除了传统讲授外，课程还提供了经典建模实例的演示代码，课外延伸阅读文档及科普视频链接等教辅资源。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206672801",
+  "instructors": [
+    {
+      "name": "林智;童雯雯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 42442,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

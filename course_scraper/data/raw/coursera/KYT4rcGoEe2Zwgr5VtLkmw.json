@@ -1,0 +1,26 @@
+{
+  "course_id": "KYT4rcGoEe2Zwgr5VtLkmw",
+  "platform": "coursera",
+  "title": "Introduction to Networking and Cloud Computing",
+  "slug": "introduction-to-networking-and-cloud-computing",
+  "description": "This course forms part of a series of courses that offers a good starting point for a career in cybersecurity.  It will help you gain knowledge and skills related to networking and cloud computing and get you one step closer to the Microsoft Cybersecurity Analyst Professional Certificate, which requires no degree or prior experience.\n \nAfter completing this course you’ll be able to: \n•  Identify the main concepts of networking \n•  Explain common network infrastructure and monitoring \n•  Describe network security components, approaches, and mitigation \n•  Define and explain key concepts of the cloud computing environment, virtual machines, and cloud services.\n\nThis is also a great way to prepare for the Microsoft SC-900 exam. By passing the SC-900 exam, you’ll earn the Microsoft Security, Compliance, and Identity Fundamentals Certification.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "5 weeks of study, 3-5 hours/week.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-networking-and-cloud-computing",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

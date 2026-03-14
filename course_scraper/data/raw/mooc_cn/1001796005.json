@@ -1,0 +1,31 @@
+{
+  "course_id": "1001796005",
+  "platform": "mooc_cn",
+  "title": "走近化学",
+  "description": "《走近化学》课程着眼于传播化学文化和科学精神、提升大学生的科学素养。本课程以通俗易懂的形式，从衣食住行、环境、健康、能源、公共安全、情感等方面，引导大家探视化学的秘密，感受化学在人类社会发展中的重要性，发现并体验化学之美。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001796005",
+  "instructors": [
+    {
+      "name": "王玉霞;付记亚;张磊;王敬平;刘保英;牛景杨;胡卫平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9283,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

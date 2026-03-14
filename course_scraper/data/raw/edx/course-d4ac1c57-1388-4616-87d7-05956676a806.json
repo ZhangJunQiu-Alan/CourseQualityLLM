@@ -1,0 +1,59 @@
+{
+  "course_id": "course-d4ac1c57-1388-4616-87d7-05956676a806",
+  "platform": "edx",
+  "title": "3D GIS",
+  "description": "In this free online course you will learn fundamentals of third dimension 3D GIS mapping concepts and tools to visualize, analyze, and interpret geospatial data in 3D, enabling you to reveal patterns and relationships for more effective problem-solving and decision making. Short video tutorials and applications will move you through concepts in a manageable way. \n Maps are graphic representations of reality and help us understand and navigate the world around us. Maps can incorporate 3D content through contours, hillshading (3D modeling), and profile views. \n When the data include the third dimension, ArcGIS Scene mapping software allows us to navigate through the data in 3D space. This makes the data and the problem more understandable and reveals new visual insights. Data visualization and processing of the data sets in 3D allows us to include real-world elements in the analysis such as undulation of terrain and 3D extent of trees, building, and subsurface geology. \n Our world is three dimensional and many GIS applications now require 3D analysis. Esri’s ArcGIS Scene allows us to visualize GIS data on a world sphere. It provides a variety of tools for orientation, navigation, search, data preparation, building workflows and spatial analysis. \n 3D mapping and 3D visualization is used across a variety of industries, stakeholders, and academic disciplines. Use cases and concentrations include: \n \n Monitoring forest stand height and age \n Urban planning and 3D visualization \n Volumetric analysis of resource extraction from a mine or water level in a reservoir \n Watershed delineation to assess inundation risk, land management, environmental monitoring \n \n Verified track learners will receive one-year ArcGIS Pro Desktop (Windows) license with support only for tools used in the course in addition to unlimited course access and a verified certificate. \n Sign up for this online course or full GIS Essentials certificate today to expand your skillset in geographic information systems.",
+  "learning_goals": [
+    "Problem Solving",
+    "Geographic Information Systems",
+    "Workflow Management",
+    "Decision Making",
+    "ArcGIS (GIS Software)",
+    "Mapping",
+    "Planning",
+    "Spatial Data Infrastructures",
+    "Mapping Software",
+    "Cartographic Relief Depiction (Cartography)",
+    "3D Modeling",
+    "Spatial Analysis",
+    "GIS Mapping",
+    "Geology",
+    "Data Visualization",
+    "GIS Applications",
+    "Visualization",
+    "Land Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "santosh-panda",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "chris-smith",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "anushree-badola",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Alaska Fairbanks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 280,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

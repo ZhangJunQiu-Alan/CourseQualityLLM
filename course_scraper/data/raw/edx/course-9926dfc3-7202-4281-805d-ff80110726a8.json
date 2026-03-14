@@ -1,0 +1,38 @@
+{
+  "course_id": "course-9926dfc3-7202-4281-805d-ff80110726a8",
+  "platform": "edx",
+  "title": "Les fondements de la stratégie d’entreprise",
+  "description": "Quel est le secret d'une entreprise qui reéussit mieux qu'une autre ? Comment faire les bons choix stratégiques ? Ce cours proposera des réponses à ces questions au travers de nombreuses études de cas. Il vous fournira des outils et méthodes d'analyse indispensables pour comprendre les atouts ainsi que l'environnement concurrentiel des entreprises. \n Il s'agit d'une approche originale qui s'adresse à chacun et chacune, que vous soyez directeur/directrice, cadre, entrepreneur/entrepreneuse, étudiant.e ou tout simplement desireux/désireuse de savoir comment prendre des décisions réfléchies et cohérentes tout en poursuivant un objectif à long terme. \n Ce cours est construit comme un voyage en 6 escales au pays « stratégie ». Tout comme le stratège, le voyageur doit decider, prévoir et planifier son itinéraire en demeurant flexible. Il doit tenir un cap et connaître sa destination, car comme le disait Senèque : « il n'est pas de vent favorable à qui ne connait pas son port ».",
+  "learning_goals": [
+    "Entrepreneurship",
+    "Business Strategies"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 3-6 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "regis-coeurderoy",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alain-vas",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Université catholique de Louvain"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 701,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

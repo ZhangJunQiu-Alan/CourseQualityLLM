@@ -1,0 +1,26 @@
+{
+  "course_id": "8xY8KUbdEey7lA4KBiJhDQ",
+  "platform": "coursera",
+  "title": "Use SharePoint & Power Virtual Agent to Create Smart Chatbot",
+  "slug": "use-sharepoint-power-virtual-agent-create-smart-chatbot",
+  "description": "It is a common situation that, in any company, employees want to get general information about a topic they are interested in, for example, how many vacation days they have, when was the company founded, do they work on weekends, are there any dressing rules, who is the CEO and so on. Of course, there is always a person or multiple persons in the company who can give those answers, but there is a much better way of providing your colleagues with information they need then chasing those all-knowing employees for answers, and that is a fully automated chatbot created with Power Virtual Agent, which is one of the 4 main parts of the Power Platform.\n\nIn this 35-minutes long guided project, “Use SharePoint & Power Virtual Agent to Create Smart Chatbot”, you will create a SharePoint site and list, add some data to it and create a Power Virtual Agent chatbot which will automate the information flow from your company to the employees. Once the chatbot is up and running, you and your colleagues won’t have to bother other colleagues in person or send them emails or texts anymore, you will be able to have a nice and easy-going conversation with the bot behind the chatbot and find out the information you need. Since this project uses Office 365 services like SharePoint and Power Virtual Agent (part of the Microsoft Power Platform), you will need access to a Microsoft account and a Microsoft 365 Developer Program subscription account. In the video at the beginning of the project you will be given instructions on how to sign up for both.\n\nIf you are ready to create your artificial co-worker which will help you and your colleagues provide information to others, then this project is for you! Let's get started!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1.25 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/use-sharepoint-power-virtual-agent-create-smart-chatbot",
+  "instructors": [
+    {
+      "name": "Daniel Gregurić",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

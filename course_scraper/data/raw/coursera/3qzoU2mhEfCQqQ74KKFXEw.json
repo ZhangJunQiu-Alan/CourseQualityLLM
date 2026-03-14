@@ -1,0 +1,31 @@
+{
+  "course_id": "3qzoU2mhEfCQqQ74KKFXEw",
+  "platform": "coursera",
+  "title": "Practical Windows PowerShell Scripting: Unit 2",
+  "slug": "pearson-practical-windows-powershell-scripting-unit2",
+  "description": "This course is designed to guide you from the basics of script creation to advanced automation techniques. Starting with foundational scripting skills, you'll learn how to build and configure PowerShell scripts, create functions, and manage errors effectively. As you progress, you'll delve into more complex concepts like variable management, loop creation, and output sorting, enhancing the functionality and efficiency of your scripts. By the end of the course, you'll be equipped to automate script execution, generate alerts, and apply best practices in PowerShell scripting, empowering you to monitor and manage your network effortlessly.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 hours 14 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-practical-windows-powershell-scripting-unit2",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Brien Posey",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

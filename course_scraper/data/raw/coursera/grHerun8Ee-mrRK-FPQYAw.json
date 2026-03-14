@@ -1,0 +1,26 @@
+{
+  "course_id": "grHerun8Ee-mrRK-FPQYAw",
+  "platform": "coursera",
+  "title": "AI Agents and Agentic AI Architecture in Python",
+  "slug": "ai-agents-architecture-python",
+  "description": "Master the Art of Building Intelligent Python Agents That Think, Reason, and Act\n\nUnlock the full potential of Python for creating autonomous AI agents that solve complex problems without constant human direction. In this comprehensive course on AI Agents and Agentic AI with Python & Generative AI, you'll learn how to architect sophisticated agent systems that leverage Python's robust ecosystem and industry-standard capabilities.\n\nThis course takes you beyond the foundations covered in the AI Agents and Agentic AI with Python & Generative AI course to explore advanced patterns for building truly intelligent agents in Python. You'll delve into specialized techniques like self-prompting, expert personas, document-as-implementation, and multi-agent orchestration - all implemented with Python's powerful frameworks and libraries.\n\nWhat You'll Learn:\n\n- Self-Prompting Patterns in Python: Build agents that dynamically adopt different thinking modes to handle specialized tasks, transforming unstructured data into structured formats with clean Python implementations\n\n- Python-Based Expert Persona Systems: Implement consultation frameworks where agents can invoke domain experts for specialized knowledge while maintaining clean architecture\n\n- Document-as-Implementation: Use Python's powerful file handling to create systems where human-readable documents become executable business logic\n\n- Multi-Agent Collaboration with Python: Design sophisticated memory sharing and coordination mechanisms between specialized Python agents\n\n- Progress Tracking & Planning: Implement robust planning and reflection capabilities using Python's comprehensive tooling\n\n- Python Agent Safety & Trust Systems: Build transaction management and safety mechanisms that leverage Python's exception handling and security features\n\nBy the end of this course, you'll be equipped to build complex, production-ready agent systems in Python that can reason across multiple domains, handle complex workflows, and safely interact with real-world systems.\n\nWhether you're building productivity tools, automating complex business processes, or creating intelligent assistants, you'll have the Python-specific knowledge to implement agentic AI solutions that provide genuine business value.\n\nThis course will teach you these concepts using OpenAI's APIs, which require paid access, but the principles and techniques can be adapted to other LLMs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "~2hrs a week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/ai-agents-architecture-python",
+  "instructors": [
+    {
+      "name": "Dr. Jules White",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Vanderbilt University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

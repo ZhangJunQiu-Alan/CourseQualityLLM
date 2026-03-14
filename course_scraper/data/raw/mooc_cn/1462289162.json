@@ -1,0 +1,31 @@
+{
+  "course_id": "1462289162",
+  "platform": "mooc_cn",
+  "title": "供电系统",
+  "description": "该课程是最具铁道电气化专业特色的课程之一。它以数学、物理学、电路理论、电磁场、电机学、计算机技术为基础，是一门学习电力系统运行分析和电气化铁道供电系统总体方案设计的专业知识和技能的课程。课程的目标是综合应用电路理论、电磁场、电机学、电力系统分析等理论，对牵引供电领域复杂工程问题进行建模和求解；掌握供电系统的理论与分析方法，能够将其用于电气工程领域牵引供电系统复杂工程问题的分析与设计。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462289162",
+  "instructors": [
+    {
+      "name": "张丽;解绍锋;黄小红;刘炜;张戬;陈民武",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1896,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

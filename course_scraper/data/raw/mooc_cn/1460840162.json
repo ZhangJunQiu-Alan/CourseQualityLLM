@@ -1,0 +1,31 @@
+{
+  "course_id": "1460840162",
+  "platform": "mooc_cn",
+  "title": "中国民族音乐",
+  "description": "《中国民族音乐》主要从中国民歌、中国古琴艺术、中国古典舞、中国民族乐器四大类进行理论与艺术体验实践教学，实现中国传统艺术文化普及与艺术体验相结合的创新教学平台。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460840162",
+  "instructors": [
+    {
+      "name": "朱梅梵",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8395,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

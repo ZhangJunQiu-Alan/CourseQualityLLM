@@ -1,0 +1,26 @@
+{
+  "course_id": "4ule2kadEfCnugr_-njfqw",
+  "platform": "coursera",
+  "title": "H2O Label Genie Starter Track",
+  "slug": "h2o-label-genie-starter-track",
+  "description": "Data labeling is one of the most critical and time-consuming steps in any AI or machine learning pipeline, accounting for over 50% of the project lifecycle .\n\nIn this beginner-friendly course, you will learn how to dramatically accelerate this process using H2O Label Genie, H2O.ai’s intelligent data annotation platform designed to simplify, automate, and scale your labeling workflows.\n\nThe H2O Label Genie Starter Track equips you with foundational and practical knowledge to start labeling text, image, and audio data using AI-powered tools. \n\nWhether you’re a data scientist, ML engineer, analyst, or AI enthusiast, this course provides hands-on guidance on creating and exporting annotations, exploring datasets, and applying advanced techniques such as zero-shot labeling, dataset clustering, and LLM integration for text labeling.\n\nThrough structured walkthroughs and real-world examples, you’ll gain experience with:\n\n\t•\tLabel Genie’s user interface and annotation workflows\n\t•\tText summarization and classification\n\t•\tEfficient dataset exploration and task management\n\t•\tSeamless integration with H2O’s ML tools like Driverless AI and LLM Studio\n\nBy the end of this course, you’ll have the skills and confidence to reduce manual effort, improve data quality, and enhance your AI model performance using H2O Label Genie.\n\nTake your first step toward faster, smarter, and AI-assisted data labeling with H2O Label Genie.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 weeks of study, 30 minutes/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/h2o-label-genie-starter-track",
+  "instructors": [
+    {
+      "name": "H2O.ai University",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "H2O.ai"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

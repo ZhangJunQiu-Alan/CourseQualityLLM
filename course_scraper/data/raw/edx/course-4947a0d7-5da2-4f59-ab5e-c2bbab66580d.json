@@ -1,0 +1,79 @@
+{
+  "course_id": "course-4947a0d7-5da2-4f59-ab5e-c2bbab66580d",
+  "platform": "edx",
+  "title": "Sustainable Aviation: The Route to Climate-Neutral Aviation",
+  "description": "Sustainable aviation is a key area for climate action. In this course, we will introduce you to various aircraft technologies, and recent innovations and promising future developments in the field of aviation. All necessary mathematical and engineering concepts will explained. \n We will start from the basics of how aircraft fly and how they impact the environment. You will gain present-day knowledge of technical solutions and possibilities of modern engineering to make aviation more sustainable. \n Next, we will discuss solutions. you will learn about alternative propulsion methods, energy carriers (batteries, fuel cells) and novel aircraft designs (including the Flying V project at TU Delft, a new design for a highly energy-efficient and long-distance commercial aircraft.) We will also bust some common myths about the topics along the way, like why it is a very unpractical thought to simply cover up the entire aircraft with solar cells. \n But the solutions presented will not cover just the technical aspects. You will discover the importance of the ecosystem surrounding aviation for its sustainability, including manufacturing and operations. The course will stimulate critical and creative thought about the future of aviation and how you can be part of those solutions. \n With its long history of research of aircraft design, operations and climate effects, the world-class experts from the The Faculty of Aerospace Engineering at TU Delft will guide you through this journey to sustainable aviation. The course will also include guest lectures from industry professionals from leading aviation companies such as Airbus. \n “We need climate-neutral aviation. The challenges are enormous, but solutions must and will be found. Through this MOOC we want to share what we know, so that all of you can be part of this ‘clean sky revolution’.” – Henri Werij, Dean Faculty of Aerospace Engineering at TU Delft \n Parts of the lecture materials in this course build upon outputs from the research projects AHEAD (Advanced Hybrid Engines for Aircraft Development), funded by the European Union within the FP7-TRANSPORT Research Program (grant agreement ID: 284636); and PARSIFAL (Prandtlplane Architecture for the Sustainable Improvement of Future Airplanes) funded by the European Union within the Horizon 2020 Research and Innovation Program (Grant Agreement n.723149).",
+  "learning_goals": [
+    "Innovation",
+    "Manufacturing Operations",
+    "Aircraft Design",
+    "Aerospace Engineering",
+    "Basic Math",
+    "Batteries",
+    "Aviation",
+    "Propulsion"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "henri-werij",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "irene-fernandez-villegas",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "arvind-gangoli-rao",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "bruno-santos",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "roelof-vos",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "maurice-hoogreef",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "joris-melkert",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "irene-dedoussi",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "carmine-varriale",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 417,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

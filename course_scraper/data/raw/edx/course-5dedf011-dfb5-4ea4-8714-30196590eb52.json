@@ -1,0 +1,37 @@
+{
+  "course_id": "course-5dedf011-dfb5-4ea4-8714-30196590eb52",
+  "platform": "edx",
+  "title": "Product Design: The Delft Design Approach",
+  "description": "Do you want to learn how to design? Using the Delft Design Approach, you will learn how to use a number of key design methods to create meaningful products and services. \n This course is an introduction to the Delft Design Approach offering a model and a set of signature methods from Delft to teach you how to get from understanding the user in context to defining a meaningful design challenge and - in the end - deliver a great design! The course challenges you to experience the design process yourself and reflect on your work with the help of students and excellent teaching staff from Delft, and industrial experts. \n No previous knowledge of design methods is required, yet some experience with designing (something) is helpful.  \n This course has been awarded with the 2015 Open Education Award for Excellence in the category 'Open MOOC' by the Open Education Consortium.",
+  "learning_goals": [
+    "Product Design"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "annemiek-van-boeijen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jaap-j-j-daalhuizen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 545,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

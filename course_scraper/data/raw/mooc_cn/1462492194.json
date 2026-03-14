@@ -1,0 +1,31 @@
+{
+  "course_id": "1462492194",
+  "platform": "mooc_cn",
+  "title": "半导体物理与器件",
+  "description": "本课程主要介绍了半导体物理的一些重要基本概念，并在此基础上选择目前集成电路与系统的核心组成部分，如ＭOS场效应晶体管（MOSFET）等作为分析讨论的主要对象介绍半导体器件基础相关内容。学习和掌握半导体物理与器件的基本理论和分析方法，为将来从事微电子学器件设计与研究打下坚实的理论基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462492194",
+  "instructors": [
+    {
+      "name": "陶志阔;解其云;陈丽敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8550,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "ANy3DO8yEeux-RJFwuFwBw",
+  "platform": "coursera",
+  "title": "Google Drive 日本語版",
+  "slug": "google-drive-jp",
+  "description": "Google ドライブは Google のクラウドベースのファイル ストレージ サービスです。Google ドライブでは、すべての作業を 1 か所にまとめ、追加のソフトウェアを必要とせずにさまざまなファイル形式を表示でき、どのデバイスからでもファイルにアクセスできます。\n\nこのコースでは、Google ドライブの操作方法を学びます。ファイルやフォルダをアップロードする方法や、ファイルの種類に関係なく作業する方法のほか、Google ドライブでファイルを簡単に表示、配置、整理、変更、削除する方法についても学びます。 \n\nGoogle ドライブには共有ドライブが含まれています。共有ドライブを使用して、チームでファイルを保存したり、検索したり、ファイルにアクセスしたりできます。新しい共有ドライブの作成、メンバーの追加と管理、共有ドライブのコンテンツの管理などの方法を学びます。 \n\nGoogle Workspace とはつまり、コラボレーションと共有機能そのものです。Google ドライブで利用できる共有オプションを確認し、さまざまなユーザー ロールや割り当て可能な権限について学びます。\n\nまた、テンプレートを使用して一貫性を確保し、時間を節約する方法についても確認します。\n\nGoogle ドライブには、さまざまなツールやオプションが用意されています。このコースでは、それらのオプションの中から、オフラインで作業する方法、ドライブ ファイル ストリームを使用する方法、Google Workspace Marketplace からアプリをインストールする方法について説明します。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks of study, 6-8 hours/week",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/google-drive-jp",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "mUSYT5noEeWqkw5zNB248Q",
+  "platform": "coursera",
+  "title": "Bioconductor for Genomic Data Science",
+  "slug": "bioconductor",
+  "description": "Learn to use tools from the Bioconductor project to perform analysis of genomic data. This is the fifth course in the Genomic Big Data Specialization from Johns Hopkins University.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/bioconductor",
+  "instructors": [
+    {
+      "name": "Kasper Daniel Hansen, PhD",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

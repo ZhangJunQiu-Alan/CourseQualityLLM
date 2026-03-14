@@ -1,0 +1,26 @@
+{
+  "course_id": "6YPtMt_kEfCRURIyFhP5sw",
+  "platform": "coursera",
+  "title": "Analyze HR Attrition Using R Analytics",
+  "slug": "analyze-hr-attrition-using-r-analytics",
+  "description": "By the end of this course, learners will be able to analyze HR attrition data, evaluate key workforce factors, apply statistical techniques, select significant features, and build a predictive attrition model using R.\n\nThis course provides a practical, end-to-end approach to HR analytics with a strong focus on employee attrition. Learners begin by preparing and validating real-world HR data, followed by in-depth exploratory data analysis to understand workforce demographics, job-related factors, and attrition patterns. The course then progresses to statistical analysis using correlation and Chi-Square tests, helping learners identify meaningful relationships between employee attributes and attrition outcomes.\n\nWhat makes this course unique is its structured, project-driven methodology that mirrors real HR analytics workflows. Learners apply Information Value (IV) techniques for feature selection, create a final modeling dataset, and build an attrition prediction model in R, concluding with performance evaluation on unseen data.\n\nBy completing this course, learners gain hands-on experience in HR data analysis, develop job-ready analytical thinking, and build confidence in using R for data-driven HR decision-making, making it ideal for aspiring data analysts, HR professionals, and analytics learners seeking practical industry skills.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/analyze-hr-attrition-using-r-analytics",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,33 @@
+{
+  "course_id": "course-d98ab804-c645-40bd-87d0-dd2f66fd3626",
+  "platform": "edx",
+  "title": "Artificial Intelligence in National Security",
+  "description": "In this self-paced course from King’s College London, you will explore how AI technologies are transforming modern warfare, surveillance, and statecraft. Led by Professor Kenneth Payne, a leading expert in war studies, the course blends theoretical insight with real-world case studies, examining: \n \n \n The strategic applications of AI in defence and security \n \n \n The role of autonomy, data, and decision-making in conflict \n \n \n The ethical and legal challenges posed by AI-driven systems \n \n \n How states compete for dominance in the AI arms race \n \n \n Through thought-provoking content and expert-led discussions, you will gain a deep understanding of how AI is influencing today's security environment - and what this means for the future of war. \n This is a short course that can be completed in 5 hours — designed to be flexible and fit into your schedule.",
+  "learning_goals": [
+    "Decision Making",
+    "Artificial Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "kenneth-payne",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "King's College London"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 865,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

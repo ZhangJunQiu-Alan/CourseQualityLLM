@@ -1,0 +1,45 @@
+{
+  "course_id": "course-740a6367-60cb-42df-9299-826faae19fcf",
+  "platform": "edx",
+  "title": "Maths Essentials: Proctored exam",
+  "description": "'LSE Maths Essentials' introduces some of the basic ideas and methods of mathematics with an emphasis on their application. \n It works at an elementary level with the aim of developing sophisticated mathematical skills and bridging the gap between school leavers and undergraduate study. \n At the end of the mathematics course, you should be able to: \n \n \n Manipulate and use algebraic expressions \n \n \n Graph, differentiate and integrate simple functions \n \n \n Calculate basis quantities in financial mathematics \n \n \n Related skills developed during this course include Algebra, Basic Math, Calculus, Differential Calculus, Elementary Algebra, Integral Calculus, Linear Equations. \n The pass marks required are listed below: \n BSc Data Science and Business Analytics – 60% required \n BSc Mathematics and Economics – 60% required \n BSc Accounting and Finance – 50% required \n BSc Finance – 50% required \n BSc Business and Management – 50% required \n BSc Economics – 50% required \n BSc Economics and Finance – 50% required \n BSc Economics and Management – 50% required \n BSc Economics and Politics – 50% required \n BSc International Relations – 40% required \n BSc Management and Digital Innovation – 40% required \n BSc Politics and International Relations – 40% required \n CertHE Social Sciences – 40% required \n For more information on the entry requirements for the University of London's EMFSS programmes,  visit .",
+  "learning_goals": [
+    "Calculus",
+    "Management",
+    "Accounting",
+    "International Relations",
+    "Economics",
+    "Business Analytics",
+    "Integral Calculus",
+    "Basic Math",
+    "Innovation",
+    "Finance",
+    "Elementary Algebra",
+    "Algebra",
+    "Differential Calculus",
+    "Data Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "siri-kouletsis",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The London School of Economics and Political Science"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 362,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

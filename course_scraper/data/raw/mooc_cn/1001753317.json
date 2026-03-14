@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753317",
+  "platform": "mooc_cn",
+  "title": "综合护理实践",
+  "description": "《综合护理实践》整合了现有《内科护理学》《外科护理学》《妇产科护理学》《儿科护理学》《健康评估》《基础护理学》等核心课程内容，加入虚拟仿真实验，是一门综合性课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753317",
+  "instructors": [
+    {
+      "name": "许勤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京医科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 34428,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

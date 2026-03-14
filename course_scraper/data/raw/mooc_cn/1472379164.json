@@ -1,0 +1,31 @@
+{
+  "course_id": "1472379164",
+  "platform": "mooc_cn",
+  "title": "电工电子实验（二）",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472379164",
+  "instructors": [
+    {
+      "name": "张昀;孙科学;朱光耀;林宏;张瑛;刘艳;孙炜;顾艳丽;付丽丽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 872,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

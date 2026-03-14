@@ -1,0 +1,31 @@
+{
+  "course_id": "1003405003",
+  "platform": "mooc_cn",
+  "title": "大学化学I",
+  "description": "化学一门古老而又充满活力的自然学科，人类认识和改造物质世界的主要方法和手段！———你了解多少？本课程将带你遨游化学科学殿堂，领略化学视角下的物质世界！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003405003",
+  "instructors": [
+    {
+      "name": "余丹梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "重庆大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8237,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

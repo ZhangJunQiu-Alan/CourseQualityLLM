@@ -1,0 +1,45 @@
+{
+  "course_id": "course-56d09d4a-acc8-4d90-8926-ed0bfe408b2b",
+  "platform": "edx",
+  "title": "Git and GitHub Basics",
+  "description": "Knowing how to work with Version Control Systems Git and GitHub are essential tools for today’s Software Developers, Data Scientists, and Data Engineers. They provide both a version control system and repository, and collaboration capabilities, allowing developers globally to share and collaborate on their projects and practice social coding. \n This course provides a hands-on introduction and experience working with the popular Git and GitHub platforms. You will explore key Git concepts, such as branching and repositories, and use Git commands. And you'll also learn and practice various Git conceptssuch as forking, cloning, and merging workflows. You will learn to use GitHub to work effectively as a team and perform everyday Git operations, such as Pull Requests, from both the Web UI and command line. \n This course is developed and taught by experienced IBM practitioners. You’ll gain vital skills and real-world inspired hands-on experience using Git and GitHub. Each module contains hands-on labs to apply and practice what you learn. In the final project, you will begin building your portfolio and demonstrate your Git and GitHub skills by creating and sharing a public/open- source GitHub project. \n The hands-on activities in this course are performed using web-browser-based tools and interfaces. Installation of any specialized software is NOT required on your computer to complete the course.",
+  "learning_goals": [
+    "Github",
+    "Operations",
+    "Software Development",
+    "Web UI",
+    "Open Source Technology",
+    "Git (Version Control System)",
+    "Web Browsers",
+    "Version Control",
+    "Workflow Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "upkar-lidder",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 984,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

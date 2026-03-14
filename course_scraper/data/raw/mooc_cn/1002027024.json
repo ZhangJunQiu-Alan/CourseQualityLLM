@@ -1,0 +1,31 @@
+{
+  "course_id": "1002027024",
+  "platform": "mooc_cn",
+  "title": "航运管理",
+  "description": "航运管理课程主要目的不仅在于培养学生树立正确的学习目标，树立认真科学的态度； 而且能够使学生掌握国际航运管理和经营的基本概念、理论和方法。同时能够使学生将所学理论应用于实际，进一步具备分析问题、解决航运实际问题的能力，为使学生成为从事国际航运的高级人才打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002027024",
+  "instructors": [
+    {
+      "name": "钟铭",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连海事大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9490,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

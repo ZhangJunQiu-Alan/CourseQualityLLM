@@ -1,0 +1,26 @@
+{
+  "course_id": "HsC39rOVEe-sywr_75D7Fw",
+  "platform": "coursera",
+  "title": "Advanced Security and Troubleshooting",
+  "slug": "packt-advanced-security-and-troubleshooting-fndef",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nStrengthen your expertise in network security and troubleshooting with this advanced course. Delve into the latest techniques to secure networks, establish robust connections, and proactively address vulnerabilities. You’ll learn how to counter sophisticated cyber threats, optimize remote access, and implement wireless security measures effectively.\n\nThe course begins with a deep dive into network security essentials. Explore topics such as remote access protocols, social engineering tactics, VPN implementation, and enterprise physical security. Understand best practices for network hardening, from securing SNMP communications to advanced wireless protections like geofencing and EAP.\n\nTransitioning to troubleshooting, the course follows CompTIA's structured model, guiding you through problem identification, testing theories, implementing solutions, and system verification. You’ll master essential tools for diagnosing and resolving network issues, including cabling challenges, software tools, IP commands, and DNS troubleshooting techniques.\n\nDesigned for IT professionals, network administrators, and cybersecurity specialists, this course requires a foundational understanding of networking concepts. If you’re ready to tackle advanced security and troubleshooting challenges, this course is for you.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-advanced-security-and-troubleshooting-fndef",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

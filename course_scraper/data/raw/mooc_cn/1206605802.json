@@ -1,0 +1,31 @@
+{
+  "course_id": "1206605802",
+  "platform": "mooc_cn",
+  "title": "机械原理",
+  "description": "《机械原理》作为培养机械类专业技术人才的主干学科基础课程，是培养学生分析或改进现有机械、机械系统方案创新设计能力，建立起以设计为主线，分析为设计服务，机械系统方案设计的知识和能力体系不可替代的关键环节。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206605802",
+  "instructors": [
+    {
+      "name": "黄志刚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5149,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

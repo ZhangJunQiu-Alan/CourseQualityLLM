@@ -1,0 +1,31 @@
+{
+  "course_id": "1206970801",
+  "platform": "mooc_cn",
+  "title": "气动控制技术",
+  "description": "大国重器、工业应用和日常生活中都离不开气压传动技术。在中国制造崛起和发展的征程中，气压传动技术有着不可磨灭的贡献。《气动控制技术》课程包含七个项目，从纯气动到电气动，再到PLC-气动控制技术，涵盖了气动控制技术的常用气动元件的工作原理、结构性能，气动控制系统的阅读、仿真分析、安装调试，气动系统常见故障及排除方法等基本的理论知识点和技能知识点。同时将气动控制系统组成的各气动元件、典型气动回路及系统装调与职业岗位对接，将节能环保理念、工匠精神、创新创造精神和良好的职业素养贯穿于项目实施过程中，实现教书与育人同向同行。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206970801",
+  "instructors": [
+    {
+      "name": "王超;张灿;陈银燕;冯闪闪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏电子信息职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6983,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

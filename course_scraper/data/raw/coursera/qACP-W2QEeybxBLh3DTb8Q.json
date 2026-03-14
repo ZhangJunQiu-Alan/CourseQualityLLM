@@ -1,0 +1,26 @@
+{
+  "course_id": "qACP-W2QEeybxBLh3DTb8Q",
+  "platform": "coursera",
+  "title": "Decision Making and Reinforcement Learning",
+  "slug": "dmrol",
+  "description": "This course is an introduction to sequential decision making and reinforcement learning. We start with a discussion of utility theory to learn how preferences can be represented and modeled for decision making. We first model simple decision problems as multi-armed bandit problems in and discuss several approaches to evaluate feedback. We will then model decision problems as finite Markov decision processes (MDPs), and discuss their solutions via dynamic programming algorithms. We touch on the notion of partial observability in real problems, modeled by POMDPs and then solved by online planning methods. Finally, we introduce the reinforcement learning problem and discuss two paradigms: Monte Carlo methods and temporal difference learning. We conclude the course by noting how the two paradigms lie on a spectrum of n-step temporal difference methods. An emphasis on algorithms and examples will be a key part of this course.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "12 weeks of study, 7-10 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/dmrol",
+  "instructors": [
+    {
+      "name": "Tony Dear",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Columbia University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

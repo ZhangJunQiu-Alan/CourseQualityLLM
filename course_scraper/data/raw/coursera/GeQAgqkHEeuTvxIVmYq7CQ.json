@@ -1,0 +1,26 @@
+{
+  "course_id": "GeQAgqkHEeuTvxIVmYq7CQ",
+  "platform": "coursera",
+  "title": "Bases y primeros pasos en R",
+  "slug": "bases-r",
+  "description": "En este curso basado en un proyecto y de 1,5 horas de duración, aprenderás las bases de R, aprenderás desde cero cómo comenzar a trabajar con R, los distintos tipos de datos, funciones, ciclos, entre otros temas. A lo largo del proyecto realizaremos distintos ejemplos, los cuales puedes seguir en tiempo real, además de repetirlos hasta que lo comprendas a cabalidad. Este es un curso de bases, por lo cual no necesitas tener conocimientos previos de R.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 horas",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/bases-r",
+  "instructors": [
+    {
+      "name": "María Ignacia España ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

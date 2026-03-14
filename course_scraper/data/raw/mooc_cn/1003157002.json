@@ -1,0 +1,31 @@
+{
+  "course_id": "1003157002",
+  "platform": "mooc_cn",
+  "title": "通信电子线路",
+  "description": "本课程包含四大关键词：通过学习调幅和调频系统电路，以构建通信最重要概念之一“调制”。所涉频段为“高频”，工作状态多为“非线性”，从完备知识体系结构和方法论上说，本课程可提供较大帮助。会学才能学会，正确的学习方法也需学习。本课程帮助学习者探寻适配学习者自身的“智慧学习”模式，以将知识的学习上升为智慧的进阶！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003157002",
+  "instructors": [
+    {
+      "name": "黄佳庆;严国萍;邓天平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 55330,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1464037176",
+  "platform": "mooc_cn",
+  "title": "交通系统仿真与评价",
+  "description": "本课程是交通工程专业的专业课，是陕西省线上线下混合一流课程。本课程开放认证学习，提供AI助学，是智慧课程。课程内容涉及交通系统仿真的基本概念，仿真建模原理及TransCAD，VISUM，VISSIM和Synchro等交通仿真软件的应用等多方面的知识。通过本课程的学习，使学生学会应用交通工程基本原理及相应的仿真软件，从综合的角度分析和解决复杂交通工程问题，并能对所提出的方案进行比选和评价，提供了解决复杂交通工程问题的途径与方法，为以后解决实际交通工程问题打下必要的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464037176",
+  "instructors": [
+    {
+      "name": "李岩",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长安大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11647,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

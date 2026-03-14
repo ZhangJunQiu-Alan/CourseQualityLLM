@@ -1,0 +1,42 @@
+{
+  "course_id": "course-e3debe04-85f2-4612-88c9-eeb9093aefb0",
+  "platform": "edx",
+  "title": "Introducción a la ciberseguridad",
+  "description": "La ciberseguridad ha tomado una especial relevancia en el mundo moderno por su capacidad de proteger información frente a ataques cibernéticos, convirtiéndose en una de las áreas de mayor empleabilidad hoy en día. \n Este curso te brindará una visión completa de la ciberseguridad al permitirte aprender lo esencial de varios de sus principales subdominios: seguridad en el desarrollo de software, la criptografía, el hacking ético y la informática forense. \n Aprende a través de metodologías de enseñanza dinámicas ofrecidas por la Escuela de ingeniería, Ciencia y Tecnología de la Universidad del Rosario (Colombia).",
+  "learning_goals": [
+    "Software Development",
+    "Cryptography",
+    "Ethical Hacking",
+    "Computer Forensics",
+    "Cyber Security",
+    "Teaching"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 4-6 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "daniel-orlando-diaz-lopez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "valerie-gauthier-umana",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad del Rosario"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 427,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

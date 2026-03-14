@@ -1,0 +1,31 @@
+{
+  "course_id": "1462085163",
+  "platform": "mooc_cn",
+  "title": "医学影像检查技术学",
+  "description": "医学影像检查技术是应用各种医学影像设备对患者进行检查技术操作，并获得医学影像诊断资料的一门实践性学科，是医学影像相关专业学生及从业人员必须掌握的一门课程。话不多说，一起来学习吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462085163",
+  "instructors": [
+    {
+      "name": "张水兴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "暨南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19584,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001640007",
+  "platform": "mooc_cn",
+  "title": "概率论与数理统计--习题与案例分析",
+  "description": "如果你已经或者正在学习《概率论与数理统计》，你有没有碰到困难？能够正确理解概率统计的概念吗？如何计算分布函数、数字特征等？参数估计和假设检验的思想是什么？......学习“概率论与数理统计—习题与案例分析”，将帮你系统地梳理概率统计的基本概念和解题方法；并让你了解一些有趣和重要的应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001640007",
+  "instructors": [
+    {
+      "name": "张帼奋;黄炜;赵敏智;吴国桢;张奕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 142199,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

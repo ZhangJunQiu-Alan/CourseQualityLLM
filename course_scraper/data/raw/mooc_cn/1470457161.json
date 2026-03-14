@@ -1,0 +1,31 @@
+{
+  "course_id": "1470457161",
+  "platform": "mooc_cn",
+  "title": "化学制药工艺技术",
+  "description": "化学制药工艺技术是结合现代制药行业的制药工艺技术和质量管理要求,以化学制药技术特征和共性规律出发，对教学内容的设计与整合,反映工艺核心知识、技能及素养,包括工艺原理、工艺过程及设备、质量控制等。以典型化学制药产品设计、生产与控制过程优化,理论与生产实践相结合。适应现代制药行业、企业对化学制药人员的岗位能力需求,反映了现代化学制药技术与工艺的发展方向与技术发展前沿，开发化学创新药物，服务健康中国行动。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470457161",
+  "instructors": [
+    {
+      "name": "刘郁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "徐州工业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6411,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

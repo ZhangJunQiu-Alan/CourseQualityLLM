@@ -1,0 +1,26 @@
+{
+  "course_id": "QBZMPjsvEfCGRg44G5OASw",
+  "platform": "coursera",
+  "title": "A Practical Approach to Timeseries Forecasting Using Python",
+  "slug": "packt-a-practical-approach-to-timeseries-forecasting-using-python-kd3kj",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nDive into the dynamic world of time series forecasting with this comprehensive and hands-on Python course. You’ll gain practical skills in data manipulation, visualization, and forecasting techniques—empowering you to uncover trends, identify patterns, and make predictions using real-world datasets. Whether you're preparing stock forecasts or tracking public health trends, you'll be equipped to apply advanced forecasting tools effectively.\n\nYour journey begins with the fundamentals of time series data and gradually builds through essential processing techniques, including decomposition, noise reduction, and feature engineering. As the course progresses, you’ll explore powerful statistical models such as ARIMA and SARIMA before moving into deep learning-based forecasting using LSTM, BiLSTM, and GRU models.\n\nHands-on projects like COVID-19 case prediction, Microsoft stock forecasting, and birth rate trend analysis reinforce theoretical knowledge and provide you with ready-to-use code and workflows. Quizzes and real datasets at every step ensure a fully immersive learning experience.\n\nThis course is ideal for data enthusiasts, analysts, and aspiring machine learning engineers. A basic understanding of Python programming and fundamental statistics is recommended. The course is best suited for learners at an intermediate level.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-a-practical-approach-to-timeseries-forecasting-using-python-kd3kj",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

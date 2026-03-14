@@ -1,0 +1,26 @@
+{
+  "course_id": "fsvfrBGpEe-d6hIj26omoQ",
+  "platform": "coursera",
+  "title": "Kubernetes Fundamentals",
+  "slug": "certified-kubernetes-application-developer-kubernetes-fundamentals",
+  "description": "Kubernetes is more than a buzzword; it is the core of modern cloud-native programming. This intense course will teach you the essentials of Kubernetes so you can confidently build, manage, and grow containerized applications. \n\nYou'll begin by understanding how Kubernetes and containers function together, then progress to Kubernetes architecture, which includes master and node components. Learn how to deploy programs with pods, containers, and replica sets using YAML and imperative management techniques.  \n\nCreate your own Kubernetes environment with VirtualBox, Ubuntu VM, Minikube, and Kubectl. Visualize and monitor workloads using the Kubernetes Dashboard, and learn essential commands through real-time demos and case studies. \n\nDive further into networking topics such as pod-to-pod, pod-to-service, ingress, and egress. You'll also learn about persistent storage volumes and how to control their lifecycle. Assignments and real-world tasks, such as developing a music streaming infrastructure with Kubernetes, make the learning experience truly practical. \n\nBy the end of the Kubernetes certification course, you'll not only understand Kubernetes—you'll be ready to run production-grade workloads. \n\nStart your Kubernetes journey today—enroll now and become container-native ready.\n\nDisclaimer: CKAD and Certified Kubernetes Application Developer are trademarks of the Cloud Native Computing Foundation. This course is not affiliated with or endorsed by CNCF.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 weeks of study, 3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/certified-kubernetes-application-developer-kubernetes-fundamentals",
+  "instructors": [
+    {
+      "name": "LearnKartS",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LearnKartS"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

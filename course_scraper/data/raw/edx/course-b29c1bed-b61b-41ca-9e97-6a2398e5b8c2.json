@@ -1,0 +1,60 @@
+{
+  "course_id": "course-b29c1bed-b61b-41ca-9e97-6a2398e5b8c2",
+  "platform": "edx",
+  "title": "Introduction to Microprocessors",
+  "description": "Want to understand how the central processing unit (CPU) of a microprocessor works? How the code you type is actually executed by your computer? Presented by engineers from Arm, this course provides you with an introduction to the central components of processors including: \n \n the Arithmetic Logic Unit, or ALU, and the arithmetic and logical operations it carries out; \n the Fetch-Decode-Execute cycle or FDE within different architectures; \n pipelining, or how a CPU decides what to prioritise and the challenges faced when doing so; \n types of memory and their uses; \n the process that high level code, such as C#, goes through to get converted into machine code; \n assembly code, an interim step between high level and machine level code; and \n how assembling and compiling work together to produce object code or executable files. \n \n There is also a practical opportunity to be introduced to an assembly language.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "oli-howson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "visakh-ajith",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "suzanne-candanedo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "awadhy-mohammed",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "gianluca-cantone-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jay-piamjariyakul-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "angeliki-agathi-tsintzira",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Arm Education"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 523,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

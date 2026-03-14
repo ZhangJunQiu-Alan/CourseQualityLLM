@@ -1,0 +1,31 @@
+{
+  "course_id": "1470922179",
+  "platform": "mooc_cn",
+  "title": "汽车电工电子原理与实践",
+  "description": "课程由多年从事电工电子教学的老师与资深企业工程师，通过对相关专业岗位能力的分析、研讨选取实践项目。主要课程内容包括：电子焊接；电气、电子元件；电路的基本概念和定律；直流及交流电路；二极管、三极管和场效应管；放大电路；数字电路基础；汽车电路的识读与分析；汽车常用仪器仪表等。通过电路检修基础技能训练、直流电路的连接与检测、交流电的检测与使用、电磁部件的运用、车用电机的检测与控制、车用电子电路搭建与调试六个项目，在电工电子实训室实践项目的实施，提高学生应用所学知识分析基本电路的能力。面向高等学校、高职高专汽车类相关专业学生，以及社会汽车类相关工程技术人员。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470922179",
+  "instructors": [
+    {
+      "name": "李洪群;张甜甜;胡业旻;张宇峰;蔡慧敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1202,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "359003",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "你想知道现代通信背后的原理是什么吗？你想知道现代控制背后的原理是什么吗？你想知道信息处理背后的原理是什么吗？请跟随北京交通大学国家级教学名师陈后金教授走进“信号与系统”，他将以独特的视角讲述信号与系统课程的教学内涵，与大家一起领略信号与系统那精彩纷呈环环相扣的篇章。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/359003",
+  "instructors": [
+    {
+      "name": "王剑;侯亚丽;杨江天;邱瑞昌;王磊;李艳凤;周航;魏杰;张琳静;齐红元;陈杰;彭亚辉;陈后金;李居朋;樊玲玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 309316,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

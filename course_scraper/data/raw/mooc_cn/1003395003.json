@@ -1,0 +1,31 @@
+{
+  "course_id": "1003395003",
+  "platform": "mooc_cn",
+  "title": "工程测试技术基础",
+  "description": "工程测试技术是机械专业的专业基础课，内容涉及工业自动化、机器人、人工智能、楼宇控制、交通运输等领域中常见物理量(温度、光、声音、压力、振动位移等)的传感器测量原理和波形分析、频谱分析等测量信号分析方法。此外，课程还包括计算机化测量系统构成原理、Matlab信号分析程序编程实践和Arduino传感器测量应用实践。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003395003",
+  "instructors": [
+    {
+      "name": "何岭松;徐江",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48426,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

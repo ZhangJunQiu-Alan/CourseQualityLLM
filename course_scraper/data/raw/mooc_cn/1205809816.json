@@ -1,0 +1,31 @@
+{
+  "course_id": "1205809816",
+  "platform": "mooc_cn",
+  "title": "计算机硬件系统设计",
+  "description": "《数字逻辑》《计算机组成原理》《计算机组成与结构》《系统结构》学习必备！华中科大计算机学院最受欢迎的实践课，大萝卜老师将带领大家硬件吃鸡通关，从逻辑门开始一步步构造你自己的CPU，不服来战！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205809816",
+  "instructors": [
+    {
+      "name": "谭志虎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 111457,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

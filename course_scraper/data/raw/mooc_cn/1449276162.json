@@ -1,0 +1,31 @@
+{
+  "course_id": "1449276162",
+  "platform": "mooc_cn",
+  "title": "移动终端应用开发",
+  "description": "自2020年初本课程上线以来，基于Java和Kotlin语言的Android应用开发受到很多高校老师和学生的欢迎。近年来，以鸿蒙（HarmonyOS）为代表的基础软件国产化进入高速发展阶段，基于鸿蒙平台终端设备的应用场景越来越多、使用范围越来越广，鸿蒙人才缺口也已成为高校培养人才关注的新热点。课程团队经过认真策划与精心组织，同步推出让大家“听得懂技术、学得会步骤、做得出项目”的零基础鸿蒙应用开发在线课程。课程以项目案例为主线，按照”案例诠释理论内涵，项目推动实践创新”理念组织教学内容，通过由浅入深的知识体系重构和系统全面的知识点应用场景解析，让大家快速掌握基于Android和鸿蒙平台的应用开发技术，课程全部采用案例驱动的方式将理论讲解落实到实景代码实现上，以便大家在案例实现过程中既可以掌握理论知识，也可以培养项目开发能力。 本课程Android和鸿蒙应用开发的内容分别是谷歌和华为支持的教育部产学合作协同育人项目成果。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449276162",
+  "instructors": [
+    {
+      "name": "倪红军;李霞;周巧扣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京师范大学泰州学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7238,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

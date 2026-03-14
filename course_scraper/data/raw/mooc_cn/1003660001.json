@@ -1,0 +1,31 @@
+{
+  "course_id": "1003660001",
+  "platform": "mooc_cn",
+  "title": "激光原理与技术",
+  "description": "激光是20世纪人类的伟大发明之一，半个多世纪以来在通信、医疗、工业和军事等方面给人类社会带来了深刻变革，同时还极大促进了人们对于自然界奥秘的认知。激光是光电子学科最为活跃的研究领域，包含光与物质相互作用过程中丰富的基本物理过程和规律，是从事光电子科学与技术工作必备的专业基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003660001",
+  "instructors": [
+    {
+      "name": "刘志军;李泓枢;王云祥",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26674,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

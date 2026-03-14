@@ -1,0 +1,31 @@
+{
+  "course_id": "njQeEWIIEe6yuQ41HILERQ",
+  "platform": "coursera",
+  "title": "Building Production-Ready Apps with Large Language Models",
+  "slug": "building-production-ready-apps-with-large-language-models",
+  "description": "In the age of artificial intelligence (AI), it is essential to learn how to apply the power of large language models (LLMs) for building various production-ready applications. In this hands-on-course, learners will gain the necessary skills for building and responsibly deploying a conversational AI application.  \n\nFollowing the demo provided in this course, learners will learn how to develop a FAQ chatbot using HuggingFace, Python, and Gradio. Core concepts from applying prompt engineering to extract the most value from LLMs to infrastructure, monitoring, and security considerations for real-world deployment will be covered.  \n\nImportant ethical considerations such as mitigating bias, ensuring transparency, and maintaining user trust will also be covered to help learners understand the best practices in developing a responsible and ethical AI system. \n\nBy the end, learners will have developed familiarity with both the technical and human aspects of building impactful LLM applications. The learners can design, develop, and deploy production-ready applications powered by Large Language Models. \n\nThis course is designed for individuals with a basic understanding of programming and application development concepts. It is suitable for developers, data scientists, AI enthusiasts, and anyone interested in using LLMs to build practical applications. you need basic concepts, software tools, and an internet-connected computer.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "75 minutes ",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/building-production-ready-apps-with-large-language-models",
+  "instructors": [
+    {
+      "name": "Reza Moradinezhad",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

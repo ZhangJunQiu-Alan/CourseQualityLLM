@@ -1,0 +1,31 @@
+{
+  "course_id": "1461790174",
+  "platform": "mooc_cn",
+  "title": "常微分方程",
+  "description": "微分方程与微积分同时产生并在许多学科中有着非常重要的应用，如物理、力学、机械、电信、化工、生物、经济等学科中有些重要的现象是用微分方程描述的，研究和解决这些实际问题，就需要求解和研究微分方程。微分方程在数学学科的发展中也具有非常重要的地位，它是许多数学分支产生的动力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461790174",
+  "instructors": [
+    {
+      "name": "袁荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18071,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

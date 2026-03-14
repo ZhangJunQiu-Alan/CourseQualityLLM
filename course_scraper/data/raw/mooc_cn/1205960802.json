@@ -1,0 +1,31 @@
+{
+  "course_id": "1205960802",
+  "platform": "mooc_cn",
+  "title": "现代控制理论",
+  "description": "现代控制理论和实践广泛用于航空航天、机器人系统、船舶系统等行业，是对于人类生产、生活产生重大影响的科学领域。线性系统理论是现代控制理论最为基础和成熟的分支，其概念、方法、结论具有重要的作用。本门课程主要讲解多变量线性系统建模、分析、设计的时间域和频率域方法，为实际工程设计和相关研究工作，以及非线性控制、自适应控制、最优控制、鲁棒控制等课程的学习奠定理论基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205960802",
+  "instructors": [
+    {
+      "name": "原新",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28685,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

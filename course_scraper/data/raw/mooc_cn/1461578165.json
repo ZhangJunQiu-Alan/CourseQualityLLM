@@ -1,0 +1,31 @@
+{
+  "course_id": "1461578165",
+  "platform": "mooc_cn",
+  "title": "运动控制系统",
+  "description": "我们所使用的电力能源除少量太阳能外，几乎都是由电机产生的，而60%以上的电能又是被电机消耗掉的。所以用好电机对于一名电气自动化工作者尤为重要。《电力拖动自动控制系统--运动控制系统》主要讲授成熟的直流双闭环调速系统、交流变压变频调速系统，较为先进的交流矢量控制系统、直接转矩控制系统的原理、特性、调试方法等知识。课程结合了一些工程实践，有较强的实用性。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461578165",
+  "instructors": [
+    {
+      "name": "黄建兵",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "陕西科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12012,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

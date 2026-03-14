@@ -1,0 +1,26 @@
+{
+  "course_id": "OK4S2mhbEfCCGA7lN4veKQ",
+  "platform": "coursera",
+  "title": "SPSS: Apply & Interpret Logistic Regression Models",
+  "slug": "spss-apply-interpret-logistic-regression-models",
+  "description": "This course provides a practical and applied introduction to logistic regression and supervised learning using IBM SPSS Statistics. Designed for learners seeking to build analytical skills in predictive modeling, the course emphasizes both conceptual understanding and tool-based execution.\n\nThrough step-by-step instruction, learners will identify key components of logistic regression, configure data within SPSS, and construct predictive models using real-world case studies. They will analyze model outputs, evaluate predictor significance, and interpret statistical results to make informed decisions.\n\nThe course integrates Excel-based logistic modeling and reinforces learning through guided examples such as heart pulse analysis and smoking behavior classification. By the end, learners will be able to confidently apply logistic regression methods to structured datasets, assess model performance using statistical evidence, and communicate findings through SPSS-generated outputs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/spss-apply-interpret-logistic-regression-models",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

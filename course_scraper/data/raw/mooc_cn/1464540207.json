@@ -1,0 +1,31 @@
+{
+  "course_id": "1464540207",
+  "platform": "mooc_cn",
+  "title": "离散数学",
+  "description": "用计算机处理客观世界中问题的关键一步是建立离散模型，而离散数学这门课程将告诉你进行离散模型构建的基本理论与知识，同时训练您的思维能力（理解能力、分析能力、抽象能力、推理能力、概括能力），更能品尝出离散数学所展现出的应用数学之美。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464540207",
+  "instructors": [
+    {
+      "name": "何中胜;卢付强;丁豪;高波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3443,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

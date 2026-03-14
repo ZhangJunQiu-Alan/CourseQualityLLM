@@ -1,0 +1,33 @@
+{
+  "course_id": "course-43e621e2-6302-4cbe-ae87-623837e611b9",
+  "platform": "edx",
+  "title": "R Programming Fundamentals",
+  "description": "This course covers the basics of R: a free programming language and software environment used for statistical computing and graphics. R is widely used by data analysts, statisticians, and data scientists around the world. This course covers an introduction to R, from installation to basic statistical functions. You will learn to work with variable and external data sets, write functions, and hear from one of the co-creators of the R language, Robert Gentleman.",
+  "learning_goals": [
+    "Computational Statistics",
+    "R (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "susan-holmes",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1116,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

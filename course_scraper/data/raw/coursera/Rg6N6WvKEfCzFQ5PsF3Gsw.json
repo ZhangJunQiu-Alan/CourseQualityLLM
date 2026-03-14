@@ -1,0 +1,26 @@
+{
+  "course_id": "Rg6N6WvKEfCzFQ5PsF3Gsw",
+  "platform": "coursera",
+  "title": "Cisco Software-Defined Wan for Enterprise & Cloud: Unit 1",
+  "slug": "pearson-cisco-software-defined-wan-unit1",
+  "description": "This course explores Cisco SD-WAN and equips you with the skills to optimize and manage complex network environments. You will gain a thorough understanding of the architecture, components, and terminology essential to SD-WAN. You will explore the Overlay Management Protocol to master route and policy advertisement, and the intricacies of the data plane and network segmentation. With hands-on guidance on the vManage user interface, you'll be prepared to implement and oversee efficient, secure, and scalable network solutions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours 16 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-cisco-software-defined-wan-unit1",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

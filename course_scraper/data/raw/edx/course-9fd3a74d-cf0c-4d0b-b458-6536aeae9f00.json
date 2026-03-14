@@ -1,0 +1,37 @@
+{
+  "course_id": "course-9fd3a74d-cf0c-4d0b-b458-6536aeae9f00",
+  "platform": "edx",
+  "title": "Cell Biology: Mitochondria",
+  "description": "The cell is a powerful case study to help us explore the functional logic of living systems. All organisms, from single-celled algae to complex multicellular organisms like us, are made up of cells. In this course, you will learn the how and why of biology by exploring the function of the molecular components of cells, and how these cellular components are organized in a complex hierarchy. \n This course is designed to explore the fundamentals of cell biology. The overarching goal is for learners to understand, from a human-centered perspective, that cells are evolving ensembles of macromolecules that in turn form complex communities in tissues, organs, and multicellular organisms. \n We will focus, in particular, on the mitochondrion, the organelle that powers the cell. In this context, we will look at the processes of cell metabolism. Finally, we will examine the F1F0 ATP synthase, the molecular machine that is responsible for the synthesis of most of the ATP that your cells require to do work. To underscore the importance of cell biology to our lives, we will address questions of development and disease and implications of science in society. \n By the end of four weeks, we hope learners will have a deep intuition for the functional logic of a cell. Together we will ask how do things work within a cell, why do they work the way they do, and how are we impacted? \n Join us as we explore the extraordinary and wonderfully dynamic world of the cell.",
+  "learning_goals": [
+    "Macromolecule",
+    "Mitochondria",
+    "Algae",
+    "Metabolism",
+    "Biology",
+    "Cell Biology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "robert-lue",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6505,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

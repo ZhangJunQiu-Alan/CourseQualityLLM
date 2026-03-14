@@ -1,0 +1,26 @@
+{
+  "course_id": "GhM-4IkDEe6AMxKKixXO2Q",
+  "platform": "coursera",
+  "title": "Azure Networking Fundamentals",
+  "slug": "azure-networking-fundamentals",
+  "description": "The \"Azure Networking Fundamentals\" course is the foundational step in a comprehensive certificate program to prepare learners for various entry-level roles in cloud networking. This course offers a holistic overview of key concepts and skills essential for functions such as Azure Network Engineer, Cloud Solutions Architect, and Cloud Operations Engineer.\n\nUpon completing the course, you will understand Azure networking principles, covering virtual networks, subnets, IP addressing, and network security groups. Practical skills in configuring and managing Azure virtual networks, establishing connectivity between virtual and on-premises networks, and implementing robust network security measures will be ingrained. \n\nThe course goes beyond theoretical knowledge by providing hands-on experience monitoring and troubleshooting Azure network resources using tools like Azure Network Watcher. Additionally, you will gain expertise in designing scalable and resilient Azure network architectures, incorporating high availability, redundancy, and disaster recovery strategies.\n\nThis course offers a comprehensive curriculum that blends theoretical understanding with practical application. It empowers you with the knowledge and skills required to build, secure, monitor, and troubleshoot Azure networks, setting a solid foundation for subsequent roles in cloud networking.\n\nBy the end of the course, you will have a well-rounded skill set encompassing the foundational and practical aspects of Azure networking, preparing them for roles such as Azure Network Engineer, Cloud Solutions Architect, Cloud Operations Engineer, and more.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of Study, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/azure-networking-fundamentals",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

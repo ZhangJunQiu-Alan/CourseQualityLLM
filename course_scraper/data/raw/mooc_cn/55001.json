@@ -1,0 +1,31 @@
+{
+  "course_id": "55001",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "线性代数是19世纪后期发展起来的数学分支，是一门基础理论课程。本课程主要讨论有限维线性空间的线性理论与方法，具有较强的逻辑性、抽象性与广泛的实用性，尤其在计算机日益普及的今天，解大型线性方程组、求矩阵的特征值等已成为技术人员经常遇到的课题。本课程所介绍的方法广泛地应用于各个学科。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/55001",
+  "instructors": [
+    {
+      "name": "杨海宁;秦静;金辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 711368,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

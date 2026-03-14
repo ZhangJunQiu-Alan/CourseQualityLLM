@@ -1,0 +1,63 @@
+{
+  "course_id": "course-12c3f3bc-c149-44cd-b429-30f3843e7790",
+  "platform": "edx",
+  "title": "Fundamentos del marketing digital",
+  "description": "En este curso se presenta  n los conceptos básicos del marketing digital.    \n En el primer bloque se aborda n l  as claves básicas y conceptos fundamentales que ayudarán a entender en profundidad en qué consiste el marketing digital y por qué es una herramienta imprescindible hoy en día para todas las empresas que quieran hacerse un hueco en el mercado. Gracias a este módulo se asentarán los conocimientos esenciales, necesarios para poder avanzar en el resto de   bloques  .     \n En el segundo bloque se h ace   una introducción a la analítica web con el objetivo de asentar unas bases a nivel de análisis de negocio digital que permitirá el desarrollo de acciones de marketing basadas en datos.    Se explican   los principios básicos de la analítica web, conoceremos las principales métricas y   KPIs  .   También   Google   Analytics  , la herramienta de análisis web más utilizada en el sector   y unas pinceladas sobre inteligencia de negocio    \n El tercer bloque  ayuda a   conocer el valor que puede aportar el SEO  ,   las técnicas más efectivas, y cómo realizar cada uno de los pasos clave para crear una estrategia SEO de éxito.   También se explica   la herramienta Google   Search     Console   y la herramienta de publicidad Google   Ads  : sus principales   KPIs  , los pasos para crear campañas y anuncios y cómo rentabilizarlos al máximo.     \n Todos los conceptos se tratan a nivel muy descriptivo  pero con carácter práctico   con el objeto de que el alumno se lleve una idea general del funcionamiento de cada uno de los procesos  , conceptos y prácticas que se explican.",
+  "learning_goals": [
+    "Business Analysis",
+    "Digital Marketing",
+    "Sales",
+    "Marketing",
+    "Web Analytics",
+    "Advertisement",
+    "Search Engine Optimization"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 3-4 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "daniel-palacios-marques",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "maria-orero-blat",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "maria-rodriguez-garcia",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "raquel-andrade-andres",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "klaus-ulrich",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jorge-escriche-gascon",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 370,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

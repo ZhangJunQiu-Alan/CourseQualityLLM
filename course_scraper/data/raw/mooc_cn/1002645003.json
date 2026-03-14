@@ -1,0 +1,31 @@
+{
+  "course_id": "1002645003",
+  "platform": "mooc_cn",
+  "title": "精益创业实务",
+  "description": "你有一个产品创意，但是怎样才能实现它呢？这门课将为你揭开创业的神秘面纱，助力你的创业之梦。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002645003",
+  "instructors": [
+    {
+      "name": "黎常",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江工商大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3691,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001638014",
+  "platform": "mooc_cn",
+  "title": "工程信号与系统",
+  "description": "大家对时域內系统分析的运算望而生畏，而变换域分析法将会开拓思路、化繁为简。转变视角后，将看到更多系统的特性，从而了解信号处理在滤波器设计、稳定性分析、图像工程等的应用。让我们一起跟随西安电子科技大学的郭宝龙教授，来学习“工程信号与系统”课程，将带领大家领略信息处理技术的神奇魅力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001638014",
+  "instructors": [
+    {
+      "name": "朱娟娟;郭宝龙",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 74220,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

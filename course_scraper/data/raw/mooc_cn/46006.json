@@ -1,0 +1,31 @@
+{
+  "course_id": "46006",
+  "platform": "mooc_cn",
+  "title": "计算机程序设计（C++）",
+  "description": "计算机已经是“无所不能”，而每一项神奇的功能背后都有一系列计算机程序在运行。如今，电脑、智能手机的普及，每个人都可为计算机创造更加神奇的功能。学习程序设计，你也做得到。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/46006",
+  "instructors": [
+    {
+      "name": "杨振平;乔亚男;赵英良;仇国巍;顾刚;房琛琛;夏秦;杨琦;卫颜俊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 340101,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

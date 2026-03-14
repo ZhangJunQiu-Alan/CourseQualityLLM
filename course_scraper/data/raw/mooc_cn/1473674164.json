@@ -1,0 +1,31 @@
+{
+  "course_id": "1473674164",
+  "platform": "mooc_cn",
+  "title": "生理生态与进化",
+  "description": "本课程聚焦动物如何通过生理与行为应对环境变化，揭示个体与环境互动的机制与进化意义。帮助学习者理解全球变化下物种适应与保护的核心原理，提升生态建模与跨尺度思维能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473674164",
+  "instructors": [
+    {
+      "name": "马亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中山大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

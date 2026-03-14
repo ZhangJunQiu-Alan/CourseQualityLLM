@@ -1,0 +1,31 @@
+{
+  "course_id": "1473166164",
+  "platform": "mooc_cn",
+  "title": "电路原理",
+  "description": "你是否对电子世界的运行规律充满好奇？是否想掌握电子信息系统的核心分析方法？《电路原理》正是打开电子信息领域大门的金钥匙！它将带领你探索电荷运动的规律，揭秘电气系统的运作原理，奠定现代科技发展的基石。本课程由资深电子信息工程教学团队精心打造，将抽象的电路理论转化为生动易懂的知识体系，从基本概念到复杂分析，循序渐进。课程内容系统全面，紧扣电子信息领域需求，从基本电路元件特性讲起，搭建坚实的电路分析框架，为后续电子电路课程学习奠定坚实基础。不受时间和空间限制，随时随地开启学习之旅。快来加入我们，一起探索电子世界的无限可能！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473166164",
+  "instructors": [
+    {
+      "name": "王菲;单江东;张乐天",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "吉林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 76,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

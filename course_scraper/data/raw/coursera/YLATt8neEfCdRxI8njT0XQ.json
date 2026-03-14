@@ -1,0 +1,26 @@
+{
+  "course_id": "YLATt8neEfCdRxI8njT0XQ",
+  "platform": "coursera",
+  "title": "Kibana 8.x – A Quick Start Guide to Data Analysis",
+  "slug": "packt-kibana-8x-a-quick-start-guide-to-data-analysis",
+  "description": "This course introduces learners to Kibana, focusing on its data exploration, visualization, and dashboard-building capabilities. With a structured approach, learners will be equipped to transform raw data into actionable insights using Kibana's powerful features. Practical examples and step-by-step guides ensure an intuitive understanding of Kibana’s interface. By the end, learners will be able to create and share interactive dashboards and use advanced analytics features to drive business decision-making.\n\nDesigned for professionals, this course combines theoretical concepts with real-world applications. It equips learners to use Kibana for efficient data management and visualization, enhancing their analytics workflow. This hands-on guide allows learners to master Kibana through practical, expert-led lessons. Whether you're a data analyst or business user, this course will help you leverage Kibana for meaningful data analysis.\n\nThis course is beneficial for data analysts, data engineers, and business users with a basic understanding of Elasticsearch. Knowledge of data analysis tools is recommended for the best experience.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-kibana-8x-a-quick-start-guide-to-data-analysis",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

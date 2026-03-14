@@ -1,0 +1,31 @@
+{
+  "course_id": "1002693021",
+  "platform": "mooc_cn",
+  "title": "电工技术",
+  "description": "电是日常生活的必需品，学会安全用电，受益一生，你想了解更多吗？请来到电工技术课堂，课程通过案例和教师实操演示将理论性、实践性和工程性相结合，简单易懂，能使你获得生活中必需的电工基础知识和基本技能,为安全用电、后续课程学习及电工应用能力培养奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002693021",
+  "instructors": [
+    {
+      "name": "陈素芳;邹舟诣奥;杜江;胡叶容;李国超;高翔;张迎辉;陶梅;李益民;王涛;张仁醒;杨崇明;李琴;李金强;熊健;马昊旻;邓松;刘振鹏;董雁飞;阮友德;王瑾;林丹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "深圳职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 83734,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1466095181",
+  "platform": "mooc_cn",
+  "title": "编译原理",
+  "description": "自从1946年世界上第一台现代电子计算机“埃尼阿克（ENIAC）”诞生以来，计算机世界中的语言已经超过了1000种，在不久的将来，计算机世界的语言总量就会超过人类世界语言的总量。编译原理就是讨论如何把符合人类思维方式的某种程序设计语言翻译成计算机能够理解和执行的形式，通过课程的学习，不仅可以了解程序设计语言的运行机制，克服学习新的程序设计语言的恐惧，从系统层面重新认识程序和算法，还可以建立计算思维，掌握问题求解的典型思路和方法，培养解决复杂工程问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466095181",
+  "instructors": [
+    {
+      "name": "蒋凌云",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4898,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

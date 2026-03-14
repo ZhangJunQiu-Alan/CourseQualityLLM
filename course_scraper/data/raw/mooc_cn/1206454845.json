@@ -1,0 +1,31 @@
+{
+  "course_id": "1206454845",
+  "platform": "mooc_cn",
+  "title": "电工电子技术",
+  "description": "电工电子技术是面向高等工科院校非电类专业（少学时）和社会学习者开设的技术基础课，课程包含电路及其分析方法、正弦交流电路、电动机及其控制，模拟电路、数字电路、Multisim软件及案例应用等内容。课程教学团队老师满怀热情，精心组织教学内容，讲解清晰透彻，分析深入浅出，请跟我们一起来学习电工电子技术吧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206454845",
+  "instructors": [
+    {
+      "name": "徐英鸽;张宇;刘雪超;赵颖博",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安建筑科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 49348,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "jjFwDfBcEeWLaBLI8fdMlw",
+  "platform": "coursera",
+  "title": "Analysis of Algorithms",
+  "slug": "analysis-of-algorithms",
+  "description": "This course teaches a calculus that enables precise quantitative predictions of large combinatorial structures. In addition, this course covers generating functions and real asymptotics and then introduces the symbolic method in the context of applications in the analysis of algorithms and basic structures such as permutations, trees, strings, words, and mappings.\n\nAll the features of this course are available for free. People who are interested in digging deeper into the content may wish to obtain the textbook Analysis of  Algorithms, Second Edition (upon which the course is based) or to visit the website aofa.cs.princeton.edu for a wealth of additional material.\n\nThis course does not offer a certificate upon completion.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/analysis-of-algorithms",
+  "instructors": [
+    {
+      "name": "Robert Sedgewick",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Princeton University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

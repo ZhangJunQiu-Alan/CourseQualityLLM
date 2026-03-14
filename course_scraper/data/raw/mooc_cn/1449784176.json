@@ -1,0 +1,31 @@
+{
+  "course_id": "1449784176",
+  "platform": "mooc_cn",
+  "title": "机械设计基础",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449784176",
+  "instructors": [
+    {
+      "name": "杨文;石金艳;黄剑锋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南铁道职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11096,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

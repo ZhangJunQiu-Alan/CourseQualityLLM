@@ -1,0 +1,31 @@
+{
+  "course_id": "1205972812",
+  "platform": "mooc_cn",
+  "title": "科学研究与创新",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205972812",
+  "instructors": [
+    {
+      "name": "戴劲松",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2756,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

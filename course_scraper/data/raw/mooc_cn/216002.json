@@ -1,0 +1,31 @@
+{
+  "course_id": "216002",
+  "platform": "mooc_cn",
+  "title": "线性代数启蒙",
+  "description": "GPS(导航仪)不代替你开车,但可以为你指路。本课程的目的是指引一条路线，帮助你顺利进入线性代数之门。很多学生害怕线性代数,是因为它抽象，戴上了一副“奉天承运皇帝诏曰从天而降的抽象定义和推理”的恐怖面具。本课程希望揭开这层面具，让它素面朝天，露出平易近人的真容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/216002",
+  "instructors": [
+    {
+      "name": "李尚志",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 97146,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

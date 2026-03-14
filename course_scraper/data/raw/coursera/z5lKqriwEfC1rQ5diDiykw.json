@@ -1,0 +1,26 @@
+{
+  "course_id": "z5lKqriwEfC1rQ5diDiykw",
+  "platform": "coursera",
+  "title": "Agentic AI Content for Practitioners (Teams: Data)",
+  "slug": "agentic-ai-content-for-practitioners-teams-data",
+  "description": "Agentic AI Content for Practitioners (Teams: Data) is an intermediate-level course designed to equip data professionals, software engineers, and business analysts with the knowledge and skills to design, implement, and optimize AI agents for intelligent data automation. As organizations transition from experimental AI deployments to enterprise-scale implementations, this course provides the practical expertise needed to build reliable, scalable agent systems that deliver measurable business value.\nThrough hands-on labs, real-world case studies, and interactive projects, you'll learn to transform manual data operations into intelligent, adaptive systems. \n\nThe course covers everything from agent architecture fundamentals to advanced optimization strategies, preparing you to lead AI agent initiatives in your organization. You'll explore popular frameworks, design patterns, and deployment strategies while addressing critical considerations like error handling, scalability, and enterprise integration.\nWhether you're automating data quality monitoring, building predictive analytics systems, or creating intelligent customer service agents, this course provides the foundation you need to succeed in the rapidly evolving landscape of AI-powered data automation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "30 mins/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/agentic-ai-content-for-practitioners-teams-data",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

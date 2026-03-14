@@ -1,0 +1,26 @@
+{
+  "course_id": "avTi99yMEe62jQ6HK-YxMQ",
+  "platform": "coursera",
+  "title": "AWS Elemental Live Foundations",
+  "slug": "aws-elemental-live-foundations",
+  "description": "This training provides an introduction to AWS Elemental Live, a video processing solution that efficiently formats live video for broadcast television and streaming to internet-connected devices.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-elemental-live-foundations",
+  "instructors": [
+    {
+      "name": "AWS Instructor ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

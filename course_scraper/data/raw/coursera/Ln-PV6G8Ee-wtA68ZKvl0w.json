@@ -1,0 +1,26 @@
+{
+  "course_id": "Ln-PV6G8Ee-wtA68ZKvl0w",
+  "platform": "coursera",
+  "title": "Boost Productivity with Gemini in BigQuery - Français",
+  "slug": "boost-productivity-with-gemini-in-bigquery---franais",
+  "description": "Ce cours présente Gemini dans BigQuery, une suite de fonctionnalités basées sur l'IA conçue pour faciliter le workflow \"des données à l'IA\". Ces fonctionnalités incluent l'exploration et la préparation des données, la génération et le dépannage de code, ainsi que la découverte et la visualisation du workflow. Au moyen d'explications conceptuelles, d'un cas d'utilisation concret et d'ateliers pratiques, le cours explique aux professionnels des données comment booster leur productivité et accélérer le pipeline de développement.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/boost-productivity-with-gemini-in-bigquery---franais",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

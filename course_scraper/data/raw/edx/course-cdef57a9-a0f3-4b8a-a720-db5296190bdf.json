@@ -1,0 +1,36 @@
+{
+  "course_id": "course-cdef57a9-a0f3-4b8a-a720-db5296190bdf",
+  "platform": "edx",
+  "title": "Impact, Ethics, and Issues with Generative AI",
+  "description": "In this course, you will explore the impact of generative artificial intelligence (AI) on society, the workforce, organizations, and the environment.  \n This course is suitable for anyone interested in learning about the ethical, economic, and social implications of generative AI and how generative AI can be used responsibly. It will benefit professionals, executives, policymakers, and students. \n In this course, you will learn about the ethical concerns of generative AI, including data privacy, biases, copyright infringement, and hallucination. You will identify the misuses related to generative AI, including deepfakes.  \n Further, in the course, you will examine the considerations for the responsible use of generative AI. You will explore the broader implications of generative AI on transparency, accountability, privacy, and safety. Finally, you will learn about the socioeconomic impacts of generative AI. \n The examples and cases included in the course help to realize the considerations for generative AI in real-life scenarios. You will hear from practitioners about the realities, limitations, and ethical considerations of generative AI.",
+  "learning_goals": [
+    "Accountability",
+    "Hallucinations",
+    "Artificial Intelligence",
+    "Information Privacy",
+    "Addressing Ethical Concerns"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 530,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

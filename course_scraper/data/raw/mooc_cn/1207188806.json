@@ -1,0 +1,31 @@
+{
+  "course_id": "1207188806",
+  "platform": "mooc_cn",
+  "title": "生物化学",
+  "description": "生物化学，描述了自然界生命中最原始的规律，生物的化学组成与结构，生命过程中的化学反应、条件与结果，并以其细胞甚至分子尺寸的研究深度，科学而逻辑地，对食物的消化过程、情感的物质基础、衰老的化学本质、疾病的病情进展、生命的演化与传承、地球的物质循环等等做出了深入浅出的研究和解释。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207188806",
+  "instructors": [
+    {
+      "name": "何海伦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 58249,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

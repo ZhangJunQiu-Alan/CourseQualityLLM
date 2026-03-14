@@ -1,0 +1,26 @@
+{
+  "course_id": "QusK7boIEfCFjhLhySUHPQ",
+  "platform": "coursera",
+  "title": "Routing, Network Devices, and Security",
+  "slug": "packt-routing-network-devices-and-security-6cthe",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you'll dive deep into the essential components of networking, routing, network devices, and securing TCP/IP systems. Starting with routing protocols such as NAT, OSPF, and BGP, you will learn to configure routers, understand static and dynamic routing, and explore concepts like port forwarding and NAT. As you progress, you'll uncover the various network applications and learn to apply network tools like Wireshark and netstat for troubleshooting and managing network traffic effectively. With hands-on activities throughout, you will gain the confidence to apply what you learn in real-world scenarios.\n\nAs the course continues, you'll also explore security techniques and solutions critical for safeguarding your networks. You'll learn about encryption methods, access control, digital certificates, and tools like RADIUS and TACACS+ that ensure a robust network security infrastructure. Additionally, you'll learn how to configure and manage advanced network devices like switches and firewalls. Concepts such as VLANs, inter-VLAN routing, and load balancing will help you optimize network performance while maintaining security.\n\nThis course is designed for IT professionals and network administrators who want to improve their skills in routing, network management, and security. The course does not require prior knowledge of networking, though some basic computer skills may be helpful. By the end of the course, you will understand how to manage network devices, configure security protocols, and implement best practices to build and secure complex network infrastructures.\n\nBy the end of the course, you will be able to configure routers, secure TCP/IP communications, troubleshoot network issues using various tools, implement VLANs, and ensure network security with encryption and access control methods.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-routing-network-devices-and-security-6cthe",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

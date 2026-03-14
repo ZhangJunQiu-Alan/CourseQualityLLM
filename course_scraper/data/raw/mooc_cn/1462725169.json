@@ -1,0 +1,31 @@
+{
+  "course_id": "1462725169",
+  "platform": "mooc_cn",
+  "title": "电子数据取证技术",
+  "description": "本门课程针对信息犯罪和电子数据取证，介绍相关的基本概念和技术基础，使学习者能够了解电子证据及其形成过程，对电子数据相关的取证技术、流程、工具等进行学习，最后，以实战的方式进行探讨和实践，为今后从事相关行业的科研工作打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462725169",
+  "instructors": [
+    {
+      "name": "孙国梓",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6021,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

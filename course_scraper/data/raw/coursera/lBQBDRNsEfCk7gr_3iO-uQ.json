@@ -1,0 +1,26 @@
+{
+  "course_id": "lBQBDRNsEfCk7gr_3iO-uQ",
+  "platform": "coursera",
+  "title": "Ethics of Generative AI",
+  "slug": "ethics-of-generative-ai",
+  "description": "This comprehensive Foundations of Ethical Generative AI course equips you with the skills to build responsible, transparent, and regulation-ready AI solutions. Begin by mastering core AI ethics principles, understanding ethical concerns, and learning data privacy frameworks like GDPR. Progress into solving transparency challenges by implementing Explainable AI (XAI) techniques and using tools like DALEX for model evaluation. Advance further into analyzing the regulatory, societal, and labor market impacts of Generative AI through real-world case studies in critical domains such as hiring, finance, and healthcare.\n\nTo be successful in this course, you should have a foundational understanding of AI concepts, data handling, and familiarity with programming or data science workflows.\n\nBy the end of this course, you will be able to:\n\n- Understand Ethical AI Foundations: Learn ethical concerns, frameworks, and data privacy regulations\n- Build Transparent AI Systems: Address the black box problem using Explainable AI (XAI) methods\n- Analyze GenAI’s Societal Impact: Study real-world impacts and regulatory needs across industries\n- Apply Responsible AI Practices: Implement ethical frameworks to drive trustworthy AI solutions\n\nIdeal for AI practitioners, data scientists, developers, and compliance professionals focused on building ethical, scalable, and impactful Generative AI systems.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/ethics-of-generative-ai",
+  "instructors": [
+    {
+      "name": "Priyanka Mehta",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Simplilearn"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "cTRm9alUEe2txRJ4UFoCeQ",
+  "platform": "coursera",
+  "title": "VMware NSX를 활용한 네트워킹 및 보안 아키텍처",
+  "slug": "networking-security-architecture-vmware-nsx-ko",
+  "description": "본 8주 온라인 강좌를 통해 VMware NSX를 이용한 네트워크 가상화의 기초를 학습합니다.\n\n본 강좌의 학습 성취도를 높이기 위해서는 라우팅, 스위칭, 방화벽, 재해 복구, 비즈니스의 연속성, 클라우드 및 보안에 대한 일반적인 IT 개념을 숙지하고 있어야 합니다.\n\n본 강좌의 학습을 마친 후에는\n•\t네트워크 가상화의 기본을 이해\n•\tNSX의 비즈니스적 가치와 사례를 설명\n•\t기존 네트워킹과 NSX 간의 차이를 설명\n•\t다음 핵심 영역에 대한 VMware NSX 네트워크 및 보안을 정리\n          + 초미세화\n          + OpenStack을 통한 자동화\n          + VMware vRealize Automation을 통한 자동화\n          + 재해 복구 및 비즈니스의 연속성\n          + 운영의 변환\n•\t실습을 통해 이해한 바를 설명\n•\t네트워크 가상화 인증을 위한 학습 계획을 개발할 수 있습니다\n\n네트워크 가상화를 처음 접하시는 분들은 Network Virtualization for Dummies 지침을 다운로드하십시오.\nhttp://learn.vmware.com/36350_NSX_ITAutomation_Reg?src=af_5acfd24cebb90&cid=70134000001YR9b\n\n본 강좌의 모든 연구실 예제는 선택 사항이며 무료로 이용하실 수 있습니다. 무료 연구실 예제로 바로 이동할 수 있는 링크는 리소스 탭 또는 https://labs.hol.vmware.com/HOL/catalogs/catalog/877 에서 전체 라이브러리를 살펴보실 수 있습니다.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "8주 학습 과정, 주당 2~3시간 소요",
+  "language": "ko",
+  "url": "https://www.coursera.org/learn/networking-security-architecture-vmware-nsx-ko",
+  "instructors": [
+    {
+      "name": "Chris McCain",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "VMware"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

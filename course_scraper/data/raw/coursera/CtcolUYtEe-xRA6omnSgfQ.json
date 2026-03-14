@@ -1,0 +1,26 @@
+{
+  "course_id": "CtcolUYtEe-xRA6omnSgfQ",
+  "platform": "coursera",
+  "title": "Selenium WebDriver Advanced - Complete Framework",
+  "slug": "packt-selenium-webdriver-advanced-complete-framework-pio0y",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nEmbark on an advanced journey in Selenium WebDriver with this detailed course, designed to transform your automation skills. Starting with a solid introduction to frameworks and the Page Object Model, you'll quickly progress to setting up your development environment using IntelliJ and Maven. Understand the critical reasons behind using frameworks by exploring real test scenarios and their limitations without structured frameworks.\n\nDive deep into creating your first test and page classes, mastering the concepts of returning page objects, and adding multiple test methods to your framework. Explore advanced topics like implementing custom drivers, utilizing the WebDriver Factory Pattern, and integrating utilities for enhanced functionality. Learn the importance of the BaseTest and BasePage classes and how they streamline your test execution.\n\nEnhance your frameworks with data-driven testing by managing test data in Excel, writing custom utilities, and implementing data-driven test methods. Integrate logging with Log4j2 and generate advanced reports using Extent Reports. Additionally, the course covers version control using Git and GitHub, emphasizing the importance of branches and resolving merge conflicts.\n\nThis course is ideal for intermediate to advanced Selenium WebDriver users, automation testers, and QA engineers looking to deepen their understanding of building robust automation frameworks. Basic knowledge of Selenium and Java is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-selenium-webdriver-advanced-complete-framework-pio0y",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

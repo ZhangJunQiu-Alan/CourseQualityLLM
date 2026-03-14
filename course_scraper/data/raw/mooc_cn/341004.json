@@ -1,0 +1,31 @@
+{
+  "course_id": "341004",
+  "platform": "mooc_cn",
+  "title": "计算机建筑装饰设计入门",
+  "description": "室内设计、建筑设计、工业设计、游戏、影视、教学辅助和可视化等领域中都能见到3D建模的影子，它们都需要使用相关软件进行建模、材质、灯光和渲染。本课程以大量由浅入深的建筑装饰设计案例讲解了3ds Max和VRay软件操作及主要功能应用，并强调了3ds Max、VRay、Photoshop 各软件之间的相互结合作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/341004",
+  "instructors": [
+    {
+      "name": "焦灵;徐刚;孟周胤;鲁兵;金翠荣;李晗;刘艳荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25669,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

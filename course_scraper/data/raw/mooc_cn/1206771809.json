@@ -1,0 +1,31 @@
+{
+  "course_id": "1206771809",
+  "platform": "mooc_cn",
+  "title": "集装箱运输实务",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206771809",
+  "instructors": [
+    {
+      "name": "杨燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏航运职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11576,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

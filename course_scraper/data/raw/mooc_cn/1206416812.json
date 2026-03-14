@@ -1,0 +1,31 @@
+{
+  "course_id": "1206416812",
+  "platform": "mooc_cn",
+  "title": "自动控制原理",
+  "description": "本课程为自动化专业必修课，由北京科技大学自动化学院4位教授主讲。它以经典自动控制理论为主，从控制的基本概念，到控制系统的建立及其表示，再到系统的时、频域分析，最后到系统设计与综合，使学习者获得自动控制原理的基础知识，掌握理论联系实践的基本技能，为分析和设计复杂控制系统夯实基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206416812",
+  "instructors": [
+    {
+      "name": "丁大伟;付冬梅;董洁;徐正光",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13735,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

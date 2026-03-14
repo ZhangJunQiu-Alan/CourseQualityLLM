@@ -1,0 +1,36 @@
+{
+  "course_id": "gFgfWyO6EeuYSw6LSjHEtw",
+  "platform": "coursera",
+  "title": "R البرمجة باستخدام لغة",
+  "slug": "r-programming-ar",
+  "description": "ستتعلم في هذه الدورة كيفية البرمجة بلغة R وكيفية استخدامها لتحليل البيانات بصورة فعالة. ستتعلم كيفية تثبيت البرامج اللازمة لبيئة البرمجة الإحصائية وتكوينها وكيفية وصف مفاهيم لغة البرمجة العامة إذ يتم تطبيقها بلغة إحصائية عالية المستوى. تتناول الدورة المشكلات العملية في الحوسبة الإحصائية التي تشمل البرمجة في لغة R، وقراءة البيانات في لغة البرمجة R، والوصول إلى حزم R، وكتابة دوال R، وتصحيح الأخطاء، وتحديد التعليمات البرمجية R، وتنظيم التعليمات البرمجية R والتعليق عليها. ستعرض الموضوعات في تحليل البيانات الإحصائية أمثلة عملية.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "ar",
+  "url": "https://www.coursera.org/learn/r-programming-ar",
+  "instructors": [
+    {
+      "name": "Roger D. Peng, PhD",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Jeff Leek, PhD",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Brian Caffo, PhD",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

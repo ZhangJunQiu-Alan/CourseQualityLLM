@@ -1,0 +1,31 @@
+{
+  "course_id": "1206693811",
+  "platform": "mooc_cn",
+  "title": "牛生产学",
+  "description": "《牛生产学》是高等农业院校动物科学专业必修课程，围绕提高现代养牛业牛产品的数量和质量，介绍国内外养牛的先进理论和技术，并注重实验训练与实践能力提升，从而为现代养牛业发展培养高素质综合性专业人才。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206693811",
+  "instructors": [
+    {
+      "name": "王洪宝;昝林森;杨武才;辛亚平;高磊;赵春平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15099,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

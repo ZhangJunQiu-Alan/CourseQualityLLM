@@ -1,0 +1,31 @@
+{
+  "course_id": "1001861003",
+  "platform": "mooc_cn",
+  "title": "操作系统原理及应用",
+  "description": "电脑或各种智能终端已经成为我们学习、工作和生活中不可缺少的重要元素。您是否想了解电脑和智能终端管理海量数据资源，高效分派调度CPU、内存、硬盘等设备的原理和方法？本课程将带您了解电脑和智能终端的管家-操作系统的功能和工作原理，以及这些思路和方法在学习、工作和生活中的应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001861003",
+  "instructors": [
+    {
+      "name": "江长斌;燕翔;王虎;王宏宇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15504,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

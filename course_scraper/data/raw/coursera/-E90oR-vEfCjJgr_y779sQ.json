@@ -1,0 +1,26 @@
+{
+  "course_id": "-E90oR-vEfCjJgr_y779sQ",
+  "platform": "coursera",
+  "title": "Applied Natural Language Processing in Engineering Part 1",
+  "slug": "applied-natural-language-processing-in-engineering-part-1",
+  "description": "Welcome to this course on applied natural language processing in engineering. This course is designed to provide you with an in-depth understanding of NLP, a pivotal area of artificial intelligence that empowers computers to comprehend, interpret, and generate human language. Throughout this course, you will explore a wide range of topics, from fundamental NLP tasks like text classification and Named Entity Recognition (NER) to advanced techniques in neural machine translation and optimization methods critical for machine learning. We will delve into the complexities of teaching language to machines, addressing challenges like ambiguity, grammar, and cultural nuances. By the end of this part 1 course, you will have a foundational understanding of how modern NLP systems work - particularly those involving machine learning and deep learning. These topics will equip you to build, analyze and improve NLP systems across many applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/applied-natural-language-processing-in-engineering-part-1",
+  "instructors": [
+    {
+      "name": "Ramin Mohammadi",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Northeastern University "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,38 @@
+{
+  "course_id": "course-c50943b5-3375-4d50-9f91-911930551603",
+  "platform": "edx",
+  "title": "JavaScript Introduction",
+  "description": "This course is part of  W3C's \"Front-End Web Developer\" Professional Certificate.  \n JavaScript lets you add interactive features to your Web sites, including dynamically updated content, controlled multimedia, animated images, and much more. Developed in partnership between W3C and  University Côte d'Azur , this introductory course has been designed to help Web developers have an understanding of the basic concepts of the language. We present JavaScript best practices by means of many interactive examples, some of which being demonstrated in live coding videos. \n We use JavaScript in the Web browser. Why JavaScript is worth your time: \n \n HTML5, CSS and JavaScript are the “classic three” for developers and designers; \n It adds interactivity to your Web sites; \n It is powerful, easy to learn, and quick to write; \n It has great tools (editors, runtimes, lint tools, browsers, and third party libraries) as well as great online support through plenty of active open source communities. \n \n At the end of the course, we expect you to be able to read the source code of any JavaScript example found on the Web, learn from it, tweak it, and even – why not? – start contributing to open-source JavaScript projects.",
+  "learning_goals": [
+    "Cascading Style Sheets (CSS)",
+    "Front End (Software Engineering)",
+    "Web Pages",
+    "JavaScript (Programming Language)",
+    "Web Browsers",
+    "Web Development",
+    "Multimedia"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "michel-buffa",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The World Wide Web Consortium (W3C)"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 532,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

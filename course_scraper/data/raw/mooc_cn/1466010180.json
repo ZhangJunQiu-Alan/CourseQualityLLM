@@ -1,0 +1,31 @@
+{
+  "course_id": "1466010180",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "课程的前三讲，我们先来直面回答，《线性代数》是什么？《线性代数》有什么用？《线性代数》怎么学？之后，通过越野路线图的形式给出整个学习安排。学习、探索的过程中，在掌握基础理论的同时，注重从数学的视角看世界，能够真正体现数学课程所学内容的现实应用，一封电报、一杯红酒、一座建筑，亦或是投篮球、踢足球，甚至玩游戏中都存在线性代数的身影。阴天有灯，雨天有伞，《线性代数》与你同行。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466010180",
+  "instructors": [
+    {
+      "name": "孙博;殷先军;秦林霞;李慧斌;杨蕊;付小芹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中央财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6341,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

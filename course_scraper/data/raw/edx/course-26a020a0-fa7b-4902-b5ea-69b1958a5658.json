@@ -1,0 +1,42 @@
+{
+  "course_id": "course-26a020a0-fa7b-4902-b5ea-69b1958a5658",
+  "platform": "edx",
+  "title": "Statistics 1 Part 1: Introductory statistics, probability and estimation",
+  "description": "Statistics 1 Part 1 is a self-paced course from LSE which aims to introduce you to and develop your understanding of essential statistical concepts, methods and techniques, emphasising the applications of these methods. This course can be taken alone or as part of the LSE MicroBachelors program in Statistics Fundamentals or the LSE MicroBachelors program in Mathematics and Statistics Fundamentals.  \n Part 1, Introductory Statistics, Probability and Estimation, covers the following topics: \n ● Mathematical revision and the nature of statistics \n ● Data visualisation and descriptive statistics \n ● Probability theory \n ● The normal distribution and ideas of sampling \n ● Point and interval estimation \n Statistics 1 Part 1  forms part of a series of courses which focuses on the application of statistical methods in management, economics and the social sciences. During this course, you will focus on the interpretation of tables and results, and how to approach statistical problems effectively.",
+  "learning_goals": [
+    "Data Visualization",
+    "Economics",
+    "Probability Theories",
+    "Statistics",
+    "Normal Distribution",
+    "Basic Math",
+    "Probability",
+    "Management",
+    "Statistical Methods",
+    "Social Sciences",
+    "Sampling (Statistics)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 12-15 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "james-abdey-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The London School of Economics and Political Science"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1072,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

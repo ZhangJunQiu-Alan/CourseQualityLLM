@@ -1,0 +1,26 @@
+{
+  "course_id": "OgyTdFr3EfCekhJDthqyWw",
+  "platform": "coursera",
+  "title": "XHTML - Beginners",
+  "slug": "xhtml-beginners",
+  "description": "This beginner-friendly course introduces learners to the essentials of XHTML and its practical application in web development. Through a structured, hands-on approach, students will explore the foundational syntax of HTML and XHTML, gain experience in writing compliant code, and use essential tools for development and testing.\nThe course is divided into two comprehensive modules:\n• Module 1: Foundations of HTML and XHTML focuses on identifying structural elements, creating basic XHTML documents, and evaluating their validity using recognized web standards.\n• Module 2: Tools for Writing and Testing XHTML trains learners to apply suitable code editors like Notepad++ and utilize browser-based developer tools, such as those in Firefox, to test and verify XHTML output in real-time.\nBy the end of the course, learners will be able to construct, format, and validate XHTML pages with accuracy using both textual and visual debugging tools. The course promotes critical thinking and attention to standards compliance—key skills for aspiring front-end developers or content creators working with web markup.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/xhtml-beginners",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "GIi-IXkEEfCdeA7VR_Iplw",
+  "platform": "coursera",
+  "title": "Advanced Lean Production & Continuous Improvement",
+  "slug": "advanced-lean-production-continuous-improvement",
+  "description": "This course deepens your understanding of Lean Production by focusing on creating continuous flow, pull system, and quality-driven continuous improvement. Building on foundational Lean principles, you will further your quantitative process analysis skills, while at the same time learning practical and managerial techniques of Lean Production.\n\nYou will begin by analyzing flow interruptions caused by setup times degrade your process capacity. Large batches are an obvious solution, but lead to the waste of inventory. And, as you learned in the first course, you must keep your bottleneck running! The course uses practical examples for reducing setup times, applying Total Productive Maintenance (TPM), and measuring equipment performance using Overall Equipment Effectiveness (OEE). Every one of these topics can be immediately applied to any process. You are already able to make changes at your own workplace.\n\nThe next useful and practical concepts introduced are workplace organization and visualization, including a comprehensive introduction to 5S, supported by real-world case studies and industry guest lectures. Next, you will master pull systems and scheduling concepts such as Just-in-Time, push vs. pull, Heijunka (mixed-model production), and Kanban, including SME implementation examples.\n\nFinally, you will focus on quality and continuous improvement, exploring defect prevention, Poka Yoke, 5 Whys, Kaizen, and the relationship between Lean and Six Sigma.\n\nThrough videos, case studies, practice exercises, and graded assignments, you will develop practical skills to improve flow, productivity, and quality in manufacturing and service environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3-4 hours per week for 5 weeks",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-lean-production-continuous-improvement",
+  "instructors": [
+    {
+      "name": "Holly Claudia Ott",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Technical University of Munich (TUM)"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206706828",
+  "platform": "mooc_cn",
+  "title": "JavaScript及框架应用",
+  "description": "JavaScript是全球最流行的前端脚本语言，所有电脑、手机、平板端的网页交互，以及海量基于HTML5的移动应用、其核心动态交互逻辑均由JavaScript全程驱动。它是Web前端开发的核心基石，更是实现页面动态特效、数据交互、用户操作响应的核心技术，无JavaScript则无灵动的现代网页与前端应用，也是前端工程师必备的核心技能。本课程既详解JavaScript变量、数据类型、运算符、流程控制语句等入门知识，又深入剖析函数、对象、DOM/BOM 操作、ES6 新特性及jQuery应用等核心技术，同时拓展jQuery UI、MUI、Bootstrap、Vue3 等框架实操能力，助力打造交互丰富、趣味十足且用户友好的 Web 应用。课程适配零基础入门夯实基础、有基础者进阶提升的双重需求，在技术教学中有机渗透职业道德、社会责任与创新精神培育，实现技术能力与职业素养的同步提升。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206706828",
+  "instructors": [
+    {
+      "name": "郑丽萍;王启坤;李小龙;王志勃;卞震",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏电子信息职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 58214,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

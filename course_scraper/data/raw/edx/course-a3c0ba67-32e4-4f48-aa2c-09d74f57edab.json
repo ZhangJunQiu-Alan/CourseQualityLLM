@@ -1,0 +1,41 @@
+{
+  "course_id": "course-a3c0ba67-32e4-4f48-aa2c-09d74f57edab",
+  "platform": "edx",
+  "title": "UML Class Diagrams for Software Engineering",
+  "description": "Have you ever wondered how software architects, requirements engineers and business analysts sketch and draw out their plans for a software system? \n In this computer science course, you will gain an in-depth understanding on how to read and evaluate Unified Modeling Language (UML) class diagrams, as they are used to visually represent the conceptual design of a system. You will learn about UML class diagrams and how they are used to map out the structure of a business domain by showing business objects, their attributes, and associations. \n Taught by an instructor with decades of experience in requirements engineering and domain modelling, this course will equip you with the skill of in-depth understanding of a UML class diagram and will enable you to judge the functional fit of a UML class diagram as blueprint for the development of an enterprise information system. \n The Unified Modeling Language (UML) has become an in-demand skill in software development and engineering. In fact, some of today’s top jobs, i.e. business analysts, enterprise architects, but also developers, technical consultants and solutions architects, require UML knowledge. Enroll today and gain knowledge in an in-demand skill that will help set you apart from the competition.",
+  "learning_goals": [
+    "Requirements Engineering",
+    "Conceptual Design",
+    "Solution Architecture",
+    "Class Diagram",
+    "Business Objects Framework",
+    "Unified Modeling Language",
+    "Software Development",
+    "Blueprinting",
+    "Software Engineering",
+    "Computer Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "monique-snoeck",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "KU Leuven"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 661,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

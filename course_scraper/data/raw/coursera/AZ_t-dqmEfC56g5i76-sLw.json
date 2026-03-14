@@ -1,0 +1,26 @@
+{
+  "course_id": "AZ_t-dqmEfC56g5i76-sLw",
+  "platform": "coursera",
+  "title": "Python for Data Visualization - A Beginner's Guide",
+  "slug": "packt-python-for-data-visualization-a-beginners-guide-n1mmn",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you'll learn how to effectively use Python for data visualization. You will start by setting up your environment and installing key libraries like Anaconda, Matplotlib, Seaborn, and Cufflinks, which are the cornerstone tools for data visualization in Python. You'll explore reading and processing data with Pandas, setting the stage for building powerful visuals.\n\nAs the course progresses, you’ll dive deeper into creating different types of plots, including line plots, histograms, bar charts, scatter plots, and time-series visualizations. You'll master various customization techniques to modify colors, labels, axes, and styles to enhance the clarity and impact of your visualizations. You’ll also learn to manage multiple plots in a single figure, use Seaborn for aesthetic charts, and get hands-on with Plotly and Cufflinks for interactive, 3D visualizations.\n\nThe course is perfect for beginners with no prior experience in Python or data visualization. It is designed for anyone interested in leveraging Python to present data in engaging, meaningful ways. By the end of the course, you will be able to confidently create visualizations using Matplotlib, Seaborn, and Plotly. You will also be able to visualize time-series data and manage data visuals in multi-plot layouts, making it ideal for those who want to enhance their data analysis skills.\n\nBy the end of the course, you will be able to create line, bar, scatter, and 3D plots, visualize time-series data, and manipulate chart aesthetics to communicate complex data insights effectively.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-python-for-data-visualization-a-beginners-guide-n1mmn",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

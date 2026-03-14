@@ -1,0 +1,31 @@
+{
+  "course_id": "1473163168",
+  "platform": "mooc_cn",
+  "title": "结构力学Ⅰ",
+  "description": "结构力学是固体力学的重要分支，主要研究工程结构在载荷作用下的受力、变形及稳定性，并为结构优化设计提供理论支持。它是土木工程学科的核心课程，具有承上启下的作用，为后续专业课程（如弹性力学、钢结构、钢筋混凝土结构等）的学习奠定基础。现《结构力学Ⅰ》为陕西省一流本科课程，陕西省“课程思政”示范课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473163168",
+  "instructors": [
+    {
+      "name": "张波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "陕西理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 318,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

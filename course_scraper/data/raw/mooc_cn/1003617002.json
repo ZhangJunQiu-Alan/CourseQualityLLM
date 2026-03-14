@@ -1,0 +1,31 @@
+{
+  "course_id": "1003617002",
+  "platform": "mooc_cn",
+  "title": "分子生物学实验",
+  "description": "北京师范大学分子生物学实验课程已入选国家级线上一流课程，曾被评为国家精品课程和精品资源共享课，配套教材入选国家 “十二五”规划教材和北京市普通高等教育精品教材及北京市优质本科教材，课程教学改革曾获国家级教学成果二等奖。基于深厚的历史积淀，课程教学团队不断更新教学理念，完善教学内容融合人工智能技术建成的AI智慧课程将会给您带来全新的体验和更大的收获。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003617002",
+  "instructors": [
+    {
+      "name": "宋宏涛;尹燕霞;骆静;向本琼;杨冬;魏群;佟丽;刘月峤;曹英华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 71818,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

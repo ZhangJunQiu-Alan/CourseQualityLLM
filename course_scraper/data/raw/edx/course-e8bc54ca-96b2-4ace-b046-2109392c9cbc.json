@@ -1,0 +1,35 @@
+{
+  "course_id": "course-e8bc54ca-96b2-4ace-b046-2109392c9cbc",
+  "platform": "edx",
+  "title": "AI and Gen-AI for Supply Chain Management",
+  "description": "Supply chain management is instrumental and strategically important for an organization’s success. With the advent of digital technologies, cloud, and especially AI and Gen AI, there are novel ways to serve customers, enhance profitability, and save costs by adopting these disruptive technologies. At the same time, innovation in the supply chain process is recommended to harness the power of AI and Gen AI.      \n This course \"AI and Gen AI for Supply Chain Transformation\" is designed to provide learners with a comprehensive understanding of the role of AI and Gen AI in transforming supply chain management. The course covers the fundamentals of supply chain management, associated processes, data, analytics, teams, and technologies for managing the supply chain.     \n The course will cover topics such as machine learning, deep learning, natural language processing, and computer vision, and how these technologies are used in supply chain management. The course will then delve into the applications of AI and Gen AI in supply chain management, including demand forecasting, supply planning, inventory management, sourcing optimization, and logistics management. Learners will understand how AI and Gen AI can help organizations improve their supply chain efficiency, reduce costs, and enhance customer satisfaction.   \n The course will also explore the benefits of using AI and Gen AI in supply chain management, such as improved accuracy, speed, and decision-making. Learners will understand how AI and Gen AI can help organizations gain a competitive advantage and drive business success. The course will also discuss the challenges associated with implementing AI and Gen AI in supply chain management, such as data quality, privacy, and security concerns. The course will feature case studies and real-world examples.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jorge-morales",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "amit-sinha-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "International Supply Chain Education Alliance"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 569,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

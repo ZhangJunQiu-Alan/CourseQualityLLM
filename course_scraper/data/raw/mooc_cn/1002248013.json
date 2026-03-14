@@ -1,0 +1,31 @@
+{
+  "course_id": "1002248013",
+  "platform": "mooc_cn",
+  "title": "线性代数精讲与应用案例",
+  "description": "《线性代数精讲与应用案例》是首批国家级一流线上课程，体现了教育部一流课程“”两性一度”要求。内容选择上注重学生知识、能力、素质的有机融合，着力培养学生解决实际问题的综合能力和高级思维；力求反映学科的前沿性和时代性；安排了知识拓展与知识探究的视频、作业题等。      通过本课程的学习，化解重点难点，深入理解掌握线性代数理论，领略丰富多彩的应用案例。从而激发学习兴趣、提升数学思维，培养探究发现新知识、数学建模及数值计算的能力，为后续专业课程学习和工作奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002248013",
+  "instructors": [
+    {
+      "name": "高淑萍;杨威;黄丽娟;高洋;田阗;吴晓鹏;张帅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56288,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

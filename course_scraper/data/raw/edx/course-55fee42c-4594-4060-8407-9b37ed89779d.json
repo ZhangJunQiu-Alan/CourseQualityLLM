@@ -1,0 +1,38 @@
+{
+  "course_id": "course-55fee42c-4594-4060-8407-9b37ed89779d",
+  "platform": "edx",
+  "title": "Introduction to DevOps and Site Reliability Engineering",
+  "description": "As Agile practices started revolutionizing software development, there has been an increasing need to bridge the gap between faster development vs. slower deployment and operational practices. With its modern principles, practices and an array of state-of-the-art automation tools, DevOps provides a path to bring your operations into the Agile manifold, ultimately resulting in faster software delivery, without compromising on quality. \n As DevOps processes mature, there is a growing need for professionals with expertise in the key practices and tools. DevOps has not only opened up new opportunities for Operations personnel, but also provides them with a logical career progression. There is also an emergence of Site Reliability Engineering as a specific implementation of DevOps. This course has been designed as a first step in the journey of transforming operations into an all round DevOps expert. \n If you are a manager looking for guidelines on how to start transforming organizations, and understand where to start, this course is for you. If you aspire to make a career in the world of DevOps and Site Reliabilty Engineering, this course is your starting point. Upon completion, you should have a good understanding of the foundation, principles, and practices of DevOps and Site Reliability Engineering. \n The 2018 Open Source Jobs Report from Dice and the Linux Foundation highlighted the strong popularity of DevOps practices, along with cloud and container technologies. DevOps skills are in high demand, and DevOps jobs are among the highest paid tech jobs. Be at the forefront of revolutionizing technology advancements and of the learning curve. Get the knowledge and skills to understand how to deploy software with confidence, agility and high reliability using modern DevOps and SRE practices.",
+  "learning_goals": [
+    "Site Reliability Engineering",
+    "Agile Methodology",
+    "Automation",
+    "Operations",
+    "Software Development",
+    "Linux",
+    "DevOps"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "fazlur-rahman-khan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Linux Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 603,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

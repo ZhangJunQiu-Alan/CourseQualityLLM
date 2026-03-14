@@ -1,0 +1,26 @@
+{
+  "course_id": "OBJRggjbEfC3TQ5GC5VyRw",
+  "platform": "coursera",
+  "title": "Foundations for Data Analytics Part 1",
+  "slug": "foundations-for-data-analytics-part-1",
+  "description": "This course offers students an opportunity to learn fundamentals of computation required to understand and analyze real world data. The course helps students to work with modern data structures, apply data cleaning and data wrangling operations. The course covers conceptual and practical applications of probability and distribution, cluster analysis, text analysis and time series analysis.\n\nThis course is Part 1 of 2.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "7 weeks, 2-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/foundations-for-data-analytics-part-1",
+  "instructors": [
+    {
+      "name": "Qurat-ul-Ain Azim",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Northeastern University "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

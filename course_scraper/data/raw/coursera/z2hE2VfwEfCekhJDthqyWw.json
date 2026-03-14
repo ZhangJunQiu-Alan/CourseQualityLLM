@@ -1,0 +1,26 @@
+{
+  "course_id": "z2hE2VfwEfCekhJDthqyWw",
+  "platform": "coursera",
+  "title": "Introduction to SQL and relational databases",
+  "slug": "valencia-sandbox-2-",
+  "description": "In the modern business landscape, information represents the most valuable resource for organizations, with the majority of this critical data housed within digital relational database systems.\n\nThe overwhelming majority of database management platforms currently deployed across industries rely on SQL as their primary language for data manipulation and retrieval operations.\n\nAs a globally recognized standard, SQL empowers users to execute sophisticated data analysis and aggregation operations through an intuitive command structure that maximizes efficiency.\n\nFor professionals pursuing careers in data analytics, software development, or any field requiring database interaction capabilities, SQL proficiency serves as a fundamental prerequisite.\n\nThis comprehensive course will guide you through essential database management principles while providing hands-on experience with SQL implementation. Beginning with fundamental data retrieval techniques from single tables, you'll progress to advanced multi-table operations that enable comprehensive data analysis—all practiced using our cloud-based SQL simulation environment throughout your learning journey.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "5 weeks of study, 4 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/valencia-sandbox-2-",
+  "instructors": [
+    {
+      "name": "Nacho Despujol",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

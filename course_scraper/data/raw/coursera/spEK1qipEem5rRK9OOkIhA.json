@@ -1,0 +1,31 @@
+{
+  "course_id": "spEK1qipEem5rRK9OOkIhA",
+  "platform": "coursera",
+  "title": "Introducción a UML",
+  "slug": "uml",
+  "description": "Bienvenidos a este curso de introducción al Lenguaje de Modelado Unificado, o UML por su sigla en inglés. Este curso surge como respuesta a la necesidad de los ingenieros de software de desarrollar la habilidad de abstraer y representar en un modelo problemas o soluciones. Esta habilidad es especialmente importante en el mundo del software donde las tecnologías son tan cambiantes. Un modelo te provee una forma de comunicar y validar un entendimiento, independiente de la tecnología en la que construirás una solución.\nAl finalizar el curso, los estudiantes estarán en condiciones de comunicar sus diseños a otros miembros de un equipo de desarrollo o a otros equipos de desarrollo.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": " 5 horas a la semana por 4 semanas",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/uml",
+  "instructors": [
+    {
+      "name": "Juan Pablo Reyes Gómez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Rubby Casallas",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad de los Andes"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

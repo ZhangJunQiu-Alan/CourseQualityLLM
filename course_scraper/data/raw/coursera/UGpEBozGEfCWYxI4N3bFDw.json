@@ -1,0 +1,26 @@
+{
+  "course_id": "UGpEBozGEfCWYxI4N3bFDw",
+  "platform": "coursera",
+  "title": "Generative AI: Advancing Systems Analysis & Architecture",
+  "slug": "generative-ai-advancing-systems-analysis-and-architecture",
+  "description": "Are you a Systems Analyst, IT Systems Architect, Software Architect, or a Solutions Architect and keen to use generative AI (GenAI) to enhance how you analyze and design systems, define solution requirements, and share technical insights?  \n\nIn this course, you’ll learn how to craft prompts and apply AI-driven requirement extraction to convert unstructured inputs, such as stakeholder interviews, emails, and process notes, into structured documentation, including user stories, use cases, system requirements, and acceptance criteria.  \n\nYou’ll gain hands-on experience generating and refining BPMN diagrams, system architecture workflows, process flowcharts, and customer journey maps using AI-powered modeling tools. You'll use GenAI to produce solution design assets such as business rules, architecture summaries, impact assessments, and stakeholder-ready briefs. Plus, you'll explore practical integration of AI into platforms such as Jira, Confluence, Miro, and Power BI to enhance collaboration, traceability, and efficiency across solution design lifecycles.  \n \nIf you’re looking to develop job-ready skills in system analysis, solution clarity, and stakeholder alignment using GenAI, enroll today and become the future-ready architect businesses need.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/generative-ai-advancing-systems-analysis-and-architecture",
+  "instructors": [
+    {
+      "name": "SkillUp",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "SkillUp"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

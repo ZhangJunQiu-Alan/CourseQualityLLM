@@ -1,0 +1,31 @@
+{
+  "course_id": "1003723001",
+  "platform": "mooc_cn",
+  "title": "园林建筑设计",
+  "description": "《园林建筑设计》是风景园林专业、园林专业的专业基础课，其与风景园林规划设计、园林工程设计等课程互为支撑。通过课程的学习使学生全面理解园林建筑内涵，充分解读建筑与环境的密切关联，进而以更为全面的专业视角理解风景园林专业的内涵和学习目标，成为更加优秀的复合型风景园林专业人才。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003723001",
+  "instructors": [
+    {
+      "name": "乐志;郭苏明;张叶茜;季建乐;傅力;张哲;程云杉;何思琪;汤猛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29783,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

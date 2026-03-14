@@ -1,0 +1,43 @@
+{
+  "course_id": "course-f9fafce0-511b-40b2-ad6a-911477f14d97",
+  "platform": "edx",
+  "title": "Excel: gestión de datos",
+  "description": "Este es un curso de Microsoft Excel de nivel intermedio que te permitirá trabajar con datos para su tratamiento y extraer conclusiones mediante el agrupamiento de datos, el uso de tablas y gráficos dinámicos, las principales funciones de Excel, la realización de análisis de hipótesis y la vinculación de datos de otras hojas de cálculo.  \n El uso de Excel es fundamental para la buena toma de decisiones y es ampliamente usado en la inteligencia de negocios (Business Intelligence) y en otras áreas como la investigativa y la académica.  \n Durante el curso te enseñaremos como beneficiarte del manejo e interpretación de los datos con el uso de las herramientas de Excel y cómo las puedes aplicar en la vida real.",
+  "learning_goals": [
+    "Microsoft Excel",
+    "Decision Making",
+    "Data Management",
+    "Research",
+    "Spreadsheets",
+    "Management",
+    "Business Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jaime-busquets-mataix",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "victor-braquehais-acero",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 853,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

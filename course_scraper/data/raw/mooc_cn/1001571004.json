@@ -1,0 +1,31 @@
+{
+  "course_id": "1001571004",
+  "platform": "mooc_cn",
+  "title": "计算机操作系统",
+  "description": "1946年第一台计算机面世之后，科学家与工程师们一直致力于让计算机更好地为人类工作，一代又一代操作系统因此应运而生。操作系统是计算机系统的灵魂，它管理计算机系统的资源，提供友善的人机互动，对于每一位计算机用户来说，认知和理解操作系统非常重要。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001571004",
+  "instructors": [
+    {
+      "name": "葛季栋;李传艺;骆斌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 374938,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

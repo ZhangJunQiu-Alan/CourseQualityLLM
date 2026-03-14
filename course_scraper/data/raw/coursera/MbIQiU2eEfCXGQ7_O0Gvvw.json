@@ -1,0 +1,26 @@
+{
+  "course_id": "MbIQiU2eEfCXGQ7_O0Gvvw",
+  "platform": "coursera",
+  "title": "Real-World Applications & Model Deployment in Java ",
+  "slug": "real-world-applications--model-deployment-in-java",
+  "description": "Course Description:\nTake your machine learning skills to the next level by learning how to deploy real-world ML applications using Java. In this hands-on course, you’ll use tools like Spring Boot, Jenkins, GitHub Actions, and RL4J to integrate, automate, and monitor ML systems in enterprise environments—no advanced ML background required.\nIn the first module, you’ll explore how machine learning is applied in industries like banking and e-commerce. You’ll learn to build and expose ML models through Spring Boot REST APIs and automate deployment workflows using Jenkins and GitHub Actions.\nThe second module introduces advanced concepts like reinforcement learning, federated learning, and responsible AI. You'll explore how to build ethical, fair, and secure AI systems.\nIn the final module, you’ll apply your learning in a capstone project—designing, deploying, and monitoring a complete ML pipeline while exploring career opportunities in MLOps and AI engineering.\n\nLearning Objectives:\n-Deploy ML models in Java applications using Spring Boot, REST APIs, and edge deployment tools.\n-Automate ML pipelines with MLOps tools like Jenkins and GitHub Actions.\n-Apply reinforcement learning, federated learning, and responsible AI practices in enterprise contexts.\n\n\nTarget Audience:\nThis course is ideal for:\n-Experienced Java developers and machine learning practitioners ready to deploy ML in production.\n-Engineers working on enterprise software who need to integrate or scale ML capabilities.\n-DevOps or MLOps professionals seeking to automate ML workflows in Java-based stacks.\n-Professionals interested in responsible AI, edge computing, and advanced ML concepts like reinforcement or federated learning.\n\nDisclaimer: This course is an independent educational resource developed by Board Infinity and is not affiliated with, endorsed by, sponsored by, or officially associated with Oracle Corporation or any of its subsidiaries or affiliates. This course is not an official preparation material of Oracle Corporation. All trademarks, service marks, and company names mentioned are the property of their respective owners and are used for identification purposes only.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 5 Hours/ Week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/real-world-applications--model-deployment-in-java",
+  "instructors": [
+    {
+      "name": "Board Infinity",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Board Infinity "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "iFRlE2zZEe-Quwr_1ABTmQ",
+  "platform": "coursera",
+  "title": "Artificial Intelligence Industrial Control Systems Security",
+  "slug": "artificial-intelligence-industrial-control-systems-security",
+  "description": "The course \"Artificial Intelligence Industrial Control Systems Security\" explores the intersection of artificial intelligence (AI) and industrial control systems (ICS) security, focusing on the safety, trust, and privacy of AI technologies within critical infrastructures. Learners will gain a comprehensive understanding of the key cybersecurity challenges faced by ICS and the role AI can play in mitigating these risks. Through the exploration of large language models (LLMs), regulatory frameworks, and advanced ICS protocols, students will learn how to implement robust security measures for AI systems and industrial control environments.\n\nThe course stands out by providing hands-on learning experiences in critical areas such as supply chain risks, cybersecurity for PLCs, and OT protocols. By combining AI principles with real-world ICS security practices, learners will be equipped to analyze and respond to emerging threats in both AI and ICS sectors. This unique approach ensures a deeper, more integrated understanding of how AI can be applied to enhance cybersecurity in industrial environments. Whether you're a professional or a beginner, this course will prepare you to tackle the most pressing security challenges at the intersection of AI and industrial control systems.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 10-12 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/artificial-intelligence-industrial-control-systems-security",
+  "instructors": [
+    {
+      "name": "Jason Crossland",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

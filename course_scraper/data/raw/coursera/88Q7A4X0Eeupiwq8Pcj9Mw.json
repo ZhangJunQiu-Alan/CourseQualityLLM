@@ -1,0 +1,26 @@
+{
+  "course_id": "88Q7A4X0Eeupiwq8Pcj9Mw",
+  "platform": "coursera",
+  "title": "Operations Research (3): Theory",
+  "slug": "operations-research-theory",
+  "description": "Operations Research (OR) is a field in which people use mathematical and engineering methods to study optimization problems in Business and Management, Economics, Computer Science, Civil Engineering, Electrical Engineering, etc.\nThe series of courses consists of three parts, we focus on deterministic optimization techniques, which is a major part of the field of OR.\nAs the third part of the series, we study mathematical properties of linear programs, integer programs, and nonlinear programs. We also introduce applications of these theoretical properties: How they help us develop better ways to solve mathematical programs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/operations-research-theory",
+  "instructors": [
+    {
+      "name": "孔令傑 (Ling-Chieh Kung)",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "National Taiwan University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

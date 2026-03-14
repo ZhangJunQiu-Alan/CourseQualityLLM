@@ -1,0 +1,26 @@
+{
+  "course_id": "QJcR1TpnEfCGRg44G5OASw",
+  "platform": "coursera",
+  "title": "Learn Bash Shell Scripting for Automation",
+  "slug": "packt-learn-bash-shell-scripting-for-automation-s2ztr",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nDive into Bash shell scripting and unlock powerful automation skills to streamline tasks on Linux and Windows environments. You’ll start by setting up your scripting environment using WSL and CentOS, then move through core scripting concepts such as variables, inputs/outputs, loops, conditionals, and functions. The course carefully balances theory with hands-on practice, guiding you from basic script writing to advanced automation techniques including working with remote servers and REST APIs.\n\nThe journey includes mastering command chaining, text processing with tools like grep and sed, scheduling jobs via cron, and practical scripting for monitoring and system management. You’ll also explore debugging and logging to ensure your scripts are reliable and maintainable. This course builds progressively, allowing learners to develop skills in a structured and applicable manner.\n\nIdeal for system administrators, developers, DevOps engineers, and IT professionals seeking to automate workflows and improve efficiency. No prior scripting experience is required, but basic familiarity with Linux command line is helpful. This is a beginner to intermediate course designed to build your confidence in Bash scripting for real-world automation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-learn-bash-shell-scripting-for-automation-s2ztr",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

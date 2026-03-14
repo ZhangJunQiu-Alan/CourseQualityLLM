@@ -1,0 +1,26 @@
+{
+  "course_id": "IByJ51FlEeulPAroU7-MFQ",
+  "platform": "coursera",
+  "title": "Python for Finance: Beta and Capital Asset Pricing Model",
+  "slug": "copy-of-portfolio-assets-allocation-and-statistical-data-analysis",
+  "description": "In this project, we will use Python to perform stocks analysis such as calculating stock beta and expected returns using the Capital Asset Pricing Model (CAPM). CAPM is one of the most important models in Finance and it describes the relationship between the expected return and risk of securities. We will analyze the performance of several companies such as Facebook, Netflix, Twitter and AT&T over the past 7 years. This project is crucial for investors who want to properly manage their portfolios, calculate expected returns, risks, visualize datasets, find useful patterns, and gain valuable insights. This project could be practically used for analyzing company stocks, indices or  currencies and performance of portfolio.\n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/copy-of-portfolio-assets-allocation-and-statistical-data-analysis",
+  "instructors": [
+    {
+      "name": "Ryan Ahmed",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

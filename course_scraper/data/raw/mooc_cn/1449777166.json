@@ -1,0 +1,31 @@
+{
+  "course_id": "1449777166",
+  "platform": "mooc_cn",
+  "title": "算法设计与分析",
+  "description": "本课程既讲授动态规划与分而治之等经典算法策略，又以产教融合方式邀请阿里副总裁，第四范式CEO、联合创始人、ACM国际大学生程序设计竞赛世界冠军等算法专家分享经验。无论您是零基础的初学者，还是在刷题中困惑的求职者，本课程都将通过详细剖析实例降低理解难度，通过归纳总结问题揭示算法本质，助您真正学懂算法！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449777166",
+  "instructors": [
+    {
+      "name": "童咏昕;吕卫锋;徐毅;李昂生;许可",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 84185,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

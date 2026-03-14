@@ -1,0 +1,31 @@
+{
+  "course_id": "1002572004",
+  "platform": "mooc_cn",
+  "title": "电路分析",
+  "description": "近两百年来，电子电路无处不在。《电路分析》是一把打开电路理论之门的钥匙，是电子信息类专业知识的入门课程。本课程将围绕着“基尔霍夫两大定律”，深入探索线性电路、动态电路和正弦稳态电路的基本理论和分析方法。欢迎加入《电路分析》课程学习团队，不论是初学者，还是备考者，我们并肩同行。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002572004",
+  "instructors": [
+    {
+      "name": "李琳;刘慧;蔡国雄;车凯军;刘紫怀",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "厦门大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16880,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002248010",
+  "platform": "mooc_cn",
+  "title": "自动控制原理",
+  "description": "本课程为国家级精品课（精品资源共享课），是自动化、测控技术及仪器、电子信息工程及通信工程等相关专业的平台课，是自动化专业的专业基础课。通过学习，使学生了解自动控制系统的组成、特点及专业术语，学习并掌握古典控制理论的基本分析、设计方法，从而为进一步的理论学习和研究打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002248010",
+  "instructors": [
+    {
+      "name": "何大阔;王姝;徐林;石重霄;朱笑晨;方晓柯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 45738,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

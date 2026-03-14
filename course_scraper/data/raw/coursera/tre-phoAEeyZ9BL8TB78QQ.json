@@ -1,0 +1,26 @@
+{
+  "course_id": "tre-phoAEeyZ9BL8TB78QQ",
+  "platform": "coursera",
+  "title": "Automize Monthly Report Creation with Power Automate",
+  "slug": "automize-monthly-report-creation-power-automate",
+  "description": "Imagine you're working in a large company and part of your job is to send reports to other departments about employee absence from work in the past month. Basically, it is a repetitive and boring manual task that repeats every month and takes a lot of your time. However, you can easily automate it with SharePoint and Power Automate!\n\nIn this beginner-level guided project \"Automize Monthly Report Creation with Power Automate\", we will create a SharePoint Site and a SharePoint list with data about employees' annual leave days, sick leave days or days off. All the data will be kept in one place. That data will help us to create the Monthly Employee Absence Report. The Power Automate flow will export data from the SharePoint list and save it in an Excel spreadsheet. Then we will send the table (the report) in an email as an Excel table.\n\nThe requirement for this project is having a Microsoft Developer Program account, and you will be provided with instructions on how to get it right here.\n\nIf you are ready to make your and your colleagues’ lives easier by starting to automate manual, time-consuming processes which are hard to track, then this project is for you! Let's get started!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "90 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/automize-monthly-report-creation-power-automate",
+  "instructors": [
+    {
+      "name": "Dora Hrvoj",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "e-aBCWCHEe-2SQr_4ZYIrQ",
+  "platform": "coursera",
+  "title": "Building AI Applications with Haystack",
+  "slug": "building-ai-applications-with-haystack",
+  "description": "In Building AI Applications with Haystack you will learn a high-level orchestration framework that helps ensure your applications are flexible, extendible, and maintainable, even as the technology stack changes, user needs arise, and new features are added.\n\nUsing a framework can provide common features out of the box that significantly speeds up the development process. Haystack offers robust and flexible architecture and framework for building AI applications. It manages complexity and helps you focus more on developing your application at a higher level of abstraction.\n\nThroughout the course, you will develop several projects, including a RAG app, a news summarization app, a chat agent with function calling, and a self-reflecting agent with loops.\n\nWhat you’ll do: \n\n1. Learn about the core abstractions and unique building blocks of the Haystack framework and see how these elements can be combined for various AI use cases.\n\n2. Build a RAG pipeline by using Haystack components, pipelines, and document stores.\n\n3. Create custom components in your pipeline by building a Hacker News summarizer that extends your app’s ability to access APIs.\n\n4. Use conditional routing to create a branching pipeline with a fall back to web-search when the LLM does not have the context needed to fully respond to the user’s query.\n\n5. Build a self-reflecting agent for named entity recognition with a Haystack pipeline that is able to loop using an output validator custom component.\n\n6. Create a chat agent using OpenAI’s function-calling capabilities which allow you to provide Haystack pipelines as tools to the LLM, enhancing that agent’s capabilities.\n\nStart building exciting LLM applications and optimizing your development workflow using Haystack.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/building-ai-applications-with-haystack",
+  "instructors": [
+    {
+      "name": "Tuana Çelik",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "DeepLearning.AI"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "d5tIINweEfCHTg5dRViX4w",
+  "platform": "coursera",
+  "title": "Secure AI Interpret and Protect Models",
+  "slug": "secure-ai-interpret-and-protect-models",
+  "description": "Ever wonder if your smart AI is actually secure? In this course, we'll ditch the dry theory to show you how to build genuinely resilient AI systems from the ground up, making security a core part of your design, not just an afterthought. You'll begin by stepping into the role of an AI Security Architect, running a “pre-mortem” to think like an attacker and neutralize threats before they even happen. Through focused videos and exercises, you’ll master essential defenses like blocking bad data with input sanitization, ‘vaccinating’ your model against attacks with adversarial training, and protecting user data with differential privacy. This all culminates in a hands-on lab where you'll personally fix a vulnerable model and prove its new resilience. The main goal is to shift your mindset from reactive patching to proactive design, so you’ll walk away with the real-world skills to analyze defense strategies, successfully harden a model in a lab, and design a comprehensive security plan for any new AI project.\n\nThis course is for AI developers, security engineers, MLOps specialists, and data scientists aiming to master securing AI models against adversarial threats.\n\nProficiency in Python and a machine learning framework (e.g., TensorFlow, PyTorch). Foundational knowledge of building and training AI models.\n\nBy the end of this course, you’ll have gained the skills to thoroughly analyze and secure AI models, applying advanced defense mechanisms like adversarial training and differential privacy. You’ll be equipped to assess vulnerabilities, implement robust security strategies, and continuously test and improve your models. With hands-on experience fixing real-world AI vulnerabilities, you'll be prepared to design and deploy AI systems that are resilient against adversarial threats, ensuring their integrity and security throughout their lifecycle.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "60 Minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/secure-ai-interpret-and-protect-models",
+  "instructors": [
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Rifat Erdem Sahin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

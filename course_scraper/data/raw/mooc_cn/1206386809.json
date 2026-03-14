@@ -1,0 +1,31 @@
+{
+  "course_id": "1206386809",
+  "platform": "mooc_cn",
+  "title": "计量经济学",
+  "description": "计量经济学作为一种抽象的分析框架，使人们具有了一种简单、实用且清晰的认识世界的方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206386809",
+  "instructors": [
+    {
+      "name": "黄犚;李倩;沈毅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16501,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

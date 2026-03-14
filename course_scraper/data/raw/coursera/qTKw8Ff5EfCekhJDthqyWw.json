@@ -1,0 +1,26 @@
+{
+  "course_id": "qTKw8Ff5EfCekhJDthqyWw",
+  "platform": "coursera",
+  "title": "PyMongo - Advanced    ",
+  "slug": "pymongo-advanced",
+  "description": "This advanced, project-based course is designed to empower learners with the skills to apply, analyze, and transform MongoDB data using the PyMongo library in Python. Starting from fundamental data handling operations and culminating in powerful aggregation techniques, the course offers a structured and practical pathway for working with real-world document-oriented databases.\n\nLearners will begin by exploring core database concepts, understanding MongoDB’s document model, and mastering the use of PyMongo for basic operations such as inserting, querying, sorting, and pagination. Progressing into more complex topics, the course introduces advanced cursor mechanics, indexing strategies for performance, and efficient result handling using limit, skip, and count operations.\n\nIn the second phase, learners will construct aggregation pipelines to perform data summarization and transformation tasks. They will also convert raw MongoDB documents into structured pandas DataFrames to enable downstream analysis in Python workflows. Each concept is grounded in hands-on exercises and sample datasets, ensuring not just theoretical understanding but practical fluency.\n\nBy the end of this course, learners will be equipped to design performant data access patterns, build efficient analytics pipelines, and extract actionable insights from NoSQL databases using Python.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pymongo-advanced",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

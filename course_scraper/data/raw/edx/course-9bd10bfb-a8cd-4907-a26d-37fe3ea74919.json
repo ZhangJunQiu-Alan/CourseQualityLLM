@@ -1,0 +1,35 @@
+{
+  "course_id": "course-9bd10bfb-a8cd-4907-a26d-37fe3ea74919",
+  "platform": "edx",
+  "title": "Introduction to Data Science",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n The art of uncovering the insights and trends in data has been around for centuries. The ancient Egyptians applied census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science and in this course, you will meet some big data science practitioners and we will get an overview of what data science is today.",
+  "learning_goals": [
+    "Data Science",
+    "Big Data",
+    "Forecasting",
+    "Tax Collections"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alex-aklson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2068,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

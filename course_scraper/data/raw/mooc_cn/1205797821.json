@@ -1,0 +1,31 @@
+{
+  "course_id": "1205797821",
+  "platform": "mooc_cn",
+  "title": "走进机器人",
+  "description": "《走进机器人》是中职机器人专业和机电类专业的通识课程，作为学生入门教育课程，也适用于其它工科相关专业选修课程。欢迎大家积极选课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205797821",
+  "instructors": [
+    {
+      "name": "李国庆",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13875,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

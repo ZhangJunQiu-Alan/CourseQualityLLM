@@ -1,0 +1,31 @@
+{
+  "course_id": "1002766017",
+  "platform": "mooc_cn",
+  "title": "环境工程原理",
+  "description": "本课程是环境工程、环境科学等相关专业的主干专业基础课，体现了环境工程专业的特点，注重学生分析问题、解决问题能力的培养，通过本课程学习，可以使学生对环境工程中所涉及的相关原理、现象及过程有更加深刻的认识，为后续课程的学习奠定良好基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002766017",
+  "instructors": [
+    {
+      "name": "韩晓刚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建农林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10210,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

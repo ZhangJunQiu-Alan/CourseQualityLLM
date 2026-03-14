@@ -1,0 +1,31 @@
+{
+  "course_id": "1206307802",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "本课程面向经管类专业学生开设的线性代数。线性代数是一门结构紧凑、相对抽象的数学学科，注重培养学生化一般为特殊、化抽象为具体的学习方法和思考方式，注重培养学生透过现象看本质的抽象思考能力。本课程强调概念和理论的直观含义和实际应用，注重培养学生学以致用的意识、习惯和能力，注重培养学生自主学习的意识、习惯和能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206307802",
+  "instructors": [
+    {
+      "name": "傅宗飞;贾鲁军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国人民大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26781,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

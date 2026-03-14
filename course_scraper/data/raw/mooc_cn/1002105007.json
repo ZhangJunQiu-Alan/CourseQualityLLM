@@ -1,0 +1,31 @@
+{
+  "course_id": "1002105007",
+  "platform": "mooc_cn",
+  "title": "大学英语综合课程（四）",
+  "description": "欢迎大家和我们一起学习《大学英语综合课程》。这门课程为您提供学习英语语言文化、人文历史、科学知识的独特体验。一系列独具创意的知识讲解和活动设计将极大地增强您的语言表达、跨文化交际以及批判思维能力。还在犹豫什么？加入我们吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002105007",
+  "instructors": [
+    {
+      "name": "曹旸;周广艺;王泳利;张小玲;唐安华;彭天笑;梁晓波;李艾平;白云;庞超伟;邓静子",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 55437,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

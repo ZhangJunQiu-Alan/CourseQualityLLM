@@ -1,0 +1,31 @@
+{
+  "course_id": "1002376003",
+  "platform": "mooc_cn",
+  "title": "汽车机械基础",
+  "description": "《汽车机械基础》是针对汽车专业典型工作岗位群能力需求设置的一门专业基础课程，主要培养学生掌握简单力学分析、汽车材料、机械结构、液压传动等相关内容，为后续汽车维修工考证、混合动力汽车结构及检修等专业课程学习奠定良好的基础。同时，秉承协同育人的理念，将核心价值教育、劳动教育、科学思维、工匠精神、创新精神等元素融入课堂教学，实现学生知识、能力及价值观的共同建构。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002376003",
+  "instructors": [
+    {
+      "name": "林瑾",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡商业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19061,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

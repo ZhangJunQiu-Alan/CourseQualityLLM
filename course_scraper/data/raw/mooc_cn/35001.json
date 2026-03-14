@@ -1,0 +1,31 @@
+{
+  "course_id": "35001",
+  "platform": "mooc_cn",
+  "title": "高等数学（四）",
+  "description": "正是因为数学的抽象性，人们对数学望而生畏，但也正是数学这一特性，使人们在繁杂的世界中，逐步懂得宇宙发展的奥秘。为满足广大学习者学习高等数学的需求，全国优秀教师、国防科技大学朱健民教授，将在高等数学MOOC视频课堂，用形象生动的语言解释微积分思想形成的过程，与你一道感受数学的无穷魅力！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/35001",
+  "instructors": [
+    {
+      "name": "朱健民",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 232660,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

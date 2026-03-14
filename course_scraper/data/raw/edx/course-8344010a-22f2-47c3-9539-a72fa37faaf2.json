@@ -1,0 +1,30 @@
+{
+  "course_id": "course-8344010a-22f2-47c3-9539-a72fa37faaf2",
+  "platform": "edx",
+  "title": "Processus de raisonnement clinique",
+  "description": "Le cours présente le processus de raisonnement clinique tel que déployé par des cliniciens de différentes disciplines de la santé : médecine, médecine dentaire, sciences infirmières, médecine vétérinaire, pharmacie et physiothérapie. Le cours proposera une description et une explication du processus, étape par étape, illustrée par des exemples cliniques. Ce cours intéressera les étudiants et les professionnels de la santé évoluant dans des domaines où le raisonnement clinique tient une place centrale. \n Le processus de raisonnement clinique a été analysé et modélisé par six cliniciens de la Faculté de médecine (Université de Montréal) accompagnés par une cogniticienne. Le modèle résultant de cette recherche a été publié dans la revue Medical Education, en avril 2012(1). Cette recherche est la pierre angulaire du cours. \n (1) Référence : Charlin, B., Lubarsky, S., Millette, B., Crevier, F., Audétat, M.-C., Charbonneau, A., Caire Fon, N., Hoff, L. and Bourdy, C. (2012), Clinical reasoning processes: unravelling complexity through graphical representation. Medical Education, 46: 454–463. doi: 10.1111/j.1365-2923.2012.04242.x \n Ce cours en ligne a pour but de vulgariser un processus cognitif complexe afin de vous aider à vous l’approprier et les enseignants, à mieux vous soutenir.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "6 周，每周 3-4 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "nathalie-care-fon",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Université de Montréal"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 783,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

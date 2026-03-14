@@ -1,0 +1,31 @@
+{
+  "course_id": "1206675848",
+  "platform": "mooc_cn",
+  "title": "计算机科学与程序设计",
+  "description": "本课程根据大学计算机基础类课程教学改革的需求，由原有李凤霞老师主讲的两门国家精品在线课程《大学计算机》和《C语言程序设计（上、下）》修改整合而成，删减了数据库、指针、结构、文件等进阶内容，面向非信息类专业新生及自学人员开设，力争实现与课堂教学的同步，更好的为线上线下课堂教学服务。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206675848",
+  "instructors": [
+    {
+      "name": "陈宇峰;余月;李仲君;赵三元;刘华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6539,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

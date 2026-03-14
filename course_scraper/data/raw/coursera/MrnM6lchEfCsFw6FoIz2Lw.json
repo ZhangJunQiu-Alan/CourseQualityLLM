@@ -1,0 +1,26 @@
+{
+  "course_id": "MrnM6lchEfCsFw6FoIz2Lw",
+  "platform": "coursera",
+  "title": "Java Servlets Tutorial",
+  "slug": "java-servlets-tutorial",
+  "description": "This comprehensive course equips learners with the skills to design, develop, and manage dynamic web applications using Java Servlets and JDBC integration within the Java EE framework. Through a structured and hands-on approach, learners begin by exploring the core principles of servlet architecture, HTTP request handling, and server setup using Tomcat. As the course progresses, they will implement servlet lifecycle methods, configure initialization parameters, and construct scalable applications using the MVC pattern.\n\nLearners will gain a solid understanding of state management techniques such as session tracking, cookies, hidden fields, and URL rewriting. By mastering relational database fundamentals and SQL, they will apply data modeling and execute real-time JDBC operations within servlets. The final modules introduce servlet filters and authentication flows, culminating in a complete user registration and login system that showcases end-to-end integration.\n\nThroughout the course, students will demonstrate mastery of concepts by analyzing architecture, differentiating configuration components, applying secure session techniques, and building deployable applications. Ideal for aspiring backend developers and Java web programmers, this course emphasizes practical implementation aligned with Bloom’s higher-order skills such as constructing, evaluating, and managing complex systems.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/java-servlets-tutorial",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

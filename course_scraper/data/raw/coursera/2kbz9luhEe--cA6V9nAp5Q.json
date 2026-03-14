@@ -1,0 +1,31 @@
+{
+  "course_id": "2kbz9luhEe--cA6V9nAp5Q",
+  "platform": "coursera",
+  "title": "Foundations of Probability and Random Variables",
+  "slug": "foundations-of-probability-and-random-variables",
+  "description": "The course \"Foundations of Probability and Random Variables\" introduces fundamental concepts in probability and random variables, essential for understanding computational methods in computer science and data science. Through five comprehensive modules, learners will explore combinatorial analysis, probability, conditional probability, and both discrete and continuous random variables. By mastering these topics, students will gain the ability to solve complex problems involving uncertainty, design probabilistic models, and apply these concepts in fields like machine learning, AI, and algorithm design.\n\nWhat makes this course unique is its practical approach: students will develop hands-on proficiency in the R programming language, which is widely used in data science and statistical modeling. The course also includes real-world applications, allowing learners to bridge theoretical knowledge with practical problem-solving skills. Whether you are aiming to pursue advanced studies in machine learning or develop data-driven solutions in professional settings, this course provides the solid foundation you need to excel. Designed for learners with a background in calculus and basic programming, this course prepares you to tackle more advanced topics in computational science.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 weeks of study, 5-6 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/foundations-of-probability-and-random-variables",
+  "instructors": [
+    {
+      "name": "Ian McCulloh",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Tony Johnson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "FNlinV-kEe62wwrYx-2qTQ",
+  "platform": "coursera",
+  "title": "Oracle SQL Performance Tuning",
+  "slug": "oracle-sql-performance",
+  "description": "This course is designed to provide you with skills needed to improve query performance in Oracle databases. \n\nIn real-world scenarios, slow report generation and query execution often result from the sheer volume of data. To address this issue, this course covers topics such as Query Compilation and Execution, Indexing, Materialized Views, Common Table Expressions etc. Emphasis is on practical learning with step-by-step demonstrations. \n\nUpon completion, you will master SQL-level performance tuning and eliminating query bottlenecks. Our unique approach showcases query execution before and after applying tuning techniques, ensuring a comprehensive grasp of optimization methods.\n\nCourse Pre-Requisite: \n\nYou will need to be familiar with Relational Database Management System (RDBMS) concepts and have proficiency in SQL techniques, including joins, subqueries, set operators, GROUP BY and SQL functions.\n\nTarget Learner:\n\nThis course is designed for Database Administrators (DBAs), SQL Developers, Application Developers, Data Analysts seeking to enhance their Oracle SQL Performance Tuning skills. \n\nWhat Will You Learn:\n\nBy the end of this course, you will be able to:\n\n•\tCompose and optimize indexes for enhanced query performance\n•\tEvaluate the utilization of indexes within your queries\n•\tUnderstand the factors influencing Query Compilation\n•\tDetermine and apply appropriate data types for database columns",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "This course would require 1 hour per week to understand query optimization techniques in Oracle.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/oracle-sql-performance",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

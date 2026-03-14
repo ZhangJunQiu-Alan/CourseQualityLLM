@@ -1,0 +1,26 @@
+{
+  "course_id": "l31la3mKEe-zFg7heHyXOQ",
+  "platform": "coursera",
+  "title": "Getting started with the Vertex AI Gemini 1.5 Pro Model",
+  "slug": "googlecloud-getting-started-with-the-vertex-ai-gemini-1-5-pro-model-i43mr",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. This lab will provide an introductory, hands-on experience with Generative AI on Google Cloud.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-getting-started-with-the-vertex-ai-gemini-1-5-pro-model-i43mr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

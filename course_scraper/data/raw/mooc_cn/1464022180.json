@@ -1,0 +1,31 @@
+{
+  "course_id": "1464022180",
+  "platform": "mooc_cn",
+  "title": "Angular Web前端框架开发基础",
+  "description": "Angular是目前最流行的Web前端三大框架（Vue，Angular，React）之一，是一个用于设计动态web应用的结构框架。它横跨所有平台，包括： Web、移动 Web、移动应用、原生应用和桌面原生应用。通过 Web Worker 和服务端渲染，达到在如今(以及未来）的 Web 平台上所能达到的最高速度。使用简单的声明式模板，快速实现各种特性。使用自定义组件和大量现有组件，扩展模板语言。在几乎所有的 IDE 中获得针对 Angular 的即时帮助和反馈。        该课程是谷歌支持的教育部产学合作协同育人项目成果，是目前主流MOOC平台中唯一一门讲授Angular的课程。课程全部以案例方式讲授了利用Angular进行Web开发的方法和技巧。        通过本课程的学习，能够使你快速掌握TypeScript编程基础、Angular中的组件、数据和事件绑定、指令、服务、依赖注入、管道、路由、Ng-Zorro-Antd、服务器部署等内容。        所有案例都是课程负责人自己设计开发，将会给你带来耳目一新的感觉。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464022180",
+  "instructors": [
+    {
+      "name": "杜春涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北方工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4656,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

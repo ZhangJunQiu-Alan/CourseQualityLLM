@@ -1,0 +1,31 @@
+{
+  "course_id": "1001595001",
+  "platform": "mooc_cn",
+  "title": "电器理论基础",
+  "description": "工厂、学校、医院、宾馆中随处可见各式各样的开关设备，其与人们的生活休戚相关。但是，人们对开关的内部结构、工作原理、性能特征知之甚少。本课程从开关电器的结构特征出发，对开关中涉及的基础理论、物理现象、工作原理展开介绍与分析，可满足不同层次人员的学习需求。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001595001",
+  "instructors": [
+    {
+      "name": "许志红;汤龙飞;张云霄;郑博恺;庄杰榕;沈靖宇;郑昕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41899,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

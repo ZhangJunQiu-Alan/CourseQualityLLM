@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752035",
+  "platform": "mooc_cn",
+  "title": "工程力学",
+  "description": "力学作为技术工程学科的重要理论基础，是沟通自然科学基础理论与工程实践的桥梁。工程力学是将力学原理应用于工程实际的科学，主要包括“静力学”和“材料力学”两部分内容。欢迎同学们、朋友们走进这神奇而美妙的力学世界！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752035",
+  "instructors": [
+    {
+      "name": "张长英",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京工业职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30556,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

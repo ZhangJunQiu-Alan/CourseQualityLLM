@@ -1,0 +1,26 @@
+{
+  "course_id": "XKlB_d0oEe22LAo38arT7w",
+  "platform": "coursera",
+  "title": "Capstone and Practice Exam (AZ-500)",
+  "slug": "az-500-capstone-and-practice-exam",
+  "description": "Capstone and Practice Exam is the seventh course in the Microsoft Azure Security Engineer Associate Professional Certificate training program. It allows you to apply the skills gained from the previous six courses and prepare for the AZ-500 exam.\n\nThe course starts with a recap of courses 1 to 6, followed by a real-world capstone project. You will complete the tasks typically performed by an Azure security engineer and then submit the project for peer review. Then, you will evaluate other project submissions and discuss solutions with peers.\nFinally, you will take a program-level practice exam and receive guidance on enrolling in the AZ-500 Microsoft Azure security technologies exam.\n\nBy the end of this course, you will be able to:\n\n- Implement multifactor authentication.\n- Create a resource group and a new storage account and provide access to a user.\n- Create a strategy for implementing Azure security using security groups.\n- Set up a virtual machine (VM) to host a website, allowing only HTTP and HTTPS traffic.\n- Enable disk encryption on the VM.\n- Enable database auditing for a new Azure SQL database.\n- Enable Microsoft Defender for Azure SQL database.\n- List the steps to enroll in the AZ-500 exam.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/az-500-capstone-and-practice-exam",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

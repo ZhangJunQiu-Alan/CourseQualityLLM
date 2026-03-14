@@ -1,0 +1,31 @@
+{
+  "course_id": "1465650162",
+  "platform": "mooc_cn",
+  "title": "药物经济学",
+  "description": "药物经济学是一门应用经济学原理和方法来研究和评估药物治疗的成本与效果及其关系的边缘学科，是于20世纪80年代末90年代初期间诞生的新兴学科。自药物经济学诞生以来，越来越多的国家对其给予了高度重视和日益广泛的应用。药物经济学的研究任务主要是通过成本分析对比不同的药物治疗方案或药物治疗方案与其他治疗方案的优劣，设计合理的临床药学监护方案，保证有限的社会卫生保健资源发挥最大的效用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465650162",
+  "instructors": [
+    {
+      "name": "李歆;陶田甜;许飞飞;尚琳琳;张焕;姚东宁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京医科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3307,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

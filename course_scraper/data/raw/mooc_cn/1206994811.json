@@ -1,0 +1,31 @@
+{
+  "course_id": "1206994811",
+  "platform": "mooc_cn",
+  "title": "Linux网络操作系统",
+  "description": "本课程主要对Linux网络操作系统的环境搭建、系统常见命令的使用方法和管理运维方法进行讲解和讨论。无论你是一个计算机学习者，还是对Linux系统有兴趣的爱好者，只要你有一定的计算机命令基础，欢迎加入我们，一起来学习Linux操作系统，打开通往Linux世界的大门。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206994811",
+  "instructors": [
+    {
+      "name": "孔小婧;陈军章;李娟娟;白艳宇;周漪;岳珍梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "许昌职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20624,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

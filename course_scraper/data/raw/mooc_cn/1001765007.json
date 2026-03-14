@@ -1,0 +1,31 @@
+{
+  "course_id": "1001765007",
+  "platform": "mooc_cn",
+  "title": "书法学堂",
+  "description": "《书法学堂》是中国传统书法艺术普及通识性课程，受众面广，共享性好。该课程以书法初学者为主要受众对象。高清解析书法的用笔、结构、章法中的技巧与方法，注重基础理论与经典示例相结合。通过本门课程学习，大大提高学员书法“眼力”与“笔力”，修身、养性、益智、冶情，弘扬书法文化艺术。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001765007",
+  "instructors": [
+    {
+      "name": "冯辉荣;余端照;沈伟棠;郑思宁;敖永霞;孙文周;聂丽华;陈琼",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建农林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 148138,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

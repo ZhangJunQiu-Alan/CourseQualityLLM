@@ -1,0 +1,31 @@
+{
+  "course_id": "1206448827",
+  "platform": "mooc_cn",
+  "title": "电工技术",
+  "description": "本课程主要讲授面向工程应用的电工技术，具体包括电路基础、磁路及交流铁心线圈电路，常用电机的工作原理、特性及使用方法以及常用控制电器与常用电气控制电路等几大部分，立足基本概念及基本分析方法，着重培养问题分析和求解能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206448827",
+  "instructors": [
+    {
+      "name": "刘晓芳;郑雪梅;杨威;韩基业;吴建强;刘桂花;张继红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30592,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

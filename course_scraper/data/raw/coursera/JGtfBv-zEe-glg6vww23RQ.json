@@ -1,0 +1,26 @@
+{
+  "course_id": "JGtfBv-zEe-glg6vww23RQ",
+  "platform": "coursera",
+  "title": "Getting Started with Flutter & Dart",
+  "slug": "packt-getting-started-with-flutter-dart-ojprz",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nKickstart your journey in Flutter app development with this hands-on course designed for beginners and aspiring developers. You’ll learn how to set up the Flutter development environment on Windows and macOS, install Visual Studio Code, and create your first Flutter application. By the end, you'll be equipped with the fundamental skills needed to build interactive mobile apps.\n\nThis course takes a structured approach, starting with an introduction to Flutter and Dart, covering essential concepts like variables, functions, and object-oriented programming in Dart. You’ll then move on to Flutter widgets, diving deep into stateless and stateful widgets while learning how to build interactive UI components. Hands-on exercises will reinforce your knowledge, including building a Fortune Cookie app and a fully functional Tip Calculator app.\n\nThroughout the course, you’ll gain experience in working with widget hierarchies, managing state with setState(), applying themes, and using advanced Dart features such as named parameters and object-oriented principles. By working on practical projects, you'll understand how to refactor and optimize your code for efficiency and maintainability.\n\nWhether you’re a beginner or a developer looking to transition into mobile app development, this course is perfect for you. No prior experience in Flutter or Dart is needed, but basic programming knowledge is helpful. By the end, you’ll have a solid foundation to build your own Flutter applications confidently.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-getting-started-with-flutter-dart-ojprz",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

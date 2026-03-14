@@ -1,0 +1,31 @@
+{
+  "course_id": "1206463823",
+  "platform": "mooc_cn",
+  "title": "机电一体化系统设计",
+  "description": "机电一体化系统是集机、电于一体的现代机械系统，由机械、传感、驱动、控制四部分组成。本课程从机、电有机结合的角度出发，较为全面地、系统地阐述了机电一体化系统的设计原理和方法，系统数学建模及仿真分析的方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206463823",
+  "instructors": [
+    {
+      "name": "史丽晨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安建筑科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18514,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

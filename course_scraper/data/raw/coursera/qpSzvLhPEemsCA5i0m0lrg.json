@@ -1,0 +1,26 @@
+{
+  "course_id": "qpSzvLhPEemsCA5i0m0lrg",
+  "platform": "coursera",
+  "title": "AI's Existing Impact",
+  "slug": "aiexistingimpact",
+  "description": "Artificial Intelligence (AI) is transforming industries by enhancing personalization and customer experience. This course, \"AI's Existing Impact,\" delves into the benefits of personalization for brands, helping you distinguish between personalization and customization. You will learn to identify opportunities to leverage AI to support personalization efforts and understand different approaches used in implementing personalization algorithms.\n\nThe course also covers content moderation challenges and helps you assess the tradeoffs between the benefits and risks of personalization algorithms in various contexts. You'll explore different approaches to building recommendation systems and learn how organizations can monetize these systems' results. Additionally, you'll uncover the shortcomings of recommendation systems, including their predictive limitations and societal effects.\n\nExplore how chatbots are built and how marketing organizations can utilize them to improve customer experiences. You'll assess the opportunities and challenges of implementing chatbots in marketing and understand factors affecting consumer acceptance of AI.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3-6 weeks of study, 2-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aiexistingimpact",
+  "instructors": [
+    {
+      "name": "David Schweidel",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Emory University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

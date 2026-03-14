@@ -1,0 +1,48 @@
+{
+  "course_id": "course-ca4d451e-2e01-42f4-a49e-d3e891ceb22e",
+  "platform": "edx",
+  "title": "A-level Further Mathematics for Year 13 - Course 1: Differential Equations, Further Integration, Curve Sketching, Complex Numbers, the Vector Product and Further Matrices",
+  "description": "This course by Imperial College London is designed to help you develop the skills you need to succeed in your A-level further maths exams. \n You will investigate key topic areas to gain a deeper understanding of the skills and techniques that you can apply throughout your A-level study. These skills include:   \n *  Fluency – selecting and applying correct methods to answer with speed and efficiency    \n *  Confidence – critically assessing mathematical methods and investigating ways to apply them    \n *  Problem solving – analysing the ‘unfamiliar’ and identifying which skills and techniques you require to answer questions    \n *  Constructing mathematical argument – using mathematical tools such as diagrams, graphs, the logical deduction, mathematical symbols, mathematical language, construct mathematical argument and present precisely to others    \n *  Deep reasoning – analysing and critiquing mathematical techniques, arguments, formulae and proofs to comprehend how they can be applied  \n Over eight modules, you will be introduced to  \n \n  Analytical and numerical methods for solving first-order differential equations  \n  The nth roots of unity, the nth roots of any complex number, geometrical applications of complex numbers.  \n Coordinate systems and curve sketching. \n Improper integrals, integration using partial fractions and reduction formulae \n The area enclosed by a curve defined by parametric equations or polar equations, arc length and the surface area of revolution. \n Solving second-order differential equations \n The vector product and its applications \n Eigenvalues, eigenvectors, diagonalization and the Cayley-Hamilton Theorem.  \n \n Your initial skillset will be extended to give a clear understanding of how background knowledge underpins the A -level further mathematics course. You’ll also be encouraged to consider how what you know fits into the wider mathematical world.",
+  "learning_goals": [
+    "Integration",
+    "Basic Math",
+    "Differential Equations",
+    "Language Construct",
+    "Numerical Analysis",
+    "Problem Solving",
+    "Sketching"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "philip-ramsden",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "phil-chaffe",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-bedford",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Imperial College London"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 338,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

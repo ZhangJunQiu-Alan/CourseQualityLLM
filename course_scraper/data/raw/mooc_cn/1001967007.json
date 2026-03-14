@@ -1,0 +1,31 @@
+{
+  "course_id": "1001967007",
+  "platform": "mooc_cn",
+  "title": "生命科学导论",
+  "description": "国家精品课程《生命科学导论》第13学期。如果您想探索生命的奥秘、了解身边的生物、知晓健康与疾病的关系，请参与《生命科学导论》课程的学习。本课程由国家教学名师领衔，6位一线从事生命科学研究的老师共同担纲。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001967007",
+  "instructors": [
+    {
+      "name": "陈振夏;高友军;郑用琏;郑世学;李兴旺;张敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21866,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

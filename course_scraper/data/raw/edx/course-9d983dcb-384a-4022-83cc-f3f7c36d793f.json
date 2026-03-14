@@ -1,0 +1,24 @@
+{
+  "course_id": "course-9d983dcb-384a-4022-83cc-f3f7c36d793f",
+  "platform": "edx",
+  "title": "Getting Started with AI Agents in GitHub Copilot",
+  "description": "This comprehensive course delves into the world of AI agents within the Azure ecosystem. You'll begin with a fundamental understanding of what an agent service is and grasp the core concepts of an AI agent, including its structure and function. Crucially, you'll learn exactly where and how to access this powerful service within the Azure platform. Progressing further, you'll gain practical knowledge on how to effectively utilize the agent service, mastering its interface and functionalities. You'll also explore the use of Software Development Kits (SDKs) to programmatically interact with the service, enabling more advanced and customized applications. A key focus is understanding the real-world utility of AI agents, exploring scenarios where they provide significant advantages. You'll thoroughly learn and apply the various features offered by the Azure AI Agent Service, unlocking its full potential. Finally, the course culminates in a hands-on experience where you will build your very first AI agent using the Azure AI Agent Service, solidifying your knowledge and skills through practical application. This journey will equip you with the ability to design, deploy, and manage intelligent agents to solve complex problems and automate tasks.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 608,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

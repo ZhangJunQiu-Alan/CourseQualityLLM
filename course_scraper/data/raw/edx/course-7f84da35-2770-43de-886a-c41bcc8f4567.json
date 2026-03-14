@@ -1,0 +1,48 @@
+{
+  "course_id": "course-7f84da35-2770-43de-886a-c41bcc8f4567",
+  "platform": "edx",
+  "title": "Forensic Engineering: Learning from Failures",
+  "description": "What do collapsed buildings, infected hospital patients, and crashed airplanes have in common? If you know the causes of these events and conditions, they can all be prevented. \n In this course, you will learn how to use the TU Delft mind-set to investigate the causes of such events so you can prevent them in the future. \n When, for instance, hundreds of hospital patients worldwide got infected after having gall bladder treatments, forensic engineering helped reveal how the design and use of the medical instruments could cause such widespread infections. As a result, changes were made to the instrument design and the procedural protocols in hospitals. Learning from failure in this case benefitted patient health and safety across the world. \n After taking this course you will have an understanding of failures and the investigation processes used to find their causes. You will learn how to apply lessons gained from investigating previous failures into new designs and procedures. \n The TU Delft Forensic Engineering mind-set involves recommendations for: \n \n Data collection ranging from desk studies (theoretical/predicted performance of structures) to field investigations (actual performance of failed structures) \n Hypothesis generation techniques for technical and procedural causes of failure \n Hypothesis testing for engineering aspects of forensic cases \n Reporting findings about the most likely causes and consequences \n Improving engineering designs based on lessons learned from forensic cases \n \n The course uses case studies from Building Engineering, Aerospace Engineering, and Biomechanical Engineering. All of these provide great examples that illustrate the approaches and highlight technical and procedural causes of failure. You'll find that not only is it crucial, but it's also exciting to learn from failures. \n This course is most useful for: \n \n Students who want to familiarize themselves with forensic engineering \n Building, aeronautical, biomechanical designers and engineers \n Forensic investigators, police, legal and insurance professionals \n Professionals from municipalities, government agencies or clients who are asked to perform internal forensic investigations \n \n This course has been designed by TU Delft's international experts on safety issues, failure investigations and forensics. Arjo Loeve, Michiel Schuurman and Karel Terwel are members of the TU Delft Forensics community, the Delft Safety &amp; Security Institute and the CLHC Expertise Center for Forensic Science and Medicine.",
+  "learning_goals": [
+    "Forecasting",
+    "Forensic Engineering",
+    "Investigation",
+    "Biomechanical Engineering",
+    "Architectural Engineering",
+    "Forensic Sciences",
+    "Aerospace Engineering"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "michiel-schuurman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "karel-c-terwel",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "arjo-loeve",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 332,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

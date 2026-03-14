@@ -1,0 +1,31 @@
+{
+  "course_id": "1002695008",
+  "platform": "mooc_cn",
+  "title": "电路（下）",
+  "description": "从交直流供电系统到无线信号网络，电在我们周围无处不在。我们经常能接触到各种各样的电路，这些电路是如何工作的？它们的共性理论基础是什么？请跟随哈工大电路（下）MOOC课程，去开启电路暂态分析、网络计算，非线性分析及分布参数电路理论的大门，揭开电路理论的神秘面纱。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002695008",
+  "instructors": [
+    {
+      "name": "刘洪臣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 49533,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

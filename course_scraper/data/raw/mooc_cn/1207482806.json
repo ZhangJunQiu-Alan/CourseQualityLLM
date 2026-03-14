@@ -1,0 +1,31 @@
+{
+  "course_id": "1207482806",
+  "platform": "mooc_cn",
+  "title": "基础西班牙语",
+  "description": "《基础西班牙语》这门在线课程，旨在帮助更多的有一定西班牙语基础的专业、第二外语和语言培训学生建构和巩固基本的语言和语法体系，打开了解西语世界的窗口。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207482806",
+  "instructors": [
+    {
+      "name": "陈星;林婧;刘柳;吴静",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "广东外语外贸大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35650,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

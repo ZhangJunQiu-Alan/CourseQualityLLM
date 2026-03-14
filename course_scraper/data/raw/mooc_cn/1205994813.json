@@ -1,0 +1,31 @@
+{
+  "course_id": "1205994813",
+  "platform": "mooc_cn",
+  "title": "工程图学",
+  "description": "本门课程研究工程与产品信息表达和交流。讲授用正投影法绘制和阅读机械工程图样的基本原理和方法。1. 培养依据投影理论用二维图形表达三维形体的能力。2. 培养空间想象和形象思维能力。3. 培养徒手绘图和尺规绘图的能力。4. 培养绘制和阅读工程图样的基本能力。5. 培养工程意识、标准化意识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205994813",
+  "instructors": [
+    {
+      "name": "刘宇红;张润利;杨冬;商鹏;李满宏;魏俊;雷从一;丁湘燕;吴锦辉;李爱荣;田玉梅;田颖;段萍;田飞;刘伟;王荣;朱东彬;侯东明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16337,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

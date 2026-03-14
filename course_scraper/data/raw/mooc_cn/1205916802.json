@@ -1,0 +1,31 @@
+{
+  "course_id": "1205916802",
+  "platform": "mooc_cn",
+  "title": "油气地质与勘探",
+  "description": "探索石油天然气的前世今生，追寻石油天然气的足迹——成烃、成藏、勘探。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205916802",
+  "instructors": [
+    {
+      "name": "曲江秀;纪文明;蒋有录;许启鲁;刘华;王奇;查明;丁修建;谭丽娟;刘景东;张卫海",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国石油大学（华东）"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9998,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

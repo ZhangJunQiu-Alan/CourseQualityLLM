@@ -1,0 +1,26 @@
+{
+  "course_id": "j0OMm2IYEe6yuQ41HILERQ",
+  "platform": "coursera",
+  "title": "Learn Class Components in React",
+  "slug": "learn-class-components-in-react",
+  "description": "Although modern React tends to use functional components, knowledge of class components remains a useful skill to have in your toolbox. You might find yourself dealing with legacy code, or a colleague who prefers them. The difference between functional and class components might come up in an interview - who knows!\nIn this course, Bob Ziroll takes you through the essential basics of class components with a collection of interactive challenges designed to get you coding as much as possible. This approach leaves you with rock-solid knowledge which really sticks.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/learn-class-components-in-react",
+  "instructors": [
+    {
+      "name": "Bob Ziroll",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Scrimba"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

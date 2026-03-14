@@ -1,0 +1,31 @@
+{
+  "course_id": "v_OYIX3PEfCg3xIW63Qccw",
+  "platform": "coursera",
+  "title": "Data Science Fundamentals Part 1: Unit 1",
+  "slug": "pearson-data-science-fundamentals-part-1-learning-basic-concepts-data-wran-yrtzd",
+  "description": "This course demystifies core data science concepts and techniques through engaging Python lessons and real datasets. You’ll gain practical experience working with the Python ecosystem, including pandas, NumPy, scikit-learn, and more, as you analyze authentic data and build meaningful applications from scratch. From setting up your programming environment to building your first recommendation engine, each lesson emphasizes intuition, best practices, and the computational skills needed to tackle “undomesticated” data problems. No advanced math or statistics background required—just a willingness to learn and a basic familiarity with programming. By the end of the course, you’ll have built real projects, mastered essential data science workflows, and developed the confidence to apply machine learning algorithms to real-world challenges.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "Less than two week.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-data-science-fundamentals-part-1-learning-basic-concepts-data-wran-yrtzd",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Jonathan Dinu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

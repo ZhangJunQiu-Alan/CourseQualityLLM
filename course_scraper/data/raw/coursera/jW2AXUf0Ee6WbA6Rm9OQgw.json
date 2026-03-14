@@ -1,0 +1,26 @@
+{
+  "course_id": "jW2AXUf0Ee6WbA6Rm9OQgw",
+  "platform": "coursera",
+  "title": "Building No-code Apps using Amazon Honeycode",
+  "slug": "building-no-code-apps-using-amazon-honeycode",
+  "description": "This course helps you build no-code apps and learn how to create custom business applications on AWS without coding. This course covers app design, workflow automation, and efficient data management using Amazon Honeycode’s easy‑to‑use tools.\n\nThroughout this short course, you'll explore the industry-specific applications of Amazon Honeycode and delve into various features and functionalities. By the end of this course, you will be able to:\n\n- Describe the characteristics and components of the Honeycode interface.\n- Design user interfaces, layouts, and interactive elements for applications.\n- Implement automation logic without coding using Honeycode Builder.\n- Create web and mobile applications using the no-code visual builder\n- Collaborate with team members, manage versions, and handle conflicts.\n\nThis short course is designed for a diverse audience: freshers, database administrators, project managers, business analysts, and IT professionals who are looking to enhance their AWS database skills through Amazon Honeycode.\n\nPrior experience with database management or spreadsheet applications can be beneficial when working with Amazon Honeycode.\n\nEmbark on an educational voyage to master Amazon Honeycode and enhance your skills in creating efficient applications and workflows within the AWS ecosystem.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1week of study, 5hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/building-no-code-apps-using-amazon-honeycode",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

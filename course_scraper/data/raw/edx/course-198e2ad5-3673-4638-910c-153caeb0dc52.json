@@ -1,0 +1,30 @@
+{
+  "course_id": "course-198e2ad5-3673-4638-910c-153caeb0dc52",
+  "platform": "edx",
+  "title": "Network Defense Essentials (NDE)",
+  "description": "Network security plays a vital role in most organizations. It is the process of preventing and detecting unauthorized use of an organization’s networking infrastructure. Network Defense Essentials (NDE) is a security program covering the fundamental concepts of network security.   It equips students with the skills required to identify the increasing network security threats that reflect on the organization's security posture and implement general security controls to protect the underlying networking infrastructure from unauthorized access, modification, destruction, or disclosure.    \n This program will give a holistic overview of the key components of network security. It provides a solid fundamental knowledge required for a career in network security.   \n Why is NDE Important?   \n §  It facilitates your entry into the world of network security    \n §  It provides a professional understanding of the concepts of network security    \n §  It provides best practices to improve organizational security posture    \n § It enhances your skills as a Network Security Specialist and increases your employability",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 16-24 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "kevin-king",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EC-Council"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 557,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

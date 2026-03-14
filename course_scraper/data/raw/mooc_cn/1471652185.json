@@ -1,0 +1,31 @@
+{
+  "course_id": "1471652185",
+  "platform": "mooc_cn",
+  "title": "机电系统分析与设计",
+  "description": "《机电系统分析与设计》是一门根据授课内容，引入许多相关工程实践案例和学科竞赛项目的课程，系统地介绍了机电一体化系统（产品）设计的基本方法。通过对机电一体化系统设计实例进行分析设计，使学生了解机电一体化系统的设计思路与设计方法。学生通过对众多应用实例的学习，可以快速、全面地掌握机电一体化系统的原理、应用原则和设计方法，达到熟练地实现机电一体化系统设计和应用的目的。在提高学生分析与设计机电系统能力的同时，培养学生科学素养和工匠精神，为进一步开展机电一体化创新实践课程、毕业设计和今后参加工作奠定坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471652185",
+  "instructors": [
+    {
+      "name": "马家欣;满增光;马文斌;宇晓明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 177,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

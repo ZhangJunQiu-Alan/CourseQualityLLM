@@ -1,0 +1,31 @@
+{
+  "course_id": "1469154162",
+  "platform": "mooc_cn",
+  "title": "机械制造技术基础",
+  "description": "本课程的教学，旨在帮助学生了解和掌握机械制造技术的有关基本理论和基本知识，包括机械产品的生产过程及生产活动的组织、机械加工过程及系统、金属切削过程及其基本规律、机床、刀具和夹具的基本知识、机械加工表面质量及加工精度分析、机械加工工艺过程和装配工艺过程相关的基本理论知识和相应的技能，逐步培养学生分析解决工程实际问题的能力和工程设计能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1469154162",
+  "instructors": [
+    {
+      "name": "苑明海",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1884,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

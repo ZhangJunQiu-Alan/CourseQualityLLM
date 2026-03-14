@@ -1,0 +1,29 @@
+{
+  "course_id": "course-26ec36f3-8e89-4072-a796-2ae72540dad2",
+  "platform": "edx",
+  "title": "AI Prompt Engineering Fundamentals",
+  "description": "Unlock the full potential of artificial intelligence with this comprehensive course on  Prompt and LLM Engineering . This is the perfect  ChatGPT beginner course  to get you started. You will delve into the essential principles and techniques of  AI Prompt Engineering  to craft effective prompts that form the foundation of all modern  LLM engineering  and interaction with  agentic AI . While the sources do not explicitly name  ChatGPT  , the  prompt engineering  principles, techniques, and design strategies taught, such as In-context Learning, Chain-of-Thought Prompting, and the C.O.S.T.A.R.S Prompt Design methodology, are the building blocks for optimizing your interactions with large language models like  ChatGPT  and directing other AI systems. \n Throughout the course, you will first establish a foundational understanding of what a prompt is and the core concept of prompting—the first step in  LLM engineering . You will then explore various  prompt engineering  techniques, including how to identify and manage \"Bad Prompts\" and leverage resources like the \"IPL Prompt Library for Product Managers\". The curriculum extensively covers the \"C.O.S.T.A.R.S Prompt Design\" framework, breaking down key elements such as Context, Objective, Style, Tone, Audience, Response, and Steps. These skills are crucial for designing instructions for any AI, from simple chatbots to sophisticated  agentic AI . Furthermore, you will gain insights into the \"Principles Of Prompt Instruction\", focusing on critical aspects like structure, language, and reusability. By the end of this course, you will be equipped to consistently generate high-quality, impactful prompts, giving you the core skills needed to excel in  AI Prompt Engineering  and begin your journey into advanced  LLM Engineering .",
+  "learning_goals": [
+    "Design Strategies",
+    "Artificial Intelligence",
+    "Chatbot",
+    "Master Of Laws"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Institute of Product Leadership (IPL)"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 776,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

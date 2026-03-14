@@ -1,0 +1,31 @@
+{
+  "course_id": "1002267006",
+  "platform": "mooc_cn",
+  "title": "电机学",
+  "description": "电机学是以电机为研究对象的一门课程，是理工科高校电气类非常重要的技术基础课，在专业基础课和专业课之间起着承上启下的作用。它是学生学习后续专业课（如电机设计、电机控制、电力系统分析、电力拖动等）的课程基础，在培养学生电气问题的综合分析与解决能力方面占有重要的地位。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002267006",
+  "instructors": [
+    {
+      "name": "李勇;何纯;王骞;胡建辉;魏方睿;赵猛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 191574,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

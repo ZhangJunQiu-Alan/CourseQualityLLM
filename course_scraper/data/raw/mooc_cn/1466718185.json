@@ -1,0 +1,31 @@
+{
+  "course_id": "1466718185",
+  "platform": "mooc_cn",
+  "title": "Python程序设计",
+  "description": "《Python程序设计》课程以学生信息管理系统的实现贯穿整个教学过程，在这里您可以学习Python语言的基本语法、数据结构、流程控制、面向对象及数据库连接等内容，还可以通过项目式、任务化理实一体化教学模式理解Python语言的知识点应用方法，同时引入同时引入AI Coding工具辅助编程实践，其他行业典型项目引导学生“举一反三”、“触类旁通”，为您后续从事Python相关开发、数据分析及AI工程化应用奠定扎实基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466718185",
+  "instructors": [
+    {
+      "name": "孙力群;杨梦铎;陈豪;赵宇;李林燕;鲁雪松",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州经贸职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 37805,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,44 @@
+{
+  "course_id": "course-eb57cb64-2f14-4a7e-8626-914cde2b06d0",
+  "platform": "edx",
+  "title": "Data Science and Agile Systems for Product Management",
+  "description": "Modern systems today must be designed for agility in order to outpace the competition. Concepts like Agile, DevOps, and Data Science were once considered only for the technology-based companies. Today that means every company. Because there is no greater currency than timely information for optimizing operations and meeting the needs of customers. \r\n Modern product management requires that every development and operations value stream is identified and continuously improved. This means using Lean and DevOps principles to streamline handoffs and information flows across teams. It means reorienting towards self-service and automation wherever possible. And to avoid incrementalism, it means a robust Agile development process to keep innovations important and aggressive enough to make noticeable improvements in value delivery. \r\n Agile systems in a DevOps environment requires that products are built completely differently from a traditional designs. Modularity, open set architectures, and flexible data management paradigms are a starting point. The evolutionary nature of the product with so much change enables functionality, design, and technology to drive and influence each other simultaneously. And beneath it all is a data collection and feedback loop essential for anticipating and reacting to business needs both for operations and marketing. \r\n Data science and analytics are the lifeblood of any product organization, and enable product managers to tackle risks early. Luckily, new technologies allow us to collect and integrate data without extreme upfront constraints and onerous controls. This means all data is fair game, and when tagged and stored properly, can be made available at nearly any scale for preparation, visualization, analysis, and modeling. \r\n We’ll teach you the paradigms, processes, and introduce some key technologies that make the data-driven product organization the optimal competitor in the market.",
+  "learning_goals": [
+    "Product Management",
+    "Automation",
+    "Data Collection",
+    "Influencing Skills",
+    "DevOps",
+    "Agile Methodology",
+    "Modularity",
+    "Operations",
+    "Design And Technology",
+    "Data Management",
+    "Data Science",
+    "Fault Tolerance",
+    "Self Service Technologies"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "john-johnson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Maryland, College Park"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1023,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

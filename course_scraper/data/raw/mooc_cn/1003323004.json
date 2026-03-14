@@ -1,0 +1,31 @@
+{
+  "course_id": "1003323004",
+  "platform": "mooc_cn",
+  "title": "统计热力学",
+  "description": "《统计热力学》为物理学类专业本科阶段的重要专业核心课之一。通过本课程的学习，使学生在《热学》的基础上，更深入地掌握基本的物理概念（如：统计系综），系统地掌握有关热现象及处理热物理问题的理论方法，把握热力学宏观理论和统计物理微观理论的特点及相互间的融会贯通。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003323004",
+  "instructors": [
+    {
+      "name": "班士良;邢雁;刘志锋;梁希侠;宫箭;赵国军;宋铁磊;崔鑫",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "内蒙古大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18249,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

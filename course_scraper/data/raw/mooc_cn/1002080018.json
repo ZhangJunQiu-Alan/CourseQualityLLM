@@ -1,0 +1,31 @@
+{
+  "course_id": "1002080018",
+  "platform": "mooc_cn",
+  "title": "微机原理与接口技术",
+  "description": "现代人类工作和生活离不开计算机，但要让你用PC机控制一盏灯或一个开关，你就会发现并非易事。你可能会一些单片机或嵌入式系统简单应用，但有时对一些较深入的技术问题一筹莫展。要想解决上面的问题，学习计算机工作原理和接口设计是最佳途径。来吧，让我们一起走进\"微机原理与接口技术\"这门课吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002080018",
+  "instructors": [
+    {
+      "name": "于振宇;徐田华;戴胜华;周兴;黄赞武;李丹勇;董平;周永华;崔勇;陈嵩;孙绪彬;李鹏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 138875,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

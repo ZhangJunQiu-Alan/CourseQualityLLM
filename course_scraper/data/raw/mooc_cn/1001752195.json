@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752195",
+  "platform": "mooc_cn",
+  "title": "化工热力学",
+  "description": "化工热力学是化学工程的重要分支和基础学科，是应用化学专业的专业基础课，也成为制药工程、环境工程等专业的重要课程。其主要涉及能量及组成的计算，是化工计算及设计的主要依据，是从事化工过程的研究、开发以及设计等方面工作必不可少的重要理论基础，是一门理论性与工程应用性均较强的课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752195",
+  "instructors": [
+    {
+      "name": "董友珍;郑文涛;王新红;王远",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "盐城师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6572,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

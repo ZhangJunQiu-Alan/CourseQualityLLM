@@ -1,0 +1,31 @@
+{
+  "course_id": "359002",
+  "platform": "mooc_cn",
+  "title": "计算机原理",
+  "description": "现代计算机系统形态、特性多种多样，智能手机、个人电脑、超级计算机，为人类生活带来了巨大变化。0/1组合如何奠基成复杂的计算机体系？如何通过已有数据推演出精确结论？CPU如何调度处理各项复杂任务？如何建立机器与用户之间交互的纽带？……请与我们一同打开机箱，漫游神奇的计算机世界！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/359002",
+  "instructors": [
+    {
+      "name": "唐玉华;沈立;刘芳;陈微",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 167968,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

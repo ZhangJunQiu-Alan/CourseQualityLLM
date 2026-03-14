@@ -1,0 +1,31 @@
+{
+  "course_id": "1002840004",
+  "platform": "mooc_cn",
+  "title": "种群生态学",
+  "description": "同种生物个体之间在一定时间和一定空间内，往往会天然形成与其所处环境相适应的、具有一定规模的种群。         本课程将从种群及其基本特征、种群的结构、种群的时间动态、种群的空间动态、集合种群、种内与种间关系、种群生活史对策、种群的适应与进化等8个方面系统讲授种群生态学。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002840004",
+  "instructors": [
+    {
+      "name": "李德志",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6478,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

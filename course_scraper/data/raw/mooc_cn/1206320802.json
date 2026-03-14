@@ -1,0 +1,31 @@
+{
+  "course_id": "1206320802",
+  "platform": "mooc_cn",
+  "title": "深度学习基础",
+  "description": "深度学习是人工智能时代的关键技术之一。本课程是一门侧重在深度学习相关理论基础的课程，并对深度学习的典型模型框架的基本原理进行了介绍。如果你想亲密接触深度学习、人工智能等并愿意付诸实践，请加入进来吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206320802",
+  "instructors": [
+    {
+      "name": "刘远超;赵铁军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 85919,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

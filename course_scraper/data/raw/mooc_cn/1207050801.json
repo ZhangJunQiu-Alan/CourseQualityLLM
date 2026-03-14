@@ -1,0 +1,31 @@
+{
+  "course_id": "1207050801",
+  "platform": "mooc_cn",
+  "title": "蔬菜育种学",
+  "description": "欢迎大家来到《蔬菜育种学》MOOC课程，本课程共36学时，将向大家系统介绍大白菜、番茄、黄瓜、马铃薯、辣椒、西瓜等蔬菜作物育种相关的教学内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207050801",
+  "instructors": [
+    {
+      "name": "逯明辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9793,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

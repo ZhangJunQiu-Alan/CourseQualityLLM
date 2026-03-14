@@ -1,0 +1,35 @@
+{
+  "course_id": "course-1912322d-e7e9-434a-818a-f08312c75c3f",
+  "platform": "edx",
+  "title": "Mastering Generative AI for Data Analytics",
+  "description": "Currently 82% of global companies are either using or exploring the use of AI in their organization (Website: Exploding Topics),. Generative AI skills are now essential career skills.  \n Stay current by unlocking the power of generative AI in data analytics, using cutting-edge models and tools for deeper insights. Designed for both aspiring and experienced data analysts, this course requires basic familiarity with data analytics, prompt engineering, Python, and generative AI. You'll explore core concepts, industry applications, and ethical considerations while mastering techniques like prompting, visualization, storytelling, and querying.  \n Through hands-on labs, you'll gain practical experience with leading generative AI tools including ChatGPT, ChatCSV, Mostly.AI, and SQLthroughAI. Evaluate your knowledge using practice quizzes and prove your knowledge to others by passing the graded assessments. You'll apply your knowledge in a real-world, shareable data analytics project that you can share with prospective employers. Upon completion of this course, share your verified course certificate with your professional connections and prospective employers.  \n Enroll today to transform data into actionable insights using generative AI.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "3 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "abhishek-gagneja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 418,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

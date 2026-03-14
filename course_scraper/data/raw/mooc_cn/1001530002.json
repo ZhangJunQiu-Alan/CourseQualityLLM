@@ -1,0 +1,31 @@
+{
+  "course_id": "1001530002",
+  "platform": "mooc_cn",
+  "title": "经济数学—概率论与数理统计",
+  "description": "“经济数学”是高等学校经济管理类专业的一门重要基础课。课程融经济于数学，体现“数学为本，经济为用”；突出概率论与数理统计的基本概念、基本方法、基本思想；加强学生应用数学知识解决经济问题能力；处理好具体和抽象、定量和定性、直观判断和逻辑推理等关系，体现了数学在经济学中的作用和意义。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001530002",
+  "instructors": [
+    {
+      "name": "詹金鹏;万源;王传美;彭凯;黄小为;贺素香;楚杨杰;向建林;彭宁宁;邓艳芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 147865,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

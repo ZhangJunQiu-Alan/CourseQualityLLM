@@ -1,0 +1,31 @@
+{
+  "course_id": "1001770002",
+  "platform": "mooc_cn",
+  "title": "电气控制实践训练",
+  "description": "本课程是一门实践类课程，主要介绍电气识图方法、电气控制原理分析、电动机控制电气系统的分析、设计、安装、接线及自检过程以及PLC硬件、指令和程序设计，围绕工程实例，讲解PLC控制系统设计流程。通过课程可掌握电气控制以及PLC控制的基本理论知识，提高设计、安装电气控制系统的工程技术能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001770002",
+  "instructors": [
+    {
+      "name": "李继芳;林春;鲍平;许英杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "厦门大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 113378,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

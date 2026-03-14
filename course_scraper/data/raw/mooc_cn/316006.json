@@ -1,0 +1,31 @@
+{
+  "course_id": "316006",
+  "platform": "mooc_cn",
+  "title": "通信原理",
+  "description": "通信的发展正在不断地改变着人们的生活方式和行为习惯，通信技术已成为加速经济、社会、文化、科技、军事等发展的基础。“通信原理”主要研究信息传输中的基本问题，即信息是如何传输的？怎样设计一套切实可行的信息传输方案？如何判断信息传输是否有效而可靠？请加入我们，一起走进“通信原理”课程！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/316006",
+  "instructors": [
+    {
+      "name": "马东堂;张姣;曹阔;魏急波;周力;王海军;唐麒;赵海涛;黄圣春;辜方林;张晓瀛;熊俊;刘潇然",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 356297,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

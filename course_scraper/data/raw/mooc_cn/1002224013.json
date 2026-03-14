@@ -1,0 +1,31 @@
+{
+  "course_id": "1002224013",
+  "platform": "mooc_cn",
+  "title": "奇妙的昆虫世界",
+  "description": "昆虫种类众多、千奇百怪、多姿多彩，与人类生活紧密相关。“奇妙的昆虫世界”课程带你探寻昆虫的奥秘，学习有趣的昆虫知识，从而能更好利用昆虫资源和防范害虫。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002224013",
+  "instructors": [
+    {
+      "name": "吴梅香",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建农林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11316,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

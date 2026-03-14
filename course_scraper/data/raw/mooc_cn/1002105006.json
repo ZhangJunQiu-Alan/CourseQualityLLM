@@ -1,0 +1,31 @@
+{
+  "course_id": "1002105006",
+  "platform": "mooc_cn",
+  "title": "数字电子技术基础",
+  "description": "课程提供了习题视频11个、实验视频4个和知识视频80个，包含41个主客观习题。课程从解题思想出发，综合工程角度进行详解，提高学生分析解决问题的高度。课程配有丰富的电子教案、作业题、测验题和思考题，供同学们自测自学。北京交通大学数字电子技术基础课程是国家级精品课程、国家级资源共享课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002105006",
+  "instructors": [
+    {
+      "name": "赵红礼;魏淮;高畅;娄淑琴;霍炎;邓涛;王鑫;白双;张金宝;郑涛;李彦兵;张建勇;侯建军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 83445,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

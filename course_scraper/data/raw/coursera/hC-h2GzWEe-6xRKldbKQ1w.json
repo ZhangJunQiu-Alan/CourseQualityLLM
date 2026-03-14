@@ -1,0 +1,26 @@
+{
+  "course_id": "hC-h2GzWEe-6xRKldbKQ1w",
+  "platform": "coursera",
+  "title": "Advanced Network Security and Analysis",
+  "slug": "advanced-network-security-and-analysis",
+  "description": "The course \"Advanced Network Security and Analysis\" dives into the essential skills needed to protect and analyze complex network environments. This course covers advanced topics like anonymization techniques, mobile application security, and in-depth analysis of DNS, HTTP, SMTP, and TCP protocols. Learners will gain practical experience in recognizing vulnerabilities and analyzing network traffic to detect potential threats. Each module offers hands-on insights into industry-standard tools and techniques, equipping students to address real-world security challenges confidently.\n\nUniquely focused on practical application, the course empowers students to work with tools like Splunk, TCPDump, and Wireshark, ensuring they can navigate and mitigate complex network security scenarios. Through interactive content, learners will gain a comprehensive understanding of network protocols, explore the mechanics of cyber-attacks, and learn how to implement effective defenses. By the end of the course, students will have developed an advanced toolkit for safeguarding modern network infrastructures, making them valuable assets in any IT security environment.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "6 weeks of study, 7-9 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-network-security-and-analysis",
+  "instructors": [
+    {
+      "name": "Jason Crossland",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

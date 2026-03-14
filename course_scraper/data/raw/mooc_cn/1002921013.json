@@ -1,0 +1,31 @@
+{
+  "course_id": "1002921013",
+  "platform": "mooc_cn",
+  "title": "结构力学",
+  "description": "力学 博大精深；感知结构力学概念 服务土木工程实践；立足土木，胸怀祖国，放眼全球，结构力学筑梦中国。立足结构力学的基本概念，从工程问题的本质出发，结合工程实际，阐述结构力学问题的本质与核心，培养学生坚实的力学知识体系和理论基础；分析和解决复杂工程问题能力、良好的逻辑分析和归纳能力，土木工程师的基本能力；工程问题的科学分析和思维方法；力学筑梦中国的情怀。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002921013",
+  "instructors": [
+    {
+      "name": "彭自强;于艳丽;范剑锋;孙亮明;范小春;杨格;李冬明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 55247,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

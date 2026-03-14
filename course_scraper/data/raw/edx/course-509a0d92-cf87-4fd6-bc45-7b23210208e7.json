@@ -1,0 +1,35 @@
+{
+  "course_id": "course-509a0d92-cf87-4fd6-bc45-7b23210208e7",
+  "platform": "edx",
+  "title": "Language, Proof and Logic",
+  "description": "In this course you will be introduced to the concepts and techniques used in logic. We will start right from the beginning, assuming no prior exposure to this or similar material, and progress through discussions of the proof and model theories of propositional and first-order logic. \n All learners receive a complete textbook and software package ($55.00 value). \n We will proceed by giving a theory of truth, and of logical consequence, based on a formal language called FOL (the language of First-Order Logic). We adopt a formal language for making statements, since natural languages (like English, for example) are far too vague and ambiguous for us to analyze sufficiently. Armed with the formal language, we will be able to model the notions of truth, proof and consequence, among others.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "15 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dave-barker-plummer",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "john-etchemendy",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 930,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

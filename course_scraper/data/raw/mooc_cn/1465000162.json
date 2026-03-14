@@ -1,0 +1,31 @@
+{
+  "course_id": "1465000162",
+  "platform": "mooc_cn",
+  "title": "金融工程学",
+  "description": "本课程是为金融学专业开设的专业课，也可以作为其他经济、管理类专业的选修课，该课程的理论性很强，需要学生具备较好的经济学、高等数学的知识准备。通过本课程的学习，同时通过授课、作业、案例分析等基本训练，培养学生的金融工程思维，并进行相应金融职业道德的教育。学生通过掌握衍生金融工具的定价理论与方法，掌握运用衍生金融工具进行风险管理，可以从事金融机构和公司金融运作中的投资分析和风险管理相关业务。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465000162",
+  "instructors": [
+    {
+      "name": "宋文;王田田;刘莉;顾惠;李杰;郭风龙",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京审计大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2656,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

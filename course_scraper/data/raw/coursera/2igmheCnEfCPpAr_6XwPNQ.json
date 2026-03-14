@@ -1,0 +1,26 @@
+{
+  "course_id": "2igmheCnEfCPpAr_6XwPNQ",
+  "platform": "coursera",
+  "title": "Analyze and Automate Splunk Reporting with Data Models",
+  "slug": "analyze-and-automate-splunk-reporting-with-data-models",
+  "description": "By the end of this course, learners will be able to automate Splunk reports, design interactive dashboards, apply reusable macros, build structured data models, and generate high-performance visual analytics using pivots and acceleration techniques.\n\nThis course provides a comprehensive, hands-on pathway for mastering Splunk reporting and data modeling beyond basic search usage. Learners will gain practical skills to schedule and manage reports, create dynamic dashboards, and standardize search logic using macros. Through structured lessons on data models, attributes, lookups, and hierarchies, participants will learn how to simplify complex data and enable self-service analytics for stakeholders.\n\nWhat makes this course unique is its end-to-end, job-focused approach. Instead of isolated features, learners experience how reports, dashboards, macros, data models, and pivots work together in real-world scenarios. Performance optimization through data model acceleration and instant pivots ensures learners can deliver insights quickly and efficiently.\n\nBy completing this course, learners will improve operational visibility, reduce repetitive work, and confidently design scalable Splunk solutions—making them more effective analysts, engineers, and Splunk power users.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/analyze-and-automate-splunk-reporting-with-data-models",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "9k_e10RdEe2WggqTpXEoiw",
+  "platform": "coursera",
+  "title": "Architecting Solutions on AWS",
+  "slug": "architecting-solutions-on-aws",
+  "description": "Are you looking to get more technical? Are you looking to begin working in the cloud, but don’t know where to go next? Are you looking to up your game by prepping for the AWS Solutions Architect Associate Exam? Do you see yourself as a cloud consultant, but can’t quite envision how your days would be? Are you puzzled how to match a customer’s requirements with the right AWS services/solutions? If so, you are in the right place!! You’ll learn how to plan, think, and act like a Solution Architect in a real-life customer scenario.\n\nIn this course, you’ll get prepared to begin your career architecting solutions on AWS. Through a series of use case scenarios and practical learning, you’ll learn to identify services and features to build resilient, secure, and highly available IT solutions in the AWS Cloud. Each week, a fictional customer will present a different need. We will then review the options, choose the best one for the use case and walk you through the architecture design on a whiteboard. You’ll learn about event-driven architectures with a focus on performance efficiency and cost. You’ll then gain knowledge on how to architect a solution using many purpose-built AWS services. With this understanding, you’ll get a sense of hybrid architectures with a refined focus on reliability and operational efficiency. Finally, you’ll wrap up your learning by understanding a multi-account strategy centered on security and cost.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5-7 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/architecting-solutions-on-aws",
+  "instructors": [
+    {
+      "name": "Rafael Lopes",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

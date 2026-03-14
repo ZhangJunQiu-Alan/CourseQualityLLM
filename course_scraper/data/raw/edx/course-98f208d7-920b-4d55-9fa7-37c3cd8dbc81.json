@@ -1,0 +1,49 @@
+{
+  "course_id": "course-98f208d7-920b-4d55-9fa7-37c3cd8dbc81",
+  "platform": "edx",
+  "title": "Teaching and Learning in the Era of AI",
+  "description": "Learn to ethically and practically integrate AI in education with our comprehensive course. Designed for educators, administrators, and students, this course offers essential tools, strategies, and insights to transform teaching and learning for an AI-rich future. \n Gain tools, strategies, and insights to transform teaching and learning for an AI-rich future. Prepare yourself for the next era of education by learning how LLMs and generative AI are changing the ways we work, teach, and learn. This program not only equips you with cutting-edge AI skills but also prepares you for a variety of roles in the evolving educational landscape. Whether you aim to become an AI integration specialist, an educational technology coordinator, or a curriculum developer, this course provides the foundational knowledge and practical experience needed to navigate and advance your career in these exciting fields. \n Why Take This Course? \n \n Expert Insights: Leverage the extensive knowledge and practical experience of our expert educators. \n Flexible Learning: Study at your own pace with a mix of videos, readings, and interactive activities. \n Career Advancement: Enhance your skills and stay competitive in an evolving educational landscape \n \n Prepare yourself for the next era of education. Enroll now to transform your teaching and learning with AI!",
+  "learning_goals": [
+    "Artificial Intelligence",
+    "Educational Technologies",
+    "Teaching"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "zachary-cureton-hazard",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jennifer-moss",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dan-lasota",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sean-holland",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Alaska Fairbanks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 412,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206457814",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "“线性代数”课程内容包括:行列式、矩阵及其运算、矩阵的初等变换与线性方程组、向量组的线性相关性、相似矩阵及二次型等五章内容。通过该课程的学习，为同学们后继课程学习奠定基础。     学习该课程可参考我们在高等教育出版社出版的《线性代数》教材，该教材2016年获得陕西省优秀教材一等奖。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206457814",
+  "instructors": [
+    {
+      "name": "岳宗敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "陕西科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23497,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1449498163",
+  "platform": "mooc_cn",
+  "title": "英美文学入门",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449498163",
+  "instructors": [
+    {
+      "name": "吴其尧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海外国语大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56187,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,60 @@
+{
+  "course_id": "course-9a09e075-d750-4882-9b7e-090b6a466af0",
+  "platform": "edx",
+  "title": "Fundamentals of Quantum Information",
+  "description": "Quantum information is the foundation of the second quantum revolution. \nWith classical computers and the classical internet, we are always manipulating classical information, made of bits. On the other hand, quantum computing and quantum communication consist in the processing of quantum information, made of qubits. \nTake away the hardware, and all quantum computers work the same way, through the clever manipulation of quantum information and entanglement. This course provides a deeper understanding of some of the topics covered in our Quantum 101 program, namely, the representation and manipulation of quantum information at the level of abstract quantum circuits. Specifically, single and multi-qubit gates and circuits are introduced, and basic algorithms and protocols such as quantum state teleportation, superdense coding, and entanglement swapping are discussed. The course also presents quantum gate sets, their universality, and compilations between different gate expressions. These concepts are then made concrete with the Quantum Inspire simulator (a cloud-based quantum computing platform, created and maintained by QuTech at TU Delft), and the physics and operations with spin qubits will be detailed. The course concludes with an examination of quantum supremacy and near-term quantum devices, also known as “noisy-intermediate scale” (NISQ) quantum computing. \n The course is a journey of discovery, so we encourage you to bring your own experiences, insights and thoughts to discuss on the forum! \n This course is authored by experts from the QuTech research center at Delft University of Technology. In the center, scientists and engineers work together to drive research and development in quantum technology. QuTech Academy’s aim is to inspire, share and disseminate knowledge about the latest developments in quantum technology.",
+  "learning_goals": [
+    "Quantum Computing",
+    "Physics",
+    "Algorithms",
+    "Quantum Gates",
+    "Legal Discovery",
+    "Quantum Technology",
+    "Quantum Information",
+    "Basic Math",
+    "Communications"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "4 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-elkouss",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "carmen-g-almudever",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "menno-veldhorst",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "fabio-sebastiano",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "arjen-vaartjes",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 284,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

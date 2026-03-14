@@ -1,0 +1,31 @@
+{
+  "course_id": "1207423811",
+  "platform": "mooc_cn",
+  "title": "温病学",
+  "description": "在线课程《温病学》是中医临床基础学科之一，也是中医四大经典之一，更是中医人必修的课程之一。本视频课程共分为5单元，分8周学习。主要内容有：一、温病的病因、发病与分类；二、温病的特色辨证；三、常见温病；四、温热类温病的证治；五、湿热类温病的证治。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207423811",
+  "instructors": [
+    {
+      "name": "吴智兵",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "广州中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17668,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

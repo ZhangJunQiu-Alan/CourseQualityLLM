@@ -1,0 +1,36 @@
+{
+  "course_id": "course-0cdf5a20-c4f2-4384-90c6-a527ef67dd39",
+  "platform": "edx",
+  "title": "AI Chatbots without Programming",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n  Special Offer  : This course includes a great offer from IBM: One year of Watson Assistant services to power 10 chatbots at no charge.  The perfect way to kickstart your chatbot building business!  \n Chatbots are one of the most exciting and in-demand topics in tech. Businesses around the world are increasingly showing an interest in their potential for cost-saving and improving customer service availability. \n In this course, you'll learn how to build chatbots powered by Watson and how to approach making money by selling chatbots to clients. We'll coverways to sell chatbots to prospective clients online and offline. We'll explore how to plan and build chatbots using a visual tool provided by IBM. We'll offer methods for testing, analyzing, and improving your chatbots. And we'll teach you how to deploy your chatbots to websites via a handy WordPress plugin. \n Leveraging the AI power of Watson Assistant, you will be able toaccomplish all this without the need to write any code!",
+  "learning_goals": [
+    "Artificial Intelligence",
+    "Chatbot",
+    "WordPress",
+    "Selling Techniques",
+    "Customer Service"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "2 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "antonio-cangiano",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 566,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

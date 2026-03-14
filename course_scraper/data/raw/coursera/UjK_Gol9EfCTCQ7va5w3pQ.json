@@ -1,0 +1,27 @@
+{
+  "course_id": "UjK_Gol9EfCTCQ7va5w3pQ",
+  "platform": "coursera",
+  "title": "Logic and Reasoning for Computing",
+  "slug": "logic-and-reasoning-for-computing",
+  "description": "Logic forms the backbone of computer science, providing the language and methods for precise reasoning, rigorous analysis, and formal proof. Logic and Reasoning for Computing equips learners with essential tools to represent statements, analyse arguments, and verify correctness. Across four modules—Propositional Logic, Predicate Logic, Boolean Algebra, and Proof Techniques—you will build a solid foundation in formal reasoning and connect abstract concepts directly to computing practice. You’ll explore truth tables, quantifiers, Boolean operations, and methods of proof, applying them to areas such as programming, digital circuits, and algorithm verification. By the end of this course, you’ll not only be able to reason critically and communicate arguments clearly, but also have the confidence to apply logical structures to both theoretical and practical problems in computer science.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/logic-and-reasoning-for-computing",
+  "instructors": [
+    {
+      "name": "Omar Karakchi",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of London",
+    "Goldsmiths, University of London"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

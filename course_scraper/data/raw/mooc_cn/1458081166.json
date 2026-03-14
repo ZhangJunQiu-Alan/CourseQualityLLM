@@ -1,0 +1,31 @@
+{
+  "course_id": "1458081166",
+  "platform": "mooc_cn",
+  "title": "Theory of Machine and Mechanisms",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458081166",
+  "instructors": [
+    {
+      "name": "Tuanjie LI",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Xidian University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 357,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

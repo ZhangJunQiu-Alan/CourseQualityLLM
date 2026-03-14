@@ -1,0 +1,42 @@
+{
+  "course_id": "course-37bff1b3-f595-4030-8fd8-38cc8b283e27",
+  "platform": "edx",
+  "title": "Field Operations and Administrative Tools in Construction Management",
+  "description": "There are many costs associated with construction projects. Some costs are not directly associated with the construction itself but are important to quantify because they can be a significant factor in whether or not the project goes forward. \r\n In this course we Illustrate how an estimate evolves over the life of the project. Some topics covered include: \r\n \r\n  Design . Differentiate the different estimate types used in small and large projects during planning and design. \r\n  Scheduling . In project construction management the schedule is most commonly used to track the project. By systematically analyzing each activity and its relationship to the activities that come before and after it, the construction manager can build a project on paper before committing resources to it.  \r\n The uses of schedules and types of scheduling methods. \r\n How the schedule is a powerful construction management and communication tool.  \r\n \r\n \r\n  Controls . Project control begins with the identification of the owner’s objectives and ends when those objectives have been met. Project control is a continuous cycle in which construction managers identify a goal, measure results, analyze and make adjustments, and report results. After a construction project has been completed the team responsible for carrying out the work usually split up and go to various other jobs. \r\n  Tools . The administrative tools used to manage, control, and document the construction management process. Jobsite administration requires diligence for clear procedures and understanding of the importance of recordkeeping. \r\n  Law . The legal rules that govern the design and construction management processes. Construction law is made up of specialized rules and regulations that govern how people behave in the context of a construction project. Many disputes are moving to alternative dispute resolution methods such as arbitration and mediation to solve construction management disputes. Important safety procedures are also reviewed.",
+  "learning_goals": [
+    "Construction Law",
+    "Construction Management",
+    "Operations",
+    "Planning",
+    "Communications",
+    "Arbitration",
+    "Mediation",
+    "Construction",
+    "Dispute Resolution",
+    "Project Controls",
+    "Scheduling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "neil-schulman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Maryland, College Park"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 472,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

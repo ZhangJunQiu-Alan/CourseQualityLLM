@@ -1,0 +1,31 @@
+{
+  "course_id": "1001759001",
+  "platform": "mooc_cn",
+  "title": "软件质量保证与测试",
+  "description": "本课程以“新工科”建设为指导，遵循工程教育认证标准，对接IT产业能力需求，紧跟软件测试技术发展，不断更新和优化教学内容，以学生为中心，促进能力产出，依托产学合作持续建设，先后获批2016年教育部协同育人MOOC建设项目，2018年中国高校计算机教育MOOC联盟建设课程，2018-2019年江苏省在线开放课程，2021年首批江苏省级一流本科课程，2023年第二批国家级一流本科课程（线上线下混合式），已开展12轮 MOOC / SPOC 教学，目前同时在中国大学慕课和优课在线上线。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001759001",
+  "instructors": [
+    {
+      "name": "王智钢;刘辉辉;郭丽娟;张海涛;李大鹏;李莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "金陵科技学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9505,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

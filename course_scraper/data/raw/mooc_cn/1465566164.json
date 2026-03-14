@@ -1,0 +1,31 @@
+{
+  "course_id": "1465566164",
+  "platform": "mooc_cn",
+  "title": "大学物理",
+  "description": "郑州航空工业管理学院《大学物理》包括力学、电磁学、振动波动、光学、热学、相对论和量子物理等七个模块。分两个学期进行，春季学期：力学和电磁学，秋季学期：振动波动、光学、热学、相对论和量子物理。教学重点放在物理概念、物理图像和物理思想的教学，突出航空特色方面的内容。课程内容注重培养和训练发现问题、提出问题的能力，以及运用物理模型对航空相关问题进行分析、计算、综合和评价的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465566164",
+  "instructors": [
+    {
+      "name": "张新月;王妍妍;杨润;邵立;段向阳;杨鹏;袁庆新",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州航空工业管理学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21423,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

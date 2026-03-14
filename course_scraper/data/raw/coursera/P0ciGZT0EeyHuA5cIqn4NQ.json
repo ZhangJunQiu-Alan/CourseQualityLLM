@@ -1,0 +1,26 @@
+{
+  "course_id": "P0ciGZT0EeyHuA5cIqn4NQ",
+  "platform": "coursera",
+  "title": "Introduction to Networking and Storage",
+  "slug": "introduction-to-networking-and-storage",
+  "description": "Keen to kickstart your IT career with networking and storage skills employers need? This beginner course introduces essential IT concepts to help you diagnose and support modern systems. \n\n During this course, you’ll explore networking fundamentals such as cables, topologies, network types, and communication models and learn how data travels across wired and wireless connections using protocols and standards. You’ll dive into Wi-Fi, exploring SSID configuration, access point setup, security evolution from WEP to WPA3, and Wi-Fi 6 (802.11ax) features such as frequency bands and channel planning. Plus, you’ll look at NFC (near-field communication) concepts and practical applications.  \n\n Next, you’ll get hands-on with device configuration and the command-line tools used to troubleshoot connectivity issues in Windows environments. You’ll look at storage essentials, exploring memory , local versus cloud options, and file, block, and object storage. Plus, you’ll learn how to select storage solutions for different networking scenarios while examining NVMe performance factors, including PCIe generations and thermal management.  \n\nEnroll now to build IT skills in networking and storage employers need!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 2-3 hours / week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-networking-and-storage",
+  "instructors": [
+    {
+      "name": "IBM Skills Network Team",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

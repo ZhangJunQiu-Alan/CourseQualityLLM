@@ -1,0 +1,41 @@
+{
+  "course_id": "course-dad58c2c-6335-4d9c-ad02-22d604855bfc",
+  "platform": "edx",
+  "title": "Java Programming Fundamentals",
+  "description": "Java is one of the most in-demand programming languages today. This course is designed to provide students the basic skills and knowledge on Java.  \n Learn how to solve programming problems using functions, for loops, conditional statements, recursive algorithms, and learn about the Object-Oriented Paradigm (OPP).",
+  "learning_goals": [
+    "Conditional Statements",
+    "Algorithms",
+    "Object Oriented Programming And Systems",
+    "Java (Programming Language)",
+    "Object-Oriented Programming (OOP)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 8-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jorge-vargas",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "victor-orozco",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Galileo"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 447,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

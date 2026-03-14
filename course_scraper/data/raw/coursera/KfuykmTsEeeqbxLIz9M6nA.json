@@ -1,0 +1,26 @@
+{
+  "course_id": "KfuykmTsEeeqbxLIz9M6nA",
+  "platform": "coursera",
+  "title": "TCP/IP and Advanced Topics",
+  "slug": "tcp-ip-advanced",
+  "description": "In this course, we give an in-depth study of the TCP/IP protocols. We examine the details of how IP enables communications across a collection of networks. We pay particular attention to the hierarchical structure of IP addresses and explain their role in ensuring scalability of the Internet. The role of address prefixes and the uses of masks are explained in details. We review in details about TCP three-way handshake, flow control, and congestion control. Furthermore, we provide an introduction to some advanced topics, including Multicast, SDN and security",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "5 weeks of study, 2-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/tcp-ip-advanced",
+  "instructors": [
+    {
+      "name": "Xiaobo Zhou",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado System"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

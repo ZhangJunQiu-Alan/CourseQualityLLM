@@ -1,0 +1,31 @@
+{
+  "course_id": "20016",
+  "platform": "mooc_cn",
+  "title": "医学统计学",
+  "description": "医学统计学是医学各专业的主要课程，通过本课程的学习，学习者能掌握统计设计、资料收集、整理和分析的基本理论和基本方法，培养统计思维能力和应用技能。适用于医学各专业、各层次的学生，以及各类医疗卫生单位的科研工作者。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/20016",
+  "instructors": [
+    {
+      "name": "张晋昕;郝元涛;方积乾;凌莉;朱淑明;陈雯;郝春;顾菁;曾芳芳;林爱华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中山大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 447205,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

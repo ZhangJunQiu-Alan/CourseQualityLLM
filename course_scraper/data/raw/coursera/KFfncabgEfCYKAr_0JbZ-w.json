@@ -1,0 +1,26 @@
+{
+  "course_id": "KFfncabgEfCYKAr_0JbZ-w",
+  "platform": "coursera",
+  "title": "NodeJS Made Easy for MEAN or MERN Stack",
+  "slug": "packt-nodejs-made-easy-for-mean-or-mern-stack-jztwl",
+  "description": "This course features Coursera Coach! A smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nUnlock the power of Node.js in full-stack development with this in-depth course, designed for developers looking to master the MEAN or MERN stack. You will start by learning the fundamentals of Node.js, from understanding its architecture to installing essential tools like Visual Studio Code and NPM. Progressing through the course, you will dive into creating real-world applications, adding dependencies, and mastering key modules like HTTP, OS, and file systems, all while learning the best practices for writing both synchronous and asynchronous code.\n\nAs you advance, you will explore Express.js for creating RESTful APIs, integrate MongoDB for efficient data management, and harness Mongoose for working with MongoDB through schemas and models. You will also tackle key aspects of testing, debugging, and modularizing your applications, ensuring clean and maintainable code. With the inclusion of Docker for containerization and deployment on AWS, you'll be equipped with the tools to develop, deploy, and maintain full-stack applications in any production environment.\n\nThis course is perfect for beginner to intermediate developers who want to dive deep into Node.js, Express, MongoDB, and React (or Angular) in the MEAN or MERN stack. There are no strict prerequisites, but familiarity with JavaScript and basic web development concepts is beneficial. The course is designed to cater to both novice and intermediate learners, providing real-world projects that showcase the skills needed in today's job market.\n\nBy the end of the course, you will be able to build, test, and deploy a full-stack application using Node.js, Express, MongoDB, and React or Angular, and implement Docker and AWS EC2 for deployment. You will also have a solid foundation in modularizing and structuring your applications for better scalability and maintainability.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-nodejs-made-easy-for-mean-or-mern-stack-jztwl",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

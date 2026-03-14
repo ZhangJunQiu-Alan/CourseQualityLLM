@@ -1,0 +1,31 @@
+{
+  "course_id": "1003197008",
+  "platform": "mooc_cn",
+  "title": "植物生理学",
+  "description": "植物生理学作为研究植物生命活动规律的科学，是农学、林学、环境生态、食品、医药等相关产业发展的基础。《植物生理学》课程内容在于阐明植物生理学的基本概念、基本原理和植物生命活动基本规律，联系生产生活实际，反映学科的发展，体现中国科学家的重要工作。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003197008",
+  "instructors": [
+    {
+      "name": "李玲;朱建军;李娘辉;施和平;张盛春;李海航;王小菁;彭长连",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华南师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 65375,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

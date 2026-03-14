@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755303",
+  "platform": "mooc_cn",
+  "title": "诊断学",
+  "description": "想成为一名出色的临床医生吗？快来这里吧，全部来自南京医科大学第一附属医院的优秀临床医生将为你精彩呈现《诊断学》的教学内容。近百位临床医生的倾情奉献，生动、全面、规范的讲述临床基本知识和临床基本技能，将帮助你完美过渡到临床一线。还等什么？Let's go!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755303",
+  "instructors": [
+    {
+      "name": "周蕾",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京医科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 77323,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

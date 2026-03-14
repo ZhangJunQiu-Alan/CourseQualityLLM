@@ -1,0 +1,38 @@
+{
+  "course_id": "course-69f4b8db-8a82-4439-87a2-7f5b1fe5334b",
+  "platform": "edx",
+  "title": "Advanced RAG",
+  "description": "Transform your ability to build enterprise-grade AI applications using advanced Retrieval-Augmented Generation (RAG) techniques. This comprehensive course is designed for AI engineers, MLOps professionals, and software developers seeking to master LLM implementation.  \n Key Course Features: \n \n Hands-on labs and practical exercises with real-world applications  \n Deep dive into embedding vectors and document processing strategies  \n Advanced retrieval techniques including hybrid search and multimodal retrieval  \n Interactive weekly Q&amp;A sessions with industry experts  \n Lifetime access to course materials and video recordings  \n \n Perfect for: \n \n AI and MLOps engineers  \n Solutions architects  \n Enterprise architects  \n Software developers working with AI  \n Technical professionals transitioning to AI development  \n \n Prerequisites: \n \n Basic understanding of AI/ML concepts  \n Programming experience  \n Familiarity with Python",
+  "learning_goals": [
+    "Applications Of Artificial Intelligence",
+    "Document Processing",
+    "Master Of Laws",
+    "Artificial Intelligence Development",
+    "Machine Learning",
+    "Software Development",
+    "Artificial Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "guy-ernest-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pragmatic AI Labs"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 274,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

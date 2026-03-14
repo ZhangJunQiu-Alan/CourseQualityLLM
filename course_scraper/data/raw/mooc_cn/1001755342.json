@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755342",
+  "platform": "mooc_cn",
+  "title": "虚拟仪器应用技术",
+  "description": "LabVIEW作为一种图形化编辑语言，其编程的过程就是放置图标、连线的过程，编程就像在画图，因此极易上手，程序的可读性也较好。 另外，LabVIEW开发环境集成了工程师和科学家快速构建各种应用所需的工具，使得其在解决一些复杂信号分析与处理等方面独具优势。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755342",
+  "instructors": [
+    {
+      "name": "李晴;钱声强;朱敏;陈琳;牛杰;吴以岭",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 44167,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

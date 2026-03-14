@@ -1,0 +1,26 @@
+{
+  "course_id": "06HnvWkJEe-ZVAr_5CUYPw",
+  "platform": "coursera",
+  "title": "Building and Debugging Cloud Functions for Node.js",
+  "slug": "googlecloud-building-and-debugging-cloud-functions-for-node-js-yayd9",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab, you will create a Cloud Function for Node.js that reports whether a specified temperature is acceptable or too hot. You will create, test, and debug your Cloud Function using Visual Studio Code on your local machine. Lastly, you'll deploy your function to Google Cloud Platform.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-building-and-debugging-cloud-functions-for-node-js-yayd9",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

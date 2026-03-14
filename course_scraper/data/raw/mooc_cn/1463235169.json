@@ -1,0 +1,31 @@
+{
+  "course_id": "1463235169",
+  "platform": "mooc_cn",
+  "title": "分娩管理",
+  "description": "《分娩管理》MOOC是由四川大学华西第二医院姚强教授带领产科、儿科、护理及麻醉团队精心打造的面向临床医学、护理本科及助产专业的课程，涉及产前检查、高危妊娠管理、胎儿监护、正常分娩、助产技术、新生儿复苏及产褥期保健等内容。通过《分娩管理》MOOC的系统学习，让学习者全面掌握系统管理分娩的理念，快速提升分娩管理的相关技术，努力实现安全分娩，切实保证母婴安全。请大家都来学习《分娩管理》这门课程吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463235169",
+  "instructors": [
+    {
+      "name": "姚强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12160,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

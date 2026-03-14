@@ -1,0 +1,38 @@
+{
+  "course_id": "course-66d85856-511a-43e8-98b8-3acc4da8d275",
+  "platform": "edx",
+  "title": "Operations Management",
+  "description": "Have you ever wondered about the right methods to improve productivity, configure your supply chain or address the demand on hand? \n In recent years, businesses have strived to improve productivity and quality, reduce costs and delivery times, and embrace flexibility and innovation. These strategies are part of the Operations Management (OM) activities that service and manufacturing organizations engage in. \n  Operations Management  helps you to understand the role of OM in a firm and to develop abilities to structure and solve operations related problems. The course will empower you with skills to address important aspects of business operations including capacity, productivity, quality, and supply chain. \n You will understand how operations in an organization are configured and factors that can potentially drive the complexity of managing such operations. We will also introduce concepts like estimating capacity, identifying bottlenecks, and de-bottlenecking. \n Throughout the course, you will join us in discussions on productivity improvement methods, development of quality assurance systems and configuration of supply chains. \n The course will equip you with the right tools, techniques and skills to estimate, compute, analyze and configure key elements of operations management.",
+  "learning_goals": [
+    "Supply Chain",
+    "Operations",
+    "Lean Manufacturing",
+    "Business Operations",
+    "Productivity Improvement",
+    "Operations Management",
+    "Quality Assurance"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "b-mahadevan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Indian Institute of Management Bangalore"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1598,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

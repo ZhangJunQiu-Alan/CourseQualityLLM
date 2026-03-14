@@ -1,0 +1,31 @@
+{
+  "course_id": "1003324002",
+  "platform": "mooc_cn",
+  "title": "高级财务会计",
+  "description": "高级财务会计是大学本科会计专业的核心课程，该课程立足于中级财务会计，是中级会计知识的延伸与补充，主要阐述中级财务会计之外的一些特殊业务会计实务，它与中级财务会计共同构成CPA财务会计的主要内容，适合会计专业在校学生、准备参加会计专业考研的学生、备考CPA的学员以及社会会计人员学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003324002",
+  "instructors": [
+    {
+      "name": "梁爽;卜君",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 62009,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

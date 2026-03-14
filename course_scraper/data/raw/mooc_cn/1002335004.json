@@ -1,0 +1,31 @@
+{
+  "course_id": "1002335004",
+  "platform": "mooc_cn",
+  "title": "大数据技术原理与应用",
+  "description": "入门级大数据课程，获评教育部“2018年国家精品在线开放课程”和“2020年国家级线上一流本科课程”，适合初学者，完备的课程在线服务体系，可以帮助初学者实现“零基础”学习大数据。课程指导思想是“构建知识体系、阐明基本原理、引导初级实践、了解相关应用”。课程由国内高校知名大数据教师厦门大学林子雨老师主讲。配套的《大数据技术原理与应用（第4版）》教材已经被1000多所高校采用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002335004",
+  "instructors": [
+    {
+      "name": "林子雨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "厦门大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 296346,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

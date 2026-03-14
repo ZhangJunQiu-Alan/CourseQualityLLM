@@ -1,0 +1,26 @@
+{
+  "course_id": "KdOvri-GEeWl3A7Kuc0JCQ",
+  "platform": "coursera",
+  "title": "System Validation (4): Modelling Software, Protocols, and other behaviour",
+  "slug": "system-validation-software-protocols",
+  "description": "System Validation is the field that studies the fundamentals of system communication and information processing. It allows automated analysis based on behavioural models of a system to see if a system works correctly. We want to guarantee that the systems does exactly what it is supposed to do. \nThe techniques put forward in system validation allow to prove the absence of errors. It allows to design embedded system behaviour that is structurally sound and as a side effect forces you to make the behaviour simple and insightful. \nThis means that the systems are not only behaving correctly, but are also much easier to maintain and adapt. ’Modeling Software Protocols, and other behaviour' demonstrates the power of formal methods in software modelling, communication protocols, and other examples. \nReading material. J.F. Groote and M.R. Mousavi. Modeling and analysis of communicating systems. The MIT Press, 2014.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/system-validation-software-protocols",
+  "instructors": [
+    {
+      "name": "Jan Friso Groote",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "28DIGITAL"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

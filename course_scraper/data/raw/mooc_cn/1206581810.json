@@ -1,0 +1,31 @@
+{
+  "course_id": "1206581810",
+  "platform": "mooc_cn",
+  "title": "面板数据分析与Stata应用",
+  "description": "本课程将基于Stata软件讲授在学术研究过程中非常实用的面板数据前沿分析方法，具体内容包括：（1）短面板数据分析；（2）长面板数据分析；（3）机制识别方法；（4）内生性与工具变量法；（5）动态面板数据模型；（6）门限面板模型；（7）双重差分模型；（8）合成控制法；（9）断点回归设计。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206581810",
+  "instructors": [
+    {
+      "name": "方红生",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 60124,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1470428178",
+  "platform": "mooc_cn",
+  "title": "电路（上）难点与习题",
+  "description": "《电路难点与习题》课程是与《电路》MOOC课程相匹配的课程，也可以作为《电路》的提高课程，上半部分主要内容包括电路元件与电路基本定律、线性直流电路、电路定理、正弦电流电路、三相电路、非正弦周期电流电路、频率特性和谐振现象等七个章节。        结合教师多年的授课经验，课程系统的梳理和归纳了以上章节的重点，精选综合性强的习题进行针对性的讲解，破解难点、贯通知识点。课程的学习将加深你对电路知识的理解、提升你的复习效率、引导你走出考研复习中的困惑，助力你在考研大军中突出重围，金榜题名。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470428178",
+  "instructors": [
+    {
+      "name": "霍炬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1286,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

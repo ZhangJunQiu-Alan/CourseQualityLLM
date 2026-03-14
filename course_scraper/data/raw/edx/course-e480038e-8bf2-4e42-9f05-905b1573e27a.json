@@ -1,0 +1,38 @@
+{
+  "course_id": "course-e480038e-8bf2-4e42-9f05-905b1573e27a",
+  "platform": "edx",
+  "title": "Ancient Masterpieces of World Literature",
+  "description": "This short literature course, based on the first half of the Masterpieces of World Literature edX MOOC, examines how civilizations and cultures of the ancient world defined themselves through literature and how that literature has continued to contribute to our understanding of those civilizations and cultures today.  \n Cities, nations, and empires from antiquity through the middle ages drew on foundational histories and myths for their identities, relating these narratives through generations by means of oral-storytelling and new writing technologies. These epics, story collections, and novels, which take a keen interest in heroic travelers, would eventually travel themselves, finding new global audiences as the first works of world literature.  \n Tracing developments in language, writing, and literary genre, this course also travels in time, from legendary accounts of ancient kings to histories of medieval courts and early-modern exploration. We will stop to consider how all of these texts affected the history of their own eras, but also how they have continued to find new prominence and significance in ours.",
+  "learning_goals": [
+    "Collections",
+    "Writing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "martin-puchner",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-damrosch",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4436,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

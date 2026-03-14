@@ -1,0 +1,48 @@
+{
+  "course_id": "course-c8f35755-28c4-4836-b4bf-07f0ac891307",
+  "platform": "edx",
+  "title": "Introduction à l'Analyse du Cycle de Vie - de la pensée à la pratique",
+  "description": "Vous voulez apprendre ce qu’est la pensée cycle de vie et la vision systémique? Vous souhaitez apprendre à calculer et à interpréter l’empreinte environnementale d’un produit, d’un service ou d’une technologie?  \n Ce cours est une introduction à l’analyse du cycle de vie. Vous apprendrez les principes et concepts nécessaires pour décrire une chaîne de valeur du berceau au tombeau, calculer un inventaire d’émissions polluantes et de consommation de ressources, le traduire en indicateurs d’impact et le mettre à l’échelle d’une unité fonctionnelle selon les principes de la norme ISO 14044 et les meilleures pratiques internationales. \n Ce cours a été développé par le  Centre international de référence sur le cycle de vie (CIRAIG) .",
+  "learning_goals": [
+    "Resource Consumption Accounting",
+    "Life-Cycle Assessment"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 4-8 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "manuele-margni-manuele-margni",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "francois-marechal",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "pascal-lesage",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "cecile-bulle",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "École polytechnique fédérale de Lausanne"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 443,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002428002",
+  "platform": "mooc_cn",
+  "title": "普通生物学",
+  "description": "《普通生物学》是一门面向生物类专业的基础课程，非生物类专业的通识课程，课程点面结合，擷取了普通生物学课程中主要知识节点，重点介绍生物学的基本问题，基本规律，适度拓展，在此基础之上，有效把握问题内在。世界是鲜活生命的客观存在，遗传变异是生命前行的原动力，物竞天择，一叶一菩提，一花一世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002428002",
+  "instructors": [
+    {
+      "name": "叶齐",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建农林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13057,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

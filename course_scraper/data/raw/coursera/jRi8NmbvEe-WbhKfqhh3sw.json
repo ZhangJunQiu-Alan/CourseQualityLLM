@@ -1,0 +1,26 @@
+{
+  "course_id": "jRi8NmbvEe-WbhKfqhh3sw",
+  "platform": "coursera",
+  "title": "Quantum Computing with Qiskit and Advanced Algorithms",
+  "slug": "packt-quantum-computing-with-qiskit-and-advanced-algorithms-wils7",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nQuantum computing is revolutionizing the tech world, and this course is designed to guide you through this emerging field. You’ll begin with foundational concepts, exploring classical and quantum gates, entanglement, and circuit creation using Qiskit. These hands-on exercises will give you the skills to build and run quantum circuits on simulators and real IBM quantum computers.\n\nAs the course progresses, you’ll delve into some of the most important algorithms that define quantum computing's potential. Learn about teleportation, superdense coding, and algorithms such as Bernstein-Vazirani, Deutsch, and Grover’s, implementing each in Qiskit. This step-by-step journey builds your understanding of how these algorithms work and how they outperform classical counterparts.\n\nFinally, the course wraps up with Shor’s algorithm and Quantum Fourier Transform, preparing you to apply quantum computing in real-world problem-solving scenarios. By the end of the course, you’ll be equipped to navigate the future of quantum technologies and contribute to cutting-edge research or applications.\n\nThis course is aimed at professionals and students with a foundational knowledge of linear algebra and classical computing. Experience with Python is recommended, as Qiskit relies heavily on Python programming.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-quantum-computing-with-qiskit-and-advanced-algorithms-wils7",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207127816",
+  "platform": "mooc_cn",
+  "title": "大学化学",
+  "description": "1. 课程具有较为完善的教学体系。先后被评为国家精品课程及国家级教学团队。2. 课堂讲授教学手段灵活，方法多样。充分结合演示实验、科技前沿、生活实例等进行内容的展开和讲解。3. 课程内容覆盖面广。讲述的内容与生活或专业联系密切。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207127816",
+  "instructors": [
+    {
+      "name": "张立珠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12707,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

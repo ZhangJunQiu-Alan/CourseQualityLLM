@@ -1,0 +1,31 @@
+{
+  "course_id": "1002215007",
+  "platform": "mooc_cn",
+  "title": "多媒体技术与应用",
+  "description": "本课程以应用为目标，课程内容主要围绕音频、图像、视频和动画等多种媒体元素，掌握其基础概念和基本理论，结合实际案例学会各种媒体元素的编辑和合成，最后能够将其应用到自己的生活、学习和工作中去。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002215007",
+  "instructors": [
+    {
+      "name": "李湘梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 109403,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

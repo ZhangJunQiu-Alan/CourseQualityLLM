@@ -1,0 +1,31 @@
+{
+  "course_id": "1207190801",
+  "platform": "mooc_cn",
+  "title": "无线传感网技术",
+  "description": "本课程属于电子信息类专业的一门专业课。其教学内容涉及无线传感网技术的几大主要方面，包括：无线传感器硬件节点架构、无线传感网络底层协议、无线传感网能量管理与时间同步、无线传感网定位、无线传感网安全、无线传感网编程等内容。本课程与无线传感器网络、物联网技术等课程相近，但各有侧重点。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207190801",
+  "instructors": [
+    {
+      "name": "汪阳;马小林",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15877,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

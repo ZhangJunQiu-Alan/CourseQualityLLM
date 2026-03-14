@@ -1,0 +1,26 @@
+{
+  "course_id": "Aj4--Kk0EeywagovoAKHOQ",
+  "platform": "coursera",
+  "title": "Reduce Costs for the Managed Service for Prometheus",
+  "slug": "googlecloud-reduce-costs-for-the-managed-service-for-prometheus-81tr5",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.\n\nIn this lab, you will explore cost control mechanisms when utilizing the Managed Service for Prometheus on Google Cloud. The Google Cloud Managed Service for Prometheus charges for the number of samples ingested into Cloud Monitoring and for read requests to the Monitoring API. The number of samples ingested is the primary contributor to your cost.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-reduce-costs-for-the-managed-service-for-prometheus-81tr5",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

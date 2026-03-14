@@ -1,0 +1,31 @@
+{
+  "course_id": "1206425802",
+  "platform": "mooc_cn",
+  "title": "钢筋混凝土结构",
+  "description": "本课程的任务是使学生掌握由钢筋及混凝土两种材料所组成的结构构件的基本力学性能和计算分析及设计方法，初步获得解决实际工程问题的能力，为后续混凝土结构设计、高层建筑结构设计等课程的学习及毕业设计打下坚实的理论基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206425802",
+  "instructors": [
+    {
+      "name": "王吉忠;张秀芳;何化南;王立成",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20604,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

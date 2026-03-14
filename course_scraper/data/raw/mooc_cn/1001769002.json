@@ -1,0 +1,31 @@
+{
+  "course_id": "1001769002",
+  "platform": "mooc_cn",
+  "title": "微生物学与免疫学实验",
+  "description": "微生物无所不在，在天空、在海洋、在大地，也在我们的身体里，它们有些是朋友、有些是工具、有些是‘工厂’，也有些会导致疾病。比如新型冠状病毒，引起的肺炎......然而，我们却看不见、摸不着。       让我们一起来学习掌握观察、认识、控制或利用这类微小生命的技术和方法吧，",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001769002",
+  "instructors": [
+    {
+      "name": "许晔;陈航姿;郭慧玲;陈毅歆;张连茹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "厦门大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 49432,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

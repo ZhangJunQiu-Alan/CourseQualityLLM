@@ -1,0 +1,26 @@
+{
+  "course_id": "ePnlP0PDEe2XbQr9UA0KWQ",
+  "platform": "coursera",
+  "title": "Cloud Computing Primer: Infrastructure as a Service (IaaS)",
+  "slug": "codio-cloud-computing-primer-semi-tech-business-infrastructure-as-a-service-iaas",
+  "description": "Explore cloud computing basics without installing anything!\n\nThis course is designed for semi-technical and business learners, providing a solid foundation of cloud computing basics. Learners will build an understanding of how infrastructure as a service (IaaS) works as well. The modules in this course cover cloud computing basics, considerations for IaaS adoption, techniques for IaaS success and growth, as well as provide an exploratory IaaS experience for learners.\n\nTo allow for a truly hands-on, self-paced learning experience, this course is video-free. Assignments contain short explanations with images and suggested exploration examples, building a deeper understanding by doing. You'll benefit from instant feedback from a variety of assessment items along the way, gently progressing from quick understanding checks (multiple choice, fill in the blank, and un-scrambling answer blocks) to small, approachable exercises that take minutes instead of hours.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/codio-cloud-computing-primer-semi-tech-business-infrastructure-as-a-service-iaas",
+  "instructors": [
+    {
+      "name": "Anh Le",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Codio"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

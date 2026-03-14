@@ -1,0 +1,26 @@
+{
+  "course_id": "jso0OYzeEfClfhKuRtXbYQ",
+  "platform": "coursera",
+  "title": "The Zero Trust Framework",
+  "slug": "pearson-the-zero-trust-framework-video-course-o5esi",
+  "description": "This course is designed to demystify Zero Trust security and guide learners through practical implementation. Based on the principle of “never trust, always verify,” this course explains what Zero Trust is, why it matters, and how organizations can begin their Zero Trust journey. \n\nKey topics include network, endpoint, and cloud security, starting with foundational concepts and addressing misconceptions—highlighting that Zero Trust is not achieved by simply deploying technologies. Real-world use cases, assessment methodologies, and maturity ranking techniques help participants create a customized Zero Trust strategy for their business.\n\nThe curriculum explores modern Zero Trust standards and frameworks, such as NIST and the Open Group, moving from principles to architectural design. With a focus on practical application and strategic planning, this course is ideal for anyone responsible for organizational security seeking to enhance their defense strategy using Zero Trust.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "Less then 2 weeks",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-the-zero-trust-framework-video-course-o5esi",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

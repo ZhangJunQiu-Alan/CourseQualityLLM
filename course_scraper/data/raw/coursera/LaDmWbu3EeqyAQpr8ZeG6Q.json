@@ -1,0 +1,26 @@
+{
+  "course_id": "LaDmWbu3EeqyAQpr8ZeG6Q",
+  "platform": "coursera",
+  "title": "Getting Started with Azure DevOps Boards",
+  "slug": "getting-started-azure-devops-boards",
+  "description": "In this guided project, you will create and setup an Azure DevOps project; add teams to your project; create, import, and manage work items; customize the project’s boards; and explore different views of your work items, and organize them into sprints.\n\n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/getting-started-azure-devops-boards",
+  "instructors": [
+    {
+      "name": "Mohammed Al-Mousa",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

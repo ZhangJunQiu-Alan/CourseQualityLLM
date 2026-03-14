@@ -1,0 +1,31 @@
+{
+  "course_id": "1461789169",
+  "platform": "mooc_cn",
+  "title": "泵与风机",
+  "description": "这是一门有关泵与风机理论的课程。课程由17个单元组成，每个单元为一个知识点。本课程团队凝练课程特色，深化课程体系改革。欢迎大家走入我们的课堂，让我们一起学习先进泵与风机技术，激发你的技术创新潜力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461789169",
+  "instructors": [
+    {
+      "name": "王芳;刘中秋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6240,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

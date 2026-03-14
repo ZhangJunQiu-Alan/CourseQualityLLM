@@ -1,0 +1,31 @@
+{
+  "course_id": "1003157001",
+  "platform": "mooc_cn",
+  "title": "电路理论",
+  "description": "当今世界，如果没有了电，将会是何种景象？煤、水、风、光，如何转换成电？电，如何传输到飞驰的列车？手机，为什么需要电池？计算机，为什么又称为电脑？人脑控制肢体运动，竟然也与电有关！要深入探究这些与电相关的问题，必须从学习电路理论开始。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003157001",
+  "instructors": [
+    {
+      "name": "颜秋容;何孟兵;杨勇;任丽;肖霞;曹娟;聂兰兰;石晶;李妍;徐颖;艾小猛;曹磊;谭丹;胡桐宁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 88711,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

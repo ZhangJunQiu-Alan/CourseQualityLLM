@@ -1,0 +1,31 @@
+{
+  "course_id": "1002080017",
+  "platform": "mooc_cn",
+  "title": "法理学",
+  "description": "法理学是以作为整体的法律的共同性问题和一般性问题为研究对象的理论法学，着重揭示法律的基本原理。法理学是法学中的基础性学科，指导着各个部门法学的发展。法之理，既在法内，更在法外。揭示法理，既需要抽象思辨以分析静态之法理，更需要深入实践去把握动态之法理。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002080017",
+  "instructors": [
+    {
+      "name": "杨天江;刘祥超;陆幸福;胡兴建;张善根;付子堂",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南政法大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 184942,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002331007",
+  "platform": "mooc_cn",
+  "title": "机械基础实景教学（机械原理）",
+  "description": "机械基础实景教学（机械原理），把课堂搬到了实验室，通过教师的讲解，实景操作，共同完成机构运动简图测绘与分析实验、齿轮范成原理实验、齿轮参数测定实验、刚性转子动平衡设计与试验、典型机械拆装与分析实验。学习实验的原理，操作过程及数据的处理方法。让我们走进哈工大机械基础实验中心",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002331007",
+  "instructors": [
+    {
+      "name": "郭丰;郑春辉;孙厚涛;杨清香;张锋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 34934,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

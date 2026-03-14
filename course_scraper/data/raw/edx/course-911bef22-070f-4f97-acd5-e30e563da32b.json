@@ -1,0 +1,38 @@
+{
+  "course_id": "course-911bef22-070f-4f97-acd5-e30e563da32b",
+  "platform": "edx",
+  "title": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+  "description": "Data is the most important asset in the Cloud Computing era. This course focuses on the collection, storage and management of big data. It provides a comprehensible frame structure for Data Analysis. It also explains how to configure and make extensive use of Machine Learning and Artificial Intelligence by using Google Cloud.",
+  "learning_goals": [
+    "Machine Learning",
+    "Cloud Computing",
+    "Google Cloud",
+    "Artificial Intelligence",
+    "Data Analysis",
+    "Big Data",
+    "Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "google-cloud",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 288,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

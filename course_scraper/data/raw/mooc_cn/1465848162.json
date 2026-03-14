@@ -1,0 +1,31 @@
+{
+  "course_id": "1465848162",
+  "platform": "mooc_cn",
+  "title": "Web框架技术",
+  "description": "《Web框架技术》是软件工程的一门必修的核心专业课。通过本课程的学习，学生能够理解Web框架的基本思想，掌握主流Web框架的思维方法、工作原理、核心组件以及操作技能；能够选择合适的Web框架设计系统架构，使用恰当的开发语言、技术、平台、资源及工具完成系统实现；提高科学思维能力和解决复杂软件工程问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465848162",
+  "instructors": [
+    {
+      "name": "刘育熙;谷培培;赵晓君;韩朴杰;黄艳;师夏阳;霍林林;李玉华;桑永宣;张志锋;刘永文;马军霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州轻工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7547,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

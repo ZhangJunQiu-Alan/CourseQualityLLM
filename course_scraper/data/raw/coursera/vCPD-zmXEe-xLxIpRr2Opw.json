@@ -1,0 +1,26 @@
+{
+  "course_id": "vCPD-zmXEe-xLxIpRr2Opw",
+  "platform": "coursera",
+  "title": "Deep Neural Network for Beginners Using Python",
+  "slug": "packt-deep-neural-network-for-beginners-using-python-u1run",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nAre you ready to become a deep learning expert? This step-by-step course guides you from basic to advanced levels in deep learning using Python, the hottest language for machine learning. Each tutorial builds on previous knowledge and assigns tasks solved in the next video. You will: \n\n- Learn to train machines to predict like humans by mastering data preprocessing, general machine learning concepts, and deep neural networks (DNNs). \n- Cover the architecture of neural networks, the Gradient Descent algorithm, and implementing DNNs using NumPy and Python. \n- Understand DNN methodologies with real-world datasets, such as the IRIS dataset. \n\nDesigned for those interested in data science or advancing their skills in DNNs, this course requires a background in deep learning and a basic understanding of Python and mathematics will be helpful. It’s clear and beginner-friendly, teaching theoretical concepts followed by practical implementation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-deep-neural-network-for-beginners-using-python-u1run",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

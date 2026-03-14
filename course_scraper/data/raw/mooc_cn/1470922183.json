@@ -1,0 +1,31 @@
+{
+  "course_id": "1470922183",
+  "platform": "mooc_cn",
+  "title": "物联网云平台应用开发",
+  "description": "随着物联网发展越来越迅速，节点数量越来越多，云平台在数据存储、数据中转、数据分析等方面的作用越来越突出。BAT、三大运营商、华为等大型企业都在布局云平台，打通底层终端设备与云平台，让更多设备连上云平台是我们本课程要做的事情。大家一起来看看吧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470922183",
+  "instructors": [
+    {
+      "name": "陈浏仿;查艳芳;居敏花;夏兴隆;陈丽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 727,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

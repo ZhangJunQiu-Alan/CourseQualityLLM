@@ -1,0 +1,56 @@
+{
+  "course_id": "course-b0490e8d-ddc0-4af1-b9d5-90cc6c7414a4",
+  "platform": "edx",
+  "title": "Lean Six Sigma: Green Belt Sustainability Project",
+  "description": "Every employee is involved in business processes to create products or services. The causes of decreasing customer satisfaction and increasing quality costs are often unknown, so derived solutions often only address symptoms. Six Sigma methods and tools enable a systematic solution of typical process problems and lead to sustainable operational excellence. \n Go from Yellow to Green Belt in this project-based Lean Six Sigma course. With the TUM Yellow Belt, you have mastered the body of knowledge of our Green Belt (according to the American Society for Quality standards). Our Green Belt certification requires the implementation of a Six Sigma project (as recommended by the International Society of Six Sigma Professionals), just as the driving experience is necessary to obtain a driver’s license. \n To earn the TUM Lean Six Sigma Green Belt certification, you will implement a predefined standard project on environmental littering. The goal: “Improve the cleanliness of areas around selected places in your hometown and control the sustainability of your measures.” This project topic supports the  United Nations Sustainability Goal #11: Sustainable Cities and Communities . To reach this goal you will drive along the DMAIC, accompanied by a Master Black Belt as co-pilot. The route is determined by our navigation software (sigma guide). We will stop at every important sigma tool, which you will then apply in practice and document in a project storybook. This storybook will demonstrate the operational excellence of and in your work. (Please note: The implementation of company-specific, individually supported business projects for certification are not included in this edX/TUM course) \n We will guide you through your improvement project. Each DMAIC phase concludes with a project review by a Lean Six Sigma Master Black Belt. With the feedback on your achieved project results, we keep you on track before you start the next DMAIC phase. You will also participate in weekly live sessions online, where we will discuss the tools and logic of Six Sigma in-depth and answer any questions. The e-book for the course,  Six Sigma Green Belt Certification Project , is included in the course price. \n Green Belt Certification: Learners will be awarded the TUM Lean Six Sigma Green Belt Certification after completing this course and all of its requirements, including: \n \n Previous acquisition of the TUM Lean Six Sigma Yellow Belt certificate, \n Application of the sigma tools (sigma guide), \n Documentation of the results in a project storybook, \n Five graded reviews of the project storybook along with the DMAIC phases, \n Participation in at least 10 open-online-sessions, \n Delivery of the completed project storybook and the collected data. \n \n Once a year we present the  Environment Green Belt Award  for the best Lean Six Sigma certification project. In addition to the basic certification criteria - a correctly implemented and documented project - an excellent project is required, with a project sponsor and a strong, sustainable reduction of litter at a local hotspot. \n This course won the 2021 Runner-Up Award - Blended Learning - Academic Division 2021 of the International E-Learning Association (IELA)",
+  "learning_goals": [
+    "Lean Six Sigma Certification",
+    "Customer Satisfaction",
+    "Six Sigma Methodology",
+    "Lean Six Sigma Yellow Belt",
+    "Six Sigma Green Belt Certification",
+    "Define Measure Analyze Improve And Control (DMAIC)",
+    "Operational Excellence",
+    "Project Sponsorship",
+    "Lean Six Sigma Green Belt",
+    "Customer Service",
+    "Blended Learning",
+    "Cleanliness",
+    "Urban Sustainability",
+    "Business Process",
+    "Lean Six Sigma"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "20 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dr-reiner-hutwelker",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "holly-ott",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "martin-grunow",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Technical University of Munich"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 433,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

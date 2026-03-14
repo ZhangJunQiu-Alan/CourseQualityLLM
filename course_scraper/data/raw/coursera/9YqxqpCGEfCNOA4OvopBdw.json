@@ -1,0 +1,26 @@
+{
+  "course_id": "9YqxqpCGEfCNOA4OvopBdw",
+  "platform": "coursera",
+  "title": "Machine Learning with Python: Build & Optimize",
+  "slug": "machine-learning-python-build-optimize",
+  "description": "By the end of this course, learners will be able to build, evaluate, and optimize machine learning models using Python. They will develop the ability to preprocess data with NumPy and Pandas, visualize insights using Matplotlib, and implement workflows with scikit-learn pipelines. Learners will apply regression, classification, clustering, and dimensionality reduction techniques to real-world datasets, while mastering hyperparameter tuning for improved model performance.\n\nThis course is designed to bridge theory with practice, offering hands-on experience in every stage of the machine learning lifecycle—from data collection and preparation to model deployment. Unlike traditional courses, it emphasizes practical coding exercises and end-to-end project workflows, ensuring that learners gain both conceptual clarity and applied skills.\n\nUpon completion, learners will be equipped with the essential tools and confidence to tackle data-driven problems, analyze large datasets, and create scalable machine learning solutions. Whether pursuing a career in data science or enhancing analytical skills, this course provides a comprehensive pathway into applied machine learning with Python.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/machine-learning-python-build-optimize",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

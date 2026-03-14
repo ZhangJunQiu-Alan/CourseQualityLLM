@@ -1,0 +1,31 @@
+{
+  "course_id": "1003737004",
+  "platform": "mooc_cn",
+  "title": "闽台文化概论",
+  "description": "闽台文化是中华文化的重要分支，学习该课程可理解两岸共同的历史记忆与文化基因，增强对“两岸一家亲”的认同感。掌握闽台文化的多元性与特殊性。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003737004",
+  "instructors": [
+    {
+      "name": "祁开龙",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3350,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

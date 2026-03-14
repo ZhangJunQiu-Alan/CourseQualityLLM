@@ -1,0 +1,31 @@
+{
+  "course_id": "1207015804",
+  "platform": "mooc_cn",
+  "title": "宠物饲养",
+  "description": "《宠物饲养》课程系统介绍了宠物犬、猫品种识别与选购、饲养管理、行为管理与训练、繁殖管理等方面的知识和技能。欢迎各位宠物爱好者前来学习！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207015804",
+  "instructors": [
+    {
+      "name": "曹云;刘忠慧;王丽华;陈则东;罗有文;淡瑞芳;狄和双;朱建平;郝子悦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏农牧科技职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22404,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

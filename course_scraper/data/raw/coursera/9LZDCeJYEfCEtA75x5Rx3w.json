@@ -1,0 +1,26 @@
+{
+  "course_id": "9LZDCeJYEfCEtA75x5Rx3w",
+  "platform": "coursera",
+  "title": "Analyze and Visualize Data Using Splunk Statistics",
+  "slug": "analyze-and-visualize-data-using-splunk-statistics",
+  "description": "By the end of this course, learners will be able to analyze large datasets using Splunk’s statistical commands, transform raw events into meaningful metrics, build time-based and categorical visualizations, and correlate related events to uncover operational insights. Learners will also be able to apply conditional logic, enhance dashboards with advanced visualizations, and interpret trends and geographic patterns using Splunk.\n\nThis course provides a comprehensive, hands-on approach to mastering Splunk statistics and visualization techniques essential for data analysis, security monitoring, and operational intelligence. Through step-by-step lessons, learners explore core aggregation functions, charting and timechart commands, advanced visualizations such as gauges and cluster maps, and powerful transformation tools like eval and transaction commands.\n\nUnlike introductory Splunk courses, this program uniquely combines statistical analysis, visualization best practices, and event correlation into a single, end-to-end learning journey. Learners gain practical skills directly applicable to real-world use cases such as KPI monitoring, trend analysis, and incident investigation. Upon completion, learners will be equipped to confidently design insightful dashboards, optimize searches, and extract actionable intelligence from Splunk data, making this course ideal for aspiring Splunk analysts, administrators, and data professionals.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/analyze-and-visualize-data-using-splunk-statistics",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

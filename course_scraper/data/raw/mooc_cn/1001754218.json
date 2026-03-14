@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754218",
+  "platform": "mooc_cn",
+  "title": "统计学",
+  "description": "在日益依赖数据的今天，树立正确的数据思维，能够帮助人们高效地甄别信息，从中提炼出有价值的内容。使用系统的统计理论和科学的统计方法，能够快速地提升数据处理和统计分析的技能，实现让数据说话。通过本课程学习，能够掌握基本的统计方法，并运用统计工具对数据进行处理和深入分析。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754218",
+  "instructors": [
+    {
+      "name": "魏娟;吉中会;姚天祥;巩在武;李琰;储小俊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 45044,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

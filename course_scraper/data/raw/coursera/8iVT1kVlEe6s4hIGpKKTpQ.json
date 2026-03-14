@@ -1,0 +1,26 @@
+{
+  "course_id": "8iVT1kVlEe6s4hIGpKKTpQ",
+  "platform": "coursera",
+  "title": "Foundation to Multi-Cloud",
+  "slug": "foundation-to-multi-cloud",
+  "description": "The \"Foundation to Multi-Cloud\" course is designed to provide a comprehensive understanding of multi-cloud computing principles, benefits, and challenges. It equips you with the knowledge and skills required to effectively manage and utilize multiple cloud platforms simultaneously. This course introduces the concept of multi-cloud, elucidates its advantages and complexities, and delves into various strategies and technologies for implementing and managing multi-cloud environments.\n\nModule 1 - What is Multi-Cloud:\n\nModule 1 covers the fundamentals of cloud computing, including compute, storage, database, networking, and security. It also explores the distinctions between multi-cloud and hybrid clouds, multi-cloud architecture, and various cloud service providers.\nYou will gain insights into cloud computing basics, differentiate between hybrid and multi-cloud setups, understand multi-cloud architecture, and familiarize themselves with different cloud vendors.\n\nModule 2 - Kubernetes and Containers:\n\nModule 2 focuses on containerization, container orchestration, container networking, Kubernetes fundamentals, threat modeling, and hands-on activities using Azure Kubernetes Service (AKS).\nYou will acquire knowledge of Kubernetes concepts and container orchestration, networking for containers, and practical experience with AKS.\n\nModule 3 - Terraform and Cloud Network:\n\nModule 3 introduces Terraform, its use cases, advantages, and hands-on exercises.\nYou will learn how to use Terraform with AWS for VPC management, understand Terraform settings, resources, and providers, and configure Terraform for AWS integration.\n\nTarget Learner:\n\nThis course is intended for a diverse audience, including IT professionals, cloud architects, DevOps engineers, business and IT managers, students, and anyone interested in mastering multi-cloud environments.\n\nLearner Prerequisites:\n\nTo be successful in this course, you should have a foundational understanding of Cloud Computing Fundamentals. Prior hands-on experience with major cloud providers like AWS, Azure, Google Cloud, or others is advantageous but not mandatory.\n\nCourse Duration:\n\nThis short course should take you only five hours to complete. The course is designed to provide a comprehensive foundation in multi-cloud computing. \n\nWhat You Will Learn:\n\nBy the end of this course, you will achieve the following learning objectives:\n\n1) Understand the fundamental principles and benefits of multi-cloud computing, including enhanced flexibility, scalability, and resilience.\n2) Acquire knowledge of key components and service models in multi-cloud architectures, enabling you to design scalable and interoperable solutions.\n3) Explore deployment strategies such as cloud bursting and workload distribution to optimize application performance and meet specific requirements.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/foundation-to-multi-cloud",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

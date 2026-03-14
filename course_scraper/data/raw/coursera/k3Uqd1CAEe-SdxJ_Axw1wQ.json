@@ -1,0 +1,31 @@
+{
+  "course_id": "k3Uqd1CAEe-SdxJ_Axw1wQ",
+  "platform": "coursera",
+  "title": "Mobile App Notifications, Databases, & Publishing",
+  "slug": "mobile-app-notifications-databases-publishing",
+  "description": "In today's mobile-first world, over 90% of people access the internet via mobile devices (Statista) creating a high demand for professionals with strong mobile app development skills. In this course, part of the IBM iOS and Android Mobile App Developer Professional Certificate, you'll gain essential skills for adding notifications, storing data and publishing mobile apps for Android and iOS. \n\nDuring the course, you'll explore key components of iOS and Android development, including the app lifecycle, design elements, interfaces, and notifications. Plus, you'll work with popular tools such as SQLite, Firebase, and Firestore to manage app data, and learn how to create, sign, and prepare your apps for publishing in both the Google Play Store and Apple App Store. \n\nThrough hands-on labs, you'll enhance user engagement by integrating notifications into your Flutter and React Native apps, deploying APIs to back-end cloud services, and using Firebase to manage data and enhance app functionality. You'll also explore app marketing best practices and how to track performance with a custom dashboard. \n\nIf you're looking to build your mobile app development career, ENROLL today and power up your resume with highly sought after skills in less than a month!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/mobile-app-notifications-databases-publishing",
+  "instructors": [
+    {
+      "name": "SkillUp",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Ramanujam Srinivasan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "SkillUp"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

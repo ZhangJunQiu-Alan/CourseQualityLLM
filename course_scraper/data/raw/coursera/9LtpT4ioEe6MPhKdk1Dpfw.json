@@ -1,0 +1,26 @@
+{
+  "course_id": "9LtpT4ioEe6MPhKdk1Dpfw",
+  "platform": "coursera",
+  "title": "AJAX for Web Developers",
+  "slug": "ajax-for-web-developers",
+  "description": "The \"AJAX for Web Developers\" course explores how modern websites update parts of a web page without the need to reload the entire page, providing a fluid and fast user experience. This course covers the relationship between client apps or websites and servers, the distinction between full page loads and AJAX, and the best use-cases for each. We will delve into Javascript's Fetch API, modern Async/Await syntax, and the benefits of using the Axios module to streamline the process of making requests to a server and handling the response. The course also introduces JSON as a data exchange format for clients and servers, explaining how to encode and decode JSON, error-handling for AJAX requests, and crucial security best practices for AJAX. By the end of the course, you'll be ready to interact confidently with a live API and update elements on the page via AJAX.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "60-90 min",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/ajax-for-web-developers",
+  "instructors": [
+    {
+      "name": "Mau Fournier",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

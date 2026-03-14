@@ -1,0 +1,31 @@
+{
+  "course_id": "1206670841",
+  "platform": "mooc_cn",
+  "title": "数字信号处理",
+  "description": "数字信号处理是信息类专业的专业基础课。在信号与系统课程的基础上，重点讨论：如何用数字的方法来表示信号；如何通过频率转换工具对信号成分进行分析并对频谱进行离散化的表示；如何进行数字信号的处理。数字信号处理的应用领域包含了方方面面，可以说，哪里有信号，哪里就需要数字信号处理技术。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206670841",
+  "instructors": [
+    {
+      "name": "刘菁华;陈婧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华侨大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6118,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

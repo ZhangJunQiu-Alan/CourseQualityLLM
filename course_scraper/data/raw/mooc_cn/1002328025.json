@@ -1,0 +1,31 @@
+{
+  "course_id": "1002328025",
+  "platform": "mooc_cn",
+  "title": "逻辑学导论",
+  "description": "亚里士多德认为：“逻辑学是一切科学的工具。”逻辑学是人类历史上最古老的智慧学科之一，也是联合国教科文组织规定的七大基础学科之一。1977年版英国大百科全书将逻辑学列为知识的五大分科之首。说明逻辑学是思想的武器、认识的工具、科学的方法，任何科学理论都是由不同的概念构成的逻辑系统。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002328025",
+  "instructors": [
+    {
+      "name": "李静",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 214544,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

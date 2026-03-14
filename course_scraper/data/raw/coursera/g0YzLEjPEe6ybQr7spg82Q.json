@@ -1,0 +1,26 @@
+{
+  "course_id": "g0YzLEjPEe6ybQr7spg82Q",
+  "platform": "coursera",
+  "title": "Programming in C",
+  "slug": "programming-c",
+  "description": "C remains one of the most popular languages thanks to its portability and efficiency, and laying the groundwork for many programming languages like C++, Java, JavaScript, and Python. In this course, you’ll dive deeper into the syntax of C, learning the functions of the language and how to properly apply them within an algorithm. Identify types, operators, and expressions within C to build recursive functions and examine the role of the C preprocessor in achieving software portability.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/programming-c",
+  "instructors": [
+    {
+      "name": "Charles Russell Severance",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Michigan"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

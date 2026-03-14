@@ -1,0 +1,47 @@
+{
+  "course_id": "course-66a78dfc-0ec0-4445-a01f-5596c1c886be",
+  "platform": "edx",
+  "title": "Data Warehousing and BI Analytics",
+  "description": "Today’s businesses are investing significantly in capabilities to harness the massive amounts of data that fuel Business Intelligence (BI). Working knowledge of Data Warehouses and BI Analytics tools are a crucial skill for Data Engineers, Data Warehousing Specialists and BI Analysts, making who are amongst, the most valued resources for organizations. \n This course prepares you with the skills and hands-on experience to design, implement and maintain enterprise data warehouse systems and business intelligence tools. You’ll gain extensive knowledge on various data repositories including data marts, data lakes and data reservoirs, explore data warehousing system architectures, deepen on data cubes and data organization using related tables. And analyze data using business intelligence like Cognos Analytics, including its reporting and dashboard features, and interactive visualization capabilities.  \n This course provides hands-on experience with practice labs and a real-world inspired project that can be added to your portfolio and will demonstrate your proficiency in working with data warehouses.  Skills you will gain include building data warehouses, Star/Snowflake schemas, CUBEs, ROLLUPs, Materialized Views/MQTs, reports and dashboards.  \n This course assumes prior SQL and relational database experience.",
+  "learning_goals": [
+    "Data Warehouse Systems",
+    "SQL (Programming Language)",
+    "Data Warehousing",
+    "Star Schema",
+    "Business Intelligence Tools",
+    "Relational Databases",
+    "Business Intelligence",
+    "Data Lakes",
+    "Dashboard",
+    "Snowflake Schema",
+    "Materialized View"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ramesh-sannareddy",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 357,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

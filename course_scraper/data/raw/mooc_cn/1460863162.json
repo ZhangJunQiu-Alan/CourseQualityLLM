@@ -1,0 +1,31 @@
+{
+  "course_id": "1460863162",
+  "platform": "mooc_cn",
+  "title": "电气控制技术",
+  "description": "《电气控制技术》课程在电气工程技术相关领域有着非常广泛的应用，是学习自动化的基础，对接中、高级电工职业资格证书。本课程主要介绍常用低压电器的识别选用，电气识图方法、电气控制原理分析、电动机控制电气系统的分析、设计、安装、接线及排故等。通过课程的学习可掌握电气控制的基本理论知识，提高电气设备的安装、调试、维护等工程技术能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460863162",
+  "instructors": [
+    {
+      "name": "顾玉娥",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5085,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

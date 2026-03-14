@@ -1,0 +1,31 @@
+{
+  "course_id": "488001",
+  "platform": "mooc_cn",
+  "title": "数据库系统概论（基础篇）",
+  "description": "数据库系统已经成为现代信息系统的核心和基础设施。数据库技术作为数据管理的最有效的手段，极大地促进了计算机应用的发展。学习“数据库系统概论”可以帮助你更好地使用数据库，设计适合你需要的数据库应用系统，并进一步科学地管理好数据库系统。本课程是教育部—华为“智能基座”精品课程之一。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/488001",
+  "instructors": [
+    {
+      "name": "焦敏;杜小勇;陈红;卢卫;王珊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国人民大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 351170,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

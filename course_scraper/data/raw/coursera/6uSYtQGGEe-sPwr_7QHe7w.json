@@ -1,0 +1,27 @@
+{
+  "course_id": "6uSYtQGGEe-sPwr_7QHe7w",
+  "platform": "coursera",
+  "title": "Data Modeling, Transformation, and Serving",
+  "slug": "data-modeling-transformation-serving",
+  "description": "In this course, you’ll model, transform, and serve data for both analytics and machine learning use cases. You’ll explore various data modeling techniques for batch analytics, including normalization, star schema, data vault, and one big table, and you’ll use dbt to transform a dataset based on a star schema and one big table. You’ll also compare the Inmon vs Kimball data modeling approaches for data warehouses. You’ll model and transform a tabular dataset for machine learning purposes. You’ll also model and transform unstructured image and textual data. You’ll explore distributed processing frameworks such as Hadoop MapReduce and Spark, and perform stream processing. You’ll identify different ways of serving data for analytics and machine learning, including using views and materialized views, and you’ll describe how a semantic layer built on top of your data model can support the business. In the last week of this course, you’ll complete a capstone project where you’ll build an end-to-end data pipeline that encompasses all of the stages of the data engineering lifecycle to serve data that provides business value.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "This is a 4-week course with an estimate of 4-6 hours of learning activities per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-modeling-transformation-serving",
+  "instructors": [
+    {
+      "name": "Joe Reis",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "DeepLearning.AI",
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1464023179",
+  "platform": "mooc_cn",
+  "title": "应用光学",
+  "description": "以几何光学为基础，讲授光学系统几何成像原理、转像系统、成像受限、光能传递、像差理论、像质评价、典型光学系统等主要内容。       成像原理包括了高斯光学和理想光学系统成像原理；转像系统主要介绍平面和棱镜系统；成像受限介绍三种典型光阑及其应用；光能传递包括光度学和几何成像中光学量传输规律；像差理论包括光学系统的轴上点像差、轴外点像差和色差的形成；像质评价包括几何方法和波动方法评价像质；典型光学系统包括介绍目视光学系统及投影与照相系统。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464023179",
+  "instructors": [
+    {
+      "name": "郭小伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3446,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001807015",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术基础",
+  "description": "当今社会可谓是“电子信息社会”，电子技术已深入工业、农业、国防、教育、医疗等方方面面，在国民经济和社会的发展中具有举足轻重的地位，也将对社会未来的发展产生巨大的影响。模拟电子技术是电子技术的重要组成部分，模拟电子技术基础课程就是进入“精彩”的电子世界的第一步。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001807015",
+  "instructors": [
+    {
+      "name": "赵进全",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 121301,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

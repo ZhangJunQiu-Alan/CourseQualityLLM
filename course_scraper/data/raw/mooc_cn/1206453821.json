@@ -1,0 +1,31 @@
+{
+  "course_id": "1206453821",
+  "platform": "mooc_cn",
+  "title": "软件服务工程导论",
+  "description": "软件服务工程导论是软件服务工程专业方向的专业课。课程将从服务与软件服务工程的概念切入，帮助学生学习理解对软件服务工程与现代服务系统的概念、理论方法与关键技术及应用等，建立利用软件服务技术实现商务服务系统的逻辑，进而启蒙学生的服务创新能力、服务系统分析与设计能力、及相关研究能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206453821",
+  "instructors": [
+    {
+      "name": "徐晓飞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2037,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

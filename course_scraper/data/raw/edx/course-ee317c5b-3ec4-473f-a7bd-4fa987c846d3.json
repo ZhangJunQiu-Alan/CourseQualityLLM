@@ -1,0 +1,59 @@
+{
+  "course_id": "course-ee317c5b-3ec4-473f-a7bd-4fa987c846d3",
+  "platform": "edx",
+  "title": "Linux Commands & Shell Scripting",
+  "description": "This  mini-course provides a practical introduction to commonly used Linux / UNIX shell commands and teaches you basics of Bash shell scripting to automate a variety of tasks. The course includes both video-based lectures as well as hands-on labs to practice and apply what you learn. You will have no-charge access to a virtual Linux server that you can access through your web browser, so you don't need to download and install anything to perform the labs.   \n In this course you will work with general purpose commands, like id, date, uname, ps, top, echo, man; directory manageent commands such as pwd, cd, mkdir, rmdir, find, df; file management commands like cat, wget, more, head, tail, cp, mv, touch, tar, zip, unzip; access control command chmod; text processing commands - wc, grep, tr; as well as networking commands - hostname, ping, ifconfig and curl. You will create simple to intermediate shell scripts that involve Metacharacters, Quoting, Variables, Command substitution, I/O Redirection, Pipes &amp; Filters, and Command line arguments. You will also schedule cron jobs using crontab.    \n This course provides essential hands-on skills for data engineers, data scientists, software developers, and cloud practitioners who want to get familiar with frequently used commands on Linux, MacOS and other Unix-like operating systems as well as get started with creating shell scripts.",
+  "learning_goals": [
+    "Web Browsers",
+    "Linux",
+    "File Management",
+    "Grep",
+    "Ifconfig",
+    "Linux Servers",
+    "cURL",
+    "Mac OS",
+    "Access Controls",
+    "Bash (Scripting Language)",
+    "Unix",
+    "Command-Line Interface",
+    "Linux Commands",
+    "Scripting",
+    "Operating Systems",
+    "Shell Commands",
+    "Unix Shell",
+    "Software Development",
+    "Ping (Networking Utility)",
+    "Cron",
+    "Wget",
+    "Text Processing",
+    "Shell Script"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ramesh-sannareddy",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 739,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

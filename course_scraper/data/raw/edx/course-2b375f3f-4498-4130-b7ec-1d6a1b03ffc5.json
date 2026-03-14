@@ -1,0 +1,35 @@
+{
+  "course_id": "course-2b375f3f-4498-4130-b7ec-1d6a1b03ffc5",
+  "platform": "edx",
+  "title": "Super-Earths and Life",
+  "description": "Are we alone in this universe? What new information and observations on exoplanets have we discovered? \n In the past decade, astronomers have made incredible advances in the discovery of planets outside our solar system. Thirty years ago, we knew only of the planets in our own solar system. Now we know of thousands circling nearby stars. \n Super-Earths and Life is a course about life on Earth, alien life, how we search for life outside of Earth, and what this teaches us about our place in the universe. \n Meanwhile, biologists have gained a strong understanding of how life evolved on our own planet, all the way back to the earliest cells. We can describe how simple molecules can assemble themselves into the building blocks of life, and how those building blocks might have become the cells that make up our bodies today. \n Super-Earths and Life is all about how these fields, astronomy and biology, together with geology, can help answer one of our most powerful and primal questions: are we alone?",
+  "learning_goals": [
+    "Biology",
+    "Geology",
+    "Solar Systems",
+    "Astronomy"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "15 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dimitar-sasselov",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 973,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

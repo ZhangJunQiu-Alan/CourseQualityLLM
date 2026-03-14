@@ -1,0 +1,26 @@
+{
+  "course_id": "WC3PvFAjEfCqjwr_1EnQcQ",
+  "platform": "coursera",
+  "title": "XML Practical - Schemas",
+  "slug": "xml-practical-schemas",
+  "description": "This course offers a comprehensive and practical exploration of the XML Document Object Model (DOM), guiding learners from foundational understanding to advanced manipulation techniques. Through real-world examples, interactive lessons, and targeted assessments, learners will identify, interpret, modify, and apply core and advanced DOM methods for working with XML documents.\n\nStructured into three progressive modules, the course begins by establishing a conceptual framework of document models and core node structures. Learners then delve into node creation, traversal, and modification techniques using methods like cloneNode, appendChild, and removeChild. The final module introduces higher-order applications such as attribute node operations, comment handling, and full DOM workflows—empowering learners to confidently manage dynamic XML content.\n\nBy the end of this course, learners will be able to analyze XML structures, construct and modify node trees, evaluate attribute data, and implement XML-based solutions using DOM methods effectively across a range of applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/xml-practical-schemas",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

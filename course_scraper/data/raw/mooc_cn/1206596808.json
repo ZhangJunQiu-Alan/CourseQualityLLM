@@ -1,0 +1,31 @@
+{
+  "course_id": "1206596808",
+  "platform": "mooc_cn",
+  "title": "高等数学（二）",
+  "description": "“高等数学二”是理工科大学生的必修课，包含多元微积分、解析几何和级数，微积分逻辑严密、系统完整，已成为众多学科的重要基础，在自然科学和社会科学获得了广泛的应用。本课程采用启发式、循序渐进式教学手段和教学方式，在轻松愉悦的环境中讲授微积分的知识，",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206596808",
+  "instructors": [
+    {
+      "name": "张丽;宋宜美;柴华岳;武燕;郭晓峰;杨有龙",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 67787,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

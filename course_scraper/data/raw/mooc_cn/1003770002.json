@@ -1,0 +1,31 @@
+{
+  "course_id": "1003770002",
+  "platform": "mooc_cn",
+  "title": "工程图学",
+  "description": "工程图学是研究工程与产品信息表达和交流的学科。工程图样是工程与产品信息的载体，是工程界表达、交流技术思想的语言。对培养学生科学思维能力，提高工程素质和增强创新意识，具有重要作用。课程理论严谨，与工程实践联系密切，是普通高等学校本科工程类专业重要的专业基础课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003770002",
+  "instructors": [
+    {
+      "name": "张广;郑三龙;金晓航;贾虹;祁梓宸;孔凡志;侯文涛;宋亚楠;沈彦南;李春晓;单继宏;张若冲;孙毅;杨静;戴伟;王梦娇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35007,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "eK0qI2hnEfCQqQ74KKFXEw",
+  "platform": "coursera",
+  "title": "Mastering HCM: Oracle Fusion & Dayforce Essentials",
+  "slug": "mastering-hcm-oracle-fusion--dayforce-essentials",
+  "description": "This informational course introduces participants to the core concepts and system architecture of two leading Human Capital Management (HCM) platforms: Oracle Fusion HCM and Dayforce HCM. Designed for those new to enterprise HCM systems, the course provides a high-level understanding of each platform’s capabilities and how they support modern HR operations. \n\nParticipants will explore how Oracle Fusion and Dayforce are structured to manage key functions such as employee data, payroll, benefits, and workforce analytics. The course uses conceptual models, system diagrams, and platform comparisons to illustrate how HR processes are organized and integrated within each environment. \n\nThrough informative sessions and real-world examples, learners will gain insight into platform design, data flow, role-based access, and strategic alignment with business goals. Key topics include system modules, compliance considerations, and differences in how each platform approaches enterprise-scale HR needs. \n\nThis informational course is designed for HR professionals and business stakeholders seeking a high-level understanding of Oracle Fusion HCM and Dayforce HCM. It explores how each platform supports key HR functions—such as payroll, benefits, and workforce analytics—through modular design, data flow, and system architecture. By the end of the course, participants will be able to discuss the core capabilities, structural differences, and strategic value of both platforms within an enterprise context.\n\nThis course requires no prior experience with Oracle Fusion or Dayforce. It is designed for HR and business professionals seeking a conceptual overview of how these enterprise systems function. While a basic understanding of core HR concepts—such as payroll, benefits, and talent management—will enhance comprehension, it is not mandatory. Familiarity with cloud-based business tools or enterprise software is helpful but not required. No access to the actual platforms or technical knowledge in programming or configuration is necessary, as the course focuses on strategic understanding, not hands-on system use.\n\nBy the end of the course, learners will be able to describe the core features of Oracle Fusion HCM and Dayforce HCM and explain how each supports key HR functions. They will be able to compare the two platforms in terms of structure and workflows, gaining a high-level view of how each system is designed. Additionally, learners will understand how these HCM tools fit into broader workforce strategies and enterprise technology ecosystems, enabling them to speak confidently about the platforms' strategic value in modern HR environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 Hours and 50 Minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/mastering-hcm-oracle-fusion--dayforce-essentials",
+  "instructors": [
+    {
+      "name": "Rafiq Wayani",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

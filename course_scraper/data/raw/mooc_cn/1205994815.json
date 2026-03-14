@@ -1,0 +1,31 @@
+{
+  "course_id": "1205994815",
+  "platform": "mooc_cn",
+  "title": "数字电路分析与设计",
+  "description": "数字电子技术基础理论是电类、信息类、控制类各专业学生不可缺少的一门专业技术基础课。是学习微机原理、数字系统设计等课程之前的必修课程。学习本课程的目的是使学生掌握分析和设计数字电路的基本能力，选用各类集成芯片组建数字系统的基本能力，并初步能使用EDA工具进行数字电路的分析和设计。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205994815",
+  "instructors": [
+    {
+      "name": "林平;蔡忠法;周箭;张德华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23216,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

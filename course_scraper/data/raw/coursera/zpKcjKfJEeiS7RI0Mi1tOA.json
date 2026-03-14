@@ -1,0 +1,26 @@
+{
+  "course_id": "zpKcjKfJEeiS7RI0Mi1tOA",
+  "platform": "coursera",
+  "title": "Modelización Cuantitativa para Finanzas Corporativas",
+  "slug": "modelizacion-cuantitativa-para-finanzas-corporativas",
+  "description": "Este es un curso de modelización cuantitativa pensado para su aplicación en el ámbito de finanzas corporativas.  En este curso aprenderás cómo explotar de la mejor forma los datos que alimentan a los modelos financieros. \nEn la \"era de los datos\", cada vez más las organizaciones cuentan con información que pueden ser explotada para enriquecer la modelización financiera.  Apoyándonos en métodos estadísticos y de modelización, en este curso aprenderás a proyectar variables de interés, a realizar predicciones, a medir y a evaluar la implicancia de riesgos. También aprenderás criterios para la toma decisiones, basadas en la evaluación de escenarios con incertidumbre. Aplicaremos herramientas básicas de análisis estadístico, métodos de regresión simple y multivariado, técnicas de series de temporales, y de predicción frente a una gran cantidad de variables explicativas, entre otras herramientas que estudiaremos con el foco en aplicaciones financieras.  Implementaremos los modelos más simples en Excel, y ganaremos agilidad en estimaciones más complejas usando R. \n\nEste es el segundo curso de la serie de Finanzas Corporativas ofrecido por la Universidad Austral.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "La carga de trabajo estimada es de entre 2 a 5 horas por semana",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/modelizacion-cuantitativa-para-finanzas-corporativas",
+  "instructors": [
+    {
+      "name": "Ricardo Pasquini",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Austral"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206319802",
+  "platform": "mooc_cn",
+  "title": "形式语言与自动机理论",
+  "description": "为了探索“计算”的本质，需要使用和构造什么样的计算模型，就是计算理论入门课程“形式语言与自动机理论”的主要内容。这些模型都是高度抽象化的计算装置，简单明确但功能强大，不但便于在理论分析中进行推导和证明，在很多实际问题中也有非常直接的应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206319802",
+  "instructors": [
+    {
+      "name": "王春宇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17866,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

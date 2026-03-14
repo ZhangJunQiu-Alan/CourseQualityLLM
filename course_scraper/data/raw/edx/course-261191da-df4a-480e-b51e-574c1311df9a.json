@@ -1,0 +1,60 @@
+{
+  "course_id": "course-261191da-df4a-480e-b51e-574c1311df9a",
+  "platform": "edx",
+  "title": "Database Basics and Security",
+  "description": "With cyberattacks increasingly targeting databases and the average cost of a data breach nearing $5 million, businesses are urgently seeking skilled cybersecurity experts to protect against such threats. This course equips you with essential database security skills that are in high demand.  \n  You'll start by understanding key database concepts, including relational and non-relational databases, and mastering SQL basics. You'’ll practice creating and executing SQL statements and build foundational knowledge in relational data management, roles, and permissions.  \n  The course covers crucial security measures such as encryption, hashing, masking, tokenization, and permission restrictions.  \n  You'll also learn about user profiles, password policies , and privileges, and how to design and implement effective security and auditing models.  \n  Additionally, you'll explore database injection vulnerabilities, including OS command and SQL   injections.  \n  As you progress, you will gain hands-on experience through practical labs focusing on user management and  ___access control. This course will help you to develop critical database security skills that will make you stand out to employers._",
+  "learning_goals": [
+    "Security Systems",
+    "Vulnerability",
+    "SQL (Programming Language)",
+    "Research",
+    "Auditing",
+    "User Profile",
+    "TCP/IP",
+    "Database Security",
+    "Operating Systems",
+    "Relational Databases",
+    "Data Security",
+    "Local Area Networks",
+    "Open Systems Interconnection",
+    "Tokenization",
+    "SQL Injection",
+    "Computer Networks",
+    "Network Security",
+    "Information Privacy",
+    "Management",
+    "Encryption",
+    "MongoDB",
+    "Access Controls",
+    "Network Routing",
+    "Cyber Security"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "coreen-ryskamp",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-manish-kumar-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 465,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

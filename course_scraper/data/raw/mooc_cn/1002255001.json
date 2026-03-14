@@ -1,0 +1,31 @@
+{
+  "course_id": "1002255001",
+  "platform": "mooc_cn",
+  "title": "画法几何及土木工程制图（下）",
+  "description": "画法几何及土木工程制图是普通高等学校土木类、水利类专业重要的技术基础课程。是研究工程图样表达与技术交流的一门学科。是从事工程设计与建设的技术人员的必修课程。通过本课程的学习，培养学生工程图样绘制、阅读以及形象思维能力，提高工程素质，增强创新意识，为今后的工作打下理论与实践基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002255001",
+  "instructors": [
+    {
+      "name": "王子茹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 57652,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

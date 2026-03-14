@@ -1,0 +1,31 @@
+{
+  "course_id": "1206905803",
+  "platform": "mooc_cn",
+  "title": "UI及交互技术",
+  "description": "本课程坚持以用户为中心的设计理念，重在培养学生更好地理解用户研究方法并应用于交互设计项目中，根据用户需求分析，进行方案设计、原型设计和可用性测试，掌握交互设计项目流程，具有UI及交互设计项目的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206905803",
+  "instructors": [
+    {
+      "name": "单美贤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16629,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "3GlMkNpcEfC8QRL1Tiq31w",
+  "platform": "coursera",
+  "title": "Mastering Vim: Efficient Editing & Vimscript for Developers",
+  "slug": "packt-mastering-vim-efficient-editing-vimscript-for-developers",
+  "description": "This course dives deep into Vim, one of the most powerful and customizable text editors available. As a developer, learning Vim will boost your productivity and streamline your workflows.\n\nYou will master Vim from basic navigation to advanced scripting techniques. This course empowers you to leverage Vim's full potential for text editing, coding, and development.\n\nWhat sets this course apart is its combination of theory and practical, real-world applications. You’ll build real projects using Vim and Vimscript to integrate into modern development environments.\n\nIdeal for developers looking to enhance their productivity with Vim, this course doesn’t require prior experience with Vim but benefits those with basic programming knowledge.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-mastering-vim-efficient-editing-vimscript-for-developers",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

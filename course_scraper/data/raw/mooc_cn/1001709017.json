@@ -1,0 +1,31 @@
+{
+  "course_id": "1001709017",
+  "platform": "mooc_cn",
+  "title": "经济学",
+  "description": "大家好！欢迎学习电子科技大学《经济学》课程！通过本课程的学习，你将了解微观经济学和宏观经济学的基本概念、理论框架和思维方法，学习如何用这些基本工具来更敏锐地分析经济现象，更合理地进行经济决策，并更深入地理解经济政策。最终，让我们努力学会像经济学家一样思考！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001709017",
+  "instructors": [
+    {
+      "name": "马永开;马捷;丁亚;鞠晴江;梁媛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 144479,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "UmjLQc6LEe-3_Q7tYtYdfw",
+  "platform": "coursera",
+  "title": "Testing and Deploying Angular Applications",
+  "slug": "testing-and-deploying-angular-applications",
+  "description": "This course provides you with the essential skills to effectively test, optimize, and deploy Angular applications. You will begin by mastering Angular’s testing ecosystem, setting up tools like Jasmine, Karma, and learning how to write robust test cases. \n\nNext, you will explore strategies for optimizing and deploying applications across various environments, while also discovering how to automate your testing and deployment processes through CI/CD pipelines. The course concludes with a focus on real-time monitoring and maintaining production-ready Angular applications.\n\nBy the end of this course, you will be able to:\n- Set up advanced Angular testing tools such as Jasmine and Karma for comprehensive test case development.\n- Write robust unit and integration tests to ensure application reliability and stability.\n- Optimize Angular applications for performance and deploy them across different cloud or on-premises environments.\n- Automate build, test, and deployment processes using state-of-the-art CI/CD pipelines.\n- Utilize tools and strategies for application monitoring, error tracking, and maintaining highly available, production-ready applications.\n\nThis course is ideal for front-end developers, web developers, and software engineers focused on building scalable, high-performance web applications, especially professionals looking to deepen their knowledge of Angular testing, deployment, and application lifecycle management.\n\nA basic understanding of Angular and JavaScript is recommended. Prior knowledge of version control and software testing concepts is helpful but not mandatory.\n\nJoin this course to become proficient in ensuring that your Angular applications are thoroughly tested, seamlessly deployed, and robustly maintained for enterprise-level reliability and performance.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 week of study, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/testing-and-deploying-angular-applications",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

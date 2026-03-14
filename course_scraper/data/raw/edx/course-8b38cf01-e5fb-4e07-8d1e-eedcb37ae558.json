@@ -1,0 +1,41 @@
+{
+  "course_id": "course-8b38cf01-e5fb-4e07-8d1e-eedcb37ae558",
+  "platform": "edx",
+  "title": "Data Structures & Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms",
+  "description": "This Data Structures &amp; Algorithms course completes the data structures portion presented in the sequence of courses with self-balancing AVL and (2-4) trees. It also begins the algorithm portion in the sequence of courses. A short Java review is presented on topics relevant to new data structures covered in this course. The course does require prior knowledge of Java, object-oriented programming, and linear and nonlinear data structures. Time complexity is threaded throughout the course within all the data structures and algorithms. \n You will investigate and explore the two more complex data structures: AVL and (2-4) trees. Both of these data structures focus on self-balancing techniques that will ensure all operations are O(log n). AVL trees are a subgroup of BSTs and thus inherit all the properties and constraints from BSTs. Additionally, AVLs incorporate rotations that are triggered when the tree is mutated and becomes out of balance. (2-4) trees are a subgroup of B-Trees and are non-binary trees with more than 2 children. 2-4 defines the range of children that exists in the trees. However, these trees are extremely flexible and allow the nodes to shrink and grow as needed to store more data. With this flexibility comes more issues to handle, like overflow and underflow which require more intense techniques to resolve the issues. \n As you enter the algorithm portion of the course, you begin with a couple of familiar iterative sorting algorithms: Bubble and Selection. There are optimizations that can be included in the standard Bubble sort to make it more adaptive in sorting. There is also a derivation of bubble sort, called Cocktail Shaker sort, that puts new a spin on the basic algorithm. Insertion sort is the last iterative sort that is investigated in this group of sort algorithms. Divide &amp; Conquer sorting algorithms are examined and are broken into two groups: comparison sorts and non-comparison sorts. The two comparison sorts are Merge and In-place Quick sort. Both are recursive and focus on subdividing the array into smaller portions. LSD Radix sort is the non-comparison sort that deconstructs an integer number and examines the digits. All algorithms are analyzed for stability, memory storage, adaptiveness, and time complexity. \n The course design has several components and is built around modules. A module consists of a series of short (3-5 minute) instructional videos. In between the videos, there are textual frames with additional content information for clarification, as well as video errata dropdown boxes. All modules include an Exploratory Lab that incorporates a Visualization Tool specifically designed for this course. The lab includes discovery questions that lead you towards delving deeper into the efficiency of the data structures and examining the edge cases. This is followed by a set of comprehension questions on topics covered in the module that count for 10% of your grade. The modules end with Java coding assignments which are 60% of your grade. Lastly, you'll complete a course exam, which counts for the remaining 30% of your grade.",
+  "learning_goals": [
+    "Sorting Algorithm",
+    "Time Complexity",
+    "Sorting",
+    "Algorithms",
+    "Data Structures",
+    "Operations",
+    "Java (Programming Language)",
+    "Nodes (Networking)",
+    "Balancing (Ledger/Billing)",
+    "Java Object Oriented Querying"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 9-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mary-hudachek-buswell",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 443,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

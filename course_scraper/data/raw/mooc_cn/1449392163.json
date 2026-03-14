@@ -1,0 +1,31 @@
+{
+  "course_id": "1449392163",
+  "platform": "mooc_cn",
+  "title": "单片机原理与接口技术",
+  "description": "单片机全称是单片微型计算机，属于数字控制类芯片，广泛应用于工业自动化设备、智能仪器仪表、消费类电子产品、通信与武器装备等各方面，所有具有智能功能的设备内部无一不用到单片机。单片机使计算机真正从科学的神圣殿堂走入寻常百姓家。掌握了单片机技术，就掌握了现代智能化技术革命的有力武器。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449392163",
+  "instructors": [
+    {
+      "name": "沈兆军;谢明月;吴冬春;陆广平;孟海涛;张兰红;周云龙",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "盐城工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17204,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

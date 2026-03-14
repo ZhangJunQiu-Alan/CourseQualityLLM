@@ -1,0 +1,31 @@
+{
+  "course_id": "course-3485a2a4-d2ae-4ea1-87cb-a6a837114a63",
+  "platform": "edx",
+  "title": "Quantitative Methods for Biology",
+  "description": "Are you a biologist, health worker, or medical student who needs to learn how to program? Are you a programmer who wants a better understanding of the medical field? Are you looking for an introduction to MATLAB? \n For beginners, Quantitative Methods for Biology takes a unique approach, giving you an inside glimpse of a course and its learners. You'll study alongside students who are also learning to code. \n For expert programmers, this course has a will help you learn the MATLAB you need without getting slowed down by introductory concepts that you already know. Whether you're already comfortable with Python, Javascript, r, or some other language, we'll help you translate that knowledge to MATLAB. \n All learners will be able to access MATLAB Online, which they can use during the run of the course, free of charge.  \n In this new run of the course, assignments have been simplified and streamlined to ensure greater browser compatibility.",
+  "learning_goals": [
+    "JavaScript (Programming Language)",
+    "Biology",
+    "Quantitative Research",
+    "MATLAB",
+    "Python (Programming Language)",
+    "Data Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2811,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

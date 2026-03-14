@@ -1,0 +1,31 @@
+{
+  "course_id": "1003430004",
+  "platform": "mooc_cn",
+  "title": "金属基复合材料",
+  "description": "本课程可作为非材料类本科生拓展相关知识领域课程，也可作为材料类本科生、研究生的专业课程，也可以作为从事材料研发与应用工作技术人员的进修课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003430004",
+  "instructors": [
+    {
+      "name": "赵玉涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5754,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

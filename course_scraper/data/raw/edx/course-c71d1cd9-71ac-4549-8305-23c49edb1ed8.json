@@ -1,0 +1,38 @@
+{
+  "course_id": "course-c71d1cd9-71ac-4549-8305-23c49edb1ed8",
+  "platform": "edx",
+  "title": "Introduction to Post-Quantum Cryptography",
+  "description": "As quantum computing advances, it will threaten modern encryption systems that secure our digital lives today. This course addresses the urgent need for a quantum-safe future by equipping learners with the knowledge and skills to understand, evaluate, and implement Post-Quantum Cryptography (PQC). Backed by the U.S. National Security Memorandum (NSM-10) and the NIST roadmap, the course is a timely response to the need for a trained, diverse, and forward-thinking cybersecurity workforce. \n In six comprehensive modules, students will explore topics ranging from classical encryption, modern encryption, and the basics of quantum computing to quantum algorithms like Shor’s and Grover’s that threaten current systems. The heart of the course is PQC and its design, implementation, and migration strategies. Through experiential and project-based learning, students will gain hands-on experience in evaluating and applying PQC schemes such as Kyber and Dilithium, as well as studying real-world cases of PQC migration. \n This course also serves as a bridge between academia and industry by translating cutting-edge research and practical insights into a transformative learning experience for the next generation of cybersecurity professionals.",
+  "learning_goals": [
+    "Cyber Security",
+    "Problem Solving",
+    "Algorithms",
+    "Quantum Cryptography",
+    "Research",
+    "Quantum Computing",
+    "Encryption"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "lei-zhang",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Maryland Baltimore County"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 473,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

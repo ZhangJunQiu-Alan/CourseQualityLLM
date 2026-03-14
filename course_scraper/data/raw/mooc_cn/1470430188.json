@@ -1,0 +1,31 @@
+{
+  "course_id": "1470430188",
+  "platform": "mooc_cn",
+  "title": "博弈论",
+  "description": "作为数学的分支和建模工具，博弈论不仅早已广泛应用于经济学、政治学、法学、社会学、管理学、国际关系等社会科学领域，而且还应用于生物学、计算机科学、自动控制、网络科学等自然和工程科学领域。       著名经济学家萨缪尔森指出，“要想在现代社会做一个有文化的人，你应当对博弈论有一个大致的了解”。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470430188",
+  "instructors": [
+    {
+      "name": "刘霖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 55843,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

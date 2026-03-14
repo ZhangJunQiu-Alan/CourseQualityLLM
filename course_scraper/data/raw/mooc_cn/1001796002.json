@@ -1,0 +1,31 @@
+{
+  "course_id": "1001796002",
+  "platform": "mooc_cn",
+  "title": "建筑材料",
+  "description": "《建筑材料》是土木工程、建筑学、工程管理、工程造价、无机非金属材料等专业一门专业基础课；同时，依托《建筑材料》在线课程获批了国家线上线下混合式一流课程《土木工程材料》。通过学习，帮助你掌握常用建筑材料的性能和使用条件，熟悉其技术指标的测试、检测、储运、验收方法，能根根工程情况合理选择与使用材料、设计其生产和施工工艺，从而达到保证工程质量、节约材料的目的。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001796002",
+  "instructors": [
+    {
+      "name": "张小婷;雪凯旺;朱凯;马先伟;徐开东;杨欢;徐卓越;李青霄;罗庆;张建武;王继娜;汪潇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南城建学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 27124,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

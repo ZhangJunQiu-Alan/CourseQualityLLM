@@ -1,0 +1,26 @@
+{
+  "course_id": "nMtotAMYEfCm2BKpUCEabw",
+  "platform": "coursera",
+  "title": "在 Google Cloud 上将应用与 Gemini 1.0 Pro 集成",
+  "slug": "integrating-applications-with-gemini-pro-on-google-cloud-zhcn",
+  "description": "这一简短的课程将介绍如何在 Google Cloud 上将应用与 Gemini 1.0 Pro 模型集成，可帮助您探索 Gemini API 及其生成式 AI 模型。此课程会教您如何通过代码访问 Gemini 1.0 Pro 和 Gemini 1.0 Pro Vision 模型。课程会安排您在应用中使用文本、图片和视频提示来测试这些模型的功能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.coursera.org/learn/integrating-applications-with-gemini-pro-on-google-cloud-zhcn",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

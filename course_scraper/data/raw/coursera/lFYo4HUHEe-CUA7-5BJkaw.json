@@ -1,0 +1,26 @@
+{
+  "course_id": "lFYo4HUHEe-CUA7-5BJkaw",
+  "platform": "coursera",
+  "title": "React Beginner Project: Build a Color Picker Tool",
+  "slug": "javascript-project-build-a-color-picker-tool",
+  "description": "Enhance Your HTML, CSS, and JavaScript Skills by Building a Custom Color Lighten/Darken Tool\n\nThis course provides a hands-on opportunity to refine your proficiency in HTML, CSS, and vanilla JavaScript by guiding you through the development of a custom color lighten/darken tool from scratch. Over 19 comprehensive lessons, you'll tackle a series of interactive challenges designed to deepen your understanding of core coding concepts, while also learning practical tips to enhance your workflow.\n\nYou will structure the project using HTML, style it with CSS, and implement interactive functionality with vanilla JavaScript—no frameworks required.\n\nUpon completion, you'll have developed a robust project that is ideal for showcasing in your portfolio or sharing on GitHub. Elevate your coding skills with an engaging, practical project that adds both technical depth and creativity to your toolkit.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/javascript-project-build-a-color-picker-tool",
+  "instructors": [
+    {
+      "name": "James Q Quick",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Scrimba"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

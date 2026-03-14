@@ -1,0 +1,31 @@
+{
+  "course_id": "1471723178",
+  "platform": "mooc_cn",
+  "title": "复变函数",
+  "description": "《复变函数》是数学与应用数学专业的专业必修课，通过学习该课程使学生理解复变函数的基本概念和一些重要的基本理论。它是在实函数的基础上产生和发展起来的，其中的概念和方法与微积分学有着许多的相似和联系，但又有许多的发展与区别。如今，复变函数论一方面成为微分方程、奇异积分方程、计算数学和概率论等数学分支的主要解析方法，一方面又为空气动力学、流体力学、弹性力学、热力学等学科提供了广泛的几何定性研究方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471723178",
+  "instructors": [
+    {
+      "name": "银俊成;武丹;陶继成;沈进东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国计量大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 462,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

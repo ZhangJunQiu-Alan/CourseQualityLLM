@@ -1,0 +1,26 @@
+{
+  "course_id": "NFxSUaWMEeidiRKo7opZig",
+  "platform": "coursera",
+  "title": "Reliable Cloud Infrastructure: Design and Process em Português Brasileiro",
+  "slug": "cloud-infrastructure-design-process-br",
+  "description": "Este curso prepara estudantes para criar soluções altamente confiáveis e eficientes no Google Cloud usando padrões de design comprovados. Ele é uma continuação do curso \"Architecting with Google Compute Engine\" ou \"Architecting with Google Kubernetes Engine\" e exige experiência prática com as tecnologias abordadas nesses dois cursos. Com uma combinação de apresentações, atividades de design e laboratórios práticos, os participantes aprendem a definir e equilibrar requisitos técnicos e comerciais para projetar implantações do Google Cloud que sejam seguras, econômicas e altamente confiáveis e disponíveis.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 semanas de estudo, 6 a 8 horas/semana",
+  "language": "pt-BR",
+  "url": "https://www.coursera.org/learn/cloud-infrastructure-design-process-br",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

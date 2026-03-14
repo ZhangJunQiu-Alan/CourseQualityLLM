@@ -1,0 +1,31 @@
+{
+  "course_id": "1456139165",
+  "platform": "mooc_cn",
+  "title": "环境微生物学",
+  "description": "微生物无处不在，本课程带你走进微生物的世界，领略微生物在环境领域的巨大作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1456139165",
+  "instructors": [
+    {
+      "name": "许小红;朱姗颖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3645,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

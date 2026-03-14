@@ -1,0 +1,31 @@
+{
+  "course_id": "1003118004",
+  "platform": "mooc_cn",
+  "title": "Python 语言程序设计",
+  "description": "本课程以程序设计初学者作为教学对象，由浅入深、循序渐进地讲述Python语言的基本概念、基本语法和数据结构等基础知识。主要包括Python语言及其环境编程、数据类型与表达式、基本流程控制、序列字典集合等特征数据类型、函数和模块、文件、Python标准库和第三方库的应用等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003118004",
+  "instructors": [
+    {
+      "name": "王燕;王春梅;王曙燕;孙巍;王小银",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 57583,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

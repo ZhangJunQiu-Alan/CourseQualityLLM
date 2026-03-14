@@ -1,0 +1,38 @@
+{
+  "course_id": "course-54c784e6-e41d-4c58-8f7f-b9a3cec43a0c",
+  "platform": "edx",
+  "title": "VITARA - Human Resource Management",
+  "description": "This course provides fundamental knowledge on Human Resource Management matters within a tax administration including among others HRM strategy and its implementation, HRM organizational models, HRM functions and the key areas of an effective HRM system. \n This course is a joint initiative of four international organizations: Inter-American Center of Tax Administrations (CIAT), Intra-European Organisation of Tax Administrations (IOTA), International Monetary Fund (IMF), and Organisation for Economic Co-operation and Development (OECD).",
+  "learning_goals": [
+    "Human Resource Management",
+    "Tax Administration"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "nathalie-andre",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "paul-dempsey",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 375,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "723gNQvZEfGiDQr_2-l8VQ",
+  "platform": "coursera",
+  "title": "Automate Agile Workflows and Project Backlogs",
+  "slug": "automate-agile-workflows-and-project-backlogs",
+  "description": "This practical course teaches how to design and implement automations and integrations that reduce manual handoffs and enforce governance. You will map manual processes into trigger-action flows, design and test single-purpose automations (WIP enforcement and overdue escalation), and build secure point-to-point integrations to send project updates to communication channels. Emphasis is on rule logic, filters, test cases, and a concise runbook to operationalize automations reliably. You will validate automations against simple acceptance criteria and deliver a working single-rule automation, an integration diagram, and a troubleshooting log for handover. The course balances engineering considerations with governance and security basics to ensure automations are maintainable and auditable.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "Approximately 12.75 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/automate-agile-workflows-and-project-backlogs",
+  "instructors": [
+    {
+      "name": "Professionals from the Industry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

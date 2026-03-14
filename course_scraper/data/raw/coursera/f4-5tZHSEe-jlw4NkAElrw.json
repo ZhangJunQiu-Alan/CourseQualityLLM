@@ -1,0 +1,26 @@
+{
+  "course_id": "f4-5tZHSEe-jlw4NkAElrw",
+  "platform": "coursera",
+  "title": "Introduction to Data Engineering on Google Cloud - 简体中文",
+  "slug": "introduction-to-data-engineering-on-google-cloud-zh",
+  "description": "在本课程中，您将了解 Google Cloud 数据工程、数据工程师的角色和职责，以及相关的 Google Cloud 产品和服务。您还将了解如何应对数据工程挑战。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.coursera.org/learn/introduction-to-data-engineering-on-google-cloud-zh",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

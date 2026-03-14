@@ -1,0 +1,31 @@
+{
+  "course_id": "1002601036",
+  "platform": "mooc_cn",
+  "title": "化学实验室安全科学",
+  "description": "化学实验室安全科学以RAMP原则为主线，即“识别危害-评估风险-安全防护-环境保护/紧急预案”，详细介绍并讨论了国内外高校化学实验室的安全知识和科学原则，为进入实验室的实验人员提供了必要的安全知识储备和专业训练，有助于提升安全意识和专业技能，具有很强的实际意义。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002601036",
+  "instructors": [
+    {
+      "name": "许峰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10121,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

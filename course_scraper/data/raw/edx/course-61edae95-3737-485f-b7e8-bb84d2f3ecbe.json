@@ -1,0 +1,38 @@
+{
+  "course_id": "course-61edae95-3737-485f-b7e8-bb84d2f3ecbe",
+  "platform": "edx",
+  "title": "Linear Algebra II: Matrix Algebra",
+  "description": "Your ability to apply the concepts that we introduced in our previous course is enhanced when you can perform algebraic operations with matrices. At the start of this class, you will see how we can apply the Invertible Matrix Theorem to describe how a square matrix might be used to solve linear equations. This theorem is a fundamental role in linear algebra, as it synthesizes many of the concepts introduced in the first course into one succinct concept.  \n You will then explore theorems and algorithms that will allow you to apply linear algebra in ways that involve two or more matrices. You will examine partitioned matrices and matrix factorizations, which appear in most modern uses of linear algebra. You will also explore two applications of matrix algebra, to economics and to computer graphics.  \n Students taking this class are encouraged to first complete the first course in this series, linear equations.",
+  "learning_goals": [
+    "Economics",
+    "Matrix Algebra",
+    "Operations",
+    "Basic Math",
+    "Linear Algebra",
+    "Linear Equations",
+    "Algorithms"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "3 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "greg-mayer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 440,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

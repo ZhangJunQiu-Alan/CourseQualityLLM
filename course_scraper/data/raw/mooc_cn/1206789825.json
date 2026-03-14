@@ -1,0 +1,31 @@
+{
+  "course_id": "1206789825",
+  "platform": "mooc_cn",
+  "title": "无机与分析化学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206789825",
+  "instructors": [
+    {
+      "name": "赵小燕;吕小丽;郑菊花;吉琛;蒋荣立",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国矿业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12537,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

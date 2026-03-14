@@ -1,0 +1,26 @@
+{
+  "course_id": "WO5XBzz6Ee-xLxIpRr2Opw",
+  "platform": "coursera",
+  "title": "Responsible AI for Developers: Interpretability & Transparency - 繁體中文",
+  "slug": "responsible-ai-for-developers-interpretability-transparency-zh",
+  "description": "本課程旨在說明 AI 的可解釋性和透明度概念、探討 AI 透明度對開發人員和工程師的重要性。課程中也會介紹實務方法和工具，有助於讓資料和 AI 模型透明且可解釋。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "zh-TW",
+  "url": "https://www.coursera.org/learn/responsible-ai-for-developers-interpretability-transparency-zh",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

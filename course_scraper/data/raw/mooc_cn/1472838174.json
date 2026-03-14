@@ -1,0 +1,31 @@
+{
+  "course_id": "1472838174",
+  "platform": "mooc_cn",
+  "title": "电机学",
+  "description": "电机应用领域非常广泛，涉及电能的产生、传输、使用的各个环节，比如，同学们经常使用的手机、电脑、空调、洗衣机，教学楼、图书馆、商场里的电梯，乘坐的电动汽车、高铁，工业生产中的机器人、数控机床，发电厂里的发电机、变压器，卫星、国防武器，等等。那么，同学们是不是想要了解电机的主要类型有哪些，想要理解它们的基本结构、工作原理、运行特性、以及使用方法等分别是怎么样的？期待同学们能够通过学习本课程并完成相应的学习任务，熟练掌握并应用上述内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472838174",
+  "instructors": [
+    {
+      "name": "全宇;林伟杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "杭州电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 506,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

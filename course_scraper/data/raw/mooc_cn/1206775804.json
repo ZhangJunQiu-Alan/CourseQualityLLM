@@ -1,0 +1,31 @@
+{
+  "course_id": "1206775804",
+  "platform": "mooc_cn",
+  "title": "化学反应工程",
+  "description": "化学反应工程是一门与实践结合紧密的专业核心课，本课程以反应动力学基础开篇，在此基础上系统讲述了理想反应器的概念、设计方程，针对实际反应器偏离理想流动的情况，介绍了非理想流动的概念和非理想流动模型。该课程的内容不仅可以用于指导科研和工业生产，而且是工业反应器设计必不可少的理论工具。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206775804",
+  "instructors": [
+    {
+      "name": "周伟;谢兴勇;刘雪梅;张孝杰;孙浩;张静",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "淮阴工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5711,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1454193175",
+  "platform": "mooc_cn",
+  "title": "机械原理",
+  "description": "汽车、高铁、飞机、机器人等机械类产品对人类的生产、生活带来了翻天覆地的变化。而机械类产品的创新、开发、设计等离不开机械原理提供的机械类专业基础知识。包括机械的结构分析、运动分析、动力分析、常用机构的设计等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1454193175",
+  "instructors": [
+    {
+      "name": "张杰;徐媛媛;金亚云;罗霁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南通理工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4080,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

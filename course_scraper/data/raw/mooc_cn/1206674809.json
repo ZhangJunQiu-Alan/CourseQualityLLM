@@ -1,0 +1,31 @@
+{
+  "course_id": "1206674809",
+  "platform": "mooc_cn",
+  "title": "现代信息技术概论",
+  "description": "“现代信息技术概论”，即目前在校内课程已经更名为《现代信息技术与人工智能概论》，是一门综合现代通信技术发展、演变和前瞻性的课程，它将现代通信技术从普通的电话通信开始，到现在方便的无线通信，以及面向未来的各种网络发展、信息技术。在新学期的教学大纲中，人工智能的部分将占更大的比例，紧密结合信息技术发展潮流，与时俱进。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206674809",
+  "instructors": [
+    {
+      "name": "史宏逵;江凌云;孙晓玲;王珺;林晓勇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14087,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

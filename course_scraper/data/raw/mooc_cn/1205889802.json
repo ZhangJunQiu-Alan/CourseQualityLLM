@@ -1,0 +1,31 @@
+{
+  "course_id": "1205889802",
+  "platform": "mooc_cn",
+  "title": "毛泽东思想和中国特色社会主义理论体系概论",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205889802",
+  "instructors": [
+    {
+      "name": "吕志辉;李红;羊绍武;陈乐香;郑晔",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 87169,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

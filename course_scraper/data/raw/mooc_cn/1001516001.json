@@ -1,0 +1,31 @@
+{
+  "course_id": "1001516001",
+  "platform": "mooc_cn",
+  "title": "有机化学",
+  "description": "有机化学是研究有机化合物的组成、结构、性质、制备方法与应用的科学，是极具魅力的一门学科。屠呦呦的青蒿素为什么能拿诺贝尔奖？《绝命毒师》里的情景都是真的吗？无糖可乐怎么也是甜的，喝了还不长胖？听说会有机化学的人厨艺会更高？如果你对这些问题感兴趣，进入《有机化学》学习，一探究竟吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001516001",
+  "instructors": [
+    {
+      "name": "石炜;江洪;徐胜臻;曹敏惠;马济美;李雪刚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 287457,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

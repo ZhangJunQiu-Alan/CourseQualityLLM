@@ -1,0 +1,26 @@
+{
+  "course_id": "Lb3BZX5MEfC0phLnRPWG8Q",
+  "platform": "coursera",
+  "title": "Introduction to CNN Training",
+  "slug": "introduction-to-cnn-training",
+  "description": "This beginner-friendly course on Convolutional Neural Networks (CNNs) equips you with essential skills to understand deep learning fundamentals and apply them to real-world image recognition tasks. Learn how CNNs power modern AI applications and gain practical experience through guided lab demos. Build confidence in designing, training, and implementing CNN models effectively.\n\nBy the end of this course, you will be able to:\n\nUnderstand CNN Basics: Explain what CNNs are and their role in deep learning and computer vision\nExplore Core Components: Learn about convolution, ReLU, and pooling layers in CNNs\nRecognize Image Processing: Understand how CNNs detect and classify image features\nApply CNN Models: Build and implement CNN models through hands-on guided labs\nGain Practical Skills: Develop expertise to handle real-world image classification projects\n\nIdeal for beginners, and professionals interested in AI, computer vision, and deep learning.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-cnn-training",
+  "instructors": [
+    {
+      "name": "Priyanka Mehta",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Simplilearn"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

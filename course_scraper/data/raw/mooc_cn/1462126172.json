@@ -1,0 +1,31 @@
+{
+  "course_id": "1462126172",
+  "platform": "mooc_cn",
+  "title": "操作系统原理",
+  "description": "操作系统原理是计算机科学与技术专业的核心课程。通过本课程的学习，有助于理解和掌握操作系统的知识体系、工作原理和关键技术，为后续其它课程的学习打下坚实的基础。本课程通过通俗易懂的视频讲授、丰富的知识拓展阅读、多题型的练习训练、以及Linux下的编程实践等环节，以立体化、全方位、多角度的方式，深入浅出，带领同学们步入操作系统的殿堂。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462126172",
+  "instructors": [
+    {
+      "name": "马宏琳;阎磊;于俊伟;李磊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4047,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

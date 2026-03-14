@@ -1,0 +1,26 @@
+{
+  "course_id": "-RdrYBzlEeiXawqf8NC2Yg",
+  "platform": "coursera",
+  "title": "Build, Train and Deploy ML Models with Keras on Google Cloud",
+  "slug": "intro-tensorflow",
+  "description": "This course covers building ML models with TensorFlow and Keras, improving the accuracy of ML models and writing ML models for scaled use.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 8-10 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/intro-tensorflow",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

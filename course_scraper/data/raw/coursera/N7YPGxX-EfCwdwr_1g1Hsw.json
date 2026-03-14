@@ -1,0 +1,26 @@
+{
+  "course_id": "N7YPGxX-EfCwdwr_1g1Hsw",
+  "platform": "coursera",
+  "title": "Criar embeddings, pesquisa vetorial e RAG com o BigQuery",
+  "slug": "create-embeddings-vector-search-and-rag-with-bigquery-ptbr",
+  "description": "Este curso estuda uma solução de geração aumentada de recuperação (RAG) no BigQuery para mitigar as alucinações da IA. Ele introduz um fluxo de trabalho de RAG que engloba a criação de embeddings, a pesquisa por um espaço vetorial e a geração de respostas aprimoradas. O curso explica os motivos conceituais dessas etapas e a implementação prática delas com o BigQuery. Até o fim do curso, será possível criar um pipeline de RAG usando o BigQuery e modelos de IA generativa como o Gemini, além de modelos de embeddings, para lidar com os próprios casos de uso de alucinação de IA.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "pt-BR",
+  "url": "https://www.coursera.org/learn/create-embeddings-vector-search-and-rag-with-bigquery-ptbr",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

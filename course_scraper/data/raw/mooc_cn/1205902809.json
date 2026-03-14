@@ -1,0 +1,31 @@
+{
+  "course_id": "1205902809",
+  "platform": "mooc_cn",
+  "title": "生物信息学",
+  "description": "如何高效选择生物数据库？如何精准获得结果？如何对某基因或蛋白质深入开展研究？想要一切迎刃而解，从试验台湿实验到生物信息干实验，从四个碱基的核苷酸到多姿多彩的蛋白质，从序列挖掘比对到系谱演化分析，从单个基因功能预测到基因组水平甄别，从微观到宏观大数据分析，一切尽在我们的在线课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205902809",
+  "instructors": [
+    {
+      "name": "李兴旺;谢为博;张建伟;袁猛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 40761,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002083018",
+  "platform": "mooc_cn",
+  "title": "社会调查与统计分析",
+  "description": "《社会调查与统计分析》是一门针对社会学类和公共管理学类专业学生的入门级研究方法课程。通过课程学习，你将了解社会研究的科学思维、掌握社会调查的基本原理、熟悉统计软件的操作方法，形成对社会现象独立研究的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002083018",
+  "instructors": [
+    {
+      "name": "卢小君",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 89545,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

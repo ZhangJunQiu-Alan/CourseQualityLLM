@@ -1,0 +1,26 @@
+{
+  "course_id": "XS74EIJMEfCPfgr__lXpzQ",
+  "platform": "coursera",
+  "title": "Microsoft Security Solutions Capabilities",
+  "slug": "microsoft-security-solutions-capabilities",
+  "description": "Welcome to Microsoft Sentinel, Microsoft Defender XDR & Threat Protection, a deep-dive course designed for cloud security engineers, SOC analysts, and IT professionals who want to master Microsoft’s advanced detection, response, and threat protection ecosystem.\nThis course covers the end-to-end workflow of cloud security operations using Microsoft Sentinel (SIEM & SOAR) and Microsoft Defender XDR. You’ll explore workspace planning, SIEM roles, SOAR automation, threat detection, and hunting queries in Sentinel. You’ll then move into Defender XDR configuration, integration with Sentinel, and best practices for incident response. Finally, you’ll learn about the entire Microsoft Defender product family (Defender for Cloud Apps, Office 365, Identity, and Endpoint) to build a unified threat protection strategy.\nBy the end of this course, you’ll be confident in deploying, configuring, and managing Microsoft Sentinel and Microsoft Defender XDR to detect, investigate, and respond to modern cloud threats.\n\nWho Should Take This Course?\nSOC Analysts and Incident Responders\nCloud Security Engineers and Azure Administrators\nIT Security Professionals looking to implement SIEM + XDR\nLearners preparing for SC-200 or seeking advanced Microsoft security skills\n\nCourse Format\nThis course delivers 6–7 hours of expert-led video content, split across four modules. Each module includes demos, configuration guides, and best practices. Knowledge checks and in-video questions are included to help reinforce learning.\n\nCourse Modules:\nModule 1: Azure Security Foundations: Networking, Key Vault & Defender\nModule 2: Microsoft Sentinel: SIEM & SOAR for Cloud Security Operations\nModule 3: Microsoft Defender XDR: Configuration, Integration & Best Practices",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 week of study, 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/microsoft-security-solutions-capabilities",
+  "instructors": [
+    {
+      "name": "Whizlabs Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Whizlabs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

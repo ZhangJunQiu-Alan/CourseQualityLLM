@@ -1,0 +1,26 @@
+{
+  "course_id": "4Q1OrdyJEe6V5xI34US_kw",
+  "platform": "coursera",
+  "title": "Getting Started with Migration Hub Refactor Spaces",
+  "slug": "aws-getting-started-with-migration-hub-refactor-spaces",
+  "description": "With AWS Migration Hub Refactor Spaces, you can fast-track the application refactoring of existing applications into distributed applications, typically based on microservices.\n\nIn this course, you will learn the benefits and technical concepts of Refactor Spaces. If you are new to the service, you will learn how to start with Refactor Spaces through a demonstration using the AWS Management Console. You will learn about the native architecture and how the built-in features can help you focus on refactoring your applications. This means you can focus less on creating and managing the underlying infrastructure that makes refactoring possible.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-getting-started-with-migration-hub-refactor-spaces",
+  "instructors": [
+    {
+      "name": "AWS Instructor ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

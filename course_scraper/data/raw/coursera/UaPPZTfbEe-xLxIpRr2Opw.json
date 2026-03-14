@@ -1,0 +1,26 @@
+{
+  "course_id": "UaPPZTfbEe-xLxIpRr2Opw",
+  "platform": "coursera",
+  "title": "ASP.NET Core MVC - Cross-Platform Development",
+  "slug": "packt-asp-net-core-mvc-cross-platform-development-udgh6",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nASP.NET Core MVC is a versatile framework for building modern, cross-platform web applications. This course begins with the fundamentals, teaching you to create and configure new projects, design application layouts, and implement features like authentication, authorization, and data validation. As you advance, you'll:\n\n- Explore dependency injection, middleware, filters, and performance optimization. \n- Cover data models, database contexts, views, and actions in controllers, and use Bootstrap 5 to enhance web application aesthetics. \n- Utilize tools like Visual Studio Code, Azure Data Studio, and Docker, and manage packages in .NET projects while employing GitHub for source control. \n- Learn to add OpenID Connect authentication with Auth0. \n\nBy the end, you'll master ASP.NET Core MVC, ready for real-world projects. \n\nThis course is designed for developers who have a basic understanding of C# and web development. Prior experience with ASP.NET or MVC frameworks is beneficial but not required. It's perfect for those looking to expand their skills in cross-platform development using modern tools and practices.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-asp-net-core-mvc-cross-platform-development-udgh6",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

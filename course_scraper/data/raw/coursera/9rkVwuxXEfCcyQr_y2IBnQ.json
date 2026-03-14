@@ -1,0 +1,26 @@
+{
+  "course_id": "9rkVwuxXEfCcyQr_y2IBnQ",
+  "platform": "coursera",
+  "title": "Build Practical Ruby Projects Using Core Programming Skills",
+  "slug": "build-practical-ruby-projects-using-core-programming-skills",
+  "description": "Learners will be able to build structured Ruby projects, apply core programming constructs, implement object-oriented principles, and deliver a complete, working Ruby application by the end of this course.\n\nThis course is designed to take learners from foundational Ruby concepts to the successful completion of a real-world Ruby project. Beginning with environment setup and basic syntax, learners progressively work through variables, control flow, data structures, object-oriented programming, file handling, and modular code design. Each module builds logically on the previous one, ensuring steady skill development through hands-on project work.\n\nBy completing this course, learners gain practical experience writing clean, reusable, and maintainable Ruby code, while also developing problem-solving skills essential for real programming tasks. The course emphasizes applied learning through structured lessons, practice quizzes, graded assessments, and a full project walkthrough.\n\nWhat makes this course unique is its project-first approach—every concept is taught in direct context of building and refining a Ruby project. This ensures learners not only understand Ruby concepts, but can confidently apply them in real development scenarios, making the course ideal for beginners seeking practical, job-ready Ruby skills.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-practical-ruby-projects-using-core-programming-skills",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

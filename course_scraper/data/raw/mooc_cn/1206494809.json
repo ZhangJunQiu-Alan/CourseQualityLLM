@@ -1,0 +1,31 @@
+{
+  "course_id": "1206494809",
+  "platform": "mooc_cn",
+  "title": "石油地质基础",
+  "description": "《石油地质基础》是石油工程技术专业的入门课程，是学生学习后续专业课的重要基础课程。涉及内容范围较广，主要包括基础地质和油气地质两部分，主要研究组成地壳的各种矿物、岩石基本特征等地质基础知识以及油气藏基本特征。后一部分为重点, 其核心是油气的生成、运移、聚集和分布规律。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206494809",
+  "instructors": [
+    {
+      "name": "刘春艳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河北石油职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2295,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1205903802",
+  "platform": "mooc_cn",
+  "title": "结构化学",
+  "description": "结构化学是高等学校化学专业学生培养体系中的一门重要的基础课程，使学生掌握微观物质运动基本规律，理解原子、分子及晶体结构的基本理论，探讨物质的结构与性能关系，了解研究分子和晶体结构的近代物理方法的基本原理，为学生进入更高学习及研究阶段的学习和发展打下扎实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205903802",
+  "instructors": [
+    {
+      "name": "蒲敏;雷鸣;李亚平;安赛;杨作银",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京化工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17449,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

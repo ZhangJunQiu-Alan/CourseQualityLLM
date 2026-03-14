@@ -1,0 +1,31 @@
+{
+  "course_id": "1205842808",
+  "platform": "mooc_cn",
+  "title": "中餐热菜制作",
+  "description": "请随我们一起走进美食的王国，听锅碗瓢盆的乐章，睹后厨的“刀光剑影”，品菜肴的苦辣酸甜，留给会享受生活艺术的你。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205842808",
+  "instructors": [
+    {
+      "name": "北京市外事学校 邓伯庚;王彤;廖京;付晓丽;高宁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33597,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

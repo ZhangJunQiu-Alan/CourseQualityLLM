@@ -1,0 +1,31 @@
+{
+  "course_id": "1464171162",
+  "platform": "mooc_cn",
+  "title": "Electronics Technology (ElectrotechnicsⅡ)",
+  "description": "Electronics Technology (Electrotechnics Ⅱ) is a basic technical course for majors that require less knowledge of electricity. The main contents include semiconductor devices, rectifier circuit, filter circuit, voltage stabilizing circuit, thyristor voltage regulating circuit; bipolar junction transistor amplifier circuit, multistage amplifier circuit, differential amplifier circuit, power amplifier circuit, Integrated operational amplifier circuit, basic operational circuit, voltage comparator, RC oscillating circuit, thyristor rectifier circuit, integrated gate circuit, combinational logic circuit, encoder and decoder, trigger, register, counter, integrated timer, digital to analog conversion circuit, analog to digital conversion circuit and so on.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464171162",
+  "instructors": [
+    {
+      "name": "Yunhong LIU;zhangyan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dalian University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 300,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

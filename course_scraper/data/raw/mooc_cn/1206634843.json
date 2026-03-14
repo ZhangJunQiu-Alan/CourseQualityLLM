@@ -1,0 +1,31 @@
+{
+  "course_id": "1206634843",
+  "platform": "mooc_cn",
+  "title": "病理学",
+  "description": "病理学是研究疾病的学科。它以人体正常结构和功能为基础，研究疾病的病因、发病机制和以形态学改变为中心的结构、代谢、机能的变化，从而理解疾病的临床表现。因此病理学是连接基础医学和临床医学的桥梁学科，是医学之本。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206634843",
+  "instructors": [
+    {
+      "name": "赵霞;徐惠;王国平;柯昌庶;许三鹏;李建莎;段亚琦;苏铁芬;朱朋成;敖启林;王曦;阮秋蓉;况东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 167668,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

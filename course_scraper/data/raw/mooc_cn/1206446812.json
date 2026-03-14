@@ -1,0 +1,31 @@
+{
+  "course_id": "1206446812",
+  "platform": "mooc_cn",
+  "title": "日本与日本文化",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206446812",
+  "instructors": [
+    {
+      "name": "吴英杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "对外经济贸易大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26773,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

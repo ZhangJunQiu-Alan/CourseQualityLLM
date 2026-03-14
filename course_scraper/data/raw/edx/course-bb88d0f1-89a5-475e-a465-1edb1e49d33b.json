@@ -1,0 +1,35 @@
+{
+  "course_id": "course-bb88d0f1-89a5-475e-a465-1edb1e49d33b",
+  "platform": "edx",
+  "title": "Introduction to System on Chip Design",
+  "description": "System-on-Chip (SoC) technology is the backbone of modern smart systems - from smartphones and tablets to autonomous vehicles and embedded IoT devices. But what exactly goes into designing an SoC? \n Introduction to System-on-Chip (SoC) offers a basic overview of how entire systems are integrated onto a single silicon chip. Starting with basic concepts and progressing through architecture, design flows, and real-world implementation, this course gives you the knowledge to understand how SoCs are structured, designed, and fabricated. \n You’ll examine the key functional blocks of an SoC, including processors, memory subsystems, interconnects, and peripherals. You’ll learn about front-end and back-end design methodologies, hardware-software co-design, and the role of EDA tools in managing complexity. \n The course is ideal for beginners who want to enter the semiconductor industry or deepen their knowledge of integrated systems design.",
+  "learning_goals": [
+    "Architectural Design",
+    "Tablets",
+    "Smart Systems",
+    "System On A Chip",
+    "Peripheral Devices",
+    "Autonomous Vehicles",
+    "Semiconductors",
+    "Internet Of Things (IoT)",
+    "Smartphone Operation",
+    "Enterprise Desktop Administrator (Microsoft Certified IT Professional)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "King's College London"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 541,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

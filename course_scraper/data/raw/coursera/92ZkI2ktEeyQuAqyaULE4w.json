@@ -1,0 +1,26 @@
+{
+  "course_id": "92ZkI2ktEeyQuAqyaULE4w",
+  "platform": "coursera",
+  "title": "Deep Learning with PyTorch : GradCAM",
+  "slug": "deep-learning-with-pytorch-gradcam",
+  "description": "Gradient-weighted Class Activation Mapping (Grad-CAM), uses the class-specific gradient information flowing into the final convolutional layer of a CNN to produce a coarse localization map of the important regions in the image. In this 2-hour long project-based course, you will implement GradCAM on simple classification dataset. You will write a custom dataset class for Image-Classification dataset. Thereafter, you will create custom CNN architecture. Moreover, you are going to create train function and evaluator function which will be helpful to write the training loop. After, saving the best model, you will write GradCAM function which return the heatmap of localization map of a given class. Lastly, you plot the heatmap which the given input image.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/deep-learning-with-pytorch-gradcam",
+  "instructors": [
+    {
+      "name": "Parth Dhameliya",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

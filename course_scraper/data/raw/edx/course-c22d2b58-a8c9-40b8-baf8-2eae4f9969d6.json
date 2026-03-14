@@ -1,0 +1,47 @@
+{
+  "course_id": "course-c22d2b58-a8c9-40b8-baf8-2eae4f9969d6",
+  "platform": "edx",
+  "title": "Supply Chain Management Tools and Techniques",
+  "description": "This course is part of the edX Professional Certificate program  Certified Supply Chain Analyst (CSCA) , offered by ISCEA. This course prepares you for the ISCEA Certified Supply Chain Analyst (CSCA) Exam on edX and is a requirement for becoming ISCEA certified. To become an ISCEA Certified Supply Chain Analyst (CSCA), you must complete all three preparatory courses and successfully pass the CSCA Exam. \n Supply chains are complex and keeping them both operating and improving is a great challenge. This course is designed to provide a broad set of tools currently used in the industry to make their supply chains efficient and competitive. \n From the operations perspective, the course provides an introduction to Sales Order Fulfillment and Aggregate Planning, along with the planning strategies to produce what the market demands. \n From the continuous improvement perspective, the course explains the importance of Lean and Six Sigma and sustainability in the supply chain; including life cycle analysis and environmental considerations. The course concludes with team dynamics, covering customer-supplier relationships and best practices for engaging with customers. \n This course is part of the ISCEA CSCA - Certified Supply Chain Analyst - Internationally Recognized Certificate.",
+  "learning_goals": [
+    "Sales Order",
+    "Supply Chain",
+    "Six Sigma Methodology",
+    "Planning",
+    "Operations",
+    "Life-Cycle Assessment",
+    "Supply Chain Management",
+    "Supply Chain Analysis",
+    "Continuous Improvement Process",
+    "Lean Manufacturing",
+    "Aggregate Planning"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mike-sheahan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jorge-morales",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "International Supply Chain Education Alliance"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 632,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

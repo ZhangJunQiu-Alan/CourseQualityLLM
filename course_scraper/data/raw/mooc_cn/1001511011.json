@@ -1,0 +1,31 @@
+{
+  "course_id": "1001511011",
+  "platform": "mooc_cn",
+  "title": "数据库技术及应用",
+  "description": "大千世界，数据为本。欲掌握数据，需建立“数据库”；欲建立“数据库”需采集、整理万千“数据”；欲利用、使用“数据库”，需查询、分析、挖掘万千“数据”。本课程是由国家级精品课，国家级精品资源共享课和国家一流课程团队精心打造的。在这里你会了解和学会进行“数据”采集、整理、输入、查询、分析及应用的数据库技术；掌握数据搜集、整理、分析和处理等数据处理的基本技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001511011",
+  "instructors": [
+    {
+      "name": "李雁翎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 131809,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

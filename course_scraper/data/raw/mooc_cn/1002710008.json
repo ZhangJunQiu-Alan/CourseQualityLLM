@@ -1,0 +1,31 @@
+{
+  "course_id": "1002710008",
+  "platform": "mooc_cn",
+  "title": "化学与健康",
+  "description": "随着社会经济的发展和人类文明的进步，人们对健康的重视日益凸显。“化学与健康”课程以与健康密切相关的化学因素为主线，将知识性与应用性相结合，引导学生在认知上了解化学与生命、健康及生活的密切关系，在行为上能运用化学知识分析和解决日常生活问题，科学、健康地生活。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002710008",
+  "instructors": [
+    {
+      "name": "唐玉宝;解从霞;李明;于跃芹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "青岛科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25891,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

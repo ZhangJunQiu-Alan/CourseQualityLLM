@@ -1,0 +1,47 @@
+{
+  "course_id": "course-82e5c3a1-7d19-44d8-bbbc-f3cda6691a64",
+  "platform": "edx",
+  "title": "Solar Energy: Photovoltaic (PV) Energy Conversion",
+  "description": "The key factor in getting more efficient and cheaper solar energy panels is the advance in the development of photovoltaic cells. In this course you will learn how photovoltaic cells convert solar energy into useable electricity. You will also discover how to tackle potential loss mechanisms in solar cells. By understanding the semiconductor physics and optics involved, you will develop in-depth knowledge of how a photovoltaic cell works under different conditions. You will learn how to model all aspects of a working solar cell. For engineers and scientists working in the photovoltaic industry, this course is an absolute must to understand the opportunities for solar cell innovation. \n This course is part of the Solar Energy Engineering MicroMasters Program designed to cover all physics and engineering aspects of photovoltaics: photovoltaic energy conversion, technologies and systems. \n We recommend that you complete this course prior to taking the other courses in this MicroMasters program. \n  Earn a Microcredential  \n After finishing this course, and passing the related exam, you are eligible to receive one microcredential. A microcredential is a digital certificate that allows learners to demonstrate the knowledge and skills acquired after successfully completing a small unit of education. It describes the learning outcomes, educational level and scope of the course or program – and adds a quality mark, as it is bound to a recognized quality framework. For more information, please read the FAQ below.",
+  "learning_goals": [
+    "Public Key Certificates",
+    "Solar Cells",
+    "Energy Conversion",
+    "Optics",
+    "Semiconductors",
+    "Physics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "12 周，每周 10-11 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "arno-smets",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "miro-zeman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rene-van-swaaij",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 331,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "wflrMr-dEemabw7esOtn5g",
+  "platform": "coursera",
+  "title": "Quantum Mechanics",
+  "slug": "quantum-mechanics",
+  "description": "Course 2 of Statistical Thermodynamics presents an introduction to quantum mechanics at a level appropriate for those with mechanical or aerospace engineering backgrounds. Using a postulatory approach that describes the steps to follow, the Schrodinger wave equation is derived and simple solutions obtained that illustrate atomic and molecular structural behavior. More realistic behavior is also explored along with modern quantum chemistry numerical solution methods for solving the wave equation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "Three weeks of content. Six to nine hours per week, including studying.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/quantum-mechanics",
+  "instructors": [
+    {
+      "name": "John W. Daily",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

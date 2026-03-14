@@ -1,0 +1,26 @@
+{
+  "course_id": "kutW5KWsEfCpzgr_4yIONQ",
+  "platform": "coursera",
+  "title": "Engineer & Explain AI Model Decisions",
+  "slug": "engineer-and-explain-ai-model-decisions",
+  "description": "Engineer & Explain AI Model Decisions is an Intermediate-level course designed for Machine Learning and AI professionals who need to build trustworthy and justifiable AI systems. In today's complex data environments, high accuracy is not enough; you must be able to prove why a model made its decision and remediate biases that cause real-world harm.\n\nThis course empowers you to combine advanced feature engineering and model interpretability practices to ensure ethical, reliable deployment. You will begin by mastering data transformation, learning to clean chaotic, conversational logs (like agent chat history) and converting them into structured, model-ready tensors using Python, scikit-learn, TF-IDF, and embedding aggregation.\n\nFurther, you will dive into the \"black box\" using powerful explainability techniques like SHAP to analyze model reasoning. You will run diagnostics on misclassified examples, flag spurious correlations (such as time-of-day dependencies), and develop strategies for bias remediation. The final deliverable is an AI Model Decision Toolkit, culminating in a stakeholder-ready interpretability report that translates technical findings into actionable, business insights. This course is essential for anyone responsible for the transparent, reliable, and bias-aware deployment of AI in production.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "Approximately 210 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/engineer-and-explain-ai-model-decisions",
+  "instructors": [
+    {
+      "name": "LearningMate",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

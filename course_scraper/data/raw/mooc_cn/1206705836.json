@@ -1,0 +1,31 @@
+{
+  "course_id": "1206705836",
+  "platform": "mooc_cn",
+  "title": "基础会计",
+  "description": "《基础会计》是金融学、经济学、管理学等专业的一门专业基础必修课程，是研究会计的基本概念、基础知识和方法的一门课程。对于非会计专业的同学来讲，通过本课程可以学习掌握会计基本理论、核算方法，有助于完善个人专业知识结构，增强了解和研判企业财务状况和经营成果的能力，扩大知识面和专业视野。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206705836",
+  "instructors": [
+    {
+      "name": "张欣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州升达经贸管理学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35121,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,50 @@
+{
+  "course_id": "course-7a0a60d7-747b-44e8-b274-62f9dd9c5283",
+  "platform": "edx",
+  "title": "Geospatial Science: Remote Sensing",
+  "description": "Starting with the basics of imaging, we will discuss concepts and functionality of airborne remote sensing and provide an introduction to multispectral imagery and the electromagnetic spectrum. The course will also introduce visualization of 3D mapping on earth from images including stereo-photogrammetry and discuss earth observation, advanced remote sensing methods such as synthetic aperture radar (SAR), and hyperspectral sensing.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "franz-meyer-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "tony-hayba",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "julia-white",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "simon-zwieback",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "joshua-knicely",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Alaska Fairbanks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 287,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

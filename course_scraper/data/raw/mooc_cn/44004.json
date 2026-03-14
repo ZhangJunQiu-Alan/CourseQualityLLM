@@ -1,0 +1,31 @@
+{
+  "course_id": "44004",
+  "platform": "mooc_cn",
+  "title": "结构力学Ⅰ",
+  "description": "结构力学课程是土木工程等专业的平台主干课程。同济大学结构力学课程2005年被教育部列为国家级精品课程，2013年被教育部列为国家级精品资源共享课程。课程负责人朱慈勉教授曾任教育部基础力学课程指导委员会委员，并获上海市高等学校名师奖。课程教材两次列为国家级规划教材，获上海市优秀教材一等奖。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/44004",
+  "instructors": [
+    {
+      "name": "姜旭;吕凤悟;孙飞飞;吴宇清;夏烨;陈涛;丁泉顺;陈素文;朱慈勉;张伟平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 82898,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

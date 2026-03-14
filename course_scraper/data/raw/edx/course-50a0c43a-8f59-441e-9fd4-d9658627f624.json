@@ -1,0 +1,54 @@
+{
+  "course_id": "course-50a0c43a-8f59-441e-9fd4-d9658627f624",
+  "platform": "edx",
+  "title": "Modeling and Simulation of Multibody Systems - Part I",
+  "description": "This course aims at acquainting you with the modeling and simulation of complex articulated mechanical systems, denoted as multibody systems, such as vehicles, merry-go-rounds, motorbikes, cranes, human bodies, suspensions, robot manipulators, mechanical transmissions, etc. \n This course is based on (1) video clips focusing on the main theoretical background and concepts, (2) well-illustrated written sections giving more details about the mathematical formulation, and (3) questions, exercises and modeling projects. \n Despite the intrinsic complexity of such systems in terms of morphology and motions, basic skills in Newtonian mechanics, linear algebra and numerical methods are sufficient to model them, provided that the endless and tedious computation related to their internal kinematics and dynamics are at our disposal. This is the purpose of the symbolic program ROBOTRAN*, which can be used with this course and can automatically generate the full set of equations of motion of MBS, in a symbolic manner, i.e. exactly as if you were writing them by hand, whatever the size and the morphological complexity of the application. Hence, this course will instead teach you how to intervene upstream and downstream this generation step. \n Upstream the latter, you will learn how to translate a real system, e.g. a car suspension, into a virtual multibody model comprising bodies, joints, internal or external forces and torques and imposed motion… with a level of refinement that will be dictated by the original issue. For example, what is the minimum tire ground force when the car suspension is excited by a shaker? \n Downstream the symbolic generation, your intervention will consist in: \n \n Completing the symbolic model with features that are specific to your system, e.g. a tire force model or the tuning of a motion controller, among other things; \n Implementing under the form of a program (in Python, Matlab, or C) a time simulation to solve the differential equations of motion, given the original question: e.g. find the transient motion of the system submitted to forces and torques and compute a specific force time history or the maximal acceleration of a particular point. \n Selecting the most suitable results, including self-explanatory - and sometimes funny - video animations of your multibody system in motion. \n \n In sum, this course, based on the use of the ROBOTRAN* symbolic generator, will allow you to focus on the most interesting aspects of the multibody modeling process, by entirely mastering your computer model from the input data to the results, instead of using a black-box multibody software that clearly goes against the educational objective of this course.  \n Enjoy Multibody Dynamics!  \n *Note: The course was built to teach modeling and simulation of multibody systems, and not to teach any specific software. However, we suggest that you use the symbolic ROBOTRAN program to model and study the various multibody systems proposed in this course.",
+  "learning_goals": [
+    "Mechanics",
+    "Mechanical Systems",
+    "Python (Programming Language)",
+    "Animations",
+    "MATLAB",
+    "Basic Math",
+    "Go (Programming Language)",
+    "C (Programming Language)",
+    "Mortgage-Backed Securities",
+    "Suspension (Vehicle)",
+    "Numerical Analysis",
+    "Linear Algebra",
+    "Simulations",
+    "Morphology",
+    "Kinematics",
+    "Differential Equations",
+    "Computer Simulation",
+    "Motion Control Systems"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "14 周，每周 10-11 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "paul-fisette",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "maxime-raison",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Université catholique de Louvain"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 487,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

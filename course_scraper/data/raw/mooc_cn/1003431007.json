@@ -1,0 +1,31 @@
+{
+  "course_id": "1003431007",
+  "platform": "mooc_cn",
+  "title": "电路原理",
+  "description": "本课程是江苏省一流本科课程（线上课程），由江苏大学电路原理课程团队建设并维护。课程前身为国家级精品课程、国家级精品资源共享课程，课程主讲教师均为国家级教学团队成员。本课程主要内容包含基本电路元件、电路等效变换、电路分析方法、电路定理、动态电路的时域分析、正弦交流电路分析、谐振电路、互感电路、三相电路的分析等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003431007",
+  "instructors": [
+    {
+      "name": "殷春芳;傅海军;朱孝勇;孙月平;和阳;陈晓平;韩守义;徐培凤;李长杰;戴继生",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29226,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

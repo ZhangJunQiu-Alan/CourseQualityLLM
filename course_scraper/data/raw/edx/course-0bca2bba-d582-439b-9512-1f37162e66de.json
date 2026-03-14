@@ -1,0 +1,30 @@
+{
+  "course_id": "course-0bca2bba-d582-439b-9512-1f37162e66de",
+  "platform": "edx",
+  "title": "Agentic AI: Developing AI Agents",
+  "description": "Learn how to build AI agents that think, reason, and take meaningful action using LangChain’s tool calling and agent frameworks. This course introduces the foundations of AI agent design, comparing different agent architectures and showing when to use structured workflows, manual tool calling, or built-in agents. You’ll learn how to connect LLMs with external tools—calculators, APIs, data sources, and more—to extend model capabilities far beyond text generation.  \n  \n \n\nHands-on labs guide you through building agents with LangChain Expression Language (LCEL), validating model outputs, orchestrating tool calls, and chaining multiple operations together. You’ll also explore pre-built DataFrame and SQL agents to perform data analysis, create visualizations, and execute natural language database queries. \n \n\nBy the end, you’ll be able to design robust, reliable agents that perform precise tasks while maintaining natural conversational flow. Whether you’re developing chatbots, assistants, or automation systems, you’ll gain the skills to engineer AI that can reason, act, and deliver results in real-world workflows.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "3 周，每周 3-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "skills-network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 553,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

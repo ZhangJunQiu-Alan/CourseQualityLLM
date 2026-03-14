@@ -1,0 +1,31 @@
+{
+  "course_id": "1206574810",
+  "platform": "mooc_cn",
+  "title": "大学语文",
+  "description": "大学语文课程是华东师范大学的代表性课程之一，本课程是在华东师大全校本科生公选课《大学语文》课程基础上整理而成，以徐中玉先生主编经典教材《大学语文》为依托，共分为九个单元，分别根据中国文学中爱情、游览、政论、怀古、哲理、传记、生命思考等经典主题，选择二十四篇不同的代表作品展开讲解。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206574810",
+  "instructors": [
+    {
+      "name": "彭国忠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 64831,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

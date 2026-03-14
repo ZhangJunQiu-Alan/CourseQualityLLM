@@ -1,0 +1,36 @@
+{
+  "course_id": "5VagU-vaEeyozBJ-29c9rQ",
+  "platform": "coursera",
+  "title": "Data-Oriented C++ in Scientific Programming",
+  "slug": "data-oriented-scientific-programming",
+  "description": "Learn how to write efficient, maintainable C++ code for data-intensive applications in this hands-on course. Key application areas include scientific simulation software, statistical data processing, and computer graphics.\n\nYou’ll begin by exploring how modern C++ supports high-efficiency programming and review the principles of a central piece of hardware in data-intensive applications: computer memory.\nNext, the course shifts to software design. You’ll examine performance shortcomings of traditional object-oriented programming and dive into data-oriented perspective, which improves performance by structuring code around the data itself. You’ll learn how this paradigm overcomes bottlenecks and leads to more scalable, high-performance solutions.\n\nFinally, you’ll apply these principles to modern multi-threaded systems. Through hands-on experience you will learn to use C++'s built-in parallel features to target both multi-core CPUs and GPUs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 weeks of study, 3-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-oriented-scientific-programming",
+  "instructors": [
+    {
+      "name": "Jonas Latt",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Bastien Chopard",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Jean-Luc Falcone",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Geneva"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

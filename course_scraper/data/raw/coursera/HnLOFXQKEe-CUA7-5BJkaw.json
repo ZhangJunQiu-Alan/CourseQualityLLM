@@ -1,0 +1,26 @@
+{
+  "course_id": "HnLOFXQKEe-CUA7-5BJkaw",
+  "platform": "coursera",
+  "title": "Manage and Secure Distributed Services with GKE Managed Service Mesh",
+  "slug": "googlecloud-manage-and-secure-distributed-services-with-gke-managed-servic-ap1vv",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. Learn how to run distributed services on multiple Google Kubernetes Engine (GKE) clusters in Google Cloud using Multi Cluster Ingress and GKE Service Mesh",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-manage-and-secure-distributed-services-with-gke-managed-servic-ap1vv",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "jNal3BeREfGMqxJXqQYYkQ",
+  "platform": "coursera",
+  "title": "利用 Gemini CLI 加快应用开发速度",
+  "slug": "accelerate-app-development-with-gemini-cli-zh",
+  "description": "本课程的适用对象是想要借助于 Gemini CLI（一款专为终端打造并由 Gemini 提供支持的生成式 AI 智能体）来更智能地工作的应用开发者和 DevOps 工程师。\n\n本课程探讨了 Gemini CLI 的安装和配置，并介绍了其应用场景和安全最佳实践。课程中还详细讲解了命令、工具、MCP 服务器和扩展程序。通过实践练习，您将安装和配置 Gemini CLI，并使用它来分析代码以及构建和修改应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.coursera.org/learn/accelerate-app-development-with-gemini-cli-zh",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

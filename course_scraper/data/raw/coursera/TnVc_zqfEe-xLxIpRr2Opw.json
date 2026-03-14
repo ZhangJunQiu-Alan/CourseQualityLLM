@@ -1,0 +1,31 @@
+{
+  "course_id": "TnVc_zqfEe-xLxIpRr2Opw",
+  "platform": "coursera",
+  "title": "Advanced Quantitative Statistics with Excel",
+  "slug": "advanced-quantitative-statistics-with-excel",
+  "description": "This comprehensive course is tailored specifically for data analysts, business professionals, and anyone looking to significantly enhance their proficiency in Microsoft Excel for complex data analysis tasks. By exploring a wide range of advanced Excel features and techniques, participants will gain the ability to analyze and interpret data to make informed business decisions. \n\nLearners will be introduced to real-world applications, using Excel to tackle diverse scenarios. The main case study will focus on Marketing, specifically the pricing of diamonds based on their characteristics and analyzing production quality data in manufacturing. By the end of the case study, learners will feel empowered to apply regression analysis to problems in their own field. \n\nThis practical approach ensures that learners will leave the course equipped to handle complex data analysis challenges, providing them with the skills to conduct hypothesis testing, regression analysis, and more. \n\nThe course is designed for Business Analysts and Data Analysts seeking to enhance their analytical skills and improve their decision-making capabilities. It is ideal for professionals who regularly handle data, generate reports, and provide insights to support business strategies. Participants are expected to have a keen interest in leveraging data to drive organizational success and be open to learning advanced analytical techniques and tools.\n\nParticipants should be proficient in Microsoft Excel for data manipulation, analysis, and visualization. They should also understand fundamental statistical concepts, including measures of central tendency (mean, median, mode), dispersion (range, variance, standard deviation), and confidence intervals. This foundation will help them grasp more complex analytical methods and apply them effectively in their roles.\n\nBy the end of this course, learners will have mastered the necessary tools to effectively visualize, analyze, and interpret data using Excel, making them invaluable assets in their professional fields. This course will empower participants to transform raw data into compelling insights, driving business strategies and achieving better outcomes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-quantitative-statistics-with-excel",
+  "instructors": [
+    {
+      "name": "Diogo Resende",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

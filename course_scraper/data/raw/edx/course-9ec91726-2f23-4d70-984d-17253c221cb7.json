@@ -1,0 +1,35 @@
+{
+  "course_id": "course-9ec91726-2f23-4d70-984d-17253c221cb7",
+  "platform": "edx",
+  "title": "Customer Relationship Management",
+  "description": "Customer Relationship Management, also known as CRM, helps businesses successfully implement strategies, practices and technolgies aimed at winning and retaining customers profitably. The objective of this business and management course is to equip you with a sound foundation of CRM concepts and best practices so you can implement CRM practices successfully for long-term profitability. \n Businesses aim to win and keep customers. Their competitors also seek to do the same. Even the most successful firms, with excellent marketing programs for attracting customers, have trouble with customer retention. \n In this course, you will learn how to shift from a short-term customer transaction based mode of operation to a long-term relationship mode and understand the benefits of having strong customer relations. \n Topics covered include: \n \n Customer retention \n Customer centricity \n Customer lifetime value \n Customer value management",
+  "learning_goals": [
+    "Management",
+    "Marketing",
+    "Customer Relationship Management",
+    "Relationship Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "shainesh-g",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Indian Institute of Management Bangalore"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 684,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

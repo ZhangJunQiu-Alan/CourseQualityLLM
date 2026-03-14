@@ -1,0 +1,31 @@
+{
+  "course_id": "1003626001",
+  "platform": "mooc_cn",
+  "title": "普通生物学实验（细胞与分子）",
+  "description": "《普通生物学实验（细胞与分子）》是一门面向生物类专业的基础课程，非生物类专业的实践性较强的通识课程，涵盖模式生物果蝇、大肠杆菌、拟南芥、动物HeLa细胞等相关的实验内容。欢迎对生命科学具有浓厚兴趣与强烈的好奇心的朋友们加入我们的课程一起学习，让我们一起探讨，共同成长！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003626001",
+  "instructors": [
+    {
+      "name": "薛秀花",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13069,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

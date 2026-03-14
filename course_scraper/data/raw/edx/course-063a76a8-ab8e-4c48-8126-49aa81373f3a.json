@@ -1,0 +1,24 @@
+{
+  "course_id": "course-063a76a8-ab8e-4c48-8126-49aa81373f3a",
+  "platform": "edx",
+  "title": "Use AI for Everyday Tasks",
+  "description": "Use AI for Everyday Tasks\" equips you with the foundational knowledge and practical skills to leverage AI in your daily workflow. You'll begin by understanding the core concepts of generative AI, including LLMs and NLPs, and explore their everyday applications, from smart assistants to AI agents. This course emphasizes responsible and effective AI usage, ensuring you can integrate these technologies ethically. Dive into the basics of prompting, discover easy opportunities to experiment with AI, and try out sample prompts in Copilot, such as drafting emails, developing study plans, and creating podcasts. Commit to a daily AI experiment to build your skills incrementally. Learn to personalize fill-in-the-blank prompts with specific goals, timelines, and topics in Copilot, and use \"Think Deeper\" to expand on your results. Identify valuable prompting resources like the Copilot Prompt Gallery and Scenario library. Explore various AI tools and build on results using walkthrough examples. Check your knowledge throughout the course, recap key points, and sign up for a 50-day challenge to deepen your learning. This course empowers you to confidently and effectively use AI to enhance your productivity and creativity.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2787,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

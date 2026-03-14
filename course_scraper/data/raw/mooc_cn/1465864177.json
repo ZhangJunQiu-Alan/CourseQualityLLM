@@ -1,0 +1,31 @@
+{
+  "course_id": "1465864177",
+  "platform": "mooc_cn",
+  "title": "变态心理学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465864177",
+  "instructors": [
+    {
+      "name": "蒋雅丽;赵静波;范方\t;攸佳宁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华南师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24527,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

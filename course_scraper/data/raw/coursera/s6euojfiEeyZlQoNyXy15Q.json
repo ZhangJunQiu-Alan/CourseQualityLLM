@@ -1,0 +1,26 @@
+{
+  "course_id": "s6euojfiEeyZlQoNyXy15Q",
+  "platform": "coursera",
+  "title": "Jenkins Pipeline: Declarative and IaC approaches for DevOps",
+  "slug": "jenkins-pipeline-write-declarative-and-iac-devops",
+  "description": "By the end of this course you will be able to start writing your own Jenkins scripts either in the Jenkins UI or as Jenkinsfile over a multi-stage CD workflow.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/jenkins-pipeline-write-declarative-and-iac-devops",
+  "instructors": [
+    {
+      "name": "Rudi Hinds",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

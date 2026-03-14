@@ -1,0 +1,45 @@
+{
+  "course_id": "course-77ba4032-53cb-4d03-8023-4f2e739883fb",
+  "platform": "edx",
+  "title": "AI to Understand and Connect People",
+  "description": "The Humanities and Social Sciences are essential for understanding the past, present, and future of our society. Artificial Intelligence (AI) is transforming many aspects of life, including the ways we relate to one another, and is increasingly shaping the disciplines that help us explore what it means to be human. To you help you grasp the potential and impact of AI in the Humanities and Social Sciences, this course introduces the core concepts, challenges, and applications of AI in these fields. \n Across 8 modules, you will learn introductory concepts of AI and how they are applied in various fields of the Humanities and Social Sciences. Tailored to professionals across a range of disciplines, the key features of this course are: \n  Comprehensive, yet accessible learning  \n Learn about AI concepts such as Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP) in an engaging and straightforward way. \n  Explore AI’s impact on the Humanities and Social Sciences  \n Discover how AI is influencing society and shaping its adoption in various disciplines, including arts, cultural heritage, education, ethics, law, public policy, regulation, and more. The course also highlights how these disciplines contribute to the development and responsible implementation of AI technologies. \n  Expert-based course  \n Learn from a group of experts, professors, and researchers who share  different theoretical frameworks and use-case examples  of how AI is used for humor, arts, cultural heritage, aesthetics, education, and more. \n By the end of this course, you will have developed a  foundational understanding of AI  and gained  practical insights into how it can be applied  in the Humanities and Social Sciences. \n The knowledge you gain in this course will help you integrate AI into your daily work and prepare you for more advanced, technical AI training. Are you ready to start? \n This MOOC is a collaboration between KU Leuven and VAIA. Feel free to explore  VAIA's website  to find more information on trainings, workshops, and tools about AI.",
+  "learning_goals": [
+    "Natural Language Processing",
+    "Social Sciences",
+    "Aesthetics",
+    "Artificial Intelligence",
+    "Deep Learning",
+    "Public Policies",
+    "Research",
+    "Machine Learning",
+    "Computer Vision"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "9 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "leen-sevens",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-frost-cruz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "KU Leuven"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 320,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

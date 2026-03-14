@@ -1,0 +1,26 @@
+{
+  "course_id": "9s0pRF46EfCt3A6L7mfc_Q",
+  "platform": "coursera",
+  "title": "GenAI for Code Migration Tasks Training",
+  "slug": "genai-for-code-migration-tasks-training",
+  "description": "This beginner-friendly course explores how Generative AI revolutionizes code migration and optimization across the software development lifecycle. Learn to automate language conversion, framework shifts, version upgrades, and performance tuning using tools like GitHub Copilot. Understand and compare manual vs AI-driven workflows, and explore real-world demos. Master the use of GenAI to improve time and space complexity, refactor legacy systems, and boost code efficiency and scalability. Build practical skills to transform codebases with AI-powered automation, precision, and speed.\n\nBasic understanding of programming or software development is recommended.\n\nBy the end of this course, you will be able to:\n\n- Use GenAI tools like GitHub Copilot to automate code migration and optimization tasks\n- Perform language conversion, framework shifts, and version upgrades using AI\n- Reduce time and space complexity through AI-powered code analysis\n- Evaluate GenAI adoption through real-world examples like Uber’s code transformation\n\nIdeal for developers, software engineers, and tech professionals seeking to modernize codebases using AI.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/genai-for-code-migration-tasks-training",
+  "instructors": [
+    {
+      "name": "Priyanka Mehta",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Simplilearn"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

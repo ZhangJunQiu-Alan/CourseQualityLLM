@@ -1,0 +1,31 @@
+{
+  "course_id": "1003763005",
+  "platform": "mooc_cn",
+  "title": "传热学",
+  "description": "本课程由上海交通大学赵长颖、王平阳、欧阳华、洪芳军主讲，使用杨世铭、陶文铨主编的传热学（第四版）教材。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003763005",
+  "instructors": [
+    {
+      "name": "洪芳军;王倩;赵长颖;王平阳;欧阳华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30152,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

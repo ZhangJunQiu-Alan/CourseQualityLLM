@@ -1,0 +1,31 @@
+{
+  "course_id": "1003145003",
+  "platform": "mooc_cn",
+  "title": "结构化学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003145003",
+  "instructors": [
+    {
+      "name": "王丽华;张章静;项生昌;肖秀峰;谢春玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15372,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

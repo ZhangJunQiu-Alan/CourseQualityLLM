@@ -1,0 +1,60 @@
+{
+  "course_id": "course-aca3d8f7-8907-474c-9a62-58cca8c6254f",
+  "platform": "edx",
+  "title": "Circuits and Electronics 3: Applications",
+  "description": "Want to learn how your radio works? Wondering how to implement filters using resistors, inductors, and capacitors? Wondering what are some other applications of RLC and CMOS circuits? This free circuits course, taught by edX CEO and MIT Professor Anant Agarwal and MIT colleagues, is for you.  \n The third and final online Circuits and Electronics courses is taken by all MIT Electrical Engineering and Computer Science (EECS) majors.  \n Topics covered include: dynamics of capacitor, inductor and resistor networks; design in the time and frequency domains; op-amps, and analog and digital circuits and applications. Design and lab exercises are also significant components of the course.  \n Weekly coursework includes interactive video sequences, readings from the textbook, homework, online laboratories, and optional tutorials. The course will also have a final exam.  \n This is a self-paced course, so there are no weekly deadlines. However, all assignments are due when the course ends.",
+  "learning_goals": [
+    "Inductors",
+    "Capacitors",
+    "Application Design",
+    "Smartphone Operation",
+    "Electrical Engineering",
+    "Computer Science",
+    "Digital Electronics",
+    "Electronics",
+    "Resistors"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 8-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "anant-agarwal-0",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "gerald-sussman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "piotr-mitros-0",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "chris-terman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "bonnie-lam",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 531,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

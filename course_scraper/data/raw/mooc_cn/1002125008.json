@@ -1,0 +1,31 @@
+{
+  "course_id": "1002125008",
+  "platform": "mooc_cn",
+  "title": "单片机原理及接口技术",
+  "description": "《单片机原理及接口技术》课程以工程应用为背景，结合CDIO工程教育理念，优化课程结构，搭建虚拟实践平台，采用学、做、练一体化和“产学研”相结合的课内+课外的实践教学模式，大力开展学生科技创新活动，将理论与工程实践相结合，以“项目驱动”为载体，加强学生的实践操作、工程实践和创新能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002125008",
+  "instructors": [
+    {
+      "name": "李艾华;高相铭;赵红波;李立新;丁电宽;何恩贵",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "安阳师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 70285,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

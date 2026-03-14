@@ -1,0 +1,30 @@
+{
+  "course_id": "course-840acc48-0d64-4a9d-a424-712406a034a6",
+  "platform": "edx",
+  "title": "Steps in Japanese for Beginners1 Part1",
+  "description": "Andy, an exchange student who as just arrived in Japan, is making greetings and introducing himself through his life in a university dormitory. He learns the taste of the foods he becomes to like by eating with Mr. Sato and Mr. Ono, two upperclassmen in his dormitory. He also orders a hamburger and coffee at local shops as he goes about his daily business.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "naoko-kinoshita",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Waseda University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2187,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

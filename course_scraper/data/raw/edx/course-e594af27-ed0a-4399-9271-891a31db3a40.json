@@ -1,0 +1,30 @@
+{
+  "course_id": "course-e594af27-ed0a-4399-9271-891a31db3a40",
+  "platform": "edx",
+  "title": "C#: Learn to code",
+  "description": "You will be introduced to the fundamentals of programming using C# through hands-on, console-based projects. Starting with writing your first lines of code, you'll progressively build skills to create, run, and enhance C# applications. You'll learn how to add logic and structure using conditional statements and loops, work with different types of variables and data, and create reusable methods to organize your code efficiently. Debugging techniques are also covered to help you identify and fix issues in your programs. You'll have a solid foundation in C# and be able to develop basic console applications with confidence, preparing you for more advanced programming topics or application development with .NET.",
+  "learning_goals": [
+    "C# (Programming Language)",
+    "Conditional Statements",
+    "Console Applications",
+    "Application Development",
+    "Debugging"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "2 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 786,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

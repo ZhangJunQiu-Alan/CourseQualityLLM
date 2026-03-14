@@ -1,0 +1,35 @@
+{
+  "course_id": "course-53e0b3db-0712-495f-9ce6-f12045373a5b",
+  "platform": "edx",
+  "title": "Cybersecurity Basics: Tools and Cyberattacks",
+  "description": "Cyberattacks have surged by 71% and are predicted to continue increasing. This alarming statistic highlights the continued demand for cybersecurity professionals. Jumpstart your cybersecurity career with this introductory IBM course, which introduces you to fundamental cybersecurity concepts, threats, and preventive measures.  \n Explore the evolution of cybersecurity and the motivations of the actors behind cyberattacks, including types such as malware, ransomware, and other security threats. You'll also relate critical thinking to common cybersecurity practices and architecture.  \n Hear from industry experts regarding their own careers, skills, perspectives, and experiences. Frameworks, standards, and organizations play a fundamental role in cybersecurity, which you will also investigate.  \n Throughout, you’ll build practical knowledge and technical expertise through hands-on labs. Your final project will enable you to effectively demonstrate your understanding of cybersecurity principles.  \n This course is for anyone who wants to know the basics of cybersecurity and is part of a series designed to help you start a career as a Cybersecurity Analyst.",
+  "learning_goals": [
+    "Cyber Security",
+    "Critical Thinking",
+    "Forecasting",
+    "Cyber Threat Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "coreen-ryskamp",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2697,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

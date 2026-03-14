@@ -1,0 +1,36 @@
+{
+  "course_id": "SgYjjT5OEeyZlQoNyXy15Q",
+  "platform": "coursera",
+  "title": "Cloud Computing Law: Transactions",
+  "slug": "cloud-computing-law-transactions",
+  "description": "Have you ever wondered what’s in the small print of cloud contracts? Or who owns the information you upload to the cloud? And who can access and control it? If so, then this course is for you! You’ll learn to identify the legal risks involved in cloud computing transactions - and to suggest possible solutions.\n\nTo understand how cloud computing works, we’ll first describe different kinds of cloud services and explain how they differ from in-house IT in terms of control, access, and cybersecurity. To understand how the law applies to cloud computing transactions, we’ll focus on the contracts between cloud providers and their customers. You’ll learn to identify and interpret key contract terms and to assess whether customers might negotiate better terms with providers. Finally, we’ll explain how English law protects trade secrets and copyright works stored in the cloud.\n\nIf you’re a lawyer, this course will be your guide to cloud infrastructure and supply chains. If you have a technical or commercial background, this course will introduce you to key legal issues in contracts and intellectual property. In short, if you’re interested in how the law applies to cloud computing, this course is for you.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 4-6 hrs per week = 20 hrs total",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cloud-computing-law-transactions",
+  "instructors": [
+    {
+      "name": "Christopher Millard",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Chris Reed",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Johan David Michels",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Queen Mary University of London"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

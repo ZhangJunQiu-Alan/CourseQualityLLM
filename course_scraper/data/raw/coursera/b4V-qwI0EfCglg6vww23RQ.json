@@ -1,0 +1,26 @@
+{
+  "course_id": "b4V-qwI0EfCglg6vww23RQ",
+  "platform": "coursera",
+  "title": "Modern C++ Features & Concurrency",
+  "slug": "packt-modern-cplusplus-features-concurrency-djj1a",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course delves into the latest features of Modern C++, with a primary focus on concurrency, C++17 language updates, and powerful tools that enhance code performance and reliability. You will explore the capabilities of C++17, including the introduction of advanced concurrency techniques, templates, and functional programming tools. This comprehensive guide equips you with the knowledge to build efficient, concurrent programs while utilizing the most current features of C++ for maximum performance.\nThe course starts with concurrency basics, introducing the importance of multi-threading and how to implement it using std::thread. You will dive deeper into thread synchronization with std::mutex and learn how to pass arguments to threads. You'll then explore task-based concurrency with std::async, std::future, and std::promise, and learn how to propagate exceptions between threads seamlessly. This will provide you with the tools needed to write scalable, thread-safe applications.\nAs you move into the C++17 core language features, you'll examine the new features, such as inline variables, noexcept, and structured bindings. C++17 also brought mandatory copy elision, and this course will clarify its benefits. You'll gain an understanding of how to leverage these new features to make your code more efficient and readable.\nThe final sections cover advanced template features like Compiled Time Argument Deduction (CTAD), if constexpr, and folding expressions, as well as C++17 standard library additions like std::optional, std::variant, and parallel algorithms. These components empower you to write more flexible, error-free, and high-performance C++ code.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-modern-cplusplus-features-concurrency-djj1a",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

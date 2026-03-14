@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752360",
+  "platform": "mooc_cn",
+  "title": "电子电路基础",
+  "description": "物理世界存在的信号大多为模拟量，电子系统是将这些模拟量（如语音等）转化为电信号，如果有兴趣了解这些微弱的电信号在电子产品中是如何处理的，并成为电子设计的高手，本课程将带你由浅入深进入模拟电子线路的世界，探索基本原理及学习技巧，以达目标。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752360",
+  "instructors": [
+    {
+      "name": "李泳佳;吴建辉;徐申;吴靖;吴旭峰;杨春;黄慧春;樊兆雯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12760,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

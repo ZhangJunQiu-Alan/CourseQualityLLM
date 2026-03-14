@@ -1,0 +1,31 @@
+{
+  "course_id": "1206779804",
+  "platform": "mooc_cn",
+  "title": "中国天气",
+  "description": "南京信息工程大学《中国天气》是一门讲述影响中国的主要天气过程和天气系统变化规律的课程，利用大气波动和斜压不稳定等理论以及锋面气旋和季风学说等，从机理上揭示多尺度天气系统的发生发展和演变特征，建立寒潮、暴雨、台风、雷暴等天气现象的预报理论依据。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206779804",
+  "instructors": [
+    {
+      "name": "王咏青;沈新勇;钟珊珊;徐海明;张杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16788,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

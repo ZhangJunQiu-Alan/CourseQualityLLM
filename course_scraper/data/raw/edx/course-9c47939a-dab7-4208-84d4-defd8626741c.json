@@ -1,0 +1,38 @@
+{
+  "course_id": "course-9c47939a-dab7-4208-84d4-defd8626741c",
+  "platform": "edx",
+  "title": "Algorithms: Design and Analysis, Part 1",
+  "description": "Welcome to the self paced course,  Algorithms: Design and Analysis ! Algorithms are the heart of computer science, and the subject has countless practical applications as well as intellectual depth. \n This specialization is an introduction to algorithms for learners with at least a little programming experience. The specialization is rigorous but emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details. After completing this specialization, you will be well-positioned to ace your technical interviews and speak fluently about algorithms with other programmers and computer scientists. \n Specific topics in the course include: \"Big-oh\" notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), randomized algorithms (QuickSort, contraction algorithm for min cuts), data structures (heaps, balanced search trees, hash tables, bloom filters), graph primitives (applications of BFS and DFS, connectivity, shortest paths). \n Learners will practice and master the fundamentals of algorithms through several types of assessments. There are 6 multiple choice quizzes to test your understanding of the most important concepts. There are also 6 programming assignments, where you implement one of the algorithms covered in lecture in a programming language of your choosing. The course concludes with a multiple-choice final. There are no assignment due dates and you can work through the course materials and assignments at your own pace.",
+  "learning_goals": [
+    "Algorithms",
+    "Data Structures",
+    "Matrix Multiplication",
+    "Master Theorem",
+    "Divide And Conquer",
+    "Bloom Filter",
+    "Computer Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "tim-roughgarden",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1409,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

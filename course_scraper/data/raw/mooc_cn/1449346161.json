@@ -1,0 +1,31 @@
+{
+  "course_id": "1449346161",
+  "platform": "mooc_cn",
+  "title": "区块链与创新思维",
+  "description": "本课程从分布式信息系统的角度，讲述什么是区块链，区块链带来了哪些创新。区块链作为一种分布式信息系统，通过透明和可信规则，构建难以伪造篡改和可追溯的块链式数据结构，通过各种信息技术的精巧组合，完成资源的公平分配，确保社区的目标一致和成员的行为规范，为各领域带来了信息管理方式的创新。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449346161",
+  "instructors": [
+    {
+      "name": "颜嘉麒",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 40819,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

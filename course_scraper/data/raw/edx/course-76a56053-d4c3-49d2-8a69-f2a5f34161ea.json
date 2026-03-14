@@ -1,0 +1,30 @@
+{
+  "course_id": "course-76a56053-d4c3-49d2-8a69-f2a5f34161ea",
+  "platform": "edx",
+  "title": "Smart Analytics, Machine Learning, and AI on Google Cloud",
+  "description": "Incorporating machine learning into data pipelines increases the ability of businesses to extract insights from their data. This course covers several ways machine learning can be included in data pipelines on Google Cloud depending on the level of customization required. For little to no customization, this course covers AutoML. For more tailored machine learning capabilities, this course introduces Notebooks and BigQuery machine learning (BigQuery ML). Also, this course covers how to productionalize machine learning solutions using Vertex AI. Learners will get hands-on experience building machine learning models on Google Cloud using QwikLabs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "google-cloud",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 375,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

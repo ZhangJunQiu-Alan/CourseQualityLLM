@@ -1,0 +1,31 @@
+{
+  "course_id": "1001909001",
+  "platform": "mooc_cn",
+  "title": "数字电子技术基础",
+  "description": "数字系统广泛应用于通信、计算机、自动控制、互联网、物联网等领域，数字系统与我们的日常生活也密切相关，例如，智能手机、数字电视、数码相机、医用心电图仪、CT仪器设备等都是数字技术的应用实例。本课程将从数字信号的表示开始，讲述数字设计需要的基础知识和各种设计方法，带你进入数字设计世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001909001",
+  "instructors": [
+    {
+      "name": "宋琪;程起敏;鲁放;钟祎;童胜勤;秦臻;谭力;杨铀;王振;罗杰;刘琼;钟国辉;杨彩虹;张林;左冬红;张江山;周波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 280552,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

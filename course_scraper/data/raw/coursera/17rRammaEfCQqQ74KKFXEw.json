@@ -1,0 +1,26 @@
+{
+  "course_id": "17rRammaEfCQqQ74KKFXEw",
+  "platform": "coursera",
+  "title": "Full-Stack React with Spring Boot: Unit 1",
+  "slug": "pearson-full-stack-react-with-spring-boot-unit1",
+  "description": "This course offers a deep dive into creating robust applications using Spring Boot, guiding you through the essentials of building both console and web applications. You'll start by mastering the Spring CLI and IntelliJ IDE, learning to configure applications and integrate REST services effectively. As you progress, you'll explore the intricacies of components and beans, understanding how to leverage autowiring and the Spring Expression Language to enhance your applications. Finally, you'll delve into configuration classes, discovering how to manage application contexts and utilize bean methods for seamless integration. By the end of this course, you'll have a solid foundation in full-stack development, equipped with the skills to build and manage sophisticated applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 hours 17 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-full-stack-react-with-spring-boot-unit1",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

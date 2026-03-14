@@ -1,0 +1,31 @@
+{
+  "course_id": "1460600161",
+  "platform": "mooc_cn",
+  "title": "大数据导论（通识课版）",
+  "description": "大数据时代已经全面开启，带来了信息技术发展的巨大变革，并深刻影响着社会生产和人民生活的方方面面。了解大数据概念、具备大数据思维，是新时代对人才的新要求。本课程高屋建瓴探讨大数据，内容深入浅出，简单易懂，适合非计算机专业（尤其是文科专业）学生学习。课程内容包括大数据概述，大数据与云计算、物联网和人工智能，大数据技术，大数据应用，大数据安全，大数据思维，大数据伦理，数据共享，数据开放，大数据交易和大数据治理等。本课程由全国高校知名大数据教师厦门大学林子雨副教授主讲，采用林子雨编著《大数据导论（通识课版）》教材。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460600161",
+  "instructors": [
+    {
+      "name": "林子雨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "厦门大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24890,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

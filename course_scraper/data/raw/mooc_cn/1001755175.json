@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755175",
+  "platform": "mooc_cn",
+  "title": "机械设计",
+  "description": "机械设计课程是省级精品课程，省级在线开放课程，是机械设计制造及其自动化专业的核心课。是培养学生掌握机械设计的一般规律、掌握通用机械零部件的设计原理和方法，具备设计一般机械的能力；在培养综合素质高、构思与表达能力、设计与创新能力、分析与综合能力强的机械工程人才方面，起着重要的作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755175",
+  "instructors": [
+    {
+      "name": "蒋素琴;支前锋;顾锋;刘刚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "淮阴工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6917,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

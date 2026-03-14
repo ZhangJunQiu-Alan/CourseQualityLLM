@@ -1,0 +1,26 @@
+{
+  "course_id": "STdQqQnnEey5zQ4LqE3elQ",
+  "platform": "coursera",
+  "title": "Mastering Data Analysis with Pandas",
+  "slug": "learning-path-data-analysis-with-pandas",
+  "description": "In this structured series of hands-on guided projects, we will master the fundamentals of data analysis and manipulation with Pandas and Python. Pandas is a super powerful, fast, flexible and easy to use open-source data analysis and manipulation tool. This guided project is the first of a series of multiple guided projects (learning path) that is designed for anyone who wants to master data analysis with pandas.\n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/learning-path-data-analysis-with-pandas",
+  "instructors": [
+    {
+      "name": "Ryan Ahmed",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1450155237",
+  "platform": "mooc_cn",
+  "title": "C语言程序设计",
+  "description": "我校《C语言程序设计》是江苏省重点专业群——智能控制应用技术专业群的平台课程。适合C语言的初学者，它打破了以往传统的知识架构，以有趣的案例，将知识集结在一起呈现给你，使C语言的学习变得生动有趣起来。让我们一起在C语言的世界开始遨游吧……",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450155237",
+  "instructors": [
+    {
+      "name": "阳俐君;王琼瑶;许秀林",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南通职业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3795,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,39 @@
+{
+  "course_id": "course-5023c1fa-ede3-42cf-a340-016f6c4e907f",
+  "platform": "edx",
+  "title": "Data Science: Capstone",
+  "description": "To become an expert data scientist you need practice and experience. By completing this capstone project you will get an opportunity to apply the knowledge and skills in R data analysis that you have gained throughout the series. This final project will test your skills in data visualization, probability, inference and modeling, data wrangling, data organization, regression, and machine learning.  \n Unlike the rest of our Professional Certificate Program in Data Science , in this course, you will receive much less guidance from the instructors. When you complete the project you will have a data product to show off to potential employers or educational programs, a strong indicator of your expertise in the field of data science.",
+  "learning_goals": [
+    "Data Analysis",
+    "Data Modeling",
+    "Probability",
+    "Machine Learning",
+    "Data Wrangling",
+    "R (Programming Language)",
+    "Data Science",
+    "Data Visualization"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "2 周，每周 15-20 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rafael-irizarry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4403,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

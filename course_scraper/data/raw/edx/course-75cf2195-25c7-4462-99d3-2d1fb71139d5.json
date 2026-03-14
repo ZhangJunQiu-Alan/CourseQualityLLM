@@ -1,0 +1,45 @@
+{
+  "course_id": "course-75cf2195-25c7-4462-99d3-2d1fb71139d5",
+  "platform": "edx",
+  "title": "Introduction to Computer Science and Programming",
+  "description": "Tokyo Institute of Technology (Tokyo Tech) created this online as a edX member before it merged with Tokyo Medical and Dental University (TMDU) to form Institute of Science Tokyo (Science Tokyo) on October 1, 2024. \n The institute names “Tokyo Tech” and “Tokyo Institute of Technology” are used in this course, however, the current name of the institute is “Institute of Science Tokyo”. \n --- \n Do you want to learn more about data and gain programming experience? If yes, this is the right course for you to start! \n “Big data”, “data science”, “data-mining” and “artificial intelligence” are all popular terms that are often encountered nowadays in the academic and in business worlds. \n Computer Science is a field where the usage of computers and “computations” have continuously evolved. As computational power increases, computation becomes an indispensable tool for solving complex problems and making predictions. We are now able to “compute” various things from DNA sequencing to aerodynamics simulations and weather forecasting. \n In this course, you will learn the essence of computer science. You will obtain an overview of cutting-edge computer science as well as learn the basics and introductory level knowledge of computer science, while experiencing, designing and writing your own simple programs. This revised course consists of 5 weekly units. A separate course covering the same content is also offered where the lectures are given in Japanese. \n The course begins by introducing the notion of computation and data and how things work inside a computer. Before jumping into advanced topics like encryption and cryptanalysis, we will discover important notions like \"arrays\", \"characters\" and \"strings\" and we will know more about functions and subroutines throughout the lectures. Along the way we will practice with exercises to have a hands-on experience and deeper understanding of the explained notions. All exercises have files that can be downloaded and used. A detailed explanation about setting up the environment to run the programs using the language Ruby is provided at the beginning of the course. \n By the end of this course you will be able to write your own programs for encryption and decryption of English texts. The course concludes with a general overview of the recent progress and research trends in the computer science field. This last part covers topics discussing the nature of computation as well as applications of computation in our modern society such as simulations, data mining and artificial intelligence AI.",
+  "learning_goals": [
+    "Computer Simulation",
+    "Algorithms",
+    "Big Data",
+    "Writing",
+    "DNA Sequencing",
+    "Ruby (Programming Language)",
+    "Data Mining",
+    "Computer Science",
+    "Data Science",
+    "Forecasting",
+    "Encryption",
+    "Research",
+    "Artificial Intelligence",
+    "Cryptanalysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "osamu-watanabe-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Institute of Science Tokyo"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 390,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "nVhTomq5Ee-zXBID9Vp6zQ",
+  "platform": "coursera",
+  "title": "Create a Dark Moody Atmospheric 2D Game with Unity and C#",
+  "slug": "packt-create-a-dark-moody-atmospheric-2d-game-with-unity-and-c-2qqm9",
+  "description": "Delve into the world of 2D game development with this comprehensive course designed to teach you how to create a dark, atmospheric game using Unity and C#. You’ll begin by installing the Unity game engine and exploring its user interface. From understanding components and game files to mastering Unity's UI, these foundational lessons set the stage for a smooth development experience. As you progress, you’ll implement core mechanics like player movement, jumping, and more advanced actions such as dashing and wall jumping, using intuitive scripts and techniques.\n\nBuilding on this foundation, the course introduces you to the visual elements that define the atmosphere of your game. You’ll learn to add and animate sprites, integrate lighting effects, and use Cinemachine for advanced camera controls. The Tile Map Editor will help you design intricate levels, while dynamic particle effects and soundscapes will enhance the game's immersion. Each lesson is crafted to ensure that you not only understand the mechanics but can also apply them creatively to craft a unique gaming experience.\n\nFinally, the course focuses on the finishing touches that turn a good game into a great one. You’ll implement features like collectable items, custom menus, and sound effects that make the game engaging and interactive. Bug-fixing lessons ensure your game runs smoothly, and a final walkthrough shows you how to build and deploy your game, allowing you to share your creation with the world. Whether you're a beginner or looking to refine your skills, this course offers a complete journey from concept to finished product.\n\nThis course is ideal for beginner to intermediate game developers who are familiar with basic programming concepts and want to learn game development using Unity and C#. No prior experience in Unity is required, but a basic understanding of C# will be beneficial.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-create-a-dark-moody-atmospheric-2d-game-with-unity-and-c-2qqm9",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

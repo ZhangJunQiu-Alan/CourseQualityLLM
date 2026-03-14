@@ -1,0 +1,40 @@
+{
+  "course_id": "course-df1709d8-694c-44c5-9606-adf57d0669be",
+  "platform": "edx",
+  "title": "Blockchain and FinTech: Basics, Applications, and Limitations",
+  "description": "Blockchain is a core technology in FinTech. The original design of blockchain focused on the cryptocurrency \"Bitcoin\". Due to its specific characteristics, many companies and users now find blockchain very useful for applications in many areas, not limited to cybercurrencies, including finance, logistics, insurance, medicine and even music. However, the design of blockchain involves cryptographic technology, which cannot be easily understood by those who are not professionals in the area of IT and security.  \n In order to better understand what kinds of applications best fit blockchain and other forms of distributed ledger technology and the potentials of these emerging technologies, it is important to understand the design rationale, the basic technology, the underlying cryptographic fundamentals, and its limitations. This 6-week online coursewill walk you through the following:  \n \n The design rationale behind blockchain and the issues for such decentralized ledger (transaction) systems. \n The underlying technology (e.g. how the fundamental algorithms - the cryptographic primitives - work together) behind and how it makes blockchain works and safe. \n The differences of the various existing blockchain platforms and what these platforms can provide (e.g. pros and cons of the major platforms). \n What kinds of applications (both traditional and emerging) best fit the blockchain technology and how blockchain technology can benefit these applications. \n Blockchain does have its limitations. We will uncover the problems and the limitations of blockchain technology to enable developers and researchers to think about how to enhance the existing blockchain technology and practitioners to better address the issues when using blockchains in their applications. \n This course will also briefly discuss the downside of blockchain with respect to the protection of criminal activities (e.g. why ransomware always ask for bitcoins as ransom, and the money laundering problem). \n \n The course aims at targeting a wide audience: This course will provide learners a good understanding of the technological, applicability, limitations and \"illegal\" usage of the blockchain technology.",
+  "learning_goals": [
+    "Financial Technology (FinTech)",
+    "Emerging Technologies",
+    "Cryptocurrency",
+    "Finance",
+    "Bitcoin",
+    "Distributed Ledgers",
+    "Algorithms",
+    "Blockchain",
+    "Cryptography"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "siu-ming-yiu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Hong Kong"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 332,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

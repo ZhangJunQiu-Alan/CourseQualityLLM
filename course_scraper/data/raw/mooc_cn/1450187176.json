@@ -1,0 +1,31 @@
+{
+  "course_id": "1450187176",
+  "platform": "mooc_cn",
+  "title": "高等数学（下）",
+  "description": "《高等数学（下）》主要面向我院理工类学生开设，课程包括：定积分及其应用，多元函数微分学，二重积分，无穷级数等教学内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450187176",
+  "instructors": [
+    {
+      "name": "王山月;谢小韦;黄会芸;徐敏一;张玉兰;吕品;王理峰;刘恋;赵利娟;张玉兰;冯再勇;许婷婷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京铁道职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17430,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

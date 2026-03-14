@@ -1,0 +1,26 @@
+{
+  "course_id": "sOw4Q2QxEe64Ug5N_Fbraw",
+  "platform": "coursera",
+  "title": "Statistical Methods",
+  "slug": "statistical-methods",
+  "description": "Build your statistics and probability expertise with this short course from the University of Leeds.\n\nThe first week introduces you to statistics as the art and science of learning from data. Through multiple real-life examples, you will explore the differences between data and information, discovering the necessity of statistical models for obtaining objective and reliable inferences. You will consider the meaning of \"unbiased\" data collection, reflecting on the role of randomization. Exploring various examples of data misrepresentation, misconception, or incompleteness will help develop your statistical intuition and good practice skills, including peer review.\n\nIn the second week, you will learn and practice R software skills in RStudio for exploratory data analysis, creating graphical and numerical summaries. The final week will involve completing probability experiments and computer simulations of binomial trials, such as tossing a coin or rolling a die. This will help you develop an intuitive concept of probability, encompassing both frequentist and subjective perspectives. Throughout the course, you will acquire vital statistical skills by practicing techniques and software commands and engaging in discussions with fellow students.\n\nBy the end of the course, you will be able to:\n\n- Understand and explain the role of statistical models in making inferences from data.\n- Implement appropriate tools for numerical and graphical summaries using RStudio, and interpret the results.\n- Evaluate the stability of frequencies in computer simulations through experimental justification and \"measurement\" of probability.\n\nNo matter your current level of mathematical skill, you will find practical and real-life examples of statistics in action within this course.\n\nThis course is a taster of the Online MSc in Data Science (Statistics) but it can be completed by learners who want an introduction to programming and explore the basics of Python.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/statistical-methods",
+  "instructors": [
+    {
+      "name": "Dr Leonid Bogachev",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Leeds"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

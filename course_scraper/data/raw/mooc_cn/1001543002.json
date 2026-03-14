@@ -1,0 +1,31 @@
+{
+  "course_id": "1001543002",
+  "platform": "mooc_cn",
+  "title": "计算机组成原理",
+  "description": "本课程是计算机学科本科相关专业的核心基础课，重点讲授计算机硬件系统的组成结构、工作原理和设计方法。内容遵照本科教学大纲，兼顾硕士生入学考试。2018“线上”国家级一流本科课程（即国家级线上金课）。2019“线上线下混合式”国家级一流本科课程（即国家级混合式金课）。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001543002",
+  "instructors": [
+    {
+      "name": "纪禄平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 281381,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

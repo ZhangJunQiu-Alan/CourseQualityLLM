@@ -1,0 +1,31 @@
+{
+  "course_id": "238011",
+  "platform": "mooc_cn",
+  "title": "通信原理",
+  "description": "本课程由电子科技大学信息与通信工程学院为大众与本校学生学习通信技术而精心制作。由国家“万人计划”教学名师、校通信工程专业首席教授、校最受学生欢迎教师李晓峰教授主讲。原课程“通信原理”为国家精品课程、国家精品资源共享课程，且为该校国家特色专业、四川省品牌专业通信工程的标志性课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/238011",
+  "instructors": [
+    {
+      "name": "李晓峰;曹永盛;邵士海;靳传学;张静;傅志中;邵怀宗;江宁;朱晓东;李强;周宁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 129165,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

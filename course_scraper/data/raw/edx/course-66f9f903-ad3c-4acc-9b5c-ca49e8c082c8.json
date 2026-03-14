@@ -1,0 +1,46 @@
+{
+  "course_id": "course-66f9f903-ad3c-4acc-9b5c-ca49e8c082c8",
+  "platform": "edx",
+  "title": "Personal Financial Management",
+  "description": "Master the Art of Money Management  with our Personal Financial Management Micro-Certificate—an engaging, practical program designed to build lasting financial confidence in students. Whether you're just starting to handle your own finances or want to strengthen your understanding of personal money matters, this course offers the essential tools you need. \n Through real-world examples and interactive lessons, students will learn the fundamentals of financial literacy, including how to create a personal budget, set realistic savings goals, and make informed decisions about spending. The program also covers essential topics such as understanding credit, managing debt responsibly, and the importance of long-term financial planning. \n By breaking down complex financial concepts into accessible and relatable content, this course empowers students to take charge of their financial future with clarity and confidence. It’s not just about numbers—it’s about building habits, setting priorities, and making smart choices that support lifelong well-being and independence. \n This Micro-Certificate is ideal for high school students preparing for financial independence, college-bound learners seeking to manage their own expenses, or anyone looking for a solid foundation in personal finance. By the end of the program, learners will have a practical understanding of how money works—and how to make it work for them.",
+  "learning_goals": [
+    "Financial Management",
+    "Financial Literacy",
+    "Money Management",
+    "Goal Setting",
+    "Personal Finance"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "2 周，每周 6-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "chuck-garcia",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "chris-thomas",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mayra-rodriguez-valladares",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "New York Institute of Finance"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 386,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

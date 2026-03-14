@@ -1,0 +1,31 @@
+{
+  "course_id": "1455428173",
+  "platform": "mooc_cn",
+  "title": "计算机组成与设计",
+  "description": "本课程是计算机相关专业一门重要的专业核心基础课，课程团队坚持以“学生学习为中心”的理念，突出对学生创新能力的培养和训练，重视知识点的理解，构建课堂教学、课下作业、课程设计实践、在线测试等多维学习环境，综合培养学生计算机硬件系统的分析和设计能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1455428173",
+  "instructors": [
+    {
+      "name": "赵宇;申秋慧;单慧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "周口师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3127,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

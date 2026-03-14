@@ -1,0 +1,31 @@
+{
+  "course_id": "1002925005",
+  "platform": "mooc_cn",
+  "title": "普通化学",
+  "description": "化学是一门基础自然科学,它是人类认识世界、改造世界的锐利武器。化学在环境保护、生命科学和经济建设等各个方面起着越来越重要的作用。普通化学是理科、工科和医科等非化学专业的大一新生入学后接触的第一门化学课程，是 人们迈向精彩化学的第一扇大门！让我们一起来开启学习普通化学的旅程吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002925005",
+  "instructors": [
+    {
+      "name": "姚素梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "信阳学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12123,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

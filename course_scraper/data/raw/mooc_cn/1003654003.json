@@ -1,0 +1,31 @@
+{
+  "course_id": "1003654003",
+  "platform": "mooc_cn",
+  "title": "自然地理学",
+  "description": "学天地之奥义，辨地球内外现象之规律，建和谐人地关系！让我们一起了解、分析地球内外地质、地貌、生态要素的知识及其相互关系和发展规律，探讨自然地理问题，提高地质地理素养。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003654003",
+  "instructors": [
+    {
+      "name": "严宝文;张亚飞;栗现文;陈实",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19340,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

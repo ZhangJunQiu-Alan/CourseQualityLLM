@@ -1,0 +1,31 @@
+{
+  "course_id": "1473609162",
+  "platform": "mooc_cn",
+  "title": "人工智能与计算思维",
+  "description": "这门课的目标是学会像计算机科学家一样思考。我们不仅谈论技术，更关心技术背后的思维方式——计算思维。我们会以计算思维为起点，走进数字世界，解密编程，探索人工智能应用。在课程中，我们将亲手实践一套完整的思维工具，让你未来在面对一些复杂问题时，能清晰地拆解、分析，并设计出有效的解决方案。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473609162",
+  "instructors": [
+    {
+      "name": "汤佳梅;聂哲;李梦堃;王蒙晓;王铮钧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "深圳职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1815,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

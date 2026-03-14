@@ -1,0 +1,31 @@
+{
+  "course_id": "1464975169",
+  "platform": "mooc_cn",
+  "title": "软件体系结构",
+  "description": "如果你之前已经学习过.NET或JAVA语言，那么，恭喜你，选择这门课就对了！在这里，你会有一个惊奇的发现，原来软件代码还可以这么写！欢迎大家加入到《软件体系结构》课程的学习，你不仅可以深入理解面向对象的思想，了解各种软件开发的模式和架构，同时可以借助OOP语言设计高效的代码，使你的编程水平有质的飞跃！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464975169",
+  "instructors": [
+    {
+      "name": "唐学忠;胡智喜;李亦飞;肖莎莎;蒋巍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1865,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "55uZwJFTEeyw3RKLNRxAsw",
+  "platform": "coursera",
+  "title": "Cómo combinar y analizar datos complejos",
+  "slug": "data-collection-analytics-project-es",
+  "description": "En este curso, aprenderás a usar las ponderaciones de las encuestas para estimar estadísticas descriptivas (como medias y totales) y cantidades más complejas (como parámetros de modelos para regresiones lineales y logísticas).  Se explicarán las capacidades de software, haciendo especial hincapié en R®.  El curso también abarcará nociones básicas sobre vinculación de registros y búsqueda de coincidencias estadísticas, dos procesos que son cada vez más importantes para combinar datos de fuentes distintas.  En el curso, también se exploran los problemas éticos que suscrita la combinación de conjuntos de datos.  Es posible que haga falta obtener el consentimiento informado de las personas para que permitan la vinculación de sus datos. Conocerás las diferencias entre los requisitos legales de distintos países.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/data-collection-analytics-project-es",
+  "instructors": [
+    {
+      "name": "Richard Valliant, Ph.D.",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Maryland, College Park"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

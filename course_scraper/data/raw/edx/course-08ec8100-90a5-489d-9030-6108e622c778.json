@@ -1,0 +1,45 @@
+{
+  "course_id": "course-08ec8100-90a5-489d-9030-6108e622c778",
+  "platform": "edx",
+  "title": "Introducción a Matemáticas para Finanzas y Negocios",
+  "description": "En la primera parte del curso se analiza el caso de las    funciones lineales    donde se introduce el concepto de    pendiente    para cuantificar la dependencia entre las variables. Este concepto se amplia al caso de    ecuaciones simultáneas    donde se analizan los modelos de equilibrio microeconómico (oferta y demanda de un producto) y macroeconómico (oferta y demanda agregada). Un diferenciador de este curso es el uso de matrices para resolver estos sistemas. Este enfoque permite expandir el análisis a la valuación de activos financieros mediante un portafolio replica e introducir el concepto más importante de finanzas: el    Principio de No-arbitraje   . En la segunda parte, el curso extiende el concepto de pendiente al caso de    funciones no lineales    mediante el uso de    cálculo infinitesimal   . Utilizando los conceptos de primera y segunda derivada se analizan aplicaciones como la Tasa Interna de Retorno y la toma de decisiones bajo incertidumbre aplicando la    Desigualdad de Jensen   . También se extiende la aplicación del concepto del Principio de No-Arbitraje a la valuación de instrumento de mercado de dinero y de bonos y anualidades. Finalmente se utiliza los conceptos de condiciones de primer y segundo orden para calcular el problema de maximización de ganancias de una empresa y la optimización de un portafolio de acciones.",
+  "learning_goals": [
+    "Annuities",
+    "Decision Making",
+    "Mathematical Optimization",
+    "Rate Of Return",
+    "Derivatives",
+    "Arbitration",
+    "Basic Math",
+    "Financial Analysis",
+    "Finance",
+    "Macroeconomics",
+    "Financial Asset",
+    "Money Market",
+    "Microeconomics",
+    "Supply And Demand"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "5 周，每周 5-8 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "luis-a-hernandez-aramburo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tecnológico de Monterrey"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 315,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

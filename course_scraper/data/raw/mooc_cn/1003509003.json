@@ -1,0 +1,31 @@
+{
+  "course_id": "1003509003",
+  "platform": "mooc_cn",
+  "title": "材料科学基础",
+  "description": "“材料科学基础”是材料相关专业基础课。本课程主要以金属材料为例，介绍材料的结构（理想晶体结构和实际缺陷晶体结构），材料的状态表示与分析（二元及三元相图），材料在温度及外力作用场下的组织、结构及性能变化基本规律等（结晶理论，塑性变形，回复及再结晶、固体材料中原子扩散）；突出了中南大学有色金属行业特点和相图研究特色。通过课程学习，掌握材料的成分、组织结构、制备工艺及性能之间的相互关系，为学习材料专业知识奠定理论基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003509003",
+  "instructors": [
+    {
+      "name": "蔡格梅;柏振海",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28699,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

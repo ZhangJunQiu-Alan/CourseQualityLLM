@@ -1,0 +1,31 @@
+{
+  "course_id": "1001734003",
+  "platform": "mooc_cn",
+  "title": "物理化学（二）",
+  "description": "这是一门务实于教学效果的物理化学慕课，适于课前预习、同步温习、考研复习。在这里，你可身临其境，有效地接受老师的讲解和启发，快捷而系统地学习物理化学内容，突破难点，掌握重点，奠定分析和解决问题的能力，开阔视野，形成科学的思维习惯，达到你希望的层次。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001734003",
+  "instructors": [
+    {
+      "name": "王旭珍;王新葵;宋雪旦;石川;纪敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 50501,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

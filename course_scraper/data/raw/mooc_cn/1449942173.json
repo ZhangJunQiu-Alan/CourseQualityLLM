@@ -1,0 +1,31 @@
+{
+  "course_id": "1449942173",
+  "platform": "mooc_cn",
+  "title": "JAVA语言程序设计",
+  "description": "Java是目前最主流的编程语言之一，深受程序员的热捧。Java语言程序设计课程是计算机类专业的核心课程，通过学习，能建立面向对象程序设计的思想，能够运用Java知识和技能对实际问题进行分析，编制出高效的Java应用程序。通过设计、编程、调试，提升软件开发技能，初步具备Java软件工程师的岗位需求。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449942173",
+  "instructors": [
+    {
+      "name": "王波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡城市职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2957,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

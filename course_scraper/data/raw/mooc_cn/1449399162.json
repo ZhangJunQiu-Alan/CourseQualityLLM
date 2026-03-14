@@ -1,0 +1,31 @@
+{
+  "course_id": "1449399162",
+  "platform": "mooc_cn",
+  "title": "食品微生物学",
+  "description": "食品微生物学是一门研究微生物的基本特性、微生物与食品的相互关系的学科。内容包括微生物特点、生长、营养、代谢、遗传、生态、微生物与食品生产、微生物与食品腐败变质、微生物与食品安全等理论知识和微生物培养、染色、分离鉴定等基本实验技术。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449399162",
+  "instructors": [
+    {
+      "name": "刘变芳;刘哲;杨保伟;丁宁;赵旭博;尚丛娣;单忠国;魏新元;马敏;樊明涛;刘斌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10496,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

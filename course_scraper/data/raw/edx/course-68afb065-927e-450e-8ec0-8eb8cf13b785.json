@@ -1,0 +1,39 @@
+{
+  "course_id": "course-68afb065-927e-450e-8ec0-8eb8cf13b785",
+  "platform": "edx",
+  "title": "Linux Tools for Software Development",
+  "description": "If you are a developer with experience working on any operating system and want to understand the basics of open source development, this course is for you. Experience with the command line is not necessary, but would be helpful. \n The course begins by introducing the numerous essential command line tools that are used daily in software development. It then focuses on bash scripting, explaining how to construct scripts and how to do very complicated tasks in an automated way. The course looks at files and filesystems and focuses on compiling programs in Linux, using gcc and other compilers, and using libraries of different types. This course also covers building packages out of software in Linux, and more. \n This course helps you familiarize yourself with essential command line tools, so you can work comfortably and productively in Linux environments, and demonstrates that you have mastered important Linux methods and requisite tools.",
+  "learning_goals": [
+    "Command-Line Interface",
+    "Compilers",
+    "Open Source Development",
+    "Software Development",
+    "Linux",
+    "Bash (Scripting Language)",
+    "Operating Systems",
+    "File Systems"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "14 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jerry-cooperstein-phd",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Linux Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 461,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

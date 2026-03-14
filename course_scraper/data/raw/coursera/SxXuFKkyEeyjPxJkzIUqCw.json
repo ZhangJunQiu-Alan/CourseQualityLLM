@@ -1,0 +1,26 @@
+{
+  "course_id": "SxXuFKkyEeyjPxJkzIUqCw",
+  "platform": "coursera",
+  "title": "Build an End-to-End Data Capture Pipeline using Document AI",
+  "slug": "googlecloud-build-an-end-to-end-data-capture-pipeline-using-document-ai-wiisg",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab you use Cloud Functions and Pub/Sub to create an end-to-end document processing pipeline using Document AI. The Document AI API is a document understanding solution that takes unstructured data, such as documents and emails, and makes the data easier to understand, analyze, and consume.\n\nIn this lab, you will create a document processing pipeline that will automatically process documents that are uploaded to Cloud Storage. The pipeline consists of a primary Cloud Function that processes new files that are uploaded to Cloud Storage using a Document AI form processor and then saves form data detected in those files to BigQuery. If the form data includes any address fields the address data is then written to a Pub/Sub topic that in turn triggers a second Cloud Function that uses to Geocoding API to provide geographic coordinate data for the address that is also written to BigQuery.\n\nThis is a simple pipeline that uses a general form processor that will detect basic form data, such as a labelled field containing address information. Document AI processors that use one of the specialized parsers that are beyond the scope of this lab provide enhanced entity information for specific document types even when those documents do not include labelled fields. For example, a Document AI Invoice parser can provide detailed address and supplier information, from an unlabelled invoice document because it understands the layout of invoices.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-build-an-end-to-end-data-capture-pipeline-using-document-ai-wiisg",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

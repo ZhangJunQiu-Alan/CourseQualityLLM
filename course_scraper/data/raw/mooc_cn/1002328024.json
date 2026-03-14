@@ -1,0 +1,31 @@
+{
+  "course_id": "1002328024",
+  "platform": "mooc_cn",
+  "title": "管理基础",
+  "description": "《管理基础》在线开放课程平台，藉由专题&模块结合之体例，传承管理学权威之经典理论体系，内容囊括管理殿堂入门、管理理论承继、计划决策之美、组织设计魅力、领导激励沟通、控制规范之力，以88个教学视频（含动画）为主体，辅以教学PPT、随堂测验、课堂讨论，内容体系清晰、深入浅出、实用性强。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002328024",
+  "instructors": [
+    {
+      "name": "张云河;徐静;朱建军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡商业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 32175,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

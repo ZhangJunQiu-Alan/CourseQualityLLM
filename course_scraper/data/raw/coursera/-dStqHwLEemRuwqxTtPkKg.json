@@ -1,0 +1,26 @@
+{
+  "course_id": "-dStqHwLEemRuwqxTtPkKg",
+  "platform": "coursera",
+  "title": "IA Para Todos (Español)",
+  "slug": "ai-for-everyone-es",
+  "description": "La IA no es solo para ingenieros. Si desea que su organización esté mejor preparada en el uso de la IA, este es el curso que todos deberían hacer, especialmente sus colegas no técnicos.\n\nEn este curso, aprenderá lo siguiente:\n\n- El significado detrás de la terminología común de IA, incluidos términos como redes neuronales, aprendizaje automático, aprendizaje profundo y ciencia de datos\n- Lo que la IA puede realmente hacer, y lo que no\n- Cómo detectar oportunidades para aplicar la IA a los problemas en su propia organización\n- La experiencia de crear proyectos de ciencia de datos y aprendizaje automático\n- Cómo trabajar con un equipo de IA y crear una estrategia de IA en su empresa\n- Cómo guiar debates sociales y éticos entorno a la IA\n\nSi bien este curso es en gran parte no técnico, los ingenieros también pueden hacerlo para aprender sobre los aspectos comerciales de la IA.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 2-3 hours/week",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/ai-for-everyone-es",
+  "instructors": [
+    {
+      "name": "Andrew Ng",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "DeepLearning.AI"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,60 @@
+{
+  "course_id": "course-00c86c5c-7a20-48c3-8f1d-c46212b4b110",
+  "platform": "edx",
+  "title": "Sustainable Housing Design",
+  "description": "Achieving truly sustainable housing requires a holistic approach that integrates three critical dimensions: social, economic, and environmental sustainability. \n This course explores how design decisions can reduce energy consumption and greenhouse gas emissions in housing, thus contributing to climate change mitigation. It also examines strategies for addressing the depletion of natural resources, emphasizing the importance of resource efficiency in the housing sector. \n The course also discusses the role of affordable housing in fostering social equity and economic sustainability. It emphasizes the importance of inclusive design practices that support culturally and socially appropriate housing, which can further promote social cohesion and resilient communities. \n These principles are examined through three interrelated themes: \n  Sociocultural Adequacy  \n Sustainable housing should reflect the needs and values of the communities it serves. The course emphasizes the importance of engaging residents in the design process to ensure their concerns are addressed, giving them a sense of ownership and belonging. Community-informed design promotes stronger social ties and creates more resilient communities. \n  Affordability  \n Sustainable solutions should be affordable for all, not just the wealthy. Making sustainable housing also financially accessible for low-income and marginalized communities helps advance social equity and ensure that everyone has access to safe, healthy, and affordable housing. \n  Materiality  \n The efficient use of resources – materials, water, and land – is essential to meet the increasing housing demand. The course explores approaches and design strategies that will minimize waste, reduce energy consumption, and limit reliance on non-renewable resources while ensuring resilience against environmental challenges. \n Through detailed discussions and case studies of housing projects from diverse regions and contexts, you will gain insights into practical applications. The course offers an interdisciplinary perspective, making it valuable for professionals, students, and anyone interested in sustainable housing design, regardless of background or expertise. \n This course was developed by  TU Delft’s Faculty of Architecture and the Built Environment  in collaboration with the  Aga Khan Trust for Culture (AKTC).",
+  "learning_goals": [
+    "Energy Consumption",
+    "Resilience",
+    "Climate Change Mitigation",
+    "Greenhouse Gas",
+    "Resource Efficiency",
+    "Green Building",
+    "Design Strategies",
+    "Universal Design",
+    "Innovation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dick-van-gameren",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "nelson-mota",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "frederique-van-andel",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rohan-varma-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "harald-mooij",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 417,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

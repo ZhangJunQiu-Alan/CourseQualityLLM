@@ -1,0 +1,31 @@
+{
+  "course_id": "1465992167",
+  "platform": "mooc_cn",
+  "title": "信息安全数学基础",
+  "description": "《信息安全数学基础》课程主要以公钥密码体制中最经典的RSA公钥加密算法,Elgamal公钥加密算法,以及椭圆曲线公钥加密算法为驱动，对这些算法涉及的数学基础知识进行系统性的介绍。通过本课程的学习，希望同学们能够对整除、同余、群、环和域，多项式和有限域，以及椭圆曲线等初等数论和抽象代数的知识进行掌握和融会贯通，并在此基础上理解RSA,Elgamal,以及ECC公钥加密算法的工作原理。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465992167",
+  "instructors": [
+    {
+      "name": "熊虎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6240,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

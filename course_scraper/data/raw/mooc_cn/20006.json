@@ -1,0 +1,31 @@
+{
+  "course_id": "20006",
+  "platform": "mooc_cn",
+  "title": "局部解剖学",
+  "description": "局部解剖学是按照人体的局部分区来研究器官和结构的位置、形态、体表标志和投影、层次和毗邻关系等的科学，它是人体解剖学的重要组成部分，是临床医学各学科尤其是外科学和影像诊断学等的重要基础，具有很强的实际应用意义。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/20006",
+  "instructors": [
+    {
+      "name": "李振中;丁兆习;刘真",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 188123,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

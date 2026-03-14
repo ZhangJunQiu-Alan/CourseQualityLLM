@@ -1,0 +1,26 @@
+{
+  "course_id": "GSpLET3iEe-xLxIpRr2Opw",
+  "platform": "coursera",
+  "title": "Responsible AI for Developers: Interpretability & Transparency - Español",
+  "slug": "responsible-ai-for-developers-interpretabilitytransparency-es",
+  "description": "이 과정에서는 AI 해석 가능성과 투명성의 개념을 소개합니다. 개발자와 엔지니어에게 AI 투명성이 얼마나 중요한지를 설명합니다. 데이터와 AI 모델 모두에서 해석 가능성과 투명성을 구현하는 데 도움이 되는 실용적인 방법과 도구를 살펴봅니다.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/responsible-ai-for-developers-interpretabilitytransparency-es",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1472343162",
+  "platform": "mooc_cn",
+  "title": "Python编程及人工智能应用",
+  "description": "本课程将Python语言的教学融入到具体的人工智能应用场景，遵循循序渐进、知行合一的教学规律。首先介绍Python语言的基础，然后从实际应用场景入手，引出人工智能的主要理论和技术，最后使用Python语言实现人工智能的主要模型方法。本课程适合于高等院校计算机相关专业学生的学习，也适合于对人工智能和Python语言有兴趣的、具有一定编程基础的人员学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472343162",
+  "instructors": [
+    {
+      "name": "陈景强;刘倩;杨尚东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2506,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

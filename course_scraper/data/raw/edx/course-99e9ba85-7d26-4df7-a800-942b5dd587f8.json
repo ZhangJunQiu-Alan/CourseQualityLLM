@@ -1,0 +1,52 @@
+{
+  "course_id": "course-99e9ba85-7d26-4df7-a800-942b5dd587f8",
+  "platform": "edx",
+  "title": "Debt Sustainability Framework for Low Income Countries",
+  "description": "The LIC DSF was developed by the IMF and the World Bank (WB) to help low-income countries achieve their development goals while minimizing the risk of debt distress. This one-module course will allow you to understand the LIC DSF, and thus interpret the LIC DSF outputs presented in WB and IMF reports. The course walks you through the steps involved in applying the LIC DSF. First, we identify data requirements and the “realism tools” used for assessing the plausibility of macroeconomic projections. You will next understand how the LIC DSF computes a country’s debt-carrying capacity, which is used for determining thresholds for the debt-burden indicators. When a debt-burden indicator breaches its threshold under either the baseline or stress test scenarios, this signals risk of debt distress. The course concludes with exploring how judgment can be used to arrive at a final risk rating.",
+  "learning_goals": [
+    "Capacity Development"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "2 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "leonardo-martinez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mumtaz-hussain",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "vivian-norambuena",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "nathalie-pouokam",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "charis-christofides",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 278,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

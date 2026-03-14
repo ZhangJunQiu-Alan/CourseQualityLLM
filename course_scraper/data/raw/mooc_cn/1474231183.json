@@ -1,0 +1,31 @@
+{
+  "course_id": "1474231183",
+  "platform": "mooc_cn",
+  "title": "职业教育信息化与数字化学习",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1474231183",
+  "instructors": [
+    {
+      "name": "叶建宏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

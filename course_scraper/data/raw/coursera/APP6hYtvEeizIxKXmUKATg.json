@@ -1,0 +1,26 @@
+{
+  "course_id": "APP6hYtvEeizIxKXmUKATg",
+  "platform": "coursera",
+  "title": "Real-Time Embedded Systems Theory and Analysis",
+  "slug": "real-time-embedded-theory-analysis",
+  "description": "This course can also be taken for academic credit as ECEA 5316, part of CU Boulder’s Master of Science in Electrical Engineering degree.\n\nThis course provides an in-depth and full mathematical derivation and review of models for scheduling policies and feasibility determination by hand and with rate monotonic tools along with comparison to actual performance for real-time scheduled threads running on a native Linux system. By the end of this course the learner will be able to full derive the fixed priority rate monotonic least upper bound for feasibility as well as justifying the rate monotonic policy and will be able to compare to dynamic priority scheduling including earliest deadline first and least laxity policies. \n\nAt the end of this course learners will be able to fully derive and explain the math model for the rate monotonic least upper bound as well as performing timing diagram analysis for fixed and dynamic priority software services.  Tools to provide analysis will be learned (Cheddar) to automate timing analysis and to compare to actual performance.\n\nSpecific objectives include:\n●\tRate monotonic theory (complete math models)\n●\tDifferences between fixed priority rate monotonic policy and dynamic priority earliest deadline first and least laxity policies\n●\tScheduling theory and practice writing code for multi-frequency executives, priority preemptive RTOS services, and real-time threaded services on traditional operating systems (Linux)\n●\tBuilding a simple Linux multi-service system using POSIX real-time extensions on Raspberry Pi 3b using sequencing and methods to log and verify agreement between theory and practice\n●\tTiming diagram generation and analysis using Cheddar\n\nThis course includes specific hardware and software requirements. Please review the FAQ below for complete details.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "50 to 75 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/real-time-embedded-theory-analysis",
+  "instructors": [
+    {
+      "name": "Sam Siewert ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

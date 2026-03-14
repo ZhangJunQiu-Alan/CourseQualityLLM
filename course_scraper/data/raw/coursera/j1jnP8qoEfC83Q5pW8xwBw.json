@@ -1,0 +1,26 @@
+{
+  "course_id": "j1jnP8qoEfC83Q5pW8xwBw",
+  "platform": "coursera",
+  "title": "Essential Guide to LLMOps",
+  "slug": "packt-essential-guide-to-llmops",
+  "description": "Large Language Models have transformed modern AI workflows, and this course provides the essential strategies needed to operate them effectively in production. You will explore the core principles of LLMOps, understanding why reliable deployment, monitoring, and continuous improvement are critical in today’s AI-driven landscape.\n\nThrough practical explanations and hands-on guidance, the course helps you build confidence in optimizing LLM performance, managing model lifecycles, and applying scalable operational techniques. By learning how to streamline workflows and apply governance best practices, you will gain the skills needed to deliver consistent, secure, and high-quality AI outcomes.\n\nThe content blends foundational theory with real-world practices, offering a balanced view of both the technical and operational challenges in modern LLM systems. Concepts are reinforced through practical frameworks and actionable strategies to ensure meaningful application in professional environments.\n\nThis course is ideal for machine learning engineers, data science practitioners, AI leaders, and technical professionals aiming to enhance their expertise in deploying and managing LLMs. Foundational knowledge of machine learning is recommended to maximize learning outcomes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-essential-guide-to-llmops",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

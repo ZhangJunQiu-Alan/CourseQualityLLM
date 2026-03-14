@@ -1,0 +1,51 @@
+{
+  "course_id": "course-4a73acff-ee97-495a-8602-dcf9b4e5fce6",
+  "platform": "edx",
+  "title": "Edición de vídeo y postproducción con DaVinci Resolve. Básico",
+  "description": "DaVinci Resolve es una plataforma software para edición de vídeo y postproducción que incorpora una impresionante colección de herramientas profesionales para el montaje de vídeo y audio, la composición y los efectos visuales, la corrección de color o las mezclas de sonido. \n Existe una versión completamente gratuita, que es la que vamos a utilizar en este curso y una versión de pago es la que utilizan las empresas profesionales de postproducción. El conocimiento en profundidad de este programa te brinda la oportunidad de manejar una herramienta muy potente para producir vídeos de calidad. \n Vamos a transitar por tres caminos paralelos: \n \n Adquirir los conocimientos técnicos necesarios para trabajar en edición de vídeo. Este objetivo lo cubrimos con lectu ras semanales de textos breves y sencillos. \n Adquirir la habilidad necesaria para editar vídeo con DaVinci Resolve. Para conocer un sistema nuevo de edición de vídeo hay que practicar mucho y ser constante. Tendrás que visionar los videotutoriales que presentan las herramientas y hacer ejercicios para ir mejorando tu destreza operativa. \n Desarrollar la creatividad a través de ejercicios prácticos. Los videotutoriales que te proponemos como prácticas despertarán tu capacidad creativa para realizar obras originales con tus propia imágenes y contenidos.",
+  "learning_goals": [
+    "Audio Mixing",
+    "Audio Editing Software",
+    "Creativity",
+    "Tutorials",
+    "Post-Production",
+    "Written Composition",
+    "Visual Effects",
+    "Audio Editing",
+    "Animations",
+    "Color Correction",
+    "DaVinci Resolve (Video Editing Software)",
+    "Sound Effects",
+    "Video Editing",
+    "Workflow Management",
+    "Computing Platforms"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 3-4 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "francisco-utray",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sergio-marquez",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Carlos III de Madrid"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 338,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "2UNY2LMVEfCQ7hKfC_KOeQ",
+  "platform": "coursera",
+  "title": "Build & Evaluate Decision Trees for ML",
+  "slug": "build--evaluate-decision-trees-for-ml",
+  "description": "Are you ready to master one of machine learning’s most powerful and interpretable algorithms? This course will guide you through the complete journey of understanding, building, and evaluating decision tree models using Java, the enterprise-standard programming language. You’ll start by exploring the core concepts, how decision trees partition data, why splitting criteria such as entropy and the Gini index matter, and when decision trees outperform other algorithms. From there, you’ll move into hands-on implementation, using industry-standard tools like Weka’s intuitive GUI and Java API along with Smile’s high-performance library to develop, tune, and deploy models. Through practical exercises, you’ll learn to configure hyperparameters, balance rapid prototyping with production-ready design, and apply robust model evaluation techniques such as confusion matrices, cross-validation, and key performance metrics. \n\nAspiring and experienced data scientists, Java developers, and machine learning engineers seeking to build, evaluate, and interpret decision tree models for real-world applications in finance, healthcare, and business analytics. \n\nBasic Java programming experience, understanding of object-oriented concepts, and fundamental knowledge of data science principles required.\n\nBy the end of the course, you’ll be equipped to detect and reduce overfitting, optimize model performance, and effectively communicate insights to technical and business stakeholders alike.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "6 Hours 54 Minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build--evaluate-decision-trees-for-ml",
+  "instructors": [
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Tom Themeles",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

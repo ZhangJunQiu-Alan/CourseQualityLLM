@@ -1,0 +1,43 @@
+{
+  "course_id": "course-d1768ac3-9e71-45ee-9174-2d553968c8a5",
+  "platform": "edx",
+  "title": "Introduction to Marketing",
+  "description": "Marketing is a crucial function in all businesses and organizations, and is becoming increasingly crucial to success in our modern global economy. This course, regardless of your industry background, will teach you core concepts and tools to help you better understand and excel in marketing. Key topics include Market Research and its importance to strategy, brand strategy, pricing, integrated marketing communication, social media strategy, and more. \n Learn through award-winning teaching approaches of the Sauder School of Business’s marketing faculty. This course will bring a marketing lens to complex business and organization challenges and aid in holistic decision-making that aligns with customer and company goals. \n This course is for anyone interested in marketing.",
+  "learning_goals": [
+    "Market Research",
+    "Marketing",
+    "Business Marketing",
+    "Decision Making",
+    "Social Media Strategy",
+    "Integrated Marketing Communications",
+    "Brand Strategy"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "darren-dahl",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "paul-cubbon",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of British Columbia"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1908,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

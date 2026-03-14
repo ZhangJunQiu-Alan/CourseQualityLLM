@@ -1,0 +1,31 @@
+{
+  "course_id": "1465643161",
+  "platform": "mooc_cn",
+  "title": "Foundations of Solid Mechanics",
+  "description": "The Foundations of Solid Mechanics we are dealing with in this course is in connection with the mechanics of materials and theory of elasticity. This course particularly emphasizes on the integration of mathematical knowledge and mechanical principles. Upon completion of this course, students will develop proficiency in advanced principles and practice in the specialized area of solid mechanics and structural engineering.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465643161",
+  "instructors": [
+    {
+      "name": "洪俊;Gongye Zhang;糜长稳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 507,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

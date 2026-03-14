@@ -1,0 +1,31 @@
+{
+  "course_id": "1003322004",
+  "platform": "mooc_cn",
+  "title": "基础会计",
+  "description": "东北财经大学会计学院的会计学专业是国家级一流本科专业建设点，其《基础会计》课程由国家级教学名师——刘永泽教授、辽宁省教学名师——陈文铭教授、国家教学成果奖二等奖获得者——张娆教授组成的教学团队建设完成，是国家一流本科课程（线上课程）。本课程已在中国MOOC平台开课十五期，我们将一如既往的及时、持续更新教学资源，服务学习型社会建设。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003322004",
+  "instructors": [
+    {
+      "name": "张娆;陈文铭;许浩然;刘永泽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 243457,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

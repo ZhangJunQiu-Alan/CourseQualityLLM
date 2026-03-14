@@ -1,0 +1,31 @@
+{
+  "course_id": "1461952169",
+  "platform": "mooc_cn",
+  "title": "智能电子产品设计与制作",
+  "description": "《智能电子产品设计与制作》是电子信息工程技术专业核心课程，本课程以智能小车为教学载体，培养学生的电路设计能力、PCB设计能力以及STM32单片机程序开发能力，掌握智能电子产品的开发过程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461952169",
+  "instructors": [
+    {
+      "name": "陈强;秦拥军;国佳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3197,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "35qpAZ8yEe6oNQ7uEuvwYQ",
+  "platform": "coursera",
+  "title": "Introduction to Ethereum Blockchain",
+  "slug": "building-dapps-in-ethereum-blockchain",
+  "description": "The course \"Building DApps in Ethereum Blockchain\" aims to provide participants with the knowledge and skills necessary to design, develop, and deploy decentralized applications (DApps) on the Ethereum blockchain. By the end of the course, participants will have acquired the necessary skills to design, develop, and deploy their own DApps on the Ethereum blockchain. They will be equipped to tackle real-world challenges in the blockchain industry, with the ability to contribute to projects related to decentralized finance, supply chain management, digital identity, and more.\n\nThe course is suitable for the following target audience:\n\n1) Developers: The course primarily targets developers who have a solid understanding of programming concepts and have experience with at least one programming language. The course will equip developers with the knowledge and skills necessary to build decentralized applications on the Ethereum blockchain.\n\n2) Blockchain Enthusiasts: Individuals with a keen interest in blockchain technology, specifically Ethereum, can benefit from the course. The course will provide them with the necessary technical skills to develop DApps on the Ethereum platform.\n\n3) Entrepreneurs and Product Managers: Entrepreneurs or product managers who are interested in exploring the potential of decentralized applications and integrating blockchain technology into their products or services can find value in the course. \n\n4) Technical Professionals in the Finance and Banking Industry: Professionals in the finance and banking industry who want to explore the potential of blockchain and decentralized finance (DeFi) can benefit from the course.\n\n5) Students and Researchers: Students studying computer science, blockchain, or related fields can take the course to gain practical knowledge and hands-on experience in developing DApps on the Ethereum blockchain.\n\nPre-requisites:\n\n1) Participants should have a solid understanding of programming concepts and experience with at least one programming language such as JavaScript, Python, or Solidity. \n\n2) Familiarity with the fundamental concepts of blockchain technology is important.\n\n3) Basic knowledge of web development is often required since DApps often involve front-end interfaces and back-end components.\n\n4) Participants should have some familiarity with the command line interface (CLI), as they may need to execute commands to set up development environments, interact with Ethereum tools, compile smart contracts, and deploy DApps.\n\n5) Solidity and Ethereum Development Tools\n\nBy the end of the course, you will be able to:\n\n1) Understand the key concepts, tools, and techniques involved in building Ethereum-based DApps, enabling individuals to tap into the potential of blockchain technology.\n\n2) Will learn the fundamentals of blockchain technology, Ethereum architecture, smart contract development using Solidity, and the integration of front-end interfaces with the Ethereum network.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/building-dapps-in-ethereum-blockchain",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206689844",
+  "platform": "mooc_cn",
+  "title": "医用化学",
+  "description": "化学就是化学，怎么还有医用的？医用化学是为高等医学院校临床医学及其相关专业开设的基础课程，它与其他化学课程不同的地方就是在讲授化学知识的过程中，贯彻为医学服务的宗旨，切实加强化学与医学的联系。欢迎您的加入，我们一起去了解化学在医学上的应用吧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206689844",
+  "instructors": [
+    {
+      "name": "董丽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 43798,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

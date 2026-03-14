@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753015",
+  "platform": "mooc_cn",
+  "title": "金融学",
+  "description": "高等院校经管类各专业学生必修的专业基础课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753015",
+  "instructors": [
+    {
+      "name": "卞志村;丁慧;莫媛;张雷;毛泽盛;高艳;黄玉书",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56843,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

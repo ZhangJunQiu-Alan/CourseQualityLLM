@@ -1,0 +1,37 @@
+{
+  "course_id": "course-5776bb8e-e7c0-49de-8123-0b918c882ff0",
+  "platform": "edx",
+  "title": "Business Communications",
+  "description": "This course, part of the Business Fundamentals Professional Certificate program, will sharpen your writing, presentation, and interpersonal communication skills to help you succeed in the business world. You will learn a range of successful practices and guidelines that have been derived from both research and experience. \n You will learn strategies for honing your communication style, improving clarity, conciseness and impact. By the end of the course, you will be able to think strategically about all forms of communication, and communicate with diverse audiences.",
+  "learning_goals": [
+    "Communications",
+    "Business Communication",
+    "Presentations",
+    "Interpersonal Communications",
+    "Strategic Thinking",
+    "Writing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "marlisse-silver-sweeney",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of British Columbia"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1098,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

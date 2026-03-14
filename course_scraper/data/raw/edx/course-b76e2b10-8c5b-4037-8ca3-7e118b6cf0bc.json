@@ -1,0 +1,35 @@
+{
+  "course_id": "course-b76e2b10-8c5b-4037-8ca3-7e118b6cf0bc",
+  "platform": "edx",
+  "title": "Philosophy and Critical Thinking",
+  "description": "What can we learn through philosophical inquiry that will help us to think with clarity, rigour and humour about things that matter? \n This course introduces principles of philosophical inquiry and critical thinking that will help us answer this question. Learn how we can use philosophical ideas to think about ourselves and the world around us.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 1-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "deborah-brown",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "peter-ellerton",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Queensland"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1783,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

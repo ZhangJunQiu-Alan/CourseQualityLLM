@@ -1,0 +1,31 @@
+{
+  "course_id": "1002111005",
+  "platform": "mooc_cn",
+  "title": "植物生理学",
+  "description": "《植物生理学》课程寓教于问题与情景，揭秘与人类生活密切相关的植物生理，剖析生产实践中的热点与学科研究前沿问题，是植物生产与生物科学各专业的重要基础，倡导利用植物生理知识解决人类的“衣食住行”的理念，以实现人与自然和谐共处。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002111005",
+  "instructors": [
+    {
+      "name": "肖浪涛;彭志红;夏石头",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 60452,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

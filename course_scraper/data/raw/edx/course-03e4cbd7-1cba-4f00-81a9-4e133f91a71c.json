@@ -1,0 +1,37 @@
+{
+  "course_id": "course-03e4cbd7-1cba-4f00-81a9-4e133f91a71c",
+  "platform": "edx",
+  "title": "Introducción a Ciencias de Datos y Estadística Básica para Negocios",
+  "description": "Este curso te permitirá desarrollar habilidades como un tomador de decisiones con base a las siguientes competencias:  \n \n  análisis de elementos estadístico de la información  \n  conceptos y fundamentos estadísticos para la aplicación del área de ciencia de datos.  \n \n    \n Por medio de la estadística descriptiva, el estudio y análisis de distribuciones de probabilidad discreta y continua, así como la estimación por intervalos para la media y la proporción es como lograrás desarrollar ambas competencias.",
+  "learning_goals": [
+    "Statistical Methods",
+    "Probability Distribution",
+    "Data Science",
+    "Decision Making",
+    "Statistics",
+    "Big Data"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "4 周，每周 5-8 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jose-antonio-nunez-mora",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tecnológico de Monterrey"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 445,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

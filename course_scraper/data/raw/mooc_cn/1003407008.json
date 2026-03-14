@@ -1,0 +1,31 @@
+{
+  "course_id": "1003407008",
+  "platform": "mooc_cn",
+  "title": "工程化学",
+  "description": "化学学科历史悠久、充满活力，化学推动了科技的进步和社会的发展。《工程化学》课程从化学学科的“基础”和“理论”出发，与日常生活、实际生产和科技前沿紧密联系。课程围绕化学的基本概念，突出化学学科的研究方法、突现化学在生活中的踪迹、突展化学原理在社会的各个层面的应用及其重要性。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003407008",
+  "instructors": [
+    {
+      "name": "肖菲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 34266,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

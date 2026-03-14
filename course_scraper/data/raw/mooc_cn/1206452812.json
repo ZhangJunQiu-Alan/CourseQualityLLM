@@ -1,0 +1,31 @@
+{
+  "course_id": "1206452812",
+  "platform": "mooc_cn",
+  "title": "现代控制理论",
+  "description": "课程以自动化、电气工程及其自动化专业学生中学习基础较好、有志于报考控制科学与工程、电气工程等领域硕士研究生为主。课程除进行内容讲解外，还设有专门的习题课。通过课程的学习，使学生在研究生考试及今后的科研工作中具有更强的竞争力，也对学习过该门课程的学生提供学习资源。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206452812",
+  "instructors": [
+    {
+      "name": "亢洁;高辉;李艳;王素娥;郑恩让",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "陕西科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7572,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

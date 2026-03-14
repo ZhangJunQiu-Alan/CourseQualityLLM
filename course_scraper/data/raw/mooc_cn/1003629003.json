@@ -1,0 +1,31 @@
+{
+  "course_id": "1003629003",
+  "platform": "mooc_cn",
+  "title": "测量学",
+  "description": "“测量学”是我校地质工程、资源等20个专业本科生必修的技术基础课程，是湖北省高等学校省级精品课程和资源共享课程。本课程以知识点的形式讲授，并采取图片、动画、视频、三维模拟仿真等表现形式，力图生动浅显地展示测量学的基本理论、技术和方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003629003",
+  "instructors": [
+    {
+      "name": "徐景田",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国地质大学（武汉）"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 37553,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

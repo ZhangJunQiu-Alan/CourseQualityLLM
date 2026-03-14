@@ -1,0 +1,36 @@
+{
+  "course_id": "course-f2837d13-9f59-4916-8324-d772e2e49ee5",
+  "platform": "edx",
+  "title": "Monetary Policy Analysis and Forecasting",
+  "description": "This online course, presented by the IMF's Institute for Capacity Development, introduces participants to quarterly projection macroeconomic models developed as a core of FPAS (Forecasting and Policy Analysis Systems) and how to implement the key canonical quarterly projection model (QPM) equations in a macroeconomic modeling software. This course uses detailed country data highlighting an inflation targeting central bank, for hands-on filtration and calibration exercises. \n The course covers two main technical aspects: \n \n introduction to a canonical New Keynesian model structure and its key properties; and \n implementation of the QPM in Matlab/Octave and the application of IRIS toolbox for solving and maintaining the QPM. \n \n  In partnership with MathWorks, enrolled students have access to MATLAB for the duration of the course.  \n  Monetary Policy Analysis and Forecasting is offered by the IMF with financial support from the Government of Japan.",
+  "learning_goals": [
+    "Forecasting",
+    "Monetary Policies",
+    "Capacity Development",
+    "Policy Analysis",
+    "MATLAB"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "6 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mikhail-pranovich",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 811,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

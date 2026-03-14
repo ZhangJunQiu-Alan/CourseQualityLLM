@@ -1,0 +1,31 @@
+{
+  "course_id": "1449624173",
+  "platform": "mooc_cn",
+  "title": "密码学引论 （下）",
+  "description": "通过本课程的学习，学生能够阐述各类典型密码方案及其安全性功能，解释典型密码设计技术与分析技术的基本原理；能够对密码方案的安全性隐患进行初步分析与评估；能够综合运用各类基础密码算法根据安全性功能需求提出合理的密码学解决方案。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449624173",
+  "instructors": [
+    {
+      "name": "魏普文;文洁晶;王美琴;庄金成;陈宇;王薇;郭淳;王伟嘉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4888,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

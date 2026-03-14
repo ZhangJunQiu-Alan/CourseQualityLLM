@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752373",
+  "platform": "mooc_cn",
+  "title": "过程控制",
+  "description": "工业文明将人类带入了一个新的历史发展阶段，伴随着工业社会的不断进步，自动控制已经深入到工业生产过程的各个层面。在工业4.0新形势下，工业过程控制也迎来了新的发展契机。《过程控制》以控制理论为基础，阐述工业生产过程的分析、设计、建模与控制的全过程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752373",
+  "instructors": [
+    {
+      "name": "韩燕;王冬生",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12550,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

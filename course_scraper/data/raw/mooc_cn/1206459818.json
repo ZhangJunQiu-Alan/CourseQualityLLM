@@ -1,0 +1,31 @@
+{
+  "course_id": "1206459818",
+  "platform": "mooc_cn",
+  "title": "结构力学基础",
+  "description": "结构力学（结构分析）是土木类各专业的一门重要专业基础课。结构作为建筑物支承和传传递荷载的骨架部分，其体系的合理性、受力情况以及变形大小直接关系到结构安全。结构力学（分析）以土木工程中的各种常见结构为研究对象，分析各类结构在各种荷载作用下的受力特性，计算不同结构杆件内力和位移，以保证结构的安全。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206459818",
+  "instructors": [
+    {
+      "name": "蔡婧;江南;齐欣;李翠娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4925,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

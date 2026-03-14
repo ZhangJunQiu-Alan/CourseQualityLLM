@@ -1,0 +1,31 @@
+{
+  "course_id": "481001",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "“线性代数”是理工科大学生必修的数学基础课之一，也是硕士研究生入学全国统一考试中必考的数学课程之一。通过线性代数课程的学习，不仅可以掌握该课程的基础理论，更重要的是可以培养学生的空间直观和想象能力以及抽象思维和逻辑推理能力、为学习后续课程和进一步扩大实践能力打下必要的数学基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/481001",
+  "instructors": [
+    {
+      "name": "靳全勤;濮燕敏;孙娟娟;张莉;殷俊锋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 662349,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

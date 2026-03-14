@@ -1,0 +1,26 @@
+{
+  "course_id": "t-RzoWL_EfC0aBLgb0yDNQ",
+  "platform": "coursera",
+  "title": "Unreal Engine: Apply & Demonstrate Skeletal Animation",
+  "slug": "unreal-engine-apply-demonstrate-skeletal-animation",
+  "description": "This course provides a practical and structured exploration of skeletal mesh workflows in Unreal Engine, designed for game developers, technical artists, and animators aiming to build foundational skills in 3D character integration. Learners will apply import techniques for skeletal meshes using industry-standard FBX formats and demonstrate the ability to animate characters using Unreal’s Persona Editor and animation tools.\n\nThrough hands-on lessons and graded practice, participants will gain the ability to confidently configure import settings, manage skeleton hierarchies, create animation sequences, and control playback within the engine environment. By the end of the course, learners will have developed a working knowledge of animated asset pipelines, empowering them to integrate characters seamlessly into interactive 3D scenes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/unreal-engine-apply-demonstrate-skeletal-animation",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,60 @@
+{
+  "course_id": "course-38985e4f-4f9a-4798-b773-b9ba504e9f16",
+  "platform": "edx",
+  "title": "Mastering Musculoskeletal Medicine",
+  "description": "Musculoskeletal pain is one of the most frequent complaints seen in medicine. However, the methodology for diagnosing and managing these problems is frequently oversimplified, placing excessive emphasis on structural factors. Musculoskeletal conditions manifest in a more complex context, creating a need for a broader examination and treatment. \n This course is aimed at healthcare providers, specifically medical doctors at both junior and senior levels, as well as physiotherapists and other healthcare professionals with an interest in musculoskeletal medicine. The course provides a comprehensive overview of often-overlooked aspects of clinical reasoning. \n After following this course, you will feel more confident in assessing and treating patients with musculoskeletal complaints. \n This MOOC is accredited for Belgian physiotherapists through Pro-Q-Kine for 24 NE and for Belgian physicians for 15 CP.",
+  "learning_goals": [
+    "Patient Treatment",
+    "Human Musculoskeletal Systems",
+    "Clinical Reasoning",
+    "Physical Therapy"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "koen-peers",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "stijn-bogaerts",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "liedewij-bogaert",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "annemie-smeets",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "feryal-ghafelzadeh-ahwaz",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "maurane-fort",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "KU Leuven"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 485,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

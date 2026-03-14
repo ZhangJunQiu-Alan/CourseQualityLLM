@@ -1,0 +1,26 @@
+{
+  "course_id": "i4bJ3zqREe-xLxIpRr2Opw",
+  "platform": "coursera",
+  "title": "Gemini for Data Scientists and Analysts - 한국어",
+  "slug": "gemini-for-data-scientists-and-analysts-ko",
+  "description": "이 과정에서는 Google Cloud의 생성형 AI 기반 파트너인 Gemini가 고객 데이터를 분석하고 제품 판매를 예측하는 데 어떤 도움이 되는지 알아봅니다. BigQuery에서 고객 데이터를 사용해 신규 고객을 식별, 분류, 개발하는 방법도 다룹니다. 실무형 실습을 통해 Gemini로 데이터 분석 및 머신러닝 워크플로가 얼마나 개선되는지 경험할 수 있습니다.\n\nDuet AI의 이름이 Google의 차세대 모델인 Gemini로 변경되었습니다.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ko",
+  "url": "https://www.coursera.org/learn/gemini-for-data-scientists-and-analysts-ko",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

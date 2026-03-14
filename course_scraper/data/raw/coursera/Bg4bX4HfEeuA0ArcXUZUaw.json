@@ -1,0 +1,26 @@
+{
+  "course_id": "Bg4bX4HfEeuA0ArcXUZUaw",
+  "platform": "coursera",
+  "title": "Data Science Decisions in Time: Using Data Effectively",
+  "slug": "data-science-decisions-in-time-using-data-effectively",
+  "description": "Sequential Decisions builds from math and algorithms that can be understood and used by Coursera Students.  This course will start from a consideration of the simplest type of data streams and then gradually advance to more complex types of data and more nuanced decisions being made on that data.  You will be able to: (a) program optimal decisions for data arriving from known distribution functions, (b) define error bars and nuanced hedges about ongoing data streams to reflect missing data and/or missing knowledge, (c)understand and use the connections from these models to further understand Markov Chains and Markov Processes and how these ideas connect to Reinforcement Learning and (d) Understand better the nuances between time-independent, time-dependent, one-dimensional and multi-dimensional data.\n The course is aimed at those working with data, this includes both those charged with analyzing the data and those in charge of making decisions based on that data.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-science-decisions-in-time-using-data-effectively",
+  "instructors": [
+    {
+      "name": "Thomas Woolf",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

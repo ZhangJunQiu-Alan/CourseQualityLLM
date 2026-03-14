@@ -1,0 +1,31 @@
+{
+  "course_id": "1205983806",
+  "platform": "mooc_cn",
+  "title": "信息系统分析与设计",
+  "description": "《信息系统分析与设计》是高等学校信息管理与信息系统专业的必修主干课，也是信息和计算机相关专业的选修课。从基础概念开始，讲解信息系统开发的理论基础和开发方法。重点介绍生命周期法中的系统分析、系统设计的步骤、工具、原则和内容。通过学习，透彻理解理论，熟练掌握方法，熟悉主流建模工具的使用技巧，为开发信息系统奠定坚实基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205983806",
+  "instructors": [
+    {
+      "name": "陈钊;王海燕;李维",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6438,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

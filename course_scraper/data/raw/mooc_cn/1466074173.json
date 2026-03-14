@@ -1,0 +1,31 @@
+{
+  "course_id": "1466074173",
+  "platform": "mooc_cn",
+  "title": "羽毛球",
+  "description": "在当今社会科学化、信息化时代，羽毛球运动以她独特的特点及运动价值，吸引了众多的爱好者，在羽毛球运动中人们找到了乐趣，体验到了体育运动的无限魅力及其强身健体的价值。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466074173",
+  "instructors": [
+    {
+      "name": "袁静;白杨;夏文龙;李高华;王翾",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7950,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

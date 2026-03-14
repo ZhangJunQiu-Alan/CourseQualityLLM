@@ -1,0 +1,31 @@
+{
+  "course_id": "1461242161",
+  "platform": "mooc_cn",
+  "title": "麻醉学",
+  "description": "可使学生掌握麻醉学相关的基本理论和基本技能，并应用于消除围术期所致疼痛与不适、生命机能调控、重症监测治疗和疼痛诊疗，保证病人围术期生命安全、促进术后快速康复，改善病痛患者生活质量。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461242161",
+  "instructors": [
+    {
+      "name": "王晓斌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南医科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24963,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

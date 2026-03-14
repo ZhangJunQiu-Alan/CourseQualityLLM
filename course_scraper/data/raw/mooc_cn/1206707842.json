@@ -1,0 +1,31 @@
+{
+  "course_id": "1206707842",
+  "platform": "mooc_cn",
+  "title": "材料成型自动控制基础",
+  "description": "轧制是一种钢铁和其他金属材料的主要加工方法。自动控制已经成为金属材料生产过程中不可缺少的组成部分，本课程，通过介绍钢铁生产过程中连铸和连轧工艺中的各个流程的自动控制，强调一般理论和实际应用相结合，尽量避免控制工程中的数学推导。着重轧制过程自动控制方面的控制原理、方法和应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206707842",
+  "instructors": [
+    {
+      "name": "沈俊芳;郭玉波;左寒松;曹永青;石磊;柳翊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "洛阳理工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2466,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

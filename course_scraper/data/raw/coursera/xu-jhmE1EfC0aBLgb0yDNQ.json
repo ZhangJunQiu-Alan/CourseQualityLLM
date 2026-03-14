@@ -1,0 +1,26 @@
+{
+  "course_id": "xu-jhmE1EfC0aBLgb0yDNQ",
+  "platform": "coursera",
+  "title": "Advanced Tokenization and Sentiment Analysis",
+  "slug": "advanced-tokenization-and-sentiment-analysis",
+  "description": "This course offers a clear pathway to undertsand advanced tokenization and sentiment analysis—two core pillars of modern NLP. You'll learn how to convert raw text into structured input using subword, character-level, and adaptive tokenization techniques, and how to extract sentiment using rule-based, statistical, and deep learning models.\n\nThrough hands-on exercises, you’ll gain the skills to handle complex language input, model sentiment at fine granularity, and deploy systems that generalize across domains and languages.\n\nBy the end of this course, you will be able to:\n- Explain and apply advanced tokenization techniques, including BPE, character-level, and streaming methods\n- Handle out-of-vocabulary terms and domain-specific language using adaptive and hybrid encoding strategies\n- Build sentiment analysis models using VADER, Naïve Bayes, BERT, and RoBERTa\n- Address challenges such as class imbalance, multilingual variation, and aspect-level sentiment\n- Evaluate sentiment systems using semantic similarity, temporal trends, and domain-specific metrics\n\nThis course is ideal for NLP practitioners, data scientists, developers, and applied researchers aiming to build robust, ethical, and production-ready sentiment analysis systems.\n\nA basic understanding of Python, NLP fundamentals, and machine learning is recommended.\n\nJoin us to learn how tokenization and sentiment analysis power the next generation of intelligent language technologies.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 4 - 5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-tokenization-and-sentiment-analysis",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

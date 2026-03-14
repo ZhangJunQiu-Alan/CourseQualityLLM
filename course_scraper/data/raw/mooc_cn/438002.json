@@ -1,0 +1,31 @@
+{
+  "course_id": "438002",
+  "platform": "mooc_cn",
+  "title": "概率论与数理统计",
+  "description": "​       本课程是在同名国家资源共享课基础上改进、充实、提升而成。课程围绕培养学生分析随机现象、处理随机数据能力的宗旨，从概率思想、统计方法、实例安排等方面精心设计、精心施教。同时还提供了习题课、考研辅导、考卷、教案等丰富的教学资源，可供初学者、考研学生、青年教师学习进修参考。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/438002",
+  "instructors": [
+    {
+      "name": "马晓雨;刘吉英;侯臣平;刘琰;赵振宇;吴翊;黄彭奇子;陶红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 149120,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

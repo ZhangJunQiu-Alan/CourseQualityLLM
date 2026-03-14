@@ -1,0 +1,31 @@
+{
+  "course_id": "1206508811",
+  "platform": "mooc_cn",
+  "title": "Management Accounting（管理会计）",
+  "description": "Management Accounting is the first of two mandatory courses in the management accounting stream in professional studies. The course presents an introduction to the main concepts and practices of management accounting. The purpose of management accounting is to provide managers of all types of organizations with the information they need to conduct the affairs of those organizations. Management accounting is a major information source for short-term and long-term operational planning, as well as for financial accounting.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206508811",
+  "instructors": [
+    {
+      "name": "袁怡闻",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16899,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

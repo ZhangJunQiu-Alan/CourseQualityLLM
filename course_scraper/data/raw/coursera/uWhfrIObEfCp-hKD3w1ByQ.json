@@ -1,0 +1,26 @@
+{
+  "course_id": "uWhfrIObEfCp-hKD3w1ByQ",
+  "platform": "coursera",
+  "title": "Foundations of Open Generative AI Engineering",
+  "slug": "foundations-of-open-generative-ai-engineering",
+  "description": "The Foundations of Open Generative AI Engineering course introduces learners to the principles, architectures, and trade-offs that define the open generative AI landscape. Starting with the distinctions between open source, open weights, and open access models, learners explore different licensing frameworks—including MIT, Apache, and CreativeML Open RAIL-M—and their implications for commercial use, attribution, and compliance. \n\nThe course then covers the core architectures of open large language models (LLMs) such as Llama, Mistral, and Mixtral, alongside diffusion models used for image generation. Learners analyze how factors like parameter size, context windows, and inference speed impact performance and suitability for different applications. The final module develops a structured decision-making framework for evaluating open vs. closed models, balancing cost, scalability, customization, privacy, and data sovereignty. By completing a model selection analysis report, learners gain the ability to critically assess and recommend appropriate generative AI models for real-world use cases.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/foundations-of-open-generative-ai-engineering",
+  "instructors": [
+    {
+      "name": "Professionals from the Industry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

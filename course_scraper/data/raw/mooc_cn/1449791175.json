@@ -1,0 +1,31 @@
+{
+  "course_id": "1449791175",
+  "platform": "mooc_cn",
+  "title": "常微分方程",
+  "description": "常微分方程是一门重要的专业基础课程，是进一步学习相关后继课程（如数学物理方程、微分几何、泛函分析、数学建模等）的必要基础，也是学习物理、力学、电子学等的必备知识。该课程主要内容有微分方程的基本概念、初等积分法、一阶微分方程解的存在性定理、解的延拓、高阶微分方程与线性微分方程组等。常微分方程是数学科学联系实际的主要桥梁之一，该课程对训练学习者的数学思维、应用意识和分析与解决实际问题的能力有着极为重要的作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449791175",
+  "instructors": [
+    {
+      "name": "王广瓦;孙莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36185,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

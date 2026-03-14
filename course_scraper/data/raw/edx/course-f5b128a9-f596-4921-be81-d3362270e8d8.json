@@ -1,0 +1,36 @@
+{
+  "course_id": "course-f5b128a9-f596-4921-be81-d3362270e8d8",
+  "platform": "edx",
+  "title": "Abnormal Psychology",
+  "description": "A study of abnormal human behaviors within the diversity of human behavior. Using a Biopsychosocial framework and the DSM-5, the categories of abnormal behavior are explored with explicit consideration to cultural and biological diversity. Students who successfully complete the course will demonstrate their understanding of how physical, psychological, and social factors influence human behavior; the techniques used to identify psychological disorders; and the practical applications of treatment for abnormal behavior.",
+  "learning_goals": [
+    "Abnormal Psychology",
+    "Auditing",
+    "Diagnostic And Statistical Manual Of Mental Disorders",
+    "Biology",
+    "Psychology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 8-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-kays",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Doane University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 969,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

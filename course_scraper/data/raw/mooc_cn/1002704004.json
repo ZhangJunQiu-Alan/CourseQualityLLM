@@ -1,0 +1,31 @@
+{
+  "course_id": "1002704004",
+  "platform": "mooc_cn",
+  "title": "古诗今读",
+  "description": "该课程采用师生对话的形式，以古诗为主题，以问题为导向，引导大家对于古诗的文本细读以及探究文本内在逻辑，以期提高对古诗的兴趣，以及对古诗的鉴赏体悟能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002704004",
+  "instructors": [
+    {
+      "name": "韩经太",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京语言大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 81896,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

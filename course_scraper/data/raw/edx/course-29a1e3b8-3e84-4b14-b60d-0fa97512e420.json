@@ -1,0 +1,40 @@
+{
+  "course_id": "course-29a1e3b8-3e84-4b14-b60d-0fa97512e420",
+  "platform": "edx",
+  "title": "Analyzing Data with Python",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n  LEARN TO ANALYZE DATA WITH PYTHON  \n Learn how to analyze data using Python in this introductory course. You will go from understanding the basics of Python to exploring many different types of data through lecture, hands-on labs, and assignments. You will learn how to prepare data for analysis, perform simple statistical analyses, create meaningful data visualizations, predict future trends from data, and more!",
+  "learning_goals": [
+    "Python (Programming Language)",
+    "Basic Math",
+    "Machine Learning",
+    "Data Analysis",
+    "Scikit-learn (Machine Learning Library)",
+    "Data Visualization",
+    "Pandas (Python Package)",
+    "SciPy",
+    "NumPy"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1103,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

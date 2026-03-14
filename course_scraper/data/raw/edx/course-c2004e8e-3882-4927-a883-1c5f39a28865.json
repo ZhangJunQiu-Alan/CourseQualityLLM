@@ -1,0 +1,43 @@
+{
+  "course_id": "course-c2004e8e-3882-4927-a883-1c5f39a28865",
+  "platform": "edx",
+  "title": "Introduction to Data Science with Python",
+  "description": "Every single minute, computers across the world collect millions of gigabytes of data. What can you do to make sense of this mountain of data? How do data scientists use this data for the applications that power our modern world? \n Data science is an ever-evolving field, using algorithms and scientific methods to parse complex data sets. Data scientists use a range of programming languages, such as Python and R, to harness and analyze data. This course focuses on using Python in data science. By the end of the course, you’ll have a fundamental understanding of machine learning models and basic concepts around Machine Learning (ML) and Artificial Intelligence (AI). \n Using Python, learners will study regression models (Linear, Multilinear, and Polynomial) and classification models (kNN, Logistic), utilizing popular libraries such as sklearn, Pandas, matplotlib, and numPy. The course will cover key concepts of machine learning such as: picking the right complexity, preventing overfitting, regularization, assessing uncertainty, weighing trade-offs, and model evaluation. Participation in this course will build your confidence in using Python, preparing you for more advanced study in Machine Learning (ML) and Artificial Intelligence (AI), and advancement in your career. \n Learners must have a minimum baseline of programming knowledge (preferably in Python) and statistics in order to be successful in this course. Python prerequisites can be met with an introductory Python course offered through CS50’s Introduction to Programming with Python, and statistics prerequisites can be met via Fat Chance or with Stat110 offered through HarvardX.",
+  "learning_goals": [
+    "Scikit-learn (Machine Learning Library)",
+    "Artificial Intelligence",
+    "Scientific Methods",
+    "NumPy",
+    "Algorithms",
+    "Data Science",
+    "Pandas (Python Package)",
+    "Python (Programming Language)",
+    "Machine Learning",
+    "R (Programming Language)",
+    "Matplotlib",
+    "Parsing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "pavlos-protopapas-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30589,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

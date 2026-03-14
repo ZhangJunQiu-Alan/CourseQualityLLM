@@ -1,0 +1,31 @@
+{
+  "course_id": "1468799236",
+  "platform": "mooc_cn",
+  "title": "统计学",
+  "description": "统计分析技能能够帮助你发现身边某现象数据变化规律，拓展你的思考问题的视野；能够为生产及其管理出现问题时找到问题的本质和提供解决问题的措施和方法，因而，统计学是一门非常实用和有用的科学。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468799236",
+  "instructors": [
+    {
+      "name": "肖文圣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "三江学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2776,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

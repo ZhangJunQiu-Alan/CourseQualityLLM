@@ -1,0 +1,49 @@
+{
+  "course_id": "course-896f6184-731a-4dae-9e53-ef7a83e5606d",
+  "platform": "edx",
+  "title": "Principles of Biochemistry",
+  "description": "Principles of Biochemistry integrates an introduction to the structure of macromolecules and a biochemical approach to cellular function. Topics addressing protein function will include enzyme kinetics, the characterization of major metabolic pathways and their interconnection into tightly regulated networks, and the manipulation of enzymes and pathways with mutations or drugs. An exploration of simple cells (red blood cells) to more complex tissues (muscle and liver) will be used as a framework to discuss the progression in metabolic complexity. Learners will also develop problem solving and analytical skills that are more generally applicable to the life sciences.",
+  "learning_goals": [
+    "Enzyme Kinetics",
+    "Chemical Kinetics",
+    "Metabolism",
+    "Analytical Skills",
+    "Macromolecule",
+    "Problem Solving",
+    "Interconnection",
+    "Livers",
+    "Cell Biology",
+    "Metabolic Pathways",
+    "Biochemistry",
+    "Hepatology",
+    "Protein Function"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "15 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alain-viel",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rachelle-gaudet",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9924,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

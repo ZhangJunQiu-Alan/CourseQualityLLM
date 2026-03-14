@@ -1,0 +1,31 @@
+{
+  "course_id": "1207128808",
+  "platform": "mooc_cn",
+  "title": "信号检测与估值",
+  "description": "雷达、通信、语音、声纳、图像处理、生物医学、控制、地震学等电子信息系统处理的信号包含有干扰和噪声，需要我们对这些信号进行分析和处理，以最有效地辨认出有用信号的存在并估计出信号中包含的参量。如何判断有用信号是否存在？什么条件下采用哪种最优判决准则？如何根据信号中参数是否已知的情况设计相应的接收机？如何评价接收机的性能？存在信号的情况下如何估计其中包含的参数？如何评价参数估计的性能？这些理论如何应用于工程实践？.......要想知道答案，就跟我们一起开启信号检测与估值的课程学习吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207128808",
+  "instructors": [
+    {
+      "name": "梁红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 595,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

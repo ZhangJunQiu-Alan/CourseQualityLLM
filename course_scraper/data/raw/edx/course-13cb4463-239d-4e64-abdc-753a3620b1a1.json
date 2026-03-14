@@ -1,0 +1,40 @@
+{
+  "course_id": "course-13cb4463-239d-4e64-abdc-753a3620b1a1",
+  "platform": "edx",
+  "title": "Biotech — From Science to Business",
+  "description": "New scientific discoveries in the biotechnology field can potentially change the world we live in. To do so, they need to be made available to the world. This course will help you build the knowledge and confidence to evaluate a biotech innovation's potential and develop a strategy for success.   \n The course illustrates the challenges of biotech entrepreneurship and what it means to start a biotech venture. It will teach you the methods needed to evaluate the potential of biotech innovations and how to define a suitable business model. You will learn how to develop a strategy to pursue with your venture and which first steps to take when starting your business endeavor. \n This course is part of the professional certificate program “Realizing Biotech Innovations — A Business Guide for Scientists,” which consists of three courses designed to bring your biotech innovation to the market. The course is brought to you by the Technical University of Munich — one of Europe’s most outstanding universities in research and innovation. It offers academic expertise on biotech entrepreneurship, expanded by the hands-on expertise of those working in the field, such as industry experts and entrepreneurs who share their advice and experiences.",
+  "learning_goals": [
+    "Innovation",
+    "Patents",
+    "Biotechnology",
+    "Research"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "svenja-jarchow",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "stefanie-weniger",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Biotechnology, Research, Innovation, Business Modeling, Market Analysis, Strategy"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 333,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

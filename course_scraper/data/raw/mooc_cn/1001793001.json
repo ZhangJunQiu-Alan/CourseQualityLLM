@@ -1,0 +1,31 @@
+{
+  "course_id": "1001793001",
+  "platform": "mooc_cn",
+  "title": "数控技术",
+  "description": "数控技术的应用不但给传统制造业带来了革命性的变化，使制造业成为工业化的象征，而且随着数控技术的不断发展和应用领域的扩大，他对国计民生的一些重要行业（IT、汽车、轻工、医疗等）的发展起着越来越重要的作用，因为这些行业所需装备的数字化已是现代发展的大趋势。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001793001",
+  "instructors": [
+    {
+      "name": "王可;孟五洲;郭鑫蕾;翟雁;苗晓鹏;王晓晶;段立霞;王立新",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "安阳工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13698,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

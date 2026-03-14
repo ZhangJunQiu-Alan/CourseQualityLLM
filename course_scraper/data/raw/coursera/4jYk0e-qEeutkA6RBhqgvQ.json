@@ -1,0 +1,26 @@
+{
+  "course_id": "4jYk0e-qEeutkA6RBhqgvQ",
+  "platform": "coursera",
+  "title": "Build ATM User Interface using Routing in Angular",
+  "slug": "build-atm-user-interface-routing-angular",
+  "description": "In this beginner level project, you will implement and build ATM user interface using routing, understand Parent and Child Routing and understand WildCard Routes in Angular which will be helpful in applying routing and navigating pages in modern web layouts. The pre-requisite for this guided project is have background in HTML,CSS, JavaScript/TypeScript and basics on building blocks of Angular Applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-atm-user-interface-routing-angular",
+  "instructors": [
+    {
+      "name": "Chaitra Deshpande",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1458217165",
+  "platform": "mooc_cn",
+  "title": "Human Anatomy",
+  "description": "The course systematically explains the normal morphological structure of  the human body in order to lay a foundation for understanding human morphology for trainees who are engaging in medical  careers, or for those who are interested in exploring the mysteries of  human body.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458217165",
+  "instructors": [
+    {
+      "name": "Jie LU",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "China Medical University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 209,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

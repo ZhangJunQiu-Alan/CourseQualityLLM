@@ -1,0 +1,51 @@
+{
+  "course_id": "course-32368d50-bf31-4696-98f8-35626e988116",
+  "platform": "edx",
+  "title": "Pre-University Physics",
+  "description": "Physics is the foundation of many important science and engineering disciplines. Understanding its basics is fundamental for advanced studies. In this course, you will have the chance to review the fundamentals either for your own interest, or to ensure you have a smooth start in the first year of your Bachelor’s degree. \n The course aims to close the readiness gap between high school and university. It was specifically developed for potential future students: it covers physics topics that are a prerequisite for many engineering programs, but will also show you how these topics are applied in the various follow-up studies (For example in Applied Physics, Aerospace Engineering, Mechanical Engineering or Electrical Engineering). The course not only covers the content needed for further study but also introduces the different ways in which physics is presented at university level to ensure an easy entry to a new degree program. \n This course is intended for: \n \n Prospective engineering students who want to refresh their physics knowledge before starting university \n High school students who would like an additional challenge in physics not offered by their school \n Engineering students already enrolled in university who realize that they have a gap in their physics knowledge \n Other people who are interested in university level physics",
+  "learning_goals": [
+    "Applied Physics",
+    "Electrical Engineering",
+    "Physics",
+    "Aerospace Engineering",
+    "Mechanical Engineering"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "sander-otte",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jeroen-kalkman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "liedewij-laan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "timon-idema",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3157,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

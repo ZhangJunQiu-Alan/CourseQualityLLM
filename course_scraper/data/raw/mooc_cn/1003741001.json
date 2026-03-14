@@ -1,0 +1,31 @@
+{
+  "course_id": "1003741001",
+  "platform": "mooc_cn",
+  "title": "传热学",
+  "description": "本课程是国家精品课和精品资源共享课的延续，内容以基本知识点为主，同时提供了丰富的素材以提高学生的综合分析能力。本课程可作为学生课前预习课后复习知识点的手段；便于实施混合式教学，可安排一定的内容线上自学，以利于课堂上进行针对性讨论；每周都有小测验，便于学生检测知识点掌握情况。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003741001",
+  "instructors": [
+    {
+      "name": "李增耀;赵存陆;马  挺;杨  剑;方文振;陈磊;张剑飞;唐桂华;褚雯霄;陈黎;王秋旺;冀文涛;曾敏;屈治国;陶文铨;吴一宁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 71243,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

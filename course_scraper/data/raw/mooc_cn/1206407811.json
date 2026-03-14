@@ -1,0 +1,31 @@
+{
+  "course_id": "1206407811",
+  "platform": "mooc_cn",
+  "title": "离散数学",
+  "description": "“离散数学”课程是北京科技大学精品课程，包括数理逻辑、集合论、代数结构、图论及课程综合实验。基于认知结构教学论，采用本教学团队编写的国家级规划教材。适用于计算机、信息安全、物联网、通信工程、人工智能、信息管理等专业的本科生和研究生学习，也适用于其他各类人员学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206407811",
+  "instructors": [
+    {
+      "name": "罗熊;王卫苹;刘宏岚;殷绪成;田澍;洪源;张爽;谢永红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56569,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

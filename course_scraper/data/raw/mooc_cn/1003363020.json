@@ -1,0 +1,31 @@
+{
+  "course_id": "1003363020",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "人类通过语言、文字、图像等信息理解和描述周围事物，并在此基础上实现与其它个体的交流与沟通。对于机器而言，交流与沟通如何进行？这离不开一系列信号与系统分析。湖南大学课程教学团队将带您走入这个魔幻的世界，领略信号与系统带给您的独特魅力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003363020",
+  "instructors": [
+    {
+      "name": "李树涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 32353,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

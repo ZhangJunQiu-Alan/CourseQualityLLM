@@ -1,0 +1,26 @@
+{
+  "course_id": "Bg_LOEl-Ee-mywr_6bZvLw",
+  "platform": "coursera",
+  "title": "Vektorsuche und Einbettungen",
+  "slug": "vector-search-and-embeddings-deutsch",
+  "description": "In diesem Kurs wird die Vertex AI-Vektorsuche vorgestellt und beschrieben, wie sie beim Erstellen einer Suchanwendung mit Large Language Model-APIs (LLM) für Einbettungen genutzt werden kann. Der Kurs besteht aus konzeptionellen Lektionen über Vektorsuche und Texteinbettungen, interaktiven Demos zum Erstellen einer Vektorsuche in Vertex AI und einem praxisorientierten Lab.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "de",
+  "url": "https://www.coursera.org/learn/vector-search-and-embeddings-deutsch",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

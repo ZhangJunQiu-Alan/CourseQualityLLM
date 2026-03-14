@@ -1,0 +1,31 @@
+{
+  "course_id": "1003733003",
+  "platform": "mooc_cn",
+  "title": "物理化学",
+  "description": "物理化学是化学的灵魂，在这里，看似抽象的概念将富有哲学的内涵，老师们通过典型的案例来诠释难懂的原理、枯燥的公式，你可通过不同角度更有效地接受老师对你的讲解和启发，快捷而系统地学习物理化学内容，奠定解决与专业有关问题的能力，开阔科学视野，形成科学的思维习惯。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003733003",
+  "instructors": [
+    {
+      "name": "许娟;刘科;李天保;马海龙;马亚团;杨亚提;李鹤;赵海双;闫嘉航",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35804,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

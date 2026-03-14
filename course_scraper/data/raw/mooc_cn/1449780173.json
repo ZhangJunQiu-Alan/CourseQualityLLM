@@ -1,0 +1,31 @@
+{
+  "course_id": "1449780173",
+  "platform": "mooc_cn",
+  "title": "流体机械原理",
+  "description": "透平式压缩机等流体机械是流程工业、能源利用系统和动力推进系统等的核心装备，与国计民生、国家安全紧密关联。《流体机械原理》课程是能源及动力工程专业的专业核心课程。课程内容涵盖了离心式和轴流式压缩机气动热力学基本工作原理及其三维流动理论，目标是帮助学生掌握透平压缩机的气动工作原理专业知识，培养学生分析和解决工程实际中离心式/轴流式压缩机气动问题能力，是从事透平压缩机设计、制造、运行、研发和管理等工作的高级人才的必修课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449780173",
+  "instructors": [
+    {
+      "name": "王志恒;秦国良",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3077,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

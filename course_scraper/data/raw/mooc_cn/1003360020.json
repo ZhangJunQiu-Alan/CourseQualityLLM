@@ -1,0 +1,31 @@
+{
+  "course_id": "1003360020",
+  "platform": "mooc_cn",
+  "title": "供电技术",
+  "description": "《供电技术》是电气工程及其自动化专业一门非常重要的专业核心课程，要求学生具有电机学、电气工程基础、电路、数电、模电等方面的理论知识，同时又为后续的电力系统分析、继电保护、创新活动、毕业设计以及今后工作提供专业技术基础知识、基本分析方法和基本实验技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003360020",
+  "instructors": [
+    {
+      "name": "李正斌;范秋凤;杜毅;卢超;鲁西坤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "安阳工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9645,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "zfwFaOQQEe-ccQr_xjRSew",
+  "platform": "coursera",
+  "title": "DevOps and AI on AWS: CI/CD for Generative AI Applications",
+  "slug": "cicd-generative-ai-apps",
+  "description": "In this course, we focus on the DevOps practices of building, deploying, and managing applications enhanced with generative AI features. You’ll learn how to implement Continuous Integration and Continuous Deployment (CI/CD) pipelines, explore strategies for reliable automation, and improve monitoring and observability for your applications. The course emphasizes practical skills to streamline releases, reduce potential errors, and maintain high-quality, scalable systems in dynamic cloud environments.  \n\nWith dedicated modules for Automatic deployments, Infrastructure as Code, Monitoring, and Operations, you’ll improve your understanding and ability to execute as a Developer or DevOps Engineer. Get comfortable with AWS services by learning how to use Amazon CodeDeploy in a CI/CD pipeline and using the AWS Cloud Development Kit. You’ll then use AWS Services to help with observability and monitoring (Amazon CloudWatch Anomaly detection and AWS X-Ray insights) - both services with AI features to help with more effective monitoring and alarms. By the end of this course, you’ll have built a robust application that supports continuous releases, improves time to market for new features and fixes, and reduce potential for human error.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cicd-generative-ai-apps",
+  "instructors": [
+    {
+      "name": "Russell Sayers",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Rafael Lopes",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1461021173",
+  "platform": "mooc_cn",
+  "title": "软件测试基础",
+  "description": "如果您懂点编程知识，想要探寻软件中的Bug，还犹豫什么，赶紧加入！课程会让您知晓软件测试基本概念和软件质量模型等基础知识，熟练掌握测试用例的设计方法，能运用流行的软件测试工具开展测试，熟悉软件测试的流程，为从事软件测试工程师岗位奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461021173",
+  "instructors": [
+    {
+      "name": "吴伶琳;王明珠;庾佳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州健雄职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9321,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

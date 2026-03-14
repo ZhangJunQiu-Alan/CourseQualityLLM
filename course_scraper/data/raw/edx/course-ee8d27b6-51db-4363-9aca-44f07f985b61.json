@@ -1,0 +1,38 @@
+{
+  "course_id": "course-ee8d27b6-51db-4363-9aca-44f07f985b61",
+  "platform": "edx",
+  "title": "Applied Interior Design",
+  "description": "This career-focused online course based on   LaSalle College Vancouver's acclaimed Interior Design Diploma   will introduce you to  drawing fundamentals.   \n Upon successful completion of the course, you will acquire the skills necessary to create sketches and perspective drawings, effectively visualizing your interior design concepts for client presentations.   \n Furthermore, you will be proficient in generating technical drawings utilizing Computer Assisted Drawing (CAD) software, ensuring precision and accuracy in your designs.   \n This course is suitable for anyone looking to build their skills or switch towards a rewarding Interior Design career.",
+  "learning_goals": [
+    "Technical Drawing",
+    "Computer-Aided Design"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "eric-simard-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "joan-abou-haidar",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LCI Education"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 390,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

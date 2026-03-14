@@ -1,0 +1,31 @@
+{
+  "course_id": "1469626172",
+  "platform": "mooc_cn",
+  "title": "PLC应用技术",
+  "description": "《PLC应用技术》作为高职院校学生和企业技术人员的PLC入门课程，以西门子S7-200 SMART和S7-1200 PLC为主体内容，结合大量的实践案例展开，聚焦于PLC的基本指令编程、功能指令应用，PLC的运动控制及网络通信技术等。本课程设计和搭建的实践项目贴近企业生产实际，如电动机的PLC控制、彩灯的PLC控制、气动冲压机的PLC控制、物料分拣系统的PLC控制、水塔水位的PLC控制、PLC的以太网通信等。课程网站上传的数字化资源丰富，微课视频108个，仿真动画25个，发布文档资料100个，富文本资源80个，随堂测试和单元测验104个，主客观题目300多道。在线学习资源中视频、动画、虚拟仿真类资源占比大于50%。本课程所用教材：《PLC应用技术》（第二版），ISBN：9787113305307，主编：刘媛媛，武彩霞，出版社：中国铁道出版社有限公司，2023.10, 获评江苏省”十四五“职业教育规划教材。课程对接的职业类资格证书：可编程序控制系统设计师、维修电工、德商会AHK证书等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1469626172",
+  "instructors": [
+    {
+      "name": "杨进民;刘媛媛;沈小燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡科技职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4956,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

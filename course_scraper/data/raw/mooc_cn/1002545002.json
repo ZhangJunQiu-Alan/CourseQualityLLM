@@ -1,0 +1,31 @@
+{
+  "course_id": "1002545002",
+  "platform": "mooc_cn",
+  "title": "汽车发动机构造",
+  "description": "欢迎参加汽车发动机构造课程的学习！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002545002",
+  "instructors": [
+    {
+      "name": "高文志",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "天津大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 47114,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

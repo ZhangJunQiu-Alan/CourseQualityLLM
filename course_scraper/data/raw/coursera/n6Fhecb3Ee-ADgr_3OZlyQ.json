@@ -1,0 +1,26 @@
+{
+  "course_id": "n6Fhecb3Ee-ADgr_3OZlyQ",
+  "platform": "coursera",
+  "title": "Server Side Rendering with Next.js: Update a News Website",
+  "slug": "server-side-rendering-nextjs-update-news-website",
+  "description": "Do you know that according to surveys, Next.Js is among the top five most popular web development platforms for companies of all sizes?\n\nIn this 1.5 hour project-based course, you will learn how to implement dynamic content generation and server side rendering with Next.js. We will do this by updating a news website. We will first build the functionalities to generate content automatically with static site generation and then implement server side rendering to completely automate the process of publishing new content.\n\nBuilt on React and Node.js, Next.js offers improved loading performance, built-in development server, and support for React components, allowing projects of all sizes to be developed and deployed quickly.\n\nThis course is aimed at learners who already have the following skills: HTML, JavaScript: async functions, arrays, import, JavaScript expressions, React/Next.js: components, embedding JavaScript expressions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/server-side-rendering-nextjs-update-news-website",
+  "instructors": [
+    {
+      "name": "Harrison Kong",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

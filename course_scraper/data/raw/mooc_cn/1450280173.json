@@ -1,0 +1,31 @@
+{
+  "course_id": "1450280173",
+  "platform": "mooc_cn",
+  "title": "CPS技术与创客实践",
+  "description": "物联网应用处处在，自己动手最有爱。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450280173",
+  "instructors": [
+    {
+      "name": "冯丽;高伟;朱轶;陈向益",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4973,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

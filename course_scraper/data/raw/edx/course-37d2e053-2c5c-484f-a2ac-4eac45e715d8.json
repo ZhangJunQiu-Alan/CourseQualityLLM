@@ -1,0 +1,36 @@
+{
+  "course_id": "course-37d2e053-2c5c-484f-a2ac-4eac45e715d8",
+  "platform": "edx",
+  "title": "Comprendre la respiration",
+  "description": "Pourquoi respirons-nous ? A quoi servent nos poumons ? Quel est le lien entre l’oxygène et la vie ? Ces questions ouvrent un vaste champ de découvertes et de curiosités pour mieux comprendre la respiration. Ce cours s’adresse à toute personne qui souhaite apprivoiser, s’approprier ou approfondir le fonctionnement de la respiration et des poumons, autrement dit la physiologie respiratoire humaine.  \n Plongés au cœur de l’université et de la pratique hospitalière, durant sept semaines, vous côtoierez professeurs, professionnels de la santé, internes et étudiants de médecine. Vous y apprendrez des notions de niveau universitaire qui ont été sélectionnées et adaptées afin que toute personne intéressée puisse les comprendre et y donner du sens. Ainsi, nous aborderons des thèmes proches du monde qui vous entoure : la respiration lors d’un effort physique, en altitude, le rôle des polluants atmosphériques, l’asthme….  \n A chaque leçon, un expert abordera des domaines concrets et pratiques : comment apprécier l’oxygénation d’un patient, pourquoi lui administrer de l’oxygène, que signifie hyperventiler….  \n Ce cours vous fera entrer en profondeur dans un monde où l’atmosphère est faite d’anatomie humaine, de physique des volumes et des pressions, de gaz et de sang, d’oxygène et de CO2, de poumons et de tissus, de tabagisme et de bronchite chronique.  \n Au terme de ce cours, vous serez capablesde  \n \n expliquer et décrire les principes d’oxygénation, de ventilation, de transport et de consommation d’oxygène, de diffusion de gaz entre l’air et le sang… par des schémas et par des calculs utilisant quelques formules fondamentales, \n évaluer la quantité et la qualité de l’oxygénation d’un patient, \n distinguer les situations normales de celles dites pathologiques. \n \n Bref, vous aurez, pour votre plaisir et votre motivation, approfondi votre culture générale en acquérant des connaissances élevées.",
+  "learning_goals": [
+    "Oxygen Transport",
+    "Physiology",
+    "Physics",
+    "Respiration",
+    "Anatomy"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 3-5 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "franck-verschuren",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Université catholique de Louvain"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 293,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

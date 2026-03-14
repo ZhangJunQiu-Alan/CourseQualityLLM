@@ -1,0 +1,31 @@
+{
+  "course_id": "1206682831",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术基础",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206682831",
+  "instructors": [
+    {
+      "name": "赵洧;谢秀秀;李艳;王志功;孔繁俊;堵国樑;周泉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "三江学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3855,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

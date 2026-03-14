@@ -1,0 +1,31 @@
+{
+  "course_id": "1206687827",
+  "platform": "mooc_cn",
+  "title": "儿科学",
+  "description": "《儿科学》MOOC由富有教学经验的儿科教授倾情奉献，其中包括母得志、刘瀚旻、万朝敏、华益民等全国知名专家齐聚一堂，他们通过精彩纷呈的微视频和丰富的课后学习资料来诠释《儿科学》课程，给大家揭示儿童生长发育与疾病发生、发展及防治的奥秘，一起来参加学习吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206687827",
+  "instructors": [
+    {
+      "name": "母得志",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26817,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

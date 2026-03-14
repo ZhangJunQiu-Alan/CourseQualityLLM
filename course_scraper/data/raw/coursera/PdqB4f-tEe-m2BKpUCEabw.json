@@ -1,0 +1,26 @@
+{
+  "course_id": "PdqB4f-tEe-m2BKpUCEabw",
+  "platform": "coursera",
+  "title": "Security Architecture & Operations",
+  "slug": "packt-security-architecture-operations-mxqe4",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis comprehensive course equips you with the knowledge and skills necessary to design, implement, and manage effective security architecture and operations within modern enterprises. You will gain an in-depth understanding of critical security concepts, from cloud-related considerations to network infrastructure and data protection techniques. By the end of the course, you'll be able to enhance an organization's security posture through intelligent design, planning, and operational efficiency.\n\nThe course begins with an exploration of various architectural models, including cloud, network infrastructure, IoT, and virtualization. You’ll study the security implications of each, understanding how to implement security measures in each architecture. As you progress, you'll dive into core topics such as selecting effective security controls, data protection, and network appliance configuration. You'll learn about cutting-edge techniques, including firewalls, secure communication, and advanced backup technologies for resilience and continuity of operations.\n\nThe next section focuses on security operations, emphasizing real-world implementation of security measures across an organization. You’ll explore identity and access management (IAM), wireless security, endpoint detection, password management, and more. Additionally, you’ll gain insights into the incident response process, the importance of monitoring, and strategies for vulnerability response. Testing, digital forensics, and security baselines will also be covered to help you understand how to respond to, mitigate, and report security threats effectively.\n\nThis course is perfect for security professionals, IT specialists, and anyone looking to deepen their understanding of security architecture and operations. No prior advanced security knowledge is required, though familiarity with basic IT concepts is recommended. With a mix of theory and practical skills, this course is ideal for learners aiming to advance in the cybersecurity field or take on security leadership roles.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-security-architecture-operations-mxqe4",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

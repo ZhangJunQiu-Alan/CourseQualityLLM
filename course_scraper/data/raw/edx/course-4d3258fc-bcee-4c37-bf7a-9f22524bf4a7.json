@@ -1,0 +1,41 @@
+{
+  "course_id": "course-4d3258fc-bcee-4c37-bf7a-9f22524bf4a7",
+  "platform": "edx",
+  "title": "Human-Computer Interaction I: Fundamentals & Design Principles",
+  "description": "This course takes you through the first eight lessons of CS6750: Human-Computer Interaction as taught in the Georgia Tech Online Master of Science in Computer Science program.  \n In this course, you’ll take the first steps toward being a solid HCI practitioner and researcher. You’ll learn the fundamentals of how HCI relates to fields like user experience design, user interface design, human factors engineering, and psychology. You’ll also learn how human-computer interaction has influence across application domains like healthcare and education; technology development like virtual and augmented reality; and broader ideas like context-sensitive computing and information visualization.  \n You’ll then dive into the fundamentals of human-computer interaction. You’ll learn three views of the user’s role in interface design: the behaviorist ‘processor’ view, the cognitivist ‘predictor’ view, and the situationist ‘participant’ view. You’ll discover how these different views of the user’s role affect the scope we use to evaluate interaction. These perspectives will be crucial as you move forward in designing interfaces to ensure you’re considering what goes on inside the user’s head, as well as in the environment around them.  \n You’ll then learn the gulfs of execution and evaluation, which determine how easily the user can accomplish their goals in a system and how well they can understand the results of their actions. All of user interface design can be seen as taking steps to bridge these gulfs. You’ll also investigate the notion of direct manipulation, which shortens the distance between the user and the objects they are manipulating in the interface. With these tools, you’ll be well-equipped to start designing effective interfaces.  \n You’ll then take a deeper dive into what humans are even capable of accomplishing. You’ll learn the limitations of human sensing and memory and how we must be aware of the cognitive load we introduce on the user while using our interfaces. Cognitive load can have an enormous impact on a user’s satisfaction with an interface, and must be kept in mind as you begin your career as a designer.  \n You’ll finally conclude with an overview of the major design principles in human-computer interaction. Curated from the work of Don Norman, Jakob Nielsen, Ronald Mace, Larry Constantine, and Lucy Lockwood, these design principles cover revolutionary ideas in the design of interfaces: discoverability, affordances, perceptibility, constraints, error tolerance, and more. These principles are crucial whether you move forward as a designer, an evaluator, a front-end engineer, or any other role in technology design.  \n By the end of the course, you’ll have an understanding of where HCI sits in the broader field, a grasp of the goals of HCI, and a foundation in core principles that inform interface design.",
+  "learning_goals": [
+    "Computer Science",
+    "User Interface Design",
+    "User Experience Design (UX)",
+    "Human Factors Engineering",
+    "Interface Design",
+    "Psychology",
+    "Augmented Reality",
+    "Cognitive Load Theory",
+    "Information Visualization",
+    "Design Elements And Principles"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-joyner",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 620,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

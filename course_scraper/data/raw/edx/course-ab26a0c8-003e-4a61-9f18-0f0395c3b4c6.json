@@ -1,0 +1,40 @@
+{
+  "course_id": "course-ab26a0c8-003e-4a61-9f18-0f0395c3b4c6",
+  "platform": "edx",
+  "title": "Introduction to Connected Strategy",
+  "description": "In this course, you’ll learn how technology has enabled firms to fundamentally change how they connectwith their customers. Professors Christian Terwiesch and Nicolaj Siggelkow of the Wharton School havedesigned this course to help you explore the impact of connected strategies and business opportunitiesassociated with those strategies. Through study and analysis of both the innovation framework andvalue proposition, you’ll learn how Connected Customer Experience and the Connected Delivery Modelscan be utilized in a myriad of industry and business models. You’ll also explore different types ofconnected customers/producers and examples of connected strategy and evaluate existing technologiesthat can inform the design of connected relationships. By the end of this course, you’ll be able toidentify different types of connected strategies and opportunities in a variety of business models so youcan employ best practices and achieve success within your organization.",
+  "learning_goals": [
+    "Business Modeling",
+    "Customer Service",
+    "Customer Experience",
+    "Innovation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "nicolaj-siggelkow",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "christian-terwiesch",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Wharton School of the University of Pennsylvania"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 356,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

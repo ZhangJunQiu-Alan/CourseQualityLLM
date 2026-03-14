@@ -1,0 +1,31 @@
+{
+  "course_id": "wiiGzRWoEfCySg5RL32ELQ",
+  "platform": "coursera",
+  "title": "Blockchains and Cryptocurrencies Fundamentals",
+  "slug": "blockchains-and-cryptocurrencies-fundamentals",
+  "description": "This course offers a comprehensive introduction to blockchain technology and cryptocurrencies, starting with foundational concepts and the evolution of money and payment systems. Students will explore how blockchain networks function, including block validation, cryptographic hashing, and consensus mechanisms such as Proof of Work and Proof of Stake. The course delves into Ethereum's architecture, smart contracts, gas fees, and recent protocol upgrades. Learners will also gain hands-on insights into decentralized applications (DApps), token standards (ERC-20, NFTs), and use cases in gaming and decentralized finance (DeFi). Finally, the course examines real-world business applications of blockchain, highlighting its potential to transform industries through decentralization, transparency, and automation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/blockchains-and-cryptocurrencies-fundamentals",
+  "instructors": [
+    {
+      "name": "Ali Amrollahi  ",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Sean Foley",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Macquarie University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

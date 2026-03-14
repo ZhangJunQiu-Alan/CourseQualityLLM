@@ -1,0 +1,31 @@
+{
+  "course_id": "1205775802",
+  "platform": "mooc_cn",
+  "title": "通信原理",
+  "description": "在当今高度信息化的时代，信息和通信已成为现代社会的“命脉”。 本课程将为你揭开通信系统和通信技术的神秘面纱，让你明确信息究竟是如何有效而又可靠地传输。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205775802",
+  "instructors": [
+    {
+      "name": "吉利萍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28777,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

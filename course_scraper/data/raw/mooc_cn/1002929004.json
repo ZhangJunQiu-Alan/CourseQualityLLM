@@ -1,0 +1,31 @@
+{
+  "course_id": "1002929004",
+  "platform": "mooc_cn",
+  "title": "课堂教学技能",
+  "description": "《课堂教学技能》是全国高等师范院校生物科学专业学生必修的教师教育类课程。该课程要求学生掌握教学技能的含义与类型、构成要素与基本要求，明确教学技能的训练方法，能够使用评价量表进行自评和他评，旨在使师范生及将来致力于从事教育事业的非师范生能够熟练地运用各种教学技能，促进其专业化成长。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002929004",
+  "instructors": [
+    {
+      "name": "楼柏丹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 61989,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

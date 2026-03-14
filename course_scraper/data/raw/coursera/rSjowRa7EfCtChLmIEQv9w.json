@@ -1,0 +1,26 @@
+{
+  "course_id": "rSjowRa7EfCtChLmIEQv9w",
+  "platform": "coursera",
+  "title": "Google Cloud에서 생성형 AI를 사용한 웹사이트 현대화",
+  "slug": "website-modernization-with-generative-ai-on-google-cloud-ko",
+  "description": "생성형 AI로 사용자에게 더 나은 검색 경험을 제공하여 웹사이트의 탐색 경험을 향상합니다. 이 과정에서는 사용자가 웹사이트의 콘텐츠를 발견할 수 있도록 Vertex AI Search를 통해 생성형 검색 경험을 웹사이트 사용자에게 제공하는 방법을 알아봅니다. 웹사이트 편집자는 생성형 AI를 사용하여 제안을 통해 콘텐츠를 신속하고 효율적으로 번역하고 개선하는 방법을 배울 수 있습니다.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ko",
+  "url": "https://www.coursera.org/learn/website-modernization-with-generative-ai-on-google-cloud-ko",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

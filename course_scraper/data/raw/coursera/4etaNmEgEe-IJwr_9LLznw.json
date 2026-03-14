@@ -1,0 +1,26 @@
+{
+  "course_id": "4etaNmEgEe-IJwr_9LLznw",
+  "platform": "coursera",
+  "title": "Boost Your Productivity with GitHub Copilot",
+  "slug": "introduction-to-github-copilot",
+  "description": "This module is designed to equip you with the essential skills to set up and optimize your environment for using GitHub Copilot effectively. You will gain practical knowledge on installing and configuring Visual Studio Code (VS Code) across different operating systems, including Mac, PC, and Linux. This course covers the basics of generating code suggestions with GitHub Copilot, from setting up the extension to exploring its chat capabilities. Additionally, you will refine your prompt crafting skills, applying techniques like zero-shot, one-shot, and few-shot learning to enhance the quality of Copilot’s suggestions. The course also delves into advanced features and best practices, guiding you through creating practical projects, such as a Todo application in Python and customizing Copilot to fit your development needs. Through hands-on activities, quizzes, and comprehensive lessons, you will be well-prepared to harness the full potential of GitHub Copilot in your software development workflows.\n\nRequired Course Materials: A Copilot license is required to complete this course. If you don’t have a Microsoft 365 Personal or Family license, you can start a free 30-day trial using the link provided in the course.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-github-copilot",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

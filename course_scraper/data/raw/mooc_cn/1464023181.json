@@ -1,0 +1,31 @@
+{
+  "course_id": "1464023181",
+  "platform": "mooc_cn",
+  "title": "传热学",
+  "description": "本课程是黑龙江省一流本科课程，内容以基本知识点为主，同时提供了动力类专业的传热学工程实际问题等丰富的素材以提高学生的综合分析能力。本课程可作为学生课前预习、课后复习的重要途径和方式；并有相应的习题和考试便于学生自行检测知识点重点难点的掌握理解情况。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464023181",
+  "instructors": [
+    {
+      "name": "孙宝芝",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7938,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

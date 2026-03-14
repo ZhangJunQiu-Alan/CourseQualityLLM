@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755352",
+  "platform": "mooc_cn",
+  "title": "中医护理学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755352",
+  "instructors": [
+    {
+      "name": "王秋琴;严姝霞;徒文静;杨敏;李玮彤;叶然;徐桂华;陈华;姜荣荣;徐秋月;黄丽娜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 112402,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

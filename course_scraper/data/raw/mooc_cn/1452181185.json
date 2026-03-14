@@ -1,0 +1,31 @@
+{
+  "course_id": "1452181185",
+  "platform": "mooc_cn",
+  "title": "生物医学传感器与测量",
+  "description": "生物医学传感与测量是获取人体各种信息的关键技术，本课程是生物医学工程专业的一门专业基础课，可以面向生物医学类、临床医学类、生物工程类以及控制类等相关专业的本科生，也可以面向广大生物医学传感与检测的爱好者。本课程讲述生物医学传感器的工作原理、敏感技术和检测技术。通过本课程学习，专业从业人员可以为发展生物医学检测技术和开发生物医学检测仪器奠定基础，同时，也为广大生物医学爱好者提供了专业的学习机会，对于提高学习者的科学素养具有重要意义。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1452181185",
+  "instructors": [
+    {
+      "name": "刘剑",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5104,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

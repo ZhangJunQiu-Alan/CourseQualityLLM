@@ -1,0 +1,37 @@
+{
+  "course_id": "course-dfe7307e-319c-43b4-8926-57800e71c643",
+  "platform": "edx",
+  "title": "AI Applications and Prompt Engineering",
+  "description": "Are you looking to expand your AI application knowledge and create your own application? Enroll in our Intro to AI Applications and Prompt Engineering course to see how you can make AI work for you. \n By the end of the course, you will be able to: \n \n Articulate key benefits and limitations of generative AI. \n Understand how to use AI applications and prompt engineering to drive results. \n Create an AI-powered API application. \n \n To enroll in this course and utilize ChatGPT's API, which is a required part of the course, students must have a credit card to access OpenAI's ChatGPT API. Your credit card will be charged whatever usage amounts you incur by OpenAI to access the ChatGPT API, and this dollar charge is separate from and in addition to the fee paid to enroll in the verified course track.",
+  "learning_goals": [
+    "Application Programming Interface (API)",
+    "Applications Of Artificial Intelligence",
+    "Emerging Technologies",
+    "JavaScript (Programming Language)",
+    "Node.js",
+    "Artificial Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "edx-boot-camps-5",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "edX"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3148,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

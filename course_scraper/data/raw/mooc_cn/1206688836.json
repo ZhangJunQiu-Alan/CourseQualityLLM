@@ -1,0 +1,31 @@
+{
+  "course_id": "1206688836",
+  "platform": "mooc_cn",
+  "title": "通信原理",
+  "description": "《通信原理》是高等工科院校为通信、电子信息工程学生开设的一门学科必修的核心专业基础课程。既是《高频电子电路》、《信号与系统》、《随机信号分析》、《信息论与编码》等课程在通信系统中的综合运用，也是后续《移动通信》、《现代通信网》、《光纤通信》、《微波与卫星通信》等专业课程的专业基础内容，在相关专业课程体系中起着“承前启后”的作用，扮演着“桥梁”的角色，同时该课程也是诸多院校相关专业硕士研究生入学考试课程之一。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206688836",
+  "instructors": [
+    {
+      "name": "杨蕾;魏苗苗;徐庆伟;刘琴;陈旭;蔡文静;李梦龙;宋晓炜;常怡萍;李渊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中原工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11022,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

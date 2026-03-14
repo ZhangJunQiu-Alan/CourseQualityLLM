@@ -1,0 +1,35 @@
+{
+  "course_id": "course-0a4df8e6-0eff-40ea-b139-7b3c88ddfe5f",
+  "platform": "edx",
+  "title": "AI skills for Engineers: Supervised Machine Learning",
+  "description": "Machine learning classification and regression techniques have potential uses in various engineering disciplines. These machine learning models allow you to make predictions for a category (classification) or for a number (regression) given sensor data, and can be used in, for example, predicting properties of objects (such as their weight or shape). \n Using hands-on and interactive exercises you will get insight into: \n  Machine learning  and its variants, such as supervised learning, semi-supervised learning, unsupervised learning and reinforcement learning. \n  Regression  techniques such as linear regression, K-nearest neighbor regression, how to deal with outliers and evaluation metrics such as the mean squared error (MSE) and mean absolute error (MAE). \n  Classification  techniques such as the histogram method, the nearest mean (or nearest medoid) method and the nearest neighbor classifier. We cover the classification setting and important concepts such as the Bayes classifier and the Bayes error, the optimal classifier in theory. \n  Training models  using (stochastic) gradient descent and its variants, we learn how to tune this optimizer, and how to use it to construct a logistic regression classification model. \n  Overfitting  means a classifier works well on a training set but not on unseen test data. We discuss how to build complex non-linear models, and we analyze how we can understand overfitting using the bias-variance decomposition and the curse of dimensionality. Finally, we discuss how to evaluate fairly and tune machine learning models and estimate how much data they need for an sufficient performance. \n  Regularization  methods can help to mitigate overfitting. We discuss two regularization techniques for estimating the linear regression coefficients: ridge regression and LASSO. The latter can also be used for variable selection. \n  Classifier evaluation  metrics such as the ROC curve and confusion matrix can give more insight into the performance of classifiers. We also discuss what constitutes a “good” accuracy; this is given by so-called dummy-classifiers which are naïve baselines. \n  Support Vector Machines (SVMs)  are more advanced classification models that can provide good performance even in high-dimensional spaces and with little data. We discuss their different variants such as the soft-margin SVM, the hard-margin SVM and the nonlinear kernel SVM. \n  Decision Trees  are simple models that can easily be understood by lay people. They are easy to use and visualize, and instead of a black box they can be easily understood as an interpretable white box model, making them suitable for various applications. \n The lectures feature a unique combination of videos mixed with hands-on interaction with machine learning algorithms to stimulate a deeper understanding. In the exercises you apply the algorithms in Python using scikit-learn and in the final project you will further deepen your understanding of the various concepts by building and tuning a machine learning pipeline from start to finish.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "tom-viering",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "hanne-kekkonen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 313,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

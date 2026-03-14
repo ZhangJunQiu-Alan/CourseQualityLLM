@@ -1,0 +1,31 @@
+{
+  "course_id": "1002686003",
+  "platform": "mooc_cn",
+  "title": "材料科学基础",
+  "description": "“材料科学基础”是本科材料类专业重要的学科基础课程之一，是连接基础课与专业课的桥梁。课程以无机非金属材料为基础，是材料科学与工程一级学科知识体系的一门重要学科基础课，主要阐述材料的组成与结构、制备与加工、性质、使用性能等材料科学与工程各要素之间相互关系及其制约规律。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002686003",
+  "instructors": [
+    {
+      "name": "雷丽文;丁瑶;张志英;黄赟;顾少轩;夏梦玲;王堃;张枫",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 71302,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

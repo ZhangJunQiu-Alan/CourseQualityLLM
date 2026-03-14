@@ -1,0 +1,58 @@
+{
+  "course_id": "course-ef2fc3ac-b0bc-4004-bd30-d610832d0cdd",
+  "platform": "edx",
+  "title": "Statistical Learning with R",
+  "description": "This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines; neural networks and deep learning; survival models; multiple testing. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical). \n This is not a math-heavy class, so we try and describe the methods without heavy reliance on formulas and complex mathematics. We focus on what we consider to be the important elements of modern data science. Computing is done in R. There are lectures devoted to R, giving tutorials from the ground up, and progressing with more detailed sessions that implement the techniques in each chapter. We also offer a separate version of the course called  Statistical Learning with Python  – the chapter lectures are the same, but the lab lectures and computing are done using Python. \n The lectures cover all the material in An Introduction to Statistical Learning, with Applications in R (second addition) by James, Witten, Hastie and Tibshirani (Springer, 2021). The pdf for this book is available for free on the  book website .",
+  "learning_goals": [
+    "Statistics",
+    "Random Forest Algorithm",
+    "Data Analysis",
+    "K-Means Clustering",
+    "Lecturing",
+    "Deep Learning",
+    "Statistical Learning Theory",
+    "Logistic Regression",
+    "R (Programming Language)",
+    "Data Science",
+    "Unsupervised Learning",
+    "Polynomial Regression",
+    "Linear Discriminant Analysis",
+    "Boosting",
+    "Supervised Learning",
+    "Statistical Modeling",
+    "Support Vector Machine",
+    "Bootstrap (Front-End Framework)",
+    "Python (Programming Language)",
+    "Artificial Neural Networks",
+    "Principal Component Analysis",
+    "Lasso (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "11 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "trevor-hastie",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "robert-tibshirani",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2071,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

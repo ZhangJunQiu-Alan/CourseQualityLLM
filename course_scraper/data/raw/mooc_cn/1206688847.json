@@ -1,0 +1,31 @@
+{
+  "course_id": "1206688847",
+  "platform": "mooc_cn",
+  "title": "经济数学—微积分（上）",
+  "description": "本课程适用于本科院校经济类、管理、会计类各专业学生及相关专业社会学习者学习。本课程内容包括：极限与连续，一元函数微积分，多元函数微积分，微分方程与差分方程，无穷级数等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206688847",
+  "instructors": [
+    {
+      "name": "余亚辉;魏巍;童新安;李振平;景元萍;孙玉梅;张璐丹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "洛阳理工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10073,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207109824",
+  "platform": "mooc_cn",
+  "title": "计算机系统结构",
+  "description": "华中科技大学系统结构学科是国家重点学科，本课程融入了系统结构国家重点学科多年的研究成果，采用问题导向， 培养学生完成问题发现、分析和解决、量化评估的闭环过程，引导学习者从系统层次加深对计算机系统相关问题的理解，提升研究生入学计算机系统结构备考能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207109824",
+  "instructors": [
+    {
+      "name": "冯丹;施展;周可;童薇;吴非;曹强;王芳;谢长生;陈俭喜;秦磊华;万胜刚;万继光",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35489,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

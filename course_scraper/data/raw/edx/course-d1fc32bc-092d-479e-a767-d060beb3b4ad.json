@@ -1,0 +1,45 @@
+{
+  "course_id": "course-d1fc32bc-092d-479e-a767-d060beb3b4ad",
+  "platform": "edx",
+  "title": "Linux Basics: The Command Line Interface",
+  "description": "This course will introduce you to Linux, a powerful operating system used by most professional developers!  \r\n Why add Linux to your C programming skills? Most people use Linux without knowing it! Whether you use a smartphone, search the web, or use an ATM, each time Linux is involved somewhere in the background. It is the most used operating system for embedded devices and high-performance servers. It is also the most common operating system used by developers to create software applications.  \r\n In this course, you will learn the history of Linux and how its open source community was able to create today’s most advanced operating system. You will navigate the file system, use fundamental Linux commands and master the Linux command line interface. These are essential skills for every developer.  \r\n You will also be able to produce software written in C using the industry-standard tools on Linux.  \r\n Within moments you will be coding hands-on in a new browser tool developed for this course, receiving instant feedback on your code. No need to install anything!  \r\n We are excited to introduce you to Linux and guide you along your path to becoming a skilled user of this powerful operating system!  \r\n At the end of this short course, you will reach the sixth milestone of the C Programming with Linux” Professional Certificate program, unlocking the door to a career in computer engineering.  \r\n This course has received financial support from the Patrick &amp; Lina Drahi Foundation.",
+  "learning_goals": [
+    "File Systems",
+    "Computer Engineering",
+    "Linux Commands",
+    "Linux",
+    "Operating Systems",
+    "Embedded Systems",
+    "Automated Teller Machine",
+    "Command-Line Interface",
+    "Smartphone Operation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "petra-bonfert-taylor",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "remi-sharrock",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dartmouth College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 343,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

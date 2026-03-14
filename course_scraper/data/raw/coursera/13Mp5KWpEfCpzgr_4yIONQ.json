@@ -1,0 +1,26 @@
+{
+  "course_id": "13Mp5KWpEfCpzgr_4yIONQ",
+  "platform": "coursera",
+  "title": "Safeguard LLM Outputs: Test and Evaluate",
+  "slug": "safeguard-llm-outputs-test-and-evaluate",
+  "description": "As AI models like Google's Gemini have shown, even the most advanced systems can have spectacular safety failures, leading to brand damage and a loss of user trust. \"Safeguard LLM Outputs: Test and Evaluate\" is an intermediate course for developers and ML engineers who need to move beyond functional testing and build truly trustworthy AI. This course teaches you the rigorous, adversarial testing methodologies that professional AI Red Teams use to secure high-stakes applications. \n\nYou will learn to translate abstract safety policies into concrete, automated behavioral tests using pytest, designing adversarial prompts to systematically probe for weaknesses. Then, you will master the practice of \"testing your tests\" by using mutation testing frameworks like mutmut to find and eliminate hidden gaps in your safety net. By the end of this course, you will be able to not only ensure your LLM behaves safely but also prove that the tests verifying that safety are themselves comprehensive and robust.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "Approximately 120 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/safeguard-llm-outputs-test-and-evaluate",
+  "instructors": [
+    {
+      "name": "LearningMate",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

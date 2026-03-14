@@ -1,0 +1,31 @@
+{
+  "course_id": "1471091169",
+  "platform": "mooc_cn",
+  "title": "可编程控制器应用技术",
+  "description": "1.课程优势校企联合，整合优势资源建立优秀课程开发和授课团队。课程教学资源丰富，提供教案、授课PPT、视频和程序代码，提供多个工程应用项目分析，并提供学习讨论和在线答疑服务。2.特色与创新融合S7-1200PLC的新技术、新标准，结合工程实践项目和技能大赛成果，精心设计课程知识点和技能点。注重课程思政，强调职业素养潜移默化。数字赋能教学评价，服务学生个性化发展。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471091169",
+  "instructors": [
+    {
+      "name": "奚茂龙;向晓汉;陆荣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 790,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

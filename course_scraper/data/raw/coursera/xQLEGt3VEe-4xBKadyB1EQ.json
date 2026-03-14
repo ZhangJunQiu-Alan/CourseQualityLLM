@@ -1,0 +1,26 @@
+{
+  "course_id": "xQLEGt3VEe-4xBKadyB1EQ",
+  "platform": "coursera",
+  "title": "PyTorch: Advanced Architectures and Deployment",
+  "slug": "pytorch-advanced-architectures-and-deployment",
+  "description": "Advance your PyTorch skills by building sophisticated deep learning models and preparing them for deployment. You’ll design custom architectures that go beyond Sequential models, exploring Siamese Networks, ResNet, and DenseNet to understand how modern systems handle complex data. \n\nYou’ll build Transformer architectures and explore how attention mechanisms power modern language models. You’ll also learn how diffusion models generate realistic images by reversing noise. Along the way, you’ll visualize model behavior using saliency maps and class activation maps, and prepare models for deployment with ONNX, MLflow, pruning, and quantization. By the end, you’ll be ready to create efficient, interpretable, and deployable PyTorch models for real-world deep learning tasks.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pytorch-advanced-architectures-and-deployment",
+  "instructors": [
+    {
+      "name": "Laurence Moroney",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "DeepLearning.AI"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

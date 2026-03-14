@@ -1,0 +1,31 @@
+{
+  "course_id": "1207176813",
+  "platform": "mooc_cn",
+  "title": "大学生计算与信息化素养",
+  "description": "本课程是大学非计算机专业学生的计算机通识必修课。学习本课程能让学生了解信息技术的发展趋势，提升信息素养水平，学会借助计算机及网络平台进行信息表示、信息检索、信息存储、信息处理的方法以及提高对信息安全的认识，帮助学生形成计算思维，学会利用现有的计算机知识解决专业中的实际问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207176813",
+  "instructors": [
+    {
+      "name": "韩慧;罗丹;李维;崔晓晖;孙俏;蔡娟;李群;付慧;陈志泊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16740,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

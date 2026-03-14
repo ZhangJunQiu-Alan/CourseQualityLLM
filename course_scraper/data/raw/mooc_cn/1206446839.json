@@ -1,0 +1,31 @@
+{
+  "course_id": "1206446839",
+  "platform": "mooc_cn",
+  "title": "水文学",
+  "description": "水文学是研究水文现象的变化规律及其在工程上应用的科学，是涉水工程包括给排水科学与工程、环境工程、环境科学、交通工程等专业的一门重要的专业基础课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206446839",
+  "instructors": [
+    {
+      "name": "张卉;黄廷林;李凯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安建筑科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9602,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

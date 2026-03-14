@@ -1,0 +1,31 @@
+{
+  "course_id": "1471716175",
+  "platform": "mooc_cn",
+  "title": "单片机应用技术",
+  "description": "单片机应用技术是自动化类专业的一门重要专业课程，以51单片机为对象讲解单片机的基本结构和原理，使学生掌握单片机应用系统的软、硬件开发和系统调试能力。课程突出单片机的实用性和应用性，力求以通俗的语言、精简的内容，使学生能够快速入门，为从事设计开发类工作打下良好基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471716175",
+  "instructors": [
+    {
+      "name": "单正娅;芮长颖;程远",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 836,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

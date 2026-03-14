@@ -1,0 +1,31 @@
+{
+  "course_id": "1002027012",
+  "platform": "mooc_cn",
+  "title": "电子技术应用实验1（数字电路基础实验）",
+  "description": "让我们一起进入数字电路实验的世界！让课程带你循序渐进的学习常用仪器使用技巧，通过中小规模集成电路了解数字电路基础模块的设计与应用，从一个电路、一根连线、一次测试、一次解决问题开始进入数字电路设计的大门！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002027012",
+  "instructors": [
+    {
+      "name": "陈瑜;陈英;李庆嵘;王丁;李春梅;李雷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 44469,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

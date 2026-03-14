@@ -1,0 +1,34 @@
+{
+  "course_id": "course-b078396d-4d89-45e0-9e03-13b308538f63",
+  "platform": "edx",
+  "title": "Achieving Product-Market Fit",
+  "description": "Entrepreneur and investor Marc Andreessen coined the term product-market fit in 2007 when he said, “Product-market fit means being in a good market with a product that can satisfy that market.” While there are ample articles that mention the term, detailed guidance on how to actually achieve product-market fit is scarce. \n Through our course we will explore an actionable model that defines product-market fit using five key components. From bottom to top, we will examine the layers of product-market fit beginning with your target customer and transitioning through your customer’s underserved needs, your value proposition, your feature set, and ultimately your user experience (UX). \n Our process is an iterative, easy-to-follow guide through each layer to achieve product-market fit. This process helps you to articulate, test, and revise your key hypotheses about your product and the market so you can define and improve your product-market fit. \n Using the principles of Lean Product Process, our course is structured in seven steps: determining your target customer, identifying underserved customer needs, defining your value proposition, specifying your minimum viable product (MVP) feature set, creating your MVP prototype, testing your MVP with customers, and iterating to improve product-market fit.",
+  "learning_goals": [
+    "Market Requirements Documents",
+    "User Experience",
+    "Value Propositions"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "james-green",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Maryland, College Park"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 424,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

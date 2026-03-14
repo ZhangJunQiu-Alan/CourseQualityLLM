@@ -1,0 +1,31 @@
+{
+  "course_id": "1466036164",
+  "platform": "mooc_cn",
+  "title": "数学分析习题选讲",
+  "description": "数学分析内容丰富，为了学生系统把握内容的需要，开设习题课，突出了以下三点：1）把数学分析内容按照模块化处理：(1)一元函数极限论与连续；(2)一元函数微分学；(3)一元函数积分学；(4)级数论；(5)解析几何与常微分；(6)多元函数微分学；(7)多元函数积分学2）对每个模块的内容、思想和方法进行了系统梳理、归纳和总结。3）例题典型，在讲解题目时一般采用分析-解答-备注的方式，使得学生举一反三，触类旁通。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466036164",
+  "instructors": [
+    {
+      "name": "闫志忠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1066,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

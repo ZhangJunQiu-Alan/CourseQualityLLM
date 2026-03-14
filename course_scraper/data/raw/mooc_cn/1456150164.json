@@ -1,0 +1,31 @@
+{
+  "course_id": "1456150164",
+  "platform": "mooc_cn",
+  "title": "信息系统与安全对抗理论",
+  "description": "课程为信息对抗技术专业基础必修课。课程引领由基础课到专业课的过渡，使学生从更深、更高层次认识、理解和掌握信息安全对抗科学技术领域的核心概念、原理、思想和方法，并以动态发展的观点对后续课程形成高屋建瓴，全面推进后续信息安全对抗领域知识的专业教学。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1456150164",
+  "instructors": [
+    {
+      "name": "罗森林",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4610,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

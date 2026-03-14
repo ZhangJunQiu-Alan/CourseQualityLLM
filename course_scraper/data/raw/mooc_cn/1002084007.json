@@ -1,0 +1,31 @@
+{
+  "course_id": "1002084007",
+  "platform": "mooc_cn",
+  "title": "西方文论原典导读",
+  "description": "西方文论·原典·双语课，国家精品在线课程，14份西方文论经典论著·从生平到理论的推演·对文学理论的深度探讨。中英双语呈现。且本课程正在制作知识图谱，希望于本学期中推出。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002084007",
+  "instructors": [
+    {
+      "name": "窦可阳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "吉林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21837,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

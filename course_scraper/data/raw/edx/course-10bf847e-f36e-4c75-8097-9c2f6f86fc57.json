@@ -1,0 +1,47 @@
+{
+  "course_id": "course-10bf847e-f36e-4c75-8097-9c2f6f86fc57",
+  "platform": "edx",
+  "title": "Analyzing Data with R",
+  "description": "The R programming language is purpose-built for data analysis. R is the key that opens the door between the problems you want to solve with data and the answers you need to meet your objectives. This course starts with a question, and then walks you through the process of answering it through data. You will first learn important techniques for preparing (or wrangling) your data for analysis. Then you will learn how to gain a better understanding of your data through exploratory data analysis, helping you to summarize your data and identify relevant relationships between variables that can lead to insights. **** \n Once your data is ready to analyze, you will learn how to develop your model, evaluate it and tune its performance. By following this process, you can be sure that your data analysis performs to the standards that you have set, so that you can have confidence in the results. **** \n By playing the role of a data analyst who is analyzing airline departure and arrival data to predict flight delays, you will build hands-on experience delivering insights using data. Using an Airline Reporting Carrier On-Time Performance Dataset, you will practice reading data files, preprocessing data, creating models, improving models, and evaluating them to ultimately choose the best one to use.  \n Note: The prerequisite for this course is basic R programming skills. For example, ensure that you have completed a course like Introduction to R Programming for Data Science from IBM.",
+  "learning_goals": [
+    "Data Science",
+    "Data Preprocessing",
+    "Exploratory Data Analysis",
+    "On-Time Performance",
+    "R (Programming Language)",
+    "Data Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "gabriela-de-queiroz",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "tiffany-zhu",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "yiwen-li",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 303,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

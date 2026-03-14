@@ -1,0 +1,31 @@
+{
+  "course_id": "47024",
+  "platform": "mooc_cn",
+  "title": "电路",
+  "description": "西安交大电路MOOC是国家精品在线开放课程，电路课程为国家级精品课程和精品资源共享课。课程组获国家级教学成果二等奖1项，省级教学成果特等奖1项，罗先觉教授为高等学校教学名师奖获得者。课程组编写的教材《电路》（1-6版）被众多高校采用，深受教师和学生好评。2021年，教材《电路（第5版）》获首届全国教材建设奖全国优秀教材奖一等奖。电路MOOC简明生动，让你轻松学电路。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/47024",
+  "instructors": [
+    {
+      "name": "邹建龙;罗先觉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 489133,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1472544176",
+  "platform": "mooc_cn",
+  "title": "通信原理",
+  "description": "想知道我们拨打电话时声音如何传输到对方的耳朵里？信号在信道中以什么样的形式进行传输？如何在信号的传输过程中获得更好的通信质量？为什么多种不同的信号在空中传输时能够做到互不干扰？……请跟随我们的课程团队，一起来领略通信的奥妙和魅力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472544176",
+  "instructors": [
+    {
+      "name": "罗荣华;张才华;孟超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "金陵科技学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 270,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

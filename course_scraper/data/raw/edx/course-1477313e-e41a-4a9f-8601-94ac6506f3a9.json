@@ -1,0 +1,35 @@
+{
+  "course_id": "course-1477313e-e41a-4a9f-8601-94ac6506f3a9",
+  "platform": "edx",
+  "title": "VITARA - Compliance Risk Management",
+  "description": "This self-paced course provides fundamental knowledge on modern Compliance Risk Management (CRM) good practices. The strategic goal of CRM is to steadily increase the level of voluntary compliance over time by identifying and prioritizing risks and implementing treatments to address the risks. In this module, you will learn how adopting a systematic approach to CRM supports tax administrations to deliver this core function and achieve their overall goals successfully.  \n This course is a joint initiative of four international organizations: Inter-American Center of Tax Administrations (CIAT), Intra-European Organisation of Tax Administrations (IOTA), International Monetary Fund (IMF), and Organisation for Economic Co-operation and Development (OECD).",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "annette-chooi-3",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jonathan-leigh-pemberton-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 604,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206895808",
+  "platform": "mooc_cn",
+  "title": "大学化学",
+  "description": "《大学化学》是非化学化工类专业的一门通识核心课程。学习内容主要包括物质结构基础、化学热力学、化学动力学、水溶液化学、配位化学、电化学以及金属材料和非金属材料等知识，旨在为学生学习专业课程和科学研究奠定必要化学基础，为相关学科发展和专业建设，发挥化学应有的支撑作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206895808",
+  "instructors": [
+    {
+      "name": "张思敬;谢会东;齐亚兵;于莎;许妮君;党媛;赵亚娟;孙小琴;何盈盈;赵捷;曹莉;武萍萍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安建筑科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13479,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

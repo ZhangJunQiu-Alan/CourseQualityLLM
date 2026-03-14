@@ -1,0 +1,56 @@
+{
+  "course_id": "course-83299a57-879b-42df-952e-ad5bb1ce5fb9",
+  "platform": "edx",
+  "title": "Financial Programming and Policies, Part 2: Program Design",
+  "description": "In this macroeconomics course, you will improve your skills in macroeconomic policy analysis and learn to design an economic and financial program, using real economic data. The financial programming exercise simulates what IMF (International Monetary Fund) desk economists routinely do in their country surveillance and program work. \n In the first part of the course (modules 1–7), you will analyze the economic outlook of a country case and then help to build a baseline scenario — namely, a set of projections for the main macroeconomic sectors (real, external, government and monetary) that reflects the analyst’s best guess of what will happen to the economy in the coming year, assuming no policy change. \n In the second part (modules 8–10), you will learn and discuss how macroeconomic policies can be used to address poor performance and reduce macroeconomic imbalances. We will illustrate the workings of monetary, fiscal and exchange rate policies by using a simple Keynesian model of an open economy. In the final module you will design an IMF–supported lending program scenario for our country case. \n  Financial Programming and Policies, Part 2 is offered by the IMF with financial support from the Government of Japan.",
+  "learning_goals": [
+    "Policy Analysis",
+    "Macroeconomics",
+    "Program Design Languages",
+    "Economics",
+    "Microsoft Outlook"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "adina-popescu",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "antonio-david",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alfredo-baldini",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "evan-tanner",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "francesco-luna",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 456,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

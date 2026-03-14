@@ -1,0 +1,38 @@
+{
+  "course_id": "course-6c9b7d4f-592b-4e65-9419-d421a7c75df6",
+  "platform": "edx",
+  "title": "A-level Mathematics for Year 13 - Course 2: General Motion, Moments and Equilibrium, The Normal Distribution, Vectors, Differentiation Methods, Integration Methods and Differential Equations",
+  "description": "This course by Imperial College London is designed to help you develop the skills you need to succeed in your A-level maths exams. \n You will investigate key topic areas to gain a deeper understanding of the skills and techniques that you can apply throughout your A-level study. These skills include: \n \n Fluency – selecting and applying correct methods to answer with speed and efficiency \n Confidence – critically assessing mathematical methods and investigating ways to apply them \n Problem solving – analysing the ‘unfamiliar’ and identifying which skills and techniques you require to answer questions \n Constructing mathematical argument – using mathematical tools such as diagrams, graphs, logical deduction, mathematical symbols, mathematical language, construct mathematical argument and present precisely to others \n Deep reasoning – analysing and critiquing mathematical techniques, arguments, formulae and proofs to comprehend how they can be applied \n \n Over seven modules, covering general motion in a straight line and two dimensions, projectile motion, a model for friction, moments, equilibrium of rigid bodies, vectors, differentiation methods, integration methods and differential equations, your initial skillset will be extended to give a clear understanding of how background knowledge underpins the A -level course. \n You’ll also be encouraged to consider how what you know fits into the wider mathematical world.",
+  "learning_goals": [
+    "Normal Distribution",
+    "Differential Equations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "philip-ramsden",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "phil-chaffe",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Imperial College London"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 312,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

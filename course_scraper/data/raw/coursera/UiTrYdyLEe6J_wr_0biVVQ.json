@@ -1,0 +1,26 @@
+{
+  "course_id": "UiTrYdyLEe6J_wr_0biVVQ",
+  "platform": "coursera",
+  "title": "Introduction to AWS Elemental MediaConnect - v.02.00.01",
+  "slug": "aws-introduction-to-aws-elemental-mediaconnect",
+  "description": "This course introduces you to AWS Elemental MediaConnect. You will learn how to use MediaConnect to ingest live video into the AWS Cloud, and then distribute it to multiple destinations inside or outside of the AWS Cloud.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-introduction-to-aws-elemental-mediaconnect",
+  "instructors": [
+    {
+      "name": "AWS Instructor ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

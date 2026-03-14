@@ -1,0 +1,31 @@
+{
+  "course_id": "1206604804",
+  "platform": "mooc_cn",
+  "title": "高等代数（1）",
+  "description": "高等代数是一门数学系的基础课程，本课程是其第一部分，着重介绍线性代数的基本知识，包括方程组、向量、行列式、矩阵及二次型。由于科学研究中的非线性模型通常可以被近似为线性模型，使得线性代数被广泛地应用于自然科学和社会科学中，这也使得本课程介绍的知识成为应用广泛的工具。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206604804",
+  "instructors": [
+    {
+      "name": "司华斌;尹秀霞;陶永芊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南昌大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17007,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

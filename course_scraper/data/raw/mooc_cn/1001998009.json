@@ -1,0 +1,31 @@
+{
+  "course_id": "1001998009",
+  "platform": "mooc_cn",
+  "title": "电工学",
+  "description": "哈尔滨工业大学电工学教研室MOOC教学团队精心制作的《电工学》课程，内容涵盖电路基础、模拟电子技术及数字电子技术基础等，以简单清晰的方式，向您讲述电工学领域的基本原理与应用分析，希望能够为非电类专业学生进入电工世界打开一扇门。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001998009",
+  "instructors": [
+    {
+      "name": "刘桂花;刘晓芳;杨威;郑雪梅;吴辉;吴建强;张继红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 184373,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "0lwYtA53Eeu8tgoZhxH6Gw",
+  "platform": "coursera",
+  "title": "Hands-On Labs in Google Cloud for Security Engineers",
+  "slug": "hands-on-labs-google-cloud-security-engineer",
+  "description": "Security is an uncompromising feature of Google Cloud services, and Google Cloud has developed specific tools for ensuring safety and identity across your projects. In this course you will get added hands-on practice understanding and securing resources with multiple Google Cloud services including Google Kubernetes Engine (GKE).\n \nThis course is unlike other courses, in that it consists of one module of background videos, followed by a series of hands-on practice exercises on Google Cloud via Qwiklabs. The practice modules include no videos, lectures, or quizzes - just more practice on real Google Cloud.\n\nIf you enjoyed this course, you can check out the full quest including a challenge lab that requires a solution to be built with minimal guidance. You will have an opportunity to earn a Google Cloud digital Skill Badge on completion as well! Visit - google.qwiklabs.com and look for ‘Secure Workloads in Google Kubernetes Engine’ and ‘Ensure Access & Identity in Google Cloud’.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "This specialization is designed to be completed in 1 week, in approximately 5.5 hours.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/hands-on-labs-google-cloud-security-engineer",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

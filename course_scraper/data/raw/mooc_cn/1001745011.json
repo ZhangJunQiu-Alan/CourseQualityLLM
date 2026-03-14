@@ -1,0 +1,31 @@
+{
+  "course_id": "1001745011",
+  "platform": "mooc_cn",
+  "title": "新科学家英语：演讲与写作",
+  "description": "你想在国际学术讲坛上分享你的学术观点吗？你想在国际学术刊物上全面展示你的科研成果吗？加入我们吧！让我们一起学习地道的英语演讲与写作！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001745011",
+  "instructors": [
+    {
+      "name": "常梅;李雪;王景惠;张世超;宋飞焱",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 119219,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

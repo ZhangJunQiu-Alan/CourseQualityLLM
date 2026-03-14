@@ -1,0 +1,26 @@
+{
+  "course_id": "42v2IaAmEfCLQw4N1vCYjQ",
+  "platform": "coursera",
+  "title": "Splunk Fundamentals: Analyze & Visualize Data",
+  "slug": "splunk-fundamentals-analyze-visualize-data",
+  "description": "Learners who complete this course will be able to identify Splunk’s role in Operational Intelligence, demonstrate installation and configuration, apply search commands to filter and analyze data, construct advanced visualizations, and correlate events for actionable insights.\n\nThis comprehensive program takes participants from the basics of Splunk to advanced analytics. Starting with installation and setup, learners explore how to configure inputs and apps, navigate the Splunk interface, and master the Search Processing Language (SPL). Through practical lessons, they apply statistical functions, refine datasets, and build compelling visualizations such as line charts, pie charts, scatter plots, and gauges. Advanced modules focus on using eval expressions, managing transactions, and correlating events to uncover complex patterns in machine data.\n\nBy completing this course, learners gain the confidence to analyze machine-generated data, optimize searches, and create dashboards that drive data-driven decision-making. What makes this course unique is its structured, hands-on approach: every module is paired with quizzes, practical exercises, and real-world use cases that reinforce knowledge and ensure readiness for professional application. Whether aiming to boost IT operations, strengthen security monitoring, or improve business insights, this course equips learners with the skills to leverage Splunk effectively.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/splunk-fundamentals-analyze-visualize-data",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

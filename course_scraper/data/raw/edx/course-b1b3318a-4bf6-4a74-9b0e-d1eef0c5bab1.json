@@ -1,0 +1,62 @@
+{
+  "course_id": "course-b1b3318a-4bf6-4a74-9b0e-d1eef0c5bab1",
+  "platform": "edx",
+  "title": "Introduction to the Natural Capital Project Approach",
+  "description": "People depend on nature to sustain and fulfill human life, yet the values of nature are typically ignored in decisions. Mapping and modeling ecosystem services can help highlight the diverse benefits provided to people by nature (what and where) and explore how those benefits might change under different management options--thus bringing information about nature’s values into decisions in practical ways. With these approaches, we can improve the state of biodiversity and human well-being by motivating greater and more cost-effective investments in both. \n This course introduces the Natural Capital Project’s (NatCap’s) approach to using ecosystem service information to inform decisions. It uses specific examples to illustrate how the approach has worked in each case and highlights key methods and tools used in implementation.",
+  "learning_goals": [
+    "Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 8-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "gretchen-daily",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "stacie-wolny",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jess-silver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "roy-remme",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sarah-cafasso",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "anne-guerry",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "lori-avila",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 286,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

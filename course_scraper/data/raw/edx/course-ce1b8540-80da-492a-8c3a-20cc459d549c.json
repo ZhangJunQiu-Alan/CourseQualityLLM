@@ -1,0 +1,56 @@
+{
+  "course_id": "course-ce1b8540-80da-492a-8c3a-20cc459d549c",
+  "platform": "edx",
+  "title": "Building ETL and Data Pipelines with Bash, Airflow and Kafka",
+  "description": "Well-designed and automated data pipelines and ETL processes are the foundation of a successful Business Intelligence platform. Defining your data workflows, pipelines and processes early in the platform design ensures the right raw data is collected, transformed and loaded into desired storage layers and available for processing and analysis as and when required. \n This course is designed to provide you the critical knowledge and skills needed by Data Engineers and Data Warehousing specialists to create and manage ETL, ELT, and data pipeline processes. \n Upon completing this course you’ll gain a solid understanding of Extract, Transform, Load (ETL), and Extract, Load, and Transform (ELT) processes; practice extracting data, transforming data, and loading transformed data into a staging area; create an ETL data pipeline using Bash shell-scripting, build a batch ETL workflow using Apache Airflow and build a streaming data pipeline using Apache Kafka. \n You’ll gain hands-on experience with practice labs throughout the course and work on a real-world inspired project to build data pipelines using several technologies that can be added to your portfolio and demonstrate your ability to perform as a Data Engineer. \n This course pre-requisites that you have prior skills to work with datasets, SQL, relational databases, and Bash shell scripts.",
+  "learning_goals": [
+    "Relational Databases",
+    "Extract Transform Load (ETL)",
+    "Apache Kafka",
+    "Business Intelligence",
+    "Workflows",
+    "Staging Area",
+    "Data Pipeline",
+    "Python (Programming Language)",
+    "Bash (Scripting Language)",
+    "Shell Script",
+    "Apache Airflow",
+    "Workflow Management",
+    "SQL (Programming Language)",
+    "Scripting",
+    "Data Warehousing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "yan-luo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jeff-grossman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 435,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

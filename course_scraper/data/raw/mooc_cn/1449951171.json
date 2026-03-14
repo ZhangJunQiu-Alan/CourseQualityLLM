@@ -1,0 +1,31 @@
+{
+  "course_id": "1449951171",
+  "platform": "mooc_cn",
+  "title": "网络安全技术",
+  "description": "大数据时代，网络安全是事关国家安全和国家发展、事关广大人民群众工作生活的重大战略问题，没有网络安全就没有国家安全。通过本课程的学习，学生能够对计算机网络安全有一个基本的认识，了解当前网络安全技术的现状和发展趋势，掌握网络安全的基本技术以及主要的安全协议与安全系统。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449951171",
+  "instructors": [
+    {
+      "name": "李馥娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏警官学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16567,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

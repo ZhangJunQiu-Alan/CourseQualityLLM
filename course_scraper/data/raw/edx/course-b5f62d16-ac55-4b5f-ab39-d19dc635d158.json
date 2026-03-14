@@ -1,0 +1,40 @@
+{
+  "course_id": "course-b5f62d16-ac55-4b5f-ab39-d19dc635d158",
+  "platform": "edx",
+  "title": "Python for AI & Development Project",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n In this mini-course you will demonstrate what you’ve learned in the Python Basics* course and apply your Python skills to a real-world project for your final assignment. You will be introduced to unit testing and will develop the skills needed to create functions and unit tests, run the unit tests, and package the files in a standard Python Package. \n Hands-on labs provide practical application of the project work you’ll be performing in the Peer-graded Final Assignment. \n At the end of this project, you will have the skills to test your Python code, build and run unit tests, and package the Python application for distribution. \n PRE-REQUISITE: *Python Basics course from IBM is a pre-requisite for this project course. Please ensure before taking this course you have either completed the Python Basics course from IBM or have equivalent proficiency in working with Python and data. \n NOTE: This course is designed for the learner to apply prior Python knowledge. It is not intended to teach you Python and includes minimal instructional content.",
+  "learning_goals": [
+    "Unit Testing",
+    "Artificial Intelligence",
+    "Python (Programming Language)",
+    "Packaging And Labeling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ramesh-sannareddy",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 866,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001639005",
+  "platform": "mooc_cn",
+  "title": "采矿学",
+  "description": "2008年《采矿学》被评为国家级精品课程，2011年发行的《采矿学》第2版连续几年占据冶金工业出版社发行量第一的位置，2014年，《采矿学》教材建设获得辽宁省教学成果一等奖和国家级教学成果二等奖。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001639005",
+  "instructors": [
+    {
+      "name": "胥孝川",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23045,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

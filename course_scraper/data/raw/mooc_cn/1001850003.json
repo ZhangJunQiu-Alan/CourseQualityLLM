@@ -1,0 +1,31 @@
+{
+  "course_id": "1001850003",
+  "platform": "mooc_cn",
+  "title": "测量学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001850003",
+  "instructors": [
+    {
+      "name": "官雨薇;行敏锋;全兴文;何彬彬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 70907,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

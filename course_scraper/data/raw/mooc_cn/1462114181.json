@@ -1,0 +1,31 @@
+{
+  "course_id": "1462114181",
+  "platform": "mooc_cn",
+  "title": "Theoretical Mechanics: Statics",
+  "description": "Theoretical mechanics is an important technical foundation course for engineering college students. It is not only the theoretical basis of each subsequent mechanics course, but also an independent subject with a complete system and continuous development, and it has a wide range of applications in many engineering and technical fields such as machinery, civil engineering and aerospace.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462114181",
+  "instructors": [
+    {
+      "name": "Weichao CHI",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Northeastern University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 592,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

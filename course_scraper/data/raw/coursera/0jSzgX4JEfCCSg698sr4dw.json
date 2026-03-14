@@ -1,0 +1,26 @@
+{
+  "course_id": "0jSzgX4JEfCCSg698sr4dw",
+  "platform": "coursera",
+  "title": "Functions and Conditional Statements",
+  "slug": "google-functions-and-conditional-statements",
+  "description": "In this course, you’ll discover how to call functions to perform useful actions on your data. You’ll also learn how to write conditional statements to tell the computer how to make decisions based on your instructions. And you’ll practice writing clean code that can be easily understood and reused by other data professionals.\n\nBy the end of this course, you will be able to: \n• Explain the purpose and logic of conditional statements such as if, else, and elif\n• Use comparators and logical operators to compare values\n• List the benefits of commenting on code\n• Identify best practices for writing clean code such as reusability, modularity, and refactoring\n• Describe how to define Python functions using the def and return keywords",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/google-functions-and-conditional-statements",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

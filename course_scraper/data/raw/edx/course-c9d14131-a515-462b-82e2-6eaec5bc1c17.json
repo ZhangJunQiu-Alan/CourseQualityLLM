@@ -1,0 +1,34 @@
+{
+  "course_id": "course-c9d14131-a515-462b-82e2-6eaec5bc1c17",
+  "platform": "edx",
+  "title": "Using Python for Research",
+  "description": "This course bridges the gap between introductory and advanced courses in Python. While there are many excellent introductory Python courses available, most typically do not go deep enough for you to apply your Python skills to research projects. In this course, after first reviewing the basics of Python 3, we learn about tools commonly used in research settings. This version of the course includes a new module on statistical learning. \n Using a combination of a guided introduction and more independent in-depth exploration, you will get to practice your new Python skills with various case studies chosen for their scientific breadth and their coverage of different Python features.",
+  "learning_goals": [
+    "Go (Programming Language)",
+    "Research",
+    "Python (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "12 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jukka-pekka-jp-onnela",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2369,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

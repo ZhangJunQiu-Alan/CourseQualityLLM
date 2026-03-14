@@ -1,0 +1,31 @@
+{
+  "course_id": "1002127001",
+  "platform": "mooc_cn",
+  "title": "大学计算机--Python算法实践",
+  "description": "本课程是一门算法入门课程，也是一门程序设计语言入门课程，面向大一新生开设。让计算机辅助我们工作，需要我们有较强的算法和程序设计能力。而算法和程序设计的学习无法一蹴而就，是一个长期而艰苦的工作。 本课程是零基础的基础性学习，为将来的进一步学习奠定坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002127001",
+  "instructors": [
+    {
+      "name": "李凤云;张昱;李金双",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 42038,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

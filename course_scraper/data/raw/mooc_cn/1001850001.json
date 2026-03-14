@@ -1,0 +1,31 @@
+{
+  "course_id": "1001850001",
+  "platform": "mooc_cn",
+  "title": "材料工程基础",
+  "description": "气体流动、热量传递和物质迁移这些在我们生活中无处不在，无时不在的现象，也是材料制备和加工过程中普遍存在的现象。武汉理工大学教学团队用凝练的课程内容，生动的表达，带你一起探究材料制备过程的奥秘。想成为具有工程思维和创新意识的材料工程师吗，那就跟我们一起来学习吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001850001",
+  "instructors": [
+    {
+      "name": "袁波;何永佳;何强龙;乔昂;郑伟宏;肖俊彦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30450,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002822009",
+  "platform": "mooc_cn",
+  "title": "概率论与数理统计",
+  "description": "在当今互联网+大数据时代，概率论与数理统计在自然科学和社会科学中的众多领域有着广泛的应用。本课程介绍概率论与数理统计的基本知识，帮助学生掌握概率论与数理统计的基本概念、方法和应用，使学生初步掌握处理随机现象的基本思想和方法，培养学生运用概率统计方法分析和解决实际问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002822009",
+  "instructors": [
+    {
+      "name": "张薇;孙艳蕊;常桂松;徐晨;邵新慧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 91791,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

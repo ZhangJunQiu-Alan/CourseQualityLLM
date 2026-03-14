@@ -1,0 +1,31 @@
+{
+  "course_id": "1461782178",
+  "platform": "mooc_cn",
+  "title": "医学统计学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461782178",
+  "instructors": [
+    {
+      "name": "郑雪莹;邓伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "复旦大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 39542,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

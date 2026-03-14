@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754045",
+  "platform": "mooc_cn",
+  "title": "嵌入式Linux应用与开发实践",
+  "description": "嵌入式开发是一个综合性技术领域，强调软硬结合，涉及广泛而复杂的知识点。无论您是否接触过Linux，无论您是学生、自由职业者还是企业员工，只要您熟悉基本的计算机操作，都可以加入我们的课程。一个学期的学习将帮助您快速入门，成为合格的嵌入式项目开发人才。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754045",
+  "instructors": [
+    {
+      "name": "平震宇;匡亮;高云;李涛;沈冠林",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 62959,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

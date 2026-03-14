@@ -1,0 +1,31 @@
+{
+  "course_id": "1002246015",
+  "platform": "mooc_cn",
+  "title": "嵌入式系统原理及应用",
+  "description": "“嵌入式系统原理及应用”系列课程包括“MCU原理及应用”、“DSP原理及应用”、“ARM原理及应用”三部分，当前的MOOC课程是“嵌入式系统原理及应用”的第一部分，即“MCU原理及应用”，又称为“单片机原理及应用”。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002246015",
+  "instructors": [
+    {
+      "name": "梁慧敏;赵志衡;刘承军;苏健勇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 40195,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

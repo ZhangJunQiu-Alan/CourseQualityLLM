@@ -1,0 +1,26 @@
+{
+  "course_id": "RqP4pqkzEeyxDg4ukgkVlw",
+  "platform": "coursera",
+  "title": "Working with Onscreen Data in a Flutter Application",
+  "slug": "googlecloud-working-with-onscreen-data-in-a-flutter-application-jtyou",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab you will develop a Flutter app using a ListView widget. Learn how to contruct a Flutter application that is capable of efficiently showing a list of data. Customise the application AppBar to provide additional functionality.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-working-with-onscreen-data-in-a-flutter-application-jtyou",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001640003",
+  "platform": "mooc_cn",
+  "title": "资源经济学",
+  "description": "《资源经济学》为采矿工程专业本科生学位必修课。课程全面系统地学习矿产资源的相关知识，了解国内国外矿产资源特点与问题。通过该门课程的学习，学习者能够从经济角度理解和评价复杂采矿工程问题的工程实践对环境的影响，培养具备采矿技术与工程经济基本知识和技能的应用型高级采矿专门人才。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001640003",
+  "instructors": [
+    {
+      "name": "顾晓薇;邱景平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17415,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

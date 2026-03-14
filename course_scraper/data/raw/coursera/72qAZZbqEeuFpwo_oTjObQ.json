@@ -1,0 +1,26 @@
+{
+  "course_id": "72qAZZbqEeuFpwo_oTjObQ",
+  "platform": "coursera",
+  "title": "Interpretable Machine Learning Applications: Part 4",
+  "slug": "interpretable-machine-learning-applications-part-4",
+  "description": "In this 1-hour long guided project, you will learn how to use the \"What-If\" Tool (WIT) in the context of training and testing machine learning prediction models. In particular, you will learn a) how to set up a machine learning application in Python by using interactive Python notebook(s) on Google's Colab(oratory) environment, a.k.a. \"zero configuration\" environment, b) import and prepare the data, c) train and test classifiers as prediction models, d) analyze the behavior of the trained prediction models by using WIT for specific data points (individual basis), e)  moving on to the analysis of the behavior of the trained prediction models by using WIT global basis, i.e., all test data considered.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/interpretable-machine-learning-applications-part-4",
+  "instructors": [
+    {
+      "name": "Epaminondas Kapetanios",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002268006",
+  "platform": "mooc_cn",
+  "title": "离散数学",
+  "description": "计算机学科的经典课程。2006年国家级精品课程，2008年国家双语课程， 2013年国家级资源共享课，2016年四川省首批精品在线课程，2020年首批国家级线上一流课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002268006",
+  "instructors": [
+    {
+      "name": "王丽杰;罗亮;高辉;傅彦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 317686,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

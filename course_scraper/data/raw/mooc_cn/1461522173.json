@@ -1,0 +1,31 @@
+{
+  "course_id": "1461522173",
+  "platform": "mooc_cn",
+  "title": "心理统计学",
+  "description": "国家一流本科课程《心理统计学》。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461522173",
+  "instructors": [
+    {
+      "name": "陈启山",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华南师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36699,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

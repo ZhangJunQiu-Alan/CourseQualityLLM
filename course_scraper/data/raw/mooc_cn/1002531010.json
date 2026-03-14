@@ -1,0 +1,31 @@
+{
+  "course_id": "1002531010",
+  "platform": "mooc_cn",
+  "title": "分子生物学",
+  "description": "亲爱的同学们，目前科学研究发现，生命的奥秘蕴藏在DNA、 RNA和蛋白质之中，分子生物学是揭示生命奥秘最关键的金钥匙。它带领我们认知基因的结构、基因的表达和调控、基因工程技术、疾病产生的分子机制、基因诊断和基因治疗的策略。让我们一起学习，为揭示生命的奥秘奠定基础，为未来的探索增添知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002531010",
+  "instructors": [
+    {
+      "name": "萧小鹃;刘静;曾赵军;熊德慧;曾海涛;朱敏;吴坤陆;罗志勇;陈慧勇;孙曙明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 89724,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

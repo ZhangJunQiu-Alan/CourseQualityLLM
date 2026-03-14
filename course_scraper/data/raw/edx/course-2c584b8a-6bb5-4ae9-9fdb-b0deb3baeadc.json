@@ -1,0 +1,38 @@
+{
+  "course_id": "course-2c584b8a-6bb5-4ae9-9fdb-b0deb3baeadc",
+  "platform": "edx",
+  "title": "Teaching Neurodiverse Students",
+  "description": "This course provides an in-depth exploration of neurodiversity, focusing on the various ways individuals learn and engage in educational environments. Participants will gain a comprehensive understanding of neurodivergent conditions such as ADHD, dyslexia, autism spectrum disorder, audio-processing disorder, and visual-processing disorder. The course emphasizes creating inclusive classrooms by exploring effective classroom management strategies and accommodations tailored to neurodivergent learners. \n Participants will also learn practical teaching techniques grounded in Universal Design for Learning (UDL) to engage neurodivergent students. In addition, they will explore the role of assistive technology, examining real-life applications and evaluating various Ed-Tech tools and apps to support diverse learning needs. Throughout the course, participants will develop the skills to design flexible, inclusive learning environments that promote success for all students, empowering each learner to reach their full potential.",
+  "learning_goals": [
+    "Audio Signal Processing",
+    "Classroom Management",
+    "Universal Design For Learning",
+    "Assistive Technology",
+    "Dyslexia",
+    "Autism Spectrum Disorders",
+    "Teaching"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 10-20 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "thomas-kerr",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "TEFL Org"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 449,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

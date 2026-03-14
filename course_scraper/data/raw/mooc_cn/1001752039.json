@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752039",
+  "platform": "mooc_cn",
+  "title": "计算机网络",
+  "description": "网络，是看不见的，网络，又是随处可见的，它围绕在我们的身边，与我们如影相随。欢迎大家来到我的慕课课堂，我们一起学习计算机网络。从网络协议到网络设备，从局域网到广域网，从网络应用到网络安全，我们走出课堂，实地探究。让我们用感性的视角和理性的分析，一起来探索计算机网络的魅力吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752039",
+  "instructors": [
+    {
+      "name": "冯学斌;田光兆;邹修国;钱燕;吉翔",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 75010,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

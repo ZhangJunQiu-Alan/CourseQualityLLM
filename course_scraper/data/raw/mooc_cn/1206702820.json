@@ -1,0 +1,31 @@
+{
+  "course_id": "1206702820",
+  "platform": "mooc_cn",
+  "title": "建筑力学",
+  "description": "建筑力学课程是高职土建类专业的专业基础课。按照建设工程管理人才培养方案，落实立德树人，践行工匠精神，熟悉结构、构件、施工措施中的受力，掌握受力图的绘制和平衡的概念，会进行外力、内力、应力、变形的计算，达到会判断平衡、会计算强度和刚度、能确保构件和结构安全，能胜任施工和设计等一线岗位。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206702820",
+  "instructors": [
+    {
+      "name": "梅华;戴世明;徐丁;朱燕;许茜;陈铖;高苏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南通职业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29934,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

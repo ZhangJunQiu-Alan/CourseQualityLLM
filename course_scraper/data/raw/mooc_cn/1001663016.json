@@ -1,0 +1,31 @@
+{
+  "course_id": "1001663016",
+  "platform": "mooc_cn",
+  "title": "c#程序设计",
+  "description": "如果你以前学过程序设计，但就是编不出一个像“背单词”、“2048”、“酒店管理”这样的实用程序，那就请你加入到《C#程序设计》课程中来吧。在这里，你不仅可以学到面向对象的语言和思想，还会学到如何编写图形化的用户界面、文本处理、图形图像、网络访问、多媒体、数据库应用等各类应用程序。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001663016",
+  "instructors": [
+    {
+      "name": "唐大仕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 265835,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

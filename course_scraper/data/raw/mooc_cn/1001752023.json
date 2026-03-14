@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752023",
+  "platform": "mooc_cn",
+  "title": "网络管理技术",
+  "description": "《网络管理技术》课程定位基于路由器、交换机等网络设备的配置和管理，我们将依次学习网络管理基础、局域网管理和互联网的管理等相关知识；先后掌握虚拟局域网、静态路由、动态路由、访问控制等网络管理技术；陆续完成VLAN、静态路由、OSPF路由、访问列表等实践环节。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752023",
+  "instructors": [
+    {
+      "name": "张占强;姜宏岸",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏海洋大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7802,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

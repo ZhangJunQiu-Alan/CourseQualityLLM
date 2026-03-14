@@ -1,0 +1,26 @@
+{
+  "course_id": "rrZX06kxEeyjPxJkzIUqCw",
+  "platform": "coursera",
+  "title": "Migrating to Cloud SQL from Amazon RDS for MySQL Using Database Migration Service",
+  "slug": "googlecloud-migrating-to-cloud-sql-from-amazon-rds-for-mysql-using-databas-lyazm",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.\n\nIn this lab, you migrate MySQL data from an Amazon RDS instance for MySQL to Cloud SQL for MySQL using a one-time Database Migration Service job and an IP allowlist for connectivity. After you create and run the migration job, you confirm that the data have been successfully migrated to your Cloud SQL for MySQL instance.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "1.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-migrating-to-cloud-sql-from-amazon-rds-for-mysql-using-databas-lyazm",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

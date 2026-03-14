@@ -1,0 +1,40 @@
+{
+  "course_id": "course-83544877-42ef-4f78-adc2-8c7fbd3cdd0f",
+  "platform": "edx",
+  "title": "Excel: Fundamentos y herramientas",
+  "description": "Este es un curso introductorio en el que aprenderemos a trabajar con Excel, el componente para hojas de cálculo de la suite ofimática de Microsoft, MS-Office. \n Este programa permite realizar todo tipo de operaciones con datos, pudiendo clasificar y manejar grandes cantidades de ellos; incorpora una gran cantidad de funciones y posee grandes cualidades para representar los resultados de forma gráfica. \n Partiremos de 0 y exploraremos las funcionalidades más utilizadas, como los formatos, la presentación de resultados, los gráficos, las funciones y la tablas de datos.",
+  "learning_goals": [
+    "Microsoft Excel",
+    "Presentations",
+    "Operations",
+    "Microsoft Office"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 3-4 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jaime-busquets-mataix",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "victor-braquehais-acero",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1553,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207429802",
+  "platform": "mooc_cn",
+  "title": "基于STM32CubeMX和HAL驱动库的嵌入式系统设计",
+  "description": "嵌入式系统是电子信息产业的基础，广泛应用于工业控制等领域。本课程选用ST公司的STM32F4微控制器为载体，采用STM32CubeMX开发工具及HAL驱动库，以嵌入式硬件设计和软件设计为主线，按照“最小系统电路设计 → 开发工具使用 → 片内外设应用” 的路径，分层次、递进式的讲授嵌入式系统的设计方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207429802",
+  "instructors": [
+    {
+      "name": "漆强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 51015,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

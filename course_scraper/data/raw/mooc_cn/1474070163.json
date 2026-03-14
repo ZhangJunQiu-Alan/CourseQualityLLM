@@ -1,0 +1,31 @@
+{
+  "course_id": "1474070163",
+  "platform": "mooc_cn",
+  "title": "Python程序设计",
+  "description": "本课程是一门大学计算机Python编程基础课，面向所有专业，面向无任何编程经验的学习者。通过学习本课程，可以快速并系统地掌握Python编程的基本方法；通过完成本课程提供的编程练习，可以快速地积累编程经验，提高利用计算机解决实际问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1474070163",
+  "instructors": [
+    {
+      "name": "黄建军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南昌理工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 236,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

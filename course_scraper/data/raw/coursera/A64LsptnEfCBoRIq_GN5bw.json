@@ -1,0 +1,26 @@
+{
+  "course_id": "A64LsptnEfCBoRIq_GN5bw",
+  "platform": "coursera",
+  "title": "Unity Editor Scripting: Design & Customize Tools",
+  "slug": "unity-editor-scripting-design-customize-tools",
+  "description": "By the end of this course, learners will be able to design custom inspectors, implement property and decorator drawers, integrate palettes, apply editor events, and distribute professional Unity editor tools. Through hands-on projects, they will extend Unity’s editor environment to streamline workflows, manage assets more efficiently, and build reusable tools for collaborative development.\n\nThis course is designed to guide beginners through advanced editor scripting, starting with foundational concepts such as Gizmos, grid snapping, and test levels, before moving into custom inspectors, property drawers, GUI skins, and editor modes. Intermediate modules cover reusable level settings, DLL creation, and texture importers, while advanced modules focus on building object modifier tools, integrating version control, and packaging tools for distribution.\n\nWhat makes this course unique is its practical, project-based approach: every concept is applied to real Unity editor scenarios, ensuring learners not only understand scripting principles but also produce tools that can be directly used in their projects. By completing this course, students will transform the Unity editor into a customized environment tailored to their creative and production needs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/unity-editor-scripting-design-customize-tools",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

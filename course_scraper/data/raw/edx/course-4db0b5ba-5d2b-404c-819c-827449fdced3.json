@@ -1,0 +1,55 @@
+{
+  "course_id": "course-4db0b5ba-5d2b-404c-819c-827449fdced3",
+  "platform": "edx",
+  "title": "Harnessing data for healthcare advancement",
+  "description": "This course introduces key principles of data-driven decision-making in healthcare data science, focusing on managing and leveraging health data effectively across 3 modules.       \n You'll begin in Module 1 by exploring what it means to be data-driven, ensuring data consistency, accessibility, and reliability while addressing challenges like missing information. You’ll also learn the essentials of metadata management and ethical considerations for handling health data.   \n Module 2 will teach you how to develop a HDS project by understanding healthcare systems, teamwork, and project management. You'll explore how data flows within healthcare, the roles involved in health data science, and how collaboration enhances patient outcomes. Essential tools for navigating health data projects will also be introduced.   \n In Module 3, you’ll focus on collaboration and communication in health data science. You’ll examine factors that contribute to project success, including effective documentation and data visualization techniques.      \n By the end of this course, you'll be equipped with the knowledge and skills to manage health data projects efficiently and communicate findings to diverse stakeholders.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 5-9 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "fatemeh-torabi",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "emma-english",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "kalman-winston-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "angela-wood-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "tom-monie-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "matt-castle-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Cambridge"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 306,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1461296162",
+  "platform": "mooc_cn",
+  "title": "影像解剖学",
+  "description": "《影像解剖学》是医学影像学专业学生必修的一门专业基础课，同时面向临床医学、预防医学及相关医工科专业学生精心推出的在线开放课程，旨在提升学生的影像解剖基础知识与技能，为学生后续专业学习及毕业后临床诊疗工作奠定良好的影像解剖学基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461296162",
+  "instructors": [
+    {
+      "name": "彭新桂",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7877,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

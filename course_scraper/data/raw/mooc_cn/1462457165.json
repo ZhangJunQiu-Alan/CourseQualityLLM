@@ -1,0 +1,31 @@
+{
+  "course_id": "1462457165",
+  "platform": "mooc_cn",
+  "title": "林业物联网技术",
+  "description": "本课程为农林学校物联网工程专业的特色课程。 课程从林业需求出发，按照物联网“感-传-用”的次序，即“传感器功能分析—网络传输功能解析—数据处理功能应用”框架，系统介绍林业物联网定义、现状、发展所面临的问题以及传感器与定标、无线网络传输、后端图像与文本数据应用。通过“传感器功能分析”使学生熟悉各种林业传感器的功能和操作方法；通过“网络传输功能解析”使学生快速掌握近程、中程和远程通信技术在林场中传输的各种优缺点；通过“数据处理功能应用”使学生理解所采集数据在森林经营及管理过程中的作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462457165",
+  "instructors": [
+    {
+      "name": "刘云飞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2088,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

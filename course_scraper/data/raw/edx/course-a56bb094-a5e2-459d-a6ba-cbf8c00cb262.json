@@ -1,0 +1,29 @@
+{
+  "course_id": "course-a56bb094-a5e2-459d-a6ba-cbf8c00cb262",
+  "platform": "edx",
+  "title": "Power BI: Create analytics reports",
+  "description": "\"Create Analytics Reports with Power BI\" is a learning resource designed to introduce individuals to the process of creating analytical reports using Power BI. It aims to equip newcomers with the skills to leverage Power BI for data visualization and insight generation. \nThis course focuses on teaching the core concepts and practical application of Power BI for analytical reporting. Users will learn how to transform raw data into meaningful visuals, construct reports that communicate key findings, and utilize Power BI's capabilities to support data-driven decision-making. The overall objective is to enable users to create informative and insightful analytical reports using Power BI.",
+  "learning_goals": [
+    "Teaching",
+    "Power BI",
+    "Data-Driven Decision-Making",
+    "Data Visualization"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 581,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

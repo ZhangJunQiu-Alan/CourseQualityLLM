@@ -1,0 +1,39 @@
+{
+  "course_id": "course-aad55b53-a751-4e24-840e-131a3e9ba466",
+  "platform": "edx",
+  "title": "Analyzing and Visualizing Data with Power BI",
+  "description": "Power BI is a robust business analytics and visualization tool from Microsoft that helps data professionals bring their data to life and tell more meaningful stores. \n This four-week course is a beginner's guide to working with data in Power BI and is perfect for professionals. You'll become confident in working with data, creating data visualizations, and preparing reports and dashboards. \n Take this course if you are a: \n \n \n Beginner level data professional \n \n \n Student, Researcher, or Academic \n \n \n Marketing analyst, business and data analyst, or financial analyst \n \n \n Course Requirement: (a) Windows computer (recommended) or (b) Mac computer with access to a Windows virtual machine or Boot Camp. Link to  minimum requirements for installing Power BI Desktop . Email account so you can sign up for the Microsoft 365 Developer Program as part of this course. This can be a personal, work, or school email account. \n Image Attribution:  \"Data visualization &amp; Infographic/UNICEF reports Vol. 1\"  by Shangning Wang, Olga Oleszczuk is licensed under   CC BY-NC-ND 4.0",
+  "learning_goals": [
+    "Virtual Machines",
+    "Report Writing",
+    "Business Analytics",
+    "Data Analysis",
+    "Infographics",
+    "Microsoft 365",
+    "Data Visualization",
+    "Power BI"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 10-20 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "pete-benbow",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Davidson College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2625,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

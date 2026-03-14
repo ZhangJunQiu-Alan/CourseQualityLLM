@@ -1,0 +1,66 @@
+{
+  "course_id": "course-0c06765f-e449-482c-97cf-9d0e8a9f810e",
+  "platform": "edx",
+  "title": "Principles, Statistical and Computational Tools for Reproducible Data Science",
+  "description": "Today the principles and techniques of reproducible research are more important than ever, across diverse disciplines from astrophysics to political science. No one wants to do research that can’t be reproduced. Thus, this course is really for anyone who is doing any data intensive research. While many of us come from a biomedical background, this course is for a broad audience of data scientists.  \n To meet the needs of the scientific community, this course will examine the fundamentals of methods and tools for reproducible research. Led by experienced faculty from the Harvard T.H. Chan School of Public Health, you will participate in six modules that will include several case studies that illustrate the significant impact of reproducible research methods on scientific discovery.  \n This course will appeal to students and professionals in biostatistics, computational biology, bioinformatics, and data science. The course content will blend video lectures, case studies, peer-to-peer engagements and use of computational tools and platforms (such as R/RStudio, and Git/Github), culminating in a final presentation of a final reproducible research project.  \n We’ll cover Fundamentals of Reproducible Science; Case Studies; Data Provenance; Statistical Methods for Reproducible Science; Computational Tools for Reproducible Science; and Reproducible Reporting Science. These concepts are intended to translate to fields throughout the data sciences: physical and life sciences, applied mathematics and statistics, and computing.  \n Consider this course a survey of best practices: we’d like to make you aware of pitfalls in reproducible data science, some failure - and success - stories in the past, and tools and design patterns that might help make it all easier. But ultimately it’ll be up to you to take the skills you learn from this course to create your own environment in which you can easily carry out reproducible research, and to encourage and integrate with similar environments for your collaborators and colleagues. We look forward to seeing you in this course and the research you do in the future!",
+  "learning_goals": [
+    "Computational Tools",
+    "Software Design Patterns",
+    "Life Sciences",
+    "Github",
+    "Biostatistics",
+    "RStudio",
+    "Computational Biology",
+    "Bioinformatics",
+    "Political Sciences",
+    "Research Methodologies",
+    "Research",
+    "Presentations",
+    "Astrophysics",
+    "Statistical Methods",
+    "Applied Mathematics",
+    "Statistics",
+    "Public Health",
+    "Data Science",
+    "R (Programming Language)",
+    "Git (Version Control System)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 3-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "curtis-huttenhower",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "john-quackenbush",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "lorenzo-trippa",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "christine-choirat",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2230,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

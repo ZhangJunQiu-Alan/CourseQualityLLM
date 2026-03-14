@@ -1,0 +1,31 @@
+{
+  "course_id": "1462205162",
+  "platform": "mooc_cn",
+  "title": "微观经济学",
+  "description": "微观经济学是介绍市场机制如何运行，消费者如何使自己效用最大化，生产者如何安排生产使自己的利润最大化，各市场结构下企业如何制定产量与价格等。通过学习可以使学生更加深刻理解我们所生活的世界，并更精明更有效地安排自己的学习与生活。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462205162",
+  "instructors": [
+    {
+      "name": "张晶",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "徐州工程学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2892,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

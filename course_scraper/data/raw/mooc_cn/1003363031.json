@@ -1,0 +1,31 @@
+{
+  "course_id": "1003363031",
+  "platform": "mooc_cn",
+  "title": "PLC原理及应用",
+  "description": "PLC技术是制造业高端化、智能化、绿色化关键技术，是中国制造的脊梁。该课程是装备制造大类的专业核心课程、职业岗位能力课程。      《PLC原理及应用》的受众既包括高职院校相关专业的在校生，也包括企业从业人员、机电、电气和工业机器人专业教师，受众量大、面广。        课程团队依据教学标准和PLC工程师职业资格标准，把豫北转向系统有限公司自动生产线典型工程项目转换为教学项目，把工作任务转换为学习任务，课程内容与行业标准对接，教学过程与工作过程对接，职业能力与思政内化对接，形成“两转换，三对接”的课程重构思路，项目牵引任务，构成有机整体，实现工作任务从易入难，从单一到综合的递进关系，达到“育智、育技、育人”的目标。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003363031",
+  "instructors": [
+    {
+      "name": "申向丽;孙锡保;史中生;李海芹;戚德慧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "新乡职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 49690,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

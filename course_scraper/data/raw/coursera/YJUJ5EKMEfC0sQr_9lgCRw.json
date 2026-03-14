@@ -1,0 +1,26 @@
+{
+  "course_id": "YJUJ5EKMEfC0sQr_9lgCRw",
+  "platform": "coursera",
+  "title": "Advanced UiPath, Orchestrator, and Mock Interviews",
+  "slug": "packt-advanced-uipath-orchestrator-and-mock-interviews-ax2ar",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this advanced UiPath course, you will explore key aspects of UiPath Orchestrator, learning how to effectively manage, monitor, and scale your robotic process automation (RPA) workflows. By the end of the course, you will have mastered Orchestrator features such as robots, environments, queues, triggers, and more, empowering you to build and manage automation projects efficiently. You will also gain hands-on experience in managing automation workflows with real-time applications.\n\nThe course is structured to ensure a seamless learning experience as you move through interactive lessons on setting up machines, managing assets, configuring queues, and orchestrating jobs. You'll apply your knowledge in a real-world project by automating a grade management system using UiPath's Dispatcher and Performer workflows. The project offers deep insights into process management and end-to-end debugging, which will enhance your practical skills. Additionally, the course includes a comprehensive section of mock interviews that simulate real-life RPA interviews to help you build confidence and ace your next job opportunity.\n\nThis course is perfect for anyone looking to advance their skills in RPA, especially professionals aiming to specialize in UiPath Orchestrator. No prior knowledge of Orchestrator is necessary, but familiarity with RPA concepts will help you navigate the course more effectively. Whether you’re looking to enhance your job prospects or deepen your automation expertise, this course offers all the tools and knowledge you need.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-advanced-uipath-orchestrator-and-mock-interviews-ax2ar",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

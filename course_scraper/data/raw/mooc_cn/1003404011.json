@@ -1,0 +1,31 @@
+{
+  "course_id": "1003404011",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术基础",
+  "description": "《模拟电子技术基础》能帮你揭开电子产品的神秘面纱，带我们进入电子技术充满魅力的世界。该课程是电气电子信息类专业的技术基础课，使学生能够了解模电的基本概念、基本电路、基本原理，掌握基本分析方法，能对电子电路进行定性分析和定量工程估算，培养分析、解决相关问题的综合能力和工程实践能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003404011",
+  "instructors": [
+    {
+      "name": "陶明;唐凯;周骞;肖靖;李皓",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18821,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

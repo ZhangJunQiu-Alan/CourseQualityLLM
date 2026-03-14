@@ -1,0 +1,31 @@
+{
+  "course_id": "1002430002",
+  "platform": "mooc_cn",
+  "title": "市场营销学",
+  "description": "课程根据我国市场营销专业的特点，制定了“6+1”的在线教学资源：纸质教材、教学课件、在线视频、案例库、试题库、实训平台、营销扑克游戏等；探索了单元式教学模式，利用营销成语、理论介绍、案例分析、古代大商人、营销典故、思考与练习等方式把市场营销学的理论与实践紧密结合。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002430002",
+  "instructors": [
+    {
+      "name": "张云起",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中央财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 179957,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

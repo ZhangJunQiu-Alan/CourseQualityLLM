@@ -1,0 +1,31 @@
+{
+  "course_id": "1472703162",
+  "platform": "mooc_cn",
+  "title": "水文气象模型",
+  "description": "水文气象模型课程是水文气象、水利类学生的专业课程。作为20世纪初发展起来的一种新技术，水文模型经历了由系统模型到概念性模型再到物理模型、由集总式模型到分布式水文模型的发展过程。凭借已有的相关水文气象理论知识对流域上发生的水文气象过程进行数学建模，使其在计算机上实现，对水文过程进行模拟。这种技术在解决水文实际问题与进行水文规律研究上起着显著的作用。本课程主要培养学生水文气象模型的建模意识，初步学会利用水文气象模型解决实际科学和工程问题的方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472703162",
+  "instructors": [
+    {
+      "name": "王洁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 425,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

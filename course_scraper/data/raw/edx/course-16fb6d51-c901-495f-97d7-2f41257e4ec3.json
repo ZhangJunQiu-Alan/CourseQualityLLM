@@ -1,0 +1,49 @@
+{
+  "course_id": "course-16fb6d51-c901-495f-97d7-2f41257e4ec3",
+  "platform": "edx",
+  "title": "Product Design, Prototyping, and Testing",
+  "description": "Designing the customer and user experience is essential to creating great products today. Gone is the old paradigm of “form follows function” model of design. The process must be iterative and follow the best product design and development processes. While designing a great user experience can be a lengthy and expensive process, there are approaches to doing it faster and smarter, without compromising results. \n This essential product management course explains key design thinking principles around personas, story mapping, and prototyping. Product managers need to know and appreciate product designer tools and processes. By combining these principles with good scrum processes, you’ll learn to create great products that don’t sacrifice design for functionality or feasibility. \n This course enables students to transition from ideas to prototyping and concept testing of their products and services. Students learn how best to effectively translate ideas into marketable offerings so that the best product and service ideas are harnessed and create real value for customers and the organization. Emphasis is placed on an integrated and interdisciplinary approach to engineering design, concurrent engineering, design for manufacturing, industrial design, and the business of new product development. Topics include design methods, modeling and simulation, material and manufacturing process selection, platform and modular design, mass customization, planning and scheduling.",
+  "learning_goals": [
+    "Function Model",
+    "New Product Development",
+    "Persona (User Experience)",
+    "Product Design",
+    "Industrial Design",
+    "Prototyping",
+    "Mass Customization",
+    "Planning",
+    "User Experience",
+    "Manufacturing Processes",
+    "Product Management",
+    "Concept Testing",
+    "Engineering Design Process",
+    "Scrum (Software Development)",
+    "Design Thinking",
+    "Wireframing",
+    "Modular Design",
+    "Concurrent Engineering"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "cait-von-schnetlage",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Maryland, College Park"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 819,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

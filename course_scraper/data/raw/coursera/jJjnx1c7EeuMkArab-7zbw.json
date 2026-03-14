@@ -1,0 +1,46 @@
+{
+  "course_id": "jJjnx1c7EeuMkArab-7zbw",
+  "platform": "coursera",
+  "title": "Derivatives - Options & Futures",
+  "slug": "derivatives-options-futures",
+  "description": "While investing and trading in the options market may seem somewhat more daunting than other asset classes such as stocks, bonds, exchange-traded funds, currencies and commodities, you’ll ultimately find that their complexity can be boiled down to simple concepts you’ll be able to understand and use the more you’re exposed to, and have hands-on experience with the material.   Our aim is for you to acquire these skills, as well as the know-how, to invest and trade in these often-complex financial instruments. \n\nWe'll explore the mechanics of futures market, where we’ll introduce you to some of the risks faced by investors in the futures market, how certain of those risks are mitigated, as well as the difference between spot and forward prices, and contango and backwardation. We’ll also provide you with other insights about the mechanics of trading futures, including the roles of commoditized contracts, as well as margin requirements.\n\nStudents may also further their involvement with this material by opening a free demo Trader Workstation Paper Trading account, enabling them to enjoy a hands-on experience in a safe, simulated trading environment, while being fully immersed in the fundamentals that underpin the capital markets.\n\nOptions involve risk and are not suitable for all investors. For more information read the Characteristics and Risks of Standardized Options, also known as the options disclosure document (ODD). To receive a copy of the ODD call 312-542-6901 or copy and paste this link into your browser: \nhttp://www.optionsclearing.com/about/publications/character-risks.jsp\n\nMultiple leg strategies, including spreads, will incur multiple commission charges.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "13 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/derivatives-options-futures",
+  "instructors": [
+    {
+      "name": "Jeff Praissman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Lucas Deaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Andrew Wilkinson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Mary MacNamara",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Steven Levine",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Interactive Brokers"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

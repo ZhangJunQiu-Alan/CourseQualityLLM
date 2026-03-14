@@ -1,0 +1,31 @@
+{
+  "course_id": "cMFRRG4oEfCeJhJl6xsA-Q",
+  "platform": "coursera",
+  "title": "CompTIA Linux+ XK0-005: Unit 8",
+  "slug": "pearson-comptia-linux-xk0-005-complete-video-course-3rd-edition-video-trai-3twxp",
+  "description": "This course examines common Linux server roles, such as time services, certificate services, and data center storage solutions like iSCSI, NFS, and SMB. You'll gain a basic understanding of Bash shell scripting to automate routine tasks. The module also covers Git, teaching you how to manage repositories, handle merges, and work with branches. Additionally, you'll be introduced to configuration management with tools like Ansible for efficient system management. You'll also explore containerization, focusing on Docker, Podman, and Kubernetes for deploying and managing applications. Practical labs are included to help you apply your skills.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 hours 47 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-comptia-linux-xk0-005-complete-video-course-3rd-edition-video-trai-3twxp",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Sander van Vugt",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

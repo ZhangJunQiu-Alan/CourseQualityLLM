@@ -1,0 +1,31 @@
+{
+  "course_id": "17001",
+  "platform": "mooc_cn",
+  "title": "机械设计",
+  "description": "西北工业大学“机械设计”课程为国家级精品课程，任课教师均为国家级机械基础教学团队主要成员。该课程的主要任务是培养学生掌握通用机械零件的设计原理、方法和机械设计的一般规律，具有设计一般简单机械的能力；具有应用标准、规范、手册、图册等技术资料的能力，掌握典型机械零件的实验方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/17001",
+  "instructors": [
+    {
+      "name": "宁方立",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 215042,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

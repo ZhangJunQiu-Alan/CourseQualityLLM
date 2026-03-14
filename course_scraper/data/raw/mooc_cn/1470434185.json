@@ -1,0 +1,31 @@
+{
+  "course_id": "1470434185",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术实验",
+  "description": "​本课程是面向电类或非电类相关专业开设的电学基础课程，适合大二年级的本科生，既可作为独立的线上实验课程，也可作为《电路与电子技术实验II》《模拟电子技术实验》等实验课程的线上资源，用于混合模式的教学。通过该课程的学习，使学生加强对模拟电子技术理论知识的理解，掌握常用模拟电路中器件的选用与测试方法、掌握常用电子测试仪器的使用方法、掌握模拟电子技术的综合实验技能，以及掌握应用EDA软件设计、分析、仿真模拟电子电路的方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470434185",
+  "instructors": [
+    {
+      "name": "张德华;傅晓程;张冶沁;王旃",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2106,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,45 @@
+{
+  "course_id": "course-1598bd52-f62f-4596-808d-4bc993da4929",
+  "platform": "edx",
+  "title": "AWS Cloud Technical Essentials",
+  "description": "Are you in a technical role and want to learn the fundamentals of AWS? Do you aspire to have a job or career as a cloud developer, architect, or in an operations role? If so, this course is an ideal way to start, as it requires no prior knowledge of cloud computing or AWS products and services. \n AWS Cloud Technical Essentials introduces you to essential AWS products, services, and common solutions. The course covers the fundamental concepts of compute, database, storage, networking, monitoring and security that learners and professionals will need to know when working with AWS. \n Learn how to get started working on AWS through a highly engaging and hands-on course experience that covers the concepts necessary to become more proficient in identifying AWS services so that you can make informed decisions about IT solutions based on your business requirements. The course also provides information on how to build, compare and apply highly available, fault tolerant, scalable cloud solutions that are cost effective. \n Learners who will find this course applicable to their work include: \n \n Individuals responsible for articulating the technical benefits of AWS services to customers \n Individuals interested in learning how to get started with AWS \n SysOps administrators \n Solutions architects \n Developers \n \n This is a foundational level course that requires no prior knowledge of cloud computing or AWS products and services.",
+  "learning_goals": [
+    "Scalability",
+    "Amazon CloudWatch",
+    "Business Requirements",
+    "Operations",
+    "Cloud Development",
+    "Cloud Computing",
+    "Amazon Web Services",
+    "Fault Tolerance",
+    "Database Storage Structures"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "morgan-willis",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "seph-robinson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1172,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

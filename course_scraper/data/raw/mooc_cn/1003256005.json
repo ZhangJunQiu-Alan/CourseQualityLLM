@@ -1,0 +1,31 @@
+{
+  "course_id": "1003256005",
+  "platform": "mooc_cn",
+  "title": "系统解剖学（全英文）",
+  "description": "Systematic anatomy is a science that describes the morphological structure, adjacent position and clinical significance of normal human organs as well as the systematic function. It is one of the most essential basic sciences that are applied in medicine.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003256005",
+  "instructors": [
+    {
+      "name": "张晓明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 45695,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

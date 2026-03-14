@@ -1,0 +1,31 @@
+{
+  "course_id": "1207003810",
+  "platform": "mooc_cn",
+  "title": "C语言程序设计",
+  "description": "针对初学者的特点，以“注重基础、注重方法、注重编程技能、注重应用”为指导思想，灵活运用案例教学、任务驱动、启发式教学的方法，对 C 语言的语法知识和程序的设计思想、设计方法进行了系统的介绍，特别适合将 C 语言程序设计作为第一门程序设计课程的高等院校学生学习使用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207003810",
+  "instructors": [
+    {
+      "name": "方加娟;刘欢欢;黄照",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13314,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

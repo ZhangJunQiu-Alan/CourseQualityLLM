@@ -1,0 +1,31 @@
+{
+  "course_id": "1002535005",
+  "platform": "mooc_cn",
+  "title": "中学数学课程标准与教材研究",
+  "description": "想要成为一名中学数学教师，应该怎么去解读中学数学课程标准？又应该如何分析中学数学教材中的各个内容领域知识？《中学数学课程标准与教材研究》可以找到答案！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002535005",
+  "instructors": [
+    {
+      "name": "曹一鸣;王瑞霖;董连春;吴立宝;郭衎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 61159,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

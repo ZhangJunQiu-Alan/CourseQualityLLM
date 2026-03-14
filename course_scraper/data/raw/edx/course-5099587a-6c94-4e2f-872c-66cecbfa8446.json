@@ -1,0 +1,41 @@
+{
+  "course_id": "course-5099587a-6c94-4e2f-872c-66cecbfa8446",
+  "platform": "edx",
+  "title": "Foundations of Data Analytics",
+  "description": "Foundations of Data Analytics: This course will provide fundamental techniques for data analytics, including data collection, data extraction, data integration, data cleansing, and basic machine learning techniques. The learners will learn how to manage and optimize the analytics value chain, including collecting and extracting the suitable values, selecting the right data processing, integrating the data from various resources, with programming tools such as Python. This course will also introduce data security and privacy.",
+  "learning_goals": [
+    "Data Analysis",
+    "Big Data",
+    "Programming Tools",
+    "Data Cleansing",
+    "Data Extraction",
+    "Python (Programming Language)",
+    "Machine Learning",
+    "Data Security",
+    "Data Processing",
+    "Data Integration"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 6-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "cecia-ki-chan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Hong Kong University of Science and Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1502,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "N7yA7Ag3EfGaeQr_0lkuzQ",
+  "platform": "coursera",
+  "title": "Building and Optimizing AI Agent Workflows",
+  "slug": "building-and-optimizing-ai-agent-workflows-1",
+  "description": "This long course equips you with practical knowledge and hands-on skills required to design, architect, and optimize autonomous AI agents that solve multi-step tasks reliably, efficiently, and responsibly. You will study reward-design and reinforcement-learning foundations to translate business objectives into robust reward signals, while learning to evaluate ethical, legal, and societal impacts of agent decision policies. The course covers competing reasoning-loop architectures (e.g., ReAct and Reflexion), modular agent component design with clear APIs, and search and planning strategies (A*, beam search, and heuristic augmentation). You will also practice feature engineering and model-interpretability methods to expose spurious correlations and produce explainable agent behaviors. Finally, the course guides you to make strategic modeling choices—such as fine-tuning large models versus training smaller task-specific models—and to package reproducible, reusable ML pipelines for agent subsystems. Throughout the course, practical labs and engineering-focused examples emphasize production-readiness, modularity, and trustworthiness.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "17 hours 30 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/building-and-optimizing-ai-agent-workflows-1",
+  "instructors": [
+    {
+      "name": "Professionals from the Industry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "course-fff9bb19-b736-4eb3-913c-0460063da31c",
+  "platform": "edx",
+  "title": "Digital Design",
+  "description": "Digital Design is about designing in digital space so the created content can be displayed and seen on a digital device. With the availability of high computing power, designers can quickly create designs in digital space before actual deployment. \n In this online course, you will learn the fundamental concepts of a wide variety of digital design technology and you will have the opportunity to create your own digital designs and animate them as well. The course focuses on  creating 3D objects  using a computer-aided design package,  creating real-life physical simulations,  and then  combining the two techniques to create rendered animations . It will also  introduce virtual reality (VR) and augmented reality (AR) applications . \n This course allows you to get hands-on experience with different design tools so that the various outputs can be combined in a systematic way. So get started to experience this excitement of creating your own designs now whether it be for continuing education or as a hobby.",
+  "learning_goals": [
+    "Rigging",
+    "Computer-Aided Design",
+    "Digital Design",
+    "Key Frame",
+    "Augmented Reality",
+    "Virtual Reality"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ravindra-goonetilleke",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sai-kit-yeung-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Hong Kong University of Science and Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 379,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

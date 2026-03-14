@@ -1,0 +1,26 @@
+{
+  "course_id": "SaGtBUxbEeyVnArvMUxg9w",
+  "platform": "coursera",
+  "title": "Automate Equipment Ordering Prep Process with Power Automate",
+  "slug": "automate-equipment-ordering-prep-process-power-automate",
+  "description": "In large companies there are usually many requests for new equipment on a monthly basis, and it takes a lot of steps before an employee gets the wanted piece of equipment. This project can help you turn the boring, repetitive business process into a quick solution with just a few clicks.\n\nIn this 1-hour long guided project, you will learn to create a SharePoint list and set up Power Automate flows for the following process: when an employee of your imaginary company wants a new piece of equipment, they will create a request in SharePoint and if it exceeds a certain amount of money, the general manager must approve it. At the end of the month, all requests are collected into an HTML table and sent via email to the department in charge of ordering the equipment, and the person who made the request receives an email that their request has been approved and the equipment will be ordered. \n\nSince this project uses SharePoint (an Office 365 service) and Power Automate (part of the Microsoft Power Platform), you will need access to a Microsoft account and a Microsoft 365 Developer Program subscription. In the video at the beginning of the project you will be given instructions on how to sign up for both.\n\nLet’s get started with automating manual, time-consuming business processes!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/automate-equipment-ordering-prep-process-power-automate",
+  "instructors": [
+    {
+      "name": "Dora Hrvoj",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

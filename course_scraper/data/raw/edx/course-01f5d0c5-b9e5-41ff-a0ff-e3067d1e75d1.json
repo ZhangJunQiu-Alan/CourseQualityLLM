@@ -1,0 +1,38 @@
+{
+  "course_id": "course-01f5d0c5-b9e5-41ff-a0ff-e3067d1e75d1",
+  "platform": "edx",
+  "title": "Upper-Intermediate English: Business and Industry",
+  "description": "This course is the first in a series of four English language MOOCs designed for students with an intermediate level of English looking to reach a higher intermediate level. The course is comprised of video lessons, reading comprehension activities, grammar explanations and exercises, listening comprehension activities and speaking practice.  \n The course covers interesting topics such assuccessful businesses, risk management, industrial design and radio broadcasting.  \n This course also includes preparatory materials and recommendations to take the Cambridge University First Certificate in English Examination (FCE).",
+  "learning_goals": [
+    "Grammar",
+    "Radio Broadcasting",
+    "Vocabulary",
+    "Reading Comprehension",
+    "English Language",
+    "Industrial Design",
+    "Listening Skills"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "prof-ana-gimeno",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3536,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

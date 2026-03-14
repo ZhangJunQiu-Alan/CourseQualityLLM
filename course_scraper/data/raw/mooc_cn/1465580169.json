@@ -1,0 +1,31 @@
+{
+  "course_id": "1465580169",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "本课程是电子信息学科的一门重要的专业基础课。本课程的教学旨在使学生掌握连续时间与离散时间信号与系统的表示与分析方法，两类信号与系统间的相似关系，它们间的内在联系或转换关系，建立信号与系统这一极为普遍的概念，以及掌握偏重于信号处理的较完善的一套基本方法和基本理论，从而为学生进一步学习后续有关课程，或将来从事信号处理与系统分析的研究工作和工程实际应用打下良好的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465580169",
+  "instructors": [
+    {
+      "name": "刘洲峰;蔡文静;常怡萍;刘昱含;李渊;徐庆伟;杨蕾;宋晓炜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中原工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2763,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

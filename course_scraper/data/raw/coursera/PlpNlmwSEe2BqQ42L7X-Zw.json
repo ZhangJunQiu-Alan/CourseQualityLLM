@@ -1,0 +1,26 @@
+{
+  "course_id": "PlpNlmwSEe2BqQ42L7X-Zw",
+  "platform": "coursera",
+  "title": "Back-end Application Development Capstone Project",
+  "slug": "backend-development-capstone-project",
+  "description": "This is the final course in the IBM Backend Development Professional Certificate. This capstone project course will give you the chance to practice the work that back-end developers do in real life when working with applications. \n\nIn this course, you will assume the role of a real-life developer working to develop and deploy back-end microservices and applications. \n\nYou will be tasked to develop, deploy, and integrate an application composed of several microservices, and integrating them seamlessly. You will use various back-end tools and technologies, including Flask, Django, NoSQL, and Mongo DB, to accomplish this project while applying coding best practices. You will also deploy and scale and update each of the application’s microservices independently using Cloud Native technologies: Kubernetes, OpenShift and serverless (Code Engine).\n\nIn this course, you’ll mostly focus on hands-on work to demonstrate and apply what you have learnt in previous courses. By successfully completing this Capstone you will have added a project to your programming portfolio to showcase to employers.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "5 weeks of study, 2-3 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/backend-development-capstone-project",
+  "instructors": [
+    {
+      "name": "IBM Skills Network Team",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

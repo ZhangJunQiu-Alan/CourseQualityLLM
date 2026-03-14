@@ -1,0 +1,31 @@
+{
+  "course_id": "449001",
+  "platform": "mooc_cn",
+  "title": "波动光学",
+  "description": "作为最古老的一门基础学科，光学的发展贯穿了整个物理学史。人类对光的本性取得的每一次新认识都引发了物理学理论上的重要飞跃和技术上的重大应用，例如电磁波、X射线、激光等。至今，光学仍然是全球科技发展前沿最活跃的领域之一，具有强大的生命力和不可估量的发展前途。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/449001",
+  "instructors": [
+    {
+      "name": "管曙光",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41075,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

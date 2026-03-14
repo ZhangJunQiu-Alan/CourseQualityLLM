@@ -1,0 +1,31 @@
+{
+  "course_id": "1462051166",
+  "platform": "mooc_cn",
+  "title": "工程热力学",
+  "description": "工程热力学是一门以揭示能量转换规律，探索能量哲学原理为核心，以能源高效转化与利用为目标的，古老而又充满活力的科学。陕西科技大学课程团队将带您展开工程热力学的魅力之旅。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462051166",
+  "instructors": [
+    {
+      "name": "袁越锦;张斌;赵红霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "陕西科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2496,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

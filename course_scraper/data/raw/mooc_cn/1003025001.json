@@ -1,0 +1,31 @@
+{
+  "course_id": "1003025001",
+  "platform": "mooc_cn",
+  "title": "普通逻辑学",
+  "description": "真相只有一个。探求真相的路上总是伴随着谬误和诡辩，如何摒弃错误的思维，如何探寻人生的哲理，来逻辑的世界吧，你会发现一个不一样的自己。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003025001",
+  "instructors": [
+    {
+      "name": "周静;郭云飞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南警察学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48729,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

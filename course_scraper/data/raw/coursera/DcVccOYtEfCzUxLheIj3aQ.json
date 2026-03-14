@@ -1,0 +1,26 @@
+{
+  "course_id": "DcVccOYtEfCzUxLheIj3aQ",
+  "platform": "coursera",
+  "title": "Apply Sqoop for HR Data Analytics Projects ",
+  "slug": "apply-sqoop-for-hr-data-analytics-projects",
+  "description": "By the end of this course, learners will be able to import, filter, and optimize structured HR data from relational databases into Hadoop using Apache Sqoop; apply secure authentication methods; automate recurring data ingestion tasks; and prepare analytics-ready datasets for salary and attrition analysis.\n\nThis hands-on project-based course is designed for learners who want practical experience applying Sqoop in real-world HR analytics scenarios. Through guided lessons, learners progress from project setup and secure database connectivity to executing optimized Sqoop import commands, handling NULL values, and applying data formats and compression for performance efficiency. The course emphasizes subset imports and complex joins to support meaningful HR use cases such as salary analysis and employee attrition insights.\n\nWhat makes this course unique is its end-to-end, use-case-driven approach. Rather than focusing solely on commands, learners work within a realistic HR data analytics project, gaining exposure to operational considerations such as job automation, data quality management, and scalability. Upon completion, learners will possess job-ready skills to confidently use Sqoop as part of enterprise-scale Hadoop analytics workflows, making the course especially valuable for aspiring data engineers and analytics professionals working with structured enterprise data.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/apply-sqoop-for-hr-data-analytics-projects",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

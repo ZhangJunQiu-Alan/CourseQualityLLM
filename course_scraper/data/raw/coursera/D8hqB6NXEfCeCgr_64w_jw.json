@@ -1,0 +1,31 @@
+{
+  "course_id": "D8hqB6NXEfCeCgr_64w_jw",
+  "platform": "coursera",
+  "title": "Semiconductor Manufacturing Fundamentals",
+  "slug": "semiconductor-manufacturing-fundamentals",
+  "description": "Fundamentals of Semiconductor Manufacturing is an intermediate level course which provides a comprehensive introduction to the foundational principles, processes, and technologies in semiconductor manufacturing with a specific focus on wafer manufacturing. Learners will dive into the entire journey of a silicon wafer, from raw silicon to packaged functional chip. You will learn the purpose and mechanics of each major process step, including oxidation, photolithography, etching, doping, and thin film deposition. The course will also cover essential quality control concepts, such as cleanroom protocols and yield management. Designed for students with an interest in microelectronics manufacturing, this course bridges theoretical concepts with real-world manufacturing practices, preparing learners for further study or careers in the semiconductor industry.\n\nThis course is ideal for students, engineers, and technology professionals seeking a foundational understanding of semiconductor manufacturing. It’s also valuable for those entering roles in electronics, materials science, or manufacturing operations, as well as non-technical professionals working in semiconductor-related industries who want to grasp core production concepts.\n\nNo prior semiconductor experience is required. A basic understanding of physics, chemistry, or electronics will be helpful but not mandatory.\n\nBy the end of this course, you’ll understand the full semiconductor manufacturing journey, from raw silicon to finished chips, and the key processes, technologies, and quality controls that make it possible.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "60 Minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/semiconductor-manufacturing-fundamentals",
+  "instructors": [
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Ata Syed",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

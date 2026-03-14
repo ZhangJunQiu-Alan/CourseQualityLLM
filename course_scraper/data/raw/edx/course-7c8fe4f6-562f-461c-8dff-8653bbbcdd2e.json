@@ -1,0 +1,55 @@
+{
+  "course_id": "course-7c8fe4f6-562f-461c-8dff-8653bbbcdd2e",
+  "platform": "edx",
+  "title": "Mejora tu Negocio con Inteligencia Artificial",
+  "description": "La AI o inteligencia artificial, el internet de las cosas, el Big Data, los asistentes virtuales y las tecnologías digitales han cambiado las reglas del juego en el mundo de los negocios.  El acceso a internet mediante dispositivos móviles y portátiles transformaron la manera como las personas interactúan con el mundo. Estas interacciones han permitido la generación y recolección de datos que los usuarios que utilizan diariamente aplicaciones, redes sociales y teléfonos móviles. Esto brinda información muy valiosa tanto a organizaciones, como a empresas. En consecuencia, las organizaciones deben enfrentar nuevos retos que implican el resguardo de datos personales de sus clientes potenciales y activos mediante las mejores prácticas que diferentes reguladores mundiales emiten. \n Por todo lo anterior y, ante el crecimiento de la cantidad de datos, la inteligencia artificial es vital para entender y aprovechar todo este conocimiento. No solo eso, el desarrollo de las tecnologías digitales ha crecido a tal grado que implementaciones como el reconocimiento de imágenes, el lenguaje natural o chatbots, el desarrollo de aplicaciones para el uso de asistentes personales como Siri o Alexa y el aprendizaje automático para desarrollar aplicaciones de IA pueden ser aplicados a soluciones de negocios sin la necesidad de contar con amplios recursos materiales para llevarlos a cabo. \n Por otro lado, el mundo de los negocios ha comenzado a ser dominado por las grandes empresas que implementan metodologías ágiles y aplican soluciones de inteligencia artificial y machine learning en sus procesos. Esto potencializa la calidad de sus procesos, mejora el entendimiento de las necesidades de los clientes, brinda una mejor toma de decisiones basada en datos y ayuda a dirigir los esfuerzos de las organizaciones al mejoramiento de la experiencia de usuario. Empresas como IBM, Amazon, Microsoft o Google son punta de lanza en el sector empresarial debido al dominio de estas metodologías que permiten reducir el riesgo que implica apostarle a la innovación. \n Según un reporte de Forrester del 2020 titulado “ Reinventing Workflows ”, las organizaciones han identificado un impacto directo en la optimización de sus procesos gracias a la inteligencia artificial en las áreas de mejoramiento de experiencia de usuario con un 66% de efectividad; optimizaron la agilidad de su organización en un 62%; incrementaron sus utilidades en un 59%; incrementaron su productividad en un 58%; y redujeron costos en un 50%. \n Por lo anterior, es vital que las empresas adopten estrategias que impliquen una transformación digital gradual para que puedan abrirse a las nuevas oportunidades que brinda la inteligencia artificial si desean mantenerse vigentes en el mercado y ser competitivas. \n En este MOOC abordarás las herramientas que permiten aprovechar las ventajas de la tecnología mediante casos prácticos y amigables para aplicar en tu negocio. Te proporcionaremos todos los consejos importantes que llevarán a tu empresa al éxito utilizando la IA. Así mismo, te brindaremos los conocimientos técnicos con un enfoque amigable que te permitan entender cómo funcionan los sistemas de inteligencia artificial actuales para recolectar y realizar análisis de datos en tiempo real. \n Abordaremos distintos ejemplos prácticos de aplicación de inteligencia artificial en diferentes áreas de negocio y con diferentes tecnologías y te proporcionaremos herramientas amigables para la solución de casos aplicados a los negocios. \n Nuestro interés no es que tu negocio se convierta en un proveedor de tecnología, sino que ocupes la tecnología para potencializar tu negocio.",
+  "learning_goals": [
+    "Data-Driven Decision-Making",
+    "Decision Making",
+    "Digital Transformation",
+    "Machine Learning",
+    "Chatbot",
+    "Data Analysis",
+    "Innovation",
+    "Artificial Intelligence",
+    "Mobile Phones",
+    "Agile Methodology",
+    "Applications Of Artificial Intelligence",
+    "Artificial Intelligence Systems",
+    "Big Data",
+    "Computer Vision"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 6-8 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "norberto-estrada",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "enrique-estremadoyro",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "cristina-diaz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidades Anáhuac"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 279,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

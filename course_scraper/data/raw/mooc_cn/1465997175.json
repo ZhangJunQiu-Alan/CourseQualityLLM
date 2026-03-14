@@ -1,0 +1,31 @@
+{
+  "course_id": "1465997175",
+  "platform": "mooc_cn",
+  "title": "电工学实验",
+  "description": "随着国家教育改革的不断推进，实验教学环节越来越受到重视，这也是科技发展以及市场经济对人才需求变化发展的必然结果。电工学实验作为一门单独设课的电类实验课程，不但是对学生电工学知识的巩固，动手能力的培养，也是对日后走向社会，从事生产、科研等工作入门的基础。为此，西北工业大学电工学实验教学团队总结多年电工学实验教学经验，借鉴兄弟院校实验MOOC宝贵经验，结合目前大学MOOC改革发展新形式的需要，推出了这门《电工学实验》MOOC课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465997175",
+  "instructors": [
+    {
+      "name": "张华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6399,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

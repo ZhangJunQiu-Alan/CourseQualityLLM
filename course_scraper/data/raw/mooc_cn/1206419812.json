@@ -1,0 +1,31 @@
+{
+  "course_id": "1206419812",
+  "platform": "mooc_cn",
+  "title": "电机与拖动",
+  "description": "北京信息科技大学《电机与拖动》是国家级一流本科课程和北京市高等学校精品课程。课程主要讲授常用电机的结构铭牌，分析电机的电磁关系，建立电机的电路模型，研究电机的运行原理，讨论电力拖动系统的稳态运行和电机的工程应用问题。课程内容循序渐进，教师讲授通俗易懂，物理概念清晰明确，理论实践交融结合，学习者能听懂，能理解，能掌握，能应用！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206419812",
+  "instructors": [
+    {
+      "name": "刘思嘉;张芳;王丽婕;厉虹;范新桥",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 37917,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

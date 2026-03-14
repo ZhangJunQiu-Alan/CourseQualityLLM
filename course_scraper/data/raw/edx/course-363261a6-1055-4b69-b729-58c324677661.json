@@ -1,0 +1,48 @@
+{
+  "course_id": "course-363261a6-1055-4b69-b729-58c324677661",
+  "platform": "edx",
+  "title": "Modern Distributed Systems",
+  "description": "Modern IT infrastructure is built as distributed systems, an exciting concept that started with the first computers and evolved rapidly into its present form. From online video meetings to internet services, from social media platforms to online games, we all use and interact with distributed systems on a daily basis and increasingly depend on them. Designing and operating such large-scale distributed systems, however, is complex and typically involves making reasonable compromises. There are fundamental technical barriers as well as economic arguments why we cannot make these systems behave as if they were running on a single, perfectly reliable machine..  \n In this course, learners will be introduced to the essential functional and non-functional concerns of distributed systems and the common problems encountered while designing them, such as consistency, availability, elasticity, and scalability. A variety of practical solutions that have been established in the leading tech industry in recent years will be reviewed. These provide re-usable building blocks to create new large-scale applications. These recent developments, especially around cloud computing, large-scale data processing, distributed machine learning, and other fields are often not reflected in textbooks and are absent from many traditional curricula but are at the heart of this course.  \n The course will therefore provide learners with the fundamental understanding (theoretical and practical foundations) of how cloud, edge, and big data processing systems work and how they address common challenges for distributed systems such as performance, resilience, and scalability. \n The learning progress is assessed through a variety of different activities including quizzes, design exercises, experiments, and open questions, with peer review of other students’ solutions. In the final project, learners will design a distributed system based on the learners’ own experience and interests and describe the functional and non-functional properties of the system.",
+  "learning_goals": [
+    "Curriculum Development",
+    "Scalability",
+    "Data Processing",
+    "Big Data",
+    "Machine Learning",
+    "Energy Consumption",
+    "IT Infrastructure",
+    "Video Hosting Services",
+    "Internet Services",
+    "Social Media",
+    "Cloud Computing",
+    "Resilience"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alexandru-iosup",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jan-rellermeyer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 280,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

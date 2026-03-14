@@ -1,0 +1,31 @@
+{
+  "course_id": "1449487168",
+  "platform": "mooc_cn",
+  "title": "EDA技术应用",
+  "description": "《EDA技术应用》开课啦！本课程以7个极具趣味性和实用性的典型电子产品为载体，按照真实的项目开发设计流程开展任务驱动式（6步法）教学，课程配备了全套手把手操作演示、波形仿真、功能验证、原理分析与知识讲解等类型微课视频，从项目设计到功能验证对课程内容进行了全面详实的讲解与展示，本课程适合计算机类、电子信息类、自动化类和机电类专业的学生和工程技术人员学习。欢迎大家加入课程，开启EDA技术的学习之旅！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449487168",
+  "instructors": [
+    {
+      "name": "粟慧龙;龚江涛;南向曈;刘运松;唐亚平;熊异;蒋小军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南铁道职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1963,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

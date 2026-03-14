@@ -1,0 +1,31 @@
+{
+  "course_id": "1468761170",
+  "platform": "mooc_cn",
+  "title": "税务会计",
+  "description": "《税务会计》是一门融税收法律与会计核算于一体的学科，是以税法为准绳，以货币为基本计量单位，对税务资金及其运动，进行连续、系统、综合的核算和监督，为税收决策及时、准确地提供信息资料，以保证税款及时、足额入库的一种专门的会计管理活动。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468761170",
+  "instructors": [
+    {
+      "name": "程莹;孙莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京审计大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4085,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "64p5NhxlEe-Ojg4Sufxjbw",
+  "platform": "coursera",
+  "title": "Python Fundamentals",
+  "slug": "python-fundamentals",
+  "description": "Python is the most popular programming language used for data science and is a must-know to start or advance your career in data.\n\nIn this course, you will learn the most fundamental skills to write and execute Python code. We will have an overview of the basic Python concepts, which will enable you to get started with a data science project! You will see how to load, clean, analyze, and transform data with two popular Python packages: Numpy and Pandas. Then, we will demonstrate how to effectively communicate the key insights from your analysis by visualizing your data using the Matplotlib and Seaborn packages. Finally, you’ll combine these skills and put your new knowledge into practice by analyzing financial data through a case study.\n\nUpon completing this course, you will be able to: \n•\tWrite and execute Python code to create variables, generate outputs, apply various operators, and manipulate different types of data\n•\tCapture and transform data using Numpy and Pandas packages\n•\tExplore data through different statistical methods to gain a deeper understanding\n•\tVisualize data to share insights using the Matplotlib and Seaborn packages\n•\tCombine and apply the skills above to analyze financial data\n\nThis Python Fundamentals course is perfect for anyone who would like to build up their programming skills and use Python for data science to analyze data. This course is designed to equip anyone who desires to begin or further their career in data analysis, quantitative analysis, business intelligence, or other areas of business and finance.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/python-fundamentals",
+  "instructors": [
+    {
+      "name": "CFI (Corporate Finance Institute)",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Corporate Finance Institute"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

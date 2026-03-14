@@ -1,0 +1,31 @@
+{
+  "course_id": "1474205194",
+  "platform": "mooc_cn",
+  "title": "Linux操作系统",
+  "description": "在信息技术的世界里，Linux无处不在——它是互联网服务器的核心，是云计算与人工智能的基石，也是开源精神的典范。《Linux操作系统》课程由华东交通大学软件工程专业教学团队倾力打造，2025年获评国家级一流本科课程，并上线中国大学MOOC平台。课程以实践为导向，从系统安装到服务部署，引导学习者系统掌握命令操作、权限管理、Shell脚本与网络配置等核心技能。内容紧贴产业前沿，融汇云计算与容器化应用，兼顾理论与实操。无论你是初涉系统世界的学习者，还是希望精进工程能力的开发者，Linux都将带你理解技术的底层逻辑，奠定通向创新的坚实基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1474205194",
+  "instructors": [
+    {
+      "name": "汪斌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 902,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

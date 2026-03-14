@@ -1,0 +1,26 @@
+{
+  "course_id": "Xu4XKhYnEey_dQpvWp7EqQ",
+  "platform": "coursera",
+  "title": "Building Interactive User Interfaces Using React Library",
+  "slug": "building-interactive-user-interfaces-using-react-library",
+  "description": "A frontend application is expected to have an attractive, responsive UI and a seamless UX with swift navigable views. Single Page Applications (SPAs) fulfill these expectations as they are lighter and efficient. React, a popular JavaScript library is used for developing complex user interfaces for single page applications (SPAs). Facebook, Instagram, Netflix, Airbnb etc., are some of the famous websites that use React. \nIn this course, you will learn to construct an SPA by developing reusable and testable React Class components. The library helps you explore React features that enhance the performance of web applications by enabling partial page updates.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "28 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/building-interactive-user-interfaces-using-react-library",
+  "instructors": [
+    {
+      "name": "NIIT",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "NIIT"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

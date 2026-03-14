@@ -1,0 +1,31 @@
+{
+  "course_id": "1461618172",
+  "platform": "mooc_cn",
+  "title": "Object-oriented Technology and C++ Programming Language",
+  "description": "Programming technology is not only a must-have skill for college students, but also a key to the coming era of artificial intelligence. In this course, you are going to learn everything you need to know to get to start writing C++ and you will learn object-oriented knowledge, including classes and objects, inheritance and polymorphism. In addition, you will also learn operator overloading, templates and exception handling. The course will take you to experience the advantages of object-oriented programming methods and feel the charm of C++.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461618172",
+  "instructors": [
+    {
+      "name": "Xiaowei ZHAO",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dalian University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 399,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

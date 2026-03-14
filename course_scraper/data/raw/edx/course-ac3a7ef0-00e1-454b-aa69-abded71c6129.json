@@ -1,0 +1,40 @@
+{
+  "course_id": "course-ac3a7ef0-00e1-454b-aa69-abded71c6129",
+  "platform": "edx",
+  "title": "The Health Effects of Climate Change",
+  "description": "Our world's climate is changing. Of the top twenty hottest years ever recorded, sixteen have occurred in the last two decades. This warming has already had a profound effect. Many feel powerless in the face of this challenge, but you can make a difference. \n By looking at air quality, nutrition, infectious diseases, and human migration, this course will show you how increases in greenhouse gases impact public health. Experts working in a variety of settings will present their recommendations for responding to these challenges, and interested students will have the opportunity to learn about the research methods that measure the health effects of climate change. \n Created with support from the Harvard Global Health Institute, this course will explain how climate change impacts people around the globe, but also how it directly affects you and your life. Though your riskrises with the rising global temperatures, climate change is a solvable problem, and there are things you can do to mitigate that risk. \n This course is not an elegy for the planet, but a call to action. Enroll now to learn what you can do to reduce the harm caused by global warming.",
+  "learning_goals": [
+    "Climate Variability And Change",
+    "Infectious Diseases",
+    "Greenhouse Gas",
+    "Research Methodologies"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "aaron-bernstein",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ashish-jha",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4248,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

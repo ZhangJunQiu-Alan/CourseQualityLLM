@@ -1,0 +1,26 @@
+{
+  "course_id": "T79xe0EvEfClyxI_Dgx85Q",
+  "platform": "coursera",
+  "title": "Algorithm Design: Mastering Computational Problem Solving",
+  "slug": "bits-algorithm-design",
+  "description": "Dive into the world of algorithm design, a fundamental aspect of computer science. This course provides a comprehensive understanding of various algorithmic design paradigms such as divide and conquer, greedy methods, dynamic programming, backtracking, and branch and bound. You will explore fundamental graph algorithms, gain practical experience in solving complex graph-related problems, and delve into randomized algorithms and complexity classes.\n\nDesigned to equip you with the knowledge and skills to tackle a wide range of computational challenges, the course covers the theoretical underpinnings and practical applications of algorithm design principles. By the end of the course, you will be able to design efficient algorithms to solve diverse computational problems, preparing you for advanced studies and professional careers in software development, data analysis, and other IT fields.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/bits-algorithm-design",
+  "instructors": [
+    {
+      "name": "BITS Pilani Instructors Group",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Birla Institute of Technology & Science, Pilani"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

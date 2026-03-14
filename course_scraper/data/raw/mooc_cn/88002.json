@@ -1,0 +1,31 @@
+{
+  "course_id": "88002",
+  "platform": "mooc_cn",
+  "title": "电工学",
+  "description": "电工学是高等学校非电类理工科本科专业的一门技术基础课程，也是“三电”课程中唯一面向非电专业学生的课程。它所涉及的理论和技术内容广泛，包括电路基础、电机与控制和电工测量及安全用电等各部分。并且随着新理论和新技术的出现分别也在不断地丰富其内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/88002",
+  "instructors": [
+    {
+      "name": "顾榕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 175215,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

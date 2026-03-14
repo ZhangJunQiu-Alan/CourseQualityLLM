@@ -1,0 +1,26 @@
+{
+  "course_id": "BHGgprlGEfCLJwr_47sWCQ",
+  "platform": "coursera",
+  "title": "AppDynamics Monitoring",
+  "slug": "appdynamics-monitoring",
+  "description": "AppDynamics Monitoring for Machine Learning Applications is a beginner-level course designed to equip data scientists, ML engineers, and DevOps professionals with the specialized monitoring skills needed for production ML systems. \n\nUnlike traditional applications, machine learning systems have unique failure modes, complex data dependencies, and business-critical performance requirements that demand sophisticated observability approaches. \n\nThis course provides hands-on experience with AppDynamics' AI-powered monitoring platform, teaching learners to implement comprehensive monitoring solutions that capture both technical performance and business outcomes. \n\nThrough real-world case studies, practical exercises, and advanced troubleshooting scenarios, learners will master the art of maintaining reliable, high-performing ML applications that deliver consistent business value in production environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "30mins/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/appdynamics-monitoring",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

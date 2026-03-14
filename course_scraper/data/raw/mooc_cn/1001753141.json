@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753141",
+  "platform": "mooc_cn",
+  "title": "科技创新与论文写作",
+  "description": "创新工作是创新思维的过程。创新思维和分析方法渗透在创新成果总结和科技作品的写作过程中，这是一个不断升华和凝练的过程。了解和掌握创新思维、分析方法和科技作品写作等基本知识是大学生和研究生所必须具备的一项基本能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753141",
+  "instructors": [
+    {
+      "name": "袁志钟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14514,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

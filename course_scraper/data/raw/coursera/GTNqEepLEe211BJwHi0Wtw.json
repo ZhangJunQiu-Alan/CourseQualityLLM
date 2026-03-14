@@ -1,0 +1,26 @@
+{
+  "course_id": "GTNqEepLEe211BJwHi0Wtw",
+  "platform": "coursera",
+  "title": "Getting Started with Apache Cassandra",
+  "slug": "getting-started--apache-cassandra",
+  "description": "The “Getting Started with Cassandra” course is designed to help you gain knowledge of the Cassandra database system. You will learn architecture as well as how to design, build and use Cassandra databases. \n\nThis training course helps you develop your skills and knowledge in Cassandra. Cassandra is a NoSQL database that has the traits of a distributed, open-source, and decentralized database or storage system. It can support the management of excessively massive amounts of structured data without a single point of failure, thereby resulting in the provision of highly available services. \n\nThis course contains  3+ hours of training videos. Learners could find a total of 35 lectures in the training course with comprehensive coverage of all topics regarding “Getting Started with Cassandra”.\nThese lectures are divided into 3 Modules and each module is further split into lessons. The entire \ncourse includes Assessments to validate knowledge checks of learners. Also, a set of Graded Questions is available at the end of every module.\n\nModule 1: Data and Storage Models in Cassandra\nModule 2: Cassandra Architecture and Query Language\nModule 3: Security, Deployment, Monitoring, and Maintenance in Cassandra",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 Weeks of Study, 2:40:00 hours/Week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/getting-started--apache-cassandra",
+  "instructors": [
+    {
+      "name": "Whizlabs Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Whizlabs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

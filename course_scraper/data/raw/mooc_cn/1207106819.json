@@ -1,0 +1,31 @@
+{
+  "course_id": "1207106819",
+  "platform": "mooc_cn",
+  "title": "机械原理",
+  "description": "您想认识机械吗？您想了解机械的奥秘吗？请随我们一起走进《机械原理》的课堂，了解为我们生活增姿添彩的机械，掌握机构设计的方法，汲取机构设计的精髓，领略机械世界的精彩！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207106819",
+  "instructors": [
+    {
+      "name": "田亚平;李爱姣;石慧荣;张强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "兰州交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8884,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

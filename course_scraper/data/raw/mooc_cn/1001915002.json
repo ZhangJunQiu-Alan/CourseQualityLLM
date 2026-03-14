@@ -1,0 +1,31 @@
+{
+  "course_id": "1001915002",
+  "platform": "mooc_cn",
+  "title": "粉体力学",
+  "description": "从人类社会的发端开始，粉体技术就与每个人息息相关，一刻也没有离开。从原始人制造石器粉碎食物，到工业革命粉体产品批量生产，以及现今粉体的微细化和安全问题等，促使粉体科学步入新阶段。本课程不仅教会你粉体力学的基本原理，还带你步入粉体的宏观世界和微观世界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001915002",
+  "instructors": [
+    {
+      "name": "张大为;许晓飞;魏炜;刘凤霞;刘志军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8879,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

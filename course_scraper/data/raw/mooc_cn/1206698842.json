@@ -1,0 +1,31 @@
+{
+  "course_id": "1206698842",
+  "platform": "mooc_cn",
+  "title": "软件工程概论",
+  "description": "软件定义的时代已经来临，面对新时代的机遇和挑战，面对无处不在的软件，你准备好了吗？那就来吧！软件工程概论课程是软件工程专业的核心课程，课程系统地介绍了软件工程的基本概念和基本原理，这些内容覆盖整个软件生命周期。通过本课程的学习，使学生能够在软件工程方法论的指导下进行学习和软件开发，提高软件开发的成功率，减少软件开发和维护中的错误，为今后的学习与实践打下良好的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206698842",
+  "instructors": [
+    {
+      "name": "赵玉娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12503,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

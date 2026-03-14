@@ -1,0 +1,31 @@
+{
+  "course_id": "1001590004",
+  "platform": "mooc_cn",
+  "title": "概率论与数理统计",
+  "description": "本课程由电子科技大学概率论与数理统计课程组集体录制。作为国家级精品在线开放课程，本课程针对工科学生概率统计的应用问题进行授课，旨在培养学生知识的应用能力及解决实际问题的能力。绝大部分教师拥有多年丰富的教学经验和不同的科研背景，将为同学们展现丰富多彩的实战内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001590004",
+  "instructors": [
+    {
+      "name": "陈绍刚;秦旭;覃思义;杜鸿飞;韦鵾;杨宇明;陈碟;龚丽莎;文春;高晴;彭小帆;吕恕;武德安;王志勇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 312847,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

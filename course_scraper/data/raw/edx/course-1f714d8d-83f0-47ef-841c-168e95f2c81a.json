@@ -1,0 +1,38 @@
+{
+  "course_id": "course-1f714d8d-83f0-47ef-841c-168e95f2c81a",
+  "platform": "edx",
+  "title": "Finance for Everyone: Smart Tools for Decision-Making",
+  "description": "Want to learn how to think clearly about important financial decisions and improve your financial literacy? Finance for Everyone will showcase the beauty and power of finance. This introductory finance course will be a gateway into the world of finance and will examine multiple applications to apply to your everyday life. Join us to better understand how to apply frameworks and tools to make smart financial choices. \n You will be able to value the impact of different choices available to you: from renting or buying, evaluating car, home and student loans, or deciding whether to go to college versus pursuing a new idea to simply understanding how the financial world works. \n Starting with time value of money, the course will help you develop a full appreciation for the many applications of finance. Using real world examples, the course will enable you to understand and analyze many personal and professional decisions we confront on a daily basis. You will understand stocks and bonds, learn to allocate scarce resources in a value-add way, and adopt smart tools for making every day decisions. \n Finance is simultaneously a way of thinking and a set of tools. Finance is everywhere. There are no prerequisites for this course except for a sense of curiosity and a positive attitude. However, a comfort level with algebra and numbers and an understanding of accounting (the language of business) will clearly help. We will, however, try to cover everything starting with fundamentals and highlight when there is a need to do some further work in specific subjects.",
+  "learning_goals": [
+    "Financial Analysis",
+    "Decision Making",
+    "Time Value Of Money",
+    "Financial Literacy",
+    "Finance",
+    "Loans",
+    "Budgeting"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "gautam-kaul",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Michigan"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1614,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

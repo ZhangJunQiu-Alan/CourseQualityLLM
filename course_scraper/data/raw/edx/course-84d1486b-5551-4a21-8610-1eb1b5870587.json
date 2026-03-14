@@ -1,0 +1,45 @@
+{
+  "course_id": "course-84d1486b-5551-4a21-8610-1eb1b5870587",
+  "platform": "edx",
+  "title": "Electric Cars: Introduction",
+  "description": "Electric vehicles are the future of transportation. Electric mobility has become an essential part of the energy transition, and will imply significant changes for vehicle manufacturers, governments, companies and individuals.  \n If you are interested in learning about the electric vehicle technology and how it can work for your business or create societal impact, then this is the course for you.  \n The experts of TU Delft, together with other knowledge institutes and companies in the Netherlands, will prepare you for upcoming developments amid the transition to electric vehicles.  \n You'll explore the most important aspects of this new market, including state-of-the-art technology of electric vehicles and charging infrastructure; profitable business models for electric mobility; and effective policies for governmental bodies, which will accelerate the uptake of electric mobility.  \nThe course includes video lectures, presentations and exercises, which are all reinforced with real-world case studies including the Chevrolet Volt &amp; Bolt EV and Lightyear One EV.  \n The production of this course would not have been possible without the contributions of the Dutch Innovation Centre for Electric Road Transport (D-INCERT) and is taught by experts from both industry and academia, who share their knowledge and insights.",
+  "learning_goals": [
+    "Innovation",
+    "Electric Vehicles",
+    "Infrastructure",
+    "Business Modeling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "pavol-bauer",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "margot-weijnen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "frank-rieck",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 354,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

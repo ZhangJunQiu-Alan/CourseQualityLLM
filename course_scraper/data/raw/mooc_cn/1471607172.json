@@ -1,0 +1,31 @@
+{
+  "course_id": "1471607172",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471607172",
+  "instructors": [
+    {
+      "name": "董小伟;黄明;鲍嘉明;叶青;崔健",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北方工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 510,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1474222167",
+  "platform": "mooc_cn",
+  "title": "交通大数据分析",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1474222167",
+  "instructors": [
+    {
+      "name": "张文波;顾子渊;郭延永;刘志远",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 272,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

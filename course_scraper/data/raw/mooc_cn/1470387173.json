@@ -1,0 +1,31 @@
+{
+  "course_id": "1470387173",
+  "platform": "mooc_cn",
+  "title": "数字电子技术",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470387173",
+  "instructors": [
+    {
+      "name": "滕德红;路天航;袁晓玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1422,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

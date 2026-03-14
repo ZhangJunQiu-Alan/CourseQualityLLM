@@ -1,0 +1,26 @@
+{
+  "course_id": "S77L6vFpEe-lDA7RWcxbZw",
+  "platform": "coursera",
+  "title": "Financial Reporting with Tableau: Parameters & Filters",
+  "slug": "financial-reporting-with-tableau-parameters--filters",
+  "description": "In this guided project, you'll master Tableau's interactive features to create dynamic financial dashboards. Using a real-world financial statements dataset, you'll learn how to design reports that allow for deeper data exploration and analysis. You will start with learning how to use parameters to switch between key metrics, like the income statement, balance sheet and cash flow. Next, you'll explore how to use filters to focus on specific financial information by year and statement item.\n\nBy the end of this project, you will be able to effectively use both parameters and filters to build fully interactive financial dashboards. You’ll have the skills to build professional-grade dashboards that drive data-driven decisions. This project is ideal for finance professionals, data analysts, or anyone looking to enhance their data visualization and reporting skills using Tableau. Learn to turn raw financial data into powerful, actionable insights.\n\nLearners should have: \n\n• Basic knowledge of financial statements and business analysis (e.g., income statements, revenue, profit) \n• Tableau Desktop (or Tableau Public) installed and ready to use \n• A willingness to explore how dynamic parameters and filters enhance real-time financial analysis",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/financial-reporting-with-tableau-parameters--filters",
+  "instructors": [
+    {
+      "name": "Kareem Makki",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

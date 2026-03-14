@@ -1,0 +1,26 @@
+{
+  "course_id": "WACd9stYEe65Mwqc6CotZw",
+  "platform": "coursera",
+  "title": "Data Science Project Capstone: Predicting Bicycle Rental",
+  "slug": "data-science-project-capstone-predicting-bicycle-rental",
+  "description": "This course is the seventh of eight. In this project, we will tackle a prediction problem: forecasting the number of bicycles that will be rented on a given day. Using historical data, we will consider factors such as weather conditions, the day of the week, and other relevant variables to accurately predict daily bicycle rentals. This will help ensure that our bicycle rental service is prepared with the appropriate number of bicycles each day. We will learn specifically about data acquisition and correlation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 weeks of study ",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-science-project-capstone-predicting-bicycle-rental",
+  "instructors": [
+    {
+      "name": "Robert Zimmer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of London"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

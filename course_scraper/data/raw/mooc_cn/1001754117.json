@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754117",
+  "platform": "mooc_cn",
+  "title": "电路",
+  "description": "《电路》课程是电气工程及其自动化专业、自动化专业、测控技术与仪器专业的专业基础必修课。通过本课程的学习，使学生掌握电路理论的基本知识、基本分析计算方法和基本实验技能，为学习后继相关课程准备必要的电路理论知识，为从事工程技术工作、科学研究以及开拓性技术领域打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754117",
+  "instructors": [
+    {
+      "name": "高靖波;徐伟;陈英革;孟翔飞;陈勇;钟黎萍;陶国彬;王燚;张秀艳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20309,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

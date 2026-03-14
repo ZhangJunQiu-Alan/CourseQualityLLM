@@ -1,0 +1,40 @@
+{
+  "course_id": "course-a693b822-2495-42f3-a24e-c2d0ea9095c0",
+  "platform": "edx",
+  "title": "Foundations of Generative AI",
+  "description": "This course provides an accessible but comprehensive introduction to the world of generative artificial intelligence. Organized into ten modules, it takes you on a journey from the earliest ideas of artificial intelligence to the state‑of‑the‑art techniques that power today’s most advanced generative systems. \n  This innovative course was largely produced using generative AI tools  — including AI‑generated/assisted video instruction, interactive exercises, and AI‑supported grading — and demonstrates responsible, real‑world use of these technologies in learning. \n You’ll begin by learning the history of AI, exploring classical approaches based on symbolic reasoning, the rise of machine learning and statistical methods, and the recent breakthroughs that have enabled generative AI models to create text, images, and code. From there, you’ll explore what makes generative AI unique: its ability to produce new content by predicting patterns from massive datasets. \n This artificial intelligence course will then guide you through the core mechanics of these systems. You’ll learn how models break down text into tokens, how they use context windows to process information, and how neural networks — evolving from simple feedforward models to recurrent, convolutional, and ultimately transformer architectures — enable machines to generate coherent, creative outputs. You’ll examine attention mechanisms, training methods, and fine‑tuning techniques, as well as the alignment strategies used to ensure these systems behave in ways consistent with human goals and values. \n Throughout, the generative AI course emphasizes not just theory but application. You’ll see how generative AI is used in education, business, software development, and creative fields, and you’ll gain the ability to analyze both its strengths and its limitations. In keeping with its theme, this course itself is innovative: much of the instruction, practice, and even grading is generated or assisted by AI tools, making it one of the first educational experiences to showcase generative AI not just as a subject of study, but as a partner in teaching. \n By the end of the course, you’ll have a clear understanding of how generative AI works, why it matters, and how to integrate it responsibly into your own work. Whether you are a professional, student, or simply curious about AI, you’ll be equipped with both foundational knowledge and practical insights to navigate this transformative technology.",
+  "learning_goals": [
+    "Business Software",
+    "Mechanics",
+    "Artificial Intelligence",
+    "Innovation",
+    "Artificial Neural Networks",
+    "Statistical Methods",
+    "Curiosity",
+    "Forecasting",
+    "Machine Learning"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-joyner",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3233,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

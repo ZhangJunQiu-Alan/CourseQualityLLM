@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755363",
+  "platform": "mooc_cn",
+  "title": "数字逻辑与数字系统设计",
+  "description": "课程以数字逻辑与数字系统的理论和实践课程的知识点为主题，跟踪现代电子的EDA、HDL的最新成果，引入现代数字系统设计的方法，每讲内容以“知识点背景-知识展示-应用实例”进行介绍。您想系统学习并亲身体验数字逻辑与数字系统设计的魅力吗？你想接受本课程的挑战、展示自我学习能力吗？来吧，我们在真实的数字世界中等您！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755363",
+  "instructors": [
+    {
+      "name": "袁小平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国矿业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21876,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

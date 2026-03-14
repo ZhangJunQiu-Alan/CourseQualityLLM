@@ -1,0 +1,31 @@
+{
+  "course_id": "1206891801",
+  "platform": "mooc_cn",
+  "title": "光纤光学",
+  "description": "光纤光学是一门理论性很强的课程，是研究光波在光纤中传播特性的一门学科。本课程学时总数40个学时，共包含8章内容。本课程将系统地讲述光纤光学的基本理论、光纤的传输特性、光纤主要性能参数的测试技术，以及有源与无源光纤器件，并介绍其在光纤通信与传感领域的应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206891801",
+  "instructors": [
+    {
+      "name": "司马朝坦;孙军强;鲁平;孙琪真;闫志君;夏历;唐明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24257,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

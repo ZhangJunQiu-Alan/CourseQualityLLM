@@ -1,0 +1,31 @@
+{
+  "course_id": "1003363028",
+  "platform": "mooc_cn",
+  "title": "现代汉语",
+  "description": "现代汉语是大学汉语言文学专业、汉语国际教育专业、汉语言专业、语文教育专业、秘书专业、新闻专业、翻译专业等专业的一门专业必修课。通过系统学习现代汉语的基础理论和基本知识，加强基本技能的训练，培养和提高自己理解、分析、运用现代汉语的能力，为将来从事语言文字工作、语文教学工作和现代汉语的研究工作打好基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003363028",
+  "instructors": [
+    {
+      "name": "张靖;汤玫英",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 77917,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,29 @@
+{
+  "course_id": "course-f3ec0b52-25b8-4f44-a960-e553167fd200",
+  "platform": "edx",
+  "title": "Fundamentals of Neuroscience, Part 2: Neurons and Networks.",
+  "description": "Neurons in isolation are fascinating and complicated, but the real magic of neuroscience happens in the interaction between neurons. In this course, we examine how neurons pass signals to one another and how complex dynamics can result from just a few neurons arranged in relatively simple circuits.  \n Continue your journey through our Fundamentals of Neuroscience series with animations that explore the richness and complexity of the brain, documentaries about working labs around Cambridge.  \n Join us as we use virtual labs that simulate neuron circuitry as we investigate the collective behavior of neurons and learn how the brain modulates the signals in those networks.",
+  "learning_goals": [
+    "Complex Networks",
+    "Animations",
+    "Electronic Circuits",
+    "Documentary Films"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3696,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

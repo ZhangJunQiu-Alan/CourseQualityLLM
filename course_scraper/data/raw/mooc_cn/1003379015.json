@@ -1,0 +1,31 @@
+{
+  "course_id": "1003379015",
+  "platform": "mooc_cn",
+  "title": "信息安全数学基础",
+  "description": "信息安全是一门新兴的交叉学科，其核心技术是密码技术。信息安全数学基础是专业基础课程。本课程结合信息安全和密码学的理论和工程实践，用严格的数学语言对信息安全和密码学所涉及的数学理论给出了详细的推理和说明，包括一些具体的例子，为学生及从业人员打下坚实的理论基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003379015",
+  "instructors": [
+    {
+      "name": "邱卫东;孟魁;陈恭亮;范磊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35548,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "HXfeZ5JeEe68wAqd5jy8Fw",
+  "platform": "coursera",
+  "title": "Data Connection and Functionalities in Power BI",
+  "slug": "data-connection-and-functionalities-in-power-bi",
+  "description": "This course focuses on building a solid foundation in connecting and managing data using MS SQL Server and Power BI. Learners will gain practical knowledge of how to structure, format, and integrate databases for effective analysis and reporting in Power BI.\n\nKey learning outcomes include:\n- Structuring relational databases with MS SQL Server for seamless Power BI integration\n- Establishing secure and optimized data connections\n- Managing, cleaning, and transforming datasets\n- Understanding query folding, DirectQuery vs. Import, and performance considerations\n\nDesigned for aspiring data analysts, business intelligence professionals, and database practitioners, this course supports the development of job-ready Power BI skills focused on enterprise-scale data workflows.\n\nBasic knowledge of databases is recommended but not mandatory.\n\nJoin us on this journey to enhance your Power BI and MS SQL Server skills and elevate your analytical and design capabilities.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 week of study, 4.5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-connection-and-functionalities-in-power-bi",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

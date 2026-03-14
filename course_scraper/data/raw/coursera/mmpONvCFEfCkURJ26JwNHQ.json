@@ -1,0 +1,26 @@
+{
+  "course_id": "mmpONvCFEfCkURJ26JwNHQ",
+  "platform": "coursera",
+  "title": "Build and Implement Web Applications Using Golang",
+  "slug": "build-and-implement-web-applications-using-golang",
+  "description": "By the end of this course, learners will be able to configure a Go web server, design template-driven user interfaces, consume external APIs, process search results, structure responses, debug formatting issues, and implement pagination in a complete web application.\n\nThis course provides a practical, end-to-end approach to building real-world web applications using Golang. Learners move beyond basic syntax to understand how Go is applied in modern web development, including HTTP handling, template rendering, asset management, structured data modeling, and API integration. Through a step-by-step progression, the course demonstrates how to build a functional search-driven web application that mirrors real industry workflows.\n\nLearners benefit by gaining hands-on experience with backend web development in Go, improving their ability to design scalable applications and troubleshoot common issues such as data formatting and pagination. The course emphasizes clean architecture, separation of concerns, and best practices that are directly transferable to professional projects.\n\nWhat makes this course unique is its project-centric design, incremental problem-solving approach, and focus on practical implementation rather than theory—making it ideal for developers who want to confidently apply Golang to real web applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-and-implement-web-applications-using-golang",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

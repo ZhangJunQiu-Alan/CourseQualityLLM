@@ -1,0 +1,31 @@
+{
+  "course_id": "1003718005",
+  "platform": "mooc_cn",
+  "title": "Java核心技术(进阶)",
+  "description": "Java不仅是一门程序设计语言，而且发展为一个庞大的生态圈。Java被广泛应用到企业级系统、手机、桌面软件等开发，是就业市场最急需的技术。本课程讲授Java技术进阶部分，涉及多方位应用，并通过大量程序进行佐证讲解。学生学习课程后，可完成常见的功能应用开发。本课程是Java/EE、安卓等的先导课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003718005",
+  "instructors": [
+    {
+      "name": "陈良育",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 88962,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

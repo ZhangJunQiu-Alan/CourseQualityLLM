@@ -1,0 +1,38 @@
+{
+  "course_id": "course-b0016194-add5-43f1-ab61-249f4664e315",
+  "platform": "edx",
+  "title": "R Programming Basics for Data Science",
+  "description": "The R language plays a critical role in data analysis and a common programming language when working in the field of data science &amp; analytics. This course will introduce you to R language fundamentals like data types, techniques for manipulation, and how to implement fundamental programming tasks. We’ll also cover common data structures, programming fundamentals and how to manipulate data all with the help of the R programming language.  \n This course emphasizes hands-on and practical learning. You will write a simple program using RStudio, manipulate data in a data frame or matrix, and complete a final project as a data analyst using Watson Studio and Jupyter notebooks to produce data-driven insights.  \n No prior knowledge of R, or programming is required.",
+  "learning_goals": [
+    "Data Science",
+    "RStudio",
+    "R (Programming Language)",
+    "Jupyter",
+    "Data Structures",
+    "Data Analysis",
+    "Watson Studio"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "yan-luo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 891,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

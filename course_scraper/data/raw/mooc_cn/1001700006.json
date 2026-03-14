@@ -1,0 +1,31 @@
+{
+  "course_id": "1001700006",
+  "platform": "mooc_cn",
+  "title": "数学（基础模块）上册",
+  "description": "数学课程是中职生必修的一门公共基础课，为学习专业知识、掌握职业技能、继续学习和终身发展奠定基础。 课程每讲包括提出问题、分析问题、解决问题和总结提升四部分，将动画、知识讲解和板书等多种媒体呈现形式融合，知识的讲解与生活和专业紧密结合，通俗易懂，数学文化穿插其中，职教特色鲜明。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001700006",
+  "instructors": [
+    {
+      "name": "秦静;朱建鹏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 415945,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

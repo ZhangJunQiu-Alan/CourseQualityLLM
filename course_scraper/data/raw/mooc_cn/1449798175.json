@@ -1,0 +1,31 @@
+{
+  "course_id": "1449798175",
+  "platform": "mooc_cn",
+  "title": "概率论与数理统计",
+  "description": "概率论与数理统计为高等学校理工、经管、农林等专业必修的数学公共基础课程，该课程的研究对象是自然界、科学研究和社会活动中的随机现象，随着计算技术的广泛应用，概率统计的应用已经渗透到社会的各个研究领域。同学们通过学习概率统计的基本理论知识，学会使用随机变量的分布规律解决实际问题，掌握统计推断的基本方法，感受概率统计与众不同的数学魅力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449798175",
+  "instructors": [
+    {
+      "name": "陈锷;王开永;周莉;付文豪;李晓莉;李龙;张妍;李秋芳;董迎辉;周从金;朱笑雨;梁雪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24055,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

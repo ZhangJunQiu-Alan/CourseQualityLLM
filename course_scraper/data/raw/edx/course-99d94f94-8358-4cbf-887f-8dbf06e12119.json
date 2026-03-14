@@ -1,0 +1,40 @@
+{
+  "course_id": "course-99d94f94-8358-4cbf-887f-8dbf06e12119",
+  "platform": "edx",
+  "title": "Neurociencias y movimiento humano con IA",
+  "description": "La neurociencia es un campo muy amplio que estudia el cerebro, sus estructuras y funciones en el cuerpo humano. Desde el momento en que nacemos, interactuamos con el movimiento en la manera en que aprendemos a gatear, caminar, correr, bailar e, incluso, practicar un deporte; por tanto, el movimiento es un elemento esencial de salud y bienestar en el ser humano en todas sus etapas de la vida. \n En este curso podrás dar respuesta a preguntas de la vida diaria, tales como: ¿cuál es la representación precisa del cerebro y la organización del movimiento?, ¿por qué cuando somos pequeños imitamos corporalmente a otros?, ¿cómo se recupera nuestro cerebro después de una lesión motora?, ¿por qué a veces cuando dormimos sentimos que no podemos movernos y tenemos un fantasma encima?, ¿cómo podemos hacer cálculos tan sencillos como llevar un vaso de agua a nuestra boca sin dejarlo caer?, o cosas tan extrañas como soñar que caemos de un gran abismo y damos un salto impresionante en la cama. Estos interrogantes serán solucionados mediante el análisis de casos de la vida real, como los de los actores Michael J. Fox y Selma Blair, el científico Stephen Hawking o la periodista Julie Chin. \n Por tanto, en este curso abordaremos conceptos prácticos de neuroanatomía y neurofisiología del control y el aprendizaje motor, y su aplicación en el análisis de pacientes con trastornos del movimiento como el Alzheimer o la esclerosis múltiple, y trastornos neurológicos de la infancia. \n También, y más interesante aún, veremos cómo los desarrollos tecnológicos y la inteligencia artificial presentan avances que nos ayudan a mejorar actividades motoras, generan ayudas en caso de enfermedad y permiten analizar y predecir patrones para determinar un tratamiento.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-6 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "andres-cruz-gayon",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "daniel-felipe-garzon-polo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "martha-rocio-torres-narvaez",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad del Rosario"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 314,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

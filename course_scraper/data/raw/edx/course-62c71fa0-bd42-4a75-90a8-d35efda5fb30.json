@@ -1,0 +1,41 @@
+{
+  "course_id": "course-62c71fa0-bd42-4a75-90a8-d35efda5fb30",
+  "platform": "edx",
+  "title": "CS50's Introduction to Programming with R",
+  "description": "An introduction to programming using a language called R, a popular language for statistical computing and graphics in data science and other domains. Learn to use RStudio, a popular integrated development environment (IDE). Learn to represent real-world data with vectors, matrices, arrays, lists, and data frames. Filter data with conditions, via which you can analyze subsets of data. Apply functions and loops, via which you can manipulate and summarize data sets. Write functions to modularize code and raise exceptions when something goes wrong. Tidy data with R’s tidyverse and create colorful visualizations with R’s grammar of graphics. By course’s end, learn to package, test, and share R code for others to use. Assignments inspired by real-world data sets.",
+  "learning_goals": [
+    "RStudio",
+    "Integrated Development Environments",
+    "Computational Statistics",
+    "Grammar",
+    "Data Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 6-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-j-malan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "carter-zenke",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2210,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "97RpQnUlEe-sHxKPLhMLqw",
+  "platform": "coursera",
+  "title": "Harnessing Open Source LLMs and ChatGPT with Minimal Code",
+  "slug": "packt-harnessing-open-source-llms-and-chatgpt-with-minimal-code-barzj",
+  "description": "This course offers a comprehensive guide to working with local large language models and ChatGPT, designed for technical professionals who want to explore these powerful tools without diving deep into coding. You’ll begin with the basics, including downloading necessary software, setting up local models, and interacting with them using a no-code approach. By the end of this section, you'll be proficient in managing and running LLMs locally, even if you’re new to the field.\n\nAs you advance, you’ll delve into more sophisticated techniques, such as streaming responses from local models and leveraging the OpenAI API. You’ll learn to set up your environment, handle API calls, and use Python to integrate different functionalities. Each module is crafted to build your skills progressively, ensuring you gain both practical experience and conceptual understanding of these technologies.\n\nThe final part of the course covers advanced integrations and function calling with ChatGPT, offering insights into the latest features and capabilities. You’ll explore various approaches to deploying models locally and on the web, using Python with minimal code. This course empowers you to harness the full potential of LLMs and ChatGPT for your projects, making advanced AI accessible and manageable for all skill levels.\n\nThis course is designed for developers, data scientists, and AI enthusiasts who want to leverage large language models and ChatGPT without extensive programming. Basic familiarity with Python is beneficial but not required, as the course starts with foundational topics and gradually introduces more advanced concepts.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-harnessing-open-source-llms-and-chatgpt-with-minimal-code-barzj",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "154005",
+  "platform": "mooc_cn",
+  "title": "计算机网络",
+  "description": "你理解计算机网络运行原理吗？你想了解如何开发网络应用程序吗？你想深入探究计算机网络深层奥秘吗？你知道虚拟的网络世界危机四伏吗？……那么这门课程是你最佳选择！《计算机网络》课将带你认识计算机网络、了解网络应用程序开发技术、探索计算机网络深层机理、了解计算机网络安全威胁及其防护技术等内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/154005",
+  "instructors": [
+    {
+      "name": "李全龙",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 679547,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

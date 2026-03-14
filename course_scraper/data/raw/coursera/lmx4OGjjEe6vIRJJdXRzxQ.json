@@ -1,0 +1,26 @@
+{
+  "course_id": "lmx4OGjjEe6vIRJJdXRzxQ",
+  "platform": "coursera",
+  "title": "BigQuery for Data Analysts",
+  "slug": "bigquery-for-data-analysts",
+  "description": "This course is designed for data analysts who want to learn about using BigQuery for their data analysis needs. Through a combination of videos, labs, and demos, we cover various topics that discuss how to ingest, transform, and query your data in BigQuery to derive insights that can help in business decision making.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/bigquery-for-data-analysts",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

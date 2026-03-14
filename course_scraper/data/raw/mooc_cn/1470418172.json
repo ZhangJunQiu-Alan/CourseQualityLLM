@@ -1,0 +1,31 @@
+{
+  "course_id": "1470418172",
+  "platform": "mooc_cn",
+  "title": "线性代数与概率统计",
+  "description": "本课程为南京信息职业技术学院《线性代数与概率统计》和《高等数学（二）》中的线性代数部分和概率统计部分配套的在线课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470418172",
+  "instructors": [
+    {
+      "name": "张忠毅;李秀霞;郭萍;白洁静;李晨;蔡鸣晶;黄国建;王卉;崔进;缪蕙;王罡;冯晨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10415,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

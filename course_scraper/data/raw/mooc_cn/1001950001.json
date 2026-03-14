@@ -1,0 +1,31 @@
+{
+  "course_id": "1001950001",
+  "platform": "mooc_cn",
+  "title": "数字信号处理",
+  "description": "没有信息化就没有现代化，而数字化是信息化的基础，数字信号处理正是阐述了信号分析与处理的数字化技术。数字化技术正改变着我们的世界，并将进一步影响着我们的未来。在当今数字化与信息化的时代，让我们通过数字信号处理课程，一起去探究数字化技术的内涵，领略数字化技术的精彩。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001950001",
+  "instructors": [
+    {
+      "name": "王明江;李艳凤;刘留;陈后金;钱满义;陈紫微;陶丹;马国玉;孙嘉;李居朋;申艳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 92808,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

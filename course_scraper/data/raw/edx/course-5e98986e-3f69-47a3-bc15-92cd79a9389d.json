@@ -1,0 +1,41 @@
+{
+  "course_id": "course-5e98986e-3f69-47a3-bc15-92cd79a9389d",
+  "platform": "edx",
+  "title": "Reinforcement Learning",
+  "description": "Unlock the Power of Reinforcement Learning with our MOOC!  \n Have you ever wondered how machines can learn through trial and error, like a child mastering a new game? Or how computers are able to beat humans in chess? This is where  Reinforcement Learning (RL)  comes in; a powerful field of artificial intelligence focused on how machines learn by interacting with their environment and receiving feedback. \n This MOOC is your gateway to understanding and applying RL. The course starts with building a solid mathematical foundation of the core concepts of RL in a simplified setting to make them rigorous and foster understanding. Building on these fundamentals, we present selected algorithms from modern deep RL, providing you with the basis to study new methods from RL research and put them into practice. The course is accompanied by exercises including programming examples to deepen the understanding of the discussed materials. \n Join us to unlock the potential of learning through interaction and take your first steps into the exciting world of Reinforcement Learning!",
+  "learning_goals": [
+    "Artificial Intelligence",
+    "Basic Math",
+    "Research",
+    "Reinforcement Learning",
+    "Algorithms"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "prof-sebastian-trimpe",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "paul-brunzema",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "RWTH Aachen University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 333,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

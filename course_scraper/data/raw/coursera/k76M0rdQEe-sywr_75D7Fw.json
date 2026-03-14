@@ -1,0 +1,26 @@
+{
+  "course_id": "k76M0rdQEe-sywr_75D7Fw",
+  "platform": "coursera",
+  "title": "Networking Fundamentals",
+  "slug": "packt-networking-fundamentals-hjlgb",
+  "description": "Networking Fundamentals offers a comprehensive journey into the foundational aspects of computer networking. Whether you’re a beginner looking to understand networking principles or someone seeking to enhance your technical skills, this course delivers essential knowledge on network structures, addressing schemes, and key technologies. By the end of this course, you will have a solid grasp of the OSI and TCP/IP models, network types, and topologies, setting the stage for advanced networking studies.\n\nThe course begins with a deep dive into the building blocks of networking, including the OSI and TCP/IP models and encapsulation. You'll explore network topologies and types, gaining insights into real-world implementations like peer-to-peer, client/server, LANs, WANs, and more. You'll also delve into virtualization concepts, service provider links, and the critical differences between copper and fiber cabling technologies.\n\nAs you progress, you will tackle IP addressing schemes, including IPv4, IPv6, and subnetting. This section equips you with the skills to perform binary conversions, understand classful addressing, and apply subnetting scenarios. You'll also explore the importance of protocols, ports, and network services such as DNS, all while gaining an understanding of datacenter and cloud networking architecture.\n\nDesigned for aspiring IT professionals, this course is ideal for anyone aiming to pursue a career in networking. No prior knowledge is required, making it suitable for beginners, while intermediate learners can use this as a structured review. By the end, you'll be ready to handle foundational networking tasks with confidence.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-networking-fundamentals-hjlgb",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

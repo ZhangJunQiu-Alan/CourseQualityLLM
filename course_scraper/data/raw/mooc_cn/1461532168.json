@@ -1,0 +1,31 @@
+{
+  "course_id": "1461532168",
+  "platform": "mooc_cn",
+  "title": "数字雕塑基础",
+  "description": "国内知名数字雕塑专家-张盛老师亲授，带你进入雕塑的数字化时代！做一位能用电脑创作的雕塑家！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461532168",
+  "instructors": [
+    {
+      "name": "张盛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川音乐学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16417,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

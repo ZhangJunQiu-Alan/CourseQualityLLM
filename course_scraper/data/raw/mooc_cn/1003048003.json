@@ -1,0 +1,31 @@
+{
+  "course_id": "1003048003",
+  "platform": "mooc_cn",
+  "title": "汉语文字词汇",
+  "description": "在日常的口头交流和书面交流中，文字词汇的重要性毋庸置疑。你是不是也遇到过很多看似简单但却令人疑惑的问题，如：“立即”的“即”和“既然”的“既”到底怎么区别？为何可说“很少下雨”却不可说“很多下雨”？为何“妈”和“娘”意思一样，但“姑妈”和“姑娘”却完全不同？让我们的课程给你答案。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003048003",
+  "instructors": [
+    {
+      "name": "陈绂;陈颖;伏学凤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 38015,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

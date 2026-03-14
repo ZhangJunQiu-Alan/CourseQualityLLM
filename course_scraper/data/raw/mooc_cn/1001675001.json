@@ -1,0 +1,31 @@
+{
+  "course_id": "1001675001",
+  "platform": "mooc_cn",
+  "title": "环境科学概论之行动篇",
+  "description": "1.以环境问题为导向，以可持续发展的环境伦理观为理论框架；2.以案例研究为核心，以科学的思维和方法分析与解决环境问题；3.以环境责任为己任，鼓励公众参与环境保护的行动，探索绿色发展之路。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001675001",
+  "instructors": [
+    {
+      "name": "刘静玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9864,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

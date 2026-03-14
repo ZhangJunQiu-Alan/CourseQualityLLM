@@ -1,0 +1,33 @@
+{
+  "course_id": "course-1017f4e1-e5bc-4590-b356-36ed8b2b3ee0",
+  "platform": "edx",
+  "title": "Fundamentals of Sociology",
+  "description": "This course is an introduction to the study of human social behavior, social groups, and society. The course emphasizes the basic concepts and theories found in the discipline of sociology. The course will compare and contrast different theories as well as look at different processes of socialization.",
+  "learning_goals": [
+    "Auditing",
+    "Sociology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 8-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "debora-sepich",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Doane University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 543,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

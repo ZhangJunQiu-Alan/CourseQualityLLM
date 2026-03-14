@@ -1,0 +1,31 @@
+{
+  "course_id": "1457957182",
+  "platform": "mooc_cn",
+  "title": "Fundamentals of C Programming",
+  "description": "Information science and technology are continuously changing our world. Programming is one of the most important skills and tools in information technology. It is a bridge to connect information and computers. Mastering and skillfully using a programming language have become a necessary skill for all college students. C is the pioneer of advanced programming languages and still one of the most important and popular languages. Are you a novice programmer?Are you interested in C, Please join our course.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1457957182",
+  "instructors": [
+    {
+      "name": "Fang Wang",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Northwestern Polytechnical University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2802,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

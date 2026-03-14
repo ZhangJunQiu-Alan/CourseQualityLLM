@@ -1,0 +1,31 @@
+{
+  "course_id": "1003043003",
+  "platform": "mooc_cn",
+  "title": "概率论与数理统计",
+  "description": "此门课程为概率论与数理统计主课程。此外，我们专门为此本课程配套了概率论与数理统计典型例题题解，将和概率论与数理统计主课程同步上线。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003043003",
+  "instructors": [
+    {
+      "name": "徐友才",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 43527,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001907002",
+  "platform": "mooc_cn",
+  "title": "无机化学（下）",
+  "description": "元素化学是无机化学的核心内容之一，充满着丰富多彩的化学反应事实和振奋人心的新发现。在本课程中我们将结合结构理论和化学反应原理，对元素的性质和反应进行评价和解释，探寻和解释元素化学的秘密！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001907002",
+  "instructors": [
+    {
+      "name": "胡涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 72791,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

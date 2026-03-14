@@ -1,0 +1,26 @@
+{
+  "course_id": "uu65YNEZEfCOyw4T7tU5XQ",
+  "platform": "coursera",
+  "title": "Choosing your AWS identity service",
+  "slug": "choosing-your-aws-identity-service",
+  "description": "***This course was developed by members of AWS Technical Field Communities (TFC), an AWS community of technical experts. The content is intended to complement our standard training curriculum and augment your AWS learning journey. We are aware some courses have accessibility limitations and are working to address. If you require accommodation, please contact [AWS Training and Certification Customer Support](https://support.aws.amazon.com/#/contacts/aws-training).*** In this course you will learn how to choose an AWS identity or access management service, what each service does, and which services are applicable to your current needs.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/choosing-your-aws-identity-service",
+  "instructors": [
+    {
+      "name": "AWS Instructor ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

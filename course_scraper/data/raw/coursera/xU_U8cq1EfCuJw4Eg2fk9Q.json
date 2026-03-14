@@ -1,0 +1,26 @@
+{
+  "course_id": "xU_U8cq1EfCuJw4Eg2fk9Q",
+  "platform": "coursera",
+  "title": "Fundamentals of Machine Learning",
+  "slug": "packt-fundamentals-of-machine-learning-r8w1q",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course offers a comprehensive foundation in machine learning, taking you through both the theoretical and practical aspects of this powerful field. By learning the fundamentals of algorithms, models, and techniques, you will gain the skills to design, implement, and assess machine learning systems effectively. Throughout the course, you'll dive deep into various methods, including regression, classification, decision trees, SVM, deep learning, and more.\n\nThe course is structured into lectures, hands-on labs, and deep learning-focused modules. It starts with foundational concepts such as statistical learning and progresses to complex models like neural networks and support vector machines. You'll also explore practical tools like Principal Component Analysis (PCA), random forests, and classification metrics, helping you build confidence in both theory and application.\n\nIdeal for those new to the field of machine learning, the course assumes no prior experience in programming or data science. However, a basic understanding of algebra and statistics will be beneficial. It's designed for learners at all levels, providing an accessible entry point into machine learning while offering deep technical insights for more experienced students.\n\nBy the end of the course, you will be able to implement machine learning models, use deep learning techniques, assess model performance, and apply machine learning methods to real-world datasets.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-fundamentals-of-machine-learning-r8w1q",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

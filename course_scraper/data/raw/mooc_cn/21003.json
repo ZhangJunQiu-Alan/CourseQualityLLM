@@ -1,0 +1,31 @@
+{
+  "course_id": "21003",
+  "platform": "mooc_cn",
+  "title": "神韵诗研究",
+  "description": "诗歌无“韵”则无“神”，欣赏诗歌如果不赏其神韵，则如雾里看花，终隔一层。这个课堂，教你如何欣赏诗歌之韵，做一个真正懂诗的人。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/21003",
+  "instructors": [
+    {
+      "name": "王小舒",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 78034,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

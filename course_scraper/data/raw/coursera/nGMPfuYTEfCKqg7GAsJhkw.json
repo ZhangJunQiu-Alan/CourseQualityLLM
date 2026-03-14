@@ -1,0 +1,26 @@
+{
+  "course_id": "nGMPfuYTEfCKqg7GAsJhkw",
+  "platform": "coursera",
+  "title": "Integrate and Optimize AI Services Seamlessly",
+  "slug": "integrate-and-optimize-ai-services-seamlessly",
+  "description": "\"Integrate and Optimize AI Services Seamlessly\" is an applied, intermediate-level course designed for engineers and ML practitioners who want to build reliable, production-ready AI systems. Across focused, hands-on lessons, the course explores how real-world services communicate using APIs, message queues, and structured serialization formats. Learners gain practical experience integrating prediction services with gRPC and protobuf, improving consistency, performance, and cross-language compatibility. The course also guides participants through deployment health essentials, including interpreting Prometheus metrics, spotting early warning signs during canary releases, and making safe decisions to stabilize or roll back new versions. Through real scenarios, interactive activities, and expert-led demos, students develop the confidence to ship AI services that are fast, resilient, and operationally sound in modern distributed environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/integrate-and-optimize-ai-services-seamlessly",
+  "instructors": [
+    {
+      "name": "ansrsource instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

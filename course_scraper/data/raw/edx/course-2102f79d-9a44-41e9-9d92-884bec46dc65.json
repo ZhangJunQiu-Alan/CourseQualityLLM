@@ -1,0 +1,41 @@
+{
+  "course_id": "course-2102f79d-9a44-41e9-9d92-884bec46dc65",
+  "platform": "edx",
+  "title": "Probability and Statistics in Data Science using Python",
+  "description": "The job of a data scientist is to glean knowledge from complex and noisy datasets. \n Reasoning about uncertainty is inherent in the analysis of noisy data. Probability and Statistics provide the mathematical foundation for such reasoning. \n In this course, part of the Data Science MicroMasters program, you will learn the foundations of probability and statistics. You will learn both the mathematical theory, and get a hands-on experience of applying this theory to actual data using Jupyter notebooks. \n Concepts covered included: random variables, dependence, correlation, regression, PCA, entropy and MDL.",
+  "learning_goals": [
+    "Probability And Statistics",
+    "Python (Programming Language)",
+    "Random Variables",
+    "Data Science",
+    "Jupyter"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "10 周，每周 10-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alon-orlitsky",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "yoav-freund",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of California, San Diego"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 428,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

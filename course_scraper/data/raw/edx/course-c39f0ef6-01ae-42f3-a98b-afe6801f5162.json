@@ -1,0 +1,60 @@
+{
+  "course_id": "course-c39f0ef6-01ae-42f3-a98b-afe6801f5162",
+  "platform": "edx",
+  "title": "Introduction to Electrical and Electronic Engineering - 電気電子工学入門 -",
+  "description": "This course introduces fundamental topics in electrical and electronic engineering including a broad range of examples. Topics covered are solar cells (batteries) and portable cell phones, applications from Japanese companies, including the high-speed railway, plus advanced research being performed at high-tech laboratories in Japan. The topics covered range from introductory materials to fundamental research and their practical applications. There are two lecture videos on each topic. The lecture at the top of the page is in English (dubbed using Google text to speech API), contains slides in English and closed captions in English. The lecture below is given in Japanese with English transcripts. All materials (slides, quizzes and final report) are provided in both Japanese and English. \n 本コースでは，電気・電子工学の基礎的な内容を、幅広い事例を交えて紹介します。太陽電池や携帯電話、高速鉄道などの日本企業での応用事例や、日本の先端研究所で行われている先進的な研究を取り上げます。このコースを受講することで，本大学の教員や日本の産業界で活躍する技術者から電気電子工学全般についての知識を得ることができます。扱うトピックは、入門的な教材から、基礎的な研究、そしてその実践的な応用という流れに沿ったものとなっています。各トピックには2 つの講義動画があります。ページの一番上の映像の講義は英語（ Google text to speech API を使用した吹き替え）で、英語のスライドと英語のクローズドキャプションが付いています。その下の講義は日本語で行われ、英語のトランスクリプトが含まれています。すべての資料（スライド、クイズ、最終レポート）は日本語と英語の両方で提供されています。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "akira-chiba-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "akira-matsuzawa-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "shinsuke-miyajima-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ayaka-saito-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "masahiro-wakasa-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sakura-ookayama-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "tetsuo-kodera-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Institute of Science Tokyo"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1220,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

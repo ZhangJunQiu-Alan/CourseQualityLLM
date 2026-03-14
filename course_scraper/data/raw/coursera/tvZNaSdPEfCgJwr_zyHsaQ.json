@@ -1,0 +1,26 @@
+{
+  "course_id": "tvZNaSdPEfCgJwr_zyHsaQ",
+  "platform": "coursera",
+  "title": "Secure VPC Networks with Cloud Next Generation Firewall",
+  "slug": "secure-vpc-networks-with-cloud-next-generation-firewall",
+  "description": "This training course, the third course in the Configure Next Generation Firewall Series, shows you how to secure your VPC infrastructure using Cloud Next Generation Firewall (NGFW). Learn how to implement hierarchical and network policies, scope firewall rules, and configure intrusion detection and prevention to counter threats.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/secure-vpc-networks-with-cloud-next-generation-firewall",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

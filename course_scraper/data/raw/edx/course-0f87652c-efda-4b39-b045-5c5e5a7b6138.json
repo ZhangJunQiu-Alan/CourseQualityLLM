@@ -1,0 +1,35 @@
+{
+  "course_id": "course-0f87652c-efda-4b39-b045-5c5e5a7b6138",
+  "platform": "edx",
+  "title": "Balance of Payments and International Investment Position Statistics",
+  "description": "This course covers the fundamentals needed to compile the international accounts. The course introduces the conceptual statistical framework for balance of payments and IIP-as presented in the Balance of Payments and International Investment Position Statistics Manual, sixth edition (BPM6), which is harmonized with other macroeconomic statistical frameworks. You will learn about the current, capital, and financial account balances, and how they reflect your economy's interaction with the rest of the world. Basic concepts, definitions, and classifications are covered, along with the principal accounting rules (including valuation and time of recording) that are relevant for compilation of the international accounts. The course also discusses the functional categories, including direct investment. The need for integration of the balance of payments with the IIP for compiling comprehensive, internationally comparable statistics will also be discussed.",
+  "learning_goals": [
+    "Foreign Direct Investments",
+    "Direct Investments",
+    "Accounting",
+    "Integration"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "tamara-razin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 466,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "iB_JT1wxEeyg-RKSDfcVFQ",
+  "platform": "coursera",
+  "title": "Developing Data Models with LookML 日本語版",
+  "slug": "developing-data-models-with-lookml-ja",
+  "description": "このコースを受講すると、スケーラブルでパフォーマンスの高い LookML（Looker モデリング言語）モデルを開発し、ビジネス ユーザーの疑問解決に役立つ標準化されたすぐに使えるデータを提供できるようになります。このコースの修了時には、組織の Looker インスタンスでデータをキュレートして管理するための LookML モデルの構築と維持が可能になります。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/developing-data-models-with-lookml-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

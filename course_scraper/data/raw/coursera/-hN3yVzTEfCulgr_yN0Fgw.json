@@ -1,0 +1,26 @@
+{
+  "course_id": "-hN3yVzTEfCulgr_yN0Fgw",
+  "platform": "coursera",
+  "title": "The Pearson Complete Course for CISM Certification: Unit 4",
+  "slug": "pearson-the-pearson-complete-course-for-cism-certification-video-training-mszay",
+  "description": "This course is designed for professionals who want to master the critical skills needed to anticipate, prepare for, and effectively respond to security threats. You'll begin by exploring incident management planning and conducting a thorough Business Impact Analysis (BIA) to understand the potential effects of incidents on your organization. Delve into resiliency concepts, backup and recovery strategies, and disaster recovery planning to ensure your organization can withstand and quickly recover from disruptions. Gain insights into the minds of adversaries by studying attack vectors, including malware and social engineering. Armed with this knowledge, you'll learn to utilize detection and response tools, handle evidence, and conduct forensic examinations.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-the-pearson-complete-course-for-cism-certification-video-training-mszay",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

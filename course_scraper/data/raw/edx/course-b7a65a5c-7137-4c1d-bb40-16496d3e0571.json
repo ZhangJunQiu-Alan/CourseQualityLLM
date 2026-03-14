@@ -1,0 +1,34 @@
+{
+  "course_id": "course-b7a65a5c-7137-4c1d-bb40-16496d3e0571",
+  "platform": "edx",
+  "title": "Análisis estadístico con Excel",
+  "description": "En este curso en línea el estudiante aprenderá los conceptos estadísticos básicos para realizar un análisis aplicado de datos, haciendo los cálculos en Excel y buscando la interpretación de cada una de las medidas calculadas, comenzando con un análisis exploratorio descriptivo de los datos hasta llevarlo a desarrollar estadística inferencial. \n El énfasis del curso de análisis de datos y estadísticas es eminentemente práctico para que el estudiante pueda realizar el manejo adecuado de datos y tomar decisiones empresariales exitosas.",
+  "learning_goals": [
+    "Statistical Analysis",
+    "Statistical Inference",
+    "Data Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "samuel-reyes-gomez",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Galileo"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 419,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,66 @@
+{
+  "course_id": "course-3aeadf90-2309-4df1-9300-d9a3a8a7f131",
+  "platform": "edx",
+  "title": "AI in Practice: Applying AI",
+  "description": "This course is not about difficult algorithms and complex programming; it is a course for anyone interested in learning how to integrate AI into their own organization. \n To understand how current Artificial Intelligence applications can be successfully integrated in organizations, we look at different examples. For instance, how ING uses reinforcement learning for personalized dialog management with its customers or how Radboud UMC uses diagnostic image analysis to discover early stages of infectious diseases. \n As part of our two-course program ‘AI in Practice’, this course will guide you in the practical aspects of applying AI in your own organization. You will examine typical applications of AI in use already and learn from their experience. These include challenges of implementation, lifecycle aspects, as well as the maintenance and management of AI applications. \n The course presents a variety of case studies from actual situations in public organizations and private enterprises in the healthcare, financial, retail and telecommunications sectors. These include Radboud UMC, the Municipality of Amsterdam, ING, Ahold Delhaize and KPN. \n ‘AI in Practice – Applying AI’ gives you the ammunition to understand the practical aspects required for the implementation of a variety of AI applications in your organization. \n  This course has been developed by Delft University of Technology and the Innovation Center for Artificial Intelligence Academy (ICAI). ICAI is a national initiative involving industry, universities and government in the area of AI research and applications.",
+  "learning_goals": [
+    "Machine Learning",
+    "Image Analysis",
+    "Applications Of Artificial Intelligence",
+    "Reinforcement Learning",
+    "Data Analysis",
+    "Artificial Intelligence",
+    "Innovation",
+    "Natural Language Processing",
+    "Deep Learning",
+    "Algorithms"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "bram-van-ginneken",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "marleen-huysman-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "floris-bex",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sennay-ghebreab",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "arie-van-deursen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "luis-miranda-da-cruz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 980,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "D9BZkIJyEe-L8RKezlgehQ",
+  "platform": "coursera",
+  "title": "Intro to Null Hypothesis Significance Testing with z-test",
+  "slug": "nhst-and-z-test",
+  "description": "This is primarily aimed at first- and second-year undergraduates interested in psychology, data analysis, and quantitative research methods along with high school students and professionals with similar interests.\n\nThis course delves into the foundational concepts of probability and statistics, emphasizing the importance of random sampling and the normal distribution. Students will learn to apply statistical methods, including z-scores, effect size, and confidence intervals in the context of null hypothesis significance testing. The course also covers the implications of the central limit theorem and the relationship between statistical power and error types.\n\nTable of Contents:\nProbability and Distributions\nThe Normal Distribution\nSampling Distributions and the Central Limit Theorem\nThe Logic of Null Hypothesis Significance Testing\nNull Hypothesis Significance Testing With the z-test\nErrors in Null Hypothesis Significance Testing\nEvaluating Statistical Significance\nEffect Size, Confidence Intervals, and Power",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "5 weeks",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/nhst-and-z-test",
+  "instructors": [
+    {
+      "name": "Mike Stadler, PhD",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "American Psychological Association"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

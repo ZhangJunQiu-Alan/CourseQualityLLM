@@ -1,0 +1,31 @@
+{
+  "course_id": "1470428182",
+  "platform": "mooc_cn",
+  "title": "消防电气控制技术",
+  "description": "《消防电气控制技术》课程内容紧密围绕消防设备的控制问题，是一门讲授电气控制基本电路、控制线路设计方法和建筑消防设备控制过程的课程，是消防工程本科专业的必修课，是一门理论实践相结合、应用广泛的专业基础课程。通过本课程的学习，可以使学生了解常用低压控制电器的结构原理、工作特性、常用型号及选用原则，熟悉常用低压控制电器的图形文字符号，理解电力拖动控制基本方法，掌握消防电气设备控制的基本原理和实现方式。从而能够满足消防实际工作中的消防设备维修和保养能力要求。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470428182",
+  "instructors": [
+    {
+      "name": "杨卫国;王海荣;王允",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国人民警察大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1279,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

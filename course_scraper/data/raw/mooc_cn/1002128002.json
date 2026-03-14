@@ -1,0 +1,31 @@
+{
+  "course_id": "1002128002",
+  "platform": "mooc_cn",
+  "title": "石油炼制工程",
+  "description": "本课程重点介绍当前石油加工的主要技术，展望未来石油加工的发展方向，内容简练，重点突出，在线互动，为不同学习背景的学员提供相互交流与学习的平台。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002128002",
+  "instructors": [
+    {
+      "name": "刘欣梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国石油大学（华东）"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17365,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

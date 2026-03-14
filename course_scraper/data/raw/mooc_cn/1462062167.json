@@ -1,0 +1,31 @@
+{
+  "course_id": "1462062167",
+  "platform": "mooc_cn",
+  "title": "传播学概论",
+  "description": "这是一个传媒的时代，这是一个传播的时代，传媒技术让我们每个人都成为千里眼和顺风耳的合体，《传播学概论》带领您进入传媒世界，去了解传媒如何影响社会，如何影响我们的日常生活。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462062167",
+  "instructors": [
+    {
+      "name": "韩敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18618,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

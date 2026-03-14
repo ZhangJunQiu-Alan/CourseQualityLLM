@@ -1,0 +1,26 @@
+{
+  "course_id": "tm_FXv-wEe-glg6vww23RQ",
+  "platform": "coursera",
+  "title": "Monitoring, Security, and High Availability in Vault",
+  "slug": "packt-monitoring-security-and-high-availability-in-vault-j9y41",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nMaster the art of securing and monitoring HashiCorp Vault while ensuring high availability for mission-critical environments. This course will equip you with the knowledge to effectively monitor Vault using telemetry, audit logs, and operational logs, ensuring you have full visibility into your system’s security and performance.\n\nYou'll begin by learning how to track and interpret Vault’s telemetry, audit logs, and operational logs to detect anomalies and optimize performance. Through hands-on demos, you’ll gain practical experience in log analysis and monitoring strategies. Next, you’ll explore Vault’s security model, including best practices for secure client introductions and running Vault in Kubernetes environments.\n\nThe course then dives into high availability (HA) and fault-tolerance, guiding you through configuring HA Vault clusters using various methods such as manual setups, Retry_Join, and Auto_Join. You’ll also learn how to enable and manage disaster recovery (DR) replication and promote secondary clusters when needed. Finally, you’ll explore Hardware Security Module (HSM) integration, understanding how auto-unsealing and seal wrapping enhance security and operational efficiency.\n\nThis course is ideal for DevOps engineers, security professionals, and system administrators managing Vault deployments. A basic understanding of HashiCorp Vault, Kubernetes, and infrastructure security is recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-monitoring-security-and-high-availability-in-vault-j9y41",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

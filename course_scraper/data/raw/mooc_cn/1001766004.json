@@ -1,0 +1,31 @@
+{
+  "course_id": "1001766004",
+  "platform": "mooc_cn",
+  "title": "生物大数据",
+  "description": "“大数据”是时下最火热的词汇，是各行业人士争相追捧的利润焦点。自1977年2月，Sanger与他的同事发表了第一个生物体的完整基因组序列以来，生物学大数据时代也宣告来临。生物学大数据技术的战略意义不在于掌握庞大的数据信息，而在于对这些大数据所蕴含生物学知识的提取。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001766004",
+  "instructors": [
+    {
+      "name": "何华勤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建农林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41440,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

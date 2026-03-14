@@ -1,0 +1,32 @@
+{
+  "course_id": "course-27455a90-8377-4b60-a499-41417bf728f0",
+  "platform": "edx",
+  "title": "United States Health Policy",
+  "description": "Health care in America can be complicated. Most Americans might not fully understand the basics of the U.S. health care system or health care policies such as the Affordable Care Act (ACA). Featuring some of the nation’s foremost teachers and thought leaders, this course provides students with a basic and thorough understanding of the U.S. health care system focusing on access, quality of care, and costs. Students will learn how the system is structured, how care is organized, delivered, and financed, and the role of the Affordable Care Act in the health care system. Students will understand the U.S. health policy-making structure process at the federal, state, and local levels. Students who complete this course will be able to interpret current controversies around US health policy and develop informed opinions on potential future policy developments. \n Please note that the content in this course was created prior to the implementation of the ACA.",
+  "learning_goals": [
+    "Health Policies"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 1-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "john-mcdonough",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 523,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,35 @@
+{
+  "course_id": "course-f2d7fc1d-07f2-413f-b710-39716f955c62",
+  "platform": "edx",
+  "title": "Battery Technology",
+  "description": "This course takes you deep into the world of batteries, a critical field driving the transition to renewable energy and sustainable mobility. This course offers an overview of battery systems, from their chemical operating principles and design to their manufacture and use.  \n You will begin by exploring the urgency and challenges for storing electricity in batteries, and their importance in modern energy systems. You will be introduced to the principle behind a battery through an experiment with a salt battery. \n The course then covers various battery technologies, including lead-acid, lithium-ion, sodium-ion, redox flow and multivalent-ion batteries, with a focus on their chemistry, design, functionality, and sustainability. \n Also, the course will dive deeper into the fabrication and processing of batteries with an emphasis on circular economy principles, green manufacturing, and innovations like artificial intelligence and machine learning in battery management systems. Safety issues and eco-design considerations will also be highlighted. \n You will also study the chemical reactions and kinetics within batteries and learn how to analyze their performance through testing methods. Non-electrochemical diagnostic tools will also be discussed to help you understand the aging processes of battery materials and examine ways to extend their lifespan. \n By the end of the course, you will have a solid understanding of the theory and application of battery systems, equipping you with the knowledge to contribute to innovation in energy storage technologies. \n This course is essential for engineers, students and other technical or non-technical professionals aiming to stay at the forefront of the energy transition, empowering them make informed decisions in research, industry and policy making.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "erik-kelder",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mark-kwakernaak",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 544,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

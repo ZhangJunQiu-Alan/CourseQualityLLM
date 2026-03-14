@@ -1,0 +1,31 @@
+{
+  "course_id": "1205977806",
+  "platform": "mooc_cn",
+  "title": "信息论与编码",
+  "description": "《信息论与编码》课程是电子信息工程、通信工程专业本科生的一门重要的专业主干课。作为现代信息通信领域的基础理论，信息论与编码主要研究信息传输和信息处理的一般规律。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205977806",
+  "instructors": [
+    {
+      "name": "李响;严军;张祥莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国地质大学（武汉）"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22886,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

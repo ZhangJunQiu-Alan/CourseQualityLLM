@@ -1,0 +1,31 @@
+{
+  "course_id": "1003566002",
+  "platform": "mooc_cn",
+  "title": "计算机系统综合设计",
+  "description": "《计算机系统综合设计》是东南大学计算机科学与工程学院经过十余年着力打造的一门综合性、实践性很强的集中实践环节，该课程曾在2009年获得“教育部-Intel精品课程”。2021年获得江苏省线上线下混合式教学一流课程，2023年获得国家级线上线下混合式教学一流课程。课程通过详实的讲解和充实的实验，带你进入SOC（CPU+接口+编译）设计的殿堂，让你拥有属于自己的具有常见MIPS指令的SOC和编译器。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003566002",
+  "instructors": [
+    {
+      "name": "杨全胜;翟玉庆;吴强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9300,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "12JpYOBYEfCNCQr_98rv0Q",
+  "platform": "coursera",
+  "title": "Create An AI Agent With Replit That Automates Your Sales",
+  "slug": "ai-agent",
+  "description": "Use AI software development called Vibe Coding to create a fully autonomous AI agent using Replit that handles outreach, follow-ups, and closes sales for you.\n\nImagine an AI agent that sends emails, follows up with leads, books calls, and even closes sales, all without you lifting a finger.\n\nIn this hands-on course, you’ll learn how to build your own autonomous AI agent using Replit’s Vibe coding environment. This is not just a chatbot. It’s a smart, action-taking, goal-driven sales assistant that runs in the background - prospecting, pitching, and selling for your business 24/7.\n\nWhat You’ll Learn:\n\nHow to architect a fully autonomous AI agent from scratch\n\nStep-by-step walkthrough of Replit's Vibe environment\n\nHow to give your agent memory, goals, and decision-making logic\n\nWriting prompts and API logic to make the agent:\n\nFind leads\n\nWrite email outreach\n\nFollow up based on lead behavior\n\nClose or escalate deals\n\nHow to integrate with tools like Gmail, Zapier, CRMs, and scheduling links\n\nTesting and deploying your AI agent on autopilot\n\nWhy Take This Course?\n\nYou're tired of manual sales and outreach\n\nYou want to use AI for more than just generating content\n\nYou’re ready to build something that acts, adapts, and drives real revenue\n\nYou want to learn LLM agent design, not just GPT chat prompts\n\nWhether you’re a marketer, freelancer, startup founder, or agency owner, this course gives you a plug-and-play framework to automate your sales using cutting-edge AI agent tech.\n\nRequirements:\n\nNo advanced coding needed (we use Replit’s beginner-friendly Vibe interface)\n\nBasic familiarity with AI tools or APIs helpful but not required\n\nDisclaimer:\n\nReplit is a paid service, so expect to pay their minimum usage fees.\n\nStart automating your outreach and let your AI agent sell while you sleep.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/ai-agent",
+  "instructors": [
+    {
+      "name": "Alex Genadinik",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Alex Genadinik"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

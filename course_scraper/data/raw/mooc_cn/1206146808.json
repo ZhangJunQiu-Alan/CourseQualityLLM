@@ -1,0 +1,31 @@
+{
+  "course_id": "1206146808",
+  "platform": "mooc_cn",
+  "title": "深度学习应用开发-TensorFlow实践",
+  "description": "人工智能（AI）、机器学习的应用开发实践课程，浙江省一流线上课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206146808",
+  "instructors": [
+    {
+      "name": "金苍宏;吴明晖;李卓蓉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙大城市学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56167,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

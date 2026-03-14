@@ -1,0 +1,31 @@
+{
+  "course_id": "1002579002",
+  "platform": "mooc_cn",
+  "title": "化工导论",
+  "description": "天津大学《化工导论》课程是为大专院校化工类学生及化工专业与非专业人士学习和了解现代化工概貌及其工程与技术基础知识而开设的导论性入门课程，旨在为专业和非专业的大学生及社会公众提供快速了解化工各专业特性的通道。为学习和工作提供指引与帮助。课程线下授课自2000年至今已连续25年，教学团队精良，教学经验丰富。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002579002",
+  "instructors": [
+    {
+      "name": "张毅民;刘国柱;李国柱;唐韶坤;夏淑倩;王成扬;王莅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "天津大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14918,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

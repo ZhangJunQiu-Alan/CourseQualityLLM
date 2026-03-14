@@ -1,0 +1,26 @@
+{
+  "course_id": "sfS6cvGHEfCkqwr_6Yow9Q",
+  "platform": "coursera",
+  "title": "Transform Data: Cleanse, Encode, Validate",
+  "slug": "transform-data-cleanse-encode-validate",
+  "description": "This course teaches you how to transform real-world datasets into reliable analytical assets through practical, reproducible data-cleaning techniques. You’ll learn how to evaluate categorical features and select optimal encoding strategies, measure and document data quality, and apply effective approaches to handle missing values. Using Python and pandas, you'll practice assessing cardinality, implementing target encoding, validating completeness with Great Expectations, and building transparent transformation lineage. You’ll also clean messy fields such as ages, salary outliers, and dates to ensure consistent model-ready outputs. Designed for analysts, data engineers, and ML practitioners, this course equips you with the job-ready skills needed to prepare high-quality datasets that support trustworthy insights and predictive modeling.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/transform-data-cleanse-encode-validate",
+  "instructors": [
+    {
+      "name": "ansrsource instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

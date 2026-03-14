@@ -1,0 +1,26 @@
+{
+  "course_id": "yHvuv3ZLEei_sRJ3tviPRg",
+  "platform": "coursera",
+  "title": "Continuous Delivery & DevOps ",
+  "slug": "uva-darden-continous-delivery-devops",
+  "description": "Amazon famously delivers new code every 11.6 seconds. Just a few years ago, this was unthinkable: many ‘cutting edge’ firms would release software quarterly. When it comes to digital innovation, velocity is critical and many would say it’s the most reliable determinant of success. \n\nBringing an organization to the state of the art (or even functional capability) in this area requires strong work in a combination of disciplines and a combination of both technical and managerial skills. There is no single cookie-cutter approach for achieving this capability. Much like agile, the right focus and formulation depends a lot on the facts and circumstances of the team. This course, developed at the Darden School of Business at the University of Virginia and taught by top-ranked faculty, will provide you with the interdisciplinary skill set to cultivate a continuous deployment capability in your organization. \n\nAfter completing this course, you will be able to: \n1. Diagnose a team’s delivery pipeline and bring forward prioritized recommendations to improve it\n2. Explain the skill sets and roles involved in DevOps and how they contribute toward a continuous delivery capability\n3. Review and deliver automation tests across the development stack\n4. Explain the key jobs of system operations and how today’s leading techniques and tools apply to them\n5. Explain how high-functioning teams use DevOps and related methods to reach a continuous delivery capability \n6. Facilitate prioritized, iterative team progress on improving a delivery pipeline",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/uva-darden-continous-delivery-devops",
+  "instructors": [
+    {
+      "name": "Alex Cowan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Virginia"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

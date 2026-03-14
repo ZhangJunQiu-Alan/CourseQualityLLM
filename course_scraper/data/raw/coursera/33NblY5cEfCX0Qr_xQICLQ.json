@@ -1,0 +1,31 @@
+{
+  "course_id": "33NblY5cEfCX0Qr_xQICLQ",
+  "platform": "coursera",
+  "title": " Introduction to Generative AI: Concepts and Techniques",
+  "slug": "introduction-to-generative-ai-concepts-and-techniques",
+  "description": "This four-module course gives you a clear, practical foundation in Generative AI from what it is and where it’s used, to how modern models work and how to apply them responsibly. You’ll start with the big picture: GenAI capabilities across text, image, audio, and video, plus real-world industry applications. Then you’ll dive into the science behind today’s Large Language Models: text representation (tokenization, embeddings), and the Transformer architecture (positional encoding, self-attention, encoder/decoder flow).\nNext, you’ll get hands-on with LLMs and workflows: crafting effective prompts, calling models via web/UI and APIs, running models locally (e.g., via Ollama), and extending capabilities with Retrieval-Augmented Generation (RAG) and fine-tuning. Finally, you’ll examine challenges and responsible practice, including copyright, privacy and security, explainability, and questions of ownership in the GenAI era.\nDesigned for learners with basic Machine Learning and Python familiarity, the course blends short lessons with labs, quizzes, and exercises. By the end, you’ll understand the core concepts and architectures behind GenAI with a strong sense in ethical and responsible use and GenAI limitations.\n\n\nBy the end of this course, learners will be able to:\n\nExplain how generative AI spans text, image, audio, and video and assess real industry workflows where it creates value.\n\n\nTrace the evolution of language modeling from probabilistic/NLP approaches to Transformers, and justify why attention overcomes prior limitations.\n\n\nUnderstand tokenization and word embeddings, and reason about how these representations affect model behavior.\n\n\nDecompose a Transformer block and follow tensors, through self-attention, MLPs, and normalization to explain how representations are formed and refined.\nOperate LLMs via web UIs, APIs, and locally with Ollama to  write minimal inference code and improve outputs using prompt patterns and get familiar with  concepts of RAG and Fine-Tuning as possible  next steps.\n\n\nIdentify, analyze, and explain LLMs shortcomings such as bias, hallucination, ownership, and prompt injection by formulating user-level guidelines, organizational processes, and governance policies.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-generative-ai-concepts-and-techniques",
+  "instructors": [
+    {
+      "name": "Amreen Anbar",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Soroush Razavi",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Alberta Machine Intelligence Institute"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

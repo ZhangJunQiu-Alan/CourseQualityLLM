@@ -1,0 +1,39 @@
+{
+  "course_id": "course-9cdfd053-edd7-43b0-b595-c73aa4beeaaa",
+  "platform": "edx",
+  "title": "Fundamentals of Market Structure",
+  "description": "Taught by instructors with decades of experience on Wall Street, this economics and finance course provides students with a basic foundation in market structure, market structure science, and market mechanics. \n You’ll learn about the major elements and concepts that form a market and determine its development. You’ll also learn about key market participants including market makers, brokers, asset managers, hedge funds and more. \n This free course is from the New York Institute of Finance, a highly sought after designation that leading financial services and employers know and trust globally. \n This free course is a great introduction to market structure. For a deeper understanding of financial markets and to be qualified to perform in the real world and meet the demanding realities of finance, see the NYIF’s professional certificate course   Electronic Trading in Financial Markets  .",
+  "learning_goals": [
+    "Financial Services",
+    "Electronic Trading",
+    "Economics",
+    "Market Maker",
+    "Market Structure",
+    "Hedge Funds",
+    "Financial Market",
+    "Finance"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "chris-white",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "New York Institute of Finance"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 276,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

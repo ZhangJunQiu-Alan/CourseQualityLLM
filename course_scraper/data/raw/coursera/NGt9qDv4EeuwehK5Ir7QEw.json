@@ -1,0 +1,26 @@
+{
+  "course_id": "NGt9qDv4EeuwehK5Ir7QEw",
+  "platform": "coursera",
+  "title": "Database Design and Basic SQL in PostgreSQL",
+  "slug": "database-design-postgresql",
+  "description": "In this course you will learn more about the historical design of databases and the use of SQL in the PostgreSQL environment. Using SQL techniques and common commands (INSERT INTO, WHERE, ORDER BY, ON DELETE CASCADE, etc) will enable you to create tables, column types and define the schema of your data in PostgreSQL.    You will learn about data modeling and how to represent one-to-many and many-to-many relationships in PostgreSQL.   Students will do hands-on assignments creating tables, inserting data, designing data models, creating relational structures and inserting and querying relational data in tables.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/database-design-postgresql",
+  "instructors": [
+    {
+      "name": "Charles Russell Severance",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Michigan"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

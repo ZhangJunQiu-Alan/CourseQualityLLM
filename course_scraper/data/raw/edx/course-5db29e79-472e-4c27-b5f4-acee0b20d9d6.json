@@ -1,0 +1,59 @@
+{
+  "course_id": "course-5db29e79-472e-4c27-b5f4-acee0b20d9d6",
+  "platform": "edx",
+  "title": "Introduction aux enjeux du développement durable.",
+  "description": "Que recouvrent les concepts de \"développement durable\" et de \"transition\" ? Quelles sont leurs origines ? Quels sont les enjeux sociaux et environnementaux du 21ème siècle ? Quelles sont les options pour transformer nos modes de vie dans la perspective d'un développement plus respectueux des limites planétaires ? \n Dans ce cours, nous abordons ces questions selon une approche scientifique et universitaire. En faisant intervenir des expert.es de différents domaines (le droit, la philosophie, l'ingénierie, le management, l'agronomie, l'économie, la médecine...), ce MOOC vous invite à développer des connaissances approfondies sur les enjeux du développement durable et de la transition, à comprendre les éléments en tension qui suscitent le débat et à développer le recul critique nécessaire pour mettre ces points de tension en perspective. \n L'approche interdisciplinaire retenue dans ce cours nous semble indispensable pour s'approprier les enjeux du développement durable de manière transversale. Chaque discipline apporte un type de diagnostic sur les enjeux sociaux et environnementaux et sur leurs causes, puis ouvre la porte à des pistes d'actions et de solutions spécifiques. C'est en faisant dialoguer ces différentes disciplines que nous pourrons faire progresser les connaissances et la société dans le sens d'un développement plus durable, plus inclusif, plus juste. Ainsi, la valeur ajoutée de ce cours réside dans les liens que vous pourrez établir entre les différents sujets abordés. \n Les connaissances sur les enjeux du développement durable sont nombreuses et évoluent constamment. Ce cours ne prétend pas en faire le tour complet mais il vous invite à plonger dans la vaste étendue des travaux scientifiques qui cherchent à faire progresser la société sur ces sujets.",
+  "learning_goals": [
+    "Debating",
+    "Agronomy",
+    "Environmental Issue",
+    "Management",
+    "Sustainable Development",
+    "Economics",
+    "Engineering Management",
+    "Scientific Methods"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "13 周，每周 5-8 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "philippe-baret",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "valentin-couvreur",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "nathalie-delzenne",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jessica-lieberman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "valerie-swaen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Université catholique de Louvain"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1316,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

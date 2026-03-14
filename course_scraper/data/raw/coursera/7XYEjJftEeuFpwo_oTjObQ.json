@@ -1,0 +1,26 @@
+{
+  "course_id": "7XYEjJftEeuFpwo_oTjObQ",
+  "platform": "coursera",
+  "title": "Segurança de TI: defesa contra as artes negras digitais",
+  "slug": "it-security-pt",
+  "description": "Este curso abrange uma grande variedade de conceitos, ferramentas e práticas recomendadas ao nível da segurança de TI. Aborda ameaças e ataques e as várias formas através das quais podem surgir. Vamos fornecer-lhe algumas informações gerais sobre o que são os algoritmos de encriptação e como são utilizados para salvaguardar dados. Em seguida, vamos analisar detalhadamente os três aspetos mais importantes da segurança das informações: autenticação, autorização e contabilidade. Também vamos abordar soluções de segurança de rede, desde firewalls a opções de encriptação de Wi-Fi. Por último, vamos analisar um caso prático, no qual examinamos o modelo de segurança do Chrome OS. O curso conclui ao reunir todos estes elementos numa arquitetura de segurança detalhada e de várias camadas, apresentando depois recomendações sobre como integrar uma cultura de segurança na sua entidade ou equipa.\nNo final deste curso, vai saber mais sobre:\n● como funcionam vários algoritmos e técnicas de encriptação, bem como as respetivas vantagens e limitações\n● vários tipos e sistemas de autenticação\n● a diferença entre autenticação e autorização\n● como avaliar potenciais riscos e recomendar formas de reduzir o risco\n● práticas recomendadas para proteger uma rede\n● como ajudar as outras pessoas a entender conceitos de segurança e a protegerem-se",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "pt-PT",
+  "url": "https://www.coursera.org/learn/it-security-pt",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002013001",
+  "platform": "mooc_cn",
+  "title": "水声学",
+  "description": "几十年前人类便翱翔在太空、行走于月球，那么什么时候才可以去海洋内部走走看看？海洋内部可以打电话吗？能上网吗？有没有导航软件为我们指路？随着水声工程和水声技术的发展，一切皆有可能，但必须从水声学课程学习开始，它将为您提供水下探测、识别、定位、导航、通讯、遥感和遥测所需的原理或方法！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002013001",
+  "instructors": [
+    {
+      "name": "黄益旺",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24814,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

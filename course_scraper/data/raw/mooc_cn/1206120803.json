@@ -1,0 +1,31 @@
+{
+  "course_id": "1206120803",
+  "platform": "mooc_cn",
+  "title": "数据库及应用",
+  "description": "本课程以Microsoft Office 中的Access为例，介绍数据库系统的基本理论、设计开发和操作应用。主要内容包括关系数据库的基本理论、数据库系统的设计思想、数据库的创建与应用，以及Access数据库和表、查询、窗体等对象的操作，同时介绍数据库发展的前沿技术，如数据挖掘等算法等，具有鲜明的特色。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206120803",
+  "instructors": [
+    {
+      "name": "张志;朱平;张承德;杨璠;蔡燕;李向;王倩;马霄",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南财经政法大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 55577,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

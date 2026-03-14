@@ -1,0 +1,31 @@
+{
+  "course_id": "1470856172",
+  "platform": "mooc_cn",
+  "title": "嵌入式技术",
+  "description": "本课程是物联网应用技术专业的专业核心课程。是物联网专业课程体系中的重要组成部分，不仅是对嵌入式技术原理和系统构建的学习，同时还为物联网后续课程的开设提供支持。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470856172",
+  "instructors": [
+    {
+      "name": "周波;聂佰玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1876,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

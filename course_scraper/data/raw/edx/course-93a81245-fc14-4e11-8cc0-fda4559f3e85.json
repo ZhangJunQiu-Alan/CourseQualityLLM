@@ -1,0 +1,35 @@
+{
+  "course_id": "course-93a81245-fc14-4e11-8cc0-fda4559f3e85",
+  "platform": "edx",
+  "title": "Healthcare and Crisis Preparation",
+  "description": "This course will teach you about the importance of understanding crises and the benefits of crisis preparation. You will explore disaster epidemiology and how to better estimate disaster vulnerabilities. You will also learn about the importance of evaluating a need for a Hazard Vulnerability Analysis and the steps involved in conducting such an analysis. Additionally, you'll learn about disaster management, the intricacies of the Incident Command System, and the role of a crisis response team. You will also gain insight into the impact of good communication during a crisis and how the crisis response team can effectively prepare for one.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dr-matthew-strehlow",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-m-meredith-masters",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 297,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

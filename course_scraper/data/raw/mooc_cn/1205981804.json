@@ -1,0 +1,31 @@
+{
+  "course_id": "1205981804",
+  "platform": "mooc_cn",
+  "title": "数据结构与算法",
+  "description": "《数据结构与算法》是计算机等相关专业的核心课程，主要讨论抽象数据关系和算法在计算机中的表示与实现，具体包括线性表、栈、队列、树、图、查找和排序。通过对该课程，学习者可以更加合理有效地组织、存储和处理数据，设计正确有效的算法；并能充分提升抽象思维、创造力和逻辑思维能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205981804",
+  "instructors": [
+    {
+      "name": "于红;张淼;刘晗;刘馨月;宗林林",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16154,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

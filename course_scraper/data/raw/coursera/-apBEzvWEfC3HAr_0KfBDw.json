@@ -1,0 +1,26 @@
+{
+  "course_id": "-apBEzvWEfC3HAr_0KfBDw",
+  "platform": "coursera",
+  "title": "The Linux Essentials",
+  "slug": "packt-the-linux-essentials-yafiq",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you'll embark on a journey through the world of Linux, gaining foundational knowledge to navigate and manage Linux operating systems. From understanding the history and usage of Linux to mastering essential command-line operations, this course will provide you with a strong base to begin your Linux journey. You'll also dive into Linux distributions, comparing popular versions like Ubuntu, CentOS, and Debian, and learn the nuances of installing and configuring them.\nAs you progress, you'll explore using Linux’s powerful CLI (Command Line Interface) for tasks such as file management, software installation, networking, and scripting. You’ll learn how to manage networks, secure systems, and administer user accounts, empowering you to configure, manage, and secure Linux systems with confidence.\nThe course is designed for beginners who want to start from the basics, progressing to more advanced Linux administration tasks. Whether you’re interested in IT, system administration, or development, this course will provide a solid foundation for managing Linux environments. No prior experience with Linux is required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-the-linux-essentials-yafiq",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

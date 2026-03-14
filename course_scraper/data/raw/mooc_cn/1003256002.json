@@ -1,0 +1,31 @@
+{
+  "course_id": "1003256002",
+  "platform": "mooc_cn",
+  "title": "土木工程制图",
+  "description": "本门课程是哈尔滨工业大学校管核心课，授课对象为土、建、交通类大类本科生，课程内容包括土建类画法几何、土建类建筑形体表达方法、建筑施工图的阅读和绘制、中望建筑CAD及土建类AutoCAD2020基本操作。      本课程由由哈尔滨工业大学工程图学部一线教师结合多年教学经验精心打造。主讲教师负责教学项目10项，国家级图学系列教学竞赛一等奖，E9卓越联盟创新教学法竞赛一等奖。 后续课程为《BIM技术基础-Revit2019建筑》，在本网站同时上线。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003256002",
+  "instructors": [
+    {
+      "name": "何蕊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36255,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

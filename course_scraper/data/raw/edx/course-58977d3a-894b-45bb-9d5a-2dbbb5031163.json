@@ -1,0 +1,47 @@
+{
+  "course_id": "course-58977d3a-894b-45bb-9d5a-2dbbb5031163",
+  "platform": "edx",
+  "title": "Introduction to SQL",
+  "description": "Much of the world's data lives in databases. SQL (or Structured Query Language) is a powerful programming language that is used for communicating with and manipulating data in databases. A working knowledge of databases and SQL is necessary for anyone who wants to start a career in Data Engineering, Data Analytics or Data Science. The purpose of this course is to introduce relational database (RDBMS) concepts and help you learn and apply foundational and intermediate knowledge of the SQL language.      \n You will start with performing basic Create, Read, Update and Delete (CRUD) operations using CREATE, SELECT, INSERT, UPDATE and DELETE statements. You will then learn to filter, order, sort, and aggregate data. You will also work with functions, perform sub-selects and nested queries, as well as access multiple tables in the database.     \n The emphasis in this course is on hands-on, practical learning. As such, you will work with real database systems, use real tools, and real-world datasets. You will create a database instance in the cloud. Through a series of hands-on labs, you will practice building and running SQL queries. At the end of the course you will apply and demonstrate your skills with a final project.     \n The SQL skills you learn in this course will be applicable to a variety of RDBMSes such as MySQL, PostgreSQL, IBM Db2, Oracle, SQL Server and others.     \n No prior knowledge of databases, SQL or programming is required, however some basic data literacy is beneficial.",
+  "learning_goals": [
+    "Data Manipulation",
+    "Data Analysis",
+    "Nested Queries",
+    "IBM DB2",
+    "Oracle SQL Developer",
+    "MySQL",
+    "PostgreSQL",
+    "Data Science",
+    "SQL (Programming Language)",
+    "Database Systems",
+    "Communications",
+    "Relational Database Management Systems",
+    "Microsoft Access",
+    "Relational Databases",
+    "Operations",
+    "Data Engineering"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1772,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

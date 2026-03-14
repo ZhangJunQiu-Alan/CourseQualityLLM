@@ -1,0 +1,36 @@
+{
+  "course_id": "course-907185f6-0f8e-4e58-9099-4521428a4712",
+  "platform": "edx",
+  "title": "Neuronal Dynamics",
+  "description": "This course gives an introduction to the field of theoretical and computational neuroscience with a focus on models of single neurons. Neurons encode information about stimuli in a sequence of short electrical pulses (spikes). Students will learn how mathematical tools such as differential equations, phase plane analysis, separation of time scales, and stochastic processes can be used to understand the dynamics of neurons and the neural code.  \n Week 1: A first simple neuron model \n Week 2: Hodgkin-Huxley models and biophysical modeling \n Week 3: Two-dimensional models and phase plane analysis \n Week 4: Two-dimensional models (cont.)/ Dendrites \n Week 5: Variability of spike trains and the neural code \n Week 6: Noise models, noisy neurons and coding \n Week 7: Estimating neuron models for coding and decoding \n Before your course starts, try the new edX Demo where you can explore the fun, interactive learning environment and virtual labs.  Learn more .",
+  "learning_goals": [
+    "Stochastic Process",
+    "Pulses",
+    "Differential Equations",
+    "Heart Rate",
+    "Computational Neuroscience"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "7 周，每周 5-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "wulfram-gerstner",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "École polytechnique fédérale de Lausanne"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 321,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

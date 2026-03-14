@@ -1,0 +1,31 @@
+{
+  "course_id": "1205916813",
+  "platform": "mooc_cn",
+  "title": "电路原理",
+  "description": "东北大学的“电路原理”课是辽宁省精品课程，教学团队具有丰富的教学经验。经过几代教师的不懈努力，教学形成了自己的特色，深受教师和学生好评。通过课程的学习，使学生掌握电路原理的基本知识、电路分析计算的基本方法，培养学生科学的分析、解决工程实际电路问题的基本能力和素质。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205916813",
+  "instructors": [
+    {
+      "name": "李华;汪刚;会国涛;李硕;张娟;田亚男",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 49282,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

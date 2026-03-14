@@ -1,0 +1,31 @@
+{
+  "course_id": "1466035163",
+  "platform": "mooc_cn",
+  "title": "电气测量与信号处理/传感器与检测技术",
+  "description": "寻找“电气测量”、“传感器”、“检测技术”课程的同学，请加入我们的课程学习。让我们一起通过学习交流，掌握常用传感器的设计和应用方法、电气系统主要电气参数的测量方法、常用信号调理电路与信号处理方法。本课程针对电气测量的数字化、电子化的技术发展趋势和传感器技术在电气测量领域的日益凸显的重要作用，着重讲述常用传感器的工作原理和信号处理电路（包括电阻式、电容式、电感式、磁电式、压电式、光电式、热电式等类型），高电压、大电流测量技术，以及基于经典测量仪表的电压、电流、功率的测量原理和测量方法等内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466035163",
+  "instructors": [
+    {
+      "name": "白永强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2730,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

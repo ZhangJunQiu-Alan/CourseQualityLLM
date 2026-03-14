@@ -1,0 +1,27 @@
+{
+  "course_id": "F9U644l-EfCTCQ7va5w3pQ",
+  "platform": "coursera",
+  "title": "Algorithms and Complexity",
+  "slug": "algorithms-and-complexity",
+  "description": "Algorithms and complexity are at the heart of computer science, shaping how we design solutions and measure efficiency. This course provides a rigorous introduction to both the theory and practice of algorithms. You’ll begin with automata theory, exploring how machines recognise and process languages. You’ll then move into practical algorithmic techniques, including searching and sorting, before learning to design and evaluate recursive and iterative algorithms. Finally, you’ll study complexity theory, developing the ability to classify problems and understand computational limits. By combining abstract models with real-world techniques, this course equips you to design algorithms, assess performance, and reason about scalability. Whether you’re pursuing studies in computer science, preparing for a programming role, or aiming to strengthen your technical foundations, you’ll gain both theoretical insight and practical skills for tackling computing challenges.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/algorithms-and-complexity",
+  "instructors": [
+    {
+      "name": "Omar Karakchi",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of London",
+    "Goldsmiths, University of London"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

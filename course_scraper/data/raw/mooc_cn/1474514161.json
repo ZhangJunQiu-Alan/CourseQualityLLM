@@ -1,0 +1,31 @@
+{
+  "course_id": "1474514161",
+  "platform": "mooc_cn",
+  "title": "金融工程学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1474514161",
+  "instructors": [
+    {
+      "name": "蒲艳;唐瑜穗;马会强;毛瑞华;廖勇;龙俊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南民族大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

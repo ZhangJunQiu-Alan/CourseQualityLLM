@@ -1,0 +1,26 @@
+{
+  "course_id": "cOXjj1TBEe-05xIxqY4kRQ",
+  "platform": "coursera",
+  "title": "Advanced Cybersecurity Topics",
+  "slug": "advanced-cybersecurity-topics",
+  "description": "This course is primarily aimed at cybersecurity professionals, advanced students, and individuals with foundational knowledge in cybersecurity looking to expand their expertise in ethical hacking and defense strategies. Advanced Cybersecurity Topics provides in-depth coverage of sophisticated security challenges, including rootkits, operating system security, buffer overflow vulnerabilities, race conditions, and post-exploitation techniques. It’s ideal for those who want to deepen their understanding of modern cybersecurity threats and defenses, and are ready to tackle complex scenarios involving system vulnerabilities, privilege escalation, and mitigation strategies. Through hands-on labs and real-world case studies, participants will gain practical experience using the MITRE ATT&CK Enterprise Framework and other ethical hacking methodologies to analyze and defend against advanced attacks. Whether you are a seasoned professional aiming to advance your skills or a cybersecurity student looking to deepen your knowledge, this course equips you with critical tools to face complex security challenges.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 weeks of study, 5-6 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-cybersecurity-topics",
+  "instructors": [
+    {
+      "name": "Jason Crossland",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

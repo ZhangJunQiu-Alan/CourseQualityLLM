@@ -1,0 +1,31 @@
+{
+  "course_id": "1466014162",
+  "platform": "mooc_cn",
+  "title": "医学生物学",
+  "description": "医学生物学（Medical Biology）是一门重要的基础医学课程，研究人的生命现象及其本质的科学，主要包括细胞生物学和医学遗传学两大部分，分别从细胞生物学和遗传学的角度，介绍生命现象的一般原理，使学生在巩固和扩充生物学的基础理论，基本知识和基本技能的基础上，逐步地从不同层次认识生物界发生发展的规律，医学生物学既是医学基础的前沿学科，又是学习其他临床医学的基础学科。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466014162",
+  "instructors": [
+    {
+      "name": "高德富;张小莉;蒋敏;李亚兰;李业亮;孙颖;牛春玲;夏金婵;刘延鑫",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14391,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

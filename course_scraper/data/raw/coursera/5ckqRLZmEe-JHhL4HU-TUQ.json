@@ -1,0 +1,26 @@
+{
+  "course_id": "5ckqRLZmEe-JHhL4HU-TUQ",
+  "platform": "coursera",
+  "title": "Essential Concepts of Vector Databases",
+  "slug": "packt-essential-concepts-of-vector-databases-zj8v3",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this comprehensive course, you will gain a deep understanding of vector databases, their structure, and how they differ from traditional databases. By exploring fundamental concepts, including their benefits and real-world applications, you will be equipped with the knowledge needed to leverage these cutting-edge technologies in data management and AI.\n\nThe course begins with an introduction to vector databases, explaining why they have become essential in modern data management. You will discover their key advantages and how they address limitations found in traditional databases. Moving forward, the course dives into embeddings and vectors, key components in understanding the data flow within vector databases, and the importance of similarity searches.\n\nNext, the course covers a hands-on section where you will work with the Chroma vector database. Through practical exercises, you will learn how to set up your development environment, create databases, query data, and manage embeddings with OpenAI APIs. Additionally, the course explores advanced topics like vector similarity measures, including cosine similarity, Euclidean distance, and dot product, as well as the integration of vector databases with large language models (LLM).\n\nThis course is ideal for developers, data scientists, and anyone keen on understanding the cutting-edge field of vector databases. A solid grasp of databases and basic programming knowledge will be beneficial for mastering the material.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-essential-concepts-of-vector-databases-zj8v3",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

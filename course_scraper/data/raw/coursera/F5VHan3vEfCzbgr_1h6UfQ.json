@@ -1,0 +1,26 @@
+{
+  "course_id": "F5VHan3vEfCzbgr_1h6UfQ",
+  "platform": "coursera",
+  "title": "Hello, Python!",
+  "slug": "google-hello-python",
+  "description": "In this course, you'll discover the main features and benefits of the Python programming language, and how Python can help power your data analysis. Python is an object-oriented programming language based on objects that contain data and useful code. You’ll become familiar with the core concepts of object-oriented programming: object, class, method, and attribute. You’ll learn about Jupyter Notebooks, an interactive environment for coding and data work.  You’ll investigate how to use variables and data types to store and organize your data; and, you'll begin practicing important coding skills.\n\nBy the end of this course, you will be able to: \n- Explain Python fundamentals, including core Python syntax, data types (integer, float, string), and variable assignment\n- Define fundamental concepts like object, class, method, and attribute in object-oriented programming\n- Recognize the uses and benefits of Jupyter Notebook for data work and as a Python environment\n- Identify Python's relevance to data science and why it is an essential tool for data analysis\n- Perform basic mathematical calculations in Python\n- Use Python's inherent capabilities to explore data effectively with built-in functions and keywords\n- Gain knowledge of how to manage and utilize Python packages and interpreter options",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/google-hello-python",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

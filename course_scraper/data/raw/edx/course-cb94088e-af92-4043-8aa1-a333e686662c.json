@@ -1,0 +1,43 @@
+{
+  "course_id": "course-cb94088e-af92-4043-8aa1-a333e686662c",
+  "platform": "edx",
+  "title": "Financial accounting and capital markets",
+  "description": "This five week course focuses on financial accounting, capital markets, and the relationships between them. \n \n Cash flow versus profit; Accruals and accruals accounting \n Capitalisation, Depreciation, Amortisation and Revaluation \n Financial modelling and Financial sensitivities \n Debt capital markets and Loan markets \n Equity capital markets and Private equity \n \n With case studies, mini-quizzes, as well as clear expert lectures this course enables you to apply terms and techniques that have been explained to ensure that the learning makes sense in the real world. Skills learned can be put to use when making strategic decisions, or simply understanding financial modelling for projects or the wider business.",
+  "learning_goals": [
+    "Capital Markets",
+    "Accruals",
+    "Financial Market",
+    "Share Capital",
+    "Financial Modeling",
+    "Financial Accounting",
+    "Cash Flows",
+    "Financial Statements",
+    "Loans",
+    "Accounting",
+    "Depreciation",
+    "Strategic Decision-Making"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "doug-williamson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Cambridge"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1208,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

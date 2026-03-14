@@ -1,0 +1,31 @@
+{
+  "course_id": "1474152164",
+  "platform": "mooc_cn",
+  "title": "推荐系统导论",
+  "description": "推荐系统是当前互联网应用研究的热点方向之一，也是现代人工智能技术的重要应用领域之一，它可以有效实现从海量信息中提取准确的用户兴趣模式，并为用户提供个性化推荐服务，以提高用户满意度和系统使用效率。本课程涵盖现代推荐系统研究应用各种常见主要内容，包括协同过滤方法、基于内容的方法、情境推荐、社会化推荐、推荐系统评价等内容，同时还重点围绕用户行为分析、时序关系分析和深度学习方法来介绍相关知识内容。课程内容覆盖了主要推荐系统研究应用重要方法，尤其结合了近年来主流的国内外推荐系统研究成果，同时增加了可以引发大家进一步思考的关键内容说明，培养和提高运用所学知识，分析个性化推荐服务中存在问题和解决问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1474152164",
+  "instructors": [
+    {
+      "name": "李树青;张琦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 195,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

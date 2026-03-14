@@ -1,0 +1,26 @@
+{
+  "course_id": "6CZGmHJOEeuBTg7vUdMe9w",
+  "platform": "coursera",
+  "title": "Static Website Hosting and Cross-Region Replication ",
+  "slug": "static-website-hosting-and-cross-region-replication",
+  "description": "Have you ever wonder about a scenario, where you want to share data with your friend for a limited periode of time?  Do you want to  architect a design to host a website and maintain it at a very low cost? Are you confident enough of build an architecture in cloud, where your webiste wont face anydown time? Do you know how to recover your data from any form of Disaster? If so, then this is the right porject for you. I can provide you an apt solution for all these problems using Amazon Cloud. AWS Cloud is making everything that was imposiible at one time to reality. Don't let any disaster to shut your data down. In this 2 hours project, you will learn how to host a 'static website' and to enable 'Cross-Region Replication' as a part of  'Disaster Recovery'. \nI am introducing a relatively new feature in AWS Cloud, called \"CLOUD SHELL\" in this project, where you will get a practical experience of some common usages of generating 'Pre-Signed URL' and allowing access for any users in public Internet.\n\n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/static-website-hosting-and-cross-region-replication",
+  "instructors": [
+    {
+      "name": "Ann Kovattil",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

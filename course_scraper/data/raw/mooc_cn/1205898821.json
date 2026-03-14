@@ -1,0 +1,31 @@
+{
+  "course_id": "1205898821",
+  "platform": "mooc_cn",
+  "title": "大学物理（一）",
+  "description": "本课程由国家精品课、国家精品资源共享课教学团队策划设计。注重物理知识体系构建，培养学生的逻辑思维能力；注重理论联系实际，激发学生学习兴趣；注重物理学发展史上的重大发现和科学家的思想及方法，培养学生的科学素养和终身学习能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205898821",
+  "instructors": [
+    {
+      "name": "李旭光;杨开巍;李幼真;彭勇宜;郑小娟;孔德明;彭政;李新梅;聂耀庄",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 127047,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

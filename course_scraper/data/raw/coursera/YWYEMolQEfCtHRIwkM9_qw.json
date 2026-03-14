@@ -1,0 +1,31 @@
+{
+  "course_id": "YWYEMolQEfCtHRIwkM9_qw",
+  "platform": "coursera",
+  "title": "Foundations of Cybersecurity Operations",
+  "slug": "foundations-of-cybersecurity-operations",
+  "description": "Cybersecurity is no longer limited to specialists—it’s a core competency for anyone in IT or business operations. With global cybercrime costs projected to exceed $10.5 trillion by 2025, organizations cannot rely on outdated methods. This course equips you with a practical foundation in cybersecurity operations, focusing on real-world threats such as ransomware, phishing, insider risks, and data breaches.\n\nThrough applied lessons, you’ll explore key principles including the CIA triad, zero trust, and identity and access management (IAM). You’ll also gain exposure to modern tools like SIEM and XDR for threat detection, and examine the structure and function of a Security Operations Center (SOC).\n\nBy the end, you’ll have the knowledge to understand cyber risks, strengthen defenses, and support secure decision-making. Whether you’re aiming to enter a cybersecurity career or enhance your organization’s security posture, this course provides the essential skills to get started.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 Hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/foundations-of-cybersecurity-operations",
+  "instructors": [
+    {
+      "name": "Gleb Marchenko",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Starweaver"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

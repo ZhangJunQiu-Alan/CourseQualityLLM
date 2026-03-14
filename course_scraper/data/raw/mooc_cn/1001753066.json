@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753066",
+  "platform": "mooc_cn",
+  "title": "Java面向对象程序设计",
+  "description": "本课程是由江苏海洋大学计算机工程学院智慧教育团队倾情打造的江苏省首批线上一流课程，在讲授Java面向对象编程知识的同时，努力培养学生的计算思维和创新思维，让同学们在快乐中学习，在学习中实践，在实践中进步，在进步中成才！本课程已经开设16期，累计选课人数超过8万，受到学习者的普遍欢迎。基于本课程开设的《面向对象程序设计A》荣获第二批国家级混合式一流课程。欢迎更多学习者参加第17期学习！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753066",
+  "instructors": [
+    {
+      "name": "王霞;赵雪峰;陈艳艳;侯明亮;施珺;纪兆辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏海洋大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 70553,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

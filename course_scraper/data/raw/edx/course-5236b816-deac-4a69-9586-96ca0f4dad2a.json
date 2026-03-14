@@ -1,0 +1,46 @@
+{
+  "course_id": "course-5236b816-deac-4a69-9586-96ca0f4dad2a",
+  "platform": "edx",
+  "title": "Sprint Planning for Faster Agile Team Delivery",
+  "description": "Speed is by far the most sought-after benefit of Agile. \r\n First mover advantages, the economic cost of delays, and the enabling effect on innovation drive the search for speed. Agile offers the fastest means of attaining speed: managing scope. But beyond the hype over scope management, there are key principles of non-traditional task management that ensure the scope chosen is delivered as efficiently as possible. \r\n In this course, you'll learn how to drive speed into any project by selecting and limiting work-in-progress through agile planning and task management. There are two principle roles involved, the scrum master and the product owner. However, the entire scrum team needs to understand the principles behind backlog refinement, sprint planning, and execution throughout the sprint cycle. \r\n In this course we'll show you how to run effective sprint planning meetings that produce a sprint backlog ready to deliver on your sprint goals and release objectives. You'll learn the power of prioritizing backlog items, and why we agile planning and sprint planning isn't just a managed list you work top-down in priority order. Instead, scrum teams commit to achieving goals and work together to ensure the user stories that are highest priority get delivered in this sprint, so the upcoming sprint isn't delayed. This also means understanding your team capacity and how to ensure safe and on-time delivery of the highest items on the product backlog that actually matter to your customer. \r\n While this course will not make you an agile certified practitioner (PMI-ACP), or certified scrum master (CSM), it offers a more fundamental agile certification based on agile principles and how sprint planning enables hyper productivity in industry today. You'll finish this course more than ready to continue your agile journey, which we hope takes you to the next course in the series on “Agile Innovation and Problem Solving Skills.” \r\n Upon successful completion of this course, learners can earn 10 Professional Development Unit (PDU) credits, which are recognized by the Project Management Institute (PMI). PDU credits are essential to those looking to maintain certification as a Project Management Professional (PMP).",
+  "learning_goals": [
+    "Innovation",
+    "Backlogs",
+    "Sprint Backlogs",
+    "Task Management",
+    "Planning",
+    "Project Management Professional Certification",
+    "Project Management Institute (PMI) Methodology",
+    "Scrum (Software Development)",
+    "Sprint Planning",
+    "User Story",
+    "PMI Agile Certified Practitioner",
+    "Problem Solving",
+    "Certified Scrum Master",
+    "Scope Management",
+    "Agile Methodology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "john-johnson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Maryland, College Park"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 557,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

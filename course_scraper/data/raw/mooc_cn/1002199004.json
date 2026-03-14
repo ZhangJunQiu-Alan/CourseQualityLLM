@@ -1,0 +1,31 @@
+{
+  "course_id": "1002199004",
+  "platform": "mooc_cn",
+  "title": "信息论与编码理论",
+  "description": "信息论是信息科学中最成熟、最完整、最系统的一部分，以新颖的思路和高效解决问题的方法显示出其魅力，同时为信息编码技术的发展创造有利环境。随着社会信息化的不断深入，信息论与编码理论已经渗透到许多领域，因此信息论与编码理论是高层次信息技术人才所需掌握的必不可少的基础知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002199004",
+  "instructors": [
+    {
+      "name": "刘刚;高明;郭漪;冯磊;黄云",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56647,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

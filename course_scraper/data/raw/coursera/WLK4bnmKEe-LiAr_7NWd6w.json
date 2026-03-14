@@ -1,0 +1,26 @@
+{
+  "course_id": "WLK4bnmKEe-LiAr_7NWd6w",
+  "platform": "coursera",
+  "title": "Detect and Investigate Threats with Security Command Center",
+  "slug": "googlecloud-detect-and-investigate-threats-with-security-command-center-yadfi",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. In this lab, you receive hands-on practice with Security Command Center’s (SCC) threat detection features and learn how to investigate and triage common vulnerabilities associated with containers and virtual machines. You also learn how to surface and manage your findings with SCC’s Event Threat Detection and Security Health Analytics features.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour 15 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-detect-and-investigate-threats-with-security-command-center-yadfi",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

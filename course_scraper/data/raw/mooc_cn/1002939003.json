@@ -1,0 +1,31 @@
+{
+  "course_id": "1002939003",
+  "platform": "mooc_cn",
+  "title": "金庸小说研究",
+  "description": "本课程旨在引导学生正确解读金庸的作品，通过对金庸作品的讲解分析引导学生领会金庸作品的文学价值、艺术价值、审美价值，进而对其进行思想教育和审美教育。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002939003",
+  "instructors": [
+    {
+      "name": "刘斌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 31248,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

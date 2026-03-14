@@ -1,0 +1,31 @@
+{
+  "course_id": "eizWF0iMEei6JRLwwzivrA",
+  "platform": "coursera",
+  "title": "Digital Signal Processing 2: Filtering",
+  "slug": "dsp2",
+  "description": "Digital Signal Processing is the branch of engineering that, in the space of just a few decades, has enabled unprecedented levels of interpersonal communication and of on-demand entertainment. By reworking the principles of electronics, telecommunication and computer science into a unifying paradigm, DSP is a the heart of the digital revolution that brought us CDs, DVDs, MP3 players, mobile phones and countless other devices. \n\nThe goal, for students of this course, will be to learn the fundamentals of Digital Signal Processing from the ground up. Starting from the basic definition of a discrete-time signal, we will work our way through Fourier analysis, filter design, sampling, interpolation and quantization to build a DSP toolset complete enough to analyze a practical communication system in detail. Hands-on examples and demonstration will be routinely used to close the gap between theory and practice.\n\nTo make the best of this class, it is recommended that you are proficient in basic calculus and linear algebra; several programming examples will be provided in the form of Python notebooks but you can use your favorite programming language to test the algorithms described in the course.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "8-10 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/dsp2",
+  "instructors": [
+    {
+      "name": "Paolo Prandoni",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Martin Vetterli",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "École Polytechnique Fédérale de Lausanne"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

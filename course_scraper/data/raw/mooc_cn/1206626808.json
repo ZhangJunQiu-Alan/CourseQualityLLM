@@ -1,0 +1,31 @@
+{
+  "course_id": "1206626808",
+  "platform": "mooc_cn",
+  "title": "思想道德与法治",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206626808",
+  "instructors": [
+    {
+      "name": "朱清华;黄三生;刘晓根;熊艳梅;黄映琼;汪乐;杨正德;彭锦屏;许桂芳;赵建超;张新吾;夏德根",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江西财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 52665,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

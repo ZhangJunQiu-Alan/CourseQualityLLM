@@ -1,0 +1,26 @@
+{
+  "course_id": "zbYVe_jqEeun7hIsOx7cIQ",
+  "platform": "coursera",
+  "title": "Operate Alibaba Cloud Systems and Services",
+  "slug": "alibaba-system-operator",
+  "description": "Course description:\nACA System Operator Certification Preparation Course is intended for individuals who have technical expertise in deployment, management and operations on Alibaba Cloud.\nIt’s recommended for System administrators with at least one year of experience in deployment, management, and operations on Alibaba Cloud.\nACA System Operator Certification is intended for individuals who have technical expertise in deployment, management, and operations on Alibaba Cloud. Certificate holders are certified to be capable of deploying, managing and operating scalable, highly available systems on Alibaba Cloud, selecting appropriate services on Alibaba Cloud knowing how to monitor, debugging and troubleshooting those service, utilizing Alibaba Cloud's operational best practices, migrating on-premises workloads to Alibaba Cloud and managing IT governance on the Cloud. To earn an official Alibaba Cloud certificate please find the register portal on Academy's website:\nhttps://edu.alibabacloud.com/certification/aca_operator",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "6 weeks of study, 5 hours a week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/alibaba-system-operator",
+  "instructors": [
+    {
+      "name": "Yan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Alibaba Cloud Academy"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "U9dtLimJEe-QGRKR-lolWw",
+  "platform": "coursera",
+  "title": "GenAI for Front-End Developers",
+  "slug": "genai-for-front-end-developers",
+  "description": "This course delves into how Generative Artificial Intelligence (GenAI) is transforming front-end development. Through discussions, video demos, and guided hands-on activities, you'll discover how GenAI can boost productivity in UI/UX design, code generation, testing, and documentation. Additionally, the course addresses ethical concerns, risks, and best practices for responsible GenAI use in front-end development.\n\nThis course is ideal for team leads and managers guiding front-end development teams, individual front-end developers seeking to enhance their workflows with GenAI tools, and aspiring front-end developers looking to future-proof their skills and gain a competitive edge in the field.\n\nLearners should have a solid understanding of HTML, CSS, JavaScript, and common front-end frameworks like React, Angular, or Vue, along with experience in UI/UX design principles and basic knowledge of version control systems like Git. Additionally, an open mindset towards incorporating GenAI tools and a willingness to experiment with new technologies are essential.\n\nWhether you're an experienced front-end developer looking to stay ahead of the curve or an aspiring professional seeking to future-proof your skillset, this course provides a foundation that will empower you to unlock new levels of efficiency, productivity, and creativity in your work.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/genai-for-front-end-developers",
+  "instructors": [
+    {
+      "name": "Karlis Zars",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

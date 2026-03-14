@@ -1,0 +1,31 @@
+{
+  "course_id": "1206355801",
+  "platform": "mooc_cn",
+  "title": "App Inventor移动应用开发",
+  "description": "App Inventor是基于网页开发Android移动应用程序的快速开发平台，它抛弃复杂的程序代码而使用搭积木的方式来完成安卓程序。普通人都能在几分钟完成一个可在手机上运行的应用。通过本课程学习，可快速了解到软件设计与开发的基本知识，掌握解决问题的方法，训练计算思维能力，短时间内将点子变成作品。本课程为“湖南省精品在线开放课程”。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206355801",
+  "instructors": [
+    {
+      "name": "瞿绍军;罗迅;代建华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24325,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

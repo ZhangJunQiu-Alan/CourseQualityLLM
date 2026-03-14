@@ -1,0 +1,26 @@
+{
+  "course_id": "gPIgvstxEfC34A5Dkwi7LQ",
+  "platform": "coursera",
+  "title": "Unify Multimodal Data with Automated ETL",
+  "slug": "unify-multimodal-data-with-automated-etl",
+  "description": "Did you know that multimodal AI systems often fail not because of weak models, but because their underlying data pipelines cannot reliably unify text, image, audio, and tabular features? A strong multimodal infrastructure is the foundation of advanced AI.\n\nThis Short Course was created to help professionals in this field build robust data infrastructure for multimodal AI applications and automate the processing of diverse data types including text, images, and audio.\n\nBy completing this course, you will be able to design unified schemas for multimodal feature storage and implement automated ETL pipelines using workflow orchestration tools, giving you the ability to support scalable, production-ready multimodal AI systems.\n\nBy the end of this 4-hour long course, you will be able to:\n\nCreate a unified data schema for storing multimodal machine learning features.\nImplement automated ETL pipelines using a workflow orchestration tool.\n\nThis course is unique because it combines multimodal feature engineering with automation and orchestration, equipping you to transform fragmented datasets into cohesive, high-quality pipelines that power next-generation AI models.\n\nTo be successful in this project, you should have:\nDatabase design fundamentals\nBasic ETL concepts\nSQL proficiency\nFamiliarity with cloud storage\nML feature engineering basics",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "112 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/unify-multimodal-data-with-automated-etl",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "RSDTCmB-EfCy5w726iKh0Q",
+  "platform": "coursera",
+  "title": "Vertex AI でノートブックを使用する",
+  "slug": "working-with-notebooks-in-vertex-ai-ja",
+  "description": "このコースは、Vertex AI Notebooks に関する入門コースです。Vertex AI Notebooks は Jupyter ノートブックをベースとした環境であり、データの準備からモデルのデプロイとモニタリングに至るまで ML のワークフロー全体をサポートする統合プラットフォームを提供します。このコースでは、（1）Vertex AI Notebooks の種類とそれぞれの機能、（2）Vertex AI Notebooks の作成と管理の方法について説明します。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/working-with-notebooks-in-vertex-ai-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

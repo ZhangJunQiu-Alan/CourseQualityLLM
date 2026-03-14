@@ -1,0 +1,51 @@
+{
+  "course_id": "course-9df3e51d-9a10-4dbc-85b2-53509c998cd6",
+  "platform": "edx",
+  "title": "Optimizing Generative AI on Arm Processors: from Edge to Cloud",
+  "description": "AI models are becoming increasingly powerful—but also increasingly demanding. As generative AI moves from cloud data centers to mobile phones, autonomous systems and embedded IoT devices, the need to optimize performance across diverse hardware environments has never been more critical. Arm-based processors power more than 300 billion devices globally, from smartphones to hyperscale cloud servers, making them a key foundation for efficient AI deployment across the compute landscape. To meet this growing demand, learners need the skills to translate machine learning models into real-time, hardware-aware implementations across Arm-based platforms. \n Optimizing Generative AI on Arm Processors: from Edge to Cloud is designed for intermediate machine learning practitioners who want to bridge the gap between model design and deployment efficiency. Rather than revisiting ML fundamentals, this course dives straight into performance engineering for generative AI on Arm-based platforms, including edge and cloud environments. \n You’ll explore real-world constraints, Arm architecture features, and software techniques used to accelerate AI inference—including SIMD (SVE, Neon), low-bit quantization, and the KleidiAI library. Each concept is taught using concise, interactive notebooks and narrated examples, enabling you to measure, tweak, and iterate on actual hardware like the Raspberry Pi 5 or AWS Graviton3 cloud instances. \n This course consists of four modules and hands-on lab exercises: \n  Module 1:  Challenges Facing Cloud and Edge GenAI Inference  \n Understanding the limitations and constraints of AI inference in different environments. \n  Module 2:  Generative AI Models  \n Exploring model architectures, training methodologies, and deployment considerations. \n  Module 3:  ML Frameworks and Optimized Libraries  \n A deep dive into AI software stacks, including PyTorch, llama.cpp, and Arm-specific optimizations. \n  Module 4: Optimization for CPU Inference  \n Techniques such as quantization, pruning, and leveraging SIMD instructions for faster AI performance.",
+  "learning_goals": [
+    "PyTorch (Machine Learning Library)",
+    "SIMD",
+    "Pruning",
+    "Machine Learning",
+    "Scalability",
+    "Smartphone Operation",
+    "Data Centers",
+    "Performance Engineering",
+    "Quantization",
+    "Amazon Web Services",
+    "Mobile Phones",
+    "Autonomous System",
+    "Algorithms",
+    "Artificial Intelligence",
+    "Internet Of Things (IoT)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "oliver-grainge",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "kieran-hejmadi-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Arm Education"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 340,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

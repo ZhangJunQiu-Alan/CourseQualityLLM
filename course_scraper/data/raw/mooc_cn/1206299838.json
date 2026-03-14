@@ -1,0 +1,31 @@
+{
+  "course_id": "1206299838",
+  "platform": "mooc_cn",
+  "title": "医学仪器原理与设计",
+  "description": "医学仪器是应用工程技术的理论和方法为疾病的预防、诊断、治疗和康复提供技术手段的重要学科分支，在临床医学中发挥着越来越重要的作用。课程主要针对生物医学工程及相关专业本、专科学生及研究生，讲授最常用医学仪器的原理及设计开发的基本思路和方法，为其从事医学仪器开发提供必需的专业基础知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206299838",
+  "instructors": [
+    {
+      "name": "陈翔;李津;闫相国;王刚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8287,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

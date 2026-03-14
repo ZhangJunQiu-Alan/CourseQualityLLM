@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754347",
+  "platform": "mooc_cn",
+  "title": "数字信号处理",
+  "description": "数字信号处理是一门非常重要的专业基础课程，为大家进入信息工程、通信工程、电子科学与技术、自动化、测控技术与仪器、人工智能、网络空间安全、数字影像学等相关专业的学习提供基础理论和方法，并且是很多专业课程的先修课程。东南大学信息学院数字信号处理教学团队，制作了在线开放课程，欢迎大家开始数字信号处理的学习旅程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754347",
+  "instructors": [
+    {
+      "name": "武其松;尤力;吴镇扬;韩宁;徐晓莉;潘存华;戚晨皓;张毅锋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41990,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1461328166",
+  "platform": "mooc_cn",
+  "title": "Financial Modeling Using Excel",
+  "description": "This course will introduce how to use Excel in financial modeling, which included all the financial application in the real world, such as Corporate Finance, Portfolio Management, Option Pricing, Bond Valuation, Financial Statement Projection, Stock Valuation and Monte Carlo Simulation. This course is a comprehensive and effective learning-by-doing tool and provide clear step-by-step approach to search for financial data, build programs to analyze them, and make sound financial decisions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461328166",
+  "instructors": [
+    {
+      "name": "Dandan LI",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dongbei University of Finance & Economics"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1959,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

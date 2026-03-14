@@ -1,0 +1,34 @@
+{
+  "course_id": "course-bcf6db1c-0a69-42d1-b830-425d81863eb6",
+  "platform": "edx",
+  "title": "Programación para todos (empezando con Python)",
+  "description": "Este curso de Python tiene el objetivo de enseñar a todos lo básico de la programación de computadoras usando Python. Conocerás cómo construir un programa de una serie de instrucciones simples en Python. El curso de programación no tiene prerrequisitos y evita todo menos la matemática más simple. Cualquier persona con experiencia moderada con computadoras debe poder dominar los materiales en este MOOC.  \n Este curso de informática cubrirá los Capítulos 1-5 del libro «Python para Todos». Una vez que un estudiante completa este curso, estará listo para tomar cursos de programación más avanzados. Este curso cubre Python 3.  \n Los ejercicios se realizan en un navegador web para que puedas realizar todas las tareas de programación en un teléfono o computadora pública.  \n ¡Comienza a programar en Python hoy mismo!",
+  "learning_goals": [
+    "Data Structures",
+    "Python (Programming Language)",
+    "Web Browsers"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 2-4 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "charles-severance-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Michigan"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 399,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+  "course_id": "course-d2fb4b76-e398-42d8-9835-970a49678fa3",
+  "platform": "edx",
+  "title": "Computer Forensics",
+  "description": "Digital forensics involves the investigation of computer-related crimes with the goal of obtaining evidence to be presented in a court of law. \n In this course, you will learn the principles and techniques for digital forensics investigation and the spectrum of available computer forensics tools. You will learn about core forensics procedures to ensure court admissibility of evidence, as well as the legal and ethical implications. You will learn how to perform a forensic investigation on both Unix/Linux and Windows systems with different file systems. You will also be guided through forensic procedures and review and analyze forensics reports. \n This offering is part of the RITx Cybersecurity MicroMasters Program that prepares students to enter and advance in the field of computing security.",
+  "learning_goals": [
+    "Microsoft Windows",
+    "Unix",
+    "Linux",
+    "Cyber Security",
+    "File Systems",
+    "Digital Forensics",
+    "Forensic Sciences",
+    "Computer Forensics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "8 周，每周 10-12 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "yin-pan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Rochester Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 490,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

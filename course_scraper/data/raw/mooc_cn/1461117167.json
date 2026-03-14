@@ -1,0 +1,31 @@
+{
+  "course_id": "1461117167",
+  "platform": "mooc_cn",
+  "title": "面板数据模型及Stata应用",
+  "description": "本课程于2022年12月获四川省“省级一流本科线上课程”。（0）本课程于2021年11月新增“双重差分法（DID）及平行趋势检验”；2022年2月新增“DID的安慰剂检验”；2023年11月新增“关于是否有必要进行单位根检验和固定效应的Chow、Hausman检验的讨论”。（1）本课程主要针对财经类专业高年级本科生和研究生开设的计量经济学课程。（2）从理论讲解、建模步骤流程图、模型应用、注意事项到手把手演示Stata软件案例实操等全方位视角介绍面板数据模型的基本原理、方法、应用和Stata操作。（3）真正做到 “零计量基础、零Stata基础，照样可以做好计量实证分析”。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461117167",
+  "instructors": [
+    {
+      "name": "张华节",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35973,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

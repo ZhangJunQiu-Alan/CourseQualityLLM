@@ -1,0 +1,26 @@
+{
+  "course_id": "3poShluBEeu1URLEECyWWw",
+  "platform": "coursera",
+  "title": "Validate HTML Forms with JavaScript and HTML",
+  "slug": "validate-html-forms-javascript-html",
+  "description": "By the end of this project, you will have written and tested JavaScript and HTML code that validates data values entered into input fields on an HTML form. Data validation is a valuable skill in web development. Notifying users of input errors not only improves the user experience it also helps to ensure that any data collected via a form is as accurate as possible before sending it to a server for processing. \n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/validate-html-forms-javascript-html",
+  "instructors": [
+    {
+      "name": "Judy Richardson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

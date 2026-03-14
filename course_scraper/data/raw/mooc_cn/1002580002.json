@@ -1,0 +1,31 @@
+{
+  "course_id": "1002580002",
+  "platform": "mooc_cn",
+  "title": "物理化学（下）",
+  "description": "欢迎大家来到南京大学物理化学MOOC课程！在这里，你可以全面而又高效地获得南京大学物理化学基础课程国家级教学团队老师对物理化学的详细讲解和辅导，系统而又深入地学习物理化学知识，学会认识和探究化学变化的本质，建立属于你自己的化学理论体系，从而能胜任化学及相关领域科研、教学及其他工作。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002580002",
+  "instructors": [
+    {
+      "name": "赵斌;王喜章;许波连;侯文华;淳远;郭琳;彭路明;吴强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 42843,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

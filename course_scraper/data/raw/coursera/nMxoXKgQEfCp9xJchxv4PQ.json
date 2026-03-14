@@ -1,0 +1,26 @@
+{
+  "course_id": "nMxoXKgQEfCp9xJchxv4PQ",
+  "platform": "coursera",
+  "title": "Object Oriented Programming with C++",
+  "slug": "c-plus-plus-object-oriented-programming",
+  "description": "This course focuses on object-oriented programming (OOP) principles in C++. Learners will understand classes, objects, inheritance, polymorphism, and encapsulation. The course also covers memory management with pointers and references, and introduces error handling and debugging techniques. Students will learn to use GenAI tools for code review to improve code quality and reliability.\n\nBy the end of this course, you will be able to:\n\n- Design and implement C++ classes that encapsulate data and behavior using principles of object-oriented programming.\n- Apply inheritance and polymorphism to create flexible, reusable, and maintainable code structures.\n- Manage dynamic memory in C++ using pointers, smart pointers, and memory management best practices.\n- Implement robust error handling and debugging strategies to identify and resolve issues in C++ programs.\n- Apply effective testing methodologies to ensure code reliability and correctness.\n- Leverage Generative AI tools to enhance code quality, accelerate development, and support professional C++ programming workflows.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks at 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/c-plus-plus-object-oriented-programming",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

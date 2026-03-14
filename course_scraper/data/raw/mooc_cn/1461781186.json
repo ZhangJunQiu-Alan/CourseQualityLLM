@@ -1,0 +1,31 @@
+{
+  "course_id": "1461781186",
+  "platform": "mooc_cn",
+  "title": "疲劳与断裂力学",
+  "description": "疲劳破坏是现代机械和结构的主要破坏方式，防止疲劳破坏是机械和结构设计的重要问题。疲劳与断裂力学是力学专业和机械及相关专业的一门专业课。课程目标是帮助学生获得疲劳与断裂破坏的基本概念、破坏机理、基本规律等知识，了解现代结构疲劳、断裂控制设计的基本原理与方法。疲劳与断裂为西南交通大学力学学科的传统优势研究方向。近30年来，在循环本构关系、断裂力学等方面取得了一系列成果，在国内外有较高知名度。 课程负责人康国政教授为 International Journal of Fatigue 杂志共同主编，课程团队承担多项国家自然科学基金和横向科研项目，在材料和结构的疲劳断裂方面有着大量的工程实践经验。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461781186",
+  "instructors": [
+    {
+      "name": "刘宇杰;阚前华;胡雅楠;康国政",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5698,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

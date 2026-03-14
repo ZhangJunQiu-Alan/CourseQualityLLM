@@ -1,0 +1,26 @@
+{
+  "course_id": "vjef5L4zEe633hLyyfBA1Q",
+  "platform": "coursera",
+  "title": "Introduction to Flask framework",
+  "slug": "introduction-to-flask-framework",
+  "description": "In this 2-hour long project-based course, you will learn how to create a basic Flask web application, handle requests with route decorators, return responses, raise errors, and run the app locally for debugging.\n\nYou will use Python packaging best-practices and will have a ready-to-use lab where you can practice what you've learned",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-flask-framework",
+  "instructors": [
+    {
+      "name": "Alfredo Deza",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Duke University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

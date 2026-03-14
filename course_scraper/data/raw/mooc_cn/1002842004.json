@@ -1,0 +1,31 @@
+{
+  "course_id": "1002842004",
+  "platform": "mooc_cn",
+  "title": "Java核心技术",
+  "description": "Java是一门程序设计语言，长期位居编程语言排行榜TIOBE的首位。从1995年面世以来，已经被广泛应用到企业级系统、手机、桌面软件等开发。据Oracle统计，已有超过30亿电子设备运行Java程序。本课程主要讲授Java核心技术原理，并通过大量程序进行佐证讲解。本课程也是Java EE、Android等技术的先导课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002842004",
+  "instructors": [
+    {
+      "name": "陈良育",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 131375,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "-I4AT_EYEfCWLQr_yNkMYw",
+  "platform": "coursera",
+  "title": "Multi-Agent Systems with LangGraph",
+  "slug": "multi-agent-systems-with-langgraph",
+  "description": "This program introduces Building Stateful & Multi-Agent Systems with LangGraph for developers and AI engineers who want to move beyond single-prompt agents and build reliable, production-ready workflows. You’ll begin by learning how LangGraph executes agent workflows and why state management is critical for correctness, debuggability, and long-running tasks.\n\nNext, you’ll work with state reducers, typed state objects, and checkpointing mechanisms that allow agents to persist progress, recover from failures, and resume complex multi-step executions. Through hands-on demonstrations, you’ll implement conditional routing, parallel execution paths, and modular subgraphs to enable dynamic, decision-driven workflows.\n\nAs you progress, you’ll design human-in-the-loop systems with approvals and interrupts, apply debugging and time-travel analysis using execution logs and snapshots, and build multi-agent systems using supervisor–worker and consensus-based reasoning models for scalable, collaborative agent workflows.\n\nBy the end of the program, you will be able to:\n- Explain how LangGraph executes workflows and manages state across agent nodes.\n- Design stateful agent pipelines using typed state objects and reducer patterns.\n- Implement checkpointing and recovery mechanisms for long-running agent workflows.\n- Control execution flow using conditional routing, parallel execution, and subgraphs.\n- Build human-in-the-loop workflows with approvals, interrupts, and state inspection.\n- Debug agent systems using execution logs, snapshots, and time-travel analysis.\n- Design multi-step planner–executor workflows for complex task execution.\n- Orchestrate multi-agent systems using supervisor–worker and consensus-based models.\n\nThis program is ideal for AI engineers, backend developers, and system architects who want to build agent systems that are not only intelligent, but also predictable, auditable, and production-ready. Prior experience with Python, LLM fundamentals, and basic agent concepts will help maximize your learning experience.\n\nLearners need a reliable internet connection, a modern web browser, and access to Python development tools. The course uses LangGraph and modern LLM APIs, which do not require specialized hardware. Familiarity with LangChain or agent-based workflows is recommended.\n\nJoin us to learn how to design stateful, multi-agent systems that can plan, recover, coordinate, and reason reliably in real-world applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 3 - 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/multi-agent-systems-with-langgraph",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

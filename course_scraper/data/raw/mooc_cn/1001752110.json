@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752110",
+  "platform": "mooc_cn",
+  "title": "税法",
+  "description": "税法课程是财经类专业的基础课程，本课程将近年来国家税制改革的相关内容进行了梳理，以最新的知识作了介绍，充分体现了税法的适用性和时效性，该课程有利于大学本科学生及社会各界人士的自学，能提高大家分析和解决实际税收问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752110",
+  "instructors": [
+    {
+      "name": "王萌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京审计大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 64509,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

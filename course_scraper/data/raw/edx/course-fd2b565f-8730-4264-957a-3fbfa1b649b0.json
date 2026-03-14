@@ -1,0 +1,51 @@
+{
+  "course_id": "course-fd2b565f-8730-4264-957a-3fbfa1b649b0",
+  "platform": "edx",
+  "title": "Introduction to Aeronautical Engineering",
+  "description": "Have you ever flown in an airplane and are you curious about how flying works? Are you interested in the fundamental concepts behind flying? How does a wing generate lift? And how can we fly as optimally as possible?  \n This course provides an introduction to the fundamentals of aeronautics, using a tour through the history of flight, starting with ballooning and continuing on to airplanes and helicopters.  \n Experts from the Faculty of Aerospace Engineering of Delft University of Technology will help you explore and discover the fundamentals of flight, in three blocks. First, you will explore the history of flight including ballooning and obtain a basic understanding of aircraft and the earth's atmosphere. Topics include stability, navigation, propulsion and the structure of aircraft. Block two examines the principles of aerodynamics. You will learn for instance how the shape of an airfoil or wing impacts the amount of lift generated. Block three covers flight mechanics, including various flight phases, such as descending, climbing or cruise, and the most optimal flying conditions for each phase.",
+  "learning_goals": [
+    "Propulsion",
+    "Mechanics",
+    "Curiosity",
+    "Aerodynamics",
+    "Aerospace Engineering"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jacco-m-hoekstra",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jos-sinke",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mark-voskuijl",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "nando-timmer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2998,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

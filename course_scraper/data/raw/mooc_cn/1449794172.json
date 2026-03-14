@@ -1,0 +1,31 @@
+{
+  "course_id": "1449794172",
+  "platform": "mooc_cn",
+  "title": "大学物理—力学",
+  "description": "本课程属于大学物理课程的力学部分，学习本课程，不仅可以掌握或理解本课程所涉及的物理学基本概念、基本图像、基本理论和基本方法，同时可以培养科学思维、建立模型、定性分析、定量计算、分析问题和解决问题等方面的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449794172",
+  "instructors": [
+    {
+      "name": "顾志霞;胡其图;邓晓;张小灵;李晟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36304,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

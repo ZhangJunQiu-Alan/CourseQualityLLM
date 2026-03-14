@@ -1,0 +1,31 @@
+{
+  "course_id": "1466038162",
+  "platform": "mooc_cn",
+  "title": "大气探测学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466038162",
+  "instructors": [
+    {
+      "name": "刘西川;赵世军;赵现斌;李书磊;曾庆伟;谢海玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3844,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

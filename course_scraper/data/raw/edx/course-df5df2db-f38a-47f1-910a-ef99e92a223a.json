@@ -1,0 +1,35 @@
+{
+  "course_id": "course-df5df2db-f38a-47f1-910a-ef99e92a223a",
+  "platform": "edx",
+  "title": "The Jewish Bible: Its History As A Physical Artifact.",
+  "description": "When studying the Jewish Bible and other historical works, the physical attributes—the form of the writing, whether it be scroll, codex, or simply a printed page layout, in addition to the size and shape—determine how we read the book and understand its meaning. Whether you are interested in literature or history, ancient or religious art and texts, or looking to deepen your understanding of religion and its impact on the world, this course will delve deeper into the Jewish Book as a physical object and spark desire to learn more about the materials as both artifact and religious content—enriching your understanding of the Jewish Bible, how it came to be, and its place today in a digital age. \n In The Jewish Bible: Its History as a Physical Artifact, you will focus largely on the Torah Scroll—elaborate, handwritten scrolls that share the first five books of Moses, the first books of the Jewish Bible. The physical Torah has been a revered part of the Jewish community for centuries; there is even a tradition of touching the Torah as it is brought around the congregation as a sign of respect and paying homage to its history. In this course you will learn about the birth of the scrolls; their evolution from scrolls to codex; and the Jewish Bible through culture, history, and religion. \n By exploring the ancient Hebrew Bibles that Jews have held in their hands, chanted in the synagogue, and studied in school and at home, you will be immersed in the history of the book as an artifact of other religions, and how Jews transformed the Bible over centuries using cultural and religious context. As you study the Bible as a physical book, you will learn how the materiality of the Jewish Book serves as an interface between the Hebrew text, history, and the modern world.",
+  "learning_goals": [
+    "Willingness To Learn",
+    "Apache Spark",
+    "Page Layout",
+    "Hebrew Language"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-stern",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1025,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

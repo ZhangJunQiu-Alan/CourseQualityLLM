@@ -1,0 +1,46 @@
+{
+  "course_id": "course-c691e209-5204-43ed-881d-03143562ead9",
+  "platform": "edx",
+  "title": "Master Control in Supply Chain Management and Logistics",
+  "description": "Logistics and supply chain structures can be found in virtually any system. A supply chain is a complex environment with a multitude of forces and variables with various degrees of dependence. Unforeseen events are frequent and in order to achieve a competitive supply chain, constant supervision is needed. \n In this business and management course, you will learn methods that are used to master control of supply chains, including how to forecast demand, how to determine the best order quantity for procurement, how to plan capacity and production and much more.\" \n Many of the topics in the course will be illustrated using real companies and real logistics professionals as logistics is not a theoretical subject – it exists all around us – everywhere. \n This MOOC is based on a widely popular university course that will give you a working knowledge on supply chain operations that can be applied in your organisation. By the end of this course, you will be able to better control and master your organisation’s system. \n Regardless of your industry or organisation type, the concepts and methods from this course will help you become a logistics and supply chain professional. You will never look at a hotel breakfast buffet, a loading bay, a warehouse, a factory, an emergency room or even at a fast food restaurant the same way again…",
+  "learning_goals": [
+    "Demand Forecasting",
+    "Supply Chain Management",
+    "Operations",
+    "Restaurant Operation",
+    "Warehousing",
+    "Procurement",
+    "Logistics",
+    "Emergency Departments",
+    "Management",
+    "Supply Chain"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "olof-arnas",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ola-hultkrantz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Chalmers University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 413,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

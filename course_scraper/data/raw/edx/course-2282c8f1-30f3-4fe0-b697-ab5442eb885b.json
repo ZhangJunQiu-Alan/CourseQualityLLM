@@ -1,0 +1,37 @@
+{
+  "course_id": "course-2282c8f1-30f3-4fe0-b697-ab5442eb885b",
+  "platform": "edx",
+  "title": "Reservoir Geomechanics",
+  "description": "This interdisciplinary course encompasses the fields of rock mechanics, structural geology, earthquake seismology and petroleum engineering to address a wide range of geomechanical problems that arise during the exploitation of oil and gas reservoirs. \n The course considers key practical issues such as prediction of pore pressure, estimation of hydrocarbon column heights and fault seal potential, determination of optimally stable well trajectories, casing set points and mud weights, changes in reservoir performance during depletion, and production-induced faulting and subsidence. The first part of the course establishes the basic principles involved in a way that allows readers from different disciplinary backgrounds to understand the key concepts. \n The course is intended for geoscientists and engineers in the petroleum and geothermal industries, and for research scientists interested in stress measurements and their application to problems of faulting and fluid flow in the crust.",
+  "learning_goals": [
+    "Forecasting",
+    "Fluid Dynamics",
+    "Pore Water Pressure",
+    "Structural Geology",
+    "Geomechanics",
+    "Petroleum Engineering"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mark-d-zoback",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 715,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

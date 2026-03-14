@@ -1,0 +1,31 @@
+{
+  "course_id": "-mWRmvBoEe-JQhJp-zb3DQ",
+  "platform": "coursera",
+  "title": "Cloud Native, Microservices, Containers, DevOps and Agile",
+  "slug": "cloud-native-microservices-containers-devops-agile",
+  "description": "Over 80% of enterprises now rely on cloud-native technologies to drive innovation and scale efficiently (CNCF). Professionals with cloud-native, microservices, and DevOps skills are highly sought after! This course equips both aspiring and experienced professionals with the practical, job-ready expertise employers are looking for.  \n\nDuring the course, you’ll explore cloud-native fundamentals, including hybrid cloud infrastructures and modernization strategies. Plus, you'll gain hands-on experience mastering RESTful APIs, CI/CD pipelines, and Agile and Scrum practices that enhance collaboration and delivery.  \n\nThe course also covers essential containerization concepts for using Docker and Kubernetes, ensuring you can build scalable and resilient applications. Plus, through interactive labs and real-world projects, you'll develop the technical skills and confidence to apply these practices effectively in professional environments.  \n\nBy the end, you'll have the expertise to build scalable cloud-native applications, automate development workflows, and align technical solutions with business objectives. If you’re keen to open up exciting career opportunities in cloud, enroll today!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "6 weeks of study, 2–3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cloud-native-microservices-containers-devops-agile",
+  "instructors": [
+    {
+      "name": "Muhammad Yahya",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "IBM Skills Network Team",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

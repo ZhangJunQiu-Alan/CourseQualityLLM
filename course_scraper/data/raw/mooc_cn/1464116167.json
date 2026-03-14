@@ -1,0 +1,31 @@
+{
+  "course_id": "1464116167",
+  "platform": "mooc_cn",
+  "title": "精神心理照护学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464116167",
+  "instructors": [
+    {
+      "name": "陈瑜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南方医科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3637,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

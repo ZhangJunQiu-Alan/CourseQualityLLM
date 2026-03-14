@@ -1,0 +1,26 @@
+{
+  "course_id": "G5BppZ32EfCozQ6GZcbqBQ",
+  "platform": "coursera",
+  "title": "Blender & Python Scripting – Step-by-Step Guide",
+  "slug": "packt-blender-and-python-scripting-a-step-by-step-guide-for-beginners-alcw3",
+  "description": "This course features Coursera Coach! \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course. \n\nIn this course, you will learn Blender scripting with Python. You'll start by learning the basics of Python programming, setting up Blender, and understanding the Blender interface. Next, you’ll build your skills as you manipulate objects, create functions, and automate tasks using Python. \n\nAs you progress, you’ll dive into complex scripting tasks like object creation, reordering lists, and randomizing objects. You'll learn to control object placement, use loops, and optimize code. By applying examples like creating cubes, pyramids, and complex patterns, you'll deepen your understanding of scripting in Blender. \n\nThis course is ideal for beginners looking to explore Blender and Python scripting. No prior coding experience is required; a basic understanding of Blender is helpful.  \n\nBy the end of the course, you will be able to write Python scripts to automate Blender tasks, create and manipulate 3D objects, and implement logic for procedural generation and animation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-blender-and-python-scripting-a-step-by-step-guide-for-beginners-alcw3",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

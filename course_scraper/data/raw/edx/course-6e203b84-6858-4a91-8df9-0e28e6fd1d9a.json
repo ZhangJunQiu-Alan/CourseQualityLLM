@@ -1,0 +1,37 @@
+{
+  "course_id": "course-6e203b84-6858-4a91-8df9-0e28e6fd1d9a",
+  "platform": "edx",
+  "title": "e-Learning on Digital Agriculture",
+  "description": "Digital Agricultural Technologies (DATs) are innovations that enable farmers and agribusiness entrepreneurs to leapfrog to increase their productivity, efficiency, and competitiveness, facilitate access to markets, improve nutritional outcomes and enhance resilience to climate change. These technologies range from mobile apps to digital identities for farmers to solar applications for agriculture to portable agriculture devices. DATs are increasingly becoming indispensable in the global food and agriculture sector, from fast and convenient information delivery to providing virtual marketplaces. Considering the fact that digital technologies can accelerate agro-food outcomes is juxtaposed with low adoption rates of the same, the World Bank’s operations are increasingly incorporating digital agriculture as a critical element in its operations. Thus, it is important to study digital agriculture technologies in further detail. \n This five-week course will provide a high-level overview of DAT concepts, potential impact, range of technologies available, used cases as well as forward-looking technologies. The course will introduce the participants to different agriculture data platforms already available and will encourage them to discover the scope and utility of the open data platforms for analytics and intelligence in agriculture. Participants will be required to engage in discussion forums with their peers and complete quizzes throughout the course.",
+  "learning_goals": [
+    "Technology Ecosystems",
+    "Communications",
+    "Resilience",
+    "Agriculture",
+    "Solar Application",
+    "Operations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "olc-wbgx-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "World Bank Group"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1339,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

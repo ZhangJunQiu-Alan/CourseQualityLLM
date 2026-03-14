@@ -1,0 +1,31 @@
+{
+  "course_id": "1206354803",
+  "platform": "mooc_cn",
+  "title": "批判性思维",
+  "description": "批判性思维（critical thinking）主要教人如何做出可靠的判断，即对由知识推出的结论进行判断，保证其真实性（可实现）。这种结论在日常中被称为思想、观点、决策、预见等，是个人和组织为解决问题、确定目标、协调行动而努力追求并开展交流的重点。古希腊人认为，有知识不一定明智，有效地运用知识进行判断和推理才是明智之举。个人和组织都需要通过快速理解和可靠判断来确定发展的目标，但是这种理解和判断能力不是与生俱来的，是需要悉心培养的。于是批判性思维就成为一门通识类哲学课程被纳入现代教育的环节。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206354803",
+  "instructors": [
+    {
+      "name": "王彦君",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 52454,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

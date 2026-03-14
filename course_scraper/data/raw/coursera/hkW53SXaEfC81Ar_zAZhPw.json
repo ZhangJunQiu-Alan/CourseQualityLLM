@@ -1,0 +1,26 @@
+{
+  "course_id": "hkW53SXaEfC81Ar_zAZhPw",
+  "platform": "coursera",
+  "title": "Security & Ethical Hacking: Attacking Web and AI Systems",
+  "slug": "security-and-ethical-hacking-attacking-web-and-ai-systems",
+  "description": "In this course you will learn how the security of web-based software, including deployed AI agents, can be compromised. Real-world attacks we study are conducted against a variety of web technologies and frameworks. In addition, we will introduce the topic of Adversarial Machine Learning (exploiting algorithms and learning techniques) in the Artificial Intelligence domain, including Language Models. We will review and study modern, cutting-edge research in this area.\n\nCourse assessments are through quizzes, hands-on exercises and an exam. \n\nThis course can be taken for academic credit as part of CU Boulder’s MS in Data Science or MS in Computer Science degrees offered on the Coursera platform. These fully accredited graduate degrees offer targeted courses, short 8-week sessions, and pay-as-you-go tuition. Admission is based on performance in three preliminary courses, not academic history. CU degrees on Coursera are ideal for recent graduates or working professionals. Learn more: \n\nMS in Data Science: https://www.coursera.org/degrees/master-of-science-data-science-boulder \n\nMS in Computer Science: https://coursera.org/degrees/ms-computer-science-boulder",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/security-and-ethical-hacking-attacking-web-and-ai-systems",
+  "instructors": [
+    {
+      "name": "Ahmed M. Hamza",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

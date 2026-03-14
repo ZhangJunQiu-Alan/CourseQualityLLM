@@ -1,0 +1,31 @@
+{
+  "course_id": "1449649166",
+  "platform": "mooc_cn",
+  "title": "单片机原理及应用",
+  "description": "本课程以习近平新时代中国特色社会主义思想为指引，紧扣立德树人核心，对接岗位需求与职业标准，致力于培养学生职业道德、素养及创新能力。课程采用国产高性能单片机设计案例，融合技能竞赛与1+X证书要求，形成模块化、信息化、本土化特色，对接岗位需求与职业标准，将知识、技能和价值素养全面贯穿，设计为四个篇章（基础篇、应用篇、拓展篇、提高篇），形成适应性、实践性与前沿性的课程结构。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449649166",
+  "instructors": [
+    {
+      "name": "肖春华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉软件工程职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15990,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

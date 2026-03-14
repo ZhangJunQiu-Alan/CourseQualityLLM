@@ -1,0 +1,31 @@
+{
+  "course_id": "1206702835",
+  "platform": "mooc_cn",
+  "title": "现代生物学实验技术",
+  "description": "《现代生物学实验技术》课程是为生命科学学生开设的基础性实验课程，主要学习现代生物学常用的实验技术，分为仪器设备的原理讲解和实验操作两大部分。理论课讲解各设备的原理和注意事项，实验课演示相关仪器设备的操作方法和维护保养。本课程作为河南省一流本科课程《分子生物学综合实验》课程的在线课程资源，形成了完备的线上自主学习资源，与线下实验课程深度融合，与《分子生物学》理论和实验课程共同形成了立体个性化的线上线下混合式课程体系，具有前沿性、高阶性和创新型的特点。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206702835",
+  "instructors": [
+    {
+      "name": "鲁吉珂",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10128,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

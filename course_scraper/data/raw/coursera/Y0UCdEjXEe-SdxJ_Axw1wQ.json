@@ -1,0 +1,26 @@
+{
+  "course_id": "Y0UCdEjXEe-SdxJ_Axw1wQ",
+  "platform": "coursera",
+  "title": "Búsqueda de vectores y embeddings",
+  "slug": "vector-search-and-embeddings-espanol",
+  "description": "En este curso, se presenta la búsqueda de vectores de Vertex AI y se describe cómo puede usarse para compilar una aplicación de búsqueda con APIs de modelo de lenguaje grande (LLM) para embeddings. Este curso se compone de lecciones conceptuales sobre la búsqueda de vectores y las embeddings de texto, demostraciones prácticas para compilar una búsqueda de vectores en Vertex AI y un lab práctico.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/vector-search-and-embeddings-espanol",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

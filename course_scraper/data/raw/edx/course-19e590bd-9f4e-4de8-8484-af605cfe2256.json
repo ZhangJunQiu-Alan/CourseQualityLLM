@@ -1,0 +1,50 @@
+{
+  "course_id": "course-19e590bd-9f4e-4de8-8484-af605cfe2256",
+  "platform": "edx",
+  "title": "Cybersecurity Compliance and Framework",
+  "description": "Cyberthreats present a constant challenge today, costing billions and affecting everyone, from governments to small businesses. Are you ready to contribute to the solution?  \n This course will provide you with a deep understanding of cybersecurity principles, industry standards, regulations, and audit processes. You will explore the fundamental concepts of information security and compliance, covering topics such as governance, risk, compliance, cybersecurity frameworks, and process management.  \n You will also learn about IT service management and explore the NIST Risk Management Framework and artificial intelligence (AI) ethical considerations. You will gain insights into cybersecurity laws and regulations, focusing on both US and global perspectives, including HIPPA, GDPR, and PCI DSS. Additionally, you will familiarize yourself with the audit processes using the COBIT framework and SOC reports. You will also explore prominent standards such as OWASP, ISO, and IEEE, learning how to apply them effectively.  \n Throughout this five-module self-paced course, you will engage in interactive activities to apply your knowledge in real-world scenarios. You will also complete a final project to test your skills and showcase your understanding.",
+  "learning_goals": [
+    "IT Service Management",
+    "Payment Card Industry (PCI) Data Security Standards",
+    "Endpoint Security",
+    "Server Administration",
+    "Risk Management Framework",
+    "System Administration",
+    "Patch Management",
+    "Process Management",
+    "Artificial Intelligence",
+    "Control Objectives For Information And Related Technology (COBIT)",
+    "Cryptography",
+    "Governance",
+    "Cyber Security",
+    "Information Privacy",
+    "Vulnerability",
+    "Cybersecurity Compliance",
+    "Auditing",
+    "Encryption",
+    "Open Web Application Security Project (OWASP)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "coreen-ryskamp",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 838,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

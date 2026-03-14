@@ -1,0 +1,35 @@
+{
+  "course_id": "course-1cf3d411-6963-42bd-8488-35c36665950d",
+  "platform": "edx",
+  "title": "VITARA - Audit",
+  "description": "This module provides a solid understanding of audit as a key tool available to a tax administration to promote and enforce compliance. The module explains international good practices in designing and managing an effective audit program including the necessary legal powers, audit-related organization, and governance arrangements as well as the staff expertise and resources needed for audit as well as auditor performance evaluation. The module focuses on practical issues such as how audit cases are selected, the different types and scope of audit, and audit methods that are available to staff. It also discusses the concepts of audit integrity, audit quality assurance, and the Random Audit Program as well as electronic audit tools and how they can be used in conducting audits. The module introduces a potential annual operational performance dashboard that can be implemented to allow program monitoring throughout the fiscal year. Finally, the module highlights the key components of an audit process.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "susan-betts",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "patrick-faughnan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 467,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

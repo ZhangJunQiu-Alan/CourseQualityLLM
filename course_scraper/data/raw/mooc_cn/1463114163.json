@@ -1,0 +1,31 @@
+{
+  "course_id": "1463114163",
+  "platform": "mooc_cn",
+  "title": "应用光学",
+  "description": "你想观察浩瀚的宇宙吗？ 你想探究照相机镜头的工作原理吗？你想窥探微观世界的奥妙吗？ 你想知道如何识别光学伪装吗？ 《应用光学》这门课程将为你揭开谜底。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463114163",
+  "instructors": [
+    {
+      "name": "邢中阳;许中杰;宁禹;程湘爱",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11676,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

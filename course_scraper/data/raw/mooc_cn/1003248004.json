@@ -1,0 +1,31 @@
+{
+  "course_id": "1003248004",
+  "platform": "mooc_cn",
+  "title": "大学英语综合教程（中级）",
+  "description": "通过学习此课程， 你能提高自己的英语水平， 跨文化意识和能力， 从而在今后的学习和生活中能熟练运用。 它是一门综合英语课程，不仅能够帮助学生强化提高课堂内的已学内容， 拓宽文化视野， 而且还能帮助学生获得全球视野。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003248004",
+  "instructors": [
+    {
+      "name": "袁崟峰;章明;刘潇;胡素芬;高莉萍;江凯;刘丽亚;王菲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30260,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

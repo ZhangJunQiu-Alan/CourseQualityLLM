@@ -1,0 +1,31 @@
+{
+  "course_id": "1206408813",
+  "platform": "mooc_cn",
+  "title": "电路分析基础",
+  "description": "《电路分析基础》课程是学习电路理论的入门课程，主要内容为电路的基本概念、基本定律、定理和分析计算电路的基本方法。 通过本课程的学习能够具有对电路的综合分析与判断能力，为进一步掌握电气工程中各种专业知识打下坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206408813",
+  "instructors": [
+    {
+      "name": "陈静;史雪飞;冯涛;薛燕;李擎;贾宝楠;王新平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18505,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

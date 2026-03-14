@@ -1,0 +1,57 @@
+{
+  "course_id": "course-727971ff-3872-4fdc-9133-5a4d6d0077ab",
+  "platform": "edx",
+  "title": "Introduction to Cloud Native, DevOps, Agile, and NoSQL",
+  "description": "Interested in learning the complete process of developing cloud-native applications, from start to finish? Then this course is for you!     \n This course covers essential cloud concepts like Cloud Native Applications and Cloud Native Computing Foundations (CNCF) and their impact on cloud app developers. You'll also dive into specific tools and techniques for building these apps.   \n You’ll then move on to improving your organization’s culture through DevOps. This involves maintaining consistent behavior and high code quality through approaches like test-driven and behavior-driven development. It will help you establish uniform practices and uphold exemplary code quality.   \n Additionally, the course explains the benefits of implementing Continuous Integration (CI) and Continuous Delivery (CD) alongside Agile and Scrum methodologies. You'll also understand how aligning teams and promoting autonomy contributes to building superior systems.    \n The course also covers MongoDB principles in depth and explores IBM Cloudant, including its architecture, technologies, advantages, and common use cases.   \n Finally, the course concludes with a hands-on project. In this project, you'll deploy and modernize an application, refine user stories, add new features, and redeploy using CI/CD. This project will serve as a valuable addition to your portfolio, showcasing your newly acquired skills.",
+  "learning_goals": [
+    "Continuous Integration",
+    "Public Cloud",
+    "Web Ide",
+    "RESTful API",
+    "NoSQL",
+    "DevOps",
+    "MongoDB",
+    "Cloud-Native Applications",
+    "JSON",
+    "Scrum (Software Development)",
+    "IBM Cloud Computing",
+    "Application Programming Interface (API)",
+    "Cloud Services",
+    "Agile Methodology",
+    "Software Development Life Cycle",
+    "Application Development",
+    "Continuous Delivery",
+    "Cloud-Native Computing",
+    "Node.js",
+    "Behavior-Driven Development",
+    "Cloudant",
+    "Software Quality (SQA/SQC)",
+    "User Story",
+    "Git (Version Control System)",
+    "Cloud Development",
+    "Artificial Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "2 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "upkar-lidder",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 301,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

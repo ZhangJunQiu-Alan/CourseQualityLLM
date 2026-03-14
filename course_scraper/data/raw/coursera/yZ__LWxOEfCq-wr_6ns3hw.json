@@ -1,0 +1,26 @@
+{
+  "course_id": "yZ__LWxOEfCq-wr_6ns3hw",
+  "platform": "coursera",
+  "title": "AWS: Machine Learning & MLOps Foundations",
+  "slug": "aws-machine-learning--mlops-foundations",
+  "description": "\"AWS: Fundamentals of Machine Learning & MLOps is the first course of Exam Prep (MLA-C01): AWS Certified Machine Learning Engineer – Associate Specialization. This course assists learners in building foundational knowledge of core machine learning concepts, including types of learning, data preparation, model evaluation, and operationalization. Learners gain a strong understanding of the difference between AI, Deep Learning, and Machine Learning, and how to identify and apply real-world ML use cases using AWS services.\n\nThis course allows learners to explore key topics such as model selection, classification workflows, confusion matrices, and regression evaluation techniques. In addition, learners are introduced to the concepts of MLOps and the AWS services used to streamline ML deployment and monitoring in production environments.\n\nThe course is divided into two modules, and each module is further segmented by Lessons and Video Lectures. This course facilitates learners with approximately 2:30–3:00 hours of video lectures that provide both theory and hands-on knowledge using AWS tools. Also, Graded and Ungraded Quizzes are provided with every module to test the understanding and application readiness of learners.\"\n\nModule 1: Machine Learning and MLOps Concepts\nModule 2 :  Model Development & Evaluation Techniques\n\nBy the end of this course, learners will be able to:\n\n-  Apply foundational machine learning and MLOps concepts using AWS tools\n\n- Build and evaluate ML models with services like Amazon SageMaker\n\n- Understand end-to-end ML workflows, including data preparation, model training, and deployment\n\n- Strengthen their preparation for the AWS Certified Machine Learning Engineer – Associate (MLA-C01) exam\n\nThis course is ideal for aspiring ML practitioners, data engineers, and developers with 6 months to 1 year of AWS experience who want to build practical skills in machine learning and MLOps. It also supports learners preparing for the AWS Certified Machine Learning Engineer – Associate (MLA-C01) exam and professionals seeking hands-on knowledge of implementing and managing ML workflows using AWS services.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 Weeks of Study, 3 hours/Week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-machine-learning--mlops-foundations",
+  "instructors": [
+    {
+      "name": "Whizlabs Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Whizlabs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

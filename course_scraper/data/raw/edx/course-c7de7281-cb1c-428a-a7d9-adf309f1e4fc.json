@@ -1,0 +1,36 @@
+{
+  "course_id": "course-c7de7281-cb1c-428a-a7d9-adf309f1e4fc",
+  "platform": "edx",
+  "title": "Be a Better Learner Using Psychology",
+  "description": "What are the research-based principles from cognitive psychology that will help you become a more effective and efficient learner? In this course, we’ll cover how we think, how we learn and forget information, and the best ways to improve our study habits.  \n We begin with metacognition, or thinking about thinking, specifically how we assess what we know, and the choices we make based on those assessments. We’ll then follow up with why forgetting happens and discuss ways to reduce forgetting and improve long-term learning. Next, we’ll look at four specific strategies that will make you a more effective learner—spaced learning, retrieval practice, elaboration, and focused learning.  \n Of course, we would be remiss if we did not discuss the advantages and disadvantages of other popular study strategies—ones that you’re likely already using. Rather than suggesting you abandon them entirely, we’ll explain how you might modify or adjust them to make them more effective. Finally, we know that procrastination is a problem for most learners. Having the right strategies to overcome this common pitfall will help you not just in your academic pursuits, but in many areas of your life. \n We’re confident that if you apply the scientifically validated concepts we cover in this course, you’ll be able to get more out of your studying and see improvements in your academic performance. We’re glad to have you with us on this learning journey and can’t wait to get started!",
+  "learning_goals": [
+    "Cognitive Psychology",
+    "Research",
+    "Study Skills",
+    "Metacognition",
+    "Psychology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 2-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "kyle-smith-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "American Psychological Association"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 278,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

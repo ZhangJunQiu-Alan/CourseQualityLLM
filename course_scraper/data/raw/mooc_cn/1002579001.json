@@ -1,0 +1,31 @@
+{
+  "course_id": "1002579001",
+  "platform": "mooc_cn",
+  "title": "化工热力学",
+  "description": "化工热力学课程是化工学科的基础课，是分离工程、化工设计等课程的基础。天津大学的3名教授、2名副教授组成了强大的教学团队，全面解读课程的原理、概念、模型，通过典型应用分析化工热力学在工程中的应用。相信你在享受热力学逻辑美的同时，又能深刻体会其强大的应用功能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002579001",
+  "instructors": [
+    {
+      "name": "夏淑倩",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "天津大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35188,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

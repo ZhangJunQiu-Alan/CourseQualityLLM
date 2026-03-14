@@ -1,0 +1,26 @@
+{
+  "course_id": "l1SErnScEeqiEBJNiILZrw",
+  "platform": "coursera",
+  "title": "Compare Stock Returns with Google Sheets",
+  "slug": "compare-stock-returns-google-sheets",
+  "description": "In this 1-hour long project-based course, you will learn how to compare the performance of different securities using financial statistics (normal distributions) and the Google Sheets toolkit to decide which one performed the best in terms of risk-to-return (risk-to-reward) metrics. This will teach you how basic risk management using quantitative analysis is done and is applied in calculating mean returns of the stock, variance, standard deviation, the Sharpe ratio, and Sortino Ratio.\n\nNote: This course works best for learners who are based in the North America region. We're currently working on providing the same experience in other regions.\n\nThis course's content is not intended to be investment advice and does not constitute an offer to perform any operations in the regulated or unregulated financial market.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/compare-stock-returns-google-sheets",
+  "instructors": [
+    {
+      "name": "Bekhruzbek Ochilov, MCSI, PAGRC",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

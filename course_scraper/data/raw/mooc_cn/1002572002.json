@@ -1,0 +1,31 @@
+{
+  "course_id": "1002572002",
+  "platform": "mooc_cn",
+  "title": "化工过程分析与合成",
+  "description": "《化工过程分析与合成》是从系统的角度对化工过程进行研究。过程分析是自上而下的观点（top-down）对化工过程系统进行分解；过程合成是自下而上的观点（bottom-up）对过程单元进行集成。因此，该课程是基于系统的观点研究化工问题，是化学工程学生及相关从业人员必备课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002572002",
+  "instructors": [
+    {
+      "name": "张卫东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京化工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17303,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

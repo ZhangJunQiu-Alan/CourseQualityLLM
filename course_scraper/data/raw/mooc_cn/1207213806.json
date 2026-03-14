@@ -1,0 +1,31 @@
+{
+  "course_id": "1207213806",
+  "platform": "mooc_cn",
+  "title": "工程项目管理",
+  "description": "\"工程项目管理\"是工程管理专业和工程造价专业的主干课程，通过教学，使学生掌握工程建设程序，理解业主方策划决策和建设实施全过程项目管理的内容和方法，并具有初步实践能力和科学研究能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207213806",
+  "instructors": [
+    {
+      "name": "刘伊生;刘菁;王朝静;双晴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23527,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

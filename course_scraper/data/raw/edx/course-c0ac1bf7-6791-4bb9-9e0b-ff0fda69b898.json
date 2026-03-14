@@ -1,0 +1,48 @@
+{
+  "course_id": "course-c0ac1bf7-6791-4bb9-9e0b-ff0fda69b898",
+  "platform": "edx",
+  "title": "Science & Cooking: From Haute Cuisine to Soft Matter Science (physics)",
+  "description": "In this course, which investigates physical transformations in food, we will be visited by world-famous chefs who use a number of different styles and techniques in their cooking. Each chef will demonstrate how he or she prepares delicious and interesting creations, and we will explore how fundamental scientific principles make them possible. \n Topics will include: \n \n How cooking changes food texture \n Making emulsions and foams \n Phase changes in cooking \n \n You will also have the opportunity to become an experimental scientist in your very own laboratory — your kitchen! By following along with the recipes of the week, taking precise measurements, and making skillful observations, you will learn to think like both a chef and a scientist. This practice will prepare you for the final project, when you will design and perform an experiment to analyze a recipe of your choice from a scientific perspective. \n The lab is certainly one of the most unique components of this course — after all, in what other science course can you eat your experiments?",
+  "learning_goals": [
+    "Soft Matter",
+    "Cooking",
+    "Research",
+    "Experimentation",
+    "Physics",
+    "Baking",
+    "Chemistry"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "16 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "michael-brenner",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-weitz",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "pia-sorensen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2876,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

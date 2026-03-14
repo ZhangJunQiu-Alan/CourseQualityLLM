@@ -1,0 +1,31 @@
+{
+  "course_id": "1002475002",
+  "platform": "mooc_cn",
+  "title": "科学计算与MATLAB语言",
+  "description": "当前，科学计算已经成为科学研究、技术创新的重要方法与手段，而作为实现工具的科学计算软件无疑具有至关重要的作用。MATLAB为众多领域的计算问题提供了全面的解决方案，代表了当今国际科学计算软件的先进水平，被誉为巨人肩膀上的工具。通过本课程的学习，我们将能站在巨人的肩膀上领略各种计算之美。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002475002",
+  "instructors": [
+    {
+      "name": "刘卫国;蔡旭晖;吕格莉;何小贤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 427774,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

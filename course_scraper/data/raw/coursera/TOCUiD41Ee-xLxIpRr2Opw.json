@@ -1,0 +1,26 @@
+{
+  "course_id": "TOCUiD41Ee-xLxIpRr2Opw",
+  "platform": "coursera",
+  "title": "Git and GitHub for DevOps Engineers",
+  "slug": "packt-git-and-github-for-devops-engineers-y8gcg",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you will learn how to efficiently use Git and GitHub in a DevOps environment. You’ll gain the skills to manage source code, collaborate with teams, and streamline the development process using version control and advanced Git features. By the end, you’ll be comfortable navigating Git workflows and GitHub’s collaborative tools, essential for modern DevOps practices.\n\nThe course begins with an introduction to version control and guides you through setting up Git on Windows and Linux. As you advance, you will learn the foundational aspects of Git repositories, staging, commits, and working with branches. Along the way, you’ll dive into GitHub, exploring how to create repositories, clone them, and push changes to remote repositories.\n\nAs you continue, you'll work with other developers through collaborative features like pull requests, resolving merge conflicts, and handling private repositories. You’ll also delve into advanced topics such as Git rebase, Git fetch, and Git pull. The course culminates in a practical DevOps project where you'll set up and manage a Git repository, enable DevOps workflows, and release code to production using AWS.\n\nThis course is designed for aspiring DevOps engineers and software developers seeking to enhance their Git and GitHub skills. No prior experience is required, but familiarity with basic software development concepts is beneficial.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-git-and-github-for-devops-engineers-y8gcg",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

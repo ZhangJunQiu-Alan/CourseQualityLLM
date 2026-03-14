@@ -1,0 +1,26 @@
+{
+  "course_id": "yxcumJ42Ee22Ew5lHuzHCw",
+  "platform": "coursera",
+  "title": "Transferencia de momentum, calor y masa computacional",
+  "slug": "transferencia-de-momentum-calor-y-masa-computacional",
+  "description": "En este MOOC el estudiante desarrollará competencias de computación científica y métodos numéricos para resolver problemas de transferencia de momentum, calor y masa. En concreto, el estudiante creará y utilizará códigos Python para encontrar la solución numérica a ecuaciones diferenciales ordinarias y ecuaciones diferenciales parciales. \n\nEn fenómenos de transporte, estas ecuaciones provienen de problemas a los valores iniciales (PVI), problemas a los valores de contorno (PVC) y problemas a los valores iniciales y de contorno (PVIC). Las competencias a desarrollar en este curso son necesarias para modelar y simular realistamente intercambiadores de calor, estanques de almacenamiento, equipos de separación, motores, celdas de combustible, dispersión de contaminantes y transmisión de enfermedades infecciosas. \n\nCon las competencias desarrolladas en el curso, el estudiante será capaz de diseñar y optimizar sistemas ingenieriles para maximizar su seguridad, efectividad y eficiencia.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 horas/semana",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/transferencia-de-momentum-calor-y-masa-computacional",
+  "instructors": [
+    {
+      "name": "Felipe Huerta Pérez",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pontificia Universidad Católica de Chile"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

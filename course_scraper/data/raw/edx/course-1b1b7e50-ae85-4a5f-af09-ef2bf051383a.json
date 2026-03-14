@@ -1,0 +1,42 @@
+{
+  "course_id": "course-1b1b7e50-ae85-4a5f-af09-ef2bf051383a",
+  "platform": "edx",
+  "title": "Excel for Beginners",
+  "description": "If you’re seeking to grow your knowledge of spreadsheets from zero to basic comfort and competence in Excel, then this is a perfect course for you. \n The goal of this course is to provide you with a foundation on which you can build more advanced skills in the future. In this online course you will learn foundational Microsoft Excel (also applicable to Google Sheets) knowledge including spreadsheet and workbook anatomy, data entry, summary, and manipulation, plotting and visualization, and powerful tools such as functions, conditional formatting, vlookup, mathematical formulas, graphs, macros, keyboard shortcuts, cell references, filters, sorts, and pivot tables. \n Not only will this Excel tutorial provide you with a step-by-step training to obtain strong skills in Excel basics, but you will also find several pathways to continue learning the skills you need after the course. Basic Excel skills are required for many jobs, but more advanced skills are often learned on the job. This course can help you quickly get to the point of being able to learn more advanced skills on your own or on the job. \n The approach of this course will be different from a typical software course. Rather than focusing on moving through as many tools and skills as quickly as possible, this course will emphasize gaining comfort and familiarity with some of the most useful and foundational skills, the skills that will be key to your success in using Excel now and in the future. You will have the opportunity to practice these skills and identify general principles of successfully working with spreadsheets to be more efficient, reliable, and effective in your work.",
+  "learning_goals": [
+    "Pivot Tables And Charts",
+    "Spreadsheets",
+    "Data Entry",
+    "Microsoft Excel",
+    "Keyboard Shortcuts",
+    "Google Sheets",
+    "Conditional Formatting",
+    "Vlookups",
+    "Anatomy",
+    "Excel Macros",
+    "Basic Math"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "kevin-smith",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Davidson College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8069,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

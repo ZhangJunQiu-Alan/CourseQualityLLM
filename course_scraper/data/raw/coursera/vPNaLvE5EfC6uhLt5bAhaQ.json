@@ -1,0 +1,26 @@
+{
+  "course_id": "vPNaLvE5EfC6uhLt5bAhaQ",
+  "platform": "coursera",
+  "title": "Generative AI for AWS Cloud Engineers",
+  "slug": "generative-ai-for-aws-cloud-engineers",
+  "description": "Generative AI for AWS Cloud Engineers course is designed for technical professionals aiming to master the integration, deployment, and optimization of large language models (LLMs) within the AWS cloud infrastructure. It aims to bridge the gap between traditional cloud engineering and the rapidly evolving landscape of generative AI.\nThis course facilitates learners with approximately 4:00–5:00 Hours of Video lectures that provide a deep dive into both architectural theory and hands-on implementation. The course is structured into 3 Comprehensive Modules, with each module further split into technical lessons. To test the practical understanding of learners, every module includes Quizzes, and In-Video Knowledge Checks. Enroll in our “Generative AI for AWS Cloud Engineers” course to lead the next generation of cloud-native AI innovation.\n- Module 1: Gen AI on AWS - Amazon Bedrock\n- Module 2: Security and Governance of AI Solutions\n\nThis course is specifically designed for technical professionals and cloud practitioners who aim to bridge the gap between core infrastructure and modern AI implementation.\n\nBy the end of this course, a learner will be able to:\n- Understand foundational concepts, methods, and strategies related to artificial intelligence (AI), machine learning (ML), and generative AI (Gen AI) within the AWS ecosystem.\n- Identify appropriate AI/ML and generative AI technologies to address specific organizational use cases effectively.\n- Apply responsible practices in the utilization of AI, ML, and Generative AI technologies.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 Weeks of Study, 2 hours/Week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/generative-ai-for-aws-cloud-engineers",
+  "instructors": [
+    {
+      "name": "Whizlabs Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Whizlabs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

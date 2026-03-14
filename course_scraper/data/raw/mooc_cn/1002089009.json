@@ -1,0 +1,31 @@
+{
+  "course_id": "1002089009",
+  "platform": "mooc_cn",
+  "title": "数值分析",
+  "description": "数值分析课程主要研究使用计算机求解各种数学问题的方法、理论分析及其软件的实现，是科学工程计算的重要理论支撑。它既有纯粹数学的高度抽象性和严密科学性，又有着具体应用的广泛性和实际实验的技术性，是一门与计算机使用密切结合的实用性很强的数学课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002089009",
+  "instructors": [
+    {
+      "name": "邵新慧;史大涛;陈艳利;陈子旋;李铮;赵晓朋;沈海龙;冯男;盛莹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 190506,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

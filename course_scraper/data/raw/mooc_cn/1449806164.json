@@ -1,0 +1,31 @@
+{
+  "course_id": "1449806164",
+  "platform": "mooc_cn",
+  "title": "Android应用开发",
+  "description": "最简单的Android(安卓)入门教程，AI辅助编程，手把手视频、教材、代码、答疑全配齐，课程提供及时高效的答疑服务，帮助每一个想学习的人学会Android开发！你想设计自己的DeepSeek App吗？你想零基础学Android or HarmonyOS(安卓or鸿蒙)开发？你想通过Android(安卓)或HarmonyOS(鸿蒙)手机App点流水灯？你想在Android或HarmonyOS手机上控制家电？这是一门低门槛零起点的Android(安卓)开发课程，基于Android13(T)，兼容HarmonyOS4，在这里你将学到如何通过Android App操纵硬件，如何扩展硬件的边界，发挥你的想象力，打造属于你的Android移动应用，Android HarmonyOS智能硬件移动互联无限可能！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449806164",
+  "instructors": [
+    {
+      "name": "罗伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 42938,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

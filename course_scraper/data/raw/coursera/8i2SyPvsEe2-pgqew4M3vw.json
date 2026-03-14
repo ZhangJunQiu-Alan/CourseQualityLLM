@@ -1,0 +1,26 @@
+{
+  "course_id": "8i2SyPvsEe2-pgqew4M3vw",
+  "platform": "coursera",
+  "title": "Linear Regression",
+  "slug": "illinois-tech-linear-regression",
+  "description": "This course is best suited for individuals who have a technical background in mathematics/statistics/computer science/engineering pursuing a career change to jobs or industries that are data-driven such as finance, retain, tech, healthcare, government and many more. The opportunity is endless.  \n\nThis course is part of the Performance Based Admission courses for the Data Science program.  \n\nThis course will focus on getting you acquainted with the basic ideas behind regression, it provides you with an overview of the basic techniques in regression such as simple and multiple linear regression, and the use of categorical variables.  \n\nSoftware Requirements: R\n\nUpon successful completion of this course, you will be able to: \n\n- Describe the assumptions of the linear regression models. \n- Compute the least squares estimators using R.\n- Describe the properties of the least squares estimators.\n- Use R to fit a linear regression model to a given data set.\n- Interpret and draw conclusions on the linear regression model.\n- Use R to perform statistical inference based on the regression models.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/illinois-tech-linear-regression",
+  "instructors": [
+    {
+      "name": "Kiah Ong",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Illinois Tech"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

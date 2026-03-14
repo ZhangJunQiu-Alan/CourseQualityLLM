@@ -1,0 +1,59 @@
+{
+  "course_id": "course-95a3e201-e0dc-4602-99f7-3e061b71d672",
+  "platform": "edx",
+  "title": "Introduction to Aerospace Structures and Materials",
+  "description": "How do you design an aircraft or spacecraft? And in doing so, how do you keep the risk of failure minimal while bearing in mind that they will eventually fail? \n In this course you will be taken on a journey through the structural and material design of aircraft. You will see and understand how aircraft and spacecraft are manufactured, and learn how safety is enshrined at every stage. \n Experts from the Aerospace Structures and Materials Department of Delft University of Technology will help you explore and analyze the mechanical properties of materials; learning about manufacturing techniques, fatigue, loads and stresses, design considerations and more - all the scientific and engineering principles that structural and materials engineers face on a daily basis. By the end of the course, you will have learned to think like they do! \n Join us for an exciting learning experience that includes experiments; some of which you can do by yourself at home, online lectures, quizzes, and design assignments.",
+  "learning_goals": [
+    "Experimentation",
+    "Spacecraft",
+    "Material Design"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jos-sinke",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-calvin-rans",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "gillian-saunders-smits",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rene-alderliesten",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "julie-teuwen",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "katharina-ertman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1410,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

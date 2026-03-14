@@ -1,0 +1,31 @@
+{
+  "course_id": "1468777184",
+  "platform": "mooc_cn",
+  "title": "数字地形测量学",
+  "description": "《数字地形测量学》主要介绍测量的基本概念、基本理论；水准仪、经纬仪、全站仪等基本测绘仪器的操作及观测数据的分析处理；数字地形图的测绘方法以及现代测量技术等。培养学生利用所学基础知识综合分析和解决问题的能力，为学生从事相关专业领域的工作或研究奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468777184",
+  "instructors": [
+    {
+      "name": "史晓云",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京林业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3264,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

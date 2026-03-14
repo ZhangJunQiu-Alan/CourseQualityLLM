@@ -1,0 +1,36 @@
+{
+  "course_id": "course-348daf5a-eba8-4bf4-97c8-1034ab83b464",
+  "platform": "edx",
+  "title": "Introduction to Object-Oriented Programming with Java III: Exceptions, Data Structures, Recursion, and GUIs",
+  "description": "This course provides students with the knowledge to handle and even create exceptions to achieve graceful error handling in programs. They will also create and utilize data structures, including lists and files. Students will also learn about recursion and how it can be a useful approach to repetition in a program. Finally, students will learn how to develop basic graphical user interfaces (GUIs) using JavaFX.",
+  "learning_goals": [
+    "Object-Oriented Programming (OOP)",
+    "Java (Programming Language)",
+    "Graphical User Interface",
+    "Exception Handling",
+    "Data Structures"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "olufisayo-omojokun",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 403,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

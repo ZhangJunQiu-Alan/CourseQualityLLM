@@ -1,0 +1,31 @@
+{
+  "course_id": "1001743001",
+  "platform": "mooc_cn",
+  "title": "行政管理学",
+  "description": "行政管理学自20世纪初以来得到了长足的发展。社会主义现代化建设需要各方面的有效管理，行政管理的科学、有效，直接影响着国家、社会的发展。西北大学《行政管理学》慕课课程运用混合式教学模式，以学生为中心，以能力提升为核心，通过研究、启发、探索、讨论等参与方式，实现翻转课堂教学。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001743001",
+  "instructors": [
+    {
+      "name": "梁忠民;何君安",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 138585,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

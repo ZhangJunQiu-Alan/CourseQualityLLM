@@ -1,0 +1,26 @@
+{
+  "course_id": "Lg__Qy2SEe-O0g4bDQY6TQ",
+  "platform": "coursera",
+  "title": "Reinforcement Learning from Human Feedback",
+  "slug": "reinforcement-learning-from-human-feedback-project",
+  "description": "Large language models (LLMs) are trained on human-generated text, but additional methods are needed to align an LLM with human values and preferences.\n\nReinforcement Learning from Human Feedback (RLHF) is currently the main method for aligning LLMs with human values and preferences. RLHF is also used for further tuning a base LLM to align with values and preferences that are specific to your use case.  \n\nIn this course, you will gain a conceptual understanding of the RLHF training process, and then practice applying RLHF to tune an LLM. You will: \n\n1. Explore the two datasets that are used in RLHF training: the “preference” and “prompt” datasets.\n\n2. Use the open source Google Cloud Pipeline Components Library, to fine-tune the Llama 2 model with RLHF.\n\n3. Assess the tuned LLM against the original base model by comparing loss curves and using the “Side-by-Side (SxS)” method.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/reinforcement-learning-from-human-feedback-project",
+  "instructors": [
+    {
+      "name": "Nikita Namjoshi",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "DeepLearning.AI"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

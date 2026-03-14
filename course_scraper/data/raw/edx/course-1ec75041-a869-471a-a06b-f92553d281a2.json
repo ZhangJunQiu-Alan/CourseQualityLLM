@@ -1,0 +1,51 @@
+{
+  "course_id": "course-1ec75041-a869-471a-a06b-f92553d281a2",
+  "platform": "edx",
+  "title": "Agile Innovation and Problem Solving Skills",
+  "description": "Innovative products and services change lives, and having the right innovative process creates an competitive advantage. Ultimately, innovation is about one thing: problem solving. \r\n As an agile problem solver, you'll need to expand your critical thinking skills to address the key sources of risk in developing best solutions for your new products and business lines. The Problem-solving techniques covered begin with problem definition, beginning with job descriptions and applying the right soft skills to enhance requirements gathering. This ensures you're targeting a good problem to solve, and that you understand the business model. The course then moves on to practices such as \"brainstorm and storm drain\" to target new creative solutions. You will learn how innovation works on fast feedback cycles to test possible solutions and target root causes of defects. Creative thinking isn't a straight line, and neither should the problem-solving process be a straight line. Each course of action needs early and frequent testing. \r\n Key lessons taught in this course are: \r\n \r\n \r\n Delivering business value, not technical scope with User Stories \r\n \r\n \r\n Why innovating is the key to risk management and gaining a competitive advantage \r\n \r\n \r\n The best innovation process for startups in new markets or disruptive innovations, versus sustaining product and process innovations \r\n \r\n \r\n How to employ an innovation process that fits your business model and situation \r\n \r\n \r\n Using Cross-functional teams and user stories to gather accurate requirements \r\n \r\n \r\n Leveraging constraints to apply tested solutions to new technology and new innovations \r\n \r\n \r\n Applying Test-Driven Design (TDD) to deliver better designs with less designing \r\n \r\n \r\n By following best practices of Agile, including timeboxes, constraint-based thinking processes, and empathetic problem solving, you'll learn how to provide a sustainable innovation environment for your teams. \r\n While this course will not make you an agile certified practitioner (PMI-ACP), or certified scrum master (CSM), it offers a more fundamental agile certification based on agile principles and how agile innovation is accomplished in industry today. You'll finish this course more than ready to continue your agile journey, which we hope takes you to the next course in the series on “Agile Leadership Principles and Practices.” \r\n Upon successful completion of this course, learners can earn 10 Professional Development Unit (PDU) credits, which are recognized by the Project Management Institute (PMI). PDU credits are essential to those looking to maintain certification as a Project Management Professional (PMP).",
+  "learning_goals": [
+    "Creative Thinking",
+    "Thinking Processes",
+    "Problem Solving",
+    "Agile Leadership",
+    "Risk Management",
+    "Project Management Institute (PMI) Methodology",
+    "Requirements Elicitation",
+    "PMI Agile Certified Practitioner",
+    "Test-Driven Development (TDD)",
+    "Timeboxing",
+    "Innovation",
+    "Critical Thinking",
+    "Project Management Professional Certification",
+    "Agile Methodology",
+    "Certified Scrum Master",
+    "Empathy",
+    "Scrum (Software Development)",
+    "Business Valuation",
+    "User Story",
+    "Business Modeling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "john-johnson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Maryland, College Park"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 555,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

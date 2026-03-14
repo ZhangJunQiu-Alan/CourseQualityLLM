@@ -1,0 +1,33 @@
+{
+  "course_id": "course-c1f721ba-edfc-4ff2-a118-82f85fd8c711",
+  "platform": "edx",
+  "title": "Foundations of Medical Spanish",
+  "description": "This course has the specific purpose to aid healthcare professionals interested in learning medical Spanish. We teach doctors the language to communicate when their patient’s visit takes place. This course not only helps you to greet patients but also interview them to find out the chief complaint. \n The course is based on fundamental beginner language that enables students to communicate in the professional field with colleagues and patients. The course gradually develops to be completely taught in Spanish to create an immersion atmosphere to familiarize you with the use of the language.",
+  "learning_goals": [
+    "Communications",
+    "Spanish Language"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rocio-rios-rojas",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidades Anáhuac"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 339,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

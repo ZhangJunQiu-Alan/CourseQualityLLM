@@ -1,0 +1,31 @@
+{
+  "course_id": "1002582003",
+  "platform": "mooc_cn",
+  "title": "教育哲学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002582003",
+  "instructors": [
+    {
+      "name": "刘铁芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 47698,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

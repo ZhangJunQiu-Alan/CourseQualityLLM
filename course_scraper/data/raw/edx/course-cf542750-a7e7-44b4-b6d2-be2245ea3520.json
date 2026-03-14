@@ -1,0 +1,53 @@
+{
+  "course_id": "course-cf542750-a7e7-44b4-b6d2-be2245ea3520",
+  "platform": "edx",
+  "title": "Fundamentos de Mecánica para Ingeniería",
+  "description": "Se aborda el estudio del universo físico analizando objetos en movimiento. Se definen y analizan todas las magnitudes y leyes físicas que permiten describir geométrica y causalmente el movimiento de cuerpos representados por un punto. \n Trataremos: \n \n Magnitudes físicas y álgebra vectorial \n Fundamentos de cinemática del punto \n Tipos de movimiento \n Dinámica del punto \n Trabajo y potencia \n Energía mecánica",
+  "learning_goals": [
+    "Mechanics",
+    "Kinematics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-4 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "pilar-candelas-valiente",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "m-angeles-hernandez-fenollosa",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "constanza-rubio-michavila",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "marcos-gimenez-valentin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "joaquin-cerda-boluda",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 286,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

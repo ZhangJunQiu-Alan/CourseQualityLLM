@@ -1,0 +1,47 @@
+{
+  "course_id": "course-f2c178f0-21d1-481c-a7e0-7529b78c3a45",
+  "platform": "edx",
+  "title": "Software Engineering Basics for Everyone",
+  "description": "The demand for software engineers doubled according to the “State of Software Engineers” report by the tech specialist Hired. Nearly every industry uses software to accelerate its growth, providing a vast number of opportunities. With the importance of software engineers and the technical skillset required, it isn’t surprising that according to Indeed.com, “The good starting software engineer salary in the US is considered to be $113,211 per year. Competitive starting salaries will vary depending on location and cost of living.” \n This course is suitable for anyone wanting to start in a software development related role, including those aspiring to be Software Engineers, IT Product and Project Managers, Scrum Masters, Information Developers, UI/UX Designers, QA Engineers, as well as Sales Executives, and Marketing Managers in the Tech industry. No prior programming experience or degree is required. \n This course teaches you about the power of the Software Development Lifecycle (SDLC) and software development methodologies such as Agile. You will explore fundamental programming principles and foundations of design, architecture, and deployment, investigate skills that a software engineer needs and identify job opportunities with hands-on projects. You will also learn about programming basics and software development tools and stacks. \n Throughout this course, you’ll hear first-hand experiences from expert software engineers to geta feel for the job and their perspectives. After completing this introductory course, you will be familiar with the software engineering tools, technologies, terminology, processes, and practices.",
+  "learning_goals": [
+    "Software Development Life Cycle",
+    "Marketing",
+    "Scrum (Software Development)",
+    "Agile Methodology",
+    "Safety Assurance",
+    "Software Development",
+    "Sales",
+    "Systems Development Life Cycle",
+    "User Experience",
+    "Software Engineering",
+    "Software Development Methodologies"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 10-14 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "lin-joyner",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2076,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002529019",
+  "platform": "mooc_cn",
+  "title": "机械制造基础",
+  "description": "《机械制造基础》课程是高等工程教育之重要的技术基础理论课程。通过对本课程的学习,可以初步掌握各种成形方法、零件加工工艺和结构工艺性等基本工艺知识，培养学生具有工程意识，工程实践能力、绿色制造和与他人沟通合作能力等大工程素养，并能用所学的基本原理和方法分析实际的生产工艺技术问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002529019",
+  "instructors": [
+    {
+      "name": "赵立红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 40676,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

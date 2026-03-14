@@ -1,0 +1,31 @@
+{
+  "course_id": "1464635161",
+  "platform": "mooc_cn",
+  "title": "数字电路与逻辑设计",
+  "description": "本课程是电子信息类专业本科生在电子技术方面的专业基础课，以采用数字集成电路设计数字硬件电路模块、数字系统的自顶向下设计方法为特色，具有很强的逻辑推理和工程实践性。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464635161",
+  "instructors": [
+    {
+      "name": "张盼盼;车晶;黄丽亚;陈陶;杨恒新",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12226,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

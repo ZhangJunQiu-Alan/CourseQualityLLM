@@ -1,0 +1,26 @@
+{
+  "course_id": "oUJ58VQ6EfCW8Q55q1kSNQ",
+  "platform": "coursera",
+  "title": "Mastering Data Wrangling with dplyr",
+  "slug": "mastering-data-wrangling-with-dplyr",
+  "description": "In this course, you'll get hands-on experience with dplyr, the powerhouse package for data manipulation in R. You will work with real retail sales data as you learn to filter, arrange, and transform your data with ease. By the end of this course, you'll be confidently writing clean, efficient code using the pipe operator and essential dplyr functions that professional data analysts use daily.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "6 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/mastering-data-wrangling-with-dplyr",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

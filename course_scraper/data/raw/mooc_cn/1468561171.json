@@ -1,0 +1,31 @@
+{
+  "course_id": "1468561171",
+  "platform": "mooc_cn",
+  "title": "电气与PLC技术",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468561171",
+  "instructors": [
+    {
+      "name": "周瑜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8748,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

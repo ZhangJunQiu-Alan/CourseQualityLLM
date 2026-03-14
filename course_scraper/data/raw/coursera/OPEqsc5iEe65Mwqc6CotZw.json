@@ -1,0 +1,26 @@
+{
+  "course_id": "OPEqsc5iEe65Mwqc6CotZw",
+  "platform": "coursera",
+  "title": "Web Scraping with Python",
+  "slug": "python-web-scraping",
+  "description": "In this 2-hour long project-based course, you will learn how to analyze complex HTML structures and identify the relevant data to be extracted using Scrapy and XPath. You will apply the concepts of web scraping, including setting up a Scrapy project, generating spiders, and using XPath queries to extract data from websites that do not provide an API. Additionally, you will evaluate the effectiveness and efficiency of your scraping code, considering factors such as changing webpage structures, scalability, and coding defensively to ensure robustness. The course includes hands-on labs where you will create a spider and parse complex HTML, allowing you to practice and reinforce the concepts learned.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/python-web-scraping",
+  "instructors": [
+    {
+      "name": "Alfredo Deza",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Duke University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

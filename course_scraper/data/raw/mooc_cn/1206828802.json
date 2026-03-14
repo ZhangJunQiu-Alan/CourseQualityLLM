@@ -1,0 +1,31 @@
+{
+  "course_id": "1206828802",
+  "platform": "mooc_cn",
+  "title": "高等数学(上）",
+  "description": "“高等数学”是在解决实际问题中提炼的数学理论方法。利用极限理论，将不规则问题无限细微化，体现微分思想；通过化整为零积少成多的深刻哲学内涵，体现积分思想。因此“高等数学”又名微积分，它不仅为理工经管等专业提供必要的数学知识，而且也是培养学生分析问题和解决问题能力的重要载体。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206828802",
+  "instructors": [
+    {
+      "name": "朱士信;宁荣健;刘植;张莉;周江涛;唐烁;彭凯军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "合肥工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 90358,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

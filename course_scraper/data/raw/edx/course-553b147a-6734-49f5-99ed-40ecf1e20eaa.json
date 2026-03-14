@@ -1,0 +1,45 @@
+{
+  "course_id": "course-553b147a-6734-49f5-99ed-40ecf1e20eaa",
+  "platform": "edx",
+  "title": "Music Technology Foundations",
+  "description": "Want to produce and record your own music?  \n This course will help you do that by showing you how to apply new music technology to your own creative practice, using freeware and browser based apps. \n  What will you learn?  \n Music Technology Foundations draws on Adelaide’s world-class pioneering expertise in making electronic music and digital music production, to provide a great foundation to a career in music and to enable any learner to use music technology in creative ways. \n In this course, you’ll learn about the core principles of music technology, including sound, audio, MIDI, effects and sequencing. \n  Who should study this music technology course?  \n This course is for aspiring musicians, creators and music enthusiasts who want to produce and record their own music using digital tools. It’s ideal for beginners with little or no experience who are keen to explore music technology and develop creative skills using accessible, browser-based and free software.",
+  "learning_goals": [
+    "MIDI",
+    "Music Technology",
+    "Digital Audio",
+    "Electronic Music"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "luke-harrald",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "christian-haines",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "stephen-whittington",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Adelaide University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 374,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

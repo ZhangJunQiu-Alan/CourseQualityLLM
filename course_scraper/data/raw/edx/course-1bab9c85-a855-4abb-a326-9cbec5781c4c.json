@@ -1,0 +1,35 @@
+{
+  "course_id": "course-1bab9c85-a855-4abb-a326-9cbec5781c4c",
+  "platform": "edx",
+  "title": "Backyard Meteorology: The Science of Weather",
+  "description": "The weather forecasts we see every day are based on an army of meteorological sensing networks and intensive computer modeling. Before the rise of these technologies, predictions were made by methods like discerning cloud formations and wind directions.  \n This course will explore the science behind weather systems by teaching the observational skills needed to make a forecast without using instruments or computer models. We'll discuss the physical processes driving weather and the global forces that shape global climate systems. Finally, we will examine the limits of prediction in both human observations and computer models.  \n Can the flap of a butterfly's wings in Brazil set off a tornado in Texas? Take this course to find out!",
+  "learning_goals": [
+    "Computer Simulation",
+    "Forecasting",
+    "Weather Forecasting",
+    "Meteorology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "john-huth",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3726,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

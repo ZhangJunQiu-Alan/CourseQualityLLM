@@ -1,0 +1,31 @@
+{
+  "course_id": "1001794027",
+  "platform": "mooc_cn",
+  "title": "医学分子生物学",
+  "description": "2020年《医学分子生物学》被评为河南省本科一流线上课程，为我校本科各专业的必修课，2022年课程改革，课时增加至32学时， 2学分。教学方法采用讲授、讨论、自学辅导、计算机多媒体演示等多种形式，建议采用笔试、口试或开卷考试等方法综合评定学习成绩。    医学分子生物学是分子生物学的重要分支，以分子生物学的基本理论为指导，将日新月异的分子生物学技术用于基础医学和临床医学研究和实践，致力于阐明生物大分子结构、功能、调控机制以及人体各种生理和病理状态的分子机制，推动新的诊断、治疗和预防方法的建立以及新的健康理念的发展。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001794027",
+  "instructors": [
+    {
+      "name": "王亚娟;李照熙;杨保胜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "豫北医学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24094,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

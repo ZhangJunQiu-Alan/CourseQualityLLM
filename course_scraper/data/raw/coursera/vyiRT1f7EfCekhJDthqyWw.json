@@ -1,0 +1,26 @@
+{
+  "course_id": "vyiRT1f7EfCekhJDthqyWw",
+  "platform": "coursera",
+  "title": "Model Armor: Securing AI Deployments",
+  "slug": "model-armor-securing-ai-deployments",
+  "description": "This course reviews the essential security features of Model Armor and equips you to work with the service. You’ll learn about the security risks associated with LLMs and how Model Armor protects your AI applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/model-armor-securing-ai-deployments",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

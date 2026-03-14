@@ -1,0 +1,30 @@
+{
+  "course_id": "course-dc5f4caa-2013-41c7-b7b4-3a7a6e9a2a2e",
+  "platform": "edx",
+  "title": "Power BI: Get started with Microsoft data analytics.",
+  "description": "\"Get Started with Microsoft Data Analytics and Power BI\" introduces beginners to the world of data analysis using Microsoft's Power BI platform. It serves as an entry point for individuals looking to learn how to transform raw data into meaningful insights and visualizations. You will learn the fundamental principles of data analytics within the Microsoft ecosystem. This includes understanding how to connect to various data sources, clean and prepare data for analysis, and create interactive reports and dashboards. The materials will likely cover key Power BI concepts such as data modeling, creating calculations with DAX (Data Analysis Expressions), and designing visually appealing data representations. This course aims to equip newcomers with the basic skills needed to leverage Power BI for data-driven decision-making.",
+  "learning_goals": [
+    "Data-Driven Decision-Making",
+    "Dashboard",
+    "Data Modeling",
+    "Power BI",
+    "Data Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4215,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

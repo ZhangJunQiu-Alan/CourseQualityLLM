@@ -1,0 +1,31 @@
+{
+  "course_id": "46018",
+  "platform": "mooc_cn",
+  "title": "自动控制原理",
+  "description": "“控制”无处不在，控制可以把期望变为现实。想知道如何构造一个能够实现“期望”的自动控制系统吗？想了解如何分析自动控制系统的性能吗？请跟随西安交通大学自动控制原理教学团队走进系统的建模、分析及校正等环环相扣的篇章。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/46018",
+  "instructors": [
+    {
+      "name": "黄晶晶;任晓栋;任志刚;张爱民;王勇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 112025,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

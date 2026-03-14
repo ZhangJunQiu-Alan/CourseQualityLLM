@@ -1,0 +1,31 @@
+{
+  "course_id": "1002836006",
+  "platform": "mooc_cn",
+  "title": "生物化学",
+  "description": "生物化学是关于生命的化学，是一门运用化学的理论和方法来研究生命现象，阐释生命现象化学本质的科学。本课程的内容由基础理论部分和拓展知识部分组成，本课程在学习生化理论知识的基础上，联系日常生活，让学习者了解到生物化学不仅仅有抽象、深奥的理论知识，还有有趣和生动活波的一面。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002836006",
+  "instructors": [
+    {
+      "name": "林欣大;吴石金;汪琨;汤晓玲;邱乐泉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 167409,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

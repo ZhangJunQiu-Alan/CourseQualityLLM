@@ -1,0 +1,31 @@
+{
+  "course_id": "UbW0ssatEfCl-A7voY0yxw",
+  "platform": "coursera",
+  "title": "Incident Response Frameworks",
+  "slug": "incident-response-frameworks",
+  "description": "In today's digital battlefield, cyber incidents are not a matter of if, but when. Whether it's ransomware, phishing, or insider threats, the ability to respond swiftly and effectively can mean the difference between containment and catastrophe. \n\nThis course is designed to equip you with the tools, strategies, and confidence to implement and use industry best practice for cybersecurity incident response to create an incident response process that anyone can follow.  \n\nWe'll explore the most widely adopted industry frameworks (NIST and SANS) and learn how to apply them in real-world scenarios as well as integrate them into your existing IT Service Management solution. Through expert guidance and real-world examples, you'll gain a detailed understanding of how to build response plans, coordinate teams, and recovering from attacks. \n\nWhether you're an aspiring cybersecurity professional, an IT support manager, or a team member looking to sharpen your response skills, this course will prepare you to act decisively when it matters most. \n\nThis course is designed for professionals who play a direct role in keeping IT systems secure and running smoothly. Cybersecurity engineers, Service Desk Analysts, Service Desk Managers, and IT Managers will benefit from the practical, structured approach to handling major incidents. Whether you’re already involved in incident response or looking to build stronger skills, the content is tailored to support real-world responsibilities.\n\nTo fully engage with the material, you should have a basic understanding of IT Service Management and the four core ITIL pillars: Incident, Problem, Change, and Request. A general grasp of business IT operations, along with familiarity with common cybersecurity events, will help you connect the lessons to the scenarios you encounter in your own environment.\n\nBy the end of the course, you’ll be able to explain the foundations of cybersecurity major incident response and compare the NIST and SANS frameworks with confidence. You’ll also learn how to build a complete incident response plan tailored to your organisation and understand how to test, evaluate, and continuously improve that plan so it remains effective over time.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 Hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/incident-response-frameworks",
+  "instructors": [
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Brett Moffett",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Starweaver"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

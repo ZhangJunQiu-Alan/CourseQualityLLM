@@ -1,0 +1,26 @@
+{
+  "course_id": "snFwySSgEe6Y5hKAIbaaAw",
+  "platform": "coursera",
+  "title": "Introduction to Responsible AI - 한국어",
+  "slug": "introduction-to-responsible-ai-ko",
+  "description": "책임감 있는 AI란 무엇이고 이것이 왜 중요하며 Google에서는 어떻게 제품에 책임감 있는 AI를 구현하고 있는지 설명하는 입문용 마이크로 학습 과정입니다. Google의 7가지 AI 원칙도 소개합니다.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ko",
+  "url": "https://www.coursera.org/learn/introduction-to-responsible-ai-ko",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

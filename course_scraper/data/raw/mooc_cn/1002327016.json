@@ -1,0 +1,31 @@
+{
+  "course_id": "1002327016",
+  "platform": "mooc_cn",
+  "title": "液压传动",
+  "description": "液压传动是机械设备实现传动与控制的关键技术之一，世界各国对液压传动工业的发展都给予了很高的重视。液压传动技术所具有的独特的优点，使其广泛应用于国民经济和国防建设的各个领域中。液压传动课已成为高等学校机械类专业的必修课程之一。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002327016",
+  "instructors": [
+    {
+      "name": "朱文锋;张宏兵;叶敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长安大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 40758,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

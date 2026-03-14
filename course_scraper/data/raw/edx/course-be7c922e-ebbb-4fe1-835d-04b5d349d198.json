@@ -1,0 +1,30 @@
+{
+  "course_id": "course-be7c922e-ebbb-4fe1-835d-04b5d349d198",
+  "platform": "edx",
+  "title": "Developing Generative AI Applications with Python",
+  "description": "Generative AI modeling is an in-demand skill for AI model development. Employers now expect generative AI skills to be on an AI engineer’s resume. This hands-on course, which is also part of the IBM AI Applied Professional Certificate, will help you build the generative AI skills you need to stand out as an AI developer. \n Throughout the course, you’ll get valuable practical experience working on guided projects that provide step-by-step instructions for building generative AI-powered applications. As part of this, you’ll work with Python and related libraries like Flask and Gradio, plus you’ll use frameworks such as Langchain. The course includes learning elements such as videos and readings to help you understand the models, frameworks, and technologies used in the projects. \n You’ll also dive into building intelligent chatbots and apps using popular large language models (LLMs) such as GPT3 and Llama 2 hosted on platforms like IBM watsonx and Hugging Face. You'll explore retrieval-augmented generation (RAG) technology to enhance LLMs by incorporating external information beyond their training data. You’ll be able to build voice-enabled chatbots and apps using IBM Watson ® Speech Libraries for Embed.  \n To get the most out of this course, it is essential that you have a basic understanding of the Python programming language. It is also of benefit if you are familiar with HTML, CSS, and JavaScript, though this is not a requirement. This course is ideal for tech professionals who have some experience with Python and are ready to build the highly sought-after generative AI skills required to be an AI engineer or AI developer. If that’s you… enroll today and build job-ready gen AI skills in 6 weeks.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 795,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "fRLvCy8FEfCE_gr_3b7Bww",
+  "platform": "coursera",
+  "title": "Power BI: Data Visualization and Analysis",
+  "slug": "power-bi-data-visualization-essentials",
+  "description": "This course is designed to provide a comprehensive foundation in Power BI, equipping learners with the skills to visualize, analyze effectively, and present data insights. Participants will explore a variety of chart types, understand their applications, and optimize visual reporting for business intelligence.\nThe course begins with an introduction to various bar and column charts, including stacked bar, stacked column, clustered bar, and clustered column charts, essential for comparative analysis. Learners will then progress to line charts, pie charts, funnel charts, scatter charts, and map charts, providing insights into trends, distributions, and geographical data.\n\nParticipants will gain hands-on experience working with table and matrix visuals, understanding the role of filters and KPI visuals for tracking performance metrics. Special emphasis is placed on card visuals, report types in Power BI, and designing analytical report layouts for clarity and impact.\nAdvanced visualization techniques, including ribbon charts, waterfall charts, and gauge charts, will be explored alongside methods for selecting appropriate report visuals. Additionally, learners will delve into integrated visuals, such as line and stacked column charts, line and clustered column charts, ensuring effective multi-dimensional analysis.\n\nThis course is structured into multiple modules, each featuring lessons and video lectures that provide both theoretical understanding and hands-on practice. Participants will engage with 3:00–4:00 hours of instructional content, reinforcing learning through graded and ungraded assignments to ensure real-world applicability.\n\nModule 1 - Power BI Visualizations: Essential Charts for Data Storytelling\nModule 2 - Power BI Visualizations: KPI Insights and Reporting\n\nWhether you're preparing for Power BI certification or seeking to optimize business intelligence workflows, this course equips you with the essential skills to master visualization techniques and enhance data-driven decision-making.\n\nThe course is for Business Managers, Data Analysis Managers, Digital Marketing Managers, Power BI Associates and Experts.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 week of study, 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/power-bi-data-visualization-essentials",
+  "instructors": [
+    {
+      "name": "Whizlabs Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Whizlabs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

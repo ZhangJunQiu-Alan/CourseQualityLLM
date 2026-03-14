@@ -1,0 +1,31 @@
+{
+  "course_id": "1002090006",
+  "platform": "mooc_cn",
+  "title": "水工钢筋混凝土结构学",
+  "description": "设计钢筋混凝土结构，需要让他满足什么要求？怎么保证他可以达到我们预设的要求？对各种钢筋混凝土构件，我们应该按什么原理和基本原则进行设计？又需要怎么来进行具体的计算？怎么考虑施工的方便？来学习《水工钢筋混凝土结构学》，你可以找到这些问题的答案。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002090006",
+  "instructors": [
+    {
+      "name": "冷飞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35842,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

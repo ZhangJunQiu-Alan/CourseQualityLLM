@@ -1,0 +1,31 @@
+{
+  "course_id": "1206743805",
+  "platform": "mooc_cn",
+  "title": "农业气象学",
+  "description": "《农业气象学》课程系统地介绍各种基本气象要素及其时空变化规律和天气学、气候学等方面的基础理论知识。通过本课程的教学，使学生系统地掌握各种基本气象要素及其时空变化规律和天气学、气候学等方面的基础理论知识，熟悉与生物环境密切相关的气象条件的形成、演变规律和中国的主要天气、气候状况，并能够将所学知识与生产和生活实际相结合，综合分析，灵活应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206743805",
+  "instructors": [
+    {
+      "name": "樊多琦;王翠花",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10381,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

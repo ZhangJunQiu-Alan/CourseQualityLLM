@@ -1,0 +1,40 @@
+{
+  "course_id": "course-40ee8009-f37d-4dd3-9467-6c4c35730749",
+  "platform": "edx",
+  "title": "Français élémentaire 1",
+  "description": "The main objective of this course is to become familiar with the basics of the French language. \n \n\nSeveral tools will be at your disposal to facilitate your French learning: \n\n \n  videos that follow the daily lives of three students (Rachel, Mathieu, and Xavier) and two professors (Miss Simard and Mr. Tremblay);  \n  videos that help you to develop your knowledge of French;  \n  sociocultural clips that help you to discover more about Montreal and Québec;  \n  charts that introduce you to phonetics, vocabulary, and grammar;  \n  a discussion forum that allows you to interact with other French learners that are taking this MOOC;  \n  interactive activities that help you to apply the concepts explained in the charts and videos;  \n  quizzes that test your knowledge.  \n \n  \n \n\nAll types of learners can benefit from this course!",
+  "learning_goals": [
+    "Grammar",
+    "French Language",
+    "Vocabulary",
+    "Phonetics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 4-5 小时",
+  "language": "French",
+  "url": "",
+  "instructors": [
+    {
+      "name": "r-biba-fakhouri",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "lorianne-morache",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Université de Montréal"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3831,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

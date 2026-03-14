@@ -1,0 +1,37 @@
+{
+  "course_id": "course-e540320a-f125-4021-8f1c-9cbc84c96d87",
+  "platform": "edx",
+  "title": "Computing in Python I: Fundamentals and Procedural Programming",
+  "description": "This course starts from the beginning, covering the basics of how a computer interprets lines of code; how to write programs, evaluate their output, and revise the code itself; how to work with variables and their changing values; and how to use mathematical, boolean, and relational operators.  \n By the end of this course, you'll be able to write small programs in Python that use variables, mathematical operators, and logical operators. For example, you could write programs that carry out complex mathematical operations, like calculating the interest rate necessary to reach a savings goal, recommending apparel options based on weather patterns, or calculating a grade based on multiple percentages.  \n Structurally, the course is comprised of several parts. Instruction is delivered via a series of short (2-3 minute) videos. In between those videos, you'll complete both multiple choice questions and coding problems to demonstrate your knowledge of the material that was just covered.",
+  "learning_goals": [
+    "Procedural Programming",
+    "Debugging",
+    "Operations",
+    "Logical Operators",
+    "Relational Operator",
+    "Python (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 9-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-joyner",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5627,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

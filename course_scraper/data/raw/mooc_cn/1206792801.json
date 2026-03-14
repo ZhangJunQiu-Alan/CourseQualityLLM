@@ -1,0 +1,31 @@
+{
+  "course_id": "1206792801",
+  "platform": "mooc_cn",
+  "title": "材料仪器分析",
+  "description": "《材料仪器分析》课程预期受众为材料、化工类专业本科或专科学生。通过课程学习，掌握材料研究中常用的分析测试方法，主要包括光谱分析、电化学分析、色谱分离分析、热分析、显微组织和结构分析等。理解各种仪器分析的基本原理、仪器设备的构造、定性定量分析方法，并了解各种分析测试方法的应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206792801",
+  "instructors": [
+    {
+      "name": "刘亚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5745,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

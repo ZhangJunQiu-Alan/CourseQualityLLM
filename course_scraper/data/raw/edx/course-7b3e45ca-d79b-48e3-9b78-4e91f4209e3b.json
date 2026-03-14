@@ -1,0 +1,54 @@
+{
+  "course_id": "course-7b3e45ca-d79b-48e3-9b78-4e91f4209e3b",
+  "platform": "edx",
+  "title": "Data Structures Fundamentals",
+  "description": "A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this course, part of the Algorithms and Data Structures MicroMasters program, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments. This will help you to understand what is going on inside a particular built-in implementation of a data structure and what to expect from it. You will also learn typical use cases for these data structures. \n A few examples of questions that we are going to cover in this course are: \n \n What is a good strategy of resizing a dynamic array? \n How priority queues are implemented in C++, Java, and Python? \n How to implement a hash table so that the amortized running time of all operations is O(1) on average? \n What are good strategies to keep a binary tree balanced? \n \n We look forward to seeing you in this course! We know it will make you a better programmer.",
+  "learning_goals": [
+    "Java (Programming Language)",
+    "Operations",
+    "C++ (Programming Language)",
+    "Priority Queue",
+    "Python (Programming Language)",
+    "Computational Thinking",
+    "Algorithms",
+    "Data Structures"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 8-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "daniel-kane",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alexander-s-kulikov",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "michael-levin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "neil-rhodes",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of California, San Diego"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 301,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

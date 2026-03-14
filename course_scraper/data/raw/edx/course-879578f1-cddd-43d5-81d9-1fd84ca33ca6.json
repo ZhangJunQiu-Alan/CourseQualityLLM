@@ -1,0 +1,39 @@
+{
+  "course_id": "course-879578f1-cddd-43d5-81d9-1fd84ca33ca6",
+  "platform": "edx",
+  "title": "People analytics and reporting",
+  "description": "People metrics and analytics is the application of statistical techniques into HR data elements using key measures or indicators to examine the performance of the HR function and employees, and to subsequently disclose the value of people’s intangible assets in the integrated reports as part of the 6 Capitals.  In many organizations, HR departments collect data on the various aspects of people management such as recruitment, selection, employee turnover, training, remuneration and performance management but hardly integrate statistical techniques with metrics (measures or indicators) to understand the reasons underlying the pattern of relationships between a given set of variables, and in some cases even predict the cause-effect-relationships.  Consequently, decisions regarding the attraction, sourcing, deploying, developing, and retaining of talent are based on intuition and not evidence.    \n This course will provide participants with insights on how to apply people analytics linked to specific metrics and based on an organizational HR measurement system.  Hence a more effective approach is to adopt a structured HR measurement system for determining a business need, identifying a human capital problem, organizing data, analyzing and reporting on the patterns of relationships. This is useful for defining specific metrics to track, analyze and information likely to enable managerial decisions. The course provides v  alue-based metrics, analytics and reporting methods such as internal HR dashboards to visualise people-specific data and external human capital disclosure in the corporate annual reports taking into consideration the international reporting standards.",
+  "learning_goals": [
+    "Decision Making",
+    "Data Collection",
+    "Dashboard",
+    "Systems Of Measurement",
+    "Intangible Assets",
+    "People Management",
+    "Performance Management",
+    "Human Capital"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "2 周，每周 5-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mpho-magau",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stellenbosch University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 617,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

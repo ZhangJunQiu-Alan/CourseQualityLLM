@@ -1,0 +1,31 @@
+{
+  "course_id": "LiqaDp3EEfCM_RINj3lY5Q",
+  "platform": "coursera",
+  "title": "AI-Driven Electronic Health Records & Data Management",
+  "slug": "ai-driven-electronic-health-records--data-management",
+  "description": "Clinicians and healthcare professionals are increasingly burdened by Electronic Health Records (EHRs)—navigating complex interfaces, documenting care manually, and missing key insights in siloed data. Generative AI offers a practical path forward. This course shows you how to integrate GenAI tools into your EHR workflows to reduce documentation time, streamline operations, and improve patient care—without waiting on your EHR vendor.\n\nIn just 4 hours, you'll move from foundational concepts to hands-on application using tools like Glass Health, DoraScribe, and Keragon. You’ll explore voice-to-text SOAP notes, AI-generated patient education, no-code automation, and strategies for safe, scalable AI governance in clinical settings.\n\nIdeal for physicians, nurses, administrators, and clinical coders, this course equips you to deploy AI responsibly—boosting efficiency, enhancing communication, and laying the groundwork for long-term digital transformation in healthcare.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 Hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/ai-driven-electronic-health-records--data-management",
+  "instructors": [
+    {
+      "name": "Neel Majumder",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Starweaver"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

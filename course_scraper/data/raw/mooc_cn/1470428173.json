@@ -1,0 +1,31 @@
+{
+  "course_id": "1470428173",
+  "platform": "mooc_cn",
+  "title": "智能装备原理与系统设计",
+  "description": "《智能装备原理与系统设计》是机械工程专业的一门专业课，课程在培养学生创造性思维、综合设计能力和机械工程实践能力方面占有重要地位。本课程的主要任务是通过在线课堂教学及线下深入学习使学生具备智能制造技术、智能制造装备及系统的基础理论、基本知识及基本的设计及综合应用技能，培养学生的创新意识以及对机械工程学科知识的综合应用能力，培养学生的自主学习、终身学习的能力。课程的主要内容包括：（1）智能制造技术、制造装备与系统概述；（2）数控机床与加工中心；（3）并联机构与加工装备；（4）3D打印成型制造及成型系统；（5）物料储运系统；（6）自动化与智能制造系统。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470428173",
+  "instructors": [
+    {
+      "name": "张冬泉;徐金环;王海同",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 438,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002529022",
+  "platform": "mooc_cn",
+  "title": "电机学",
+  "description": "通过学习电机中电、磁、力、运动等物理问题，获得电机的基础理论。在工程实际中，通过电机学课程学习能够将数学、自然科学、工程基础和专业知识用于解决电机相关工程问题，并通过研究分析得出有效结论，通过实验方案设计，能提出电机相关工程问题的解决方案，注重培养学生分析、解决工程设计问题能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002529022",
+  "instructors": [
+    {
+      "name": "丁菊霞;葛兴来;王涛;王嵩老师;吕晓琴;邱忠才;郭冀岭;郭冀岭;刘黎",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48516,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

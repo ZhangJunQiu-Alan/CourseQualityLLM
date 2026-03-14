@@ -1,0 +1,31 @@
+{
+  "course_id": "1465056170",
+  "platform": "mooc_cn",
+  "title": "统计学",
+  "description": "​",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465056170",
+  "instructors": [
+    {
+      "name": "郑彦;赵彦勇;林金官;王虹飞;刘永欣;付金玉;蔡雄;王江艳;邓海松;陆敏;韩忠成;朱春华;李南;李慧琴;苍玉权;刘爱民;王荐;郝红霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京审计大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23656,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1449632168",
+  "platform": "mooc_cn",
+  "title": "化学分析技术",
+  "description": "课程立足岗位人才能力需求，依据专业人才培养方案和课程标准，对接化学检验员职业标准和化学实验室技术技能大赛标准，将教学内容重构为8个项目，并以任务为载体，将知识点分散在各个项目的任务中。课程选取“十四五”职业教育国家规划教材，明确了知识目标、能力目标、素质目标组成的三维教学目标，“岗课赛证”融通，全程融入思政元素，融知识传授、技能训练和素质养成于一体，实现德技并修人才培养。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449632168",
+  "instructors": [
+    {
+      "name": "陈圆;贾纪萍;王莹;赵丽;王一萍;邢晓玲;柳倩;袁亚梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏农牧科技职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13658,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

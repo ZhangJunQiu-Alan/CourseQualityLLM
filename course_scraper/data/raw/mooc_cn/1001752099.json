@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752099",
+  "platform": "mooc_cn",
+  "title": "液压与气压传动控制",
+  "description": "《液压与气压传动控制》是无锡职业技术大学和苏州建雄职业技术学院江苏省A类品牌专业建设任务必修课程，在内容为加强“互联网+”学习方式，应用信息技术改造传统教学，应用 Fluidsim构建液压与气动工作回路，模拟仿真验证教学内容，并能结合电气控制进行气液系统的工作调整和故障分析。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752099",
+  "instructors": [
+    {
+      "name": "曾文萱;周刚;宋广雷;赵燕;唐立平;马俊峰;焦祥",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35188,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

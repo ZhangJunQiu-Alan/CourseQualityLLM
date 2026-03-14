@@ -1,0 +1,31 @@
+{
+  "course_id": "1003768006",
+  "platform": "mooc_cn",
+  "title": "概率论与数理统计",
+  "description": "概率论与数理统计是研究人工智能、机器学习领域的理论基础，是同学们涉足大数据领域需要掌握的必备课程。本课程由北京科技大学概率与统计教学组设计并实施，历时3年精心准备，课程讲解细致，案例丰富多彩。三位主讲教师均为在国家级教学竞赛中获得一等奖，相信这门课程会给大家带来不同的上课体验！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003768006",
+  "instructors": [
+    {
+      "name": "陈学慧;李娜;臧鸿雁;赵鲁涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 65439,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

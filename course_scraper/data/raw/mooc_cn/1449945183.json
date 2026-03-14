@@ -1,0 +1,31 @@
+{
+  "course_id": "1449945183",
+  "platform": "mooc_cn",
+  "title": "Android系统基础",
+  "description": "课程基础优秀--由省级在线精品课程《Android系统基础》升级而来，“四阶梯”内容体系先进实用，是你胜任移动开发工程师的最好课程，“趣味化”企业案例，助力适应国际化企业的最好学习方式，“拓展式”竞赛真题，带你迈向高级工程师前列，“立体化”课程资源，随时给你提供沉浸式的学习导航，职业素养渗透，使你具备职业人的职业素养与工匠精神，课程与证书融通，助你获取“Android开发工程师”职业技能等级证书。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449945183",
+  "instructors": [
+    {
+      "name": "施冬梅;盛雪丰;丁玉成;戴启艳;孙翠改;陈双华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12725,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

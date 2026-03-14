@@ -1,0 +1,31 @@
+{
+  "course_id": "1207423804",
+  "platform": "mooc_cn",
+  "title": "民法总论",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207423804",
+  "instructors": [
+    {
+      "name": "邾立军;杨宏芹;傅学良;李磊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海对外经贸大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23455,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

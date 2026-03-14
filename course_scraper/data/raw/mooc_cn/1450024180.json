@@ -1,0 +1,31 @@
+{
+  "course_id": "1450024180",
+  "platform": "mooc_cn",
+  "title": "Swift创新导论",
+  "description": "本课程系统教授Swift入门、进阶及实践知识，结合AI、AR、Face ID、Accessibility等典型应用，并通过WWDC奖学金获得者、中国“互联网+”国赛金奖获得者以及中国高校计算机大赛移动应用创新赛最高奖获得者的分享，培养学习者iOS生态下的开发能力，提升学习者的移动应用创新创业素养。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450024180",
+  "instructors": [
+    {
+      "name": "张克俊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8963,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

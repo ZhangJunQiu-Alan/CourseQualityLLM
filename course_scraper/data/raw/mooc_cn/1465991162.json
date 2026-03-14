@@ -1,0 +1,31 @@
+{
+  "course_id": "1465991162",
+  "platform": "mooc_cn",
+  "title": "城市轨道交通通信传输系统维护",
+  "description": "本课程设置的目的在于培养通信传输网络建设与维护的核心职业能力，使学生能够综合运用通信传输网络技术的基本知识，按照通信传输网络的工程规范，完成通信传输网络传输网络的组建、网络配置和日常管理与维护工作。    传输系统由传输线路和传输设备两个部分组成，本课程对各部分进行了全面、系统地介绍。主要内容包括光、电缆的类型、特性及在实际运用中的测试、维护及故障处理，SDH传输网的应用，PTN承载网系统应用，OTN光传输网的应用，传输设备的例行维护及故障处理，以及光、电缆线路和传输设备的相关实操训练。本课程紧扣行业标准和规范，具有较强的实用性。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465991162",
+  "instructors": [
+    {
+      "name": "张正新;宫晓梅;赵晶",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 269,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

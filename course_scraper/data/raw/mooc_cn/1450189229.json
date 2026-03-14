@@ -1,0 +1,31 @@
+{
+  "course_id": "1450189229",
+  "platform": "mooc_cn",
+  "title": "数据可视化",
+  "description": "这是一门为寻求掌握数据时代必备技能“数据可视化”的同学量身打造的入门课程。课程内容已于2024年更新！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450189229",
+  "instructors": [
+    {
+      "name": "周凡吟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8151,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

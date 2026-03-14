@@ -1,0 +1,31 @@
+{
+  "course_id": "1002982006",
+  "platform": "mooc_cn",
+  "title": "画法几何",
+  "description": "工程图是工程和产品的信息载体，是工程界表达和交流技术思想的一种语言。工科学生是未来的工程师和管理者，会经常跟图形和图纸打交道，应具有对复杂空间形体的形象思维和表达能力。《画法几何》是工程图表达的理论基础，主要学习用投影法表达空间形体的理论和方法，是工科学生必修的一门公共基础课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002982006",
+  "instructors": [
+    {
+      "name": "李怀健;沈云跃;王剑平;顾生其;单伽锃;吴杰;王婉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 46548,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

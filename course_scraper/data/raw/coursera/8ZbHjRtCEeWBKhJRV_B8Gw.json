@@ -1,0 +1,26 @@
+{
+  "course_id": "8ZbHjRtCEeWBKhJRV_B8Gw",
+  "platform": "coursera",
+  "title": "Materials Data Sciences and Informatics",
+  "slug": "material-informatics",
+  "description": "This course aims to provide a succinct overview of the emerging discipline of Materials Informatics at the intersection of materials science, computational science, and information science. Attention is drawn to specific opportunities afforded by this new field in accelerating materials development and deployment efforts. A particular emphasis is placed on materials exhibiting hierarchical internal structures spanning multiple length/structure scales and the impediments involved in establishing invertible process-structure-property (PSP) linkages for these materials. More specifically, it is argued that modern data sciences (including advanced statistics, dimensionality reduction, and formulation of metamodels) and innovative cyberinfrastructure tools (including integration platforms, databases, and customized tools for enhancement of collaborations among cross-disciplinary team members) are likely to play a critical and pivotal role in addressing the above challenges.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/material-informatics",
+  "instructors": [
+    {
+      "name": "Dr. Surya Kalidindi",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Georgia Institute of Technology"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

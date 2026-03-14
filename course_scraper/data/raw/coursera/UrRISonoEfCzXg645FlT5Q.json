@@ -1,0 +1,26 @@
+{
+  "course_id": "UrRISonoEfCzXg645FlT5Q",
+  "platform": "coursera",
+  "title": "Optimizing 3G Layer 1 Firmware: Design to Debug",
+  "slug": "optimizing-3g-layer-1-firmware-design-to-debug",
+  "description": "Optimizing 3G Layer 1 Firmware: Signal Processing and Baseband Control is an advanced, hands-on course designed for embedded systems engineers working on real-time wireless firmware. As 3G systems operate under extreme constraints—tight timing, limited power, and high complexity—this course helps you master the signal processing, scheduling, and control logic that keeps Layer 1 functioning with precision. you will learn to decode firmware structure, implement modulation and power control in embedded C, and debug for efficiency and sync accuracy. Through short videos, system-level readings, real-time coding labs, and interactive coaching, you will gain practical skills in optimizing performance-critical baseband firmware. Whether you are debugging ISR timing, balancing throughput with power budgets, or tuning synchronization accuracy, this course prepares you to architect smarter, leaner Layer 1 stacks under real-world pressures.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "30 mins/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/optimizing-3g-layer-1-firmware-design-to-debug",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

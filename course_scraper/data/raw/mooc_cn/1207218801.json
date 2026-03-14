@@ -1,0 +1,31 @@
+{
+  "course_id": "1207218801",
+  "platform": "mooc_cn",
+  "title": "分析化学",
+  "description": "分析化学是化学及相关专业的专业基础课程，是确定物质的化学组成，测量各组成的含量以及表征物质的化学结构的一门学科。通过本课程的教学，学生对分析化学这一领域有较全面的了解，培养学生严谨、认真和实事求是的科学态度及分析、判断、解决问题的能力，使学生具有科技工作者应具备的素质。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207218801",
+  "instructors": [
+    {
+      "name": "李丹;卿志和;曹忠;李君;陈平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长沙理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14167,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

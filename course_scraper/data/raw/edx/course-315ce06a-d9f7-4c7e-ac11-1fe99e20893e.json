@@ -1,0 +1,47 @@
+{
+  "course_id": "course-315ce06a-d9f7-4c7e-ac11-1fe99e20893e",
+  "platform": "edx",
+  "title": "CS50's Computer Science for Lawyers",
+  "description": "This course is a variant of HarvardUniversity's introduction to computer science, CS50, designed especially for lawyers (and law students). Whereas CS50 itself takes a bottom-up approach, emphasizing mastery of low-level concepts and implementation details thereof, this course takes a top-down approach, emphasizing mastery of high-level concepts and design decisions related thereto. Ultimately, it equips students with a deeper understanding of the legal implications of technological decisions made by clients.  \n Through a mix of technical instruction and discussion of case studies, this course empowers students to be informed contributors to technology-driven conversations. In addition, it prepares students to formulate technology-informed legal arguments and opinions. Along the way, it equips students with hands-on experience with Python and SQL, languages via which they can mine data for answers themselves.  \n Topics include algorithms, cloud computing, databases, networking, privacy, programming, scalability, security, and more, with a particular emphasis on understanding how the work developers do and the technological solutions they employ may impact clients. Students emerge from this course with first-hand appreciation of how it all works and all the more confident in the factors that should guide their decision-making.  \n Keywords:law firm, computer programming, programming skills, computer programmers, patent attorney, legal practice, legal services, legal education, patent law",
+  "learning_goals": [
+    "Python (Programming Language)",
+    "Data Mining",
+    "Cloud Computing",
+    "Decision Making",
+    "Algorithms",
+    "Certified Computer Programmer",
+    "Computer Science",
+    "SQL (Programming Language)",
+    "Computer Programming",
+    "Scalability",
+    "Patents"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "doug-lloyd",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-j-malan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5819,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

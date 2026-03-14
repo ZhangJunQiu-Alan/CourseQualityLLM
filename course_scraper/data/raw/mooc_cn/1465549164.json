@@ -1,0 +1,31 @@
+{
+  "course_id": "1465549164",
+  "platform": "mooc_cn",
+  "title": "嵌入式系统原理及应用",
+  "description": "《嵌入式系统原理及应用》是一门实用性和实践性较强的课程，为突出应用，课程采用OBE的理念，围绕“学以致用”目标为导向，以学生为中心，“项目驱动”为载体，依托工程案例，学、做、练一体化，坚持“实用”和“实践”并重，将理论与工程实践相结合，边讲解边操作。 课程结构新颖，资源多样，内容丰富。“今天学的就是明天用的”，切实提高学生实践操作能力、研究能力、工程实践能力和创新能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465549164",
+  "instructors": [
+    {
+      "name": "李立新;何恩贵;王立新;邹玉炜;高相铭;李艾华;丁电宽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "安阳师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3415,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

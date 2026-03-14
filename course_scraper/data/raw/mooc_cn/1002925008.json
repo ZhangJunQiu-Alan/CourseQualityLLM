@@ -1,0 +1,31 @@
+{
+  "course_id": "1002925008",
+  "platform": "mooc_cn",
+  "title": "Python网络爬虫程序技术",
+  "description": "该课程是2018年广东省精品在线开放课程。课程主要以爬取学生信息、爬取城市天气预报、爬取网站图像、爬起图书网站图书、爬取商城网站商品等5个项目为依托，讲解Web、正则表达式、BeautifulSoup、XPath、CSS、Scrapy、Selenium、多线程、深度与广度优先搜索等Python爬虫技术。当您学习完这些项目后，您就可以编程爬取几乎所有网站的数据了！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002925008",
+  "instructors": [
+    {
+      "name": "黄锐军;蔡铁;吴瑜;薛国伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "深圳信息职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 85566,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

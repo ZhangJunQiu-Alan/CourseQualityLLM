@@ -1,0 +1,31 @@
+{
+  "course_id": "1207110818",
+  "platform": "mooc_cn",
+  "title": "基础工程",
+  "description": "《基础工程》是土木类专业的核心课程。湖南大学的《基础工程》是国家级精品课程，有历史积淀，主讲老师从力学、土力学和混凝土结构设计基本原理出发，围绕基础工程功能要求，由浅入深的讲述基础工程知识体系，介绍基础工程问题解决方法。系统学习完本课程，不仅会让同学们对《基础工程》这门课程的知识有较为透彻的掌握，而且可以加深对行业规范的理解，提升解决地基基础问题的工程能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207110818",
+  "instructors": [
+    {
+      "name": "刘晓明;陈昌富;张玲;周苏华;黄明华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36103,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "novpoz15Ee2C9xKboNgcdQ",
+  "platform": "coursera",
+  "title": "Introduction to Convolutions with TensorFlow",
+  "slug": "googlecloud-introduction-to-convolutions-with-tensorflow-ztggd",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. A convolution is a filter that passes over an image, processes it, and extracts features that show a commonality in the image. In this lab you'll see how they work, and try processing an image to extract features from it! You also explore pooling, which compresses your image and further emphasizes the features.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "50 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-introduction-to-convolutions-with-tensorflow-ztggd",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

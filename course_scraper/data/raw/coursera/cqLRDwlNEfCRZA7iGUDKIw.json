@@ -1,0 +1,26 @@
+{
+  "course_id": "cqLRDwlNEfCRZA7iGUDKIw",
+  "platform": "coursera",
+  "title": "The Complete Java Developer Course: From Beginner to Master",
+  "slug": "packt-the-complete-java-developer-course-from-beginner-to-master-prvaq",
+  "description": "This comprehensive Java course takes you on a journey from a complete beginner to a proficient Java developer. By the end of the course, you'll have the foundational knowledge and practical experience to build robust applications in Java. You'll start with the basics of Java syntax, control flow, and simple projects, gradually moving into more advanced concepts like Object-Oriented Programming (OOP) principles, file I/O, and advanced exception handling.\n\nIn the first few sections, you’ll learn essential Java programming skills, such as variables, constants, data types, and control statements. You'll also work on simple projects like calculating averages and creating games, which will help you solidify your understanding of these fundamental concepts. These hands-on projects give you the opportunity to practice real-world programming and problem-solving techniques.\n\nAs you progress, you’ll dive deeper into more complex topics, including Object-Oriented Programming (OOP), where you’ll explore classes, objects, inheritance, and polymorphism. You’ll also learn how to manage collections with Arrays and ArrayLists, and master string manipulation and file handling. Throughout the course, you will work on projects that reinforce each concept, helping you develop practical coding skills that you can apply to real-life scenarios.\n\nThis course is perfect for aspiring developers and anyone looking to master Java. Whether you want to build desktop applications, or Android apps, or work with backend systems, this course provides the knowledge and projects to help you get there. No prior programming experience is required, but an eagerness to learn and practice is essential.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-the-complete-java-developer-course-from-beginner-to-master-prvaq",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207055808",
+  "platform": "mooc_cn",
+  "title": "数字化设计基础",
+  "description": "机械产品数字化设计与制造是实现智能制造的前提之一。本课程着重培养学生ＵＧＮＸ软件的应用能力，从而提升机械产品数字化设计基本能力。课程采用实例教学方法，以培养数字化设计能力为目标，较为系统地讲解UG NX的软件基本操作、二维草图设计、NX实体建模、NX装配设计、NX工程制图等五个部分。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207055808",
+  "instructors": [
+    {
+      "name": "陆忠华;李晓会;王自建;孙鹏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7410,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

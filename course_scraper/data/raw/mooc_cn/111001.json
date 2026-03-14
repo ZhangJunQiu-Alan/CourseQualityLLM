@@ -1,0 +1,31 @@
+{
+  "course_id": "111001",
+  "platform": "mooc_cn",
+  "title": "材料科学基础（下）",
+  "description": "材料是人类生存和文明的物质基础与先导，是直接推动社会发展的动力。材料的发展及其应用是人类社会文明和进步的重要里程碑。没有材料科学的发展，就不会有人类社会的进步和经济的繁荣。本课程探讨工程材料的结构及其转变、强韧化机理等的科学原理，为进一步学习材料科学与工程的专门知识奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/111001",
+  "instructors": [
+    {
+      "name": "王永欣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 73633,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

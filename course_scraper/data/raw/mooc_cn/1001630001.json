@@ -1,0 +1,31 @@
+{
+  "course_id": "1001630001",
+  "platform": "mooc_cn",
+  "title": "无机化学（上）",
+  "description": "这是一门形式简朴的无机化学课，没有花哨的动画和特效，只有老师的用心讲解；这是也是一门有故事的无机化学课，所教授的内容从上世纪七十年代至今历经几代教育工作者的传承和发展，凝聚了几代人的积累和心血。我们，准备好了，你呢？",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001630001",
+  "instructors": [
+    {
+      "name": "胡涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 189783,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

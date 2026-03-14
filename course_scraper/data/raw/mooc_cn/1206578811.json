@@ -1,0 +1,31 @@
+{
+  "course_id": "1206578811",
+  "platform": "mooc_cn",
+  "title": "应用光学",
+  "description": "“应用光学”是以几何光学为基础，撇开光的波动性质，以光线的传播来研究光的传播与成像的一门科学，主要包括：几何光学的基本定律，球面系统、平面系统及理想光学系统的理论，光束限制和光度学基础，典型光学系统的理想模型和光学系统的像差，为学习光学系统的设计打下基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206578811",
+  "instructors": [
+    {
+      "name": "郑臻荣;李晓彤;吴仍茂;刘向东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22339,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

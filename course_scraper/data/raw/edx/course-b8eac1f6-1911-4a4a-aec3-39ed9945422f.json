@@ -1,0 +1,49 @@
+{
+  "course_id": "course-b8eac1f6-1911-4a4a-aec3-39ed9945422f",
+  "platform": "edx",
+  "title": "Big Data Analytics",
+  "description": "Gain essential skills in today’s digital age to store, process and analyse data to inform business decisions. \n  What will you learn?  \n In this course, part of the Big Data MicroMasters program, you will develop your knowledge of big data analytics and data modelling to enhance your programming and mathematical skills. You will learn to use essential analytic tools such as Apache Spark and R. \n Topics covered in this course include: \n \n cloud-based big data analysis; \n predictive analytics, including probabilistic and statistical models; \n application of large-scale data analysis; \n analysis of problem space and data needs. \n \n By the end of this big data analytics course, you will be able to approach large-scale data science problems with creativity and initiative. \n  Who should study this big data analytics course?  \n This course forms part of the Big Data MicroMasters Program, which provides existing or aspiring data scientists and business analysts with the skills to make informed, data-driven business decisions.",
+  "learning_goals": [
+    "Creativity",
+    "Data Science",
+    "Apache Spark",
+    "Statistical Modeling",
+    "Big Data",
+    "Analytic Applications",
+    "Data Analysis",
+    "Big Data Analytics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 8-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dr-lewis-mitchell",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "simon-tuke",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-suter",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Adelaide University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 280,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

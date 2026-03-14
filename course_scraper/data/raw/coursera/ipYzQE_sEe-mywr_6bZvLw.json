@@ -1,0 +1,26 @@
+{
+  "course_id": "ipYzQE_sEe-mywr_6bZvLw",
+  "platform": "coursera",
+  "title": "Chatbots",
+  "slug": "chatbots",
+  "description": "The course \"Chatbots\" offers a deep dive into the world of chatbots, equipping learners with the skills to design, build, and optimize conversational interfaces. You will explore the evolution of chatbot technology and understand the fundamental mechanics that drive their functionality. Through hands-on projects using Amazon Lex and AWS, you'll not only learn to create chatbots but also how to evaluate their performance using machine learning classifiers.\n\nWhat sets this course apart is its practical approach, allowing you to apply theoretical knowledge in real-world scenarios. Collaborating with peers, you’ll tackle challenges together, enhancing your problem-solving skills while fostering a supportive learning environment. By the end of the course, you’ll have the confidence to develop functional chatbots tailored for various applications, from customer service to personal assistants.\n\nWhether you are a novice looking to enter the tech field or an experienced professional aiming to expand your skill set, this course provides invaluable insights and practical tools to advance your career in the rapidly growing chatbot landscape. Join us to unlock the potential of conversational AI!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 4-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/chatbots",
+  "instructors": [
+    {
+      "name": "Ian McCulloh",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

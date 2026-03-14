@@ -1,0 +1,31 @@
+{
+  "course_id": "33001",
+  "platform": "mooc_cn",
+  "title": "大学语文",
+  "description": "文学能从更高的层次上提升人的文化修养，充实人的内心世界，焕发人的精神风貌，给人以真、善、美的享受。大学语文课程精心选择中国历代文史哲经典作品为教学内容，分析其思想情感、审美价值和文化意义，提升学生对中国语言文学的热爱之情，陶冶其精神情操，提高其文化素养，启发其寻找精神家园，留住人们对中国文化的乡愁。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/33001",
+  "instructors": [
+    {
+      "name": "张天来",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 235425,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

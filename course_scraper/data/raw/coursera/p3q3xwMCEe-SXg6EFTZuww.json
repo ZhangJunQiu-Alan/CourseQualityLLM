@@ -1,0 +1,26 @@
+{
+  "course_id": "p3q3xwMCEe-SXg6EFTZuww",
+  "platform": "coursera",
+  "title": "Tableau Capstone Project ",
+  "slug": "tableau-capstone-project",
+  "description": "The Tableau Capstone Project allows you to apply what you've learned about making data-driven decisions to real business challenges companies face every day.  \n\nEffective business intelligence (BI) is crucial in decision-making and strategizing in today's data-driven business environment. This capstone project explores the utilization of Tableau, a leading data visualization tool, to enhance BI capabilities within an organization. The project will showcase how Tableau can convert raw data into actionable insights, enabling informed decision-making. \n\nThis project begins by identifying key business objectives and data sources relevant to the organization's operations. You will learn about data cleaning and preparation processes to ensure data accuracy and consistency. You will use Tableau's visualization capabilities, interactive dashboards, and stories to showcase important KPIs, trends, and patterns within the data. \n\nBy the end of this capstone, you'll be able to design the interactive dashboard and create an engaging story suitable to present to stakeholders.\n\nUpon completion of the course, you will have gained several Tableau business intelligence skills to include in your portfolio.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "3 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/tableau-capstone-project",
+  "instructors": [
+    {
+      "name": "SkillUp",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "SkillUp"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

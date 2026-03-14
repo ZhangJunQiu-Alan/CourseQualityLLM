@@ -1,0 +1,31 @@
+{
+  "course_id": "1003246013",
+  "platform": "mooc_cn",
+  "title": "出纳实务",
+  "description": "出纳岗位是财会部门的重要岗位，是财会工作的窗口，职业院校会计专业的毕业生绝大部分就是从这一岗位做起的。基于此，我们开发了这门《出纳实务》在线开放课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003246013",
+  "instructors": [
+    {
+      "name": "程越敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20135,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

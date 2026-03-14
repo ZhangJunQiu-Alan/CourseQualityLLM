@@ -1,0 +1,61 @@
+{
+  "course_id": "course-00169f68-ff4b-4621-a741-25ba70c98482",
+  "platform": "edx",
+  "title": "Analytics for Decision Making",
+  "description": "Want to know how to avoid bad decisions with data? \n Making good decisions with data can give you a distinct competitive advantage in business. This statistics and data analysis course will help you understand the fundamental concepts of sound statistical thinking that can be applied in surprisingly wide contexts, sometimes even before there is any data! Key concepts like understanding variation, perceiving relative risk of alternative decisions, and pinpointing sources of variation will be highlighted. \n These big picture ideas have motivated the development of quantitative models, but in most traditional statistics courses, these concepts get lost behind a wall of little techniques and computations. In this course we keep the focus on the ideas that really matter, and we illustrate them with lively, practical, accessible examples. \n We will explore questions like: How are traditional statistical methods still relevant in modern analytics applications? How can we avoid common fallacies and misconceptions when approaching quantitative problems? How do we apply statistical methods in predictive applications? How do we gain a better understanding of customer engagement through analytics? \n This course will be is relevant for anyone eager to have a framework for good decision-making. It will be good preparation for students with a bachelor's degree contemplating graduate study in a business field. \n Opportunities in analytics are abundant at the moment. Specific techniques or software packages may be helpful in landing first jobs, but those techniques and packages may soon be replaced by something newer and trendier. Understanding the ways in which quantitative models really work, however, is a management level skill that is unlikely to go out of style. \n This course is part of the Business Principles and Entrepreneurial Thought XSeries.",
+  "learning_goals": [
+    "Statistical Methods",
+    "Statistical Thinking",
+    "Data Science",
+    "Quantitative Models Of The Action Potential",
+    "Statistics",
+    "Data Analysis",
+    "Management",
+    "Customer Engagement",
+    "Decision Making",
+    "Quantitative Modeling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rick-cleary",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "nathan-karst",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "davit-khachatryan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "george-recck",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "babak-zafari",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Babson College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 506,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

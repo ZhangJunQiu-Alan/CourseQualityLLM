@@ -1,0 +1,26 @@
+{
+  "course_id": "K78wEfX0Ee-jCgr_wH8PfQ",
+  "platform": "coursera",
+  "title": "Dashboard Customization with Jenkins: Track Health Metrics",
+  "slug": "dashboard-customization-with-jenkins-track-health-metrics",
+  "description": "In this guided project, you will learn the fundamentals of creating and monitoring health metrics for Jenkins jobs. Through practical hands-on lessons, you'll learn how to create a custom view dashboard and how to configure additional metrics like build success/failure rate, build duration, and test results to appear in the custom view. You'll also learn how to retrieve the health information using Jenkins APIs, how to setup proactive alerts, and how to control user access and permissions to your jobs. We'll apply these skills to create a custom view dashboard with additional metrics for a CI/CD pipeline jobs that compile, test, and deploy a Java application. This project will help aspiring DevOps engineers to understand how to monitor, troubleshoot, and optimize their CI/CD pipeline in Jenkins. To make the most out of this project, it is recommended to be familiar with creating and configuring Jenkins jobs, and understand the different phases of the SDLC.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/dashboard-customization-with-jenkins-track-health-metrics",
+  "instructors": [
+    {
+      "name": "Amr Essam Eldin Ramadan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

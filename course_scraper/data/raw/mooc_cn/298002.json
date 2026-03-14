@@ -1,0 +1,31 @@
+{
+  "course_id": "298002",
+  "platform": "mooc_cn",
+  "title": "数据结构",
+  "description": "我们生活在信息时代，作为信息的载体——数据，如何在计算机中被存储、处理？让国家教学名师耿国华教授带您走进《数据结构》课堂，探索数据组织和高效处理算法，为您你成为“数字艺术殿堂设计师”助力。06年国家精品课程、11年国家精品资源共享课、17年国家精品在线开放课程、20年国家一流课程，十二五国家规划教材资源扫码移动学习，都是您的资源。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/298002",
+  "instructors": [
+    {
+      "name": "耿国华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 154134,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,55 @@
+{
+  "course_id": "course-614f4e33-e6c8-4380-86c0-ec0ab69530ff",
+  "platform": "edx",
+  "title": "Mathematical Optimization for Engineers",
+  "description": "Become an Expert in Optimization with our exciting MOOC!     \n Today, for almost every product on the market and almost every service offered, some form of optimization has played a role in their design.  \n However, optimization is not a button-press technology. To apply it successfully, one needs expertise in formulating the problem, selecting and tuning the solution algorithm and finally, checking the results. We have designed this course to make you such an expert. \n This course is useful to students of all engineering fields. The mathematical and computational concepts that you will learn here have application in machine learning, operations research, signal and image processing, control, robotics and design to name a few. \n We will start with the standard unconstrained problems, linear problems and general nonlinear constrained problems.  We will then move to more specialized topics including:  \n \n  Mixed-integer problems  \n  Global optimization for non-convex problems  \n  Optimal control problems  \n  Machine learning for optimization  \n  Optimization under uncertainty  \n \n    \n Students will learn to  implement and solve optimization problems in  Python  through the practical exercises.    \n Enroll now to enhance your skills in optimization and apply them to real-world challenges!",
+  "learning_goals": [
+    "Python (Programming Language)",
+    "Robotics",
+    "Image Processing",
+    "Basic Math",
+    "Optimal Control",
+    "Machine Learning",
+    "Mathematical Optimization",
+    "Algorithms",
+    "Operations Research"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "univ-prof-alexander-mitsos",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "marc-daniel-stumm",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "clara-witte",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-ing-chrysanthi-papadimitriou-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "RWTH Aachen University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 391,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

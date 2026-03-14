@@ -1,0 +1,26 @@
+{
+  "course_id": "3Bf8uqAsEfCLQw4N1vCYjQ",
+  "platform": "coursera",
+  "title": "Intermediate Python – Libraries, Tools & Practical Projects",
+  "slug": "packt-intermediate-python-libraries-tools-and-practical-projects-0d9as",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course is designed to elevate your Python skills by teaching you how to leverage powerful libraries, tools, and practical projects. You will work with key Python libraries such as Pandas for data analysis, NumPy for scientific computing, and Bokeh for data visualization. Additionally, you will gain hands-on experience with real-world projects, like web mapping and building an interactive English thesaurus. Whether you're interested in automating tasks or diving deep into data analytics, this course prepares you to handle complex challenges with Python.\n\nThroughout the course, you'll begin by mastering data manipulation with CSV, JSON, and Excel files. The journey continues with a focus on numerical computing using NumPy and creating interactive web maps with Python. You’ll also explore image and video processing, gaining the ability to work with computer vision and control webcams. In the final modules, you’ll develop apps that combine data analysis and visualization, culminating in the creation of an interactive web app for real-time data visualization.\n\nThis course is ideal for intermediate Python learners who want to advance their knowledge by working on practical applications. You’ll gain in-depth expertise in Python libraries, and by the end, you will be equipped to handle various types of data analysis and programming challenges using Python.\n\nBy the end of the course, you will be able to load and analyze datasets, manipulate and visualize data using advanced libraries like Pandas, NumPy, and Bokeh, create interactive web apps for data visualization, and handle image and video processing with Python.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-intermediate-python-libraries-tools-and-practical-projects-0d9as",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

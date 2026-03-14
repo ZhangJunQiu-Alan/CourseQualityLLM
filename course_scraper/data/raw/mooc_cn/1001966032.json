@@ -1,0 +1,31 @@
+{
+  "course_id": "1001966032",
+  "platform": "mooc_cn",
+  "title": "计算机通信网络",
+  "description": "在移动互联和互联网+的时代，对于无论是想了解通信与互联网相关知识但没有太多专业基础的人员，还是作为有志于投身通信与互联网行业的研发人员、创业者，学习“计算机通信网络”这门课程都是十分必要的。同时，它也是高等学校电子与通信工程专业本科生必修的一门核心专业课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001966032",
+  "instructors": [
+    {
+      "name": "闫中江;赵宏伟;卢选民",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23662,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

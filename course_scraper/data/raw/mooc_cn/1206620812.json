@@ -1,0 +1,31 @@
+{
+  "course_id": "1206620812",
+  "platform": "mooc_cn",
+  "title": "软件测试",
+  "description": "欢迎大家来到《软件测试》课堂，和我们一起学习软件测试的知识。在这里，你可以了解到软件测试的前世今生，掌握软件测试的常用技术和方法，体会软件缺陷从“诞生”到“灭亡”的全过程，学会使用软件测试的各类工具，塑造软件测试批判性思维，成长为一名合格的软件测试工程师。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206620812",
+  "instructors": [
+    {
+      "name": "王迪;李菲;曹阳;任凯;朱慧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "三江学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12002,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

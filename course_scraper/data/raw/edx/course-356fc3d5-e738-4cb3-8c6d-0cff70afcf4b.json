@@ -1,0 +1,35 @@
+{
+  "course_id": "course-356fc3d5-e738-4cb3-8c6d-0cff70afcf4b",
+  "platform": "edx",
+  "title": "50-hour English Language Teaching Methodology",
+  "description": "Learn about classroom management, teaching styles and advanced TEFL methodology. Study with a personal tutor and meet fellow students on our course forums. Includes units on business English, young learners and teaching English one-to-one.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 1-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "luke-bartsch",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "thomas-kerr",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "TEFL Org"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1886,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

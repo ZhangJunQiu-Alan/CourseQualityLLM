@@ -1,0 +1,70 @@
+{
+  "course_id": "course-aa4be4b5-08b1-42de-b4d8-3f3cf51d2db0",
+  "platform": "edx",
+  "title": "Industrial Fermentation",
+  "description": "Industrial fermentation is the central operation in a broad, sustainable value chain, also involving the upstream generation and supply of renewable feedstocks, and downstream purification of the products formed.  \n In this course you will understand how the essential process inputs and outputs are connected via biological and physical mechanisms, and form the basis of process design, scrutiny, optimization and scaling between factory and lab. \n This course provides the insights and tools for designing industrial fermentation processes with sustainability advantages, where choices of product and feedstock determine the specific process requirements. Six experienced course leaders will reveal the essentials of industrial fermentation and how to apply these for conceptual design and quantification, resulting in basic mathematical frames and models. Throughout the course, you will apply the theory to a case study where you will produce the building block 1,3-propane diol (PDO) from sugar. Also, you will experience what are the main pitfalls (‘banana skins’) and how to stay away from them. \n The course includes guest lectures from industry and universities. \n This course is geared towards Biologists, Biotechnologists and Chemical and Environmental Engineers, but will also be of value to others with a different science and engineering background or interest, working in the field of research, development and manufacturing, who wish to deepen their knowledge of industrially relevant fermentation technology and operations.",
+  "learning_goals": [
+    "Fermentation",
+    "Conceptual Design",
+    "Process Design",
+    "Research And Development",
+    "Environmental Engineering",
+    "Basic Math",
+    "Quantification",
+    "Biology",
+    "Industrial Fermentation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 6-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "henk-noorman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "adrie-straathof",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "cees-haringa",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "john-posada-duque",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ludovic-jourdin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "patricia-osseweijer",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "wouter-van-winden",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 336,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

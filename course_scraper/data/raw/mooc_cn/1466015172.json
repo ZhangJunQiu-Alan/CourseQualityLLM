@@ -1,0 +1,31 @@
+{
+  "course_id": "1466015172",
+  "platform": "mooc_cn",
+  "title": "测量仪表与自动化",
+  "description": "为保证​石油、化工、能源和电力等生产过程的平稳和安全运行，需要对生产过程的压力、物位、流量和温度进行检测和控制，如储罐或容器的压力和物位、加热炉的温度、产品或原料的流量，这门课程就是带你学习这些参数的测量仪表的工作原理、结构和选用方法，带你学习自动控制系统构建和应用方法。通过这门课，能够让你掌握如何根据工艺条件去选择测量仪表，如何构建自动控制系统完成对这些生产过程的监控。       总之，这门课程就是让你了解自动化，掌握自动化，应用自动化。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466015172",
+  "instructors": [
+    {
+      "name": "涂玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国石油大学（华东）"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6066,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

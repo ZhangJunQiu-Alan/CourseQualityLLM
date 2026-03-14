@@ -1,0 +1,54 @@
+{
+  "course_id": "course-20574fb6-99b9-44cf-afa5-473d8337c7a8",
+  "platform": "edx",
+  "title": "Human Anatomy: Musculoskeletal Cases",
+  "description": "Human Anatomy: Musculoskeletal Cases invites students to join medical and basic science faculty at Harvard Medical School (HMS) to learn about musculoskeletal injuries commonly seen in clinical practice. \n For each case, students visit the HMS Clinical Skills Center to observe the initial patient encounter and physical examination by an orthopedic surgeon. Following the patient encounter, students complete the interactive gross anatomy, histology and radiology learning sessions essential for understanding the case. The anatomy learning sessions include observing actual dissections in the Harvard Medical School anatomy laboratories revealing and explaining the human anatomy relevant for each clinical case. \n After completing the case learning sessions, students review pertinent radiology images, commit to a tentative diagnosis from a list of differential diagnoses, and accompany the patient to a virtual operating room to observe the surgical treatment. In the virtual operating room, students observe narrated videos of actual surgical procedures. \n Clinical content for each case is developed in close collaboration with leading orthopedic surgeons and radiologists at Brigham and Women’s Hospital. \n This course will take you inside the anatomy laboratories where students entering medicine, dental medicine, and other health professions study anatomy by performing anatomical dissections. Content includes videos, photographs, and other content, including anatomical images and videos showing cadaver dissection, that some people may find offensive, disturbing or inappropriate.",
+  "learning_goals": [
+    "Musculoskeletal Injuries",
+    "Operating Room (OR)",
+    "Orthopedic Surgery",
+    "Radiology",
+    "Clinical Practices",
+    "Dentistry",
+    "Primary Care",
+    "Anatomy",
+    "Dissection",
+    "Human Musculoskeletal Systems",
+    "Orthopedics",
+    "Differential Diagnosis",
+    "Histology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "trudy-van-houten",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "michael-parker",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alexander-bick",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19834,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

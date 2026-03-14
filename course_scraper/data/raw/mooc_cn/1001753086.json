@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753086",
+  "platform": "mooc_cn",
+  "title": "高等数学（二）",
+  "description": "《高等数学(二)》课程面向高职学生精心打造。包含常微分方程、空间解析几何、多元函数微积分、无穷级数等主要内容，以及一些重要的数学思想方法。课程注重基本概念、基本理论、基本运算的教学，让同学们初步学会用数学思想方法去分析、解决问题。跟随我们的步伐，你的高数学习将不再困难！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753086",
+  "instructors": [
+    {
+      "name": "冯晨;李秀霞;缪蕙;白洁静;张忠毅;赵倩倩;王罡;蔡鸣晶;黄国建;王卉;郭萍;崔进",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56988,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

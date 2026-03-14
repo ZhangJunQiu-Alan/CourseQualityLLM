@@ -1,0 +1,31 @@
+{
+  "course_id": "1003413008",
+  "platform": "mooc_cn",
+  "title": "信号与线性系统",
+  "description": "我们的社会正在步入大数据应用时代，海量的信息不仅记录了我们的昨天和今天，在人工智能技术的支持下，它还将展示我们的未来。。。        你想要了解信息技术的基础和发展历程，想要掌控信息技术应用的瑰丽明天吗？来吧！跟我们一起走进《信号与线性系统》的课堂吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003413008",
+  "instructors": [
+    {
+      "name": "宋琪;李渝舟;马莉;梁琨;田岩",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 39069,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

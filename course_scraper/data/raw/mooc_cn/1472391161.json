@@ -1,0 +1,31 @@
+{
+  "course_id": "1472391161",
+  "platform": "mooc_cn",
+  "title": "半导体物理",
+  "description": "本课程是微电子科学与工程、集成电路设计与集成系统等专业的必修课。通过本课程的学习，使学生掌握半导体的基本性质和相关基础理论，为学习半导体器件物理、集成电路原理与设计、集成电路工艺技术等专业课程奠定必要的理论和实践基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472391161",
+  "instructors": [
+    {
+      "name": "张军琴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2092,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

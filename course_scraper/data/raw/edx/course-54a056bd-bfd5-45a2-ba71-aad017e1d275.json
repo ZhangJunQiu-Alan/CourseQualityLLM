@@ -1,0 +1,41 @@
+{
+  "course_id": "course-54a056bd-bfd5-45a2-ba71-aad017e1d275",
+  "platform": "edx",
+  "title": "Data Science: Probability",
+  "description": "In this course, part of our  Professional Certificate Program in Data Science ,you will learn valuable concepts in probability theory. The motivation for this course is the circumstances surrounding the financial crisis of 2007-2008. Part of what caused this financial crisis was that the risk of some securities sold by financial institutions was underestimated. To begin to understand this very complicated event, we need to understand the basics of probability.  \n We will introduce important concepts such as random variables, independence, Monte Carlo simulations, expected values, standard errors, and the Central Limit Theorem. These statistical concepts are fundamental to conducting statistical tests on data and understanding whether the data you are analyzing is likely occurring due to an experimental method or to chance.  \n Probability theory is the mathematical foundation of statistical inference which is indispensable for analyzing data affected by chance, and thus essential for data scientists.",
+  "learning_goals": [
+    "Statistical Hypothesis Testing",
+    "Securities (Finance)",
+    "Random Variables",
+    "Monte Carlo Methods",
+    "Data Analysis",
+    "Probability Theories",
+    "Statistical Inference",
+    "Data Science",
+    "Probability",
+    "Financial Crisis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rafael-irizarry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6387,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

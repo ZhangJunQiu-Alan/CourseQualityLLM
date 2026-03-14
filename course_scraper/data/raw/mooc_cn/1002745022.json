@@ -1,0 +1,31 @@
+{
+  "course_id": "1002745022",
+  "platform": "mooc_cn",
+  "title": "工程热力学",
+  "description": "本课程面向过程装备与控制工程、机械工程、能源动力等专业学生。课程系统讲解热力学基本定律、能量转换原理、工质性质和热力循环等内容，帮助学生掌握工程热力学基础知识。课程提供丰富的学习资源，包括教学视频、实验演示和习题讲解，适合线上自主学习。通过本课程，学生能够理解热力学在实际工程中的应用，提升分析和解决问题的能力。课程已在爱课程平台开设多期，累计选课近6000人，适合在校学生和社会学习者选修。欢迎报名学习！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002745022",
+  "instructors": [
+    {
+      "name": "王维",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14790,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

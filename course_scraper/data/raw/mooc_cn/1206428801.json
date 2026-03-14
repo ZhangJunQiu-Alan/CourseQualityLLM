@@ -1,0 +1,31 @@
+{
+  "course_id": "1206428801",
+  "platform": "mooc_cn",
+  "title": "控制工程基础（双语）",
+  "description": "这是一门有关经典控制理论的课程。重理论，讲方法，依托工程，是这门课的主要特点。课程由38个理论课单元和6个实验课组成，总时长460分钟。选择英文课件和中文讲解的双语形式，让你在学习专业课的同时，也学习了专业英语。它是你的一门专业课、也是你线下课堂的小助手、考研复习的小帮手！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206428801",
+  "instructors": [
+    {
+      "name": "孙晶;韦磊;王林涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10029,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

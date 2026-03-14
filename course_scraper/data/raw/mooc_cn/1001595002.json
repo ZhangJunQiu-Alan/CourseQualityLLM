@@ -1,0 +1,31 @@
+{
+  "course_id": "1001595002",
+  "platform": "mooc_cn",
+  "title": "机械设计基础",
+  "description": "为了适应机械类专业教学体系及内容改革的发展趋势，本教学将“机械原理”、“机械设计”两门课程合一，目标是重组、融合相关教学内容，建立起内容合理、各内容之间衔接紧密的“大机械设计”课程教学体系，使学生用较小的学时数完成技术基础课程的学习，掌握较扎实、较宽广的机械设计基础知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001595002",
+  "instructors": [
+    {
+      "name": "雷亚国;奚延辉;曹宏瑞;武通海;施虎;徐亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 275384,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

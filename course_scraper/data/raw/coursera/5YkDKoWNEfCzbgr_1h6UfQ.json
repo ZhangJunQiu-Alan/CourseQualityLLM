@@ -1,0 +1,26 @@
+{
+  "course_id": "5YkDKoWNEfCzbgr_1h6UfQ",
+  "platform": "coursera",
+  "title": "Master Time Series Forecasting with R: Analyze & Predict",
+  "slug": "master-time-series-forecasting-r-analyze-predict",
+  "description": "By the end of this course, learners will be able to define the fundamentals of forecasting, classify forecasting methods, apply regression and decomposition techniques, and implement advanced models like ARIMA and SARIMA to accurately predict time-dependent data.\n\nThis comprehensive course equips participants with the tools to tackle real-world forecasting challenges using R. Beginning with the foundations of business analytics forecasting, learners will explore methods, steps, and common pitfalls before moving into practical applications of simple forecasting models. The course then advances into regression-based forecasting, covering simple, multiple, and non-linear regression, while also integrating predictors and lagged variables for more reliable time series analysis. Finally, learners will gain hands-on expertise with exponential smoothing, ARIMA, and Seasonal ARIMA modeling, supported by ACF and PACF diagnostics.\n\nWhat makes this course unique is its step-by-step progression from basics to advanced forecasting, its practical use of R for implementation, and its focus on both interpretability and accuracy. By completing this program, learners will be prepared to design robust forecasting solutions that improve decision-making in business, finance, operations, and beyond.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/master-time-series-forecasting-r-analyze-predict",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206672825",
+  "platform": "mooc_cn",
+  "title": "大学物理实验",
+  "description": "物理学是一门以实验为基础的科学。物理实验是科学实验的先驱，它的实验思想、方法和技术是各学科科学实验的基础，对学生实验能力的培养、科学素养的养成具有重要的作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206672825",
+  "instructors": [
+    {
+      "name": "郑卫峰;冯卓宏;杨艳敏;翁存程;蒋丽钦;钟克华;贾翠红;王丽丽;刘嫩容;何娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29615,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

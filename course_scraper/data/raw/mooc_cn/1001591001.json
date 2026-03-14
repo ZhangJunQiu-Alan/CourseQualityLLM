@@ -1,0 +1,31 @@
+{
+  "course_id": "1001591001",
+  "platform": "mooc_cn",
+  "title": "大学化学（下）",
+  "description": "在科学的海洋中，化学被誉为“中心科学”，因为它是众多学科之间的联系桥梁，并涉及人类生活的方方面面。是它为人类提供了最初走向文明的基础！也是它给现代社会以持续发展的动力！中南大学《大学化学》分为上、下两部分，授课注重科学性、系统性，力求深入浅出、通俗易懂，分别由王一凡、王微宏领衔。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001591001",
+  "instructors": [
+    {
+      "name": "胡云宾;罗一鸣;彭红建;于金刚;王一凡;王蔚玲;梁文杰;王微宏;陈国辉;钟世安",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 38826,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

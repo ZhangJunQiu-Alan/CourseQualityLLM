@@ -1,0 +1,31 @@
+{
+  "course_id": "1461622166",
+  "platform": "mooc_cn",
+  "title": "高等数学A（2）",
+  "description": "高等数学是经管类、理工类专业重要的公共基础课,是学习专业课程所必要的知识基础,且在大学素质教育中的重要性已充分体现. 高等数学是由微积分学，较深入的代数学、几何学以及它们之间的交叉内容所形成的一门基础学科。 主要内容：数列、极限、微积分、空间解析几何与线性代数、级数、常微分方程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461622166",
+  "instructors": [
+    {
+      "name": "李秀英;陈娟;宗大伟;张树来;李秀明;李昕;顾建军;耿发展;闻斌;季春燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23452,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

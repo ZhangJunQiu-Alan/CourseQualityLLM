@@ -1,0 +1,26 @@
+{
+  "course_id": "7u8dteVeEfClPRLQcNlmyw",
+  "platform": "coursera",
+  "title": "Implement Jenkins CI/CD Pipelines for Real-World Deployment",
+  "slug": "implement-jenkins-ci-cd-pipelines-for-real-world-deployment",
+  "description": "Learners will gain the ability to configure Jenkins, automate build and deployment pipelines, integrate industry-standard DevOps tools, and execute an end-to-end CI/CD project aligned with real-world practices.\nThis course provides a hands-on, project-driven approach to mastering Jenkins for continuous integration and continuous delivery. Learners progress from understanding Jenkins fundamentals and configuration to implementing a complete deployment pipeline using a structured case study. The course emphasizes practical execution—covering user management, job configuration, build validation, deployment preparation, and production-ready integrations with application servers, version control systems, build tools, and code quality platforms.\nBy completing this course, learners will develop job-ready skills to design, configure, and manage automated CI/CD workflows that mirror real enterprise environments. The end-to-end project focus ensures learners not only understand Jenkins concepts but can confidently apply them to real applications.\nWhat makes this course unique is its full lifecycle coverage—from Jenkins setup to final deployment—delivered through a single, cohesive project rather than isolated demos. This practical depth makes the course ideal for learners aiming to strengthen DevOps automation expertise and advance into CI/CD-focused roles.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/implement-jenkins-ci-cd-pipelines-for-real-world-deployment",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

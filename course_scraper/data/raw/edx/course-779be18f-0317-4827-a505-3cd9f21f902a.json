@@ -1,0 +1,24 @@
+{
+  "course_id": "course-779be18f-0317-4827-a505-3cd9f21f902a",
+  "platform": "edx",
+  "title": "Advanced Principles & Topics in AI & Machine Learning in Healthcare",
+  "description": "In Advanced Principles &amp; Topics in AI &amp; ML in Healthcare, you will dive deeper into advanced theories, designs, and real-world healthcare applications of AI and ML. This part of the course focuses on more sophisticated machine learning techniques, the implementation of AI systems, and discussions on the future of AI in healthcare. Engage in current debates, interactive exercises, and review cutting-edge research to understand how AI is transforming the future of healthcare. Apply your deeper learning to cases and scenarios in healthcare environments. \n The course is comprised of 4 modules that you should complete in order, as each subsequent module builds on the previous one. \n \n Module 1: Advanced Machine Learning Techniques \n Module 2: Implementation and Operation of AI Systems \n Module 3: Evaluating Machine Learning Models  \n Module 4: Special Topics in AI in Healthcare",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "MGH Institute of Health Professions"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 302,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

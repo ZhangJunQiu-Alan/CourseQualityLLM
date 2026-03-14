@@ -1,0 +1,31 @@
+{
+  "course_id": "96002",
+  "platform": "mooc_cn",
+  "title": "大学物理-力学和热学",
+  "description": "山东大学《大学物理MOOC》被评为首批国家精品在线开放课程，也是国家精品课程和精品资源共享课！课程包括力学和热学、电磁学和光学、相对论和量子物理三大模块，教学体系完整丰富，课程讲解详实易懂，便于自主学习和移动学习！希望本课程能够帮助您去了解、去探索美妙神奇的物理世界！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/96002",
+  "instructors": [
+    {
+      "name": "刘建强;于淑云",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 133254,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

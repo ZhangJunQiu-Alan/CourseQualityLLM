@@ -1,0 +1,31 @@
+{
+  "course_id": "1468822187",
+  "platform": "mooc_cn",
+  "title": "生物医学传感器",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1468822187",
+  "instructors": [
+    {
+      "name": "胡晓飞;安荣荣;武灵芝",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2662,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

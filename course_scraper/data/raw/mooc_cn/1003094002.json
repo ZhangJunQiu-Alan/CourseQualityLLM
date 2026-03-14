@@ -1,0 +1,31 @@
+{
+  "course_id": "1003094002",
+  "platform": "mooc_cn",
+  "title": "建筑工程制图与识图",
+  "description": "本课程​为“岗课赛证”融通课程，课程内容打破传统教学中“重制图、轻识图”的局面，先围绕“如何表达房屋建筑”这一核心问题展开建筑制图和建筑构造相关内容，形成用投影图表达房屋建筑的整体思路。然后以岗位“工作任务”为主线，围绕案例工程施工图展开建筑施工图和结构施工图识读全部内容，针对难度最大的钢筋构造部分，从受力变形的基本原理出发，深入浅出地教会学生“为什么”，最后通过综合识图训练强化识图能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003094002",
+  "instructors": [
+    {
+      "name": "李艳;陈蕾;杜娟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉交通职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 34067,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

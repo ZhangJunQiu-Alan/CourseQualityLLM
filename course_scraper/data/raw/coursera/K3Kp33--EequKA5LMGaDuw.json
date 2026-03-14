@@ -1,0 +1,26 @@
+{
+  "course_id": "K3Kp33--EequKA5LMGaDuw",
+  "platform": "coursera",
+  "title": "Web Application Security Testing with OWASP ZAP",
+  "slug": "web-application-security-testing-with-owsap-zap",
+  "description": "By the end of this project, you will learn the fundamentals of how to use OWASP Zed Attack Proxy (ZAP). This tool greatly aids security professionals and penetration testers to discover vulnerabilities within web applications. You will learn how to perform a basic web app vulnerability scan, analyze the results, and generate a report of those results. This course includes steps on how to configure the browser proxy to passively scan web requests and responses by simply exploring websites. This course will also include how to use dictionary lists to find files and folders on a web server, and how to spider crawl websites to find all the links and URLs. Finally, the end of the course gives a brief overview of how to intercept, view, modify, and forward web requests that occur between the browser and web application.\n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/web-application-security-testing-with-owsap-zap",
+  "instructors": [
+    {
+      "name": "Alex Carraway",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

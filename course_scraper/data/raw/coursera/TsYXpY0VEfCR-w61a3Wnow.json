@@ -1,0 +1,31 @@
+{
+  "course_id": "TsYXpY0VEfCR-w61a3Wnow",
+  "platform": "coursera",
+  "title": "Hands-on AWS Auto Scaling Labs: Essential Lab Exercises",
+  "slug": "pearson-hands-on-aws-auto-scaling-labs-essential-lab-exercises-video-cours-d00e4",
+  "description": "This course enables learners to master AWS Auto Scaling through immersive hands-on labs, allowing them to dynamically adjust compute resources, optimize application performance, and excel in creating scalable, resilient cloud solutions. It is designed for cloud professionals seeking to develop their AWS Auto Scaling skills, and is essential for those aiming to optimize application performance, availability, and cost-effectiveness in cloud environments. AWS Auto Scaling facilitates the automatic adjustment of compute resources based on demand, ensuring applications efficiently handle varying workloads. A solid understanding of Auto Scaling is also crucial for designing resilient and dynamically scalable architectures.\n\nHands-on lab exercises form the core of this course, providing practical experience in configuring, testing, and fine-tuning Auto Scaling policies. Detailed lab manuals and video demonstrations guide learners through dynamic labs, empowering them to confidently implement and optimize AWS Auto Scaling solutions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "Less than 1 week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-hands-on-aws-auto-scaling-labs-essential-lab-exercises-video-cours-d00e4",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Rick Crisci",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001930016",
+  "platform": "mooc_cn",
+  "title": "生理学",
+  "description": "《说文解字》中说：“生，始也；理，治也”。生命肇始，治理不息。《生理学》是研究机体及各组成部分正常功能活动规律的学科，是有关生命之逻辑的学问。了解您自己的生命和人体的运作方式，让您领略生命的奥秘，一起触摸生理学的前沿，助推临床能力的提升，为您解答“我是谁”的终极哲学命题！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001930016",
+  "instructors": [
+    {
+      "name": "罗自强;冯丹丹;暨明;向阳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 359721,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

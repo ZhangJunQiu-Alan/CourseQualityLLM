@@ -1,0 +1,31 @@
+{
+  "course_id": "1002540001",
+  "platform": "mooc_cn",
+  "title": "电力电子技术",
+  "description": "电力电子技术推动了生产力的巨大发展和技术革命。通过对电力电子器件的应用，可以实现现代工业、交通运输、国防建设等诸多领域的控制要求，同时获得最大的经济效益。电力电子技术是电源技术和节能技术的结合体，是电能领域实现供需平衡的钥匙。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002540001",
+  "instructors": [
+    {
+      "name": "杨明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 98407,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

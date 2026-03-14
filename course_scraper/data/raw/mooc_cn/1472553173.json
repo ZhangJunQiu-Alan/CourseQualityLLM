@@ -1,0 +1,31 @@
+{
+  "course_id": "1472553173",
+  "platform": "mooc_cn",
+  "title": "复变函数论基础",
+  "description": "《复变函数论基础》是数学、物理学、工程学等领域的核心基础课，。主要研究复数域上的函数理论及其应用。本门课程面向高校学生开设，课程力求深入浅出。通过本课程的学习，培养数学抽象思维，提高科学论证和分析的能力，同时也期待同学们形成跨学科的应用意识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472553173",
+  "instructors": [
+    {
+      "name": "张征",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西华师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 788,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,75 @@
+{
+  "course_id": "course-28ae36f9-40f5-4049-8fca-a93b5c486e81",
+  "platform": "edx",
+  "title": "MATLAB Essentials",
+  "description": "Note: Learners who successfully complete this MathWorks course can earn a Digital Credential — a visual representation of a verified achievement that can be issued, accessed, and displayed online. Enroll to learn more, complete the course, and claim your badge! \n Expand your data analysis and modeling skills in MATLAB, a programming and numeric computing platform used to analyze data, develop algorithms, and create models. Millions of engineers and scientists worldwide use MATLAB to study and build advanced applications in machine learning, deep learning, signal processing, communications, image processing, and control systems. They are shaping the future by modeling rockets that may someday take you into space, developing autonomous vehicles to travel safely and efficiently, and designing wave farms that harness the power of ocean waves to generate clean energy. \n In this course, you'll use MATLAB to examine real-world problems and answer questions like: \n \n How far does a blue whale swim each day? \n What is the favorite topping in a pizza shop? \n What is the ride quality of a car suspension? \n How does the magnitude of an earthquake impact the strength of a tsunami? \n What is the most expensive failure in a factory? \n \n MATLAB makes it easy to see results quickly, so there are no pre-requisites for the course. Whether you're auditing or a verified learner, you will have free access to MATLAB for the duration of the course. You will learn how to process, analyze, and visualize data collected nearly everywhere in today's digital workplace. You'll use powerful templates and auto-generated code to start experimenting immediately and quickly process similar data sets. And you'll gain the essential programming skills needed to perform these exciting tasks. \n Throughout the course, you'll have ample opportunities to practice your newly acquired skills – through auto-graded assignments, practice quizzes, interactive readings, and projects. By the end of the course, you'll be ready to analyze your own data sets and impress colleagues with word clouds, geographic plots, animations, and more. \n Additionally, this course will give you the skills you need to prepare for the  MathWorks Certified MATLAB Associate exam . Certification verifies valuable transferable skills, sets you apart in the job market, and can help accelerate professional growth.",
+  "learning_goals": [
+    "Computer Control Systems",
+    "Templates",
+    "Data Analysis",
+    "Machine Learning",
+    "Data Visualization",
+    "Signal Processing",
+    "Auditing",
+    "Autonomous Vehicles",
+    "MATLAB",
+    "Control Systems",
+    "Visual Workplaces",
+    "Image Processing",
+    "Animations",
+    "Transferable Skills Analysis",
+    "Communications",
+    "Suspension (Vehicle)",
+    "Computing Platforms",
+    "Deep Learning",
+    "Algorithms"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "brian-buechel",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "tugce-kasikci",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "pragya-lakhotia",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "brian-neiswander",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "megan-thompson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "nikola-trica",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "MathWorks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1366,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

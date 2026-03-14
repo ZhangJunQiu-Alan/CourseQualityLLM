@@ -1,0 +1,31 @@
+{
+  "course_id": "1002143002",
+  "platform": "mooc_cn",
+  "title": "理论力学",
+  "description": "理论力学是力学理论与工程应用的桥梁，严谨的理论力学概念和方法是很多尖端人才的制胜法宝。国防科大理论力学教学团队将航天、军事领域工程经验和教学实践相结合，从一般到特殊，演绎了静力学、运动学、动力学、分析力学及系列专题知识。课程适用于力学、航天、土木、机械、兵器和材料等工科专业。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002143002",
+  "instructors": [
+    {
+      "name": "李海阳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 80862,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "4_8GxmblEe-EPwr_9XyAcQ",
+  "platform": "coursera",
+  "title": "Solidity In-Depth: Arrays, Mappings, and Advanced Structures",
+  "slug": "packt-solidity-in-depth-arrays-mappings-and-advanced-structures-innhr",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nDive deep into Solidity's core data structures in this advanced course that builds on foundational knowledge of smart contract programming. Starting with constructors, you'll explore how to initialize smart contracts and manage state variables. The course transitions to mastering arrays in Solidity, covering crucial methods like push, pop, and length, as well as array manipulation techniques such as deletion and compacting arrays.\n\nNext, you’ll learn to work with enums, structs, and mappings, essential components for creating more complex and efficient smart contracts. The course includes hands-on exercises to practice writing custom data types and associating values with mappings, and you'll solve real-world coding challenges along the way. Enums and structs are covered in detail, showing how to group data and define custom types, preparing you to write more structured and maintainable contracts.\n\nLastly, the course dives into nested mappings and the assignment of structs within mappings, a powerful tool for developing scalable and secure contracts. By the end, you will have mastered the tools needed to work with advanced Solidity data structures, laying a solid foundation for further exploration of blockchain development.\n\nThis course is designed for developers with a basic understanding of Solidity and blockchain development. Prerequisites include familiarity with smart contracts, basic Solidity syntax, and introductory data structures.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-solidity-in-depth-arrays-mappings-and-advanced-structures-innhr",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

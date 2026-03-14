@@ -1,0 +1,31 @@
+{
+  "course_id": "1205805822",
+  "platform": "mooc_cn",
+  "title": "环境与可持续发展",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205805822",
+  "instructors": [
+    {
+      "name": "董世魁;马俊伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12617,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

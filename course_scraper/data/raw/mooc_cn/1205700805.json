@@ -1,0 +1,31 @@
+{
+  "course_id": "1205700805",
+  "platform": "mooc_cn",
+  "title": "多旋翼飞行器设计与控制",
+  "description": "空中机器人&多旋翼飞行器最佳入门课程",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205700805",
+  "instructors": [
+    {
+      "name": "全权",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22570,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1465995182",
+  "platform": "mooc_cn",
+  "title": "系统解剖学",
+  "description": "系统解剖学是按人体的器官功能系统阐述正常人体器官的形态结构、相关功能及其生长发育规律的科学，属于形态学的范畴，是医学基础主干课程，是所有医学生的必修课。只有在充分认识人体器官的形态结构基础上，才能正确理解人体的生理现象和病理过程、判断人体的正常与异常、区别生理与病理状态，对疾病进行正确的预防、诊断和治疗。解剖学的学习是从医学专业的实际需要出发，掌握人体正常形态结构的知识，为学习其他医学基础和临床课程奠定坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465995182",
+  "instructors": [
+    {
+      "name": "范春玲;李芳;王晓晟;陈旦;潘爱华;熊鲲;王慧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21499,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

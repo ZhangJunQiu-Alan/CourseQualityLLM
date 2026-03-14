@@ -1,0 +1,26 @@
+{
+  "course_id": "yPClEg2eEeu9ZBLzQTJEhw",
+  "platform": "coursera",
+  "title": "Managing and Securing the Apigee Hybrid API Platform",
+  "slug": "management-and-security-of-apigee-hybrid-api-platform",
+  "description": "This course discusses how environments are managed in Apigee hybrid, and how runtime plane components are secured.\n\nYou will also learn how to deploy and debug API proxies in Apigee hybrid, and about capacity planning and scaling.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks of study, 6-8 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/management-and-security-of-apigee-hybrid-api-platform",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

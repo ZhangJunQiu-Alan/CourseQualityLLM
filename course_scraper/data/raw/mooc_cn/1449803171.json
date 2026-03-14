@@ -1,0 +1,31 @@
+{
+  "course_id": "1449803171",
+  "platform": "mooc_cn",
+  "title": "国际金融",
+  "description": "笑看国际金融风云，读懂天下事",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449803171",
+  "instructors": [
+    {
+      "name": "赵冉冉;贺丽丽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京理工大学紫金学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4793,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

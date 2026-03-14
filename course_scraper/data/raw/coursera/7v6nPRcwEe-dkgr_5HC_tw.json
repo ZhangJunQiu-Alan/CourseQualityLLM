@@ -1,0 +1,26 @@
+{
+  "course_id": "7v6nPRcwEe-dkgr_5HC_tw",
+  "platform": "coursera",
+  "title": "ARM Cortex (STM32) Fundamentals: Building Embedded Systems",
+  "slug": "arm-cortex-fundamentals-building-embedded-systems",
+  "description": "Upon completing this course, you will:\n\nMaster the use of floating-point data types and input/output handling in C.\nUnderstand and apply various operators and decision-making constructs in C programming.\nExecute advanced bitwise operations and control LEDs using embedded C.\nAchieve proficiency in bitwise manipulation and loop constructs for efficient code iteration and embedded system control.\n\nCourse Description\n\nEmbark on a comprehensive journey through ARM Cortex (STM32) Fundamentals: Building Embedded Systems. This course begins with essential data manipulation and input/output handling techniques, advancing your understanding of floating-point data types and versatile user input methods. Dive into operators and decision-making constructs, mastering <stdint.h> for standardized integer types and honing skills in relational and logical operators.\n\nExplore the complexities of bitwise operations, enabling precise LED control through embedded C programming. Elevate your proficiency with bitwise manipulation, mastering loop constructs for efficient code iteration and intricate LED control sequences.\n\nBy course end, you will possess the essential skills required for developing sophisticated embedded systems using ARM Cortex (STM32) technology. This course's unique focus on practical, hands-on applications and advanced techniques ensures you gain robust, real-world competencies in embedded systems development.\n\nTarget Learners\nThis course is ideal for:\n1) Aspiring embedded systems engineers who want to gain a solid foundation in ARM Cortex (STM32) microcontroller programming.\n2) Electronics and computer engineering students seeking practical experience in embedded systems.\n3) Professional engineers looking to enhance their skills in embedded C programming and ARM Cortex (STM32) development.\n\nPrerequisites\n\nBefore taking this course, learners should have:\n1) Basic knowledge of C programming, including variables, data types, and basic control structures.\n2) Familiarity with general computer programming concepts and logic.\n3) An understanding of basic electronics principles, such as voltage, current, and circuit components.\n4) A willingness to learn and experiment with embedded systems hardware and software.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of Study, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/arm-cortex-fundamentals-building-embedded-systems",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

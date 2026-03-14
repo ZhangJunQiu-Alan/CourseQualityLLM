@@ -1,0 +1,31 @@
+{
+  "course_id": "494001",
+  "platform": "mooc_cn",
+  "title": "C++程序设计",
+  "description": "当今社会已经由工业社会迈入信息社会。在信息社会中,信息已经成为比物质和能源更为重要的资源。计算机是一个信息化产品，是信息技术的典型代表，而理解计算机的最好途径就是编程。可以预知，编程也会像阅读、写作一样成为人们必须要具备的一项技能。现在，就让我们一起来编程吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/494001",
+  "instructors": [
+    {
+      "name": "魏英",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 266655,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

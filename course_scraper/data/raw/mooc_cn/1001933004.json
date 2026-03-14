@@ -1,0 +1,31 @@
+{
+  "course_id": "1001933004",
+  "platform": "mooc_cn",
+  "title": "书法课堂",
+  "description": "书法是一门艺术，使我们平实的生活充满诗情画意；书法更是一种文化，把琐碎单调的生活用智慧调剂得有声有色。《书法课堂》把玄而又玄的理论转化成言简意赅的实践，引导学生在短时间内掌握篆书、隶书、草书、行书和楷书五种书体的书写方法，理论和实践结合，提高欣赏和书写能力，陶冶情操，修养身心。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001933004",
+  "instructors": [
+    {
+      "name": "朱利",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 191911,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

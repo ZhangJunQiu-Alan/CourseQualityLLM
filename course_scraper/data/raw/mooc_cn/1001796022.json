@@ -1,0 +1,31 @@
+{
+  "course_id": "1001796022",
+  "platform": "mooc_cn",
+  "title": "航空概论",
+  "description": "欢迎来到《航空概论》的世界！在这里，我们将带领大家认识航空、航空器，学习飞机相关的基本理论和飞行原理，探索飞机和航空发动机的内部构造和工作原理，揭开“航空”神秘的面纱！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001796022",
+  "instructors": [
+    {
+      "name": "马高山;张丽娜;韩非非;李树豪;方鹏亚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州航空工业管理学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 47187,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

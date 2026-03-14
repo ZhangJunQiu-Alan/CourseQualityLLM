@@ -1,0 +1,26 @@
+{
+  "course_id": "HotnEEkNEfCnugr_-njfqw",
+  "platform": "coursera",
+  "title": "Creative AI: Images and Media ",
+  "slug": "creative-ai-images",
+  "description": "This course explores how artificial intelligence is transforming the way we create, interpret, and engage with images and visual media. Focusing on generative tools, datasets, and cultural impact, you’ll learn how AI systems are trained to generate images, how artists are using them creatively, and what ethical, legal, and political questions arise as a result. By the end of the course you will be able to:\n\n- Explore how AI can be used to generate and manipulate images using techniques like GANs, CLIP, and diffusion models.\n\n- Understand the impact of datasets on the aesthetics and biases of generative AI, and how dataset design influences creative output.\n\n- Evaluate the ethical and legal implications of AI image-making, including issues of consent, appropriation, and authorship.\n\n- Experiment with text-to-image tools and other generative systems, gaining insight into how artists are working with AI in practice.\n\nThrough hands-on activities, creative walkthroughs, and interviews with artists and researchers, you’ll investigate how generative systems work, reflect on how they relate to earlier image-making technologies like photography, and examine the social debates surrounding AI art platforms and dataset ethics.\n\nFeaturing perspectives from leading artists and technologists working at the cutting edge of AI and visual culture, this course provides both the technical understanding and critical insight to begin experimenting with AI in your own creative media practice. No technical experience is required, just curiosity and a willingness to engage with new visual tools and ideas.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/creative-ai-images",
+  "instructors": [
+    {
+      "name": "Terence Broad",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of the Arts London"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

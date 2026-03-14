@@ -1,0 +1,31 @@
+{
+  "course_id": "1001531001",
+  "platform": "mooc_cn",
+  "title": "自动控制原理",
+  "description": "想知道如何控制巡航导弹精确命中千里之外的目标、无人化智能工厂如何控制机床实现精密加工吗？“自动控制原理”将告诉你系统是如何实现自动控制，达到预定目标的。本课程介绍自动控制系统的基本原理和基本要求、动态建模、常用分析和设计方法。一旦你掌握了这些方法，“系统”将在你的“控制”之中。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001531001",
+  "instructors": [
+    {
+      "name": "王燕舞;樊慧津;李炜;张海涛;王永骥;苏厚胜;刘磊;刘骁康;黄剑;张征",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 271232,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1461554161",
+  "platform": "mooc_cn",
+  "title": "机器视觉技术与应用",
+  "description": "“从实践中来，到实践中去”，本课程通过实际工程案例串联知识点，通过编程实践巩固知识，培养和增强学生创新意识和创新思维，提高实际动手能力和创新能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461554161",
+  "instructors": [
+    {
+      "name": "孔庆鹏;李竹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "杭州电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22732,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1472741179",
+  "platform": "mooc_cn",
+  "title": "3D打印技术及应用",
+  "description": "你是否对3D打印技术充满好奇？是否想了解如何将数字模型变为现实中的立体物件？《3D打印技术及应用》课程将带你走进增材制造的世界，探索从设计到成品的完整流程，掌握未来制造业的核心技能！  本课程由3D打印专任教师团队精心打造，他们凭借丰富的行业经验，将复杂的3D打印原理和技术转化为生动易懂的内容，从基础入门到高级应用，循序渐进。课程内容涵盖3D打印的核心技术（如FDM、SLA、SLS等）、材料特性、建模软件使用及后处理工艺，并结合实际案例，让你体验3D打印在工业设计、医疗、建筑、教育等领域的创新应用。  无论你是工程爱好者，还是希望提升职业技能的学习者，本课程都能为你提供系统而实用的知识体系。不受时间和空间限制，随时随地开启学习之旅。快来加入我们，一起在3D打印的奇妙世界中创造无限可能！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472741179",
+  "instructors": [
+    {
+      "name": "王姗珊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长春职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 237,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

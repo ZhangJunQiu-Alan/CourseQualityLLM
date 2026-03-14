@@ -1,0 +1,31 @@
+{
+  "course_id": "1002603014",
+  "platform": "mooc_cn",
+  "title": "护理科研",
+  "description": "护理，健康的事儿；科研，身边的事儿。护理科研到底是什么，了解护理科研或许最好的方式就是去真正上一门护理科研课程，毕竟站在岸上，我们永远无法去体会游泳者的感受。爱上护理，爱上科研，是我们学习与工作最好的选择。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002603014",
+  "instructors": [
+    {
+      "name": "颜巧元",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 68664,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

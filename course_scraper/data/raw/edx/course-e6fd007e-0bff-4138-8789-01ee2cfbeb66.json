@@ -1,0 +1,42 @@
+{
+  "course_id": "course-e6fd007e-0bff-4138-8789-01ee2cfbeb66",
+  "platform": "edx",
+  "title": "Solar Energy: Photovoltaic (PV) Systems",
+  "description": "In this course you will learn how to turn solar cells into full modules; and how to apply full modules to full photovoltaic systems. \n The course will widely cover the design of photovoltaic systems, such as utility scale solar farms or residential scale systems (both on and off the grid). You will learn about the function and operation of various components including inverters, batteries, DC-DC converters and their interaction with both the modules and the grid. \n After learning about the components, you will be able to correctly apply them during main design steps taken when planning a real PV installation with excellent performance and reliability. \n Through modelling, you will gain a deeper understanding of PV systems performance for different solar energy applications, and proficiency in estimating the energy yield of a client's potential system. \n This course is part of the Solar Energy Engineering MicroMasters Program designed to cover all physics and engineering aspects of photovoltaics: photovoltaic energy conversion, technologies and systems. \n  Earn a Microcredential  \n After finishing this course, and passing the related exam, you are eligible to receive one microcredential. A microcredential is a digital certificate that allows learners to demonstrate the knowledge and skills acquired after successfully completing a small unit of education. It describes the learning outcomes, educational level and scope of the course or program – and adds a quality mark, as it is bound to a recognized quality framework. For more information, please read the FAQ below.",
+  "learning_goals": [
+    "Energy Conversion",
+    "Public Key Certificates",
+    "Physics",
+    "Planning",
+    "Photovoltaic Systems",
+    "Solar Cells"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "11 周，每周 10-11 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "olindo-isabella",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ravi-vasudevan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 467,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

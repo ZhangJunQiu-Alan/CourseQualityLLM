@@ -1,0 +1,31 @@
+{
+  "course_id": "1003479006",
+  "platform": "mooc_cn",
+  "title": "Python语言基础与应用",
+  "description": "本课基于主讲教师在北京大学讲授数据结构与算法课（Python版）的多年教学实践经验，面向零编程基础的大学生和社会公众，全面讲授Python语言基础，培养学生计算思维的能力，并讲解Python语言中经典的扩展模块，让学生能用Python语言解决各种常见问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003479006",
+  "instructors": [
+    {
+      "name": "陈斌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 367081,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003488001",
+  "platform": "mooc_cn",
+  "title": "现代数字电子技术基础",
+  "description": "数字电子技术神奇而美妙、无所不能且无处不在，大到北斗导航系统、FAST射电望远镜、蛟龙号，小到各类移动终端等。课程使学习者在现代数字电子技术的基础理论、实践能力和创新精神三方面同步收获，亦可作为电子类相关工程技术人员的学习课程。让我们共同携手，开启学习之旅， 共创未来！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003488001",
+  "instructors": [
+    {
+      "name": "牛小燕;陈龙;郑雪峰;盛庆华;杨柳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "杭州电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30818,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

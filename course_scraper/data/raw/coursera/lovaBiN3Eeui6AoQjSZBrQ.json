@@ -1,0 +1,36 @@
+{
+  "course_id": "lovaBiN3Eeui6AoQjSZBrQ",
+  "platform": "coursera",
+  "title": "Réseaux neuronaux et Deep Learning",
+  "slug": "neural-networks-deep-learning-fr",
+  "description": "Vous souhaitez vous lancer dans l’IA de pointe ? Ce cours est là pour vous y aider. Les ingénieurs en Deep Learning sont très convoités et la maîtrise de ce domaine vous ouvrira de nombreuses opportunités professionnelles. Le Deep Learning est également un nouveau « superpouvoir » qui vous permettra de développer des systèmes d’IA qui n’étaient même pas envisageables il y a encore quelques années.\n\nVous découvrirez dans ce cours les bases du Deep Learning. Une fois que vous l’aurez terminé, vous serez en mesure de :\n- comprendre les grandes tendances technologiques sur lesquelles repose le Deep Learning ;\n- développer, entraîner et utiliser des réseaux neuronaux profonds entièrement connectés ;\n- mettre en œuvre des réseaux neuronaux efficaces (vectorisés) ;\n- comprendre les principaux paramètres de l’architecture d’un réseau neuronal.\n\nCe cours ne se limitera pas à une description rapide ou superficielle du Deep Learning, mais vous expliquera également son fonctionnement. Une fois que vous l’aurez terminé, vous serez donc en mesure de l’utiliser dans vos propres applications. En outre, si vous recherchez un poste dans l’IA, vous aurez la capacité de répondre à des questions de base posées lors d’entretiens.\n\nIl s’agit du premier cours de la Spécialisation Deep Learning.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/neural-networks-deep-learning-fr",
+  "instructors": [
+    {
+      "name": "Andrew Ng",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Kian Katanforoosh",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Younes Bensouda Mourri",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "DeepLearning.AI"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

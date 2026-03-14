@@ -1,0 +1,26 @@
+{
+  "course_id": "hGzbPtTeEfCbngr_8AODCQ",
+  "platform": "coursera",
+  "title": "AI Code Generation for Everyone",
+  "slug": "ai-code-generation-everyone",
+  "description": "This course introduces learners to the practical use of artificial intelligence for generating and improving computer code across multiple disciplines. Designed for students and professionals from any major, it requires no prior programming or AI experience. Learners explore how AI tools support coding tasks through effective prompt design, hands-on experimentation, and guided examples using Python. The course emphasizes real-world applications, including data analysis, basic web development, and research-oriented data visualization. Participants also learn to critically evaluate AI-generated code, identify limitations and errors, and refine outputs for practical use. By the end of the course, learners will be able to responsibly integrate AI-assisted coding into academic, professional, or creative projects, enhancing efficiency, problem-solving skills, and confidence in working with modern AI technologies.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "7 weeks, 4-6 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/ai-code-generation-everyone",
+  "instructors": [
+    {
+      "name": "Kenneth Wai-Ting Leung",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Hong Kong University of Science and Technology"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

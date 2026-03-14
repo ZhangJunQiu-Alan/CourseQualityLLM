@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754114",
+  "platform": "mooc_cn",
+  "title": "保险学",
+  "description": "兼具理论性与应用性，强调应用性。教学内容设置合理，知识点数目适中。在校学生在课堂理论学习之余，通过在线开放课程的学习，能够理论联系实际，提高自身分析问题与解决问题的能力；社会学习者通过在线学习，即便没有相应的知识储备，也能够在互动环节以及案例式教学中获得保险学中较为实用的知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754114",
+  "instructors": [
+    {
+      "name": "刘妍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京审计大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 32097,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

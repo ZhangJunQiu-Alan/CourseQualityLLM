@@ -1,0 +1,40 @@
+{
+  "course_id": "course-aea1f5c7-bbe1-4ff7-893e-06a4559fd114",
+  "platform": "edx",
+  "title": "The Neuropsychology of Decision Making",
+  "description": "An introductory course to the complex cognitive process that is human decision-making, from a neuropsychological perspective. Covering basic neuroanatomy, neurodevelopment, important structures, chemicals and networks, individual differences in decision-making and decision-making deficits.  \n Students will learn about the anatomical underpinnings of a decision and how this anatomy develops, the physiological and chemical processes involved, the importance of the prefrontal cortex in decision-making, the measurement of decision-making in contemporary research, current understandings of the factors that influence the decisions we make and the role of decision-making in complex psychological and neurological disorders.",
+  "learning_goals": [
+    "Influencing Skills",
+    "Psychology",
+    "Deficits",
+    "Neurology",
+    "Physiology",
+    "Research",
+    "Anatomy",
+    "Decision Making",
+    "Chemical Process"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "stacey-bedwell-4",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Cambridge"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 691,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

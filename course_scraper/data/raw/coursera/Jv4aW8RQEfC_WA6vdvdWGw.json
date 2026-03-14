@@ -1,0 +1,31 @@
+{
+  "course_id": "Jv4aW8RQEfC_WA6vdvdWGw",
+  "platform": "coursera",
+  "title": "Test & Debug Java ML Pipelines",
+  "slug": "test--debug-java-ml-pipelines",
+  "description": "This advanced course guides learners through testing and debugging Java-based ML pipelines using professional-grade tools and CI/CD workflows. You’ll write robust unit and integration tests for core ML components like EntropyCalculator and Normalizer, apply Mockito to mock file I/O, and increase test coverage from 62% to 85%. Learners will trace intermittent pipeline failures, diagnose random seed issues, and implement reproducibility (new Random(42)) to ensure stability across multiple runs. The course concludes with CI-based automation using JUnit, Tribuo, and GitHub Actions, preparing participants for real-world ML testing and DevOps environments.\n\nThis course is for experienced Java developers and ML engineers looking to improve testing, debugging, and CI/CD automation in ML pipelines. It focuses on making pipelines reliable, efficient, and production-ready using tools like JUnit, Mockito, and GitHub Actions. Ideal for those in MLOps, QA, or DevOps roles.\n\nLearners should be proficient in Java and JUnit, with an understanding of ML workflows and CI/CD.\n\nBy the end of this course, you’ll have the practical skills to confidently design, test, and stabilize enterprise-grade ML pipelines in Java. You’ll know how to build reproducible workflows, integrate tests into CI/CD systems, and apply modern debugging strategies to eliminate flakiness and ensure consistency in production environments — preparing you for advanced roles in ML testing, DevOps, and MLOps engineering.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "60 mins",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/test--debug-java-ml-pipelines",
+  "instructors": [
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Parul Wadehra",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

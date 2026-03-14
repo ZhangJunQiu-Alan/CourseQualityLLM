@@ -1,0 +1,31 @@
+{
+  "course_id": "1001656002",
+  "platform": "mooc_cn",
+  "title": "电路分析基础",
+  "description": "电路分析主要研究给定电路的响应及特性，既是为了让人们看懂电路工作的门道，也是为进行电路设计准备必要的电路理论和各种分析方法。它是电气、电子信息类专业的入门课程，也是电气信息类专业的重要的专业基础课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001656002",
+  "instructors": [
+    {
+      "name": "刘陈;陆峰;侯佳;于舒娟;周井泉;屈科;李娟;单剑锋;郑义;谢娜;孙蔚;王秀梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 183583,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

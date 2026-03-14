@@ -1,0 +1,31 @@
+{
+  "course_id": "1471594170",
+  "platform": "mooc_cn",
+  "title": "电力电子技术",
+  "description": "电力电子技术是电气工程及其自动化专业的专业核心课程，是联系强电和弱电技术的纽带，它是由电力学、电子学和控制理论三个学科交叉而成的，已成为现代电气工程与自动化专业不可缺少的一门专业核心课，通过本课程的学习还可以为《电力拖动》等后续课程打好基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471594170",
+  "instructors": [
+    {
+      "name": "李琳琳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "成都理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 314,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

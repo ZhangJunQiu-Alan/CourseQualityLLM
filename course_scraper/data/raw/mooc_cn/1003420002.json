@@ -1,0 +1,31 @@
+{
+  "course_id": "1003420002",
+  "platform": "mooc_cn",
+  "title": "土力学",
+  "description": "土力学是土木、交通、水利、地质工程等专业的重要专业基础课，也是一门实践性很强的工程技术科学。在专业教学过程中起着基础课与专业课桥梁作用，为后续相关专业课程学习提供基本理论基础和解决实际工程问题方法",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003420002",
+  "instructors": [
+    {
+      "name": "郝延周;袁延召;贺瑞霞;杨铭斐",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南城建学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9948,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

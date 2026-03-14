@@ -1,0 +1,26 @@
+{
+  "course_id": "6UC3UdTvEfCbngr_8AODCQ",
+  "platform": "coursera",
+  "title": "Build a C# .NET Rainfall Measurement System",
+  "slug": "build-csharp-dotnet-rainfall-measurement-system",
+  "description": "By the end of this course, learners will be able to design a database-driven desktop application, create a structured Windows Forms user interface, implement event-driven logic, validate user input, and test a complete Rainfall Measurement System using C# and .NET.\n\nThis hands-on course guides learners through the end-to-end development of a real-world Rainfall Measurement System, making it ideal for those who want to move beyond theory and build practical application development skills. Learners begin by understanding the project requirements, designing a robust database, and creating an intuitive user interface. They then progress to implementing core application logic, handling events, validating rainfall data, and managing errors to ensure reliable system behavior.\n\nWhat makes this course unique is its project-centric approach: instead of isolated concepts, learners work on a continuous, realistic system that mirrors industry-style desktop application development. Each stage of the project builds logically on the previous one, reinforcing best practices in planning, design, coding, and testing.\n\nThis course is especially beneficial for students, beginners, and working professionals who want to strengthen their practical C# .NET skills, gain confidence in building complete applications, and add a meaningful project to their development portfolio.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-csharp-dotnet-rainfall-measurement-system",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001862003",
+  "platform": "mooc_cn",
+  "title": "材料力学",
+  "description": "材料力学课程是工科大学生的一门重要的技术基础课，是基础课和专业课的桥梁。它用数学的基本概念、严格的逻辑、和基于实验现象的基本假设研究力学问题。材料力学既是机械原理、机械设计、结构力学、弹性力学等后续课程的基础还能直接应用于机械、建筑、航空航天等领域解决实际问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001862003",
+  "instructors": [
+    {
+      "name": "战宇;刘军;金长宇;李英梅;张凤鹏;康敬天",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48025,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

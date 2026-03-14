@@ -1,0 +1,31 @@
+{
+  "course_id": "1001775007",
+  "platform": "mooc_cn",
+  "title": "工程合同管理",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001775007",
+  "instructors": [
+    {
+      "name": "李启明;邓小鹏;成虎;陆莹;邱闯;黄知斌;袁竞峰;汪金敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 50033,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

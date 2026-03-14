@@ -1,0 +1,31 @@
+{
+  "course_id": "lVrEVwQlEfCPRRJPAkb9OQ",
+  "platform": "coursera",
+  "title": "Coding Algorithms with AI",
+  "slug": "uva-darden-coding-algorithms-with-ai",
+  "description": "In this second course in the ‘Coding with AI for MBAs’ specialization, we’ll continue with a contemporary, AI-forward, product-first approach to coding. As an MBA or generalist, this course will help you go from design to code for ‘Controllers’, or ‘algorithms’. Understanding the process of building and maintaining algorithms with AI will both help you build great products yourself as well as make yourself a better collaborator to your engineering-focused colleagues. We’ll be coding in Javascript (JS), but mostly we’ll be focused on the underlying design and engineering principles for building user interfaces. This course was developed at the Darden School of Business at the University of Virginia and is taught by top-ranked faculty.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 4-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/uva-darden-coding-algorithms-with-ai",
+  "instructors": [
+    {
+      "name": "Alex Cowan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Yael Grushka-Cockayne ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Virginia"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

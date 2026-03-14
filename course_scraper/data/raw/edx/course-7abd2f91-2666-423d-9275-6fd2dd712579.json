@@ -1,0 +1,24 @@
+{
+  "course_id": "course-7abd2f91-2666-423d-9275-6fd2dd712579",
+  "platform": "edx",
+  "title": "Introduction to AI and Machine Learning on Google Cloud",
+  "description": "This course introduces the AI and machine learning (ML) offerings on Google Cloud that build both predictive and generative AI projects. It explores the technologies, products, and tools available throughout the data-to-AI life cycle, encompassing AI foundations, development, and solutions. It aims to help data scientists, AI developers, and ML engineers enhance their skills and knowledge through engaging learning experiences and practical hands-on exercises.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 8-9 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 735,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

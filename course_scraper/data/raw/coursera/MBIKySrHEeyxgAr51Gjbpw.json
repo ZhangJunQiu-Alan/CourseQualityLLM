@@ -1,0 +1,26 @@
+{
+  "course_id": "MBIKySrHEeyxgAr51Gjbpw",
+  "platform": "coursera",
+  "title": "Análisis de datos con programación en R",
+  "slug": "analisis-de-datos-con-programacion-en-r",
+  "description": "Este es el séptimo curso del Certificado de análisis computacional de datos de Google. En estos cursos obtendrás las habilidades necesarias para solicitar empleos de analista de datos de nivel introductorio. En este curso, aprenderás el lenguaje de programación conocido como R. Además, se profundizará en cómo usar RStudio, el entorno que te permite trabajar con R, y se cubrirán temas como las aplicaciones y las herramientas de software que son exclusivas para R, como los paquetes de R. Descubrirás cómo R te brinda más alternativas para limpiar, organizar, analizar, visualizar e informar los datos con mayor eficacia.  Los analistas de datos actuales de Google seguirán dándote instrucciones y te proporcionarán formas prácticas de llevar a cabo las tareas comunes de los analistas de datos con las mejores herramientas y recursos.\n\nLos alumnos que completen este programa de certificados estarán listos para solicitar trabajos de nivel introductorio como analistas de datos. No se requiere experiencia previa.\n\nAl final de este curso, serás capaz de:\n - Analizar los beneficios de usar el lenguaje de programación en R.\n - Descubrir cómo usar RStudio para aplicar R en tus análisis. \n - Explorar los conceptos básicos relacionados con la programación en R. \n - Explorar el contenido y los componentes de los paquetes de R, incluido el paquete Tidyverse.\n - Comprender las tramas de datos y su uso en R.\n - Descubrir las opciones de generación de visualizaciones en R.\n - Aprender sobre R Markdown para documentar la programación en R.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/analisis-de-datos-con-programacion-en-r",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

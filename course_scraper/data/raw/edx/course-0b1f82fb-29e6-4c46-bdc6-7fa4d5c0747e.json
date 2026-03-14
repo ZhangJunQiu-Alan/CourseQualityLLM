@@ -1,0 +1,30 @@
+{
+  "course_id": "course-0b1f82fb-29e6-4c46-bdc6-7fa4d5c0747e",
+  "platform": "edx",
+  "title": "Rust Fundamentals",
+  "description": "From Basics to Mastery  \n \n Comprehensive course for beginners and experienced programmers \n No prior Rust knowledge required - start coding from scratch \n Learn core language concepts, syntax, tooling, best practices \n \n Get a solid foundation in the powerful and efficient Rust programming language: \n \n Rust basics - variables, data types, control flow, ownership rules \n Advanced concepts - structs, enums, traits, lifetimes, concurrency \n Using powerful tools like Rust Analyzer, rustfmt, Cargo \n Test-driven development and debugging techniques \n String manipulation, error handling, modules \n Leverage AI pair programming with GitHub Copilot \n Rust coding best practices for readability and performance \n Build and document your own libraries using Cargo \n Techniques for writing safe, concurrent, and lock-free code \n \n By the end, you'll master Rust to build reliable, high-performance software - whether starting as a total beginner or experienced programmer.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alfredo-deza",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pragmatic AI Labs"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 341,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

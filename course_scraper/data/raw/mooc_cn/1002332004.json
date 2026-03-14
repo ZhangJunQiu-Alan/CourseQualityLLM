@@ -1,0 +1,31 @@
+{
+  "course_id": "1002332004",
+  "platform": "mooc_cn",
+  "title": "高级财务会计",
+  "description": "《高级财务会计》是国家精品在线开放课程暨国家级一流本科课程。特点是每章均为独立的专题，结合会计理论与实务，计划8-9周时间（每周一章，视每章视频长短，每周30分钟至90分钟）完成学习内容。课程适合本科生、研究生、经济管理干部，以及会计专业教师观看与参考。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002332004",
+  "instructors": [
+    {
+      "name": "彭晓洁;李世刚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江西财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 85149,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002751007",
+  "platform": "mooc_cn",
+  "title": "以心交心—跟着大咖做咨询",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002751007",
+  "instructors": [
+    {
+      "name": "姜燕琴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "龙岩学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8461,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

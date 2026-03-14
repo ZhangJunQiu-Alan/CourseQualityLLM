@@ -1,0 +1,54 @@
+{
+  "course_id": "course-1c2ced38-fcbf-4c67-92eb-38f09b81476f",
+  "platform": "edx",
+  "title": "NoSQL Database Basics",
+  "description": "This course will provide you with technical hands-on knowledge of NoSQL databases and Database-as-a-Service (DaaS) offerings. With the advent of Big Data and agile development methodologies, NoSQL databases have gained a lot of relevance in the database landscape. Their main advantage is the ability to effectively handle scalability and flexibility issues raised by modern applications. \n You will start by learning the history and the basics of NoSQL databases and discover their key characteristics and benefits. You will learn about the four categories of NoSQL databases and how they differ from each other. \n You will explore the architecture and features of several different implementations of NoSQL databases, namely MongoDB, Cassandra, and IBM Cloudant. \n Throughout the course you will get practical experience using these NoSQL databases to perform standard database management tasks, such as creating and replicating databases, loading and querying data, modifying database permissions, indexing and aggregating data, and sharding (or partitioning) data. \n The course ends with a hands-on project to test your understanding of some of the basics of working with several NoSQL database offerings.",
+  "learning_goals": [
+    "Management",
+    "NoSQL",
+    "Scalability",
+    "Apache Cassandra",
+    "Database Permissions",
+    "Big Data",
+    "Cloudant",
+    "Data as a Service (DaaS)",
+    "MongoDB",
+    "Database Management",
+    "Agile Methodology",
+    "Relational Databases",
+    "Database as a Service (DBaaS)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ramesh-sannareddy",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "steve-ryan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 324,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

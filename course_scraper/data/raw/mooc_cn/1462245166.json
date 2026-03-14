@@ -1,0 +1,31 @@
+{
+  "course_id": "1462245166",
+  "platform": "mooc_cn",
+  "title": "用Python学人工智能",
+  "description": "本课程是教育部-百度产学合作协同育人项目成果，课程将介绍智能计算机系统设计的基本思想和技术，具体重点将放在使用Python语言实现上述的智能系统。课程中学习的技术适用于各类人工智能问题，并将作为学习者在任何应用领域开展进一步研究的基础。课程要求学习者学习过线性代数、数据结构的相关知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462245166",
+  "instructors": [
+    {
+      "name": "薛景",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14114,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

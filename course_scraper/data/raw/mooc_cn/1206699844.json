@@ -1,0 +1,31 @@
+{
+  "course_id": "1206699844",
+  "platform": "mooc_cn",
+  "title": "高等代数",
+  "description": "《高等代数》是大学数学专业、统计学专业及应用统计学专业的一门学科基础课，也是数学相关专业课程的先修课程。通过对高等代数的学习，学生能较系统地掌握多项式理论和线性代数的初步理论并认识和理解代数学的某些思想和方法，并进一步地提高学生思维能力，加强学生的基础知识、基本理论和基本技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206699844",
+  "instructors": [
+    {
+      "name": "纪爱芹;彭桢;刘琪;郭鹏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "安阳师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30403,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

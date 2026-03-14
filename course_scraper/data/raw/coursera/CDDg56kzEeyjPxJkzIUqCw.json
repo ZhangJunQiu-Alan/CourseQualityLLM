@@ -1,0 +1,26 @@
+{
+  "course_id": "CDDg56kzEeyjPxJkzIUqCw",
+  "platform": "coursera",
+  "title": "Modernizing Applications with Apigee X",
+  "slug": "googlecloud-modernizing-applications-with-apigee-x-wpg2t",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console.\n\nIn this lab, you deploy a backend service on Cloud Run. The backend service implements a REST API for a bank, storing customers, accounts, ATMs, and transactions in a Firestore database. You create a shared flow that retrieves and caches content from an external service. You then call that shared flow from your API proxy, and use JavaScript code to modify an API response.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-modernizing-applications-with-apigee-x-wpg2t",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

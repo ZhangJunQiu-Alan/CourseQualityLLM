@@ -1,0 +1,30 @@
+{
+  "course_id": "course-d3280345-c4fd-4b9e-a2d7-2054b96d8fc4",
+  "platform": "edx",
+  "title": "Machine Learning: Exploratory Data Analysis",
+  "description": "Kickstart your Machine Learning journey with IBM’s introductory course in the IBM Machine Learning Professional Certificate. This course provides a foundational understanding of Machine Learning concepts and highlights the importance of working with clean, high-quality data.  You’ll get hands-on experience retrieving data from multiple sources, including SQL and NoSQL databases, APIs, and cloud platforms.   \n Throughout the course, you’ll learn essential data preparation techniques such as handling missing values, encoding categorical and ordinal features, identifying and managing outliers, and applying feature engineering and selection methods. You’ll also explore various feature scaling techniques and understand why scaling is critical for Machine Learning models.   \n By the end of this course, you’ll be able to prepare datasets for analysis and hypothesis testing, setting the stage for successful Machine Learning projects. This course is ideal for aspiring data scientists and machine learning professionals interested in gaining practical experience in AI, especially for real world applications.   \n To succeed in this course, learners should have experience programming in Python and a basic understanding of calculus, linear algebra, probability, and statistics.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 10-14 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 325,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "DExXWx6TEe-PPwr_wwAp2Q",
+  "platform": "coursera",
+  "title": "Machine Learning for Engineers: Algorithms and Applications",
+  "slug": "machinelearning-for-engineers--algorithmsandapplications",
+  "description": "This course covers practical algorithms and the theory for machine learning from a variety of perspectives. Topics include supervised learning (generative, discriminative learning, parametric, non-parametric learning, deep neural networks, support vector Machines), unsupervised learning (clustering, dimensionality reduction, kernel methods). The course will also discuss recent applications of machine learning, such as computer vision, data mining, natural language processing, speech recognition and robotics. Students will learn the implementation of selected machine learning algorithms via python and PyTorch.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2-5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/machinelearning-for-engineers--algorithmsandapplications",
+  "instructors": [
+    {
+      "name": "Qurat-ul-Ain Azim",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Northeastern University "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

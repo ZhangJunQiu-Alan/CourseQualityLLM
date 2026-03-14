@@ -1,0 +1,31 @@
+{
+  "course_id": "1462063163",
+  "platform": "mooc_cn",
+  "title": "基因工程综合实验",
+  "description": "精要概述实验原理与方法，系统演示操作流程与要点，深入解读实验结果与现象。课程定位于“整体性、系统性与示范性为一体”，围绕“基因”这一主题，阐述与演示靶基因的获取，基因重组与筛选，在宿主中的表达，以及蛋白纯化等实验过程，让学习者熟悉生命科学研究的过程。课程配套有“十一五”国家级规划教材《基因工程实验指导》；高等学校“十四五”生命科学规划新形态教材《基因工程》。此外，还建有《基因工程》MOOC课程相配合。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462063163",
+  "instructors": [
+    {
+      "name": "霍颖异;朱旭芬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12330,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

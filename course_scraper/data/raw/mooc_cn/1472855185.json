@@ -1,0 +1,31 @@
+{
+  "course_id": "1472855185",
+  "platform": "mooc_cn",
+  "title": "有机化学IA（双语）",
+  "description": "北京师范大学化学学院的双语有机化学课程，是一门面向化学、生命科学专业本科生开设的学位基础课程，旨在培养学生扎实的有机化学专业知识以及良好的专业英语运用能力。该课程在有机化学领域的教学中占据重要地位。       课程内容涵盖有机化学（上）中的多个关键章节，从基础的烷、烯、炔、到芳香烃，卤代烃等，对有机化合物的命名规则、物理性质、化学性质进行深入讲解。同时，课程会深入剖析相关的有机反应机理，像亲电取代、亲核取代、加成反应等机理，让学生理解反应过程中化学键的断裂与形成。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472855185",
+  "instructors": [
+    {
+      "name": "刘睿;邢国文;卢忠林",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 97,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

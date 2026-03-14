@@ -1,0 +1,31 @@
+{
+  "course_id": "1002607039",
+  "platform": "mooc_cn",
+  "title": "医学物理学",
+  "description": "本课程主要讲述物理学的基本概念、基本规律、基本方法以及在医学上的应用。教学体系完整，教学资源丰富，课程讲解详实易懂，方便学生自主学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002607039",
+  "instructors": [
+    {
+      "name": "周华;刘凤芹;李永强;于淑云;盖志刚;刘建强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 40703,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

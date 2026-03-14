@@ -1,0 +1,31 @@
+{
+  "course_id": "1205718806",
+  "platform": "mooc_cn",
+  "title": "电网络分析",
+  "description": "您的身边各种电路无处不在，您会好奇它的工作原理和设计实现吗？ 请跟随电网络分析mooc课程，开启电路理论高级篇的学习之旅，体验将理论与工程应用相结合，提升实验方案设计与论证能力。若学期结束，您能实现自己的电路分析程序、设计实验进行期望的研究探索，您一定会为自己的学以致用而深感自豪！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205718806",
+  "instructors": [
+    {
+      "name": "姚缨英",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10977,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "ZCyXYGDgEfC0aBLgb0yDNQ",
+  "platform": "coursera",
+  "title": "Linux Foundation Certified System Administrator (LFCS): Unit 5",
+  "slug": "pearson-linux-foundation-certified-system-administrator-lfcs-complete-vide-igxpr",
+  "description": "This course delves into critical security aspects, from local security enhancements to advanced mandatory access control techniques. Begin by mastering file access control lists and file system attributes to bolster local security. Progress to configuring robust Linux firewalls using tools like firewalld and UFW, ensuring your systems are well-protected against unauthorized access. Finally, gain in-depth knowledge of mandatory access control with AppArmor and SELinux, learning to manage file and port access with precision. Through hands-on labs and real-world scenarios, this course equips you with the practical skills and confidence needed to secure Linux systems comprehensively.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-linux-foundation-certified-system-administrator-lfcs-complete-vide-igxpr",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Sander van Vugt",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

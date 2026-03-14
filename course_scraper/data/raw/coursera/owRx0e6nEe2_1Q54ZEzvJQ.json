@@ -1,0 +1,26 @@
+{
+  "course_id": "owRx0e6nEe2_1Q54ZEzvJQ",
+  "platform": "coursera",
+  "title": "Fundamentals of Blockchain Architecture",
+  "slug": "fundamentals-blockchain-architecture",
+  "description": "This course is ideal for individuals with a basic understanding of digital technology as well as developers or security professionals wishing to expand their blockchain knowledge. It provides a comprehensive introduction to the world of blockchain technology. We will delve into the core principles of blockchain, exploring the critical decision-making processes involved in adopting this innovative technology. This course offers an overview of various blockchain platforms, hosting decisions, associated technologies, and the key development languages used. An important aspect of this course will be the introduction to the concept of consensus mechanisms and their integral role in maintaining the integrity of the blockchain.\n\nBy the end of this course, you will be able to:\n- Describe how blocks are chained together\n- Compare and contrast Pure versus Hybrid blockchains\n- List the blockchain layers and describe what each of them does\n- Describe the difference between on-chain and off-chain data storage\n- Determine the right language and tools based on the blockchain platform and use case\n- Describe the Byzantine Generals Problem\n- Explain the blockchain trilemma\n- Explain how cryptography, consensus, and immutability enhance blockchain security",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 4-8 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/fundamentals-blockchain-architecture",
+  "instructors": [
+    {
+      "name": "LearnQuest Network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LearnQuest"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

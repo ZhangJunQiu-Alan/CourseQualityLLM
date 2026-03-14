@@ -1,0 +1,38 @@
+{
+  "course_id": "course-ca069c90-360c-4ec0-9d60-ae8ff53ce429",
+  "platform": "edx",
+  "title": "Excel for Everyone: Data Analysis Fundamentals",
+  "description": "This advanced Excel course builds on the teachings of Course 1:  Core Foundations  and Course 2:  Data Management . Designed for experienced Excel users, master the techniques needed to draw insights from vast amounts of data. \n Whether you need to process numbers for personal projects or for organizational purposes like sales, inventory, human resources, or IT, knowing how to make sense of data is critical. You will develop in-demand skills to gain a competitive edge and value to your organization, including how to extract actionable organizational intelligence from raw data, and present it in a visual format to help drive organizational decision-making Learn how to get Excel to do the hard work for you with sophisticated automation, spreadsheet design and powerful dashboards.",
+  "learning_goals": [
+    "Data Management",
+    "Organizational Intelligence",
+    "Data Wrangling",
+    "Data Analysis",
+    "Sales",
+    "Decision Making",
+    "Automation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ricardo-rosado-trujeque",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of British Columbia"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1780,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

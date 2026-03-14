@@ -1,0 +1,31 @@
+{
+  "course_id": "1001960018",
+  "platform": "mooc_cn",
+  "title": "模拟电子电路与技术基础",
+  "description": "这是一门研究模拟信号的放大、产生、加工和处理的课程，以“放大”为核心，包括电子器件与电子电路两部分。我们将先介绍运放的基本运用，再介绍半导体知识和分立元件。教学中将突出基本概念与基本分析方法， 理论联系实际，注意应用背景，将知识点串成知识链，努力增强学生解决复杂工程问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001960018",
+  "instructors": [
+    {
+      "name": "路建民;邓军;罗铭;朱天桥;李先锐;孙肖子;赵建勋;王新怀",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 102975,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

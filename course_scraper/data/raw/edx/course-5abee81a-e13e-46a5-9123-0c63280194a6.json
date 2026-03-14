@@ -1,0 +1,34 @@
+{
+  "course_id": "course-5abee81a-e13e-46a5-9123-0c63280194a6",
+  "platform": "edx",
+  "title": "Mathematical and Computational Methods",
+  "description": "Physicists use math all of the time in nearly everything that they work on. Hence, it is critical that you become efficient in being able to use more advanced math to enable you to work on more advanced physics courses. Most of you are currently what I would call a technician at math. You are able to perform the required manipulations to find and simplify answers. But, in many cases, you are missing the deeper understanding to help you interconnect different math topics and for you to be able to apply the relevant math for whatever problem you will face, based on your knowledge of how the different math topics inter-relate. On the other hand, a practitioner is someone who not only is technically adept at performing math calculations, but also have the insight and deeper understanding to know how to recognize what math applies to what problem. They understand how math is interconnected and recognize that math involves a handful of simple ideas that repeat. They are able to re-derive important formulas from basic principles or know precisely where to look them up and use them. \n The goal of this class is to transform you from a math technician to a math practitioner. Mathematicians take this one step further and actually create new math. We will not focus on how to do that at all in this class.",
+  "learning_goals": [
+    "Physics",
+    "Network Switches",
+    "Advanced Mathematics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "18 周，每周 7-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "james-freericks",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Georgetown University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 501,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

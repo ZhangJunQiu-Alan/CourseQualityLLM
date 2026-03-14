@@ -1,0 +1,37 @@
+{
+  "course_id": "course-b10453db-1fdb-45e1-95ea-69cb84152b98",
+  "platform": "edx",
+  "title": "BioStatistics",
+  "description": "In this undergraduate-level biostatistics course, the learners will be introduced to the use of statistics and study designs in biology. Upon successful completion of this course, learners will be able to design experimental, quasi-experimental and observational studies that will meet regulatory guidelines; collect, analyze, and interpret data using appropriate statistical tools. These are skills utilized in bio-statistical research in healthcare as well as other biology related fields. The importance of having these skills is recognized within public health sectors relating to analysis of drug effectiveness and risk factors for different illnesses, effectiveness of heath care interventions as well as helping explain biological phenomena. \n In addition to fulfilling requirements in undergraduate college programs, this undergraduate level course also provides future healthcare professionals with foundational coursework required for successful entry into a health professions graduate program or medical school. This course may also spark further interest for the learner towards a more advanced degree in biostatistics. The field of biostatistics provides an increasing opportunity for employment. According to the United States Bureau of Labor Statistics, this field will experience a 14% employment growth between 2010 and 2020.",
+  "learning_goals": [
+    "Biology",
+    "Public Health",
+    "Academic Integrity",
+    "Apache Spark",
+    "Auditing",
+    "Biostatistics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "michael-kangas",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Doane University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 502,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

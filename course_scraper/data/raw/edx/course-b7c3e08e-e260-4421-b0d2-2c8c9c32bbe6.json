@@ -1,0 +1,30 @@
+{
+  "course_id": "course-b7c3e08e-e260-4421-b0d2-2c8c9c32bbe6",
+  "platform": "edx",
+  "title": "Mastering Generative AI: LLM Architecture & Data Preparation",
+  "description": "The demand for gen AI is forecast to grow over 46% annually by 2030 (Source: Statista). AI engineers and developers, data scientists, machine learning engineers, and other AI professionals with gen AI skills are highly sought-after. This course builds in-demand skills in large language model (LLM) architecture and data preparation employers are looking for.  \n During the course, you’ll learn about real-world applications using generative AI. You’ll gain insights into gen AI architectures and models, such as recurrent neural networks (RNNs), transformers, generative adversarial networks (GANs), variational autoencoders (VAEs), and diffusion models. You’ll use different training approaches for each model. Plus, you’ll explore LLMs such as generative pre-trained transformers (GPT) and bidirectional encoder representations from transformers (BERT).  \n Additionally, you’ll gain a detailed understanding of the tokenization process, tokenization methods, and the use of tokenizers for word-based, character-based, and subword-based tokenization. You’ll get hands-on experience using data loaders for training generative AI models, using PyTorch libraries, and generative AI libraries in Hugging Face. Plus, you’ll implement tokenization and create an NLP data loader.  \n If you’re looking to master gen AI LLM architecture and data preparation, ENROLL TODAY and get ready to power up your resume with skills employers need!  \n Prerequisites: To enroll for this course, a basic knowledge of Python and PyTorch and an awareness of machine learning and neural networks would be an advantage, though not strictly required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "2 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 527,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

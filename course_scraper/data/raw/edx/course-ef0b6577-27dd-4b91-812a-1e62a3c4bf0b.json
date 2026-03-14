@@ -1,0 +1,37 @@
+{
+  "course_id": "course-ef0b6577-27dd-4b91-812a-1e62a3c4bf0b",
+  "platform": "edx",
+  "title": "Introduction to Very Large-Scale Integration Design",
+  "description": "Integrated circuits (ICs) are at the heart of every electronic device we use today, from smartphones to spacecraft. But how are these tiny, powerful systems created? \n Introduction to VLSI provides a comprehensive beginner-friendly look into the world of Very Large-Scale Integration (VLSI). You’ll follow the entire chip design journey, starting with silicon purification and wafer creation, through to digital logic, chip packaging, and modern industry tools. \n Explore the historical evolution of computing hardware, from vacuum tubes to transistors and Moore’s Law. Learn how modern chips are developed using Electronic Design Automation (EDA) tools, and discover how technologies like ASICs, FPGAs, CMOS, and MOSFETs power our digital lives. \n Through engaging videos and clearly explained technical concepts, you’ll gain confidence with essential terminology such as ASICs, FPGAs, HDL, RTL, CMOS, MOSFETs, and GDSII files, and understand their real-world applications. \n The course breaks down complex topics into intuitive, engaging explanations with real-world context. Whether you’re a student, engineer, or tech enthusiast, this course opens the gateway to chip design and the future of electronics.",
+  "learning_goals": [
+    "Packaging And Labeling",
+    "Smartphone Operation",
+    "Complementary Metal Oxide Semiconductor (CMOS)",
+    "Transistor",
+    "Digital Logic",
+    "Spacecraft",
+    "Field-Programmable Gate Array (FPGA)",
+    "Electronic Design Automation",
+    "Enterprise Desktop Administrator (Microsoft Certified IT Professional)",
+    "Hardware Description Language (HDL)",
+    "Very-Large-Scale Integration",
+    "Vacuum Tube"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "King's College London"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 829,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

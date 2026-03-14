@@ -1,0 +1,31 @@
+{
+  "course_id": "20011",
+  "platform": "mooc_cn",
+  "title": "中国文化概论",
+  "description": "研习中国文化有如饮甘品茗：您将品尝哲学文化之睿智，政治文化之深遂，学术文化之渊博，审美文化之典雅，民俗文化之鲜活，科技文化之厚重和器物文化之琳琅满目。现代慕课与传统文化之间有着巨大的阐释空间：您将体悟中国文化的精神魅力，并最终获取人格自塑之营养，人生旅途之智慧和心灵栖居之绿洲。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/20011",
+  "instructors": [
+    {
+      "name": "李建中",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 285548,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

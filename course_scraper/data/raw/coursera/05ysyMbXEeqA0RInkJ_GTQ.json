@@ -1,0 +1,26 @@
+{
+  "course_id": "05ysyMbXEeqA0RInkJ_GTQ",
+  "platform": "coursera",
+  "title": "Complex Retrieval Queries in MySQL Workbench",
+  "slug": "complex-retrieval-queries-in-mysql-workbench",
+  "description": "In this intermediate-level course you will use MySQL Workbench to expand your basic SQL query-writing skills with more complex examples and activities. In hands-on activities in MySQL Workbench, you will write and execute SQL queries that retrieve data from multiple tables. In addition, you will generate queries that summarize data and perform calculations. Nested queries and SQL scripting rounds out the course content. While the course concentrates on query writing, you also get a taste of the problem-solving and data analysis efforts required for complex query construction and query results verification.\n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "80 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/complex-retrieval-queries-in-mysql-workbench",
+  "instructors": [
+    {
+      "name": "Judy Richardson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

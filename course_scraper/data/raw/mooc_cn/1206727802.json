@@ -1,0 +1,31 @@
+{
+  "course_id": "1206727802",
+  "platform": "mooc_cn",
+  "title": "现代工程图学",
+  "description": "现代工程图学课程以图形表意为核心，以形象思维为主线，培养学生掌握投影理论、实现用二维图形表达三维形体的能力、徒手绘图和尺规绘图的能力；初步具备计算机二维绘图和三维形体表达能力；能够阅读和绘制本专业工程图样，具有工程意识、标准化意识和严谨认真的学习工作态度，为后续工科类课程的学习奠定基础。同时，在教学中融入思政元素，基于工程需求导向，培养具有良好品格、丰富知识，以及面向现在和未来工程能力的，全方位、高素质、可持续发展的新工科人才。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206727802",
+  "instructors": [
+    {
+      "name": "田辉;黄会男;刘晓潺;何玉静;商俊娟;刘诗语;郑华楠;邵龙;肖亚涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9670,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

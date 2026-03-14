@@ -1,0 +1,26 @@
+{
+  "course_id": "Ti18553pEfCxKQr_6-7kQw",
+  "platform": "coursera",
+  "title": "Big Data with Hadoop: Apply MapReduce, Pig & Hive",
+  "slug": "big-data-hadoop-apply-mapreduce-pig-hive",
+  "description": "By the end of this course, learners will be able to analyze real-world sensor datasets, preprocess JSON files, apply Hadoop MapReduce operations, implement data flows with Apache Pig, and execute SQL-like queries using Apache Hive. They will also interpret insights on demographics, income, and social indicators to support evidence-based decision-making.\n\nThis hands-on project-based course equips learners with the essential Big Data skills required to process and analyze large-scale sensor data. Unlike theoretical introductions, it focuses on live project scenarios where learners design workflows, troubleshoot errors, and generate meaningful outcomes. Through case studies such as gender ratios, income tax predictions, and child labor analysis, learners understand how analytics can directly inform strategic and policy decisions.\n\nWhat makes this course unique is its integrated approach—learners gain practical exposure to MapReduce, Pig, and Hive in a single structured project. This ensures that participants not only master the technical tools but also develop the ability to transform raw data into actionable insights that drive real-world impact.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/big-data-hadoop-apply-mapreduce-pig-hive",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

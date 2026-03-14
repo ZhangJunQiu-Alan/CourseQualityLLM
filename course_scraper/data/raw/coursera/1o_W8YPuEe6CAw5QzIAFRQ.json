@@ -1,0 +1,26 @@
+{
+  "course_id": "1o_W8YPuEe6CAw5QzIAFRQ",
+  "platform": "coursera",
+  "title": "Fundamentals of Red Hat Enterprise Linux",
+  "slug": "fundamentals-of-red-hat-enterprise-linux-9",
+  "description": "This course will provide you with a basic introduction to Linux® skills using Red Hat® Enterprise Linux 9. It will show you how a Linux system is organized and will demonstrate introductory system administration tasks.\n\nThe course highlights the significance of Linux and the open source development framework in the current IT landscape. Linux systems are omnipresent, powering the internet, retail point-of-sale setups, global stock exchanges, and more. You'll find Linux at the heart of smart TVs, airplane entertainment setups, and the majority of leading supercomputers worldwide.\n\nLearning Linux offers numerous advantages. In the IT sector, proficiency in Linux is highly sought after. Whether you're an app developer, working with cloud-based solutions, engaged in mobile or edge computing projects, or dealing with Windows systems requiring Linux interoperability, Linux knowledge is crucial.\n\nUpon completing this course, participants will have a foundational understanding of operating Linux through the command line, with Red Hat Enterprise Linux 9 serving as the basis. These skills are vital for carrying out basic operational tasks, whether on a local Linux machine or a remote system accessed via the Internet.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "7 weeks of study, 1-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/fundamentals-of-red-hat-enterprise-linux-9",
+  "instructors": [
+    {
+      "name": "Red Hat Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Red Hat"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

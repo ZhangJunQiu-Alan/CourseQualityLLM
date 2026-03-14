@@ -1,0 +1,31 @@
+{
+  "course_id": "1001796013",
+  "platform": "mooc_cn",
+  "title": "计算机组成原理",
+  "description": "理论性强、内容多、难度大是同学们在学习《计算机组成原理》过程中常会反映的问题，在此，课程主讲教师将会把自己对于课程学习的相关经验与同学们分享，教会您如何将您所学的课程与课程之间、程序和算法之间、软件和硬件之间、程序和存储器之间等内容相互关联起来，使您的学习融会贯通、游刃有余！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001796013",
+  "instructors": [
+    {
+      "name": "王辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41786,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

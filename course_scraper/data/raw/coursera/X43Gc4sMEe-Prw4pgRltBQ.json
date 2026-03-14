@@ -1,0 +1,26 @@
+{
+  "course_id": "X43Gc4sMEe-Prw4pgRltBQ",
+  "platform": "coursera",
+  "title": "Responsive Design in Bootstrap: Create a Blog Homepage",
+  "slug": "responsive-design-in-bootstrap-create-a-blog-homepage",
+  "description": "In this 2-hour project, you will gain the skills to design and build responsive web pages using Bootstrap's grid system by mastering the process of translating design requirements and mockups into functional and visually appealing layouts. By the end of this project, you will be able to create web pages that adapt seamlessly to various devices and screen sizes.\n\nThe skills taught in this intermediate-level project will help web developers and designers in a wide range of real-world scenarios such as designing websites for magazines, news, and similar types of content.\n\nThroughout this project, you will apply bootstrap techniques to build a responsive blog home page using Bootstrap by effectively analyzing design requirements and mockups and utilizing Bootstrap's grid system to construct responsive layouts, and adapt page layouts to different screen sizes and devices. \n\nTo succeed in this project, you need to be familiar with HTML5 page structure and core components (div, buttons,  etc.). Some CSS3 knowledge could be helpful, but it is not required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/responsive-design-in-bootstrap-create-a-blog-homepage",
+  "instructors": [
+    {
+      "name": "Mohammed Al-Mousa",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

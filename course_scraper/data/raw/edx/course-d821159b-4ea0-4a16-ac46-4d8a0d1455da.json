@@ -1,0 +1,50 @@
+{
+  "course_id": "course-d821159b-4ea0-4a16-ac46-4d8a0d1455da",
+  "platform": "edx",
+  "title": "Embedded Systems Essentials with Arm: Get Practical with Hardware",
+  "description": "Embedded systems are the fundamental building blocks of our connected world, and Arm-based devices are the industry standard. This course will provide you with the practical skills and confidence to build your own embedded system using the popular and affordable  ST Nucleo F401RE  development board. \n You can purchase all the bill of materials required for the course directly from our technology partner STMicroelectronics:  https://www.st.com/content/st_com/en/campaigns/educationalplatforms/embedded-arm-edx-edu.html  \n Connected home appliances, biomedical devices, autonomous vehicles and IoT applications all rely on real-time operating systems (RTOS) to manage multiple digital and analog inputs, and efficient communication protocols to handle the transfer of data between peripherals and a microcontroller. By enrolling in  Embedded Systems Essentials with Arm: Get Practical with Hardware  , you will discover why these are powerful tools for any aspiring Embedded Systems designer. \n You’ll begin by obtaining an understanding of the basic principles of serial data communication and learn how to implement synchronous and asynchronous serial links on the  ST Nucleo F401RE  board. You’ll then be introduced to the powerful multitasking capabilities of RTOS. Using this new-found knowledge, you'll discover how to manage microcontroller peripherals in a concurrent manner, utilizing threads and other RTOS capabilities. \n Along the way, you'll get access to practical lab exercises using the  ST Nucleo F401RE  board  ,  so you can obtain real-world experience in implementing these key concepts on an Arm-based microcontroller. \n This is the 2nd course in our Embedded Systems Essentials Program. The 1st course –  Embedded Systems Essentials: Getting Started  – focuses on using a simulated microcontroller using the Mbed API. In this second course, you’ll get hands-on experience working with a development board building embedded systems applications, and it can be taken independently of the first. \n As we continue to create increasingly complex IoT applications, driven by the advances of Artificial Intelligence and 5G, the next generation of developers will need to have a practical understanding of these processes on Arm-based microcontrollers. Upon completion of this course, you will have taken your next step into the exciting future of computing.",
+  "learning_goals": [
+    "Creativity",
+    "Real-Time Operating Systems",
+    "Application Programming Interface (API)",
+    "Bill Of Materials",
+    "Artificial Intelligence",
+    "Communications Protocols",
+    "5G Technology",
+    "Internet Of Things (IoT)",
+    "Peripheral Devices",
+    "Asynchronous Serial Communication",
+    "Data Transmissions",
+    "Multitasking",
+    "Autonomous Vehicles",
+    "Embedded Systems"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "tim-wilmshurst",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mark-allen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Arm Education"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 846,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

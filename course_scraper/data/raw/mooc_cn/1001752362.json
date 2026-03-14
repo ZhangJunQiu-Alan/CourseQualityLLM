@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752362",
+  "platform": "mooc_cn",
+  "title": "预备性物理实验",
+  "description": "预备性物理实验课程作为中学与大学物理知识学习的桥梁，选取了部分中学物理基础上的既经典又有趣的实验，以加深并提高学生对一些基本概念和原理的认识、理解；同时，课程配有在线的虚拟仿真实验，可帮助学生练习基本仪器的操作使用，了解通用的实验方法，从而促进后续大学物理实验课程的学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752362",
+  "instructors": [
+    {
+      "name": "戴玉蓉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14917,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

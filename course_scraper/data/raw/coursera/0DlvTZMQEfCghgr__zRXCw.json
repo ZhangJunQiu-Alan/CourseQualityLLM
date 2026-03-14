@@ -1,0 +1,26 @@
+{
+  "course_id": "0DlvTZMQEfCghgr__zRXCw",
+  "platform": "coursera",
+  "title": "Python Foundations for Data Handling",
+  "slug": "packt-python-foundations-for-data-handling-vgsii",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you will explore the foundations of Python, focusing on key data handling techniques essential for real-world applications. By learning how to work with Python’s powerful libraries, you will become proficient in handling, manipulating, and visualizing data. You will gain a deep understanding of Python data structures, including lists, dictionaries, and strings, and how to apply them in data-related tasks.\n\nThe course is structured to start with the basics, introducing Python strings and methods before moving into more advanced topics like data structures and object manipulation. You will get hands-on experience with data operations in Python, including insertion, deletion, and slicing, followed by quizzes to reinforce the concepts learned. Throughout the course, you will practice problem-solving techniques and explore abstract concepts that enhance your ability to work with complex data structures in Python.\n\nThis course is ideal for beginners in Python programming who are interested in data analysis and handling. No prior programming experience is required, but a basic understanding of mathematics and logic will be helpful. The difficulty level is beginner, making it accessible to anyone new to programming or Python.\n\nBy the end of the course, you will be able to manipulate and handle data structures efficiently, apply string operations, and utilize Python libraries to create data visualizations. You will also gain the ability to solve complex data handling problems using Python.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-python-foundations-for-data-handling-vgsii",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

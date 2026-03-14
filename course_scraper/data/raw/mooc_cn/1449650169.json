@@ -1,0 +1,31 @@
+{
+  "course_id": "1449650169",
+  "platform": "mooc_cn",
+  "title": "半导体物理与器件",
+  "description": "生活中半导体产品无处不在，手机、电脑、汽车等智能设备和虚拟产品的核心就是半导体器件，太阳能光伏发电、光催化、热电器件等能源领域中也离不开半导体，它是电子工业的核心，是人类现代科技发展最重要的原动力。我们将用通俗化、生活化和图像化的形式为你呈现半导体的相关知识，让你了解半导体学科的发展历程、知识的逻辑体系，以及半导体对人类科技生活的推动作用，期待你的加入！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449650169",
+  "instructors": [
+    {
+      "name": "况亚伟;张德宝;洪学鹍;张静",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10107,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

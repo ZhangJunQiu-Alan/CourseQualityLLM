@@ -1,0 +1,26 @@
+{
+  "course_id": "fJCXLJkeEeml5wpuotDEDA",
+  "platform": "coursera",
+  "title": "Introduction to Deep Learning & Neural Networks with Keras",
+  "slug": "introduction-to-deep-learning-with-keras",
+  "description": "This course introduces deep learning and neural networks with the Keras library. In this course, you’ll be equipped with foundational knowledge and practical skills to build and evaluate deep learning models.  \n\nYou’ll begin this course by gaining foundational knowledge of neural networks, including forward and backpropagation, gradient descent, and activation functions. You will explore the challenges of deep network training,  such as the vanishing gradient problem, and learn how to overcome them using techniques like careful activation function selection. \n\nThe hands-on labs in this course allow you to build regression and classification models, dive into advanced architectures, such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), transformers, and autoencoders, and utilize pretrained models for enhanced performance. The course culminates in a final project where you’ll apply what you’ve learned to create a model that classifies images and generates captions. \n\nBy the end of the course, you’ll be able to design, implement, and evaluate a variety of deep learning models and be prepared to take your next steps in the field of machine learning.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 - 3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-deep-learning-with-keras",
+  "instructors": [
+    {
+      "name": "Alex Aklson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

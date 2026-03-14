@@ -1,0 +1,41 @@
+{
+  "course_id": "course-7ef41442-5fa3-42f3-b338-126ae68a8e2c",
+  "platform": "edx",
+  "title": "C Programming: Language Foundations",
+  "description": "Inthis course, part of the C Programming with Linux Professional Certificate program,you will learn to use logical statements and arrays in C. Logical statements are used for decision-making with follow-up instructions, based on conditions you define. Arrays are used to store, keep track of, and organize larger amounts of data. You will furthermore implement some fundamental algorithms to search and sort data. \r\n Within moments of this course, you will be coding hands-on in a new browser tool developed specifically for this course, receiving instant feedback on your code. No need to install anything! \r\n Why learn C? Not only is it one of the most stable and popular programming languages in the world, it's also used to power almost all electronic devices. The C programming language represents one of the building blocks of modern computer information technology. \r\n By the end of this course, you will have gained experience with programming concepts that are foundational to any programming language and be one step closer to a career in computer engineering. \r\n This course has received financial support from the Patrick &amp; Lina Drahi Foundation.",
+  "learning_goals": [
+    "Linux",
+    "Decision Making",
+    "C (Programming Language)",
+    "Programming Concepts",
+    "Algorithms"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "petra-bonfert-taylor",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "remi-sharrock",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dartmouth College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 817,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

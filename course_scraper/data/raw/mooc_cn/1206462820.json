@@ -1,0 +1,31 @@
+{
+  "course_id": "1206462820",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "“线性代数”是最有趣、最有价值的大学数学课程之一。以行列式、矩阵、向量为工具，主要研究向量空间中向量间的线性关系、空间的线性结构和向量空间之间的线性映射。具有实用性、抽象性和高度思辨性的特点，为其他课程和应用领域提供了处理多元问题的工具、思想和方法。内容丰富，讲解精到，教学得法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206462820",
+  "instructors": [
+    {
+      "name": "李杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江西财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16274,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

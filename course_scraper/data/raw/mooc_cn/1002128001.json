@@ -1,0 +1,31 @@
+{
+  "course_id": "1002128001",
+  "platform": "mooc_cn",
+  "title": "交通规划",
+  "description": "本课程是交通工程专业的基础课程，涉及规划资料收集，规划模型，规划方案研究，实施规划所需政策、管理等多方面技能。通过本课程的学习，使学生学会应用系统工程理论，从综合的角度分析问题，提供解决交通规划问题的途径与方法，为以后解决实际问题打下必要的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002128001",
+  "instructors": [
+    {
+      "name": "王元庆",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长安大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20615,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

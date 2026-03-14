@@ -1,0 +1,31 @@
+{
+  "course_id": "1002145003",
+  "platform": "mooc_cn",
+  "title": "ACCA财务管理F9",
+  "description": "《ACCA 财务管理F9 》课程系国家精品在线开放课程、国家级一流本科课程、国家级双语教学示范课，由西安交通大学管理学院副院长，博士生导师田高良教授主讲。田教授是全国会计领军人才，财政部全国会计名家，财政部管理会计咨询专家；教育部高校会计学专业教指委委员，陕西高校工商管理教指导委主任委员；全国首届ACCA十佳教师，陕西教学名师。发表论文180余篇，主持项目60余项，获省部级奖10余项。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002145003",
+  "instructors": [
+    {
+      "name": "田高良",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 47946,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

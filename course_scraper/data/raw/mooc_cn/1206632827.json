@@ -1,0 +1,31 @@
+{
+  "course_id": "1206632827",
+  "platform": "mooc_cn",
+  "title": "电路原理",
+  "description": "电路原理是电类各专业最重要的一门学科基础课，后续专业基础课和专业课都建立在这门课程的知识体系之上，是电类专业本科生的主干课程之一，对加强、拓宽学生的基础知识，培养学生的创新思维起着举足轻重的作用，为学习后续课程奠定必要的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206632827",
+  "instructors": [
+    {
+      "name": "展爱云",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17603,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

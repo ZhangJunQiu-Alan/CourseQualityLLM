@@ -1,0 +1,31 @@
+{
+  "course_id": "1003637001",
+  "platform": "mooc_cn",
+  "title": "土力学",
+  "description": "首批国家级一流本科课程，智慧课程。土力学在线课程知识点清晰、讲述清楚、图文并茂、理论与实践并重。每章均设计思维导图和小结，便于学习者全面了解学习思路、重点难点；每章均附中英文专业词汇和拓展资料，巩固和提高所学知识；每章设有章测和作业题，使学习练习相结合。配套教材为廖红建教授主编高教出版社数字资源与纸质一体化教材。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003637001",
+  "instructors": [
+    {
+      "name": "廖红建;钱春宇;宁春明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 66475,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

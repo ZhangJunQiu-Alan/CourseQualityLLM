@@ -1,0 +1,40 @@
+{
+  "course_id": "course-1fbc172c-10b4-4f15-aaa0-63c53fa7e4c2",
+  "platform": "edx",
+  "title": "Computer Architecture Essentials on Arm",
+  "description": "Whether you’re downloading an app, streaming a video, or clicking a mouse, modern microprocessors are the engines powering your digital life. Arm’s 30-year-plus history of designing energy and power-efficient microprocessors helped fuel the smartphone revolution, and today from the tiniest sensors to the world's most powerful supercomputers, Arm is building the future of computing. \n This course will provide you with a deep understanding of the architecture of modern microprocessors. We'll start your learning journey by covering the basics of computer architecture, such as definitions and a description of key components of a microprocessor. \n We'll then take a deep dive into important computer architectural concepts and processes. For example, you'll learn how pipelining, branch handling and cache memories can improve the performance of a single-cycle microprocessor. We'll then introduce you to the world of superscalar processors, and how to maximise performance using out-of-order instructions. \n Our lab exercises will bring to life the theory discussed in the course through a range of simulation tools. \n Along the way, we'll provide you with insights from key engineers at Arm, illustrating how and why certain design choices were made so you’ll have the real-world context behind these pivotal architectural decisions. \n With over 250 billion Arm-based chips deployed by our vast ecosystem of partners, Arm technology is present wherever computing happens. Be a part of this thriving community and enrol in Computer Architecture Essentials on Arm today. \n  This course is aimed at learners who have a basic understanding of computer organisation and programming languages. If you are completely new to the world of microprocessors, we suggest you take our  Introduction to Microprocessors  course on edX.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "robert-mullins",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "timothy-m-jones",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alex-w-chadwick",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Arm Education"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1563,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

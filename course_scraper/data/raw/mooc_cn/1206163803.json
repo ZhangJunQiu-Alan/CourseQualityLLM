@@ -1,0 +1,31 @@
+{
+  "course_id": "1206163803",
+  "platform": "mooc_cn",
+  "title": "电路理论",
+  "description": "《电路理论》是上海交通大学电气信息类本科生的第一门专业基础课，是研究生入学考试科目，经过几代人数十年辛勤耕耘，成果显著，特色明显，为宽口径、大类人才培养发挥了重要作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206163803",
+  "instructors": [
+    {
+      "name": "乔树通;张峰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10620,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

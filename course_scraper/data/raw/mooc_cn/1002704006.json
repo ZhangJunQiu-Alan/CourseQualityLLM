@@ -1,0 +1,31 @@
+{
+  "course_id": "1002704006",
+  "platform": "mooc_cn",
+  "title": "大学中庸精读",
+  "description": "四书五经是儒学的核心典籍。作为其中篇幅最短，但意蕴丰富的《大学》和《中庸》，在中国传统文化中占有特殊的地位。这两本书体现了先秦儒学清新刚健的风格，是儒学中的精华。有着重大的现实价值和积极意义。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002704006",
+  "instructors": [
+    {
+      "name": "刘丹忱",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国政法大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56468,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

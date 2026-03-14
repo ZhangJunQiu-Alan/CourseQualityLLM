@@ -1,0 +1,26 @@
+{
+  "course_id": "cy7U01QVEe-mywr_6bZvLw",
+  "platform": "coursera",
+  "title": "Responsible AI for Developers: Privacy & Safety - 繁體中文",
+  "slug": "responsible-ai-for-developers-privacy-and-safety-zhtw",
+  "description": "本課程涵蓋「AI 隱私權」和「AI 安全性」這兩個重要主題。我們將介紹實用的方法和工具，協助您運用 Google Cloud 產品和開放原始碼工具，導入 AI 隱私權和安全性的建議做法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "zh-TW",
+  "url": "https://www.coursera.org/learn/responsible-ai-for-developers-privacy-and-safety-zhtw",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

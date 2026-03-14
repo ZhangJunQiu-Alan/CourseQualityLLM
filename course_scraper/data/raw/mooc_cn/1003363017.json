@@ -1,0 +1,31 @@
+{
+  "course_id": "1003363017",
+  "platform": "mooc_cn",
+  "title": "自动控制原理",
+  "description": "掌握要点，自动控制原理并不难学。本课程特点是循序渐进，条理清晰，物理概念清楚，作为初学者入门最合适不过。课程讲授注重基本概念，某些严格的数学过程被简化，或者只是进行了直观的解释，避免复杂的推导妨害学生对于控制理论本质的理解，目标是培养学生构造和分析系统模型的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003363017",
+  "instructors": [
+    {
+      "name": "程卫东;吴斌;延皓;沈海阔;董立静;李建勇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14805,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

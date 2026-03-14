@@ -1,0 +1,26 @@
+{
+  "course_id": "Kg0TdbnEEeq_mBJ2X_xKHQ",
+  "platform": "coursera",
+  "title": "NLP: Twitter Sentiment Analysis",
+  "slug": "twitter-sentiment-analysis",
+  "description": "In this hands-on project, we will train a Naive Bayes classifier to predict sentiment from thousands of Twitter tweets. This project could be practically used by any company with social media presence to automatically predict customer's sentiment (i.e.: whether their customers are happy or not). The process could be done automatically without having humans manually review thousands of tweets and customer reviews. \n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/twitter-sentiment-analysis",
+  "instructors": [
+    {
+      "name": "Ryan Ahmed",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

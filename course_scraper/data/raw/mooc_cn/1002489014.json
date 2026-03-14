@@ -1,0 +1,31 @@
+{
+  "course_id": "1002489014",
+  "platform": "mooc_cn",
+  "title": "会计学",
+  "description": "随着全球经济和资本市场融合的不断加深，会计作为国际通用商业语言的基础性作用更加凸显。本课程是面向经济管理类等专业学员开设的免费网络公开课程，是国家级精品课程、首批国家级资源共享课程、首批国家一流课程和浙江省首批课程思政示范课程。主要培养学生阅读、理解和使用会计信息的能力，具有分析企业主要经济业务的发生对财务报表影响的能力，拓宽提高企业经济效益的视野，养成诚信守法、求真审慎的职业价值观，培养知经济、会管理、懂会计、有担当的新时代复合型经济管理人才。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002489014",
+  "instructors": [
+    {
+      "name": "罗金明;胡霞;裘益政;严由亮;韩亚东;符大海;苏芝;李思昊;傅国添;黄霖华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江工商大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 123231,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

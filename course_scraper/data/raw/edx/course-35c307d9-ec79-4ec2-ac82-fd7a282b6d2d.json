@@ -1,0 +1,55 @@
+{
+  "course_id": "course-35c307d9-ec79-4ec2-ac82-fd7a282b6d2d",
+  "platform": "edx",
+  "title": "AI Technology for Marketing Optimization",
+  "description": "In this course on AI technologies for digital marketing, learners will explore the fundamental principles and applications of predictive analytics, real-time optimization, natural language processing (NLP), and neural networks. Learners will understand the technologies that allow them to make informed decisions, optimize marketing campaigns dynamically, personalize customer interactions, and perform segmentation in digital marketing. \n From market research to copywriting, email personalization, and social media scheduling, learners will explore cutting-edge methods powered by AI. The course emphasizes strategic selection and integration of AI tools to maximize impact in digital marketing. By this course's end, participants will be equipped to implement innovative AI-driven solutions across marketing functions, driving superior customer engagement and conversion rates. \n Whether you're a seasoned marketer or new to the field, this course provides valuable insights and practical techniques to succeed in today's competitive landscape. Join us and unlock the full potential of AI for driving impactful marketing campaigns and achieving superior business outcomes.",
+  "learning_goals": [
+    "Customer Engagement",
+    "Copywriting",
+    "Social Media",
+    "Predictive Analytics",
+    "Marketing Optimization",
+    "Market Research",
+    "Artificial Intelligence",
+    "Digital Marketing",
+    "Natural Language Processing",
+    "Artificial Neural Networks",
+    "Marketing",
+    "Innovation",
+    "Social Media Strategy",
+    "Scheduling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "miguel-a-morales-chan-ph-d",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rocael-hernandez-rizzardini-ph-d",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "vanessa-ai-3",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Davidson College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 546,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

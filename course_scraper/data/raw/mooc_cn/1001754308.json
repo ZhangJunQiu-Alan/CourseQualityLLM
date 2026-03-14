@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754308",
+  "platform": "mooc_cn",
+  "title": "路由交换技术与应用",
+  "description": "随着通信技术与计算机技术的发展，互联网应用创新迅猛推进，改变着人们工作、生活方式。那么网络究竟是什么样子的呢？人们在网上聊天、购物、email发送、在线视频观看等等活动的数据究竟是怎样在网上传输的？你想知道怎么组建一个网络吗？欢迎你加入我们的学习中，找到这些问题的答案！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754308",
+  "instructors": [
+    {
+      "name": "史红彦;张悦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏电子信息职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24394,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

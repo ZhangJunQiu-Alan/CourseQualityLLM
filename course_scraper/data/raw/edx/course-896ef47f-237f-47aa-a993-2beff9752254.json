@@ -1,0 +1,41 @@
+{
+  "course_id": "course-896ef47f-237f-47aa-a993-2beff9752254",
+  "platform": "edx",
+  "title": "Technology Entrepreneurship: Lab to Market",
+  "description": "Universities, government labs, and private companies invest billions of dollars in the research and development of breakthrough technologies that have the potential to transform industries and lives — but very few of these technologies ever leave the lab. Those that do often fail to find compelling market applications. So what determines success? How does an invention become an enduring innovation?  \n In this introductory course, developed in collaboration with the Laboratory for Innovation Science at Harvard and the University of California San Diego, you’ll explore how entrepreneurs match promising technology with customer needs to launch successful new businesses. Using real-world examples, you’ll apply critical thinking to commercialize technologies, and you’ll learn about the venture creation process from founders, funders, and industry experts.  \n Join us to learn a systematic process for technology commercialization to bring cutting-edge innovations out of the lab and into the world.",
+  "learning_goals": [
+    "Critical Thinking",
+    "Innovation",
+    "Research And Development",
+    "Technology Entrepreneurship",
+    "Commercialization"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "karim-lakhani",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "vish-krishnan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2328,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

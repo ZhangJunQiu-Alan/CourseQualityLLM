@@ -1,0 +1,50 @@
+{
+  "course_id": "course-50f33f6f-be42-43d2-9ccc-d5c5aedbf4fd",
+  "platform": "edx",
+  "title": "Six Sigma Part 2: Analyze, Improve, Control",
+  "description": "Building on the concepts from the first course in the Six Sigma Program, Define and Measure, in this course, you will learn how to statistically analyze data with the Six Sigma methodology using inferential statistical techniques to determine confidence intervals and to test hypotheses based on sample data. You will also review cause and effect techniques for root cause analysis. \n You will learn how to perform correlation and regression analyses in order to confirm the root cause and understand how to improve your process and plan designed experiments. \n You will learn how to implement statistical process control using control charts and quality management tools, including the 8 Disciplines and the 5 Whys to reduce risk and manage process deviations. \n To complement the lectures, learners are provided with interactive exercises, which allow learners to see the statistics \"in action.\" Learners then master statistical concepts by completing practice problems. These are then reinforced using interactive case studies, which illustrate the application of the statistics in quality improvement situations. \n Upon successful completion of this program, learners will earn the TUM Lean and Six Sigma Yellow Belt certification, confirming mastery of Lean Six Sigma fundamentals to a Green Belt level. The material is based on the American Society for Quality (www.asq.org) Body of Knowledge up to a Green Belt Level. The Professional Certificate is designed as preparation for a Lean Six Sigma Green Belt exam.",
+  "learning_goals": [
+    "Eight Disciplines Problem Solving (8D)",
+    "Statistics",
+    "Statistical Process Controls",
+    "Quality Management",
+    "Control Chart",
+    "Lean Six Sigma",
+    "Lean Six Sigma Green Belt",
+    "Six Sigma Yellow Belt",
+    "Six Sigma Green Belt Certification",
+    "Lean Manufacturing",
+    "Design For Six Sigma",
+    "Quality Improvement",
+    "Confidence Intervals",
+    "Six Sigma Methodology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "martin-grunow",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "holly-ott",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Technical University of Munich"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1114,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

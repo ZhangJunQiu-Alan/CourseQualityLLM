@@ -1,0 +1,31 @@
+{
+  "course_id": "1473682164",
+  "platform": "mooc_cn",
+  "title": "计算机组成原理与处理器设计",
+  "description": "《计算机组成原理》是计算机科学与技术专业本科教学中的一门重要专业基础课，在计算机科学与技术专业的教学计划中占有重要地位和作用，是学习操作系统、计算机系统结构、编译技术、并行计算和计算机网络等计算机核心课程的重要基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473682164",
+  "instructors": [
+    {
+      "name": "王超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国科学技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 277,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

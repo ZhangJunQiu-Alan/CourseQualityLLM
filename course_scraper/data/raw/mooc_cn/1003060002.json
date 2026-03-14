@@ -1,0 +1,31 @@
+{
+  "course_id": "1003060002",
+  "platform": "mooc_cn",
+  "title": "审计学",
+  "description": "由国家一流本科课程团队给大家呈现的《审计学》资料丰富： 52个知识点的在线视频、随堂练习、课后作业与测试、案例分析、相关法规准则及其辅助学习资料等，也带来不一样的体验：我的学习我做主、与教师面对面讨论、利用碎片化时间学会针对性问题。该课程适宜在校学生、参加自学考试、注册会计师考试学员学习。—— 课程团队",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003060002",
+  "instructors": [
+    {
+      "name": "李晓慧;曹强;王淑芳;李晓;赵雪媛;薄仙慧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中央财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 71493,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

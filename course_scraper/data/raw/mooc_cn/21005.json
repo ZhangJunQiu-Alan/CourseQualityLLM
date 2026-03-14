@@ -1,0 +1,31 @@
+{
+  "course_id": "21005",
+  "platform": "mooc_cn",
+  "title": "流行病学基础（一）",
+  "description": "流行病学是一门预防医学的骨干学科，也是现代医学的基础学科。本课程讲授流行病学的基本原理、主要研究方法及其应用。本课程为中文授课。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/21005",
+  "instructors": [
+    {
+      "name": "吴涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 120614,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

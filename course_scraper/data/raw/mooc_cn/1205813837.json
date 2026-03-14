@@ -1,0 +1,31 @@
+{
+  "course_id": "1205813837",
+  "platform": "mooc_cn",
+  "title": "网站设计与开发",
+  "description": "本课程将以目前流行的网页设计软件作为技术支持，由浅入深系统地介绍了网页的构思、规划、制作和网站建设的全过程，帮助初学者在最短的时间快速掌握HTML语言及常用网页设计工具的使用，培养学生掌握制作网页、建立网站和评价网站的能力，为将来建设动态网站打下基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205813837",
+  "instructors": [
+    {
+      "name": "郭路生;刘春年;杨选辉;胡小飞;刘婷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南昌大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 45263,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

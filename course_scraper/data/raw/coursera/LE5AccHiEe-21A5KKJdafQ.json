@@ -1,0 +1,26 @@
+{
+  "course_id": "LE5AccHiEe-21A5KKJdafQ",
+  "platform": "coursera",
+  "title": "Networking in Google Cloud: Network Architecture - 日本語版",
+  "slug": "networking-in-google-cloud-network-architecture-ja",
+  "description": "Networking in Google Cloud」シリーズの 3 番目のコース「Network Architecture」へようこそ。\nこのコースでは、Google Cloud 内で効率的かつスケーラブルなネットワーク アーキテクチャを設計するための基礎について説明します。\nモジュール 1「ネットワーク アーキテクチャの概要」では、サブネット、ルート、ファイアウォール、ロード バランシングなど、ネットワーク アーキテクチャの中核となるコンポーネントやコンセプトを紹介します。\nモジュール 2「ネットワーク トポロジ」では、Google Cloud でよく使用されるさまざまなネットワーク トポロジの詳細とその長所と短所について説明します。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/networking-in-google-cloud-network-architecture-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

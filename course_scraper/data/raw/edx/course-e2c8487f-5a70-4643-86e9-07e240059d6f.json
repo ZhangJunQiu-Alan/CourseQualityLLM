@@ -1,0 +1,62 @@
+{
+  "course_id": "course-e2c8487f-5a70-4643-86e9-07e240059d6f",
+  "platform": "edx",
+  "title": "Statistical Learning with Python",
+  "description": "This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines; neural networks and deep learning; survival models; multiple testing. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical). \n This is not a math-heavy class, so we try and describe the methods without heavy reliance on formulas and complex mathematics. We focus on what we consider to be the important elements of modern data science. Computing in this course is done in Python. There are lectures devoted to Python, giving tutorials from the ground up, and progressing with more detailed sessions that implement the techniques in each chatper. We also offer the separate and original version of this course called  Statistical Learning with R  – the chapter lectures are the same, but the lab lectures and computing are done using R. \n The lectures cover all the material in An Introduction to Statistical Learning, with Applications in Python by James, Witten, Hastie, Tibshirani, and Taylor (Springer, 2023. The pdf for this book is available for free on the  book website .",
+  "learning_goals": [
+    "Logistic Regression",
+    "Deep Learning",
+    "Supervised Learning",
+    "Lasso (Programming Language)",
+    "Statistical Modeling",
+    "Lecturing",
+    "K-Means Clustering",
+    "Artificial Neural Networks",
+    "Boosting",
+    "Principal Component Analysis",
+    "Statistical Learning Theory",
+    "Statistics",
+    "Basic Math",
+    "Support Vector Machine",
+    "Bootstrap (Front-End Framework)",
+    "Polynomial Regression",
+    "Python (Programming Language)",
+    "Linear Discriminant Analysis",
+    "Data Science",
+    "Unsupervised Learning",
+    "Random Forest Algorithm"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "11 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "trevor-hastie",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "robert-tibshirani",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jonathan-taylor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4411,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

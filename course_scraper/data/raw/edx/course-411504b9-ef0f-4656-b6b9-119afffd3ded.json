@@ -1,0 +1,42 @@
+{
+  "course_id": "course-411504b9-ef0f-4656-b6b9-119afffd3ded",
+  "platform": "edx",
+  "title": "Space Mission Design and Operations",
+  "description": "Space exploration is a very exciting subject. Consider the achievements of Sputnik 1, Yuri Gagarin's first flight in space, the Apollo missions to the Moon, followed by the Shuttle program, the Hubble Space Telescope launch and maintenance on orbit, and finally the assembly and exploitation of the International Space Station. These were challenging undertakings involving space agencies and industrial teams of several nations, and private companies as well. Space telescopes are in service, and several components of the solar system have been and are still actively visited by a number of unmanned probes and robots providing us with precious knowledge about our space environment as well as the far away Universe.  \n This course builds on university level physics and mechanics to introduce and illustrate orbital dynamics as is applied in the design of space missions. Simple tools will be provided to allow planning of missions on orbit around Earth or in the Solar System. You will learn from the experience of Claude Nicollier, one of the first ESA astronauts, specifically through his involvement in the Shuttle project and his role in the maintenance of the Hubble Space Telescope on two occasions.  \n The course focuses on conceptual understanding of space mechanics, maneuvers, propulsion and control systems used in all spacecraft. You will gain knowledge of the challenges related to the use of the space environment as a platform for scientific and utilitarian purposes.",
+  "learning_goals": [
+    "Propulsion",
+    "Planning",
+    "Space Environment",
+    "Operations",
+    "Space Exploration",
+    "Spacecraft",
+    "Space Stations",
+    "Mechanics",
+    "Solar Systems",
+    "Physics",
+    "Control Systems"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "claude-nicollier",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "École polytechnique fédérale de Lausanne"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 615,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

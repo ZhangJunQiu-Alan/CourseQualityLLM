@@ -1,0 +1,31 @@
+{
+  "course_id": "1207205802",
+  "platform": "mooc_cn",
+  "title": "材料力学",
+  "description": "本课程为国家级线上线下混合式一流本科课程。材料力学是工科相关专业的一门专业基础课，是基础课和专业课的桥梁，并与工程实际有着非常密切的关系，为工程实际中构件的设计提供必要的理论基础和计算方法。通过本课程的学习，要求学生掌握杆件在常见荷载条件下的强度、刚度及稳定性计算方法等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207205802",
+  "instructors": [
+    {
+      "name": "李晓玉;杨峰;赵娜;杨照锐;刘彪;黄学伟;王志;李小盟;刘艳萍;刘雯雯;王利霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16449,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

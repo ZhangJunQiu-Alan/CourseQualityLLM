@@ -1,0 +1,31 @@
+{
+  "course_id": "1001518002",
+  "platform": "mooc_cn",
+  "title": "概率论与数理统计",
+  "description": "概率论与数理统计是研究随机现象客观规律的数学学科。从十七世纪帕斯卡和费马关于赌金分配问题的讨论开始，经过几百年的发展，已广泛应用于社会、经济、科学等领域。本课程将教你用随机数学的思想和方法去观察并分析随机事件，处理随机数据，从而对所研究的问题给出更合理、科学的估计和判断。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001518002",
+  "instructors": [
+    {
+      "name": "方茹;王力;陈佳奇;周永春;李朝艳;文海玉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 239197,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

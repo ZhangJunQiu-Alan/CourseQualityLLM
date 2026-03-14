@@ -1,0 +1,31 @@
+{
+  "course_id": "1002525004",
+  "platform": "mooc_cn",
+  "title": "离散数学概论",
+  "description": "通过数理逻辑，你可以把啰嗦的推理过程写成简洁的公式，这可是学术论文的必备要素；在集合论里，你可以知道自然数是怎么来的，数学归纳法为什么会那么神奇？你在《数据结构和算法》里学到的许多东西，源头尽在图论里边；最后我们来认识一下计算机的本质，一起探讨机器能力的极限，以及人类知识的边界。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002525004",
+  "instructors": [
+    {
+      "name": "陈斌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 111643,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

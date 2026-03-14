@@ -1,0 +1,26 @@
+{
+  "course_id": "BK_rILlSEfC5ng6d0oG1mw",
+  "platform": "coursera",
+  "title": "Systems and Solutions Architect Capstone Project",
+  "slug": "systems-and-solutions-architect-capstone-project",
+  "description": "Demonstrate your job-ready skills to employers in this portfolio-worthy capstone project! During this course, you’ll apply your systems and solutions architecture, stakeholder management, and cloud-native deployment skills to create a real-world enterprise architecture.\n\nAs you work through the modules, you’ll apply systems and solutions architect strategies, including stakeholder engagement, requirements gathering, system design, security architecture, cloud deployment, and compliance alignment.\n\nThrough hands-on labs, you’ll create project charters, UML, and ERD diagrams. You’ll design scalable cloud-native architectures with Docker and IBM Cloud/AWS, and combine enterprise data pipelines, and incorporate secure frameworks. Plus, you’ll build end-to-end process flow, CI/CD pipelines, and a phase implementation roadmap.\n\nBy the end, you’ll have a comprehensive capstone project that demonstrates your expertise in systems and solutions architecture, highlighting your ability to address real organizational challenges and improve enterprise infrastructure.\n\nEnroll today to gain demonstrable experience completing a capstone project that provides valuable practical experience you can discuss in interviews!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "18 hours (7 weeks of study, 2-3 hours/week)",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/systems-and-solutions-architect-capstone-project",
+  "instructors": [
+    {
+      "name": "IBM Skills Network Team",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

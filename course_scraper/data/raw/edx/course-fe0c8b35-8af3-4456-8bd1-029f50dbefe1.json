@@ -1,0 +1,34 @@
+{
+  "course_id": "course-fe0c8b35-8af3-4456-8bd1-029f50dbefe1",
+  "platform": "edx",
+  "title": "Python Data Structures",
+  "description": "This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook \"Python for Everybody\". This course covers Python 3.",
+  "learning_goals": [
+    "Data Structures",
+    "Python (Programming Language)",
+    "JSON"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "charles-severance",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Michigan"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 314,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

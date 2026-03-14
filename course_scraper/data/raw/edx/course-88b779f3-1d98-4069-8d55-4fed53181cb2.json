@@ -1,0 +1,36 @@
+{
+  "course_id": "course-88b779f3-1d98-4069-8d55-4fed53181cb2",
+  "platform": "edx",
+  "title": "Leadership Development",
+  "description": "The Oxford Leadership Development course hones your leadership skills for today’s dynamic workplace. In a rapidly evolving business environment, strong leadership is essential. The course covers critical leadership concepts – motivation, adaptability, diversity, power and influence – providing tools and frameworks to guide high-performing teams​. \r\n Drawing on Oxford research, this course blends foundational theory and practice to refine your leadership approach. You’ll learn to align your leadership skills with your organisation’s goals and navigate complex challenges. Research shows diverse leadership teams achieve better results; companies with high gender or ethnic diversity are significantly more likely to outperform their peers​. This course offers a foundational overview, introducing key concepts and frameworks for those new to the subject. To explore the topic in greater depth, you may wish to continue with  the full Oxford Executive Leadership Programme .",
+  "learning_goals": [
+    "Leadership",
+    "Influencing Skills",
+    "Research",
+    "Adaptability",
+    "Leadership Development"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "tim-morris",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Oxford"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2329,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

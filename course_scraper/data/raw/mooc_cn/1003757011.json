@@ -1,0 +1,31 @@
+{
+  "course_id": "1003757011",
+  "platform": "mooc_cn",
+  "title": "运输组织学",
+  "description": "《运输组织学》 是国家精品课程和国家精品资源共享课程，其特色在于：1、 首次对各种交通运输方式组织管理理论与方法进行系统整合，体现了学科知识的凝练与融合。2、更全面纳入学科发展的最新动态，突出对基础理论掌握的引导与创新思维能力的培养。3、是一门立体化建设开发的课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003757011",
+  "instructors": [
+    {
+      "name": "魏玉光;王力;佟璐;聂磊;张进川;黎浩东;朱晓宁;乐逸祥;贺振欢;景云;何世伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12535,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206606809",
+  "platform": "mooc_cn",
+  "title": "通信电子线路",
+  "description": "《通信电子线路》是电子信息类专业的必修课程，主要讲述通信系统中各单元电路的基本概念、工作原理和电路组成，使学习者对谐振功率放大器，正弦波振荡器，振幅调制与解调器，混频电路，角度调制与解调器的基本原理、硬件设计、性能特点有所了解，为后续专业课的学习及从事相关技术工作打下良好的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206606809",
+  "instructors": [
+    {
+      "name": "王平;梁音;夏瑞华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南昌大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9934,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,30 @@
+{
+  "course_id": "course-d9650bd1-5d21-4b11-a778-7268bb7515eb",
+  "platform": "edx",
+  "title": "Finance for Non-finance Professionals",
+  "description": "Finance and accounting.    \r\n This module covers the essential financial acumen and accounting fundamentals that non-finance professionals need to understand, apply and discuss with their specialist and non-specialist colleagues alike.   \r\n Budgets and proposals.   \r\n This module looks at how to work with budgets and other financial proposals, and how to get your budgets and capital investment proposals considered and approved.   \r\n Reporting against budgets.   \r\n In this module we will explore how to report against an approved budget or other forecast. The core responsibilities of budget owners-holders and how to carry them out will be covered.   \r\n Modeling essentials.   \r\n This module uses Excel to illustrate essential financial modelling principles, but they apply generally, whatever modelling platform you or your colleagues are using.   \r\n Key modelling principles we cover include identifying and stating purposes, zoning workbooks into appropriate modules, workflow, visualization and commentary. You will also appreciate the important differences between navigation, selection and editing.   \r\n Quantitative skills.   \r\n The essential quantitative skills you need, and that we cover on this module are: Setting up, solving and rearranging financial equations; Compound interest and growth; and De-compounding. You will also understand the most common types of financial errors we’ll cover, and how to detect and correct them.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "doug-williamson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Cambridge"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 939,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "course-f6cec8bb-29d1-48f4-aa9f-22b16a77945a",
+  "platform": "edx",
+  "title": "AI Ethics for Professionals",
+  "description": "In a world where Artificial Intelligence is rapidly transforming every aspect of our lives, understanding the ethical implications of AI has never been more crucial. This comprehensive AI Ethics course equips you with the knowledge and skills to navigate the complex landscape of AI development and deployment responsibly. \n \n\nOver four engaging units, you'll dive deep into the promises and perils of generative AI, explore key ethical challenges, and master practical frameworks for ethical AI governance. Whether you're a developer, business leader, policymaker, or simply an AI enthusiast, this course will empower you to make informed decisions in the age of AI. \n \n\nKey Learning Objectives \n\n \n  Understand the fundamental principles of AI ethics and their importance in AI development and deployment.  \n  Analyze the societal impact of AI technologies, including privacy, employment, and social interaction implications.  \n  Identify and critically evaluate key ethical challenges in AI, such as bias, transparency, accountability, and potential misuse.  \n  Examine legal and regulatory considerations surrounding AI, including current laws and the role of regulation.  \n  Develop and apply ethical frameworks for AI decision-making in various contexts.  \n  Evaluate and compare different AI governance approaches, from organizational policies to national and international regulations.  \n  Communicate effectively about AI ethics issues and proposed solutions to both technical and non-technical audiences.  \n  Promote responsible AI development and use within organizations and broader society.  \n \n \n\nWhy It Matters: \n \n\nAs AI becomes increasingly integrated into our society, the ability to think critically about its ethical implications is not just valuable—it's essential. This course will give you the tools to: \n\n \n  Lead AI strategy and governance efforts in your organization  \n  Make ethically informed decisions when developing or deploying AI systems  \n  Contribute meaningfully to the global conversation on responsible AI  \n \n \n\nBy the end of this course, you'll have a robust understanding of AI ethics principles and practical skills to apply them in real-world scenarios. Join us in shaping an ethical future for AI—enroll today!",
+  "learning_goals": [
+    "Critical Thinking",
+    "Governance",
+    "Decision Making",
+    "Accountability",
+    "Artificial Intelligence",
+    "Artificial Intelligence Development"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 1-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jayme-sponsel",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sara-copic",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Davidson College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 377,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

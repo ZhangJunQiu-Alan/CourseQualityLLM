@@ -1,0 +1,31 @@
+{
+  "course_id": "284001",
+  "platform": "mooc_cn",
+  "title": "高等数学（三）",
+  "description": "高等数学是以微积分为主要内容的课程，它不但是理工类各专业，也是其他众多专业最重要的基础课程之一。我们的工作、科研以及生活中的很多例子，如：卫星成功驶进预定轨道，火车在弯道上飞驰而过，经济金融、天气预报和深海下潜，都与数学有着深深的联系。现在就让我们一起去高等数学的殿堂探索吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/284001",
+  "instructors": [
+    {
+      "name": "周朝晖;张弢;濮燕敏;兰辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 481854,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,28 @@
+{
+  "course_id": "course-343693bd-4202-4956-843d-ad44d8699750",
+  "platform": "edx",
+  "title": "AI for Workplace Productivity",
+  "description": "This Microsoft training course is designed to empower professionals like you with a foundational understanding of Artificial Intelligence (AI) and its practical applications within a business context. It focuses on making AI accessible to everyone in an organization, not just technical experts.",
+  "learning_goals": [
+    "Decision Making",
+    "Workflow Management",
+    "Artificial Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2037,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

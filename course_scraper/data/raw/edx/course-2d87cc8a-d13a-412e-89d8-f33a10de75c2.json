@@ -1,0 +1,50 @@
+{
+  "course_id": "course-2d87cc8a-d13a-412e-89d8-f33a10de75c2",
+  "platform": "edx",
+  "title": "Digital Humanities in Practice: From Research Questions to Results",
+  "description": "From the printing press to the typewriter, there is a long history of scholars adapting to new technologies. In the last forty or fifty years, the most significant advance has been the digitization of books. We now have whole libraries—centuries of history, literature, and philosophy—available instantaneously. This new access is a wonderful benefit, but it can also be overwhelming. If you have hundreds of thousands of books available to you in an instant, where do you even start? With a bit of elementary code, you can study all of these books at once, and derive new sorts of insights. \n Computation is changing the very nature of how we do research in the humanities. Tools from data science can help you to explore the record of human culture in ways that just wouldn’t have been possible before. You’re more likely to reach out to others, to work across disciplines, and to assemble teams. Whether you're a student wanting to expand your skillset, a librarian supporting new modes of research, or a journalist who has just received a massive cache of leaked e-mails, this course will show you how to draw insights from thousands of documents at once. You will learn how, with a few simple lines of code, to make use of the metadata—the information about our objects of study—to zero in on what matters most, and visualize your results so that you can understand them at a glance. \n In this course, you’ll work on building parts of a search engine, one tailor-made to the needs of academic research. Along the way, you'll learn the fundamentals of text analysis: a set of techniques for manipulating the written word that stand at the core of the digital humanities. \n By the end of the course, you will be able to apply what you learn to what interests you most, be it contemporary speeches, journalism, caselaw, and even art objects. This course will analyze pieces of 18th-century literature, showing you how these methods can be applied to philosophical works, religious texts, political and historical records – material from across the spectrum of humanistic inquiry. \n Combine your traditional research skills with data science to find answers you never might have expected.",
+  "learning_goals": [
+    "Digital Humanities",
+    "Typewriters",
+    "Printing Press",
+    "Public Speaking",
+    "Journalism",
+    "Text Mining",
+    "Electronic Documents",
+    "Research",
+    "Data Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "10 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "stephen-osadetz",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "cole-crawford",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "christine-fernsebner-eslao",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2306,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

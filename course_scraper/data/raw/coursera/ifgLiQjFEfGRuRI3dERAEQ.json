@@ -1,0 +1,26 @@
+{
+  "course_id": "ifgLiQjFEfGRuRI3dERAEQ",
+  "platform": "coursera",
+  "title": "Analyzing and Securing AI System Performance",
+  "slug": "analyzing-and-securing-ai-system-performance",
+  "description": "This long course develops skills for operational analytics, secure data practices, and governance essential to building trustworthy, auditable agentic systems. You will aggregate and analyze operational metrics, design A/B experiments and statistical tests to validate agent improvements, and craft clear visualizations and alerting rules for stakeholders. The course covers end-to-end data hygiene: cleaning, schema validation, reproducible notebooks with data versioning, and trade-offs between sample size and noise for experimental design. It also addresses security and governance: securing API endpoints per OWASP ASVS, dependency vulnerability analysis, secret-management trade-offs (on-prem vs managed), and threat modeling (STRIDE). Practical tasks include building DBT models for telemetry, configuring alerts, producing reproducible analytic notebooks, and creating STRIDE diagrams with documented mitigations to reduce operational and supply-chain risk.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "15 hours 40 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/analyzing-and-securing-ai-system-performance",
+  "instructors": [
+    {
+      "name": "Professionals from the Industry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,55 @@
+{
+  "course_id": "course-c1437f01-fee9-467f-9976-747dceab6b75",
+  "platform": "edx",
+  "title": "Introduction to Engineering Design",
+  "description": "Welcome to Introduction to Engineering Design, the first course in the Engineering Design and Simulation Program. This course will give you a comprehensive overview of the engineering design workflow through the power of modeling and simulation, using the example of a quadcopter.  \n In this first course, you will navigate and run existing models. Building on this foundation, you will inspect simulation results to observe the system's behavior changes. Whether you are an engineer modeling every day, or part of a larger design team who wants to experiment and understand more about the tools in use, you will find these skills valuable. \n An essential aspect of the course is mastering the interpretation of simulation results. You will learn to effectively analyze and draw meaningful conclusions from the simulation outputs, enhancing your engineering design capabilities. \n By the end of this course, you will know how to navigate Simulink, run simulations, and analyze results while gaining the ability to break down complex systems into subsystems and interpret simulation outputs for effective engineering design. \n No prior modeling experience is required. Simulink and Simscape, industry-leading block diagram environments, are used throughout the courses to teach fundamental modeling workflows. You will be provided with a free license for the duration of the program.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 5-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "brian-neiswander",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "nikola-trica",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ali-nejad",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sam-turton",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "teresa-hubscher-younger",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "tianyi-zhu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "MathWorks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 839,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

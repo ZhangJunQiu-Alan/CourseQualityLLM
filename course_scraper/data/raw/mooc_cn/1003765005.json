@@ -1,0 +1,31 @@
+{
+  "course_id": "1003765005",
+  "platform": "mooc_cn",
+  "title": "电工技术",
+  "description": "《电工技术》课程是装备制造类、电子信息类专业一门重要的专业基础课程，该课程为电气自动化技术专业国家教学资源库课程，经过10余年的建设，已创建为国家级精品课程、国家级精品资源共享课程，积累了海量的教学资源，包括教学微课、演示文稿、教学动画及虚拟仿真等，主讲教师均为国家级教学团队成员。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003765005",
+  "instructors": [
+    {
+      "name": "冯泽虎;张强;王光亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "淄博职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9390,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

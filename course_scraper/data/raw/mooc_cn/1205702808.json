@@ -1,0 +1,31 @@
+{
+  "course_id": "1205702808",
+  "platform": "mooc_cn",
+  "title": "数据库与商业智能",
+  "description": "有了大量的结构化数据，如何进行深入挖掘，发现数据的价值？来《数据库与商业智能》就对啦！商业智能被理解为将企业中现有的数据转化为知识，帮助企业做出明智的业务经营决策的工具。为了将数据转化为知识，需要利用数据仓库、联机分析处理工具和数据挖掘等技术。本课程将从这三方面技术展开讲解。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205702808",
+  "instructors": [
+    {
+      "name": "石嘉明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京语言大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12718,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206616805",
+  "platform": "mooc_cn",
+  "title": "微生物学",
+  "description": "微生物早在亿万年前便已登场，至今依然掌管着地球的呼吸、物质的循环、生命的代谢。一片发霉的面包背后，是一场跨越数亿年的生存演化；一杯清甜的酸奶之中，蕴藏着人类与微生物长达千年的合作契约。它们时而酿造美酒、塑造土壤、守护健康，时而引发疾病、催化腐朽、挑战人类。微生物的世界，是一部充满反转的史诗，了解它们，不仅是学习一门科学——更是理解我们与自然共生共战的智慧。期待与你一起，从微观中看见生命的宏大。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206616805",
+  "instructors": [
+    {
+      "name": "陈红英;林雁冰;丑敏霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15840,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

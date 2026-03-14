@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752031",
+  "platform": "mooc_cn",
+  "title": "统计学",
+  "description": "像一壶清茶，邀你新朋老友共饮；似一弯深水，任你自由自在畅游。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752031",
+  "instructors": [
+    {
+      "name": "张艳芳;康宁;刘洋;陈耀辉;韩中;黄莉芳;高宇阳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 176430,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

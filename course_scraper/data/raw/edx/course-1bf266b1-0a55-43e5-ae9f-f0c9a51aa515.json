@@ -1,0 +1,50 @@
+{
+  "course_id": "course-1bf266b1-0a55-43e5-ae9f-f0c9a51aa515",
+  "platform": "edx",
+  "title": "Mathematical Methods for Quantitative Finance",
+  "description": "Modern finance is the science of decision making in an uncertain world, and its language is mathematics. As part of the MicroMasters® Program in Finance, this course develops the tools needed to describe financial markets, make predictions in the face of uncertainty, and find optimal solutions to business and investment decisions. \n This course will help anyone seeking to confidently model risky or uncertain outcomes. Its topics are essential knowledge for applying the theory of modern finance to real-world settings. Quants, traders, risk managers, investment managers, investment advisors, developers, and engineers will all be able to apply these tools and techniques.",
+  "learning_goals": [
+    "Financial Market",
+    "Planning",
+    "Financial Engineering",
+    "Decision Making",
+    "Statistics",
+    "Mathematical Finance",
+    "Investment Management",
+    "Finance",
+    "Forecasting",
+    "Chartered Financial Analyst",
+    "Stochastic Process",
+    "Investments",
+    "Linear Algebra",
+    "Probability"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "12 周，每周 10-14 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "paul-f-mende",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "egor-matveyev",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7479,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

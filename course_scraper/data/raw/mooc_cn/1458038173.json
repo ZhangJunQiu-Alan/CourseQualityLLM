@@ -1,0 +1,31 @@
+{
+  "course_id": "1458038173",
+  "platform": "mooc_cn",
+  "title": "Timber Structures",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458038173",
+  "instructors": [
+    {
+      "name": "Minjuan HE",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tongji University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 46,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

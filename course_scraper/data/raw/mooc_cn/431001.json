@@ -1,0 +1,31 @@
+{
+  "course_id": "431001",
+  "platform": "mooc_cn",
+  "title": "高等数学习题课（一）",
+  "description": "考研必备！期末考试必备！你来吗？",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/431001",
+  "instructors": [
+    {
+      "name": "尹逊波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 112577,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

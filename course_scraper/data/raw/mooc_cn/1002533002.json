@@ -1,0 +1,31 @@
+{
+  "course_id": "1002533002",
+  "platform": "mooc_cn",
+  "title": "生物学概念与途径",
+  "description": "《生物学概念与途径》由饶毅教授自2008年于北京大学设立、主持，面向所有大学生、研究生。经多年整理筹备，本课程作为北大第100门慕课上线。现只需登录慕课平台，即可聆听饶毅教授及他邀请的一众国内外顶尖科学家亲自传道受业解惑，一同通过慕课学习，拨云见雾，了解科学，拷问自我。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002533002",
+  "instructors": [
+    {
+      "name": "饶毅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 50468,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

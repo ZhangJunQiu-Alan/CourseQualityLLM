@@ -1,0 +1,31 @@
+{
+  "course_id": "1461014162",
+  "platform": "mooc_cn",
+  "title": "工程力学",
+  "description": "本课程由江苏科技大学苏州理工学院力学教学团队讲授，课程负责人和团队教师长期从事一线教学工作，教学经验丰富，教学成果突出。课程内容精炼、思路清晰、贴近工程，启发思维。以能力导向为要求，以学生发展为中心，教学资源丰富，类型多样。课程既适用于工科院校船舶与海洋工程、土木、机械、能动、冶金、材料等专业工程力学课程教学，也适合具有简单物理和数学基础，对力学知识感兴趣的个人自学。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461014162",
+  "instructors": [
+    {
+      "name": "马剑;章杰;卞梁;宋博",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏科技大学苏州理工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7903,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

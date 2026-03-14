@@ -1,0 +1,31 @@
+{
+  "course_id": "1460747165",
+  "platform": "mooc_cn",
+  "title": "机械设计基础",
+  "description": "“机械设计基础”课程是机械类、材料类、力学类等专业的一门重要专业基础课，主要内容包括绪论、平面机构基础、连杆机构、凸轮机构、间歇运动机构、齿轮传动、蜗杆传动、轮系、带传动与链传动、螺纹连接与螺旋传动、轴与轴毂连接、滑动轴承、滚动轴承、联轴器与离合器共14章内容。为适应新经济和国家战略对创新人才的需求，在MOOC中，引入现代科技发展的新技术、新材料、新机构、新结构等，并结合工程实际案例进行讲解；为适应现代教学手段，课程提供了生动丰富的图片、动画、视频等网络教学资源，可以更好地激发学习者的学习兴趣和创新意识，帮助学习者随时随地进行在线学习。课程大部分章节后面配有相应测试题目，便于学习者及时了解学习状况和学习效果。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460747165",
+  "instructors": [
+    {
+      "name": "潘亚嘉;陈鹏;罗大兵;赵婧;张祖涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8946,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

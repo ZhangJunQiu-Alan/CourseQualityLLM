@@ -1,0 +1,26 @@
+{
+  "course_id": "PypnGsCIEeqIWgqNFPWsWw",
+  "platform": "coursera",
+  "title": "Introduction to Java",
+  "slug": "java-introduction",
+  "description": "This Course is the first of a series of courses that make up the Core Java Specialization.  The Core Java Specialization, in turn, is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments.\n\nThis course includes hands-on practice and will give you a solid knowledge of the Java language. After completing this course, you will be able to identify Java’s benefits, program in basic Java syntax using Java data types, and incorporate branches and loops.\n\nThe audience for this course:\n-    Anyone interested in learning Java\n-    Programmers\n-    Technical Managers\n-    Application Developers\n\nPrerequisites: To be successful with this course, you should understand the fundamentals of software development in either a procedural or object-oriented language.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/java-introduction",
+  "instructors": [
+    {
+      "name": "LearnQuest Network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LearnQuest"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

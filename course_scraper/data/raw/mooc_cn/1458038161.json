@@ -1,0 +1,31 @@
+{
+  "course_id": "1458038161",
+  "platform": "mooc_cn",
+  "title": "Applied Analysis for Engineering Sciences",
+  "description": "This course is adapted from an undergraduate course “Applied Analysis” and a graduate course “Advanced Mathematical Physics Equations” at Peking University since 1998. They have been offered 10 times, all in English. Applied Analysis was selected into a Ministry of Education Model Bilingual Course Project in 2010. The textbook was published by Peking University Press in 2016.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458038161",
+  "instructors": [
+    {
+      "name": "Shaoqiang TANG",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Peking University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 107,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

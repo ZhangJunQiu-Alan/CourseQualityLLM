@@ -1,0 +1,26 @@
+{
+  "course_id": "sAAqXtP-EfCUKQr_3GN6mQ",
+  "platform": "coursera",
+  "title": "Build & Deploy a Tomcat Website: Design, Develop, Deliver",
+  "slug": "build-deploy-tomcat-website-design-develop-deliver",
+  "description": "Learners will be able to build structured web pages, configure Apache Tomcat, implement a functional contact system, and integrate email features using Java servlets.\nThis hands-on course guides learners through the complete process of creating a fully functional company website using Apache Tomcat. Beginning with foundational setup and project configuration, participants will design core pages such as Home, About Us, Services, and Contact. As the course progresses, learners will enhance the website by developing interactive components, capturing user inputs, and implementing email workflows that send messages directly from the site.\n\nBy completing this course, learners gain practical experience in front-end design, server-side development, and application deployment—all essential skills for real-world Java web development. What makes this course unique is its project-based approach, where every lesson contributes to building a complete, working website rather than isolated code samples. Learners not only learn how to use Tomcat but also why each step matters, ensuring long-term retention and industry relevance.\n\nPerfect for beginners and intermediates, this course equips learners with the confidence and competence to design, develop, and deliver production-ready web applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-deploy-tomcat-website-design-develop-deliver",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

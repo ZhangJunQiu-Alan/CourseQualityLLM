@@ -1,0 +1,31 @@
+{
+  "course_id": "1461330166",
+  "platform": "mooc_cn",
+  "title": "Animal Nutrition",
+  "description": "The course of animal nutrition of Sichuan Agricultural University, which is based on the national planning textbook Animal Nutrition, systematically teaches the basic theory of animal nutrition, basic research methods and the nutrition requirements of growth, reproduction, lactation, egg production and wool producing animals.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461330166",
+  "instructors": [
+    {
+      "name": "彭全辉;冯琳;罗玉衡;薛白;方正锋;虞洁;车炼强;姜维丹;徐盛玉;阎辉;王建萍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Sichuan Agricultural University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 90,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

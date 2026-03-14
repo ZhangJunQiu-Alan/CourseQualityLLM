@@ -1,0 +1,31 @@
+{
+  "course_id": "1003402013",
+  "platform": "mooc_cn",
+  "title": "普通化学原理",
+  "description": "普通化学原理MOOC课程由太原理工大学化学化工学科在职教师倾力打造，课程将通过对化学热力学基础、化学动力学基础、水溶液化学基础、电化学基础、物质结构基础等与工程实践密切相关基础知识的学习，有效培养学生的化学素养、化学思维，为学生学习后续专业课程提供必要的化学基础知识和基本技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003402013",
+  "instructors": [
+    {
+      "name": "钟丽萍;陈良;刘芝平;陈佳琪;胡江亮;杨慧敏;吴旭;秦海峰;周娴娴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "太原理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 50577,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

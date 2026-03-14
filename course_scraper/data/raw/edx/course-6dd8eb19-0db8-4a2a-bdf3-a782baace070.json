@@ -1,0 +1,39 @@
+{
+  "course_id": "course-6dd8eb19-0db8-4a2a-bdf3-a782baace070",
+  "platform": "edx",
+  "title": "Fundamentals of Biomedical Imaging: Ultrasounds, X-ray, positron emission tomography (PET) and applications",
+  "description": "This physics course covers the physical principles of major in vivo bio-imaging modalities and the different imaging techniques. \n After a short study of ultrasound imaging, you will learn about the different X-ray imaging techniques. The understanding of the interaction of X-rays with tissue will lead to the study of three different techniques: \n \n Computed Tomography (CT) \n Emission Tomography \n Positron Emission Tomography (PET) \n \n This course shows how existing physical principles transcend into bio-imaging and establish an important link into life sciences, illustrating the contributions physics can make to life sciences. Practical examples will be shown to illustrate the respective imaging modality, its use, premise and limitations, and biological safety will be touched upon. \n During this course, you will develop a good understanding of the mechanisms leading to tissue contrast of the bio-imaging modalities covered in this course, including the inner workings of the scanner and how they define the range of possible biomedical applications. You will be able to judge which imaging modality is adequate for specific life science needs and to understand the limits and promises of each modality. \n To learn more about biomedical imaging, join us in the second part of this course  Biomedical Imaging: Magnetic Resonance Imaging (MRI) .",
+  "learning_goals": [
+    "Magnetic Resonance Imaging",
+    "Biology",
+    "Positron Emission Tomography",
+    "Physics",
+    "X-Ray Computed Tomography",
+    "Medical Ultrasonography",
+    "Tomography",
+    "Life Sciences"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "7 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rolf-gruetter",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "École polytechnique fédérale de Lausanne"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 458,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

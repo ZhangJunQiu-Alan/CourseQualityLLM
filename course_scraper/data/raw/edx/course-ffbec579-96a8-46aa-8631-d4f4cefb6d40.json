@@ -1,0 +1,34 @@
+{
+  "course_id": "course-ffbec579-96a8-46aa-8631-d4f4cefb6d40",
+  "platform": "edx",
+  "title": "Design in Healthcare: Using Patient Journey Mapping",
+  "description": "In this course you will learn about the different experiences patients go through in a medical context. The patient journey explores the interaction between the patient and the healthcare providers in all stages of the disease; coping with treatment and dealing with expectations, and interaction with and between different stakeholders.  \n This course will give designers and specialists in healthcare the knowledge, insights and tools to be able to analyze and improve patient experience. You will learn how to map complex healthcare scenarios, pinpoint opportunities and create hands-on solutions aimed at improving the patient experience.  \n This course is an introduction to patient journey mapping; developed at the Delft University of Technology and applied in improvement of care pathway. Step-by-step, the course visualizes the different stakeholders, phases and actions involved in patient treatment. You will be challenged to pursue new insights and given a unique opportunity to learn about four trending healthcare issues each presented by a partnering institution.  \n Furthermore, you will learn about healthcare trends from a team of experts in specific technological domains. Ranging from personalized care to advance manufacturing for healthcare. These sessions will provide you with technological background that will be useful when developing your design concepts.  \n No previous knowledge about health care innovation, design or journey mapping is necessary.",
+  "learning_goals": [
+    "Patient Treatment",
+    "Service Design",
+    "Innovation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "richard-h-m-goossens",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 341,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

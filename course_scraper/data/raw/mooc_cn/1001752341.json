@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752341",
+  "platform": "mooc_cn",
+  "title": "声乐作品赏析与演唱",
+  "description": "声乐是学习音乐的基础课之一，是训练学生掌握科学的歌唱发声方法，运用人声进行艺术表现的一门学科。声乐课教学包括声乐基础理论、声乐技能训练和声乐舞台实践三大部分，其内容涉及声学、生理解剖学、音响学、舞台表演等学科领域。它是一门既有理论又注重实践的专业课程，是学习演唱中最核心的课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752341",
+  "instructors": [
+    {
+      "name": "张美林",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "扬州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41075,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

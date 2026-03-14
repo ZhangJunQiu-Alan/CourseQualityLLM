@@ -1,0 +1,35 @@
+{
+  "course_id": "course-51d9f899-ef8d-4024-9ac4-b3b7b0ab3adf",
+  "platform": "edx",
+  "title": "Behavioral Economics and Public Policy",
+  "description": "The course gives an introduction to behavioral economics through various tools and techniques and gives a detailed perspective to understand decision making. It will help in understanding the various psychological processes that a consumer goes through while making a decision using topics like nudges, choice architectures, some notions of fairness and also some real life examples. The course will also contextualise how a simple nudge can change a person’s decisions, strategies, and choices. The course touches upon indicators like Heuristics and biases, growth biases and risk preferences. The course will also introduce the terms like Loss aversion, sunk costs, discounting. It will give a distinction between the thought processes of econs and humans. Lastly, the course also delves into the topic of discrimination and its types, evidences and consequenes and how policies have been introduced to reduce the various gaps.",
+  "learning_goals": [
+    "Economics",
+    "Psychology",
+    "Public Policies",
+    "Decision Making"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ritwik-banerjee",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Indian Institute of Management Bangalore"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 546,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

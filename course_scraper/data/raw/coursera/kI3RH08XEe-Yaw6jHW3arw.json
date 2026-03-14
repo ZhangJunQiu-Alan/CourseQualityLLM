@@ -1,0 +1,26 @@
+{
+  "course_id": "kI3RH08XEe-Yaw6jHW3arw",
+  "platform": "coursera",
+  "title": "Building and Training Neural Networks with PyTorch",
+  "slug": "packt-building-and-training-neural-networks-with-pytorch-jmkne",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach — your interactive learning companion that helps you test your knowledge, challenge assumptions, and deepen your understanding as you progress.\n\nMaster the power of neural networks with this hands-on deep learning course built entirely in PyTorch. Designed for data scientists, AI practitioners, and developers, this course guides you step by step through building, training, and evaluating models for image, audio, and sequence-based tasks using one of the industry’s most popular frameworks.\n\nYou’ll begin by exploring classification models, learning how to handle binary and multi-class problems, interpret confusion matrices, and analyze ROC curves. Through practical exercises, you’ll prepare data, design dataset classes, and build your own neural network architectures to solve real classification challenges.\n\nNext, you’ll move into Convolutional Neural Networks (CNNs), where you’ll develop both image and audio classification systems. You’ll learn how CNN layers work, implement preprocessing pipelines, and construct models for binary and multi-class image tasks. You’ll also extend these skills to audio classification, giving you a broader understanding of how CNNs apply across domains.\n\nFrom there, you’ll dive into object detection, mastering accuracy metrics, labeling formats, and the YOLO (You Only Look Once) algorithm. Hands-on coding sessions walk you through data preparation, training, and inference so you can build complete, end-to-end detection workflows.\n\nIn the final modules, you’ll explore neural style transfer, transfer learning with pre-trained networks, and sequence modeling using RNNs and LSTMs — gaining the skills to tackle advanced deep learning applications.\n\nBy the end of this course, you will have:\n- Built and evaluated neural network models for binary and multi-class classification.\n- Designed and trained CNNs for image and audio data.\n- Implemented object detection workflows using YOLO.\n- Applied neural style transfer and leveraged pre-trained models for transfer learning.\n- Developed RNN and LSTM models for sequence-based tasks.\n- Gained the confidence to use PyTorch for real-world deep learning projects.\n\nThis course is ideal for learners with experience in Python and a foundational understanding of machine learning and deep learning concepts who want to advance their skills in building neural networks with PyTorch.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-building-and-training-neural-networks-with-pytorch-jmkne",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

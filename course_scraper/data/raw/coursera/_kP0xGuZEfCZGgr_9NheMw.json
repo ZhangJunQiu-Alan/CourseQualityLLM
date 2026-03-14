@@ -1,0 +1,26 @@
+{
+  "course_id": "_kP0xGuZEfCZGgr_9NheMw",
+  "platform": "coursera",
+  "title": "Automation and Modern Testing Tools",
+  "slug": "automation-and-modern-testing-tools",
+  "description": "Build on your testing foundation by exploring automation and modern quality assurance practices that shape today’s software industry. This course introduces learners to automation basics, specialized testing techniques, and emerging trends such as AI-powered testing and cloud-based solutions. With a focus on practical skills, you will write simple test scripts, execute performance and API tests, and apply security checks using lightweight tools and frameworks.\n\nYou will begin by understanding the value of automation, setting up basic scripts in an integrated development environment, and exploring use cases for functional and regression testing. The course then moves into specialized testing practices where you will run performance, API, and security tests, learn to identify bottlenecks, validate responses, and apply secure coding guidelines.\n\nFinally, you will explore modern approaches to quality assurance including AI-assisted test generation, cloud-based testing platforms, and integration of automated tests within CI/CD pipelines. Through examples, guided exercises, and assessments, you will gain the confidence to apply automation and modern tools in professional projects.\n\nBy the end of this course, you will be able to:\n\n- Write and execute simple automation scripts for functional and regression testing.\n- Apply performance, API, and security testing techniques using lightweight tools.\n- Use AI-based tools for generating and enhancing test coverage.\n- Implement cloud-based testing strategies and integrate QA in CI/CD workflows.\n\nDisclaimer: This is an independent educational resource created by Board Infinity for informational and educational purposes only. This course is not affiliated with, endorsed by, sponsored by, or officially associated with any company, organization, or certification body unless explicitly stated. The content provided is based on industry knowledge and best practices but does not constitute official training material for any specific employer or certification program. All company names, trademarks, service marks, and logos referenced are the property of their respective owners and are used solely for educational identification and comparison purposes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "4 weeks of study, 3–4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/automation-and-modern-testing-tools",
+  "instructors": [
+    {
+      "name": "Board Infinity",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Board Infinity "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

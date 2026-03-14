@@ -1,0 +1,31 @@
+{
+  "course_id": "1206704818",
+  "platform": "mooc_cn",
+  "title": "集成电路测试与验证",
+  "description": "《集成电路测试与验证》是面向微电子学、电子科学与技术等专业开设的专业必修课，介绍集成电路测试与验证技术，适合具有数字电路设计背景的研究生或高年级本科生学习。课程内容包括：集成电路测试背景简介；可测试性分析：故障模拟与仿真：自动测试生成； 基于现代仿真工具的数字电路测试方法实践等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206704818",
+  "instructors": [
+    {
+      "name": "杨丹;闫欣;金硕巍;李贞妮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6206,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

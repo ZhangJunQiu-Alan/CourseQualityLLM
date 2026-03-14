@@ -1,0 +1,31 @@
+{
+  "course_id": "-m3Rec5yEfCGDQr_wTYZuQ",
+  "platform": "coursera",
+  "title": "Aerospace 3D Printing: Additive Manufacturing",
+  "slug": "aerospace-3d-printing-additive-manufacturing",
+  "description": "Complex aerospace components that once took months to manufacture are now printed in days. Major aerospace companies like GE Aviation and Airbus have revolutionized production through additive manufacturing, achieving 50% weight reductions while exceeding performance standards. This transformation represents the industry's shift to mission-critical 3D printing capabilities.\n\nThis comprehensive course equips engineers with essential additive manufacturing knowledge tailored for aerospace applications. You'll master AM principles, from layer-by-layer fabrication to aerospace-specific material science, strategic advantages of AM in aerospace, materials selection and process optimization, and advanced design methodologies including topology optimization. Through real-world case studies, you'll analyze successful implementations and navigate challenges in quality control and certification.\n\nThis course is for aerospace, mechanical, and manufacturing engineers, as well as R&D and design professionals aiming to apply 3D printing in aerospace. It also suits advanced learners seeking to connect engineering design, materials, and additive manufacturing technologies.\n\nLearners should have a basic understanding of 3D printing, CAD, and common aerospace materials. They should also be familiar with core aerospace engineering concepts and general manufacturing processes.\n\nBy course completion, you'll evaluate components for AM suitability, select optimal materials and processes, and apply lightweight design strategies. You'll also master SLM, EBM, and DED techniques, preparing you to lead AM initiatives while ensuring aerospace compliance.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "60 Minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aerospace-3d-printing-additive-manufacturing",
+  "instructors": [
+    {
+      "name": "Lluis Foreman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

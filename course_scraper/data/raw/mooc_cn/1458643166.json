@@ -1,0 +1,31 @@
+{
+  "course_id": "1458643166",
+  "platform": "mooc_cn",
+  "title": "数据库原理及应用",
+  "description": "本课程是计算机科学与技术专业一门重要的学科基础课，该课程介绍数据库原理、数据库设计、数据库SQL语言、数据库管理等方面知识与技术方法。同时该课程又是一门实践性强的基础课程，它在计算机科学与技术专业课程体系中，对建立学生数据库系统分析、数据库设计、数据库访问等专业能力具有重要作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458643166",
+  "instructors": [
+    {
+      "name": "魏祖宽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15833,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

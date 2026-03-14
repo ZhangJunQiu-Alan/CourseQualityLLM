@@ -1,0 +1,35 @@
+{
+  "course_id": "course-00a8431b-01a8-4f69-83b8-eab4785a71f8",
+  "platform": "edx",
+  "title": "Linear Algebra I: Linear Equations",
+  "description": "Systems of equations live at the heart of linear algebra. In this course you will explore fundamental concepts by exploring definitions and theorems that give a basis for this subject. At the start of this course we introduce systems of linear equations and a systematic method for solving them. This algorithm will be used for computations throughout the course as you investigate applications of linear algebra and more complex algorithms for analyzing them.  \n Later in this course you will later see how a system of linear equations can be represented in other ways, which can reduce problems involving linear combinations of vectors to approaches that involve systems of linear equations. Towards the end of the course we explore linear independence and linear transformations. They have an essential role throughout our course and in applications of linear algebra to many areas of industry, science, and engineering. __",
+  "learning_goals": [
+    "Basic Math",
+    "Algorithms",
+    "Linear Algebra",
+    "Linear Equations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "3 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "greg-mayer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1528,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

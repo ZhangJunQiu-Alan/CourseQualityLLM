@@ -1,0 +1,31 @@
+{
+  "course_id": "1003762009",
+  "platform": "mooc_cn",
+  "title": "交通管理与控制",
+  "description": "全面了解交通管理的基本理论和基本内容；掌握点、线、面信号控制优化方法；具备交通管理与控制设施的设计和优化能力。本课程含73个知识点，适合交通工程类相关专业的本科生和研究生，以及从事交通运输规划管理领域的技术人员学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003762009",
+  "instructors": [
+    {
+      "name": "袁振洲;吴先宇;谷远利;岳昊;王江锋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10630,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

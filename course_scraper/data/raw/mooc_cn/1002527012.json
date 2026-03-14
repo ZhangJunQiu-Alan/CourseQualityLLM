@@ -1,0 +1,31 @@
+{
+  "course_id": "1002527012",
+  "platform": "mooc_cn",
+  "title": "学前教育学",
+  "description": "《学前教育学》作为学前教育专业的核心课程和主干课程，旨在让学生掌握学前教育的基本理论，为培养从事学前教育教学、科学研究及管理的专门人才奠定相应的专业基础，对学生专业素质和专业实践能力的提升起着奠基和引领作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002527012",
+  "instructors": [
+    {
+      "name": "杨晓萍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 74820,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

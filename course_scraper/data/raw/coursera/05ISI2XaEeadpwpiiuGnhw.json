@@ -1,0 +1,26 @@
+{
+  "course_id": "05ISI2XaEeadpwpiiuGnhw",
+  "platform": "coursera",
+  "title": "Hands-on Text Mining and Analytics",
+  "slug": "text-mining-analytics",
+  "description": "This course provides an unique opportunity for you to learn key components of text mining and analytics aided by the real world datasets and the text mining toolkit written in Java. Hands-on experience in core text mining techniques including text preprocessing, sentiment analysis, and topic modeling help learners be trained to be a competent data scientists. \n\nEmpowered by bringing lecture notes together with lab sessions based on the y-TextMiner toolkit developed for the class, learners will be able to develop interesting text mining applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/text-mining-analytics",
+  "instructors": [
+    {
+      "name": "Min Song",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Yonsei University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

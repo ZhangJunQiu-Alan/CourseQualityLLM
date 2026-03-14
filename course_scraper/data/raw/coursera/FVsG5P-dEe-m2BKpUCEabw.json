@@ -1,0 +1,26 @@
+{
+  "course_id": "FVsG5P-dEe-m2BKpUCEabw",
+  "platform": "coursera",
+  "title": "Docker Fundamentals - Understanding Containers and Images",
+  "slug": "packt-docker-fundamentals-understanding-containers-and-images-pxlac",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this comprehensive Docker course, you'll master the fundamentals of containerization, including how to create, manage, and deploy containers and Docker images. By the end of the course, you'll be able to understand the differences between containers and virtual machines, set up Docker on multiple platforms, manage containers using the Docker CLI, and build and optimize Docker images. You'll also learn how to containerize real-world applications like NGINX, Express, and React, giving you the hands-on experience needed for practical deployment.\nThe course begins with an introduction to Docker and containers, explaining their core benefits and architecture. You'll also set up Docker on MacOS, Linux, and Windows, ensuring you're ready for real-world development environments. Play with Docker will also be explored for quick container experiments.\nBy the end, you will have completed projects that involve building and deploying containerized applications, reinforcing your knowledge and confidence in Docker.\nThis course is ideal for beginners with a basic understanding of software development. No prior experience with Docker is required.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-docker-fundamentals-understanding-containers-and-images-pxlac",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

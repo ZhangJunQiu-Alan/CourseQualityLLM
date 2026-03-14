@@ -1,0 +1,26 @@
+{
+  "course_id": "oqo7l8INEeqJbRLDK47tvw",
+  "platform": "coursera",
+  "title": "A Practical Introduction to Test-Driven Development",
+  "slug": "a-practical-introduction-to-test-driven-development",
+  "description": "To be a proficient developer you need to have a solid grasp of test writing before putting code into production. In this course, we will take a hands-on look at Test-Driven Development by writing and implementing tests as soon as week one. TDD starts with good unit tests, so we will start there. Topics will also cover translating user specs into unit tests, applying the Red-Green-Refactor mantra, and applying mocks in python with the unittest.mock module. Once finished, you will have covered all the steps of TDD before development",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/a-practical-introduction-to-test-driven-development",
+  "instructors": [
+    {
+      "name": "LearnQuest Network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LearnQuest"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1463197162",
+  "platform": "mooc_cn",
+  "title": "光学材料",
+  "description": "本课程是描述光与物质相互作用时光学材料的性能及应用的专业课程，同学们在接触本课程以前，缺乏对于物质结构，材料性能的了解。而对光学材料的深入了解是学生更好地学习后续专业课程光电子学、光电检测技术等的基础，因此本课程在课程建设时重基础，并注重与核心专业课程的知识点衔接。学生通过本课程的学习，应该掌握关于物质结构、性能、应用三者之间的关联，懂得如何处理各向异性介质中光电子性能的表达，懂得在不同应用场合下如何选择需要的光学材料，并通过材料参数判断器件性能的优劣。本课程还能够为学生在后续研究生阶段的科学研究方面提供足够的专业知识。能拓宽光电学院同学的知识面，同时培养学生对新知识的学习能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463197162",
+  "instructors": [
+    {
+      "name": "叶辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2852,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

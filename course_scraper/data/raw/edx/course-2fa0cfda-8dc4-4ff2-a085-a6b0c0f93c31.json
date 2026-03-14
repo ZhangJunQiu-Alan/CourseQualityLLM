@@ -1,0 +1,36 @@
+{
+  "course_id": "course-2fa0cfda-8dc4-4ff2-a085-a6b0c0f93c31",
+  "platform": "edx",
+  "title": "Introduction to Probability Management",
+  "description": "This course assumes that you are comfortable with Microsoft Excel, but you do not need training in statistics. If you wish to receive a verified certificate, you must download the free  SIPmath™ Modeler Tools for Excel  from nonprofit ProbabilityManagement.org, and it is recommended that you procure   The Flaw of Averages: Why we Underestimate Risk in the Face of Uncertainty  , John Wiley &amp; Sons, either the 1st or 2nd Edition.",
+  "learning_goals": [
+    "Communications",
+    "Probability",
+    "Management",
+    "Statistics",
+    "Microsoft Excel"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 1-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "sam-savage",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 555,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

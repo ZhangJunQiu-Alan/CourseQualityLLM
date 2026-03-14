@@ -1,0 +1,31 @@
+{
+  "course_id": "1002145001",
+  "platform": "mooc_cn",
+  "title": "金属工艺学",
+  "description": "本课程是一门实践性很强的技术基础课，是一门研究金属零件制造工艺方法的综合性技术基础课，它涉及到材料成形方法和机械加工方法。从材料到毛坯、又由毛坯到零件的工艺过程是贯穿零件制造过程的一条主线，是培养理工科学生实践能力、创新能力，以及综合分析解决工程实际问题能力的重要基础课程之一。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002145001",
+  "instructors": [
+    {
+      "name": "陈云;滕庆;吴超华;彭兆;杜艳迎;黄丰;杨爽;江丽;史晓亮;熊新红;胡勇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56705,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1453940163",
+  "platform": "mooc_cn",
+  "title": "动力气象学",
+  "description": "动力气象学是在热力学和流体力学的基础上，系统地讲述大气的动力、热力过程和大气运动的基本规律的一门大气科学类专业最核心课程，侧重理论培养。通过学习本课程，使学习者能深入理解大气动力学的基本理论和动力学分析方法，为后续学习其他课程、从事气象业务及研究工作打下基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1453940163",
+  "instructors": [
+    {
+      "name": "潘玉洁;郭品文;马红云;董丽娜;张文君;陈桦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11779,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "-nDPjqm_EfC7FAr_15dkeQ",
+  "platform": "coursera",
+  "title": "Data-driven websites: JSON, APIs and Templates",
+  "slug": "data-driven-websites-apis-and-templates",
+  "description": "In this course, you will learn how to use JavaScript and data to turn static web pages into dynamic, interactive applications. Through interactive, guided lab activities on Coursera, you will manipulate the Document Object Model (DOM) and use structured data to generate and update content in the browser.\n\nYou will work with JSON data, learning how it is structured and how JavaScript can load, parse and process it. Using practical exercises, you will convert JSON into HTML, implement loops and searches, and dynamically display data on web pages. The course also introduces the principles of REST APIs, explaining how web applications communicate using HTTP and how JavaScript can retrieve and integrate real-world data.\n\nFinally, you will explore template engines and their role in generating dynamic content. By creating and integrating templates in hands-on labs and assessments, you will develop the skills needed to build data-driven web applications using modern JavaScript techniques.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of studying at 2-3 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-driven-websites-apis-and-templates",
+  "instructors": [
+    {
+      "name": "Professor Matthew Yee-King",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of London"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

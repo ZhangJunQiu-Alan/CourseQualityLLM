@@ -1,0 +1,31 @@
+{
+  "course_id": "1206909801",
+  "platform": "mooc_cn",
+  "title": "基础会计学",
+  "description": "本课程基础会计学入选国家一流课程，通过本课程的学习，可使学生掌握会计学的基本理论、基本方法和基本技能，进而能够熟练掌握和运用各种会计核算方法，包括设置会计科目与账户、复式记账、填制与审核会计凭证、登记会计账簿、财产清查和编制会计报表，正确处理相关专业事务等知识点。为学生更加深入学习其他专业会计课程奠定坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206909801",
+  "instructors": [
+    {
+      "name": "程子健",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33043,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753228",
+  "platform": "mooc_cn",
+  "title": "纳米新能源材料与技术",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753228",
+  "instructors": [
+    {
+      "name": "董彬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12912,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

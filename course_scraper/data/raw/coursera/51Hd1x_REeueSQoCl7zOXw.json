@@ -1,0 +1,26 @@
+{
+  "course_id": "51Hd1x_REeueSQoCl7zOXw",
+  "platform": "coursera",
+  "title": "Estruturas de dados Python",
+  "slug": "python-data-pt",
+  "description": "Este curso apresentará as estruturas de dados centrais da linguagem de programação Python. Vamos superar os fundamentos da programação de procedimentos e explorar como podemos usar as estruturas de dados integradas do Python, como listas, dicionários e tuplas, para realizar análises de dados cada vez mais complexas. Este curso cobrirá os capítulos 6 a 10 do livro “Python para Todos”.  Este curso aborda o Python 3.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "2 a 4 horas/semana",
+  "language": "pt-BR",
+  "url": "https://www.coursera.org/learn/python-data-pt",
+  "instructors": [
+    {
+      "name": "Charles Russell Severance",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Michigan"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

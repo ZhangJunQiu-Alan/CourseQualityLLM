@@ -1,0 +1,26 @@
+{
+  "course_id": "k-AxocNTEe-LvhIuPUA7nw",
+  "platform": "coursera",
+  "title": "Networking in Google Cloud: Load Balancing - 日本語版",
+  "slug": "networking-in-google-cloud-load-balancing-ja",
+  "description": "このトレーニング コースは、「Networking in Google Cloud:  Fundamentals」コースで説明したコンセプトをベースに構築されています。プレゼンテーションやデモ、ラボを通じて、Cloud Load Balancing について詳しく学び、実装します。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/networking-in-google-cloud-load-balancing-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

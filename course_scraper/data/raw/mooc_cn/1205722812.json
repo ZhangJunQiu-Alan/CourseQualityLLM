@@ -1,0 +1,31 @@
+{
+  "course_id": "1205722812",
+  "platform": "mooc_cn",
+  "title": "商务英语",
+  "description": "《商务英语》是面向非英语专业本科生开设的一门英语拓展课程，需要较高的英语语言能力。本课程从听、说、读、写四个方面进行训练，提供大量真实、生动的商务背景和商务情景，使学生在掌握语言技能的同时，了解现代国际商务的现状，以达到在体验商务中学习语言、提高商务交际能力的目的。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205722812",
+  "instructors": [
+    {
+      "name": "陈娴",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 37488,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

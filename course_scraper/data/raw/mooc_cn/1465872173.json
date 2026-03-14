@@ -1,0 +1,31 @@
+{
+  "course_id": "1465872173",
+  "platform": "mooc_cn",
+  "title": "电路分析基础（Electrical Circuit Principles）",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465872173",
+  "instructors": [
+    {
+      "name": "华斯亮;范瑜;霍铖宇;钱枫;张静亚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 700,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

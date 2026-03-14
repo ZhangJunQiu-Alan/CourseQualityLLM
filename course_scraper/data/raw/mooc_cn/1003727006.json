@@ -1,0 +1,31 @@
+{
+  "course_id": "1003727006",
+  "platform": "mooc_cn",
+  "title": "走进林纾",
+  "description": "通过这门课的学习，同学们会对林纾及林纾与他的家人、师长、朋友有新的认识，会对林纾的古文、林纾的翻译、林纾的绘画等方面成就有新的认识，会对在近代中国历史上的地位有客观的评价。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003727006",
+  "instructors": [
+    {
+      "name": "朱晓慧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3942,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

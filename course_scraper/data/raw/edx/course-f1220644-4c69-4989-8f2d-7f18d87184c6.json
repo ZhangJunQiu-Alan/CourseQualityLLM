@@ -1,0 +1,35 @@
+{
+  "course_id": "course-f1220644-4c69-4989-8f2d-7f18d87184c6",
+  "platform": "edx",
+  "title": "VITARA-Enterprise Risk Management",
+  "description": "This short, self-paced course provides fundamental knowledge on modern Enterprise Risk Management (ERM) good practices. The strategic goal of ERM is to understand and manage enterprise risks (including compliance, IT, HR, finance, project, and reform-related risks) in a holistic, structured, and systematic fashion. ERM informs strategy and planning and thus improve the quality and viability of strategies and organizational performance. ERM seeks to ensure that significant organizational risks (which can also be thought of as barriers, threats, or obstacles) are recognized. It also ensures that where required, and to the extent possible, these risks are mitigated to acceptable levels and possibly turned into opportunities. \n The course includes many practical ERM tools, methodologies, and templates that help participants implement what they learned.This course is a joint initiative of four international organizations: Inter-American Center of Tax Administrations (CIAT), Intra-European Organisation of Tax Administrations (IOTA), International Monetary Fund (IMF), and Organisation for Economic Co-operation and Development (OECD).",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "thomas-brandt",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "brian-philbin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 321,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

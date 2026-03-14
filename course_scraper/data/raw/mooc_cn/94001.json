@@ -1,0 +1,31 @@
+{
+  "course_id": "94001",
+  "platform": "mooc_cn",
+  "title": "机械设计",
+  "description": "机械工业是为国民经济各部门提供装备的行业。一个新的机械产品的诞生，产品设计是第一道工序。产品设计水平是一个国家创新能力和竞争能力的决定因素。“机械设计”是一门培养学生具有机械设计能力的技术基础课，可以通过学习该课程来掌握各种机器当中普遍使用的通用零部件的设计理论和方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/94001",
+  "instructors": [
+    {
+      "name": "吴鹿鸣;罗大兵;张祖涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 119191,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

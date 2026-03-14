@@ -1,0 +1,31 @@
+{
+  "course_id": "D2HutVIzEe6MRw5v85QxTw",
+  "platform": "coursera",
+  "title": "Data Visualization and Transformation with R",
+  "slug": "data-visualization-transformation-r",
+  "description": "Learn the foundations of data science by exploring, transforming, and visualizing data with R. In this course, you’ll develop core skills in exploratory data analysis and statistical thinking including: using visualizations to uncover patterns, identifying trends, and generating insights.\n\nYou’ll gain hands-on experience with Tidyverse packages in R, work in RStudio, and create reproducible reports with Quarto. Along the way, you’ll also learn version control practices with Git and GitHub to document and share your work.\n\nBy the end of this course, you’ll be able to transform and summarize data, craft clear and informative graphics, and communicate your findings through professional, reproducible workflows - laying the groundwork for all your future data science projects.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-visualization-transformation-r",
+  "instructors": [
+    {
+      "name": "Mine Çetinkaya-Rundel",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Dr. Elijah Meyer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Duke University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

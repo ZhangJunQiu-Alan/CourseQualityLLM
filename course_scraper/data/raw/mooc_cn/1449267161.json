@@ -1,0 +1,31 @@
+{
+  "course_id": "1449267161",
+  "platform": "mooc_cn",
+  "title": "工程传热学",
+  "description": "强调工程性和应用性、注重培养学生的学习能力和运用知识的能力、注重培养学生的创新能力",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449267161",
+  "instructors": [
+    {
+      "name": "罗小兵;刘伟;邬田华;龙妍;杨昆",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 7296,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

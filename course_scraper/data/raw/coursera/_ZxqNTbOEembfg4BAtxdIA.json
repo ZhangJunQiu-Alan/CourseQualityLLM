@@ -1,0 +1,26 @@
+{
+  "course_id": "_ZxqNTbOEembfg4BAtxdIA",
+  "platform": "coursera",
+  "title": "Sistemas operativos y tú: Convertirse en un usuario avanzado",
+  "slug": "sistemas-operativos",
+  "description": "En este curso, a través de una combinación de conferencias de video, demostraciones y prácticas, aprenderás acerca de los componentes principales de un sistema operativo y cómo realizar tareas críticas tales como administrar software y usuarios, y configurar hardware. Vamos a terminar con un ejemplo de cómo puede aparecer este contenido en una entrevista.\n\nAl final de este curso, podrás:\n● navegar por los sistemas de archivos de Windows y Linux utilizando una interfaz gráfica de usuario y un intérprete de línea de comandos.\n● configurar usuarios, grupos y permisos para el acceso a la cuenta.\n● instalar, configurar y eliminar software en los sistemas operativos Windows y Linux.\n● configurar particiones de disco y sistemas de archivos.\n● comprender cómo funcionan los procesos del sistema y cómo gestionarlos.\n● trabajar con registros del sistema y herramientas de conexión remota.\n● utilizar el conocimiento del sistema operativo para solucionar problemas comunes en un rol de Especialista de soporte de TI.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "8 - 10 horas por semana",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/sistemas-operativos",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

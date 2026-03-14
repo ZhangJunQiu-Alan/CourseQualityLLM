@@ -1,0 +1,31 @@
+{
+  "course_id": "1205915818",
+  "platform": "mooc_cn",
+  "title": "Java程序设计",
+  "description": "Java是目前世界上最流行的计算机编程语言，Java内容繁多，因此一些Java课程无暇顾及程序基本设计思想，而是要求学习者具备编程经验，特别是大多将C语言作为学习本课程的先修课程。我们没有这个约束，一切从零开始学习程序设计。没有程序设计经验？或者只具备简单的程序设计能力？这门课程都适合你。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205915818",
+  "instructors": [
+    {
+      "name": "李金双;张昱;李凤云",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 41556,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

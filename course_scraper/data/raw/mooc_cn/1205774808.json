@@ -1,0 +1,31 @@
+{
+  "course_id": "1205774808",
+  "platform": "mooc_cn",
+  "title": "精细化工实验",
+  "description": "从衣食住行到高新技术领域，精细化工产品无处不在。来吧，和我们一起探索产品背后的奥秘，享受创造的乐趣！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205774808",
+  "instructors": [
+    {
+      "name": "徐志斌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4795,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

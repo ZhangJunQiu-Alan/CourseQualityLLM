@@ -1,0 +1,49 @@
+{
+  "course_id": "course-3096d18e-5466-41af-8214-461e1dc25498",
+  "platform": "edx",
+  "title": "Applied Scrum for Agile Project Management",
+  "description": "Scrum and Agile are often considered synonymous, and there is a good reason. Scrum embodies the simplest and most pure approach to managing project work at the team level. Scrum is employed by over half of all Agile practitioners across all industries. While agile may have started in software development, many industries now use an agile methodology to deliver their work. The basis for agile, the agile manifesto, extends well beyond its origins in extreme programming and agile software development. Development teams around the world are now using kanban boards and assigning strong product owners to direct self-organizing teams to deliver on prioritized product backlogs. And nearly every new product has some sort of IT component and goes through an agile development lifecycle. \r\n \r\n \r\n Today nearly 100% of IT organizations use Agile and many other industries are quickly following; \r\n \r\n \r\n The likelihood of being on a Scrum or Scrum-like project is quickly approaching 50/50 or better over time. \r\n \r\n \r\n While the Mastering Agile Professional Certificate program emphasizes principles at the heart of all Agile frameworks, in this course we start by learning the key project management processes, roles, mechanics, and philosophies behind Scrum. This will provide the basis for all understanding Agile in its purest form over four weeks exploring Why, Who, How, and finally What Scrum looks like applied in the real world. From understanding the agile team members, like scrum master and product owner, to the important differences in lean and agile processes. \r\n While this course will not make you an agile certified practitioner (PMI-ACP), or certified scrum master (CSM), it offers a more fundamental agile certification based on agile principles and how scaled agile is applied in industry today. You'll finish this course more than ready to begin your agile journey, which we hope takes you to the next course in the series on “Sprint Planning for Faster Agile Team Delivery.” \r\n Upon successful completion of this course, learners can earn 10 Professional Development Unit (PDU) credits, which are recognized by the Project Management Institute (PMI). PDU credits are essential to those looking to maintain certification as a Project Management Professional (PMP).",
+  "learning_goals": [
+    "Agile Project Management",
+    "New Product Development",
+    "Project Management Professional Certification",
+    "Auditing",
+    "Scrum (Software Development)",
+    "Project Management",
+    "Certified Scrum Master",
+    "Mechanics",
+    "Agile Software Development",
+    "Backlogs",
+    "Sprint Planning",
+    "Extreme Programming",
+    "Software Development",
+    "Agile Methodology",
+    "Project Management Institute (PMI) Methodology",
+    "Kanban Principles",
+    "Lean Manufacturing",
+    "PMI Agile Certified Practitioner"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "john-johnson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Maryland, College Park"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2134,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

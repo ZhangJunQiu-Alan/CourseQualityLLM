@@ -1,0 +1,31 @@
+{
+  "course_id": "1450151240",
+  "platform": "mooc_cn",
+  "title": "复变函数与积分变换",
+  "description": "课程将带给大家基本内容和相关应用。复变函数源于18世纪，在柯西、黎曼、维尔斯特拉斯等的工作下统治了19世纪的数学，20世纪，张杨定理，列夫勒、阿达玛等的成果开拓了其广阔的研究领域。积分变换源于19世纪，它将复杂，耗时的运算简单、快速完成，满足于不同的需要。其在人工智能、量子物理等领域得到广泛应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450151240",
+  "instructors": [
+    {
+      "name": "田清;林芳;苏变萍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安建筑科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17195,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

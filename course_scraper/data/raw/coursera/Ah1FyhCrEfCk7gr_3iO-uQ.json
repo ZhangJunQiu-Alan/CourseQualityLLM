@@ -1,0 +1,26 @@
+{
+  "course_id": "Ah1FyhCrEfCk7gr_3iO-uQ",
+  "platform": "coursera",
+  "title": "Business Intelligence & Analytics",
+  "slug": "mooc-business-intelligence",
+  "description": "Esta asignatura será una inversión invaluable para su carrera profesional, proporcionando habilidades y conocimientos prácticos que podrán aplicar directamente en sus roles actuales y futuros donde se podrán sumergir en el fascinante mundo de la inteligencia de negocios y el análisis de datos, adquiriendo habilidades críticas para transformar datos en decisiones estratégicas que impulsen el éxito organizacional.  \nSe comenzará abordando el Business Intelligence, donde se definirán sus principios fundamentales y se explorarán herramientas clave de Business Analytics. Aprenderán a establecer y utilizar OKRs (Objetivos y Resultados Clave), KPIs (Indicadores Clave de Rendimiento) y métricas para medir y mejorar el rendimiento empresarial, comprendiendo cómo el análisis de datos puede influir en la toma de decisiones. Exploraremos la jerarquía DIKW. los modelos de datos dimensionales y, el esquema estrella, para mejorar la precisión del análisis.  \nEl curso también abarcará los componentes esenciales de una arquitectura de Business Analytics, explorando soluciones de cloud computing como IaaS, PaaS y SaaS, y analizando elementos clave de cualquier solución de datos. Aprenderán sobre sistemas de planificación de recursos empresariales (ERP) y sistemas operacionales, y cómo estos se integran en la gestión de datos. Se profundizará en los procesos de Extracción, Transformación y Carga de datos (ETL/ELT) y en diferentes tipos de repositorios de datos, como data warehouses, data lakes, lakehouses y data marts. También se enseñarán técnicas avanzadas de análisis e interpretación de datos, junto con métodos para optimizar y automatizar procesos de BI. \nAbordaremos la importancia del gobierno de datos, aprenderán enfoques básicos para la gestión de datos centrados en transparencia, responsabilidad, estandarización y gestión del cambio. Se discutirán aspectos críticos como la privacidad, con un enfoque en leyes como el GDPR, y se abordarán temas de disponibilidad, usabilidad, consistencia, seguridad, integridad y calidad de los datos, asegurando la integridad y confianza en los sistemas de BI. \nLa visualización y el storytelling con datos serán temas clave, donde aprenderán a seleccionar gráficos adecuados, elegir herramientas ideales según el tipo de usuario, y aplicar las mejores prácticas de visualización. Se incluirá una introducción a herramientas como Looker Studio y técnicas de storyboarding para comunicar datos de manera efectiva, entendiendo la importancia del contexto, la empatía con la audiencia y cómo generar impacto y acción con sus presentaciones. \nEn resumen, el curso abordará la creación de una ventaja competitiva sostenible mediante el desarrollo de competencias, personas y procesos en Business Intelligence y Analytics, porque finalizando el curso discutiremos las habilidades necesarias para construir equipos de alto rendimiento y estrategias para la gestión del talento, preparando a los estudiantes no solo para manejar datos de manera efectiva, sino también para reconocer el camino para liderar iniciativas de BI que impulsen el éxito a largo plazo. \n\nObjetivos del curso: \n• Dimensionar el valor del Business Intelligence y la analítica para la generación y mejora de negocios, por medio de las herramientas a desarrollarse en el curso.  \n• Adquirir los conocimientos técnicos relacionados con el análisis de datos y la toma de decisiones basadas en ellos, para el éxito de los negocios.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 horas de estudio semanal.  ",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/mooc-business-intelligence",
+  "instructors": [
+    {
+      "name": "Verónica Lourdes Tomich",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad de Palermo"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

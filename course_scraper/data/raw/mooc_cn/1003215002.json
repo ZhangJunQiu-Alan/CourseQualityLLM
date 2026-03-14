@@ -1,0 +1,31 @@
+{
+  "course_id": "1003215002",
+  "platform": "mooc_cn",
+  "title": "Python语言程序设计基础",
+  "description": "本课程是针对非计算机专业学习者开设一门程序设计入门课程。课程的教学目的是通过理论教学与上机实践，使学习者掌握Python语言的基本语法，培养初步的动手编程能力，形成良好的编程风格，熟悉一些常用的简单算法，并了解程序设计的基本思想和方法。同时，本课程还是自学其他编程语言或者程序设计相关课程的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003215002",
+  "instructors": [
+    {
+      "name": "薛景;叶水仙",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 37321,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

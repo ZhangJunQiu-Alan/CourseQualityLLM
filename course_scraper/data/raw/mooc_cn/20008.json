@@ -1,0 +1,31 @@
+{
+  "course_id": "20008",
+  "platform": "mooc_cn",
+  "title": "航空发动机燃烧学",
+  "description": "《航空发动机燃烧学》将燃烧基础理论与航空发动机燃烧室的工程背景紧密结合，具有鲜明的航空专业特色，是航空、能源专业本科生必修的专业课之一。本课程旨在为学生建立系统深入的燃烧学理论基础，并从专业角度讲授燃烧理论在航空发动机燃烧室中的实际应用，是基础理论与工程实际相结合的航空专业课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/20008",
+  "instructors": [
+    {
+      "name": "张群;黄希桥;范玮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 29638,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

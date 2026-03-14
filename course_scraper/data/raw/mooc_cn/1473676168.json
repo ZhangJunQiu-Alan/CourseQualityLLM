@@ -1,0 +1,31 @@
+{
+  "course_id": "1473676168",
+  "platform": "mooc_cn",
+  "title": "遥感概论",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473676168",
+  "instructors": [
+    {
+      "name": "刘睿",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "重庆师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 174,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

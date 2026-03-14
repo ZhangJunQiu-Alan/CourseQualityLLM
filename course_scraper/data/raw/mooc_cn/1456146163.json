@@ -1,0 +1,31 @@
+{
+  "course_id": "1456146163",
+  "platform": "mooc_cn",
+  "title": "分析化学实验",
+  "description": "化学学习需要理论和化学实验相结合，二者相辅相成，缺一不可。分析化学实验慕课的设置为大家提供一个在线学习的平台，不受课堂教学的限制，随时随地进行学习。在这里，会受到系统、规范的分析化学实验训练。通过观看实验视频和完成在线测试，掌握和巩固分析化学实验的基础知识、基本操作和实验技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1456146163",
+  "instructors": [
+    {
+      "name": "张曦",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15427,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "oWzD09_AEfC6Fgr_yRcK4Q",
+  "platform": "coursera",
+  "title": "Analyze Supply Chain Demand Trends Using Heatmaps & Clusters",
+  "slug": "analyze-supply-chain-demand-trends-heatmaps",
+  "description": "Learners will be able to analyze supply chain demand trends, interpret heatmap visualizations, apply data preparation techniques, and evaluate clustering methods to uncover meaningful demand patterns. By the end of this course, learners will confidently explore demand data, compare visualization approaches, and derive actionable insights to support data-driven supply chain decisions.\n\nThis course is designed to help learners build practical machine learning–oriented analytical skills specifically for supply chain demand analysis. Learners will progress from understanding foundational supply chain concepts to applying advanced visualization and clustering techniques using heatmaps. Through step-by-step demonstrations, learners will learn how to prepare datasets, validate function inputs, discretize continuous data, and interpret multiple visual outputs effectively.\n\nWhat makes this course unique is its strong focus on visual analytics as a decision-support tool in supply chain management. Rather than emphasizing theory alone, the course demonstrates how real-world demand trends can be explored and compared using multiple analytical perspectives. This hands-on, visualization-driven approach enables learners to bridge the gap between raw data and strategic insight, making the course especially valuable for aspiring data analysts, supply chain professionals, and machine learning practitioners seeking applied, job-relevant skills.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/analyze-supply-chain-demand-trends-heatmaps",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

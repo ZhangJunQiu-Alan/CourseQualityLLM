@@ -1,0 +1,31 @@
+{
+  "course_id": "1464539181",
+  "platform": "mooc_cn",
+  "title": "数据库原理与应用",
+  "description": "《数据库原理与应用》是计算机专业的专业核心课程，也是该专业学生必须掌握的一门实践基础课程。本课程目的是让学生通过理论学习以及上机实践，初步了解数据库的设计、范式等理论知识，同时掌握如何创建数据库、相应表及表上的完整性约束等，并在创建的数据库上进行存储过程、事务、触发器、游标等的编写，从而进一步提高实践应用能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464539181",
+  "instructors": [
+    {
+      "name": "潘涛;黄慧;吕树红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "三江学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4734,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

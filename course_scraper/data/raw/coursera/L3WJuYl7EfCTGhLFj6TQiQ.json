@@ -1,0 +1,27 @@
+{
+  "course_id": "L3WJuYl7EfCTGhLFj6TQiQ",
+  "platform": "coursera",
+  "title": "Applied Mathematical Methods for Computing",
+  "slug": "applied-mathematical-methods-for-computing",
+  "description": "Mathematics underpins every aspect of computing, from algorithms and artificial intelligence to data analysis and cryptography. Applied Mathematical Methods for Computing equips you with essential tools in algebra, vectors, matrices, sequences, series, combinatorics, probability, and statistics. These methods provide the structure and reasoning needed to solve complex computational problems. Across four modules, you’ll explore advanced techniques, practise solving real-world examples, and build the confidence to apply mathematics in programming, algorithms, and data science. By the end, you’ll have a comprehensive toolkit for modelling systems, analysing uncertainty, and reasoning rigorously about computational tasks. Whether you’re preparing for advanced studies in computer science or strengthening your foundations for professional roles, this course offers the mathematical depth you need to succeed.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/applied-mathematical-methods-for-computing",
+  "instructors": [
+    {
+      "name": "Omar Karakchi",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of London",
+    "Goldsmiths, University of London"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

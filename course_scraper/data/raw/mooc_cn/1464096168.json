@@ -1,0 +1,31 @@
+{
+  "course_id": "1464096168",
+  "platform": "mooc_cn",
+  "title": "Organizational Behavior",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464096168",
+  "instructors": [
+    {
+      "name": "宁南;肖梦甜;刘园园;向姝婷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1243,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

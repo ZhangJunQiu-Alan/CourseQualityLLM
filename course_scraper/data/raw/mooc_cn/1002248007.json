@@ -1,0 +1,31 @@
+{
+  "course_id": "1002248007",
+  "platform": "mooc_cn",
+  "title": "电子技术（电工学 下）",
+  "description": "《电工学》课程于2003年被评为辽宁省首批精品课程，2014年被评为辽宁省精品资源共享课程，2018年评为国家精品在线开放课程。课程教学团队为辽宁省教学团队，年均授课学生2000余人。授课教材为本教研室编写，由高等教育出版社出版，目前已修订至第四版。该教材为国家级规划教材，全国首届优秀教材二等奖，辽宁省精品教材。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002248007",
+  "instructors": [
+    {
+      "name": "章艳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 51396,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

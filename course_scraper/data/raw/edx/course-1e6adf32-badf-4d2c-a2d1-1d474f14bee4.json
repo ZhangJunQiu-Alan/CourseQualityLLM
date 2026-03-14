@@ -1,0 +1,40 @@
+{
+  "course_id": "course-1e6adf32-badf-4d2c-a2d1-1d474f14bee4",
+  "platform": "edx",
+  "title": "AI in Healthcare. Hype or Help?",
+  "description": "Work and research in healthcare are evolving rapidly, partly because of innovative technology that is introduced due to a far-reaching digitization of the health sector. AI is one of these technologies that already influences healthcare today for the benefit of patients, professionals, and scholars, and it will continue to do so in the future. Therefore, current and future professionals and scholars, like yourself, will be challenged with the correct adoption of AI in healthcare. \n This course is intended to empower you as a healthcare professional or scholar with insights and critical knowledge on the AI era, general principles and concepts of AI, the added value of AI in healthcare and associated data, ethics and regulatory boundaries. The course considers AI in healthcare, both from the perspective of the healthcare professional who wants to be able to evaluate the benefits, limitations and pitfalls of (working with) AI; as well as from the developer’s perspective, who needs to be aware of the technical background in establishing and validating algorithms for AI applications, as well as of the healthcare context.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "12 周，每周 2-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "peter-claes",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "maarten-de-vos",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "christos-chatzichristos",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "KU Leuven"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 553,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

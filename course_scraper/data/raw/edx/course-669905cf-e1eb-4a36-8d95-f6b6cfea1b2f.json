@@ -1,0 +1,43 @@
+{
+  "course_id": "course-669905cf-e1eb-4a36-8d95-f6b6cfea1b2f",
+  "platform": "edx",
+  "title": "Fundamentals of Financial Mathematics and Capital Budgeting.",
+  "description": "This course begins with a look at the determinants of value. We will cover two main approaches to valuing businesses as going concerns, discounting cash flows and valuation ratios, including the inputs needed to perform the calculations and how each deal with risk. \n We then proceed to look at the time value of money concepts - present value and future value and the role interest rates plays in the calculation of each. This course also covers the impact of different compounding frequencies and explains the methodologies used to make comparisons between interest rates based on different compounding conventions. \n We’ll learn how to calculate the future value of lump sums and cash flow streams (including period certain annuities) as well as calculate the present value of lump sums, cash flow streams (including period certain annuities and perpetuities—both constant and growing). \n The course also covers in in detail the three main approaches to capital budgeting decisions (Payback, Internal Rate of Return and Net Present Value Analysis), including the conceptual framework, input values and decision rules for each. We’ll wrap up this course with a look at the strengths and weaknesses of each of three main approaches to capital budgeting decisions and modification to Payback and IRR that attempt to address the shortcomings of each. \n This course is part 1 of the New York Institute of Finance’s Corporate Finance &amp; Valuation Methods Professional Certificate. \n  Free Preview! Access Module 1 for free. For full course access, upgrade to a verified certificate.",
+  "learning_goals": [
+    "Financial Market",
+    "Time Value Of Money",
+    "Finance",
+    "Capital Budgeting",
+    "Calculations",
+    "Cash Flows",
+    "Mathematical Finance",
+    "Net Present Value",
+    "Conceptual Framework",
+    "Rate Of Return",
+    "Corporate Finance",
+    "Annuities"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "douglas-carroll",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "New York Institute of Finance"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 584,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

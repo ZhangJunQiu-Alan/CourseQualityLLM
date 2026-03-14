@@ -1,0 +1,26 @@
+{
+  "course_id": "xuyPtwThEfCSEQ5mmEHERQ",
+  "platform": "coursera",
+  "title": "Statistics & Mathematics for Data Science & Data Analytics",
+  "slug": "packt-statistics-mathematics-for-data-science-data-analytics-4lkug",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course equips you with essential statistical and mathematical tools to become proficient in data science and analytics. You will learn key concepts in descriptive statistics, probability theory, regression analysis, hypothesis testing, and more. By the end of the course, you will have a deep understanding of how statistical methods can be applied to solve real-world data problems and enhance data-driven decision-making.\n\nThe course begins with an introduction to the basics of descriptive statistics, such as measures of central tendency, dispersion, and the differences between sample and population data. You will then explore distributions, including the normal distribution and Z-scores, and how to apply them in various scenarios. The journey continues with probability theory, where you will tackle concepts like Bayes' theorem, expected value, and the central limit theorem, building a solid foundation for statistical analysis.\n\nNext, you will dive into hypothesis testing and learn how to perform tests like t-tests and proportion testing. You will also understand the significance of confidence intervals, the margin of error, and Type I and Type II errors. The regression section teaches you how to predict data values using linear regression, explore correlation coefficients, and analyze model accuracy with metrics such as MSE and RMSE.\n\nThis course is ideal for aspiring data scientists, analysts, and anyone who wants to use statistics to interpret data. No prior knowledge of statistics is required, though familiarity with basic mathematics will be helpful. The course is structured to be engaging and practical, offering exercises and real-world applications that allow you to practice your skills.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-statistics-mathematics-for-data-science-data-analytics-4lkug",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

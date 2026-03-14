@@ -1,0 +1,31 @@
+{
+  "course_id": "1449410161",
+  "platform": "mooc_cn",
+  "title": "通信原理",
+  "description": "通信技术正深刻改变人们的生产方式与生活习惯。如何高效可靠地传输文字、声音、图像、数据等多媒体信息是通信系统要解决的核心问题。“通信原理”是一门回答以上问题的课程。课程由国家优秀教学成果奖获得者，陕西省教学名师罗新民教授主讲，讲述中将提炼通信系统中的基本科学问题、揭示通信基本规律。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449410161",
+  "instructors": [
+    {
+      "name": "张莹;徐静;范建存;薛少丽;罗新民;李锋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 22105,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

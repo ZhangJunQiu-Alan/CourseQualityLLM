@@ -1,0 +1,31 @@
+{
+  "course_id": "1450328379",
+  "platform": "mooc_cn",
+  "title": "游戏开发程序设计基础",
+  "description": "课程主要介绍如何使用C语言进行游戏开发。课程围绕游戏开发为目标进行设计，每一章都会提供主要使用本章知识开发的游戏案例。提供了超过800分钟的视频课程。理论讲解部分会深入浅出，大量举例，利于理解。在实践部分，会提供手把手式的代码编写教学视频，帮助学生彻底理解并运用课程知识进行游戏开发。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450328379",
+  "instructors": [
+    {
+      "name": "韩红雷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国传媒大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19732,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

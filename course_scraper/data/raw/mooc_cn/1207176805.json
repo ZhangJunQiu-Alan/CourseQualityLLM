@@ -1,0 +1,31 @@
+{
+  "course_id": "1207176805",
+  "platform": "mooc_cn",
+  "title": "实验室安全学",
+  "description": "大家好！欢迎参加 “实验室安全学” 课程的学习。作为工科学生，到实验室进行科学研究是必不可少的环节。科学研究是对未知事物的探索，具有很大的不确定性。实验过程中，如何避免事故的发生，当事故发生后，如何选择正确的处理方法，如何保护自身的安全？通过这门课程的学习，你们一定会找到答案。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207176805",
+  "instructors": [
+    {
+      "name": "冯小平",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23168,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

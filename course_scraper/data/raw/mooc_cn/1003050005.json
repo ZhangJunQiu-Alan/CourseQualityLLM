@@ -1,0 +1,31 @@
+{
+  "course_id": "1003050005",
+  "platform": "mooc_cn",
+  "title": "西式简餐制作",
+  "description": "自己动手做美食，西式简餐不简单",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003050005",
+  "instructors": [
+    {
+      "name": "张楠宁;冯涛;吴炫",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33157,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

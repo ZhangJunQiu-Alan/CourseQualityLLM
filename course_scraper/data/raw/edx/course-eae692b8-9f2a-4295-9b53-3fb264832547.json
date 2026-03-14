@@ -1,0 +1,35 @@
+{
+  "course_id": "course-eae692b8-9f2a-4295-9b53-3fb264832547",
+  "platform": "edx",
+  "title": "Marketing Essentials",
+  "description": "This business and management course will bridge the gap between information and real world experience. \n Marketing is one of the most misunderstood disciplines in management today. It is commonly used as a synonym for activities related to shopping, but it goes far beyond selling a product. In addition, many people believe they are experts in marketing, having shopped for various items all their lives and having been exposed to many advertisements. \n In this introductory marketing course, you will learn the theories of marketing through practice (examples and illustrations). This course will explain what marketing management is all about in the simplest of terms and lay the foundation to your pathway to excellence in the wonderful world of marketing.",
+  "learning_goals": [
+    "Marketing",
+    "Management",
+    "Marketing Management",
+    "Selling Techniques"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ashis-mishra",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Indian Institute of Management Bangalore"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 646,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

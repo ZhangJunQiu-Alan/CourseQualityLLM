@@ -1,0 +1,31 @@
+{
+  "course_id": "1003510008",
+  "platform": "mooc_cn",
+  "title": "临床科研实验技能",
+  "description": "《临床科研实验技能》对于医学生来说，是一门学科基础课，是今后临床工作和基础科研间的桥梁课程，有助于实现理论学习到科学研究实验的过渡，为开展科研实验奠定基础；对于临床医学专业工作者而言，是一门重要的学科专业选修课，能为临床医学工作者开展医学实验和进行科学研究提供一个很好的学习平台。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003510008",
+  "instructors": [
+    {
+      "name": "邓昊;袁腊梅;闾宏伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36003,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

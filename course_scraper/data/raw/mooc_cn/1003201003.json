@@ -1,0 +1,31 @@
+{
+  "course_id": "1003201003",
+  "platform": "mooc_cn",
+  "title": "外国民族音乐",
+  "description": "“外国民族音乐”是近现代得以发展的一门新兴课程，以世界各地区、各民族的音乐（尤其是传统音乐）为教学内容，在形成音乐的世界视野、培养尊重多元文化观念、促进人的健康发展和社会进步方面，体现出独特的价值。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003201003",
+  "instructors": [
+    {
+      "name": "王州",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15835,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

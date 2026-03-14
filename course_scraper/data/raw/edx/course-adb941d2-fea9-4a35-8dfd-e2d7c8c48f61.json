@@ -1,0 +1,30 @@
+{
+  "course_id": "course-adb941d2-fea9-4a35-8dfd-e2d7c8c48f61",
+  "platform": "edx",
+  "title": "JavaScript Basics",
+  "description": "This course introduces the programming language JavaScript and shows the websites that include the type of interactions students will eventually be able to develop. \n \n Learners will understand the importance of how JavaScript was developed and why such history impacts the way JavaScript is currently written and in future releases. \n Learners will write their first scripts, have their HTML and CSS skills assessed, create variables and arrays and assign values to them. \n \n If student’s skills are lacking, resources and recommendations are provided to improve these skills. There is ample opportunity for students to practice these first, core skills.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "william-mead",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of California, Davis"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 375,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "GusAwbvHEfCaEgr_2GQldQ",
+  "platform": "coursera",
+  "title": "Star Schemas & Track Changes",
+  "slug": "star-schemas--track-changes",
+  "description": "Transform your data architecture skills with advanced dimensional modeling techniques that power enterprise-grade analytics systems. This course empowers data professionals to master the critical intersection of historical data tracking and dimensional model optimization.\n\nThis Short Course was created to help data analysts accomplish sophisticated data warehouse design that maintains data integrity while maximizing query performance. By completing this course, you'll be able to implement robust historical tracking mechanisms and systematically optimize dimensional models for better business intelligence outcomes.\n\nBy the end of this course, you will be able to:\nApply Type-2 slowly changing dimension techniques to preserve complete data history\nEvaluate star schema structures and identify performance bottlenecks\nPropose specific refinements that improve both analytical capabilities and query efficiency\n\nThis course is unique because it bridges the gap between theoretical dimensional modeling and practical implementation, providing hands-on experience with industry-standard tools like dbt and LookML that you'll use in real-world data engineering projects.\n\nTo be successful in this project, you should have a background in SQL, basic data modeling concepts, and familiarity with data warehouse fundamentals.   (It is possible)",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "106 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/star-schemas--track-changes",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

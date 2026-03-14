@@ -1,0 +1,26 @@
+{
+  "course_id": "Q45WQQXCEe60fA6KcFIaOQ",
+  "platform": "coursera",
+  "title": "Build a Webpage with HTML and CSS",
+  "slug": "build-a-webpage-with-html-and-css",
+  "description": "The Build a Webpage with HTML and CSS course is designed for complete beginners who want to learn how to create a web page, even with no prior coding experience. You’ll discover how to structure content using HTML, style your site with CSS, and apply responsive design principles with Bootstrap—all while building a real, shareable web page from scratch.\n\nIn the first module, you’ll explore the fundamentals of HTML, including document structure, essential tags, and how to organize content for clarity and accessibility. You’ll learn how to use HTML to create headings, lists, images, links, tables, and forms, and understand the importance of clean, well-nested code.\n\nThe second module focuses on CSS, teaching you how to style and format your web page using selectors, properties, and advanced features like Flexbox and Grid. You’ll master how to control layout, typography, and color, and see how CSS can transform a basic HTML page into a visually engaging website.\n\nThe final module introduces Bootstrap, a powerful framework for building responsive, mobile-friendly websites. You’ll work with Bootstrap’s pre-built components, grid system, and utilities to create professional-looking layouts that adapt to any device. By the end, you’ll have a fully functional, modern web page and the foundational skills to start a website or pursue further web development.\n\nBy the end of this course, you will confidently:\n\n1. Build and structure web pages using HTML tags, elements, and attributes\n2. Style and format your web page with CSS for layout, colors, and typography\n3. Create responsive, professional websites using Bootstrap’s components and grid system\n4. Apply web design best practices to ensure your site is visually appealing and accessible\n5. Share a real, working web page as part of your portfolio or online presence\n\nThis course is ideal for those who:\n\n- Want a step-by-step, hands-on introduction to how to create a web page and html and css\n- Are new to web development and eager to build foundational digital skills\n- Prefer learning by doing and applying knowledge to real projects\n- Are exploring web design for personal, school, or professional growth\n\nThis course empowers you to start a website, code a web page, and build your confidence with practical, in-demand digital skills for today’s online world.\n\nDisclaimer: This course is an independent educational resource developed by Board Infinity and is not affiliated with, endorsed by, sponsored by, or officially associated with Alphabet Inc, Meta, or any of their subsidiaries or affiliates. This course is not official preparation material for any of these companies. All trademarks, service marks, company names, logos, and brand names mentioned are the property of their respective owners and are used for identification, educational, and informational purposes only. No claim is made to exclusive rights to use any third-party trademarks apart from their context in this educational material.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-a-webpage-with-html-and-css",
+  "instructors": [
+    {
+      "name": "Board Infinity",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Board Infinity "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

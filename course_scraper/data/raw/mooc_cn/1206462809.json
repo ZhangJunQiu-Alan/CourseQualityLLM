@@ -1,0 +1,31 @@
+{
+  "course_id": "1206462809",
+  "platform": "mooc_cn",
+  "title": "电路与电子技术：电路基础",
+  "description": "电路与模拟电子技术包括电路基础和电子技术基础，其中电路基础主要介绍了电子元器件、电路基本分析方法、暂态分析、正弦交流电路、三相电路，线下电路复频域分析等内容。课程由国家级教学团队主讲，具有丰富的课练习题、鲜明的教学案例，讲解深入浅出，请让我们一起进入电路基础的课程学习吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206462809",
+  "instructors": [
+    {
+      "name": "张冬至;吴荔清;王心刚;曹玉苹;周兰娟;张琳;李霞;贺利",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国石油大学（华东）"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16622,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

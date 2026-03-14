@@ -1,0 +1,41 @@
+{
+  "course_id": "course-e7a63f2a-0288-4a69-9c51-b2ecf5473bce",
+  "platform": "edx",
+  "title": "Electrochemistry",
+  "description": "What is the chemistry and mechanics behind an electric car versus a gas-powered car — and why do you feel a difference driving them? The discipline of electrochemistry is not new, but it has regained prominence due to the emergence of energy production, energy storage, and technological innovations driven by both science and public policy. Given the rise of global energy demand, research and inventions aim to meet these challenges. **** \n To understand electrochemistry, you will combine the concepts of Gibbs Free Energy, electron flow, and chemical transformation. In this course, you will explore key concepts of acid-base reactions and their relation to chemical equilibrium. You will learn the significance of electrochemistry, understanding how electrical, chemical, and mechanical energy are linked. \n By the end of the course, you will be able to identify differences in efficiencies between renewable energy sources and fossil fuel-based ones, including which battery types are leading the transition away from fossil fuels.",
+  "learning_goals": [
+    "Chemical Equilibrium",
+    "Public Policies",
+    "Chemical Transformation",
+    "Research",
+    "Energy Production",
+    "Mechanics",
+    "Fossil Fuel",
+    "Chemistry",
+    "Acid/Base Chemistry",
+    "Electric Vehicles"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 4-8 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "james-anderson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2780,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

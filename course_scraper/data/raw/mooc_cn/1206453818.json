@@ -1,0 +1,31 @@
+{
+  "course_id": "1206453818",
+  "platform": "mooc_cn",
+  "title": "运动技能学习与控制",
+  "description": "无论您是专业运动员还是体育爱好者，或者是体育专业的本科生、研究生，如果您想更好地从事体育领域的教学、训练、科研等工作，“运动技能学习与控制”这门课一定会让您受益匪浅。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206453818",
+  "instructors": [
+    {
+      "name": "侯爽;任杰;王碧野;张丽;陆颖之",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海体育大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24671,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1461787180",
+  "platform": "mooc_cn",
+  "title": "数字电路分析与设计实验",
+  "description": "本实验课是《电路原理》、《数字电路分析与设计》等课程的后续课程。是面向电类、非电类专业大二年级学生开设的一门专业基础实验课。本课程旨在巩固和加强数字电路的理论知识；培养学生运用数字电路的分析和设计方法,进行常见逻辑功能的理论设计和实验验证, 培养学生独立的工程实践应用能力，以及解决复杂问题的能力。学生通过《数字电路分析与设计实验》课程的训练和实践，将掌握常用电子仪器的使用，数字电路调试及测试方法，PLD编程语言的应用，开发工具软件的使用等。从简单的门电路入手，循序渐进地掌握以中、小规模集成电路为核心器件的数字电路基本功能模块的设计与应用，以及以FPGA为核心器件的相应功能电路的设计和实现方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461787180",
+  "instructors": [
+    {
+      "name": "张德华;林平;蔡忠法;周箭",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8302,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

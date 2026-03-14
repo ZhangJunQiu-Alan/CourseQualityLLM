@@ -1,0 +1,26 @@
+{
+  "course_id": "9i9rs8vrEe6oIQ5kMOtWYw",
+  "platform": "coursera",
+  "title": "Software Development with ChatGPT: Generating Code with AI",
+  "slug": "software-development-chatgpt-generating-code-ai",
+  "description": "In this 1-hour long project-based course, you will learn how to: 1) Set up a development environment incorporating ChatGPT, 2) Generate and integrate AI-assisted code into a Python project, 3) Debug and refine your application using AI guidance, and 4) Write comprehensive documentation with the help of ChatGPT.\n\nTo achieve these goals, you will create a functional Python To-Do List Manager by working through a series of practical, real-world scenarios. This project is unique because it not only enhances your Python coding skills but also introduces you to the revolutionary world of AI-assisted programming, providing a glimpse into the future of software development.\n\nThis course is tailored for those with a basic understanding of Python who are keen to explore AI applications in programming. No prior experience with ChatGPT is necessary, making it a perfect opportunity for anyone familiar with core programming concepts to step into the AI-assisted coding arena.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/software-development-chatgpt-generating-code-ai",
+  "instructors": [
+    {
+      "name": "Parth Patil",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,40 @@
+{
+  "course_id": "course-2b0876d4-a9e5-4aab-a4c5-bee3db4e8c86",
+  "platform": "edx",
+  "title": "Building a RISC-V CPU Core",
+  "description": "Building a RISC-V CPU Core   is designed for anyone with a technical inclination who is interested in learning more about hardware. Whether you are new to digital logic or are a seasoned veteran, students will take away new skills that can be applied immediately. No prior knowledge of digital logic design is required. \n LFD111x is a crash course in digital logic design and basic CPU microarchitecture. Using the Makerchip online integrated development environment (IDE), you will implement everything from logic gates to a simple, but complete, RISC-V CPU core. You will be amazed by what you can do using freely-available online tools for open source development. You will familiarize yourself with a number of emerging technologies supporting an open-source hardware ecosystem, including RISC-V, Transaction-Level Verilog, and the online Makerchip IDE. \n This course is a hands-on experience with RISC-V and modern circuit design tools. You will walk away with fundamental skills for a career in logic design, and you will position yourself on the forefront by learning to use the emerging Transaction-Level Verilog language extension (even if you don’t already know Verilog).",
+  "learning_goals": [
+    "Reduced Instruction Set Computing",
+    "Open Source Development",
+    "Microarchitecture",
+    "Logic Synthesis",
+    "Circuit Design",
+    "Integrated Development Environments",
+    "Digital Logic",
+    "Verilog",
+    "Emerging Technologies"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "steve-hoover",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Linux Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1547,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

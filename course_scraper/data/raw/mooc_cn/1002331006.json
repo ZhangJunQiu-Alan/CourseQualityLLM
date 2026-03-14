@@ -1,0 +1,31 @@
+{
+  "course_id": "1002331006",
+  "platform": "mooc_cn",
+  "title": "数字逻辑设计",
+  "description": "​0和1组成的数字世界，简洁、神奇、而又充满挑战！本课程力图用最通俗的语言、最典型的实例来一次全新的学习体验。你，准备好了吗？",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002331006",
+  "instructors": [
+    {
+      "name": "张彦航",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36193,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

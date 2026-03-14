@@ -1,0 +1,31 @@
+{
+  "course_id": "1206298829",
+  "platform": "mooc_cn",
+  "title": "流体力学",
+  "description": "西安交通大学流体力学课程教学团队隶属于能源与动力工程学院热流科学与工程系，依托动力工程及工程热物理一级学科，在多年的教学和科研工作中积累了丰富的教学经验。本课程以西安交通大学流体力学长期教学实践为基础，由8位长期一线教学的教师，体系化讲述流体力学核心知识要点。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206298829",
+  "instructors": [
+    {
+      "name": "张兄文;张荻、李平;龚建英;李国君;孟现阳;何坤;付雷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 53564,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

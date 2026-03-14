@@ -1,0 +1,31 @@
+{
+  "course_id": "1459531164",
+  "platform": "mooc_cn",
+  "title": "生物化学",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1459531164",
+  "instructors": [
+    {
+      "name": "杨磊;张丽;吕林兰;江凤娟;许伟;陈洪兴;赵卫红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "盐城工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5631,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

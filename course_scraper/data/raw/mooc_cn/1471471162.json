@@ -1,0 +1,31 @@
+{
+  "course_id": "1471471162",
+  "platform": "mooc_cn",
+  "title": "微生物学",
+  "description": "本课程是国家精品课程，由浙江大学的微生物学优秀教师主讲，主要面向生物科学、生物技术、生物信息、竺院混合班生物学、强基生物、强基生态专业学生。通过本课程的学习，使学生能全面掌握和了解微生物学的基础理论、基础知识和基本技术，训练和学会分析和解决微生物学研究、生产领域中实际问题的基本能力，为学生从事微生物学领域科研、教学、生产、开发等工作建立较好的微生物学理论和技术基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471471162",
+  "instructors": [
+    {
+      "name": "吕镇梅",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1041,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

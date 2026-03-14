@@ -1,0 +1,26 @@
+{
+  "course_id": "EFfXnKV6Ee-Cjg6Dgx_ubQ",
+  "platform": "coursera",
+  "title": "Trustworthy AI: Managing Bias, Ethics, and Accountability",
+  "slug": "responsible-ai-and-ethics",
+  "description": "The course \"Responsible AI and Ethics\" explores the ethical, social, and technical aspects of artificial intelligence (AI) and machine learning (ML). It focuses on understanding bias in both human and machine systems and provides strategies for mitigating risks. By examining key issues such as fairness, accountability, and the regulatory landscape, learners will gain essential knowledge to navigate the ethical challenges in AI. Through case studies and real-world examples, students will explore the complexities of AI implementations, assessing their impact on society and industries. \n\nThis course provides practical insights into responsible AI development, emphasizing both ethical decision-making and effective risk management. By the end of the course, learners will be equipped to lead AI projects that balance innovation with accountability, ensuring AI systems are fair, transparent, and sustainable. This unique combination of theoretical knowledge and real-world applications makes the course invaluable for anyone aiming to lead in the AI field.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/responsible-ai-and-ethics",
+  "instructors": [
+    {
+      "name": "Ian McCulloh",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Johns Hopkins University"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

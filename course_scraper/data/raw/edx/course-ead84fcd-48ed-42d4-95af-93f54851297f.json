@@ -1,0 +1,51 @@
+{
+  "course_id": "course-ead84fcd-48ed-42d4-95af-93f54851297f",
+  "platform": "edx",
+  "title": "Digital Marketing Analytics: Tools and Techniques.",
+  "description": "Businesses today have access to an increasingly large amount of detailed customer data, and this influx of “big data” is only going to continue. Combined with a detailed history of marketing actions, there is a newfound potential for deriving actionable insights, but you need the tools to do so. Using real-world applications from various industries, this course will help you understand the tools and strategies used to make data-driven decisions that you can put to use in your own company or business. \n This valuable data may include in-store and online customer transactions, customer surveys, web analytics, as well as prices and advertising. You’ll also learn how to assess critical managerial problems, develop relevant hypotheses, analyze data and, most importantly, draw inferences to create convincing narratives which yield actionable results. Artificial intelligence and machine learning will be explored as tools to deepen analytical skills and acumen and hone decision making. \n This comprehensive exploration into digital marketing analytics tools and techniques is critical knowledge for any marketing influencers, digital marketing analysts and product and brand decision makers within small and medium businesses as well as larger organizations with international reach. \n This course is part of Maryland Smith’s Digital Marketing Professional Certificate. For more information,  see here .",
+  "learning_goals": [
+    "Big Data",
+    "Analytical Skills",
+    "Analytics",
+    "Surveys",
+    "Machine Learning",
+    "Customer Data Management",
+    "Contextual Advertising",
+    "Digital Marketing",
+    "Universal Testing Machines",
+    "Artificial Intelligence",
+    "Web Analytics",
+    "Search Engine Optimization",
+    "Data-Driven Decision-Making",
+    "Marketing",
+    "Data Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "michael-trusov",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "liye-ma",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Maryland, College Park"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1071,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

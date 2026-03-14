@@ -1,0 +1,26 @@
+{
+  "course_id": "HM4OyE59EfCqjwr_1EnQcQ",
+  "platform": "coursera",
+  "title": "IntelliJ IDEA Case Study - Blood Donor Management System",
+  "slug": "intellij-idea-case-study-blood-donor-management-system",
+  "description": "This hands-on course guides learners through the complete development lifecycle of a Java-based Blood Donor Management System using IntelliJ IDEA. Designed for beginners and intermediate Java developers, the course covers essential programming concepts through real-world application building. Learners will start by setting up the project and defining object-oriented schema and UI components. They will then implement logic for adding and displaying donor information, integrate input validations, and manage runtime exceptions to ensure application robustness.\n\nBy the end of this course, students will have developed a complete mini-application with clean code structure, practical validations, and error handling — all within the IntelliJ IDEA environment. This course not only sharpens Java programming skills but also fosters strong software design thinking and debugging habits through a case-study-driven approach.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 week, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/intellij-idea-case-study-blood-donor-management-system",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

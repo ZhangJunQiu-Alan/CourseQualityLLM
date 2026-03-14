@@ -1,0 +1,26 @@
+{
+  "course_id": "XxO81pSHEfCnbQr_8XAuZw",
+  "platform": "coursera",
+  "title": "Master in Microsoft Power BI Desktop and Service",
+  "slug": "packt-master-in-microsoft-power-bi-desktop-and-service-erlds",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this comprehensive course, you will gain a deep understanding of Microsoft Power BI and how to effectively use it for data analysis and visualization. The course covers everything from basic business intelligence concepts to more advanced topics such as data modeling, DAX functions, and creating interactive dashboards. By mastering these skills, you'll be able to make informed business decisions using powerful visualizations and data insights.\n\nThe course begins with an introduction to business intelligence concepts, followed by detailed instructions on setting up and connecting Power BI with various data sources such as Excel, SQL Server, and web pages. You will then delve into Power Query for data transformation, learning how to manipulate and clean your data.\n\nAs you continue, you'll explore data modeling techniques, building relationships between different data sets, and mastering DAX functions for creating calculated columns and measures. The course also covers visualization techniques, including creating tables, charts, and maps, and how to format and customize your reports for maximum impact. Finally, you'll learn how to publish and share your reports via Power BI Service, including setting up dashboards and using row-level security.\n\nThis course is perfect for individuals looking to enhance their data analysis skills and gain a strong foundation in Power BI. Whether you're a business analyst, data professional, or someone looking to upskill in data visualization, this course will take you through the essential concepts and tools in Power BI.\n\nBy the end of the course, you will be able to connect Power BI to multiple data sources, transform data using Power Query, build complex data models and relationships, create detailed reports and dashboards, and publish them securely using Power BI Service.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-master-in-microsoft-power-bi-desktop-and-service-erlds",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

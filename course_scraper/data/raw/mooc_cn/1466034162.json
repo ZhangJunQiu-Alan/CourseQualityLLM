@@ -1,0 +1,31 @@
+{
+  "course_id": "1466034162",
+  "platform": "mooc_cn",
+  "title": "EDA/SOPC综合设计与实践",
+  "description": "“EDA/SOPC应用实践”是电气信息类专业的一门实践课程。它以基于FPGA的数字系统设计为核心，通过本课程使学习者不仅能够掌握FPGA的设计方法与技巧，还可以了解FPGA在各领域的最新应用案例，提升FPGA的综合设计能力。是每一位电类工程技术人员所必须掌握的技术。本课程基于课程团队的科研项目提炼FPGA的高阶应用案例，讲解FPGA高级设计技巧，从而服务于电类相关技术人员的需要。让我们跟随EDA技术发展和时代的脚步开始本课程的学习吧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466034162",
+  "instructors": [
+    {
+      "name": "杨春玲;于艳君;陈宇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4166,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

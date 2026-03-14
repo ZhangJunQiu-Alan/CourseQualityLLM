@@ -1,0 +1,41 @@
+{
+  "course_id": "course-1c0a044e-3dce-47ef-a8b5-806d32eff2b9",
+  "platform": "edx",
+  "title": "Inteligencia Artificial para negocios",
+  "description": "A lo largo de los años, la inteligencia artificial ha logrado muchos años de evolución. Existen antecedentes desde los años 50s que brindaron los fundamentos para llegar al crecimiento del poder computacional que vemos hoy en día.    \n La inteligencia artificial se ha rodeado de diversos mitos y realidades, en especial hacia su concepto, que permiten identificar sus alcances y potencialidades, comprendiendo el mecanismo de cómo se genera un aprendizaje de máquina, visualizando los procesos que pueden ser automatizados.   \n En los últimos años, se ha visto una reducción de costos para la adopción de internet, aumento de las capacidades de almacenamiento y procesamiento de información; esto ha logrado reducir barreras de adopción de inteligencia artificial, por lo que tener una solución en los negocios resulta cada vez más real y alcanzable.   \n Si deseas implementar soluciones de inteligencia artificial en tu negocio o implementar un negocio nuevo de soluciones de inteligencia artificial este curso es para ti. No importa si no tienes experiencia en el desarrollo tecnológico, la toma de decisiones es tu principal motivador para generar valor con esta tecnología.   \n Cada uno de los temas permite relacionar el aprendizaje automático para utilizar herramientas de inteligencia artificial poco conocidas y que están al alcance, creando una propuesta de valor basada en inteligencia artificial.",
+  "learning_goals": [
+    "Data Storage Technologies",
+    "Decision Making",
+    "Machine Learning",
+    "Value Propositions",
+    "Artificial Intelligence"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 5-8 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "miguel-angel-castro-morales",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "joel-sanchez-bermudez",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Tecnológico de Monterrey"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1068,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

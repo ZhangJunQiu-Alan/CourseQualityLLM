@@ -1,0 +1,31 @@
+{
+  "course_id": "1472369166",
+  "platform": "mooc_cn",
+  "title": "动力学与控制核心贯通课I",
+  "description": "为何大型运载火箭要设计为多级结构？为何高速转动的电机底座螺栓容易断裂？为何台风在南北半球的旋向是相反的？如何击打棒球才能获得最大的球速且手腕损伤最小？这些问题的解答都需要深刻认识物体机械运动的一般规律，这也是《动力学与控制核心贯通课I》的核心内容。本课程同时从矢量和分析两种方法，讲解了如何认识和简化力系、如何获得物体系统实现平衡的条件，如何描述物体运动、以及认识力对运动的影响规律等内容，充分体现了力学基础科学和技术科学的双重属性，所讲授的知识和理论是我们认识自然规律、开展工程设计的必要前提和关键基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472369166",
+  "instructors": [
+    {
+      "name": "万超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 96,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

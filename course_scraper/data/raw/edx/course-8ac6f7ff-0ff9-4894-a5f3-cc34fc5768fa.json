@@ -1,0 +1,75 @@
+{
+  "course_id": "course-8ac6f7ff-0ff9-4894-a5f3-cc34fc5768fa",
+  "platform": "edx",
+  "title": "Introduction to Web Accessibility",
+  "description": "Accessibility is essential for individuals and organizations that want to create high-quality websites and apps – and not exclude people from using their products and services. This course gives you the foundation in accessibility you need to excel in digital professions. It is designed for: \n \n developers \n designers \n content authors \n project managers \n people with disabilities \n and others \n \n Optional material help you learn more about the topics you are most interested in. \n In this course, you will learn about the international standards for web accessibility from the W3C – including Web Content Accessibility Guidelines (WCAG) and WAI-ARIA for Accessible Rich Internet Applications – and first steps in applying them. \n You will also learn the broad scope of web accessibility, how people with disabilities use different assistive technologies and adaptive strategies, the business benefits of web accessibility, and where to find W3C resources on implementing accessibility. \n The course is structured so that you can focus on the topics that you are most interested in. Optional activities and additional materials provide more learning on specific topics. Learn  more . \n Don’t miss this unique course from the  W3C Web Accessibility Initiative (WAI)  in cooperation with the  United Nations Educational, Scientific and Cultural Organization (UNESCO) Institute for Information Technology in Education (IITE) . It brings together international expert trainers from Deque, Infoaxia, Intopia, Knowbility, The Paciello Group, and Web Key IT, and implements the open curriculum developed by the  W3C WAI Education and Outreach Working Group (EOWG) .",
+  "learning_goals": [
+    "Web Content Accessibility Guidelines",
+    "Web Accessibility",
+    "Rich Internet Application",
+    "Web Accessibility Initiative",
+    "International Standards",
+    "Information Technology",
+    "User Experience",
+    "Assistive Technology",
+    "Cooperation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "makoto-ueki",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "vivienne-conway",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sarah-pulis",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "andrew-arch",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "shawn-henry",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "henny-swan-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "anthony-vasquez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "carie-fisher-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The World Wide Web Consortium (W3C)"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6176,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,30 @@
+{
+  "course_id": "course-61161cb7-c3b1-49e5-b5f0-d9e57b16b6f2",
+  "platform": "edx",
+  "title": "VITARA - Information Technology and Data Management",
+  "description": "This module opens by explaining how information technology (IT) can help achieve a tax administration's goals and the role of executives in managing and overseeing IT resources. The module highlights the evolution of IT from a back-office function to a strategic driver of reforms and modernization. Among other concepts, it explores digital transformation and the automation of an integrated business process model. The module provides tools for integrating IT into reform planning and prioritizing IT investments, and includes broad overviews of contemporary IT operations, governance arrangements, and management practices. Building from insights into IT, the module explains how to understand, manage, and use data to improve tax administration performance. The module closes with an overview of information security.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joshua-aslett",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 295,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

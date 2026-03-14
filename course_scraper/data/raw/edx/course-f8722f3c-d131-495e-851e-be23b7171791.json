@@ -1,0 +1,38 @@
+{
+  "course_id": "course-f8722f3c-d131-495e-851e-be23b7171791",
+  "platform": "edx",
+  "title": "Introduction to Psychological Research Methods",
+  "description": "Do we really only use 10% of our brain? How can we answer questions like this? We shouldn't just rely on our intuition, because unfortunately that can sometimes give us the incorrect answer. \n In this psychology course, learn how psychological research is conducted, how to analyze the findings and results and effectively write a research report. \n An understanding of psychological research methods allows us to test questions systematically and report the findings of our research so that others can critically evaluate the validity of our conclusions.",
+  "learning_goals": [
+    "Psychology",
+    "Research Methodologies"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "blake-mckimmie",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "wen-wu",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Queensland"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 406,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

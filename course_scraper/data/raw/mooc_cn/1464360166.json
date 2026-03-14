@@ -1,0 +1,31 @@
+{
+  "course_id": "1464360166",
+  "platform": "mooc_cn",
+  "title": "Pr教程超级合辑",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464360166",
+  "instructors": [
+    {
+      "name": "橘子老师",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "MOOC考培"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2093,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

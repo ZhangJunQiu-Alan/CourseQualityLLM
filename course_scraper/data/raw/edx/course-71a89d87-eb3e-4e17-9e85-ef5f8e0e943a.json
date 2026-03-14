@@ -1,0 +1,44 @@
+{
+  "course_id": "course-71a89d87-eb3e-4e17-9e85-ef5f8e0e943a",
+  "platform": "edx",
+  "title": "Artificial Intelligence in Government",
+  "description": "The rapid rise of Generative AI between 2022 and 2025 has sparked unprecedented global interest in artificial intelligence, with millions of users engaging with cutting-edge models for the first time. While this technological revolution has generated immense excitement, many questions remain about how AI will shape society and governance. \n Government agencies are at the forefront of this transformation. From facial recognition to public health and education, they play a pivotal role in determining how AI technologies are applied responsibly and effectively. This course is tailored for government leaders and professionals seeking to understand the opportunities and challenges of integrating AI into public sector operations. \n   Learners will gain:   \n \n \n Foundational knowledge of AI concepts, including how humans and automation collaborate. \n \n \n Insights into AI models and their applications specific to government contexts. \n \n \n Strategies for implementation, addressing ethical considerations, policy frameworks, and practical adoption hurdles. \n \n \n Through case studies and real-world examples, participants will explore how AI can enhance citizen services, improve decision-making, and drive innovation in governance. The course equips learners with the tools to lead confidently in an era where informed leadership is essential to harnessing AI for public good.",
+  "learning_goals": [
+    "Automation",
+    "Operations",
+    "Procurement",
+    "Natural Language Processing",
+    "Applications Of Artificial Intelligence",
+    "Facial Recognition",
+    "Innovation",
+    "Algorithms",
+    "Machine Learning",
+    "Leadership",
+    "Governance",
+    "Artificial Intelligence",
+    "Decision Making"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joe-mariani",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Maryland, College Park"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 465,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

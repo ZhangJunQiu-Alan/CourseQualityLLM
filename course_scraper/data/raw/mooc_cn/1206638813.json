@@ -1,0 +1,31 @@
+{
+  "course_id": "1206638813",
+  "platform": "mooc_cn",
+  "title": "现代文学名家短章精读",
+  "description": "这是通识课，但它不普通。这不是专业课，但它很专业。让熠熠生辉的名家名作，照亮我们阅读与思考的路。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206638813",
+  "instructors": [
+    {
+      "name": "姜楠;许欣;曲楠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21462,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

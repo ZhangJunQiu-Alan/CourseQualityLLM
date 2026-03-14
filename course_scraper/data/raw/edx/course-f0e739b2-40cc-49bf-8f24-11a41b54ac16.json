@@ -1,0 +1,41 @@
+{
+  "course_id": "course-f0e739b2-40cc-49bf-8f24-11a41b54ac16",
+  "platform": "edx",
+  "title": "Automata Theory",
+  "description": "We begin with a study of finite automata and the languages they can define (the so-called \"regular languages.\" Topics include deterministic and nondeterministic automata, regular expressions, and the equivalence of these language-defining mechanisms. We also look at closure properties of the regular languages, e.g., the fact that the union of two regular languages is also a regular language. We consider decision properties of regular languages, e.g., the fact that there is an algorithm to tell whether or not the language defined by two finite automata are the same language. Finally, we see the pumping lemma for regular languages -- a way of proving that certain languages are not regular languages. \n Our second topic is context-free grammars and their languages. We learn about parse trees and follow a pattern similar to that for finite automata: closure properties, decision properties, and a pumping lemma for context-free languages. We also introduce the pushdown automaton, whose nondeterministic version is equivalent in language-defining power to context-free grammars. \n Next, we introduce the Turing machine, a kind of automaton that can define all the languages that can reasonably be said to be definable by any sort of computing device (the so-called \"recursively enumerable languages\"). We shall learn how \"problems\" (mathematical questions) can be expressed as languages. That lets us define problems to be \"decidable\" if their language can be defined by a Turing machine and \"undecidable\" if not. We shall see some basic undecidable problems, for example, it is undecidable whether the intersection of two context-free languages is empty. \n Last, we look at the theory of intractable problems. These are problems that, while they are decidable, have almost certainly no algorithm that runs in time less than some exponential function of the size of their input. We meet the NP-complete problems, a large class of intractable problems. This class includes many of the hard combinatorial problems that have been assumed for decades or even centuries to require exponential time, and we learn that either none or all of these problems have polynomial-time algorithms. A common example of an NP-complete problem is SAT, the question of whether a Boolean expression has a truth-assignment to its variables that makes the expression itself true.",
+  "learning_goals": [
+    "Automata Theory",
+    "Deterministic Methods",
+    "Parsing",
+    "Pushdown Automaton",
+    "Algorithms",
+    "Regular Expressions",
+    "Np Complete",
+    "Finite Automata",
+    "Turing Machine",
+    "Boolean Expression"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "7 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jeffrey-d-ullman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 349,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

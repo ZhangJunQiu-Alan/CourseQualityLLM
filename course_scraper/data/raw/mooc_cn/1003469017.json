@@ -1,0 +1,31 @@
+{
+  "course_id": "1003469017",
+  "platform": "mooc_cn",
+  "title": "创业风险识别与规避",
+  "description": "创业成功不可复制，失败却常常重复。赔钱的教训是有价值的总结，创业路上会遇到哪些坑？我们听听大学生创业者、投资人、创业指导教师怎么说。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003469017",
+  "instructors": [
+    {
+      "name": "邓汉慧;李波;李金龙;黄宏伟;熊卫;杨华磊;喻良涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南财经政法大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 32130,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "Ub7jlvUJEe-jCgr_wH8PfQ",
+  "platform": "coursera",
+  "title": "Automation with Ansible: Web Server Deployment",
+  "slug": "automation-with-ansible--web-server-deployment",
+  "description": "In this 1-hour long project-based course,  you'll learn how to automate web server deployment using Ansible, enabling efficient and scalable infrastructure management. You'll set up an Ansible control node, define inventory files, and create playbooks to deploy and configure Nginx automatically. Additionally, you'll explore the use of variables, handlers, and templates to make your deployments dynamic and reusable. Through hands-on exercises, you'll verify deployments, troubleshoot common issues, and implement best practices for managing web servers with Ansible. By the end of this project, you'll have the skills to automate web server provisioning confidently, ensuring consistency and reliability in your infrastructure. This is an intermediate level project meant for DevOps engineers and IT professionals looking to streamline server provisioning and configuration. For successful participation in this project, it is preferable that you have a basic understanding of Linux/Unix command-line operations, specifically the use of 'systemctl' and 'service' commands for managing services, as well as familiarity with SSH (secure shell) for remote access. Additionally, knowledge of YAML syntax is required, as it is used for writing Ansible playbooks.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/automation-with-ansible--web-server-deployment",
+  "instructors": [
+    {
+      "name": "Michel Bitar",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

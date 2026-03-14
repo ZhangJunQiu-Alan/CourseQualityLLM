@@ -1,0 +1,41 @@
+{
+  "course_id": "course-3a338193-82ba-49bb-9275-816c893d0a93",
+  "platform": "edx",
+  "title": "Python de la A a la Z",
+  "description": "Python es uno de los lenguajes de programación más utilizados alrededor del mundo con cerca de 7 millones de usuarios que diariamente aportan herramientas y plugins que complementan la usabilidad de Python. \n La popularidad de Python va en aumento con el paso de los días, y es que no existe un lenguaje de programación que sea tan amigable tanto para leer, como para escribir. \n Python permite que personas fuera del área de las tecnologías construyan códigos de programación que ayuden a automatizar tareas que resultan repetitivas; es un lenguaje que permite crear desarrollos de software de manera fácil e intuitiva. \n Para lograr lo anterior, es necesario dominar la lógica detrás de la programación, la cual se vuelve sencilla de entender gracias a las facilidades que brinda Python. \n En este curso se aborda los conceptos básicos de la programación basándonos en el lenguaje Python. Aprenderás a definir variables, utilizar constantes, bucles y condicionales para pedirle a la computadora que tome decisiones con base en reglas diseñadas por ti. Aprenderás a manejar listas de datos, así como a realizar operaciones entre ellas. Aplicarás funciones en Python que ayuden a crear subrutinas para optimizar tus programas.  \n La intención es que logres dominar todos los fundamentos de python con sus estructuras básicas para que comiences a crear programas que den solución a problemáticas existentes, lo que te brinda el desarrollo de un pensamiento lógico, que te permitirá observar tu entorno de una manera diferente.",
+  "learning_goals": [
+    "Usability",
+    "Critical Thinking",
+    "Go (Programming Language)",
+    "Operations",
+    "Python (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-4 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "carlos-robles-ponche",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "luisa-fernanda-jaimes-pardo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidades Anáhuac"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 287,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

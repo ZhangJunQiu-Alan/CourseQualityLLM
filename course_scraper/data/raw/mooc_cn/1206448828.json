@@ -1,0 +1,31 @@
+{
+  "course_id": "1206448828",
+  "platform": "mooc_cn",
+  "title": "信号与系统",
+  "description": "我们生活在一个信号无处不在的世界。从指挥交通的信号灯，到办公室繁忙的电话铃，从我们打开微信畅聊，到坐在电脑前开始在线课程学习……每一秒钟都有承载各种信息的信号在各种系统中穿梭。到底什么是信号？信号如何承载信息，系统又是如何传递信号的呢？欢迎走进哈尔滨工业大学的信号与系统在线课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206448828",
+  "instructors": [
+    {
+      "name": "俞洋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23116,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

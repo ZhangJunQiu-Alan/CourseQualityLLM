@@ -1,0 +1,26 @@
+{
+  "course_id": "Q7tiH6CiEeiTHQqmhTjSDA",
+  "platform": "coursera",
+  "title": "Interventions and Calibration",
+  "slug": "interventions-and-calibration",
+  "description": "This course covers approaches for modelling treatment of infectious disease, as well as for modelling vaccination. Building on the SIR model, you will learn how to incorporate additional compartments to represent the effects of interventions, such the effect of vaccination in reducing susceptibility. You will learn about ‘leaky’ vaccines and how to model them, as well as different types of vaccine and treatment effects. It is important to consider basic relationships between models and data, so, using the basic SIR model you have developed in course 1, you will calibrate this model to epidemic data. Performing such a calibration by hand will help you gain an understanding of how model parameters can be adjusted in order to capture real-world data. Lastly in this course, you will learn about two simple approaches to computer-based model calibration - the least-squares approach and the maximum-likelihood approach; you will perform model calibrations under each of these approaches in R.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/interventions-and-calibration",
+  "instructors": [
+    {
+      "name": "Nimalan Arinaminpathy",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Imperial College London"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

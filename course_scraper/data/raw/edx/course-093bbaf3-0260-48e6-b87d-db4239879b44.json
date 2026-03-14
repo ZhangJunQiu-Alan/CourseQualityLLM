@@ -1,0 +1,47 @@
+{
+  "course_id": "course-093bbaf3-0260-48e6-b87d-db4239879b44",
+  "platform": "edx",
+  "title": "Behavioral Neuroscience: Foundations of Compulsive Behaviors",
+  "description": "The study of neuroscience aims to understand the human brain, cognition, the nervous system, and much more. There are many branches of neuroscience, including medical neuroscience, computational neuroscience, and behavioral neuroscience. Studying the human brain can be difficult, so scientists often first use mice in research because of the similarities in neuroanatomy, neurophysiology, and neurobiology. By studying the brains of mice, we gain insight into how the human brain works. This behavioral neuroscience course on edx covers the fundamentals of research involving mice, mice behavior and how it can be used to understand human behavior, and more. Enroll now to: \n \n \n Understand how to handle laboratory mice responsibly according to federal law by completing animals care and use training. \n \n \n Understand how research on animals must be scientifically justified, humane and ethical, use appropriate research methods, and provide new knowledge. \n \n \n Collect behavioral data from mouse videos from compulsive-like, non-compulsive-like, and randomly bred mouse strains; a mouse model of obsessive-compulsive disorder (OCD). \n \n \n Obtain competency in using behavioral tests to measure repetitive behaviors in laboratory mice analogous to compulsions in humans. \n \n \n Establish a foundation in using behavioral tests in laboratory mice to be able to confidently learn how to use new tests. \n \n \n Develop an ability to analyze behavioral neuroscience data using mice and understand repetitive (compulsive-like) behaviors in animal models. \n \n \n Develop an ability to interpret and discuss results in the context of human behavior, and especially psychiatric disorders, and the mouse model of OCD. \n \n \n Obtain a competency in describing key characteristics of OCD in humans and human behavior as described in the diagnostic and statistical manual of mental disorders (DSM), including obsessive and intrusive thoughts, repetitive behaviors, and hoarding disorder. \n \n \n Develop a capability to formulate original research hypotheses as used in the fields of behavioral sciences, neuropsychology, and behavioral neuroscience. \n \n \n Obtain a competency in describing and discussing how basic research contributes to the animal model of OCD and how it may have the potential to improve human mental health conditions, quality of life and the biological basis of human behavior. \n \n \n Learners who join this course should be free of objections to using mice in research.",
+  "learning_goals": [
+    "Animal Models",
+    "Animal Care",
+    "Basic Research",
+    "Neuroscience",
+    "Behavioral Science",
+    "Computational Neuroscience",
+    "Neurophysiology",
+    "Mental Health",
+    "Research Methodologies",
+    "Neuropsychology",
+    "Neuroanatomy",
+    "Diagnostic And Statistical Manual Of Mental Disorders",
+    "Biology",
+    "Neurobiology",
+    "Research",
+    "Cognitive Processing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 5-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "abel-bult-ito",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Alaska Fairbanks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1008,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "YW4OVbcZEeuVARITHCE31Q",
+  "platform": "coursera",
+  "title": "Developments of structural dynamics",
+  "slug": "developments-of-structural-dynamics",
+  "description": "This course is devoted to the dynamic implementation of continuous structural elements vs discrete models. The matrix representation and implicit solution of Lagrange’s equation are at the heart of this approach, in the framework of conservative structural systems, with Gaussian modes. \n\nThe prototype of the continuous element being the prismatic beam - as an illustration, but with general value - and the implicit model/solution leads to the major place of natural eigenshapes in vibration and shocks theory and general dynamic representation of structures and foundations of the dynamic tests and certification.\nIn fact, this course is a perspective on the double vision of any dynamic structure, with the continuous point of view and a digital model in perspective.\n\nAt the end of this course, the physicist, the mechanical engineer, the specialist in control will have a general overview of the dynamic representation and implicit solution applicable in structural analysis and control of general dynamic systems.\n\n In a certain way, it is founded on the famous discussions between Albert Einstein and Niels Bohr.\n\nRecommendation: we suggest having a look, at the course \"Foundation of structural dynamics: from static to discrete dynamics\". This course proposes an original point of view of the foundations of dynamics. And could highlight the present course.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/developments-of-structural-dynamics",
+  "instructors": [
+    {
+      "name": "Yves Gourinat",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "ISAE-SUPAERO"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

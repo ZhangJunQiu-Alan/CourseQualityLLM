@@ -1,0 +1,45 @@
+{
+  "course_id": "course-8c63dec3-9ae3-4c11-8073-c9af84f08bc4",
+  "platform": "edx",
+  "title": "Networking and Storage Essentials",
+  "description": "Looking to kickstart your IT career with essential networking and storage skills that employers value? This beginner-level course offers a practical introduction to core IT concepts, equipping you to diagnose and support the networking and storage in modern systems with confidence.  \n You’ll begin with networking fundamentals, exploring cables, topologies, network types, and communication models. You’ll learn how data travels across wired and wireless networks through established protocols and standards. You’ll dive into Wi-Fi setup and configuration, from SSIDs and access points to the evolution of wireless security from WEP to WPA3. Plus, you’ll discover key features of Wi-Fi 6 (802.11ax), including frequency bands and channel planning, along with practical insights into near-field communication (NFC) and its everyday applications.  \n As you learn, hands-on labs will guide you through device configuration and the use of command-line tools to troubleshoot connectivity issues in Windows environments. You'll also explore memory basics, compare local and cloud storage, and examine file, block, and object storage. Plus, you’ll learn how to choose appropriate storage solutions for different networking scenarios, and get an overview of NVMe performance, PCIe generations, and thermal management techniques.  \n If you’re looking to build real-world networking and storage skills that boost your resume for IT support success, enroll today.",
+  "learning_goals": [
+    "Troubleshooting (Problem Solving)",
+    "Small Office/Home Office Network",
+    "Network Storage",
+    "Object Storage",
+    "Thermal Management",
+    "Storage Devices",
+    "Communications",
+    "Wireless Networks",
+    "Computer Networks",
+    "Topology",
+    "PCI Express",
+    "Command-Line Interface",
+    "Planning",
+    "Wireless Security"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "skills-network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 439,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "5K8DOEbiEeu5YxIbcwLDzw",
+  "platform": "coursera",
+  "title": "Essential Tools For Application Development",
+  "slug": "essential-programming-tools",
+  "description": "In Essential Tools, we will look at two important classes of tools for developers: Version Control Systems and Built Automation Tools.  We will look why we use such tools, discuss common concepts for those categories of tools, and then look at a specific and common example of each: Apache® Subversion® for version control, and Apache® Maven™ for build automation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 weeks, 3-4 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/essential-programming-tools",
+  "instructors": [
+    {
+      "name": "LearnQuest Network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "LearnQuest"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002607035",
+  "platform": "mooc_cn",
+  "title": "线性代数典型习题讲解",
+  "description": "本课程主要针对线性代数中的难点习题和思考方法进行讲解,  分为10个专题，共计50道典型习题，56个视频碎片。每个碎片对应一道完整的题目或方法总结，时长从4分到20分不等.同学们跟随着我们的课程，能够高效地掌握线性代数典型习题的解题方法和技巧，并做到知识的融会贯通和触类旁通。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002607035",
+  "instructors": [
+    {
+      "name": "靳红;崔丽鸿;姜冬青;郭威力",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京化工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36292,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

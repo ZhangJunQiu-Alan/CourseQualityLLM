@@ -1,0 +1,31 @@
+{
+  "course_id": "1001615013",
+  "platform": "mooc_cn",
+  "title": "网络结构化布线与施工",
+  "description": "本课程是高职计算机网络技术专业的专业核心课程，学习者通过学习本课程，能够获得网络综合布线系统需求分析、系统设计、布线施工等方面的能力，为从事相关网络系统集成工作和高阶网络技术学习打好基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001615013",
+  "instructors": [
+    {
+      "name": "颜正恕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "宁波城市职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24229,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

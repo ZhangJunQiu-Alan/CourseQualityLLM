@@ -1,0 +1,31 @@
+{
+  "course_id": "1456175163",
+  "platform": "mooc_cn",
+  "title": "生理学",
+  "description": "生理学是医学专业的主干课程，是重要的医学基础课程之一。 生理学是研究生命活动规律的科学，其任务是研究构成人体各个系统、器官及细胞的正常活动过程，并阐明人体作为一个整体，其各部分的功能活动是如何相互协调、相互制约，以及机体内、外环境变化对这些活动的影响。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1456175163",
+  "instructors": [
+    {
+      "name": "苗艳艳;王峰;尹娜;罗天霞;王红伟;武鑫;刘永;刘伟真;蒋旺;张文靖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 32903,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

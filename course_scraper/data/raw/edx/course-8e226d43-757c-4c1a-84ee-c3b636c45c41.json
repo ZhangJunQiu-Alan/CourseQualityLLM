@@ -1,0 +1,41 @@
+{
+  "course_id": "course-8e226d43-757c-4c1a-84ee-c3b636c45c41",
+  "platform": "edx",
+  "title": "Your Body Inside and Out: Using Exercise Physiology to Slow Aging",
+  "description": "Physical activity is a powerful medicine but, in the modern world, we have drifted away from incorporating activity into our lives. As the barriers to daily movement have gotten stronger, the burden to exercise has gotten greater. These challenges are made worse for individuals in midlife and beyond who experience physical impairments or who are new to regular physical activity. As scientists learn more about the pathways of disease, the causes of aging and the mechanisms by which exercise exerts its benefits, better strategies to slow (i.e. “hack”) the aging process have also emerged. The benefits of exercise impact nearly every area of health and disease that older individuals are concerned about including the risk for dementia, cardiovascular disease, stroke, musculoskeletal disorders, obesity, diabetes and more. Through a series of informative lectures by Anne Friedlander, you will learn how your body normally changes with age and how physical activity can be used to slow that trajectory of aging. The science of exercise will be explained in combination with practical tips (such as how much and what kind), so that you can harness the power of physical activity to optimize healthy aging.",
+  "learning_goals": [
+    "Lecturing",
+    "Information Sciences",
+    "Physiology",
+    "Diabetes Mellitus",
+    "Human Musculoskeletal Systems",
+    "Dementia",
+    "Optometry",
+    "Cardiovascular Disease",
+    "Aging Processes",
+    "Exercise Physiology"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "anne-friedlander",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Stanford University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 746,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206692848",
+  "platform": "mooc_cn",
+  "title": "数学分析（一）",
+  "description": "数学分析是数学各专业极为重要的一门学科基础课。这是一门有着悠久历史的课程，从二千多年前开始萌芽，经诸多学者的不断完善，最后形成了其内容丰富、逻辑严密的理论体系。它在物理学、天文学，经济学等方面有着广泛应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206692848",
+  "instructors": [
+    {
+      "name": "李婧;陈庆",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南阳师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4899,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

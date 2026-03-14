@@ -1,0 +1,50 @@
+{
+  "course_id": "course-9602a801-f873-4c6b-b3cd-51eb9d5eb1f7",
+  "platform": "edx",
+  "title": "Physics Fundamentals: Mechanics",
+  "description": "This course approaches the study of the physical universe by analysing objects in motion. All the physical magnitudes and laws that allow us to describe geometrically and causally the motion of bodies represented by a point are defined and analysed. \n We will examine: \n \n Physical quantities and vector algebra \n Fundamentals of point kinematics \n Types of motion \n Dynamics of a point \n Work and power \n Mechanical energy",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "pilar-candelas-valiente",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "m-angeles-hernandez-fenollosa",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "constanza-rubio-michavila",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "marcos-gimenez-valentin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "joaquin-cerda-boluda",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 481,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

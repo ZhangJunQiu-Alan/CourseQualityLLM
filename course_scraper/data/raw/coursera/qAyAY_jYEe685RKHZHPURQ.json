@@ -1,0 +1,26 @@
+{
+  "course_id": "qAyAY_jYEe685RKHZHPURQ",
+  "platform": "coursera",
+  "title": "Introduction to Generative AI for Software Development",
+  "slug": "introduction-to-generative-ai-for-software-development",
+  "description": "This course is designed to enhance your skills by integrating AI chatbots as pair programmers in your development process. You’ll learn about how large language models (LLMs) work and how this general-purpose technology can be applied to common software development tasks to help boost productivity, creativity, and support you in your tasks as a developer. \n\nBy the end of this course, you will be able to:\n- Understand the differences between machine learning and traditional software development\n- Describe how large language models generate text\n- Prompt an LLM to assist in the tasks that make up the software developer role\n- Guide an LLM to complete a task in a specific way by writing detailed prompts and iterating to improve output\n- Leverage the depth of software development knowledge encoded in an LLM by prompting it to assume specific job roles or personas\n- Write code quickly using an LLM as a pair-coding partner\n- Analyze code for efficiency, security, and performance using an LLM\n\nThis course assumes you have a background in software development, but are new to using LLMs as part of your development process. By knowing how machine learning systems work, and having an understanding of how they can be applied in software development, you’ll be able to use them more effectively to support your growth and work as a developer or engineer.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks of study, 5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-generative-ai-for-software-development",
+  "instructors": [
+    {
+      "name": "Laurence Moroney",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "DeepLearning.AI"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

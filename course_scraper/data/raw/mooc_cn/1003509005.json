@@ -1,0 +1,31 @@
+{
+  "course_id": "1003509005",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术",
+  "description": "模拟电子技术主要讲解模拟信号的放大、产生、变换与处理等相关知识。本课程注重知识的关联性，将知识点串成知识链,并且通过“问题引导-问题分析-问题解决-归纳总结”的思路进行教学；从半导体基础知识出发，以“器件-电路-应用”为主线，“兼顾分立，面向集成”来组织教学内容，力求让同学们易懂易学。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003509005",
+  "instructors": [
+    {
+      "name": "刘献如;罗桂娥;覃爱娜;李飞;姜霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 39337,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

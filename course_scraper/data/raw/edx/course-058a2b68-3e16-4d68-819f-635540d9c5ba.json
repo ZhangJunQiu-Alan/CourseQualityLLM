@@ -1,0 +1,48 @@
+{
+  "course_id": "course-058a2b68-3e16-4d68-819f-635540d9c5ba",
+  "platform": "edx",
+  "title": "Pre-University Chemistry",
+  "description": "Chemistry is the fundamental discipline that helps us explain properties, structure, and behavior of matter. A solid foundation in chemistry is of importance in addressing today’s challenges with innovative chemical technological solutions.  \n This course provides you with an opportunity to revisit the fundamentals of chemistry, either out of personal interest or to ensure that you are adequately equipped for the first year of your Bachelor's degree.  \n You will acquire a solid understanding of the fundamental chemical concepts and see how they can be applied to real-world problems, in areas including: energy transition, chemistry of health and new materials. \nThe course not only covers the content needed for further study, but it also introduces the different ways in which chemistry is taught at the university-level.  \n This course is intended for: \n \n Prospective university students who seek a review \n High school students who want an additional challenge in chemistry not offered by their school \n Students who have already started at university who realize that they have a knowledge gap \n Professionals who want to broaden their knowledge or are looking for a refresher course",
+  "learning_goals": [
+    "Innovation",
+    "Chemistry"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "volkert-van-steijn",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rienk-eelkema",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "robin-de-kruijff",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "cristiano-glessi",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1204,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

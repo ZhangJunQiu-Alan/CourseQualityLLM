@@ -1,0 +1,31 @@
+{
+  "course_id": "1205990801",
+  "platform": "mooc_cn",
+  "title": "技术经济学",
+  "description": "技术经济学是一门聚焦技术与经济深度融合的交叉学科，通过资金时间价值分析、经济评价指标确立、不确定与风险分析、费用效益分析、价值工程等内容，系统教授技术方案的经济评价与优化路径，培养学生在资源约束下平衡技术先进性与经济合理性的决策能力，助力学生掌握创新技术商业化转化的核心逻辑，为产业升级、绿色转型与数字化投资提供科学决策支持，实现技术价值与社会效益的协同创造。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205990801",
+  "instructors": [
+    {
+      "name": "刘晓君",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安建筑科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21330,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

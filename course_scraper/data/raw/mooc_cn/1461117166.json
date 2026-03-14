@@ -1,0 +1,31 @@
+{
+  "course_id": "1461117166",
+  "platform": "mooc_cn",
+  "title": "通信电路与系统",
+  "description": "《通信电路与系统》是电子通信类专业的必修课程，涵盖了无线射频通信系统和功能模块中各电路的基本结构、工作原理及分析方法，注重细节分析，提供了详细的数学推导和丰富的应用案例。学习者可以从器件到电路，从模块到系统深入掌握和综合应用电子电路的知识和设计方法，适合普通高校电子信息类专业高年级学生、社会相关从业人员学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461117166",
+  "instructors": [
+    {
+      "name": "林弥;周涛;高一强;关阳阳;李航;张伟;苏江涛;张志维;孙朋飞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "杭州电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6663,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

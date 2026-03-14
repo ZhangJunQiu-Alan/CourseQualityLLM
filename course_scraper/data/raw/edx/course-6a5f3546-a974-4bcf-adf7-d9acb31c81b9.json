@@ -1,0 +1,39 @@
+{
+  "course_id": "course-6a5f3546-a974-4bcf-adf7-d9acb31c81b9",
+  "platform": "edx",
+  "title": "Data Structures & Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps",
+  "description": "This Data Structures &amp; Algorithms course extends beyond linear data structures in CS1332xI to the nonlinear and hierarchical data structures here in CS1332xII. A short Java review is presented on topics relevant to new data structures covered in this course. The course does require prior knowledge of Java, object-oriented programming and linear data structures. Time complexity is threaded throughout the course within all the nonlinear data structures and algorithms. \n You will explore the hierarchical data structure of trees. Trees have important properties such as shape and order which are used to categorize trees into different groups and define their functionality. The course begins by explaining Binary Trees and two subgroups: Binary Search Trees (BSTs) and Binary Heaps. You will program BSTs, their operations and traversal algorithms. BSTs are an important structure when wanting to access information quickly. Heaps approach access differently and prioritize what data is accessed. Heaps also employ the concept of up-heap and down-heap operations not found in other structures. \n HashMaps and SkipLists are the last data structures discussed in the course. The HashMap ADT is a collection of key-value pairs. The key-value pairs are stored in an unordered manner based on hash codes and compression functions that translate keys into integers. You will investigate different collision strategies and implement one. SkipLists are a probabilistic data structures where data is placed in the structure based on a randomization procedure. \n The course design has several components and is built around modules. A module consists of a series of short (3-5 minute) instructional videos. In between the videos, there are textual frames with additional content information for clarification, as well as video errata dropdown boxes. All modules include an Exploratory Lab that incorporates a Visualization Tool specifically designed for this course. The lab includes discovery questions that lead you towards delving deeper into the efficiency of the data structures and examining the edge cases. This is followed by a set of comprehension questions on topics covered in the module that count for 10% of your grade. The modules end with Java coding assignments which are 60% of your grade. Lastly, you'll complete a course exam, which counts for the remaining 30% of your grade.",
+  "learning_goals": [
+    "Time Complexity",
+    "Operations",
+    "Data Store",
+    "Binary Search Trees",
+    "Algorithms",
+    "Data Structures",
+    "Java Object Oriented Querying",
+    "Java (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 9-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mary-hudachek-buswell",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Georgia Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 647,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

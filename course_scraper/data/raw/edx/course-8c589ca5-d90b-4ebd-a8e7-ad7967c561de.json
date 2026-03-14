@@ -1,0 +1,49 @@
+{
+  "course_id": "course-8c589ca5-d90b-4ebd-a8e7-ad7967c561de",
+  "platform": "edx",
+  "title": "Effective Management and Communication",
+  "description": "This course surfaces the most recurring challenges of managing people and illustrates best practices for how exceptional managers address them. You will be introduced to tools that enable you to manage different personalities, mediate conflict, lead team meetings, give productive feedback and establish a culture of service and support.",
+  "learning_goals": [
+    "Communications",
+    "People Management",
+    "Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "brenda-bailey-hughes",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "timothy-baldwin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ray-luther",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "tatiana-kolovou-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Kelley Executive Education Programs"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 435,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "BNYWC1u2EfCt0wr_8L_7mQ",
+  "platform": "coursera",
+  "title": "Unix System Overview and Command",
+  "slug": "unix-system-overview-and-command",
+  "description": "This comprehensive course equips learners with the essential and advanced skills needed to navigate, manage, and optimize Unix-based systems through powerful command-line utilities. Designed for beginners and intermediate users alike, the course blends foundational concepts with real-world command usage.\n\nThrough three in-depth modules, learners will first identify core Unix structures and navigate directories using shell commands. They will then manipulate files, filter text streams, and employ communication and data redirection techniques. Finally, learners will integrate remote access tools, automate responses, and apply archiving utilities to streamline system-level operations.\n\nBy the end of the course, learners will be able to confidently analyze, execute, and optimize Unix system operations for administration, scripting, and automation purposes.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/unix-system-overview-and-command",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

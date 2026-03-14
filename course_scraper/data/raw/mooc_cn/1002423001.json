@@ -1,0 +1,31 @@
+{
+  "course_id": "1002423001",
+  "platform": "mooc_cn",
+  "title": "教学研究的数据处理与工具应用",
+  "description": "针对中小学教师在分析教学研究数据时存在的问题，本课程详细讲解了应用软件工具分析问卷数据、实验数据、课堂观察数据和访谈数据的过程与方法，以期帮助一线教师提升教学数据分析能力、形成高质量的研究成果。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002423001",
+  "instructors": [
+    {
+      "name": "马秀芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "爱课程"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 53775,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

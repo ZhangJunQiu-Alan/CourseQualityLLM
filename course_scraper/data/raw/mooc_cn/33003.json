@@ -1,0 +1,31 @@
+{
+  "course_id": "33003",
+  "platform": "mooc_cn",
+  "title": "通用英语（一）",
+  "description": "想提高你的英语能力、想了解丰富多彩的世界、想提升你的跨文化交际能力、思维能力和创新能力、想与更多的朋友分享学习英语的快乐和体验吗？请跟随我们的NEU团队一同进入《通用英语》慕课，开启你的英语学习之旅吧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/33003",
+  "instructors": [
+    {
+      "name": "卢卉艳;赵雯;赵越;宋岩;王勃然",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 186790,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

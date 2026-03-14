@@ -1,0 +1,31 @@
+{
+  "course_id": "1206692842",
+  "platform": "mooc_cn",
+  "title": "动物学",
+  "description": "“动物学”是一门生科院本科各专业必修的主干课程。该课程的目标是使学生能够认识动物的结构生物学特征；掌握动物生命活动的机理，了解动物系统与进化的规律，初步掌握濒危保护类群重要地位，更好地理解动物生命活动本质和人类对生物多样性的保护和责任，同时使学生养成保护生态环境的习惯。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206692842",
+  "instructors": [
+    {
+      "name": "周青春",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 10251,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1450776221",
+  "platform": "mooc_cn",
+  "title": "大学物理2:电磁学",
+  "description": "大学物理是高等学校非物理类理工科各专业的一门重要基础课。通过课程的学习，使学生掌握自然界物质的结构，性质，相互作用及其运动的基本规律，为后续课程的学习奠定必要的物理基础，同时在培养学生的探索精神、创新意识，增强学生分析问题和解决问题的能力等方面，具有其他课程不可替代的作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450776221",
+  "instructors": [
+    {
+      "name": "刘崧;辛勇;刘文兴;胡爱荣;付明明;姜卫群;赵书毅;何弦;魏昇;邱慧斌;陈国云;郭守晖;陈华英",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南昌大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11643,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

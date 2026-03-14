@@ -1,0 +1,31 @@
+{
+  "course_id": "1205964802",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "从中小学阶段学习的数系延伸出数域，从直角坐标系延伸出高维向量，从直线、平面的位置关系延伸出方程组；从Hill密码中的“逆”、交通网络中的“方程组”、信息检索中的“向量”，可以看到线性代数的课程知识在诸多社会实际领域中的应用。在这里，线性代数并不怎么抽象、并不怎么难懂。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205964802",
+  "instructors": [
+    {
+      "name": "屈龙江;宋伊萍;李康荃;刘春林;李俊;杨涌;文军;海昕;孙兵;刘国强;钱旭",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 100067,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002932003",
+  "platform": "mooc_cn",
+  "title": "电路原理(上)",
+  "description": "如果您是初学者，这里有完整的讲课视频和教学课件，带您走进电路；如果您在复习备考，这里有丰富的例题习题及过程解析，助您领悟电路；如果您仅为解决某一问题而来，碎片化的知识点任您挑选。我们关注不同层次学习者的需求，注重细节讲解，并贯穿始终......",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002932003",
+  "instructors": [
+    {
+      "name": "胡岩",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "沈阳工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 27203,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

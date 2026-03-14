@@ -1,0 +1,26 @@
+{
+  "course_id": "WcMbDr7XEfC4_Q5X5BH3bw",
+  "platform": "coursera",
+  "title": "Jira Project Configuration and Visibility",
+  "slug": "jira-project-configuration--visibility",
+  "description": "Are your Jira projects suffering from inconsistency, confusion, and a lack of clear visibility? This course, Jira Project Configuration and Visibility, is designed for IT and project professionals who want to master the art of creating clean, standardized, and highly visible Jira environments. You'll move beyond basic project setup and learn how to implement robust configurations that align with organizational governance and dramatically improve stakeholder communication.\n\nThrough practical, case-driven lessons, you will learn to apply shared schemes for permissions, notifications, and issue types, ensuring every project adheres to a consistent standard. You'll also dive deep into analyzing and optimizing board configurations, tailoring swimlanes, columns, and quick filters to provide crystal-clear visibility for diverse audiences, from QA testers to executive leadership. By the end of this course, you won't just know how to configure a project; you'll know how to design a project environment that fosters clarity, efficiency, and alignment across your entire organization.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "Approximately 120 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/jira-project-configuration--visibility",
+  "instructors": [
+    {
+      "name": "LearningMate",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

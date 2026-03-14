@@ -1,0 +1,26 @@
+{
+  "course_id": "C1h2JBqoEfCtChLmIEQv9w",
+  "platform": "coursera",
+  "title": "Building a Machine Learning Solution",
+  "slug": "building-a-machine-learning-solution",
+  "description": "Welcome to Building a Machine Learning Solution, where you'll journey through the complete lifecycle of a machine learning project. This capstone course covers critical steps from problem definition to deployment and maintenance. You'll learn to define clear problem statements, collect and preprocess data, perform exploratory data analysis (EDA), and engineer features to enhance model performance. The course guides you in selecting and implementing appropriate models, comparing classical machine learning, deep learning, and generative AI approaches. Emphasizing real-world considerations, you'll address scalability, interpretability, and ethical implications. You'll gain hands-on experience with tools like scikit-learn, TensorFlow, PyTorch, and more, ensuring you can deploy and monitor models effectively. By the end of this course, you'll be equipped to build end-to-end ML solutions that transform data into actionable insights, making informed decisions at each stage of development.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "5 weeks / 6-7 hours per week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/building-a-machine-learning-solution",
+  "instructors": [
+    {
+      "name": "Professionals from the Industry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

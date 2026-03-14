@@ -1,0 +1,31 @@
+{
+  "course_id": "1001691002",
+  "platform": "mooc_cn",
+  "title": "普通物理",
+  "description": "物理学是众多自然科学和工程技术的基础，是人类文明的基石。”普通物理“是以物理学基础为内容的一门课程。由同济大学精心打造的”普通物理“课程，用生动的语言、有趣的实验、交互的方式及数字化技术，为学习物理、探索科学提供优质的学习平台。来吧，让我们一起感受物理世界的无穷魅力！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001691002",
+  "instructors": [
+    {
+      "name": "王祖源;宋志怀",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 142511,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

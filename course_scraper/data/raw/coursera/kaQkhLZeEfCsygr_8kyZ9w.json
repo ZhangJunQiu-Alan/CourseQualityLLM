@@ -1,0 +1,26 @@
+{
+  "course_id": "kaQkhLZeEfCsygr_8kyZ9w",
+  "platform": "coursera",
+  "title": "Mastering Microservices Design with CQRS, DDD, and Marten",
+  "slug": "packt-mastering-microservices-design-with-cqrs-ddd-and-marten-knzig",
+  "description": "This course features Coursera Coach! \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course. \n\nIn this course, you'll master the design and implementation of microservices using CQRS, DDD, and Marten as a document database. You'll build scalable APIs, handle CRUD operations, and integrate microservices with PostgreSQL and Redis. Learn how to optimize performance using Docker, implement cross-cutting concerns like logging and exception handling, and utilize patterns such as Proxy and Decorator.  \n\nThe course also covers high-performance communication using gRPC for seamless interactions between microservices. By working with real-world examples, you'll learn how to structure and deploy microservices efficiently, ensuring they are robust and scalable. \n\nIdeal for developers familiar with .NET, this course will guide you through designing and deploying microservices that are efficient, reliable, and scalable. \n\nBy the end of the course, you will be able to develop and deploy microservices using CQRS, DDD, Marten, gRPC, and Docker.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-mastering-microservices-design-with-cqrs-ddd-and-marten-knzig",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

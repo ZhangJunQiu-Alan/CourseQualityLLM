@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755021",
+  "platform": "mooc_cn",
+  "title": "微机原理与接口技术",
+  "description": "本课程是提升应用计算机新技术能力，探究智能制造、机器人、网络技术等的根基。内容包含微机的工作原理与结构、指令、汇编程序设计、存储器组织及典型接口。讲解过程自然、流畅，穿插由emu8086和proteus应用基础理论、知识与技能解决实际问题的仿真。学习者可轻松愉快地学习，掌握应有的知识与技能。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755021",
+  "instructors": [
+    {
+      "name": "冯友兵;陈红卫;杨奕飞;袁伟;齐亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36333,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

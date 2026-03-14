@@ -1,0 +1,36 @@
+{
+  "course_id": "course-d9772fdc-491f-4520-bb9a-48eec46442a9",
+  "platform": "edx",
+  "title": "Fundamentals of Psychology",
+  "description": "An introduction to the systematic study of human cognition, emotion, and behavior with an emphasis on the scientific method. Fundamentals of behavior, learning, conditioning, development, cognitive processes, perception, emotion, personality, and psychopathology are among the content areas studied. Particular emphasis is placed on the use of the scientific method for the study of human nature. Students successfully completing the course will demonstrate a general understanding of the knowledge established in these areas, as well as the methods used by psychologists to acquire that knowledge.",
+  "learning_goals": [
+    "Psychology",
+    "Cognitive Processing",
+    "Psychopathology",
+    "Auditing",
+    "Scientific Methods"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 5-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-kays",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Doane University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 462,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

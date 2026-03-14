@@ -1,0 +1,31 @@
+{
+  "course_id": "1458200165",
+  "platform": "mooc_cn",
+  "title": "Theory of Elasticity",
+  "description": "Elasticity is concerned with the determination of displacement, strain and stress distributions in elastic solids. Solutions are typically developed based on a system of PDEs. This course emphasizes the seamless integration of mathematical theories and mechanical principles.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458200165",
+  "instructors": [
+    {
+      "name": "Baijian Wu;Changwen MI;Gongye Zhang",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Southeast University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2034,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

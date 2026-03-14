@@ -1,0 +1,26 @@
+{
+  "course_id": "9vNrQOxyEfCcyQr_y2IBnQ",
+  "platform": "coursera",
+  "title": "Apply TOSCA Automation in a Faculty Feedback System Project",
+  "slug": "apply-tosca-automation-faculty-feedback-system-project",
+  "description": "Learners will analyze real-world requirements, apply TOSCA automation concepts, design test cases, and execute end-to-end tests for a complete Faculty Feedback System project. This course enables learners to move beyond isolated tool features and focus on applying automation skills in a structured, project-driven environment.\n\nThrough a step-by-step approach, learners explore the full lifecycle of test automation using TOSCA—starting from understanding project flow and user roles, to designing databases, managing test data, creating role-based modules, and finally executing and validating automated test cases. Each module mirrors real industry practices, helping learners connect theory with hands-on implementation.\n\nWhat makes this course unique is its end-to-end project focus. Instead of fragmented examples, learners work on a single, cohesive system that reflects real enterprise applications. This approach builds confidence in handling automation projects independently, improves problem-solving skills, and strengthens job-ready expertise.\n\nBy completing this course, learners gain practical experience in automation testing, improve their understanding of system workflows, and develop the ability to design, execute, and validate test cases using TOSCA—skills that are highly valuable for software testing and QA automation roles.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/apply-tosca-automation-faculty-feedback-system-project",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

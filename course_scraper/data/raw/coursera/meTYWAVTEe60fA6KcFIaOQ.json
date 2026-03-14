@@ -1,0 +1,26 @@
+{
+  "course_id": "meTYWAVTEe60fA6KcFIaOQ",
+  "platform": "coursera",
+  "title": "Developing Applications with Cloud Run on Google Cloud: Fundamentals",
+  "slug": "developing-applications-with-cloud-run-on-gcp-fundamentals",
+  "description": "This course introduces the Cloud Run serverless platform for running applications. \nIn this course, you learn about the fundamentals of Cloud Run, its resource model and the container lifecycle. \nYou learn about service identities, how to control access to services, and how to develop and test your \napplication locally before deploying it to Cloud Run. The course also teaches you how to integrate \nwith other services on Google Cloud so you can build full-featured applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/developing-applications-with-cloud-run-on-gcp-fundamentals",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

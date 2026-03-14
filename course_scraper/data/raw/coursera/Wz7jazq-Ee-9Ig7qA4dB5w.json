@@ -1,0 +1,26 @@
+{
+  "course_id": "Wz7jazq-Ee-9Ig7qA4dB5w",
+  "platform": "coursera",
+  "title": "Gemini for DevOps Engineers - Bahasa Indonesia",
+  "slug": "gemini-for-devops-engineers-id",
+  "description": "Dalam kursus ini, Anda akan mempelajari bagaimana Gemini, kolaborator yang didukung AI generatif dari Google Cloud, membantu engineer mengelola infrastruktur. Anda akan mempelajari cara memerintah Gemini untuk menemukan dan memahami log aplikasi, membuat cluster GKE, dan menyelidiki cara membuat lingkungan build. Dengan menggunakan lab interaktif, Anda akan melihat bagaimana Gemini meningkatkan alur kerja DevOps.\n\nDuet AI berganti nama menjadi Gemini, yang merupakan model generasi berikutnya dari kami.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "id",
+  "url": "https://www.coursera.org/learn/gemini-for-devops-engineers-id",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

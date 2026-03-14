@@ -1,0 +1,31 @@
+{
+  "course_id": "1003538130",
+  "platform": "mooc_cn",
+  "title": "新实用汉译英翻译课程",
+  "description": "本课程以实践教学为主，讲述翻译技巧，为大学生参加英语翻译考试或今后从事有关翻译的工作打下坚实基础。                                                                                                                                                   -------课程团队",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003538130",
+  "instructors": [
+    {
+      "name": "陈争峰;郑沛;杨延红;聂琳;刘楠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 40330,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

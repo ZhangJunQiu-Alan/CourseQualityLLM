@@ -1,0 +1,26 @@
+{
+  "course_id": "Zr5kYllgEe6vbRJrd0-TVw",
+  "platform": "coursera",
+  "title": "Build a Mobile App with Firebase",
+  "slug": "build-a-mobile-app-with-firebase",
+  "description": "e.g. This is primarily aimed at first- and second-year undergraduates interested in engineering or science, along wiUnlock Your App Development Potential: Creating a Feature-Rich Shopping List App\n\nAre you ready to turn your visionary app ideas into reality? If your answer is a resounding 'YES,' then this course is your gateway to a transformative journey.\n\nIn this meticulously designed course, we will guide you through the creation of a sophisticated shopping list app using a powerful tech stack, including HTML, CSS, JavaScript, and Firebase. Leveraging Firebase's real-time database capabilities, you'll learn how to store and manage data seamlessly.\n\nCourse Highlights:\n\nMastering Database Fundamentals: Delve into the world of databases as we demystify the intricacies of Firebase Realtime Database. Gain the skills needed to establish and configure your database, while learning the art of data storage and retrieval.\n\nProgressive Web App (PWA) Magic: Elevate your app development expertise by utilizing a unique technique that transforms your web app into a mobile-like experience. Learn how to create PWAs that exhibit remarkable responsiveness and user-friendliness.\n\nHands-On Experience: Throughout the course, you'll embark on a series of challenges designed to solidify your understanding and proficiency in each topic. Practical application is at the heart of our teaching methodology.\n\nReal-Time Data Interaction: Discover the enchanting world of real-time data synchronization. Witness the magic as your app dynamically updates and displays data changes in real time, enhancing user engagement.\n\nComprehensive Learning: By the course's conclusion, you'll have the knowledge and skills to set up, connect, populate, display, and manage data in your Firebase Realtime Database. Plus, you'll be well-equipped to handle data deletion tasks.\n\nExploration Beyond: This course serves as a stepping stone to explore the myriad of other impressive features Firebase offers. You'll have the foundation needed to explore and utilize Firebase's full potential.\n\nJoin us on this immersive journey, where innovation meets practicality. Transform your app development aspirations into reality, and become proficient in crafting feature-rich, real-time applications. Enroll today and embark on your path to app development excellence.th high school students and professionals with an interest in programming.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-a-mobile-app-with-firebase",
+  "instructors": [
+    {
+      "name": "Rafid Hoda",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Scrimba"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

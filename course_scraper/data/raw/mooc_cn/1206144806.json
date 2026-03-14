@@ -1,0 +1,31 @@
+{
+  "course_id": "1206144806",
+  "platform": "mooc_cn",
+  "title": "民法学",
+  "description": "课程分为总论和分论两个部分：总论部分讲授民法与理论的普遍性、规律性原理民法学具体研究，包括民法与经济基础的关系；民法与市场经济的关系；民法总论中的各项基本制度及其内在的规律性；民法总论在执行中的经验和问题等。分论部分讲授物权、债权、和民事责任制度的基本知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206144806",
+  "instructors": [
+    {
+      "name": "刘晓纯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "天津大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 125529,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "zBpEbnDwEe-26RI4cE3yzw",
+  "platform": "coursera",
+  "title": "Work with Gemini Models in BigQuery - 日本語版",
+  "slug": "work-with-gemini-models-in-bigquery-ja",
+  "description": "이 과정은 BigQuery에서 생성형 AI 작업에 AI/ML 모델을 사용하는 방법을 보여줍니다. 고객 관계 관리와 관련된 실제 사용 사례를 통해 Gemini 모델로 비즈니스 문제를 해결하는 워크플로를 설명합니다. 이해를 돕기 위해 SQL 쿼리와 Python 노트북을 사용하는 코딩 솔루션을 단계별로 안내합니다.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "ja",
+  "url": "https://www.coursera.org/learn/work-with-gemini-models-in-bigquery-ja",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

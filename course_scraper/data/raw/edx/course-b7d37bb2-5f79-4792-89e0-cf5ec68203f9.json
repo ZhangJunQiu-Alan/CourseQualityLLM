@@ -1,0 +1,34 @@
+{
+  "course_id": "course-b7d37bb2-5f79-4792-89e0-cf5ec68203f9",
+  "platform": "edx",
+  "title": "Justice",
+  "description": "Taught by lauded Harvard professor Michael Sandel, Justice explores critical analysis of classical and contemporary theories of justice, including discussion of present-day applications. Topics include affirmative action, income distribution, same-sex marriage, the role of markets, debates about rights (human rights and property rights), arguments for and against equality, dilemmas of loyalty in public and private life. The course invites learners to subject their own views on these controversies to critical examination. \n The principal readings for the course are texts by Aristotle, John Locke, Immanuel Kant, John Stuart Mill, and John Rawls. Other assigned readings include writings by contemporary philosophers, court cases, and articles about political controversies that raise philosophical questions.",
+  "learning_goals": [
+    "Property Rights",
+    "Political Philosophy",
+    "Critical Thinking"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "12 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "michael-j-sandel",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24618,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

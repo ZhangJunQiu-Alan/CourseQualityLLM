@@ -1,0 +1,31 @@
+{
+  "course_id": "1469128161",
+  "platform": "mooc_cn",
+  "title": "系统工程",
+  "description": "系统工程是管理门类的专业课程，在专业知识结构中占据重要的地位，把自然科学与社会科学中的思想、理论和方法，依据系统总体协调的需要，有机联系成一门新兴边缘学科，具有学科知识交叉、融合的作用。该课程一方面培养管理科学决策者所需要具备的系统观、整体观，另一方面，培养分析和解决复杂系统的能力，为后续科研或工作实践中解决管理科学决策领域的复杂系统问题打下坚实的理论基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1469128161",
+  "instructors": [
+    {
+      "name": "朱卫未",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3064,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

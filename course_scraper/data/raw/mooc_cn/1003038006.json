@@ -1,0 +1,31 @@
+{
+  "course_id": "1003038006",
+  "platform": "mooc_cn",
+  "title": "史学概论",
+  "description": "历史，不过就是一堆过去的年代、事件和人物罢了。仅仅如此吗？当然不是，如果是，学历史只需一本辞典在手即可。那它是什么？本门课程就从“历史不是你以为的那样”开始，试着带领你逐渐步入史学的殿堂。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003038006",
+  "instructors": [
+    {
+      "name": "郝虹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25963,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

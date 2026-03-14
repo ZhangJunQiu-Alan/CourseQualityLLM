@@ -1,0 +1,31 @@
+{
+  "course_id": "1001970009",
+  "platform": "mooc_cn",
+  "title": "土木工程概论",
+  "description": "本课程为土木工程专业的基础课程，是大一学生了解、认知土木工程专业的入门课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001970009",
+  "instructors": [
+    {
+      "name": "叶志明;杜晓庆;陈玲俐;朱杰江;彭妙娟;姚文娟;汪德江",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 67638,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002203008",
+  "platform": "mooc_cn",
+  "title": "公司理财",
+  "description": "这是一门关于企业价值管理、投资、融资、营运和分配的课程：一门能通过内部治理增加企业价值的“加法”课程；一门教会时间风险观和任何人都不能在任何时候欺骗任何人的理财观念的“减法”课程；一门能培养财经问题的敏锐度和关注度的“乘法”课程；一门能教会赚钱花钱，降低失望和不幸的“除法”课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002203008",
+  "instructors": [
+    {
+      "name": "包晓岚;李思呈;吴伟荣;江新峰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 63498,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

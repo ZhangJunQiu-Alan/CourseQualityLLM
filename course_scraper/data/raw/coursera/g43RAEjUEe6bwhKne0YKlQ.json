@@ -1,0 +1,26 @@
+{
+  "course_id": "g43RAEjUEe6bwhKne0YKlQ",
+  "platform": "coursera",
+  "title": "Prompt Engineering for Web Developers",
+  "slug": "prompt-engineering-for-web-developers",
+  "description": "Not quite getting the results you want from ChatGPT? Wondering how you can use AI language models to your advantage? Then this course is for you!\n\nIf you’ve spent any amount of time with AI language models like ChatGPT and Google Bard, you may have noticed the results can sometimes be, well, frustrating. \n\nWhen it comes to leveraging AI language models, your output is often only as good as your input. In other words, it’s all about learning how best to communicate your desired results. Effective prompt engineering is the secret sauce for getting the most out of AI. \n\nThere are plenty of resources on prompt engineering out there, but this course focuses specifically on how you can learn the art and science of effective prompt engineering to get the most out of AI language models and ultimately become a better web developer.\n\nBy the end of the course, you'll be an awesome prompt engineer with the skills to transform AI language models like ChatGPT into the ultimate coding assistant and pair programming partner.\n\nYou’ll be equipped to leverage AI to plan, learn, generate, debug, document, and explore code better than you ever have before.\n\nAnd to make sure it sticks, there will be plenty of  challenges and suggestions for further learning along the way!\n\nReady? Let’s engineer some prompts!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/prompt-engineering-for-web-developers",
+  "instructors": [
+    {
+      "name": "Treasure Porth",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Scrimba"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

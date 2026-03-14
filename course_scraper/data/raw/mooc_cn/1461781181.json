@@ -1,0 +1,31 @@
+{
+  "course_id": "1461781181",
+  "platform": "mooc_cn",
+  "title": "海洋气象学",
+  "description": "海洋气象学涉及地球系统中海洋和大气两个圈层间的耦合现象，是海洋科学和大气科学共同关注的专业课程。该课程讲述海上主要气象现象的物理特征，介绍低纬度海气相互作用领域研究的基本方法和重要结论，为海气相互作用等后继课程提供必要的学习基础。通过本课程的学习，学生应充分了解海洋气象环境，为将来服务于海洋气象预报、海洋探测、海洋工程等工作做好准备。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461781181",
+  "instructors": [
+    {
+      "name": "胡海波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5781,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

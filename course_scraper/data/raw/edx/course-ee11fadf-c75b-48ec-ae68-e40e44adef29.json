@@ -1,0 +1,65 @@
+{
+  "course_id": "course-ee11fadf-c75b-48ec-ae68-e40e44adef29",
+  "platform": "edx",
+  "title": "Electric Cars: Technology",
+  "description": "Electric cars are more than a novel means of mobility. They have been recognized as an essential building block of the energy transition. Fulfilling their promise will imply a significant change in the technical, digital and social dimensions of transport and energy infrastructure. If you are interested in learning about the state-of-the-art technology behind electric cars, then this is the course for you!  \n This course focuses on the technology behind electric cars. You will explore the working principle of electric vehicles with different operations including regenerative braking, delve into the machines and power electronics used in electric vehicles and the technology behind their operation, learn about battery technology, EV charging, smart charging, battery management systems and thermal systems and about future trends in the development of electric cars like autonomous driving.  \n The course includes video lectures, presentations and exercises, which are all illustrated with real-world case studies from projects that were implemented in the Netherlands. This includes Lightyear One EV, the Carver EV, ABB EV charging infrastructure and the Vattenfall solar race team.  \n This course was co-developed by Dutch Innovation Centre for Electric Road Transport (Dutch-INCERT) and TU Delft and is taught by experts from both the industry and academia, who share their knowledge and insights.  \n Join the course and be prepared for the upcoming developments amid the transition to electric vehicles!",
+  "learning_goals": [
+    "Brakes",
+    "Battery Technology",
+    "Infrastructure",
+    "Electronics",
+    "Battery Management",
+    "Thermodynamic Systems",
+    "Innovation",
+    "Electric Vehicles",
+    "Operations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "pavol-bauer",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "auke-hoekstra",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "gautham-ram",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "marnix-wagemaker",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jianning-dong",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "riender-happee-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 649,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

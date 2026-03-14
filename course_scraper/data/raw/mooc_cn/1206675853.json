@@ -1,0 +1,31 @@
+{
+  "course_id": "1206675853",
+  "platform": "mooc_cn",
+  "title": "金融衍生品",
+  "description": "《金融衍生产品课程》是会计与公司金融专业的专业必修课。通过学习使学生掌握远期、期权、期货等衍生金融产品的基本原理，衍生金融产品定价的基本原理，运用衍生金融产品进行套期保值的基本原理，掌握金融工程技术的方法，如数学建模、数值计算、网络图解、仿真模拟等设计、开发和实施新型金融产品等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206675853",
+  "instructors": [
+    {
+      "name": "王军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19953,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,30 @@
+{
+  "course_id": "course-dc8b9611-ae52-4528-9a93-73928cbed32f",
+  "platform": "edx",
+  "title": "Mastering Generative AI: Agents with RAG and LangChain",
+  "description": "The demand for technical gen AI skills is rocketing. AI engineers with competencies in large language models (LLMs), and related methodologies and frameworks such as RAG and LangChain, are highly sought-after. This Mastering Generative AI - Agents with RAG and LangChain course builds the job-ready skills you need to catch the eye of an employer.  \n During the course, you’ll explore retrieval-augmented generation (RAG), prompt engineering, and LangChain. You’ll build your understanding of RAG, its applications, and its process, along with encoders, their tokenizers, and the Facebook AI similarity search (FAISS) library. Further You’ll learn how to apply in-context learning and prompt engineering to design and refine prompts for accurate responses. Plus, you’ll dive into the world of LangChain tools, components, and chat models, and work with LangChain to simplify the application development process using LLMs.  \n Throughout the course, you’ll get hands-on practice in online labs developing applications using integrated LLM, LangChain, and RAG technologies. Plus, you’ll complete a real-world project you can talk about in interviews.  \n If you’re looking to build job-ready skills in RAG and LangChain that employers are looking for, ENROLL TODAY and get ready to power up your resume!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "2 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 898,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

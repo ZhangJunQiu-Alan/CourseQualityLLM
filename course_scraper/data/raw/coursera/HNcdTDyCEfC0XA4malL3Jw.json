@@ -1,0 +1,26 @@
+{
+  "course_id": "HNcdTDyCEfC0XA4malL3Jw",
+  "platform": "coursera",
+  "title": "Mastering Microsoft Endpoint Manager and Intune",
+  "slug": "packt-mastering-microsoft-endpoint-manager-and-intune-sntyi",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course provides an in-depth look at how to manage and secure endpoints using Microsoft Endpoint Manager. You will gain a strong understanding of the key components, including Microsoft Endpoint Configuration Manager and Microsoft Intune, both of which are powerful tools for deploying, managing, and protecting devices, data, and applications in an enterprise environment. By the end of this course, you’ll be proficient in the core practices of endpoint management, from enrollment to security policy deployment.\n\nThe course begins with an introduction to Microsoft Endpoint Manager and its co-management features. You’ll explore various device enrollment methods, followed by a detailed examination of deploying and managing Windows clients in a business environment. Next, you’ll dive into configuring endpoints using profiles and managing their security posture with compliance policies. You'll also learn how to use Microsoft Intune for application deployment and management.\n\nFinally, you’ll explore additional features of Endpoint Manager, such as troubleshooting and the advanced security capabilities available within the platform. The course includes practical tips and hands-on examples to ensure you can apply your knowledge effectively in real-world scenarios.\n\nThis course is ideal for IT professionals, system administrators, and anyone involved in managing endpoints in an organization. It requires a basic understanding of IT infrastructure, but no prior experience with Microsoft Endpoint Manager is needed. This course is suitable for intermediate learners who want to take their endpoint management skills to the next level.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-mastering-microsoft-endpoint-manager-and-intune-sntyi",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

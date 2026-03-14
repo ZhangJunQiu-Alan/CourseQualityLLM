@@ -1,0 +1,31 @@
+{
+  "course_id": "1460840161",
+  "platform": "mooc_cn",
+  "title": "现代检测技术",
+  "description": "现代检测技术是基于传感器原理与应用的一门多学科交叉渗透、实践性很强的专业必修课。课程内容包含传感器的基本概念、传感器的构成、传感器的工作原理、传感器的作用及发展趋势等，旨在培养学生分析传感器检测原理、测量电路工作原理及常见应用，解决工程、生产和科研中遇到的各种具体的检测问题。通过在线学习，成绩合格者，可申请付费合格证书。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460840161",
+  "instructors": [
+    {
+      "name": "曹辉;黄龙庭;杨媛媛;张琪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4546,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

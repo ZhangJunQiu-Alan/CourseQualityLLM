@@ -1,0 +1,38 @@
+{
+  "course_id": "course-061b8a81-b1df-4b50-88a8-a51318aad2e4",
+  "platform": "edx",
+  "title": "A-level Further Mathematics for Year 12 - Course 1: Complex Numbers, Matrices, Roots of Polynomial Equations and Vectors",
+  "description": "This course by Imperial College London is designed to help you develop the skills you need to succeed in your A-level further maths exams. \n You will investigate key topic areas to gain a deeper understanding of the skills and techniques that you can apply throughout your A-level study. These skills include: \n \n  Fluency – selecting and applying correct methods to answer with speed and efficiency  \n  Confidence – critically assessing mathematical methods and investigating ways to apply them  \n Problem-solving – analysing the ‘unfamiliar’ and identifying which skills and techniques you require to answer questions \n Constructing mathematical argument – using mathematical tools such as diagrams, graphs, logical deduction, mathematical symbols, mathematical language, construct mathematical argument and present precisely to others \n Deep reasoning – analysing and critiquing mathematical techniques, arguments, formulae and proofs to comprehend how they can be applied \n \n Over eight modules, you will be introduced to \n \n  complex numbers, their modulus and argument and how they can be represented diagrammatically  \n matrices, their order, determinant and inverse and their application to linear transformation \n roots of polynomial equations and their relationship to coefficients \n series, partial fractions and the method of differences \n vectors, their scalar produce and how they can be used to define straight lines and planes in 2 and 3 dimensions. \n \n Your initial skillset will be extended to give a clear understanding of how background knowledge underpins the A-level further mathematics course. You’ll also be encouraged to consider how what you know fits into the wider mathematical world.",
+  "learning_goals": [
+    "Language Construct",
+    "Basic Math"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "7 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "philip-ramsden",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "phil-chaffe",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Imperial College London"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 689,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002989013",
+  "platform": "mooc_cn",
+  "title": "结构概念分析与ANSYS程序实现",
+  "description": "本课程以通用有限元程序ANSYS为工具，通过对命令流的学习，使学生了解并掌握基本结构概念，培养解决实际工程问题和科研问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002989013",
+  "instructors": [
+    {
+      "name": "郭小农",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "同济大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 62968,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

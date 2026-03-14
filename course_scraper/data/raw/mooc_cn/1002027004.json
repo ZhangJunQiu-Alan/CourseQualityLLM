@@ -1,0 +1,31 @@
+{
+  "course_id": "1002027004",
+  "platform": "mooc_cn",
+  "title": "轻松学统计",
+  "description": "《轻松学统计》课程由江西财经大学统计学院博士生导师罗良清教授领衔的团队制作完成，是课程组运用信息技术改变教学方式，尝试信息技术与课程融合的成果。课程体系完整，每节视频短小精悍，内容生动有趣，授课风趣幽默，资源丰富多样、学习过程轻松愉悦，是融娱乐性、通俗性和严谨性于一体的MOOC课堂。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002027004",
+  "instructors": [
+    {
+      "name": "罗良清",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江西财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 93262,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

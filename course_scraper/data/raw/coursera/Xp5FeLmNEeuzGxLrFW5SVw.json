@@ -1,0 +1,32 @@
+{
+  "course_id": "Xp5FeLmNEeuzGxLrFW5SVw",
+  "platform": "coursera",
+  "title": "Linux Basics: The Command Line Interface - 6",
+  "slug": "linux-basics-the-command-line-interface",
+  "description": "This course will introduce you to Linux, a powerful operating system used by most professional developers!\n\nWhy add Linux to your C programming skills? Most people use Linux without knowing it! Whether you use a smartphone, search the web, or use an ATM, each time Linux is involved somewhere in the background. It is the most used operating system for embedded devices and high-performance servers. It is also the most common operating system used by developers to create software applications.\n\nIn this course, you will learn the history of Linux and how its open source community was able to create today’s most advanced operating system. You will navigate the file system, use fundamental Linux commands and master the Linux command line interface. These are essential skills for every developer.\n\nYou will also be able to produce software written in C using the industry-standard tools on Linux.\n\nWe are excited to introduce you to Linux and guide you along your path to becoming a skilled user of this powerful operating system!\n\nAt the end of this short course, you will reach the sixth milestone of the C Programming with Linux Specialization, unlocking the door to a career in computer engineering.\n\nYour job Outlook: \n- Programmers, developers, engineers, managers, and related industries within scientific computing and data science;\n- Embedded systems such as transportation, utility networks, and aerospace;\n- Robotics industry and manufacturing;\n- IoT (Internet of Things) used in smart homes, automation, and wearables.\n- IEEE, the world’s largest technical professional organization for the advancement of technology, ranks C as one of the top programming languages of 2017 in demand by employers. (Source: IEEE Spectrum)\n\nThis course has received financial support from the Patrick & Lina Drahi Foundation.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "3 weeks, 3-5 hours a week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/linux-basics-the-command-line-interface",
+  "instructors": [
+    {
+      "name": "Rémi SHARROCK",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Petra Bonfert-Taylor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dartmouth College",
+    "Institut Mines-Télécom"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

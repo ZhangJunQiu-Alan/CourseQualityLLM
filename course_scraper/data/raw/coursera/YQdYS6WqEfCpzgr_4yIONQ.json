@@ -1,0 +1,26 @@
+{
+  "course_id": "YQdYS6WqEfCpzgr_4yIONQ",
+  "platform": "coursera",
+  "title": "Design, Compare and Analyze LLM Architectures",
+  "slug": "design-compare-and-analyze-llm-architectures",
+  "description": "Selecting the appropriate architecture for a large language model (LLM) application is a critical decision for any technical team, influencing costs, performance, and security. The course \"Design, Compare and Analyze LLM Architectures\" is tailored for engineers, architects, and technical leads involved in these pivotal \"build vs. buy\" assessments. It offers a structured approach to designing and justifying system architectures. Learners will learn to enhance their visual communication skills by creating sequence diagrams that illustrate the trade-offs between synchronous and asynchronous processing flows. The course also emphasizes strategic analysis of deployment options, comparing self-hosting an open-source model with utilizing a managed API. Key skills developed include calculating Total Cost of Ownership (TCO), evaluating latency, and understanding data privacy implications, enabling participants to make informed, business-focused recommendations. By the end of this course, you will be able to confidently design, defend, and document your architectural choices to any stakeholder.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "120 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/design-compare-and-analyze-llm-architectures",
+  "instructors": [
+    {
+      "name": "LearningMate",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

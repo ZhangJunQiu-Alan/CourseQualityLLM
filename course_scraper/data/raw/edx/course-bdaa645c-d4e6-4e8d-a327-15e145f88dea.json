@@ -1,0 +1,70 @@
+{
+  "course_id": "course-bdaa645c-d4e6-4e8d-a327-15e145f88dea",
+  "platform": "edx",
+  "title": "Sport Analytics: Data Driven Decision Making",
+  "description": "Analytics have revolutionized sport, providing a competitive advantage to organizational decision-making both on and off the field. This course introduces best practices utilized by data analysts in sport business analytics. The course touches on sports data collection, fact finding, visualization, and metrics that guide strategic decision-making in the sport industry. This course will touch on many aspects of the sports industry, including professional sports. You do do not need a comprehensive background in data science, computer science/Python, or machine learning to complete this edX course. \n Through the duration of this self-paced, online course, learners will: \n \n \n Identify the concepts and characteristics of sports analytics in the sporting industry, historically and today. \n \n \n Interpret aspects of analytics in the sporting industry (e.g., the impact of analytics in sport, player data points, athlete performance data tracking, organizational key performance indicators, etc.) \n \n \n Comprehend and engage in critical thinking with analytic topics in the sporting industry. \n \n \n Obtain a perspective of the growing trend and field of sport analytics. \n \n \n Gain insight on the strategies, analytical techniques, and concepts used to evaluate players, team performance, and front-office strategies. \n \n \n Discuss topics related to sport analytics \n \n \n Utilize data analysis and statistical analysis techniques to identify problems and propose innovative solutions for improving performance both on the field and in sport management.",
+  "learning_goals": [
+    "Data Analysis",
+    "Sports Analytics",
+    "Business Strategies",
+    "Analytical Techniques",
+    "Team Performance Management",
+    "Computer Science",
+    "Front Office",
+    "Data-Driven Decision-Making",
+    "Data Collection",
+    "Statistical Analysis",
+    "Python (Programming Language)",
+    "Machine Learning",
+    "Critical Thinking",
+    "Data Science",
+    "Strategic Decision-Making",
+    "Decision Making",
+    "Sport Business",
+    "Key Performance Indicators (KPIs)",
+    "Business Analytics"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jon-nachtigal",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "peggy-keiper",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "cole-mckeel",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "michelle-gulino",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "travis-misner-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Alaska Fairbanks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 337,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

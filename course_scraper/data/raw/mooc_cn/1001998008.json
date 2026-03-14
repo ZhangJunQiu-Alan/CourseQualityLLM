@@ -1,0 +1,31 @@
+{
+  "course_id": "1001998008",
+  "platform": "mooc_cn",
+  "title": "电路（上）",
+  "description": "本课程具有 (1) 理论教学与实验教学相结合；(2) 线上与线下延伸式教学相结合； (3) 启发式与研究型教学相结合；(4) 注重基础知识与工程应用背景相结合;(5) 将电路发展简史引入等特点。全方位调动学生学习的积极性，培养创新意识，提升学生分析问题解决问题能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001998008",
+  "instructors": [
+    {
+      "name": "齐超;杨旭强;刘洪臣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 153844,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

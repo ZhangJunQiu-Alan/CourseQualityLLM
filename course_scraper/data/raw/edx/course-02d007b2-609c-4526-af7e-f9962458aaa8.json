@@ -1,0 +1,50 @@
+{
+  "course_id": "course-02d007b2-609c-4526-af7e-f9962458aaa8",
+  "platform": "edx",
+  "title": "Circular Economy: An Introduction",
+  "description": "Our global society is not sustainable. We all know about the challenges we’re facing: waste, climate change, resource scarcity, loss of biodiversity. At the same time, we want to sustain our economies and offer opportunities for a growing world population. This course is about providing solutions we really believe in: a Circular Economy. \n In this course we explore the Circular Economy: how businesses can create value by reusing and recycling products, how designers can come up with amazingly clever solutions, and how you can contribute to make the Circular Economy happen. \n You will learn to re-think the economic system you’re experiencing every day, and act upon it. Be a leader in this major paradigm shift! Shape a more circular future together with our global network. \n The course is led by TU Delft and co-created with the Ellen MacArthur Foundation and the Leiden-Delft-Erasmus Centre for Sustainability.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ken-webster",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "conny-bakker",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "david-peck",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ester-van-der-voet",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "erwin-van-der-laan",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1053,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

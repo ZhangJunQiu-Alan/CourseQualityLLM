@@ -1,0 +1,26 @@
+{
+  "course_id": "l8EPHG39Ee-Quwr_1ABTmQ",
+  "platform": "coursera",
+  "title": "Data Extract, Transform, and Load in Power BI",
+  "slug": "data-extract-transform-and-load-in-power-bi",
+  "description": "In this course, you will learn the process of Extract, Transform and Load or ETL. You will identify how to collect data from and configure multiple sources in Power BI and prepare and clean data using Power Query. You’ll also have the opportunity to inspect and analyze ingested data to ensure data integrity. \n\nAfter completing this course, you’ll be able to: \n•\tIdentify, explain and configure multiple data sources in Power BI  \n•\tClean and transform data using Power Query  \n•\tInspect and analyze ingested data to ensure data integrity",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "20 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/data-extract-transform-and-load-in-power-bi",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

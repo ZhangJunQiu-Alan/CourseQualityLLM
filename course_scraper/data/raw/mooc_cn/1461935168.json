@@ -1,0 +1,31 @@
+{
+  "course_id": "1461935168",
+  "platform": "mooc_cn",
+  "title": "电路分析与测试",
+  "description": "《电路分析与测试》主要面向职业教育的学生，重视基本概念、基本定律、基本分析方法，淡化理论推导和复杂的数据分析，注重应用人才能力的培养，把立足点放在工程技术应用上，由实践数据或现象，引出电路理论，利于学生理解。灵活使用多样化的教学手段和方法突破教学难点和重点，重视对后续课程的支撑和衔接。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461935168",
+  "instructors": [
+    {
+      "name": "胡逸凡;龙晓慧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2009,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "rD4Ylc6IEfC_oA79Ql6_Uw",
+  "platform": "coursera",
+  "title": "Transform Financial Data: Recall & Import",
+  "slug": "transform-financial-data-recall--import",
+  "description": "Financial analysts spend hours manually reformatting data feeds—time that could be spent on analysis. This intermediate course teaches you to recognize data structures and automate transformations using Power Query, turning repetitive cleanup into one-click refreshes. You'll start by classifying structured, semi-structured, and unstructured data across typical financial sources—understanding how each format affects accuracy, governance, and reporting workflows. Then you'll master Power Query to import JSON feeds, flatten nested hierarchies, and create automated refresh pipelines that keep dashboards current without manual intervention. Through short videos, practical readings, and hands-on labs, you'll connect data concepts to daily analyst work—from explaining structure types in governance meetings to building repeatable transformation workflows. Real-world examples from firms like PwC and EY show how data literacy and automation drive accuracy, efficiency, and compliance. By the end, you'll transform messy JSON into clean tables, automate refresh workflows, and build the foundation for reliable, efficient financial reporting that scales.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/transform-financial-data-recall--import",
+  "instructors": [
+    {
+      "name": "ansrsource instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

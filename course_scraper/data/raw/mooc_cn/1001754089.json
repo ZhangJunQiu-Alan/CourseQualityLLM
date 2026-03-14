@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754089",
+  "platform": "mooc_cn",
+  "title": "可视化程序设计",
+  "description": "缺少编程基础，或者惧怕指针、链表，又想快速上手，开发一个基本的信息管理系统？就从学习《可视化程序设计》课程开始吧。本课程以C#语言为基础，以Visual Studio为开发平台，围绕一个应用项目的开发，讲述理论知识、实践操作。~来吧，看视频学知识，跟视频练操作。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754089",
+  "instructors": [
+    {
+      "name": "刘培林;史荧中",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "无锡职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14157,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

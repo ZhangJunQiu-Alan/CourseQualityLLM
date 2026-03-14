@@ -1,0 +1,31 @@
+{
+  "course_id": "1001638002",
+  "platform": "mooc_cn",
+  "title": "线性代数",
+  "description": "本课程介绍线性代数的基本知识，帮助学生掌握线性代数的基本概念及技巧，为后续课程的学习奠定基础。线性代数在计算机、物理、生物、经济、统计和模式识别等领域有广泛的应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001638002",
+  "instructors": [
+    {
+      "name": "刘静宜;郭阳;阎家斌;陆小军;宋叔尼;张雪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 147609,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206773805",
+  "platform": "mooc_cn",
+  "title": "单片机原理及应用",
+  "description": "单片机作为嵌入式处理器的重要组成部分，广泛应用于各个领域 。掌握单片机开发技术是电子通信类、仪器类各专业学生的必备技能。本课程从单片机的基本概念、原理和基本分析方法入手，介绍MCS- 51系列单片机，并选取AT89S51型号作为研究对象开展教学，是学生学习嵌入式开发技术的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206773805",
+  "instructors": [
+    {
+      "name": "李文方;王玉巧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "黄河科技学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12589,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

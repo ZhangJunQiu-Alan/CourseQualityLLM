@@ -1,0 +1,31 @@
+{
+  "course_id": "1461327176",
+  "platform": "mooc_cn",
+  "title": "电子技术",
+  "description": "“电子技术”是机械设计制造及其自动化、人工智能、工业设计、金属材料工程、材料物理（工）等专业的本科必修课程，是理论课与工科专业课之间的桥梁。不仅使学习者获得电子技术的基础知识，还可以掌握理论联系实践的基本技能，为深入学习相关电类专业课程夯实基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1461327176",
+  "instructors": [
+    {
+      "name": "敬伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6086,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

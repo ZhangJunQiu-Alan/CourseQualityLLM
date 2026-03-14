@@ -1,0 +1,54 @@
+{
+  "course_id": "course-cb9eacc2-8af3-4216-808e-daa4b41bdd95",
+  "platform": "edx",
+  "title": "Foundations of Modern Finance II",
+  "description": "Many of the most important financial decisions in business are done under uncertainty. This is the second course in the Foundations of Modern Finance series of courses, as part of the MicroMasters® Program in Finance. It provides you with the science behind making financial decisions under uncertainty. \n We build on the core set of basic principles taught in the first part, and continue to develop a powerful and general framework for making financial decisions in business and in personal financial planning. We introduce financial derivative securities, and their valuation models, discuss the capital structure decision of firms, and explore the interaction between investing and financing. \n At the center of financial decision making is the valuation problem. How much value does a business investment create? What is a fair price to pay for a financial asset? We develop models and analytics for measuring risk and for valuing financial assets. We apply valuation models to financial securities, including stocks and bonds, and to project valuation and capital budgeting.",
+  "learning_goals": [
+    "Finance",
+    "Capital Structures",
+    "Securities (Finance)",
+    "Valuation Models",
+    "Stocks (Finance)",
+    "Financial Planning",
+    "Decision Making",
+    "Investments",
+    "Risk Analysis",
+    "Chartered Financial Analyst",
+    "Derivatives",
+    "Financial Asset",
+    "Planning"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "12 周，每周 10-14 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "leonid-kogan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jiang-wang",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "egor-matveyev",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 803,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "N8bmb6pYEe6oQA6J-7B2nw",
+  "platform": "coursera",
+  "title": "Gen AI Foundational Models for NLP & Language Understanding",
+  "slug": "gen-ai-foundational-models-for-nlp-and-language-understanding",
+  "description": "This IBM course will equip you with the skills to implement, train, and evaluate generative AI models for natural language processing (NLP) using PyTorch. You will explore core NLP tasks, such as document classification, language modeling, and language translation, and gain a foundation in building small and large language models. \n\nYou will learn how to convert words into features using one-hot encoding, bag-of-words, embeddings, and embedding bags, as well as how Word2Vec models represent semantic relationships in text. \n\nThe course covers training and optimizing neural networks for document categorization, developing statistical and neural N-Gram models, and building sequence-to-sequence models using encoder–decoder architectures. You will also learn to evaluate generated text using metrics such as BLEU. \n\nThe hands-on labs provide practical experience with tasks such as classifying documents using PyTorch, generating text with language models, and integrating pretrained embeddings like Word2Vec. You will also implement sequence-to-sequence models to perform tasks such as language translation. \n\nEnroll today to build in-demand NLP skills and start creating intelligent language applications with PyTorch.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 weeks of study, 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/gen-ai-foundational-models-for-nlp-and-language-understanding",
+  "instructors": [
+    {
+      "name": "Joseph Santarcangelo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Fateme Akbari",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

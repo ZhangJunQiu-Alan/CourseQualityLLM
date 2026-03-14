@@ -1,0 +1,26 @@
+{
+  "course_id": "BpIUvJkiEfCMGg5tbt5J0w",
+  "platform": "coursera",
+  "title": "Java Spring: Build, Configure & Apply IoC",
+  "slug": "java-spring-build-configure-apply-ioc",
+  "description": "By the end of this course, learners will be able to analyze polymorphism in Java, implement Spring’s Inversion of Control (IoC), configure beans using constructor and setter injection, manage bean scopes and lifecycles, integrate collections, apply autowiring with XML and annotations, and implement Aspect-Oriented Programming (AOP) to modularize cross-cutting concerns.\n\nThis course is designed to provide a comprehensive, hands-on introduction to the Spring Framework, starting from Java foundations and moving into advanced Spring features. Learners will benefit from a structured approach that emphasizes real-world application, enabling them to design scalable, maintainable, and flexible enterprise applications.\n\nWhat makes this course unique is its step-by-step progression: from core Java concepts and Hello World examples, to practical dependency injection strategies, annotation-driven development, and powerful AOP techniques. Each lesson combines theory with practice to ensure learners not only understand concepts but can also apply them effectively in their own projects.\n\nWhether you are a beginner to Spring or strengthening your Java development skills, this course equips you with the knowledge and confidence to build enterprise-ready applications using modern Spring practices.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/java-spring-build-configure-apply-ioc",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

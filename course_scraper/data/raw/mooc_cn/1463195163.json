@@ -1,0 +1,31 @@
+{
+  "course_id": "1463195163",
+  "platform": "mooc_cn",
+  "title": "应用统计与R语言",
+  "description": "随着信息技术的飞速发展，数据分析及应用受到来自学术界与工业界的广泛关注。《应用统计与R语言》是一门将理论与实践紧密结合的数据分析类课程。通过本课程的学习，你可以培养自身的统计思维，了解错综复杂的社会现象背后的规律；同时掌握多种统计方法，学会使用R语言解决真实世界中的各种问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463195163",
+  "instructors": [
+    {
+      "name": "陈彩华;徐红利",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 37451,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

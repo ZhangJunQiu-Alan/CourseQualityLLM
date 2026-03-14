@@ -1,0 +1,30 @@
+{
+  "course_id": "course-adbb5b20-6df0-426e-9e71-1c076796950b",
+  "platform": "edx",
+  "title": "Ethical Hacking Essentials (EHE)",
+  "description": "Information security refers to securing data and information systems from unauthorized access, unauthorized use, misuse, destruction, or alteration. The goal of information security is to protect the confidentiality, integrity, and availability of digital information.    \n Information security plays a vital role in all organizations. It is a state of affairs where information, information processing, and communication are protected against confidentiality, integrity, and availability of the information and information processing. In communications, information security also covers trustworthy authentication of messages that cover identification of the parties, verifying, and recording the approval and authorization of the information, non-alteration of the data, and the non-repudiation of the communication or stored data.   \n Ethical Hacking Essentials (EHE) is a security program covering the fundamental concepts of information security and ethical hacking. It equips students with the skills required to identify the increasing information security threats which reflect on the security posture of the organization and implement general security controls.   \n This program gives a holistic overview of the key components of information security. It provides a solid fundamental knowledge required for a career in information security.   \n Why is EHE Important? \n \n  It facilitates your entry into the world of information security  \n  It provides a professional understanding of the concepts of information security  \n  It provides best practices to improve organizational security posture  \n It enhances your skills as a Security Specialist and increases your employability",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 16-24 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "kevin-king",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EC-Council"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1452,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1465598165",
+  "platform": "mooc_cn",
+  "title": "材料性能学",
+  "description": "材料性能学的主要任务是建立材料结构和性能之间的联系，介绍表征材料各种重要性能（如力学、热学、光学、电学等）的本征参数，各种重要性能的原理及微观机制，这些本征参数的来源，及性能和材料的组成、结构和组织间的关系，以及各种性能之间相互制约与变化规律。材料性能学是联系材料微观结构与宏观性能的一门重要课程，既是材料科学与工程学科的重要研究内容，也是材料生产和应用的重要基础，是材料科学与工程专业学生必不可少的学习内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465598165",
+  "instructors": [
+    {
+      "name": "陈建清",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河海大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1473,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

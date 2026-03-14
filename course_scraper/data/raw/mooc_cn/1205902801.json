@@ -1,0 +1,31 @@
+{
+  "course_id": "1205902801",
+  "platform": "mooc_cn",
+  "title": "生理学实验",
+  "description": "生理学实验观察记录生理学现象，验证经典和基本的生理学规律，培养学生的生理手术操作技能及设计实验的基本能力，锻炼学生分析问题及解决问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205902801",
+  "instructors": [
+    {
+      "name": "周辰;侯婷婷",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 27309,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

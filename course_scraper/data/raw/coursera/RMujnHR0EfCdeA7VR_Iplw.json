@@ -1,0 +1,31 @@
+{
+  "course_id": "RMujnHR0EfCdeA7VR_Iplw",
+  "platform": "coursera",
+  "title": "Building Linux Servers: Unit 2",
+  "slug": "pearson-building-linux-servers-dhcp-dns-and-directory-services-livelessons-qtdls",
+  "description": "This course is intended for IT professionals seeking to improve their practical skills and knowledge of DHCP in network management. Participants will learn the fundamentals of DHCPv4 and DHCPv6, including installation, configuration, and management of DHCP servers. The course covers methods for automating IP address allocation, maintaining network efficiency, and supporting connectivity across various systems. It is suitable for those looking to update existing skills or broaden their technical capabilities in DHCP administration.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1 week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/pearson-building-linux-servers-dhcp-dns-and-directory-services-livelessons-qtdls",
+  "instructors": [
+    {
+      "name": "Pearson",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Dave Prowse",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Pearson"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

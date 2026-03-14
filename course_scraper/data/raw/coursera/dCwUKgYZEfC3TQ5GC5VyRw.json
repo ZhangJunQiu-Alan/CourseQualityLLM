@@ -1,0 +1,26 @@
+{
+  "course_id": "dCwUKgYZEfC3TQ5GC5VyRw",
+  "platform": "coursera",
+  "title": "Design and Implement a Source Control Strategy",
+  "slug": "design-and-implement-a-source-control-strategy-microsoft-devops",
+  "description": "This is the second course of the Exam Prep AZ-400: Microsoft DevOps Engineer Expert Specialization. This course assists learners with developing the ability to create effective branching strategies that align with team workflows and ensure efficient source code management. Gained expertise in setting up and organizing repositories to enable seamless collaboration and version control across teams. Also, learners will be able to learn to manage repository settings, permissions, and integrations to maintain secure and efficient source code workflows. This course is divided into two modules with multiple Lessons and Video Lectures further segment each module. This course facilitates learners with approximately 2:00-3:30 Hours of Video lectures that provide both Theory and Hands-On knowledge. Also, Graded and Ungraded assignments are provided with every module to test the ability of learners. \n\nModule 1: Design and implement branching strategies for the source code\nModule 2: Configure and manage repositories\n\nBy the end of this course, a learner will be able to;\n1. Understand Source Control and Azure Repos\n2. Develop Branching Strategies and Workflows\n3. Master Deployment Strategies and Traffic Management\n\nThe course is for\n- DevOps Engineers \n- System Engineers\n- Cloud Developers",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/design-and-implement-a-source-control-strategy-microsoft-devops",
+  "instructors": [
+    {
+      "name": "Whizlabs Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Whizlabs"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

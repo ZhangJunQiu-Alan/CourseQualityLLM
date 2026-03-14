@@ -1,0 +1,31 @@
+{
+  "course_id": "1002030033",
+  "platform": "mooc_cn",
+  "title": "轮机自动化",
+  "description": "从三维虚拟仿真的视角，带您领略神秘的现代化大型商船的自动化机舱；通过反馈控制系统基本知识的简洁介绍，让您快速掌握分析机舱自动化系统的基本理论；通过机舱典型自动化系统的详细讲解，使您更加深刻掌握其精髓，以适应实船机舱自动化系统的管理工作。欢迎大家进入轮机自动化的学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002030033",
+  "instructors": [
+    {
+      "name": "甘辉兵;唐元元;米晓东;何治斌;曾鸿;姜瑞政;李燕彪;冯金红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连海事大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20873,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

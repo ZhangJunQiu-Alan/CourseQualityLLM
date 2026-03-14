@@ -1,0 +1,26 @@
+{
+  "course_id": "R1uIhdNQEe-wJQr_zK5V5w",
+  "platform": "coursera",
+  "title": "Specialized RMAN Features and Advanced Use Cases",
+  "slug": "packt-specialized-rman-features-and-advanced-use-cases-f2n1f",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nUnlock the advanced capabilities of Oracle RMAN in this comprehensive course tailored for database administrators and IT professionals. This program equips you with the skills to efficiently manage Oracle databases through RMAN’s specialized features, covering database duplication, performance optimization, and integration with multitenant and RAC environments. Practical exercises and demonstrations ensure a hands-on learning experience to reinforce theoretical concepts.\n\nThe journey begins with exploring database duplication techniques using RMAN, covering various methods like active duplication and backup-based duplication, both with and without recovery catalog connections. As you advance, you'll delve into troubleshooting RMAN processes, interpreting diagnostics, and fine-tuning performance using techniques like asynchronous I/O and multiplexing.\n\nThe course then transitions to RMAN operations in Oracle multitenant and RAC environments. Learn to back up and recover Container Databases (CDBs) and Pluggable Databases (PDBs), manage complex recovery scenarios, and optimize RMAN usage in RAC setups. Conclude with a dive into Oracle Database Backup Cloud Service, from configuration to secure backup storage in the cloud.\n\nThis course is ideal for Oracle database administrators and IT professionals looking to elevate their expertise in RMAN. A basic understanding of Oracle databases and RMAN is recommended, with the content suited for intermediate-level learners seeking advanced techniques.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-specialized-rman-features-and-advanced-use-cases-f2n1f",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

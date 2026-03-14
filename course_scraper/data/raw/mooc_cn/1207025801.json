@@ -1,0 +1,31 @@
+{
+  "course_id": "1207025801",
+  "platform": "mooc_cn",
+  "title": "灵境——虚拟现实技术的应用",
+  "description": "虚拟现实（Virtual Reality）也称人工环境，是一种可以创建和体验虚拟世界的计算机仿真系统，提供使用者关于视觉、触觉、听觉等感官模拟。我们相信它将成为下一代计算平台，深刻改变人们的社交方式、学习方式以及生产、生活的方式。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207025801",
+  "instructors": [
+    {
+      "name": "金莹",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20532,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

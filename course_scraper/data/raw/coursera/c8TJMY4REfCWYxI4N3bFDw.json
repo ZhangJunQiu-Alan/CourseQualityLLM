@@ -1,0 +1,26 @@
+{
+  "course_id": "c8TJMY4REfCWYxI4N3bFDw",
+  "platform": "coursera",
+  "title": "Jupyter & Python: Visualize, Optimize & Accelerate",
+  "slug": "jupyter-python-visualize-optimize-accelerate",
+  "description": "By the end of this course, learners will be able to configure Jupyter and IPython environments, create professional data visualizations with Matplotlib, enhance graphs with NumPy, and apply advanced scientific plotting techniques. They will also master IPython functionalities such as widgets, magic commands, kernels, and unit testing while optimizing Python performance with profiling tools, memory mapping, and conversions. Finally, learners will accelerate Python with Numba and Cython, implement parallel and distributed computing, and explore next-generation visualization with Seaborn, D3.js, and Julia.\n\nThis course uniquely integrates beginner to advanced skills in one streamlined pathway. Unlike typical introductions, it emphasizes both productivity and performance, enabling learners to go from setup and plotting fundamentals to high-performance computing workflows. With a hands-on approach and a structured sequence of modules, students will gain not just technical knowledge but also the ability to apply these tools to real-world scenarios in data science, research, and analytics.\n\nWhether you are a beginner exploring Jupyter or a practitioner aiming to optimize workflows, this course equips you with the skills to analyze, visualize, and accelerate data-driven applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/jupyter-python-visualize-optimize-accelerate",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

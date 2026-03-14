@@ -1,0 +1,31 @@
+{
+  "course_id": "1463113161",
+  "platform": "mooc_cn",
+  "title": "数据库系统基础",
+  "description": "互联网、云计算、大数据等新兴信息技术深刻改变着人类的思维、生产、生活、学习方式，深刻展示了世界发展的前景。信息化迅猛发展的今天，数字金融、数字医疗、数字文学、智慧城市、智能制造、数字孪生蜂拥而至。我们沉浸在一个数据的时代里。您想知道每天使用的各种APP、网站等系统中的数据是如何存储的么？您想精通数据库设计么？您想系统掌握数据库的知识么？您想玩转SQL语句，成为SQL方面的“扫地僧”么？您想成为优秀的程序员、数据库管理员、数据科学家么？来吧，国家级一流本科课程《数据库系统基础》带您踏进数据世界的大门……",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463113161",
+  "instructors": [
+    {
+      "name": "王磊;卢益清;类骁;王晓波;刘晓丹;车蕾",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京信息科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3588,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "_GJmxjfaEe-9Ig7qA4dB5w",
+  "platform": "coursera",
+  "title": "Alteryx Advanced",
+  "slug": "packt-alteryx-advanced-8ynsl",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nDive into advanced data analytics with our Alteryx course: \n\n- Begin by mastering data cleansing, handling multiple files, sampling, and regex for parsing XML. \n- Enhance your skills with in-database processing, blending, and selecting data efficiently. \n- Advance to app and macro customization, creating batch macros, and handling errors with conditional logic. \n- Learn Alteryx's machine learning capabilities, from building models to deploying them for fraud detection and customer segmentation. \n\nDesigned for data professionals with basic Alteryx knowledge, the course offers hands-on exercises and real-world examples. The end goal is to transform complex data challenges into actionable insights, enabling you to drive informed business decisions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-alteryx-advanced-8ynsl",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

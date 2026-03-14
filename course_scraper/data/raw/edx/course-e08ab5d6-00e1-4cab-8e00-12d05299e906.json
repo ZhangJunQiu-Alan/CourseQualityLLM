@@ -1,0 +1,40 @@
+{
+  "course_id": "course-e08ab5d6-00e1-4cab-8e00-12d05299e906",
+  "platform": "edx",
+  "title": "Introduction to Quantum Computing for Everyone",
+  "description": "Quantum computing is coming closer to reality, with 80+ bit machines in active use. This course provides an intuitive introduction to the impacts, underlying phenomenon, and programming principles that underlie quantum computing.  \n The course begins with an exploration of classes of computational problems that classical computers are not well-suited to solve. We then progress to an intuitive introduction to key QIS concepts that underlie quantum computing. Next, we introduce individual quantum operations, but with a symbolic representation and mathematical representation. A limited set of linear algebra operations will be taught so that students can calculate operation results. Finally, we string these individual operations together to create the first algorithm that illustrates the performance advantage resulting from these unique operations.",
+  "learning_goals": [
+    "Quantum Physics",
+    "Linear Algebra",
+    "Elementary Algebra",
+    "Quantum Computing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "diana-franklin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jen-palmer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Chicago"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1475,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

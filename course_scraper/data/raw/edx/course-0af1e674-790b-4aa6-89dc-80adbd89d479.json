@@ -1,0 +1,39 @@
+{
+  "course_id": "course-0af1e674-790b-4aa6-89dc-80adbd89d479",
+  "platform": "edx",
+  "title": "Developing Front End Apps with React",
+  "description": "Over 40% of professional developers rated React as their top web technology. Learn one of the most popular front-end frameworks, JavaScript React, in this hands-on course and ignite your front-end development career in this intermediate course.  \n Take the next step in your web development journey by learning to build a client-side user interface with React. You will learn how to develop with components, the fundamental building blocks of React applications. You will compose components to create complex functionality using props, hooks, states, and event handling, and integral coding features using function components. You will pass data among components to manipulate their states.  \n Build your portfolio and gain practical experience by completing numerous hands-on labs in each lesson. At the end of the course, you integrate your skills with a final project by developing a shopping cart application.  \n This course will help you succeed as a front-end, mobile or full-stack developer. It suits application developers and designers looking to step up their careers or new graduates seeking to establish their client-side skills. You will need basic HTML, CSS, JavaScript, and Git skills to get the most out of this course.",
+  "learning_goals": [
+    "JavaScript (Programming Language)",
+    "React.js",
+    "User Interface",
+    "HyperText Markup Language (HTML)",
+    "Cascading Style Sheets (CSS)",
+    "Full Stack Development",
+    "Git (Version Control System)",
+    "Front End (Software Engineering)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "skills-network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1230,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "CvvTD9asEfCZjQr_xpY2qQ",
+  "platform": "coursera",
+  "title": "Introducción a Gemini Enterprise",
+  "slug": "introduccin-a-gemini-enterprise-es",
+  "description": "En este curso, se presenta Gemini Enterprise, una plataforma potente que incluye agentes de IA, búsqueda empresarial, NotebookLM y acceso inteligente a los datos para resolver desafíos organizacionales. A través de ejemplos del mundo real y exploración práctica, los estudiantes podrán asociar las funciones de Gemini Enterprise a necesidades empresariales reales, describir su arquitectura y explicar cómo maneja el acceso a los datos y la privacidad para distintos cargos.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/introduccin-a-gemini-enterprise-es",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

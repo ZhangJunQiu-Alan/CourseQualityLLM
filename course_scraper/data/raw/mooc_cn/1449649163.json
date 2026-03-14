@@ -1,0 +1,31 @@
+{
+  "course_id": "1449649163",
+  "platform": "mooc_cn",
+  "title": "数据结构与算法",
+  "description": "已入门程序设计的小伙伴们，如何进一步规范地编写更复杂的程序呢？赶紧开始数据结构与算法的学习吧！本课程细讲解，重实践，实例中领略堆栈、队列、树、图等高端武器的强大。来吧，让我们迈入数据结构的神秘世界，领略算法的精彩！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449649163",
+  "instructors": [
+    {
+      "name": "周思林;宋东兴;王颖;朱奭;许秀兰;应文豪;周蓓;唐晓阳;龚声蓉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9417,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "STKfbztCEfCGRg44G5OASw",
+  "platform": "coursera",
+  "title": "AWS Certified SysOps Administrator - Associate",
+  "slug": "packt-aws-certified-sysops-administrator-associate-zyeij",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nPrepare for the AWS Certified SysOps Administrator - Associate exam with hands-on experience in real-world scenarios. You'll master key AWS services such as EC2, IAM, VPC, and Route 53, focusing on configuration, performance monitoring, and cost management. This course dives into backup and recovery strategies, high availability, and database services, ensuring you're equipped to handle the full scope of AWS operations. \n\nThe course structure is designed to walk you through each AWS service in depth. Starting with Identity and Access Management (IAM), you’ll learn how to manage user permissions and security policies. Then, you’ll explore VPCs and EC2 instances, gaining expertise in networking and compute resources. High availability, application load balancing, and Route 53 are covered in the next phase, enabling you to architect resilient solutions. You’ll then move on to backup, recovery, and orchestration tools to automate processes and ensure the availability of critical resources.\n\nFinally, the course will take you through managing AWS costs effectively, which is crucial for optimizing cloud resources. By the end, you will have the comprehensive knowledge needed to confidently tackle the AWS Certified SysOps Administrator - Associate exam and apply these skills in real-world AWS environments.\n\nThis course is ideal for system administrators, engineers, or anyone looking to advance their career with AWS expertise. It’s targeted at those familiar with basic AWS concepts and cloud technologies. If you have experience managing systems or are aiming for a career in cloud operations, this course is for you.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-aws-certified-sysops-administrator-associate-zyeij",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,30 @@
+{
+  "course_id": "course-e6a4684b-e92d-4eb0-9c3a-b7e6f02c1644",
+  "platform": "edx",
+  "title": "Introduction to Financial Programming and Policies",
+  "description": "This online course is an essential primer that aims to equip you with the foundational knowledge necessary for engaging with the more advanced aspects of macroeconomic analysis and policy formulation covered in the in-depth financial programming and policies (FPP) courses. This course is carefully designed to bridge the gap for learners transitioning to the more in-depth FPP courses, ensuring a comprehensive grasp of the subject matter. It is also be useful for those who only want to learn the basics of the topic.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "mumtaz-hussain-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1023,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

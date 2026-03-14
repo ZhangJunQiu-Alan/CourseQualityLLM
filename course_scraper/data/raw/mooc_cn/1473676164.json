@@ -1,0 +1,31 @@
+{
+  "course_id": "1473676164",
+  "platform": "mooc_cn",
+  "title": "大学物理",
+  "description": "大学物理是非物理类理工科本科专业的一门重要的通识性必修基础课，是学习后续专业基础课和专业课的基础，也是工程技术的基础和先导。本课程以物理学基础知识为主干，系统阐述经典物理学和近代物理学的基本概念、基本规律与研究方法。主要内容包括：经典力学（质点运动学与动力学、刚体与流体基础），振动与波动（机械振动、机械波与波动光学），电磁学（静电场、恒定磁场、电磁感应），以及近代物理基础（狭义相对论与量子物理基础）。本课程着重培养学生的逻辑推理能力、抽象思维能力、科学计算能力和探索创新精神，引导学生形成正确的物质观、时空观和宇宙观，为成长为高素质的科学技术人才奠定坚实的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473676164",
+  "instructors": [
+    {
+      "name": "徐春龙;令狐佳珺;白雅;王凤龙;舒瑜;王学智;王亚雄",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长安大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2762,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

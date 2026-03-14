@@ -1,0 +1,31 @@
+{
+  "course_id": "bT_xF8X9EfCsJBJKW5smgw",
+  "platform": "coursera",
+  "title": "Statistical Analysis and Data Modeling in Healthcare",
+  "slug": "statistical-analysis-and-data-modeling-in-healthcare",
+  "description": "Advance your career in healthcare data analytics by mastering the statistical and predictive modeling techniques used across clinical, operational, and population health settings.  \n\nIn this hands-on course, you’ll learn how to analyze real-world healthcare datasets using descriptive statistics, hypothesis testing, regression analysis, and machine learning. Through interactive labs using Python and Jupyter Notebook in a Google Colab environment, you’ll compute key metrics, evaluate clinical groups, build predictive models, and interpret results with confidence.  \n\nDesigned for healthcare professionals, data analysts, and IT specialists, this course focuses on practical, industry-relevant skills. You’ll discover how to assess treatment effectiveness, explore associations among clinical variables, and generate predictions that support evidence-based clinical decision-making. The course also emphasizes ethical data practices, model validation, fairness, and the unique challenges of working with healthcare data.  \n\nBy the end of the course, you will be able to perform end-to-end healthcare data analysis, from data exploration and statistical testing to predictive modeling and interpretation. You’ll develop job-ready skills in healthcare analytics, statistical modeling, clinical data interpretation, and machine learning for healthcare, preparing you for roles such as healthcare data analyst, clinical data manager, or quality improvement specialist.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 2–2.5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/statistical-analysis-and-data-modeling-in-healthcare",
+  "instructors": [
+    {
+      "name": "Ramesh Sannareddy",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "SkillUp",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "SkillUp"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

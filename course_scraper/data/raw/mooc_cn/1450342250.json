@@ -1,0 +1,31 @@
+{
+  "course_id": "1450342250",
+  "platform": "mooc_cn",
+  "title": "电磁学",
+  "description": "《电磁学》作为一门重要的专业基础课，历经物理学院教师多年来的努力建设，由经验丰富的教师提出教学方案，集中讨论。教学过程配合多媒体动画和随堂工具箱实验演示，使问题直观化。按照现代教育思想、教学理论对电磁学课程的教学内容、教学方法、教学手段等进行了大胆的改革创新。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450342250",
+  "instructors": [
+    {
+      "name": "卢荣德",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国科学技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11388,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

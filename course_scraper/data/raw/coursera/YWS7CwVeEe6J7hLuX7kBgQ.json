@@ -1,0 +1,31 @@
+{
+  "course_id": "YWS7CwVeEe6J7hLuX7kBgQ",
+  "platform": "coursera",
+  "title": "Core 2: OS, Software, Security and Operational Procedures",
+  "slug": "core2-os-software-security-and-operational-procedures",
+  "description": "Skill up for the CompTIA Core 2 Certification exam! This course gives aspiring IT support professionals, helpdesk professionals, and system administrators essential skills for this career-launching certification and a job in IT support, networking, and system management.\n\nDuring this course, you’ll explore key operating systems (OS), including Microsoft Windows, Apple macOS, Linux, and cloud-based platforms. You’ll learn how to install, update, and manage IT systems while mastering their unique features and functionalities. Plus, you’ll look at IT support best practices, and how to diagnose and troubleshoot common PC and mobile issues, address malware threats, and configure system security. \n\nYou’ll also explore full-disk encryption methods, vulnerabilities, firewall settings, data backup and recovery, remote access management, and privacy policy essentials. You’ll gain insights into AI for public and private usage in OS. Plus, you’ll get hands-on experience using real-world tools, from command-line utilities to firewall settings and SOHO router security. \n\nEnroll today to strengthen your resume and take the next step toward the CompTIA Core 2 certification exam!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "6 weeks of study, 2–3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/core2-os-software-security-and-operational-procedures",
+  "instructors": [
+    {
+      "name": "IBM Skills Network Team",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Dee Dee Collette",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

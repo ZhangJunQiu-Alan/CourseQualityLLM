@@ -1,0 +1,26 @@
+{
+  "course_id": "wqQaIHbCEey5dg6SRLMCBw",
+  "platform": "coursera",
+  "title": "Storing, Retrieving, and Processing JSON data with Python",
+  "slug": "storing-retrieving-and-processing-json-data-with-python",
+  "description": "By the end of this project, you will learn how to work with JSON data in python. we will learn what is an API and how we can access the data using HTTP requests in Python. We are going to retrieve the data and use TKinter module in python to develop a desktop application for browsing characters rolled in Rick and Morty series. During this project, you will learn what a JSON API is and how it works. you will learn about how to send an HTTP request to the server to retrieve the JSON data and at the end, we are going to learn how to use this data to develop a desktop application using python and TKinter.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/storing-retrieving-and-processing-json-data-with-python",
+  "instructors": [
+    {
+      "name": "Ahmad Varasteh",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

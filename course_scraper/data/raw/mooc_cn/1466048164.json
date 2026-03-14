@@ -1,0 +1,31 @@
+{
+  "course_id": "1466048164",
+  "platform": "mooc_cn",
+  "title": "Big Data Analysis",
+  "description": "The course of Big Data Analysis Technology in English builds a learner competency hierarchy according to the BLOOM 's Taxonomy. It systematically explains the basic knowledge and necessary skills of big data analysis. It develops students' application and analytical skills based on the knowledge memorizing and understanding, in further develop the evaluating and creating ability. It combined the theoretical explanation and engineering practice training.配套教材《大数据分析与处理-实践者的研究方法》车海莺 机械工业出版社  ISBN978-7-111-78613-9全英文大数据分析技术按照Bloom学习掌握分类法，构建学习者能力层级.课程系统地讲解了大数据分析基础的知识和必备的技能。在知识的记忆和理解的基础上，培养学生的应用和分析的能力，并进一步培养学生的评价和创新的能力。课程采用理论讲解和工程实践训练相结合的方式。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466048164",
+  "instructors": [
+    {
+      "name": "CHE Haiying",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Beijing Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 171,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1207548806",
+  "platform": "mooc_cn",
+  "title": "数据思维",
+  "description": "人类在认识世界和改造世界的科学活动过程中离不开思维活动，数据思维是应用数据科学的原理、方法、技术解决现实场景中问题的思维逻辑，衔接了数据科学原理与大数据技术，已成为今天科学问题场景中思考和解决问题的工具。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207548806",
+  "instructors": [
+    {
+      "name": "康乐乐;颜嘉麒;胡广伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16467,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

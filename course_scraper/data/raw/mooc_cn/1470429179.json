@@ -1,0 +1,31 @@
+{
+  "course_id": "1470429179",
+  "platform": "mooc_cn",
+  "title": "半导体物理",
+  "description": "从计算机CPU到DRAM内存，从手机到电动汽车，从通讯设备到智能化生活，集成电路工业已经成为当今全世界的朝阳产业，该领域的关键技术是微电子技术，而半导体材料是微电子技术的基础构件。因此，为了培养我国微电子技术的人才，北京理工大学开设了半导体物理慕课课程。半导体物理是物质学科群的专业基础课，是物理类、材料类、电子科学技术专业的本科生专业课。半导体物理课程适合于所有对于半导体物理领域感兴趣的本科生及研究生学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470429179",
+  "instructors": [
+    {
+      "name": "魏静;宋维力;陈卓;霍永隽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1808,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

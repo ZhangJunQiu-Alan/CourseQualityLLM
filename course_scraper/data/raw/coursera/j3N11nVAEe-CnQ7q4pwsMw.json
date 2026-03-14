@@ -1,0 +1,26 @@
+{
+  "course_id": "j3N11nVAEe-CnQ7q4pwsMw",
+  "platform": "coursera",
+  "title": "Systems Acquisition, Development and Implementation",
+  "slug": "packt-systems-acquisition-development-implementation-l8app",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis comprehensive course is designed to equip you with the knowledge and skills necessary to effectively audit IT project governance and system development processes. It begins with an overview of project governance and management, emphasizing the roles and responsibilities of key stakeholders, including project sponsors and the Project Management Office (PMO). You will gain a solid understanding of project initiation, planning, and execution phases, learning how to differentiate between auditing project content and project execution. Special focus is given to the project management methodologies, such as Agile and Predictive approaches, and the essential procedures for closing projects, ensuring you are well-versed in each phase of the project lifecycle.\n\nThe course then transitions to system development and risk management, where you will explore various system development lifecycle (SDLC) models and their associated risks. You will learn how to assess these risks and understand different software development methods, including the use of Computer Aided Software Engineering (CASE) tools and fourth-generation languages (4GLs). Key topics such as business case development, feasibility analysis, and the identification and design of effective data controls are thoroughly covered, preparing you to evaluate system and software development from an IS auditor's perspective.\n\nIn the final modules, the focus shifts to testing methodologies, data integrity, and change management. You will delve into decision support systems, testing plans, and methodologies to ensure data integrity and accuracy in application systems. The course also covers data migration processes, changeover techniques, and post-implementation reviews (PIR). By the end of the course, you will have a robust understanding of how to audit complex IT projects and system development processes, positioning you for success in the CISA exam and your professional career.\n\nThis course is ideal for IT auditors, project managers, and professionals preparing for the CISA certification. It is recommended for individuals with a foundational understanding of information systems and project management. No prior CISA experience is required, but familiarity with IT governance and audit principles will be beneficial.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-systems-acquisition-development-implementation-l8app",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,44 @@
+{
+  "course_id": "course-344712f7-3cff-42d5-9268-28264f30f1f6",
+  "platform": "edx",
+  "title": "PyTorch Basics for Machine Learning",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n This course is the first part in a two part course and will teach you the fundamentals of Pytorch while providing the necessary prerequisites you need before you build deep learning models. \n We will start off with PyTorch's tensors in one dimension and two dimensions , you will learn the tensor types an operations, PyTorchs Automatic Differentiation package and integration with Pandas and Numpy. This is followed by an in-depth overview of the dataset object and transformations; this is the first step in building Pipelines in PyTorch. \n In module two we will learn how to train a linear regression model. You will review the fundamentals of training your model including concepts such as loss, cost and gradient descent. You will learn the fundamentals of PyTorch including how to make a prediction using PyTorch's linear class and custom modules. Then determine loss and cost with PyTorch. Finally you will implement gradient descent via first principles. \n In module three you will train a linear regression model via PyTorch's build in functionality, developing an understanding of the key components of PyTorch. This will include how to effectively train PyTorch's custom modules using the optimizer object, allowing you an effective way to train any model. We will introduce the data loader allowing you more flexibility when working with massive datasets . You will learn to save your model and training in applications such as cross validation for hyperparameter selection, early stopping and checkpoints. \n In module three you will learn how to extend your model to multiple input and output dimensions in applications such as multiple linear regression and multiple output linear regression. You will learn the fundamentals of the linear object, including how it interacts with data with different dimensions and number of samples. Finally you will learn how to train these models in PyTorch. \n In module four you will review linear classifiers, logistic regression and the issue of using different loss functions. You will learn how to implement logistic regression in PyTorch several ways, including using custom modules and using the sequential method. You will test your skills in a final project.",
+  "learning_goals": [
+    "Multiple Linear Regression",
+    "Linear Regression",
+    "Operations",
+    "NumPy",
+    "Integration",
+    "Pandas (Python Package)",
+    "Loss Functions",
+    "Machine Learning",
+    "Logistic Regression",
+    "Forecasting",
+    "Deep Learning",
+    "PyTorch (Machine Learning Library)",
+    "Machine Learning Algorithms"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 574,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

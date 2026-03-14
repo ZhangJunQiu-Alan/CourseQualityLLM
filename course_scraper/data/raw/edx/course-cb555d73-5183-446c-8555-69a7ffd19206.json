@@ -1,0 +1,61 @@
+{
+  "course_id": "course-cb555d73-5183-446c-8555-69a7ffd19206",
+  "platform": "edx",
+  "title": "High-Dimensional Data Analysis",
+  "description": "If you’re interested in data analysis and interpretation, then this is the data science course for you. We start by learning the mathematical definition of distance and use this to motivate the use of the singular value decomposition (SVD) for dimension reduction of high-dimensional data sets, and multi-dimensional scaling and its connection to principle component analysis. We will learn about the  batch effect,  the most challenging data analytical problem in genomics today, and describe how the techniques can be used to detect and adjust for batch effects. Specifically, we will describe the principal component analysis and factor analysis and demonstrate how these concepts are applied to data visualization and data analysis of high-throughput experimental data. \n Finally, we give a brief introduction to machine learning and apply it to high-throughput, large-scale data. We describe the general idea behind clustering analysis and descript K-means and hierarchical clustering and demonstrate how these are used in genomics and describe prediction algorithms such as k-nearest neighbors along with the concepts of training sets, test sets, error rates and cross-validation. \n Given the diversity in educational background of our students we have divided the series into seven parts. You can take the entire series or individual courses that interest you. If you are a statistician you should consider skipping the first two or three courses, similarly, if you are biologists you should consider skipping some of the introductory biology lectures. Note that the statistics and programming aspects of the class ramp up in difficulty relatively quickly across the first three courses. By the third course will be teaching advanced statistical concepts such as hierarchical models and by the fourth advanced software engineering skills, such as parallel computing and reproducible research concepts. \n These courses make up two Professional Certificates and are self-paced: \n  Data Analysis for Life Sciences:  \n \n  PH525.1x: Statistics and R for the Life Sciences  \n  PH525.2x: Introduction to Linear Models and Matrix Algebra  \n  PH525.3x: Statistical Inference and Modeling for High-throughput Experiments  \n  PH525.4x: High-Dimensional Data Analysis  \n \n  Genomics Data Analysis:  \n \n  PH525.5x: Introduction to Bioconductor  \n  PH525.6x: Case Studies in Functional Genomics  \n  PH525.7x: Advanced Bioconductor  \n \n This class was supported in part by NIH grant R25GM114818.",
+  "learning_goals": [
+    "Multidimensional Scaling",
+    "Prediction",
+    "Dimensionality Reduction",
+    "Data Warehousing",
+    "Forecasting",
+    "Factor Analysis",
+    "K-Means Clustering",
+    "Machine Learning",
+    "Hierarchical Clustering",
+    "Biology",
+    "Principal Component Analysis",
+    "Statistical Inference",
+    "Bioconductor (Bioinformatics Software)",
+    "Linear Model",
+    "Matrix Algebra",
+    "Life Sciences",
+    "Data Visualization",
+    "Software Engineering",
+    "Functional Genomics",
+    "Genomics",
+    "R (Programming Language)",
+    "Statistics",
+    "Data Analysis",
+    "Algorithms",
+    "Data Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rafael-irizarry",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "michael-love",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2054,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

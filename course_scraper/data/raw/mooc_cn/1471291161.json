@@ -1,0 +1,31 @@
+{
+  "course_id": "1471291161",
+  "platform": "mooc_cn",
+  "title": "水污染控制工程",
+  "description": "欢迎来到《水污染控制工程》课程！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471291161",
+  "instructors": [
+    {
+      "name": "吴小宁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1758,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

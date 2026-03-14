@@ -1,0 +1,26 @@
+{
+  "course_id": "wg63JY0jEe6xzArT8MnIvQ",
+  "platform": "coursera",
+  "title": "Cloud Deployment and Scaling with ASP.NET Core",
+  "slug": "cloud-deployment-and-scaling-with-asp-net-core",
+  "description": "Embark on a transformative journey into the dynamic landscape of cloud computing with our specialized course on deploying and scaling ASP.NET Core applications. In today's technology-driven world, the efficient deployment and scaling of applications in the cloud are indispensable skills. This module, designed with precision, delves into cloud deployment and scaling strategies, offering a tailored approach specifically for ASP.NET Core applications.\n\nLearning Outcomes: Mastery of Cloud Deployment, Scalability Expertise, and Cloud Power Unleashed.\n\nBy the end of this immersive learning experience, you'll gain proficiency in seamlessly deploying and scaling ASP.NET Core applications in cloud environments through a curriculum enriched with practical examples. You'll unlock the ability to harness the full potential of the cloud, ensuring your applications achieve optimal performance, scalability, and availability.\n\nWe recommend a foundational understanding of ASP.NET Core and familiarity with basic cloud computing concepts. While prior knowledge of C# is advantageous, it is not mandatory. This course is designed to accommodate you with varying levels of expertise, making it accessible to a broad audience.\n\nThis course positions you for roles such as Cloud Application Developer, where you'll specialize in deploying and optimizing ASP.NET Core applications. Alternatively, you can pursue opportunities as a Cloud Solutions Architect, shaping resilient cloud architectures. DevOps Engineer roles also become accessible, empowering you to streamline deployment pipelines and ensure efficient, automated deployment in diverse cloud ecosystems.\n\nElevate your skill set and career prospects by enrolling in this course — where the fusion of theory and hands-on practice propels you into the forefront of cloud deployment for ASP.NET Core applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of Study, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cloud-deployment-and-scaling-with-asp-net-core",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

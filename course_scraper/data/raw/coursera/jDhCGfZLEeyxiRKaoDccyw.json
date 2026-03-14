@@ -1,0 +1,31 @@
+{
+  "course_id": "jDhCGfZLEeyxiRKaoDccyw",
+  "platform": "coursera",
+  "title": "Politics and Ethics of Data Analytics in the Public Sector",
+  "slug": "politics-and-ethics-of-data-analytics-in-the-public-sector",
+  "description": "Deepen your understanding of the power and politics of data in the public sector, including how values — in addition to data and evidence — are always part of public sector decision-making. In this course, you will explore common ethical challenges associated with data, data analytics, and randomized controlled trials in the public sector. You will also navigate and understand the ethical issues related to data systems and data analysis by understanding frameworks, codes of ethics, and professional guidelines. Using two technical case studies, you will understand common ethical issues, including participation bias in populations and how slicing analysis is used to identify bias in predictive machine learning models. This course also serves as a capstone experience for the Data Analytics in the Public Sector with R Specialization, where you will conduct an applied policy options analysis using authentic data from a real-world case study. In this capstone exercise, you will review data as part of policy options analysis, create a visualization of the results, and make a recommendation.\n\nAll coursework is completed in RStudio in Coursera without the need to install additional software.\n\nThis is the fourth and final course within the Data Analytics in the Public Sector with R Specialization. The series is ideal for current or early-career professionals working in the public sector looking to gain skills in analyzing public data effectively. It is also ideal for current data analytics professionals or students looking to enter the public sector.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/politics-and-ethics-of-data-analytics-in-the-public-sector",
+  "instructors": [
+    {
+      "name": "Christopher Brooks",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Paula Lantz",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Michigan"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

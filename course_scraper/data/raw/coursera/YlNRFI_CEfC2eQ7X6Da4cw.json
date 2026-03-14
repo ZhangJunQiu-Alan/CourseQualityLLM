@@ -1,0 +1,26 @@
+{
+  "course_id": "YlNRFI_CEfC2eQ7X6Da4cw",
+  "platform": "coursera",
+  "title": "AWS Elastic Beanstalk & CI/CD for Cloud Projects",
+  "slug": "aws-elastic-beanstalk-cicd-cloud-projects",
+  "description": "By the end of this course, learners will be able to configure development environments, implement version control with Git and AWS CodeCommit, automate deployments through CodePipeline, and deploy scalable applications using AWS Elastic Beanstalk. They will also apply advanced deployment strategies, integrate databases, and evaluate real-world case studies with APIs, data visualization, and filters.\n\nThis course offers a step-by-step, project-driven approach to cloud deployment, making it ideal for learners who want both foundational knowledge and hands-on experience. Unlike theory-heavy programs, this curriculum emphasizes practical implementation through guided projects on flight monitoring during the COVID-19 pandemic, providing learners with industry-relevant skills.\n\nBy completing this course, learners will build expertise in DevOps workflows, CI/CD automation, and cloud-native application deployment. They will be prepared to design, test, and scale applications effectively, while mastering the integration of real-time monitoring and visualization techniques. This unique blend of foundational concepts, advanced practices, and case studies ensures learners can confidently manage end-to-end cloud deployment projects in professional environments.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-elastic-beanstalk-cicd-cloud-projects",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

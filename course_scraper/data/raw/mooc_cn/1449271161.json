@@ -1,0 +1,31 @@
+{
+  "course_id": "1449271161",
+  "platform": "mooc_cn",
+  "title": "系统模型、分析与控制",
+  "description": "《系统模型、分析与控制》，又称为《控制理论基础》，是机械工程、热能动力工程等专业的一门重要技术基础课，是机械、能源动力类专业必修主干课。《系统模型、分析与控制》提供了一种将机械、流体、电气及其它物理系统抽象为传递函数或状态空间表达式等数学模型，并最终实现控制目标的一种通用方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449271161",
+  "instructors": [
+    {
+      "name": "张伟军",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6165,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

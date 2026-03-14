@@ -1,0 +1,31 @@
+{
+  "course_id": "1205911812",
+  "platform": "mooc_cn",
+  "title": "数字信号处理",
+  "description": "本课程以信号与系统为先修课，以通信原理为拓展课，集数学、计算机学科、信号与信息处理和电子学等学科于一体，涉及理论算法，涵盖硬件电路，是一门实践性很强的课程，成为数字化时代的重要支撑，渗透到我们生活和工作的各个方面，包括通信、声纳、雷达、自动控制、生物医学工程、遥感等许多领域。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205911812",
+  "instructors": [
+    {
+      "name": "陈立伟",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "哈尔滨工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17378,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "SHLqKwjHEfC3TQ5GC5VyRw",
+  "platform": "coursera",
+  "title": "Build RAG Applications: Get Started",
+  "slug": "build-rag-applications-get-started",
+  "description": "Data Scientists, AI Researchers, Robotics Engineers, and others who can use Retrieval-Augmented Generation (RAG) can expect to earn entry-level salaries ranging from USD 93,386 to USD 110,720 annually, with highly experienced AI engineers earning as much as USD 172,468 annually (Source: ZipRecruiter).\n\nIn this beginner-friendly short course, you’ll begin by exploring RAG fundamentals—learning how RAG enhances information retrieval and user interactions—before building your first RAG pipeline. \n\nNext, you’ll discover how to create user-friendly Generative AI applications using Python and Gradio, gaining experience with moving from project planning to constructing a QA bot that can answer questions using information contained in source documents. \n\nFinally, you’ll learn about LlamaIndex, a popular framework for building RAG applications. Moreover, you’ll compare LlamaIndex with LangChain and develop a RAG application using LlamaIndex. \n\nThroughout this course, you’ll engage in interactive hands-on labs and leverage multiple LLMs, gaining the skills needed to design, implement, and deploy AI-driven solutions that deliver meaningful, context-aware user experiences.\n\nEnroll now to gain valuable RAG skills!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-rag-applications-get-started",
+  "instructors": [
+    {
+      "name": "Wojciech 'Victor' Fulmyk",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "IBM Skills Network Team",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

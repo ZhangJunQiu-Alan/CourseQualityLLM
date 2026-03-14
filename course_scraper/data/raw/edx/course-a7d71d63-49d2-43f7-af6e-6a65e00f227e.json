@@ -1,0 +1,29 @@
+{
+  "course_id": "course-a7d71d63-49d2-43f7-af6e-6a65e00f227e",
+  "platform": "edx",
+  "title": "Mobile & Desktop Apps",
+  "description": "You will learn the foundational concepts and practical skills involved in creating applications for both mobile and desktop environments. This includes understanding the different platforms, development tools, and programming languages used for each. You'll gain knowledge of user interface design principles specific to mobile and desktop, as well as the logic and functionality that drive these applications. Additionally, you will be introduced to general software development practices that apply to both mobile and desktop environments, laying the groundwork for building robust and effective applications.",
+  "learning_goals": [
+    "Programming Tools",
+    "Software Development",
+    "User Interface Design",
+    "Desktop Environments"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "2 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 325,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002926013",
+  "platform": "mooc_cn",
+  "title": "医患沟通学",
+  "description": "医患沟通是医学人文教育里不可或缺的一部分，良好的医患沟通将有助于构建和谐的医患关系、提高医疗服务质量和患者满意度。                                                                                                                                                    —— 课程团队",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002926013",
+  "instructors": [
+    {
+      "name": "李晓博;姜冬青;陈诗鸿",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 23253,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

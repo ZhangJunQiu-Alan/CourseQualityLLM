@@ -1,0 +1,38 @@
+{
+  "course_id": "course-e56e7660-bc94-46fd-95c5-ae3f765da60c",
+  "platform": "edx",
+  "title": "Model-Based Automotive Systems Engineering",
+  "description": "Modeling, control design, and simulation are important tools supporting engineers in the development of automotive systems, from the early study of system concepts (when the system possibly does not exist yet) to optimization of system performance. This course provides a theoretical basis to model-based control design with the focus on systematically develop mathematical models from basic physical laws and to use them in control design process with specific focus on automotive applications.  \n You will learn the basics of mathematical modeling applied to automotive systems, and based on the modeling framework different type of controller and state estimation methods will be introduced and applied. Starting from a pure state-feedback concept down to optimal control methods, with special attention on different automotive applications. Different methods for state reconstruction is also introduced and discussed in the course. Exercises play an important rolethroughout the course.  \n This course is aimed at learners with a bachelor's degree or engineers in the automotive industry who need to learn more about mathematical modelling of automotive systems.",
+  "learning_goals": [
+    "Simulations",
+    "Optimal Control",
+    "Systems Engineering",
+    "Mathematical Modeling",
+    "Mathematical Optimization",
+    "System Dynamics",
+    "Automotive Industry"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "7 周，每周 10-20 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jonas-fredriksson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Chalmers University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 409,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

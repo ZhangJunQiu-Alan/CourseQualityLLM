@@ -1,0 +1,26 @@
+{
+  "course_id": "2TVXodzdEfC8YhLuS0Yozw",
+  "platform": "coursera",
+  "title": "Apply Protocol-Oriented Programming in Swift Applications",
+  "slug": "apply-protocol-oriented-programming-swift-applications",
+  "description": "Learners will be able to design reusable behaviors using protocols, apply value semantics with structures, implement selection logic, and use delegation patterns to manage user interaction in Swift applications.\n\nThis course provides a practical, step-by-step introduction to Protocol-Oriented Programming (POP) in Swift, a core paradigm encouraged by Apple for building scalable and maintainable apps. Starting with foundational concepts, learners explore how protocols define behavior independently of concrete types and how structures leverage value semantics for safer code. Through hands-on examples, learners build data models, display structured lists, and progressively add interaction logic such as selecting and managing favorite items.\n\nWhat makes this course unique is its end-to-end, example-driven approach. Instead of focusing only on theory, learners follow a single evolving use case that demonstrates how POP improves flexibility, testability, and separation of concerns. The course also emphasizes real-world delegation patterns using collection views, helping learners understand how protocols enable clean communication between components.\n\nBy completing this course, learners gain practical skills to write cleaner, more modular Swift code, making it ideal for developers who want to move beyond inheritance-heavy designs and adopt modern Swift best practices.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/apply-protocol-oriented-programming-swift-applications",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

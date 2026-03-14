@@ -1,0 +1,31 @@
+{
+  "course_id": "1449799166",
+  "platform": "mooc_cn",
+  "title": "数学物理方法",
+  "description": "数学物理方法是物理类、电子信息类、通讯类、光信息类等各专业的重要基础课之一， 是解决数学物理各种具体问题的重要工具之一，它是高等数学的延伸，又是电动力学、理论力学、量子力学以及热力学和统计物理等后续课程所必需的数学理论知识和计算工具，常被称为四大力学的“粘合剂”。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449799166",
+  "instructors": [
+    {
+      "name": "陈永强;吴淑毅;马春兰;黄灿;葛丽娟;赵润;姜昱丞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 30779,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

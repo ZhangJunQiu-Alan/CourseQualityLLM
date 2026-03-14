@@ -1,0 +1,31 @@
+{
+  "course_id": "1462091162",
+  "platform": "mooc_cn",
+  "title": "图像处理与机器学习",
+  "description": "刷脸支付、自动驾驶、智能监控、机器翻译等各种人工智能应用，使得人们的生活更加安全便捷。“图像处理与机器学习”是人工智能应用领域中不可或缺的重要技术。“图像处理”是利用计算机对视觉信息（数字图像）进行处理；“机器学习”是使计算机具有分析和理解能力。本课程以理论为基础、以实践为导向、以应用为目标，系统性讲授“数字图像处理与机器学习”的原理、方法及技术。学生通过该课程的学习，可以掌握图像增强、图像分割及图像分析与理解等方面的知识与技能，从而成为信息技术领域的工程师。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1462091162",
+  "instructors": [
+    {
+      "name": "黄琳琳;戚鹏;陶丹;李居朋;彭亚辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25597,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

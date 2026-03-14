@@ -1,0 +1,26 @@
+{
+  "course_id": "nSNou7iHEemxSgo5Sox6MA",
+  "platform": "coursera",
+  "title": "Stability and Capability in Quality Improvement",
+  "slug": "stability-and-capability-in-quality-improvement",
+  "description": "In this course, you will learn to analyze data in terms of process stability and statistical control and why having a stable process is imperative prior to perform statistical hypothesis testing. You will create statistical process control charts for both continuous and discrete data using R software. You will analyze data sets for statistical control using control rules based on probability. Additionally, you will learn how to assess a process with respect to how capable it is of meeting specifications, either internal or external, and make decisions about process improvement.\n\nThis course can be taken for academic credit as part of CU Boulder’s Master of Science in Data Science (MS-DS) degree offered on the Coursera platform. The MS-DS is an interdisciplinary degree that brings together faculty from CU Boulder’s departments of Applied Mathematics, Computer Science, Information Science, and others. With performance-based admissions and no application process, the MS-DS is ideal for individuals with a broad range of undergraduate education and/or professional experience in computer science, information science, mathematics, and statistics. Learn more about the MS-DS program at https://www.coursera.org/degrees/master-of-science-data-science-boulder.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/stability-and-capability-in-quality-improvement",
+  "instructors": [
+    {
+      "name": "Wendy Martin",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

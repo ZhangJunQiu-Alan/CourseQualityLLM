@@ -1,0 +1,41 @@
+{
+  "course_id": "course-5f1fc2f5-69f7-4ae0-aa83-c329a75bd424",
+  "platform": "edx",
+  "title": "Micro and Nanofabrication (MEMS)",
+  "description": "Microfabrication and nanofabrication are the basis of manufacturing for nearly all modern miniaturized systems that are ubiquitously used in our daily life. Examples include; computer chips and integrated sensors for monitoring our environment, cars, mobile phones, medical devices and more. \n Micro- and nanofabrication can be taught to students and professionals by textbooks and ex-cathedra lectures, but the real learning comes from seeing the manufacturing steps as they happen. \n In this engineering course, we will go a step beyond classroom teaching to not only explain the basics of each fabrication step but also show you how it’s done through video sequences and zooming into the equipment.",
+  "learning_goals": [
+    "Nanofabrication",
+    "Mobile Phones",
+    "Medical Devices",
+    "Microfabrication",
+    "Zooming"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "7 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "juergen-brugger",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "martin-gijs",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "École polytechnique fédérale de Lausanne"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 299,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,42 @@
+{
+  "course_id": "course-17920e6b-e3ed-4819-8116-e48854e62cce",
+  "platform": "edx",
+  "title": "Deep Learning with Python and PyTorch.",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n NOTE: In order to be successful in completing this course, please ensure you are familiar with PyTorch Basics and have practical knowledge to apply it to Machine Learning. If you do not have this pre-requiste knowledge, it is highly recommended you complete the  PyTorch Basics for Machine Learning  course prior to starting this course. \n This course is the second part of a two-part course on how to develop Deep Learning models using Pytorch. \n In the first course, you learned the basics of PyTorch; in this course, you will learn how to build deep neural networks in PyTorch. Also, you will learn how to train these models using state of the art methods. You will first review multiclass classification, learning how to build and train a multiclass linear classifier in PyTorch. This will be followed by an in-depth introduction on how to construct Feed-forward neural networks in PyTorch, learning how to train these models, how to adjust hyperparameters such as activation functions and the number of neurons. \n You will then learn how to build and train deep neural networks—learning how to apply methods such as dropout, initialization, different types of optimizers and batch normalization. We will then focus on Convolutional Neural Networks, training your model on a GPU and Transfer Learning (pre-trained models). You will finally learn about dimensionality reduction and autoencoders. Including principal component analysis, data whitening, shallow autoencoders, deep autoencoders, transfer learning with autoencoders, and autoencoder applications. \n Finally, you will test your skills in a final project.",
+  "learning_goals": [
+    "Transfer Learning",
+    "Artificial Neural Networks",
+    "Feed Forward",
+    "Deep Learning",
+    "Python (Programming Language)",
+    "Dimensionality Reduction",
+    "Machine Learning",
+    "PyTorch (Machine Learning Library)",
+    "Autoencoders",
+    "Convolutional Neural Networks",
+    "Principal Component Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "joseph-santarcangelo",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 517,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

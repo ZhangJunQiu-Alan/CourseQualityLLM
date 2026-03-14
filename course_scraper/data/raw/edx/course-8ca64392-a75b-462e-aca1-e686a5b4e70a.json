@@ -1,0 +1,32 @@
+{
+  "course_id": "course-8ca64392-a75b-462e-aca1-e686a5b4e70a",
+  "platform": "edx",
+  "title": "Prompt Engineering for Microsoft 365 Copilot",
+  "description": "This is a beginner-friendly course designed to help business professionals maximize productivity by effectively using Microsoft 365 Copilot. This course teaches how to craft clear, goal-oriented prompts to generate insights, automate tasks, and enhance collaboration across Microsoft 365 applications, including Word, Excel, PowerPoint, Teams, Outlook, OneNote, and Chat. \n  \n \n\nThis course will equip learners with the skills to effectively utilize Microsoft 365 Copilot by crafting clear and goal-oriented prompts. Participants will learn how to summarize and simplify complex information, generate high-quality content, refine and transform text for clarity, and extract meaningful insights through AI-driven analysis. By mastering these techniques, business professionals can enhance productivity, automate tasks, and make more informed decisions across Microsoft 365 applications. \n  \n \n\nBy the end of this course, learners will be equipped with the skills to create precise, effective prompts that unlock the full potential of Microsoft 365 Copilot, improving efficiency and productivity in the workplace",
+  "learning_goals": [
+    "Microsoft PowerPoint",
+    "Artificial Intelligence",
+    "Goal-Oriented",
+    "Microsoft Excel",
+    "Microsoft Outlook",
+    "Microsoft OneNote",
+    "Microsoft 365"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2418,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

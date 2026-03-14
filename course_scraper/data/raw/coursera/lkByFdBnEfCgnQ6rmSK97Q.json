@@ -1,0 +1,26 @@
+{
+  "course_id": "lkByFdBnEfCgnQ6rmSK97Q",
+  "platform": "coursera",
+  "title": "Crystal Reports: SQL Statements and Complex Formulas",
+  "slug": "crystal-reports-sql-statements-complex-formulas-lo095028",
+  "description": "In this course, you'll continue developing your data-reporting skills in Crystal Reports by using Structured Query Language (SQL) statements to create and summarize report data, as well as create joins and subqueries. You'll also create more complex formulas by working with loops and arrays. These tools and techniques provide you with even greater control over how your data is presented.\n\nThis is the third course in a multi-course Specialization.\n\nAll of the courses in this Specialization require that you have SAP Crystal Reports 2020 installed. You also need to have an installation of Office 2019 apps or later, particularly Access. The course setup instructions provided in the first course go into more detail about the hardware and software requirements.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/crystal-reports-sql-statements-complex-formulas-lo095028",
+  "instructors": [
+    {
+      "name": "Bill Rosenthal",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Logical Operations"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

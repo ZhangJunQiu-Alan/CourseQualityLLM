@@ -1,0 +1,26 @@
+{
+  "course_id": "DVJAVLmTEe-Xow4gBs9Frw",
+  "platform": "coursera",
+  "title": "Cyber Secure Coder (CSC-110) ",
+  "slug": "packt-cyber-secure-coder-csc-110-fky1m",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nDive into the critical world of secure software development with Cyber Secure Coder (CSC-110). This course equips you with the knowledge and skills to identify vulnerabilities, mitigate risks, and build resilient applications. Learn to safeguard against exploits and develop a deep understanding of secure coding practices, ensuring robust software integrity.\n\nYour journey begins with an overview of security in software, delving into how vulnerabilities emerge and how secure requirements can be identified and implemented. Explore key aspects of software security, including vulnerability intelligence, error handling, and hashing techniques. From gathering security requirements to protecting against human-related risks, the course emphasizes practical applications through engaging assignments and activities.\n\nThe curriculum transitions into advanced topics such as secure design principles, risk management strategies, and countermeasures to common exploits. As you progress, you'll develop proficiency in coding guidelines, preventing buffer overflows, and understanding OWASP's top vulnerabilities across platforms, including web, mobile, IoT, and desktop.\n\nIdeal for developers, IT professionals, and security enthusiasts, this intermediate-level course requires basic programming knowledge and an understanding of software development processes. Whether you're refining your coding skills or stepping into cybersecurity, this course provides essential tools to build secure software for today’s digital landscape.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-cyber-secure-coder-csc-110-fky1m",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

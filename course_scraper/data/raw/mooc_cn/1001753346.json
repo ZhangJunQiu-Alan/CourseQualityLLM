@@ -1,0 +1,31 @@
+{
+  "course_id": "1001753346",
+  "platform": "mooc_cn",
+  "title": "食品化学",
+  "description": "江南大学从20世纪80年代开设食品化学课程以来，在课程建设中取得了丰硕的成果。课程主要介绍食品组分的结构与性质、不同组分在食品加工和保藏中的物理和化学变化以及这些变化对食品色、香、味、质构、营养和稳定性的影响，课程教学内容精炼，理论和实践教学有机结合，为学生专业学习奠定了良好基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001753346",
+  "instructors": [
+    {
+      "name": "江波;杨瑞金;夏书芹;卢蓉蓉;张文斌;华霄",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36626,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

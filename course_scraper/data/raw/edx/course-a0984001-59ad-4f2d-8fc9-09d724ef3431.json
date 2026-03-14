@@ -1,0 +1,36 @@
+{
+  "course_id": "course-a0984001-59ad-4f2d-8fc9-09d724ef3431",
+  "platform": "edx",
+  "title": "Mathematical Methods for Data Analysis",
+  "description": "Mathematics has been playing an important role in data analysis from the very beginning; for example, Fourier analysis is one of the main tools in the analysis of image and signal data. This course is to introduce some mathematical methods for data analysis. It will cover mathematical formulations and computational methods to exploit specific structures contained in the data. Some special machine learning algorithms are introduced in case studies.",
+  "learning_goals": [
+    "Machine Learning Algorithms",
+    "Fourier Analysis",
+    "Basic Math",
+    "K-Means Clustering",
+    "Data Analysis"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 6-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jianfeng-cai-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Hong Kong University of Science and Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 272,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

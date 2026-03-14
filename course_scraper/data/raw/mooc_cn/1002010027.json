@@ -1,0 +1,31 @@
+{
+  "course_id": "1002010027",
+  "platform": "mooc_cn",
+  "title": "模拟电子技术基础",
+  "description": "麦克卢汉说：“电子技术到来以后，人延伸出一个活生生的中枢神经系统。”它就像一个魔法师，让我们的生活日新月异。小小的半导体器件具有哪些神奇的特性？各种电路又有哪些独门绝技？该如何面向需求设计电路？带着这些问题，让我们一起走进神秘而又精彩的电子技术殿堂，领略模拟电子技术的无穷魅力吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002010027",
+  "instructors": [
+    {
+      "name": "杜湘瑜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "国防科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 122293,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

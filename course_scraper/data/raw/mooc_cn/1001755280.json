@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755280",
+  "platform": "mooc_cn",
+  "title": "美术基础",
+  "description": "《美术基础》体现了MOOC教学的特色，凸显课程美育文化育人的功能，强化立德树人。教学内容的选择信息量丰富、图文并茂，以美术的基本理论和具体的实践体验为主线，重点加强学生的美术基本技能的训练，课程还新增了以”美的疗愈\"为主题的教学内容，包含理论、实践与互动环节。教师授课深入浅出，教学示范清晰明朗，课程章节的设置既满足了美术教学的要求，又符合网络学员学习的习惯。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755280",
+  "instructors": [
+    {
+      "name": "张曦敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "淮阴师范学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 56205,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

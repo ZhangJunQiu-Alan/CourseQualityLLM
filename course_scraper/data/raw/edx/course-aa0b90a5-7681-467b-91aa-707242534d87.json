@@ -1,0 +1,47 @@
+{
+  "course_id": "course-aa0b90a5-7681-467b-91aa-707242534d87",
+  "platform": "edx",
+  "title": "Introduction to SQL",
+  "description": "SQL (Structured Query Language) is the most commonly used language to communicate with databases and extract data for application development, reporting and analytics. It is ubiquitous for industries across the world and a vital skill for aspiring data professions to have. This course will introduce you to the SQL language and give you the skills you need to query and analyze data from complex relational databases. Join this course if you are seeking to learn data skills to advance in your current field or pivot to a different field where you will interact with data. \n In this SQL tutorial you will learn how to interact with the SQL server with the proper syntax, begin to use SQL commands and SQL databases, perform SQL queries, work with data types and database tables, and use",
+  "learning_goals": [
+    "Data Storage Technologies",
+    "Syntax",
+    "Cascading Style Sheets (CSS)",
+    "RStudio",
+    "R (Programming Language)",
+    "Web Applications",
+    "Data Analysis",
+    "Shiny (R Package)",
+    "Application Development",
+    "User Interface",
+    "Financial Analysis",
+    "Relational Databases",
+    "SQL (Programming Language)",
+    "Google Sheets",
+    "Research",
+    "Market Research"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "pete-benbow",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Davidson College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 744,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

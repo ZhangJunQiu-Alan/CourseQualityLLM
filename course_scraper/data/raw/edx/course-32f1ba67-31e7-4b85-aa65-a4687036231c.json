@@ -1,0 +1,41 @@
+{
+  "course_id": "course-32f1ba67-31e7-4b85-aa65-a4687036231c",
+  "platform": "edx",
+  "title": "CSS Basics",
+  "description": "This course is part of  W3C's \"Front-End Web Developer\" Professional Certificate.  \n Have you just begun your journey into Web development? This course introduces you to the basics of Web design and teach you how to style your Web site for a professional look and feel. \n In this course, we guide you step-by-step in using the latest Web standards to structure your content and presentation like a professional. You will explore numerous CSS features to help you control the look and feel of your site such as colors, fonts and layout. By the end of the course, you should understand all the fundamental elements of CSS and how to use them effectively. \n It is recommended that you are at least a little familiar with HTML before taking this course, but we are providing you with the HTML code when necessary.",
+  "learning_goals": [
+    "HyperText Markup Language (HTML)",
+    "Web Development",
+    "Web Pages",
+    "Presentations",
+    "Character Encodings In HTML",
+    "Cascading Style Sheets (CSS)",
+    "Web Standards",
+    "Front End (Software Engineering)",
+    "Look And Feel",
+    "Web Design"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 5-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "kasey-champion",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The World Wide Web Consortium (W3C)"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 838,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

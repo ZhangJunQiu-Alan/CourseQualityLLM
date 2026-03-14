@@ -1,0 +1,56 @@
+{
+  "course_id": "course-6e8a49e3-e74b-4a74-81b7-ebaf9c82c620",
+  "platform": "edx",
+  "title": "Derivatives Markets: Advanced Modeling and Strategies.",
+  "description": "Financial derivatives are ubiquitous in global capital markets, and those products and the institutions around them continue to evolve at a rapid pace. This course is part of the MicroMasters® Program in Finance, and is designed for students seeking to develop a sophisticated and durable understanding of valuation and hedging methods, and a basic familiarity with major markets and instruments. Tools for quantifying, hedging, and speculating on risk are emphasized. \n Topics include forwards, futures and options in the stock, fixed income and commodity markets, exotic options, real options, interest rate and currency swaps, mortgages, credit risk, securitization, the yield curve, duration and convexity. \n The knowledge and skills acquired are essential for any well-trained financial practitioner. They will be most useful for those planning a career in sales and trading, portfolio management, commercial banking, investment banking, insurance, as a hedge fund manager, or as an analyst or manager in a public sector financial institution, central bank, or financial regulatory agency. Corporate financial managers, as consumers of complex financial products and hedging instruments, will also benefit from this knowledge. The course is excellent preparation for anyone planning to take the CFA exams.",
+  "learning_goals": [
+    "Securitization",
+    "Finance",
+    "Planning",
+    "Credit Risk",
+    "Financial Services",
+    "Futures",
+    "Chartered Financial Analyst",
+    "Hedge Funds",
+    "Capital Markets",
+    "Commodity Market",
+    "Commercial Banking",
+    "Portfolio Management",
+    "Derivatives",
+    "Mortgage Loans",
+    "Hedging",
+    "Fixed Income",
+    "Derivatives Markets",
+    "Futures Exchange",
+    "Investment Banking",
+    "Sales"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "12 周，每周 10-14 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "deborah-j-lucas",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "egor-matveyev",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Massachusetts Institute of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1424,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

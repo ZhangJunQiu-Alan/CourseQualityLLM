@@ -1,0 +1,54 @@
+{
+  "course_id": "course-00152a61-93ae-41e3-89fe-82a7fe1e3995",
+  "platform": "edx",
+  "title": "Lean Production",
+  "description": "Learn about Lean Management, a customer-centric methodology that improves processes by eliminating waste and focusing on value-added tasks. \n This course will introduce the main tenets of the Toyota Production System, which includes Just-in-Time manufacturing, quality management tools, and the critical concept of Kaizen, the Japanese practice of continuous improvement. You will also learn about the key organization and managerial approaches that are used in Lean. \n You will learn how to analyze process flows in order to establish process capacity and identify the process bottleneck. You will then calculate resource utilization and cycle time to evaluate the impact of set up times, batching, defects and reworks on key process performance measures, including inventory, flow rate and flow time. \n We will also discuss the impact of key concepts of Lean, including Heijunka, Kanban, Jidoka, Andon, Poka Yoke, and 5S, which help achieve increased productivity and quality. \n Upon successful completion of this program, learners will earn the TUM Lean and Six Sigma Yellow Belt certification, confirming mastery of Lean Six Sigma fundamentals to a Green Belt level. The material is based on the American Society for Quality (www.asq.org) Body of Knowledge up to a Green Belt Level. The Professional Certificate is designed as preparation for a Lean Six Sigma Green Belt exam.",
+  "learning_goals": [
+    "Resource Utilization",
+    "Six Sigma Green Belt Certification",
+    "Continuous Improvement Process",
+    "Autonomation",
+    "Production Leveling",
+    "Production Systems",
+    "Process Improvement",
+    "Lean Six Sigma Green Belt",
+    "Just In Time Methodology",
+    "Cycle Time Variation",
+    "Six Sigma Yellow Belt",
+    "Kanban Principles",
+    "Lean Six Sigma",
+    "Toyota Production System",
+    "Quality Management",
+    "Poka-Yoke",
+    "Concrete Mixing And Batching",
+    "Lean Manufacturing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "martin-grunow",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "holly-ott",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Technical University of Munich"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 784,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

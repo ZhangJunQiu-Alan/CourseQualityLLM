@@ -1,0 +1,26 @@
+{
+  "course_id": "rAdvCUU6Eeu5YxIbcwLDzw",
+  "platform": "coursera",
+  "title": "Data Visualization e manipolazione dei dati con Tableau",
+  "slug": "data-visualization-manipolazione-tableau",
+  "description": "I contenuti di questo corso sono pensati per permettere agli utilizzatori di Tableau di migliorare le proprie capacità sull’uso del tool, a un livello intermedio.\n\nSpesso i dati provengono da fonti diverse; dobbiamo quindi essere in grado di stabilire tra questi delle relazioni che ci permettano di includere in un’analisi tutte le informazioni di cui abbiamo bisogno. Vedremo quindi come costruire queste relazioni su Tableau, ricorrendo a Join, Union e Data Blending.\n\nLavoreremo con i campi calcolati e i parametri. I primi sono nuovi campi (dimensioni e misure) che, a partire dalla logica utilizzata, aggiungono nuovi dati al data base di partenza. I secondi, invece, sono valori dinamici che possono essere impiegati in tantissimi modi per personalizzare i propri calcoli e la loro visualizzazione all’interno dello spazio di lavoro.\n\nVedremo come Tableau esegue le operazioni di calcolo secondo un ordine preciso, che influisce sui risultati dei calcoli che facciamo. Andremo infine a lavorare con i dati geografici. Nel processo analitico, sono diverse le domande che possiamo porci. Padroneggiando le conoscenze sulla manipolazione dei dati geografici possiamo rispondere al “dove”, un aspetto fondamentale da considerare nel processo analitico.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 settimane, 5-8 ore/settimana",
+  "language": "it",
+  "url": "https://www.coursera.org/learn/data-visualization-manipolazione-tableau",
+  "instructors": [
+    {
+      "name": "Manuel Belgioioso",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Università di Napoli Federico II"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

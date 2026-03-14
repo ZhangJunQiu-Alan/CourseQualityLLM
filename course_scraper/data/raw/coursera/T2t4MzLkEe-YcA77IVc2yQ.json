@@ -1,0 +1,26 @@
+{
+  "course_id": "T2t4MzLkEe-YcA77IVc2yQ",
+  "platform": "coursera",
+  "title": "RESTful API with Rust: Build a Game Map Server",
+  "slug": "restful-api-rust-game-map-server",
+  "description": "Do you know that according to surveys, Rust is one of the most admired computer programming languages for 8 years in a row? Rust is a language that is prized for its performance, memory safety, and concurrency, making it ideal for today’s cloud-based computing world. It is used by major technology and gaming companies such as Microsoft and Discord.\n\nIn this 1-hour long project-based course, you will hone your web development skill with and get a taste of game development with Rust. We will do this by building a RESTful HTTP server that provides flight map data for client applications to display the map.\n\nThis course is aimed at learners who know the fundamentals including data types, variables, ownership, functions, macros, Cargo build system. Knowledge of REST API, TCP and HTTP are helpful but are optional. If your knowledge of Rust is limited, taking the guided project \"Fundamentals with Rust: Build a CLI Distance Calculator\" first is highly recommended.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1.5 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/restful-api-rust-game-map-server",
+  "instructors": [
+    {
+      "name": "Harrison Kong",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

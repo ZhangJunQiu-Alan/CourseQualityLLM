@@ -1,0 +1,39 @@
+{
+  "course_id": "course-941c1967-d0ee-49bc-b3c5-e6ccf4681f2a",
+  "platform": "edx",
+  "title": "Rhetoric: The Art of Persuasive Writing and Public Speaking",
+  "description": "We are living in a contentious time in history. Fundamental disagreements on critical political issues make it essential to learn how to make an argument and analyze the arguments of others. This ability will help you engage in civil discourse and make effective changes in society. Even outside the political sphere, conveying a convincing message can benefit you throughout your personal, public, and professional lives. We will be using selected addresses from prominent twentieth-century Americans—including Martin Luther King Jr., John F. Kennedy, Margaret Chase Smith, Ronald Reagan, and more—to explore and analyze rhetorical structure and style. Through this analysis, you will learn how speakers and writers persuade an audience to adopt their point of view. \n Built around Harvard Professor James Engell’s on-campus course, “Elements of Rhetoric,” this course will help you analyze and apply rhetorical structure and style, appreciate the relevance of persuasive communication in your own life, and understand how to persuade and recognize when someone is trying to persuade you. With this in mind, the newest edition of the course includes a discussion of persuasive speech in social media, and the impact of Generative AI on the practice of rhetoric. This course will inspire you to share your viewpoint and discover the most powerful ways to convince others to champion your cause. Join us to find your voice!",
+  "learning_goals": [
+    "Rhetoric",
+    "Persuasive Writing",
+    "Economics",
+    "Public Speaking",
+    "Persuasive Communication",
+    "Artificial Intelligence",
+    "Communications",
+    "Writing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "8 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "james-engell",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 25304,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

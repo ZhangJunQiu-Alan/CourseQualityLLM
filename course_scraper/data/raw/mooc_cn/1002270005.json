@@ -1,0 +1,31 @@
+{
+  "course_id": "1002270005",
+  "platform": "mooc_cn",
+  "title": "微生物学",
+  "description": "地球上存在一个我们肉眼难以看见的微生物世界，它历史悠久，但个体微小，直到17世纪中期才被人类借助显微镜认识。小小的微生物，却蕴含着巨大的能量，它与我们如影随形，无处不在，无时不在，无所不能，既是“天使”也是“魔鬼”。目前困扰我们的新冠疫情也是一些微生物造成的，我们怎样消灭有害微生物，怎样利用有益微生物呢？你如果对它们有兴趣，请加入《微生物学》课程，一起探索微生物世界的奥秘吧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002270005",
+  "instructors": [
+    {
+      "name": "陈雯莉;何进;陈大松;谢福莉;林会;王莉;李友国;端木德强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 76319,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

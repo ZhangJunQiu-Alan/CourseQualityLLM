@@ -1,0 +1,31 @@
+{
+  "course_id": "1205806833",
+  "platform": "mooc_cn",
+  "title": "深度学习及其应用",
+  "description": "深度学习及其应用课程涵盖了深度学习的核心概念和关键技术，包括卷积神经网络（CNN）、循环神经网络（RNN）、生成对抗网络（GAN）、注意力机制和Transformer等。这些方法不仅构成了深度学习的基础，也被广泛应用于多个领域。课程通过使用机器学习领域的主流开源框架，指导学生如何在股票预测、人脸特征分析、目标检测、语义分割、图像风格转移以及社交网络情感分析等实际问题中应用深度学习技术。通过这些实践，学生能够深入理解深度学习模型的工作原理，并掌握如何将这些模型应用于解决现实世界的问题。与华为合作的深度学习新课程上线https://e.huawei.com/cn/talent/learning/#/zone?customizedZoneId=b_eQvs2sF3f-CaIY2RDIcc7EoME。有基础的同学可以继续学习实战课程机器视觉与边缘计算应用：https://www.icourse163.org/course/FUDAN-1456632162。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205806833",
+  "instructors": [
+    {
+      "name": "赵卫东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "复旦大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 150856,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

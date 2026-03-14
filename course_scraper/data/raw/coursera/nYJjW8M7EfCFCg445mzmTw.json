@@ -1,0 +1,26 @@
+{
+  "course_id": "nYJjW8M7EfCFCg445mzmTw",
+  "platform": "coursera",
+  "title": "Introduction to Fundamental Data Structures and Techniques",
+  "slug": "packt-introduction-to-fundamental-data-structures-and-techniques-9zdns",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nMastering data structures and algorithms is essential for excelling in technical interviews, and this course is your first step toward that goal. With detailed explanations and hands-on problem-solving, you’ll develop the skills to tackle common data structure challenges such as arrays, strings, linked lists, and more. As you progress, you’ll not only understand these concepts but also become proficient in applying them to real-world problems, all while learning optimized solutions and techniques.\n\nThe course begins with an overview of the fundamental data structures, starting with arrays and strings, before delving into more complex topics like linked lists, stacks, and binary search. You'll solve problems like \"Two Sum,\" \"Group Anagrams,\" and \"Valid Palindrome,\" learning how to approach them efficiently. Each section introduces essential algorithms and techniques such as two-pointer approaches, sliding windows, and fast & slow pointers, helping you build an in-depth understanding of these key concepts.\n\nThroughout the course, you'll engage with challenges that will prepare you for real interview scenarios. You'll explore essential strategies like hashing, sliding window, and binary search in problem-solving, equipping you with a strong foundation for tackling technical interviews. The course concludes with a focus on optimizing solutions and improving time complexity.\n\nThis course is perfect for aspiring software engineers, developers, or anyone looking to strengthen their understanding of data structures and algorithms. A basic understanding of programming and problem-solving is recommended, but no prior expertise is required. The course is designed to be accessible to learners at the beginner to intermediate level.\n\nBy the end of the course, you will be able to confidently solve data structure problems, optimize your code, and apply your knowledge to real-world coding challenges in interviews and projects.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-introduction-to-fundamental-data-structures-and-techniques-9zdns",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

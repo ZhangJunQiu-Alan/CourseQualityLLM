@@ -1,0 +1,26 @@
+{
+  "course_id": "ILlPN8E0Ee-ADgr_3OZlyQ",
+  "platform": "coursera",
+  "title": "Advanced Network Attacks, Web Hacking, and Cryptography",
+  "slug": "packt-advanced-network-attacks-web-hacking-and-cryptography-nhabg",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nUnlock the intricacies of advanced network attacks, web hacking, and cryptography in this comprehensive course designed for cybersecurity enthusiasts and professionals. You’ll gain expertise in identifying and mitigating session hijacking, evading firewalls and IDS, and exploiting web vulnerabilities, ensuring a holistic understanding of modern attack surfaces.\n\nThe course begins by delving into network and perimeter hacking techniques, exploring methods to bypass security systems, and demonstrating countermeasures. Progressing further, you’ll navigate web application hacking strategies, covering web servers, common vulnerabilities, and ethical hacking methodologies, including the OWASP Top 10. Dive deep into SQL injection techniques and wireless network exploitation, mastering tools, methods, and defenses for each.\n\nExplore cutting-edge topics like mobile platform vulnerabilities, IoT device exploitation, and operational technology security. The course concludes with an extensive study of cryptography, from foundational concepts to practical tools and cryptanalysis, preparing you to implement robust encryption strategies and mitigate cryptographic attacks effectively.\n\nIdeal for cybersecurity professionals, ethical hackers, and IT specialists, this course requires a foundational knowledge of networking and basic cybersecurity concepts. It is best suited for intermediate-level learners aiming to advance their skills in offensive and defensive security strategies.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-advanced-network-attacks-web-hacking-and-cryptography-nhabg",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

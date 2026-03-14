@@ -1,0 +1,31 @@
+{
+  "course_id": "1458868161",
+  "platform": "mooc_cn",
+  "title": "Basic Econometrics",
+  "description": "Econometrics combines data, economic theory, and statistical theory to quantify economic relationships. This course provides you tools for testing economic theories and forecasting future economic events. This course will show the students that knowledge obtained with econometrics can be both practical and profound. We begin with a Monte Carlo simulation to make you know how to compare your own estimators and understand the data generating process for the BLUE estimators.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1458868161",
+  "instructors": [
+    {
+      "name": "Yan XU",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Dongbei University of Finance & Economics"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 480,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

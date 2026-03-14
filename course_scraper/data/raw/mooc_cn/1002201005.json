@@ -1,0 +1,31 @@
+{
+  "course_id": "1002201005",
+  "platform": "mooc_cn",
+  "title": "化工原理（下册）",
+  "description": "“化工原理”是化工相关本科专业的主干基础课程。该课程以过程工程为背景，应用传递理论研究化工单元操作过程与设备原理，进而完成设计型和操作型计算，提高分析和解决问题的能力。化工原理（下册）包括蒸馏、吸收、气液传质设备、液液萃取、干燥、膜分离和吸附等6个理论讲授章节和新工科工程案例章节。同时配备了英文字幕版视频，方便国外学生观看。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002201005",
+  "instructors": [
+    {
+      "name": "潘艳秋;贺高红;吴雪梅;董宏光",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 36735,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

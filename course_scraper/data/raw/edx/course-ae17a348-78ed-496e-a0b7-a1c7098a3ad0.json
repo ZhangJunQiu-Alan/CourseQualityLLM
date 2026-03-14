@@ -1,0 +1,51 @@
+{
+  "course_id": "course-ae17a348-78ed-496e-a0b7-a1c7098a3ad0",
+  "platform": "edx",
+  "title": "Introduction to Web Development with HTML5, CSS3, and JavaScript.",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n Want to take the first steps to become a Cloud Application Developer? This self-paced online course will lead you through the programming languages and tools you will need to develop your own Cloud and Web Applications. \n Beginning with an explanation of how internet servers, and clients work together to deliver applications to users, this course takes you through the context for application development in the Cloud, introducing front-end, back-end, and full stack development. \n You’ll then focus on the languages you need for front-end development, working with HTML5, CSS3, and JavaScript. \n Finally, you will discover tools such as Git, GitHub, and GitLab, that help you to store your projects and keep track of changes made to project files (version control) and enable collaboration and continuos deployment.",
+  "learning_goals": [
+    "Application Development",
+    "Web Development",
+    "HTML5",
+    "Back End (Software Engineering)",
+    "Git (Version Control System)",
+    "Bootstrap (Front-End Framework)",
+    "Cascading Style Sheets (CSS)",
+    "Cloud Development",
+    "JavaScript (Programming Language)",
+    "Front End (Software Engineering)",
+    "Github",
+    "Full Stack Development",
+    "Version Control",
+    "Project Files",
+    "Gitlab"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "2 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "upkar-lidder",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2665,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

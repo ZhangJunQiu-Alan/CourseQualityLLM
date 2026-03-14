@@ -1,0 +1,31 @@
+{
+  "course_id": "1470425176",
+  "platform": "mooc_cn",
+  "title": "天线原理与技术",
+  "description": "手机等无线系统应用越来越广泛，而天线是其不可或缺的组成部分。本课程将以John D. Kraus编著的经典教材《天线》一书为参考，循序渐进学习天线基本概念和理论、基本天线类型。欢迎同学走进神奇的天线世界，感受经典教材的魅力！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470425176",
+  "instructors": [
+    {
+      "name": "全绍辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1417,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

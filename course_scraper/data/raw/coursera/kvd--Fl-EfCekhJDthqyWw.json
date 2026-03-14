@@ -1,0 +1,26 @@
+{
+  "course_id": "kvd--Fl-EfCekhJDthqyWw",
+  "platform": "coursera",
+  "title": "Developing and Deploying Web Applications with Python",
+  "slug": "developing-and-deploying-web-applications-with-python",
+  "description": "This course provides a comprehensive, hands-on introduction to building dynamic and interactive web applications using Python. Designed for learners with a foundational understanding of Python, the course progressively explores key techniques used in professional web development and data communication over the internet.\n\nBeginning with GUI development using wxPython, learners construct interactive desktop interfaces and enhance applications through text editing and database integration. The course then applies Python's powerful networking capabilities, enabling learners to develop socket servers, demonstrate asynchronous programming with asyncio, and implement event-driven frameworks using Twisted.\n\nIn the web data parsing segment, learners analyze and clean malformed HTML using Tidy, html.parser, and BeautifulSoup, then extract and transform content for further use. Through practical exercises, learners debug CGI scripts and configure Apache for dynamic content handling, preparing them for web server deployment.\n\nFinally, the course constructs web services by generating RSS feeds and invoking remote procedures via XML-RPC. By the end, learners will be able to design, deploy, and integrate Python web components and services confidently and effectively.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/developing-and-deploying-web-applications-with-python",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

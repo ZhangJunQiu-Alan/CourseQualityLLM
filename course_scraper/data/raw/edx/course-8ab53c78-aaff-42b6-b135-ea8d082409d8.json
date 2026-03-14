@@ -1,0 +1,43 @@
+{
+  "course_id": "course-8ab53c78-aaff-42b6-b135-ea8d082409d8",
+  "platform": "edx",
+  "title": "Secure Software Development: Requirements, Design, and Reuse",
+  "description": "This course is retiring. Last day to enroll is May 19, 2026 at 00:00 UTC  \n Modern software is under constant attack, but many software developers have never been told how to effectively counter those attacks. This course works to solve that problem, by explaining the fundamentals of developing secure software. Geared towards software developers, DevOps professionals, software engineers, web application developers, and others interested in learning how to develop secure software, this course focuses on practical steps that can be taken, even with limited resources, to improve information security. This course will enable software developers to create and maintain systems that are much harder to successfully attack, reduce the damage when attacks are successful, and speed the response so that any latent vulnerabilities can be rapidly repaired. \n This course discusses the basics of security, such as what risk management really means. It discusses how to consider security as part of the requirements of a system, and what potential security requirements you might consider. This part then discusses how to design software to be secure, including various secure design principles that will help you avoid bad designs and embrace good ones. It also discusses how to secure your software supply chain, that is, how to more securely select and acquire reused software (including open source software) to enhance security. \n This is the first of the three courses in the Secure Software Development Fundamentals Professional Certificate program, and was developed by the Open Source Security Foundation (OpenSSF), a project of the Linux Foundation focused on securing the open source ecosystem. The training courses included in this program focus on practical steps that you (as a developer) can take to counter most common kinds of attacks.",
+  "learning_goals": [
+    "Software Engineering",
+    "DevOps",
+    "Supply Chain",
+    "Security Requirements Analysis",
+    "Open Source Technology",
+    "Vulnerability",
+    "Risk Management",
+    "Design Elements And Principles",
+    "Software Development",
+    "Design Software",
+    "Linux",
+    "Open-Source Software"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "david-wheeler-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Linux Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 464,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

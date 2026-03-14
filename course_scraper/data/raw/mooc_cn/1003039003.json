@@ -1,0 +1,31 @@
+{
+  "course_id": "1003039003",
+  "platform": "mooc_cn",
+  "title": "计算机网络系统",
+  "description": "欢迎大家走进电子科技大学《计算机网络系统》在线开放课程。本课程为中国高校计算机教育MOOC联盟线上线下混合式教学改革项目，以及中国高校计算机教育MOOC联盟建设课程；2019年被评为四川省精品MOOC课程，2021年被评为省级线上一流课程。2022年被评为省级线上线下混合式一流课程。希望大家通过本课程的学习，掌握计算机网络基础知识，为今后的网络应用及开发等打下良好基础。2021年初，团队对MOOC部分内容进行了重新制作，更方便大家学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003039003",
+  "instructors": [
+    {
+      "name": "傅翀",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33169,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

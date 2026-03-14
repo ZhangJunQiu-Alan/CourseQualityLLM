@@ -1,0 +1,31 @@
+{
+  "course_id": "1206417810",
+  "platform": "mooc_cn",
+  "title": "初识电子电路",
+  "description": "“初识电子电路”是零起点电子电路入门性的公共选修课程。课程内容以“趣味性电路”引入，按元件性能、电路组成、工作原理与设计等，依次展开。内容以“必用、够用”为度，培养学生的学习兴趣，使学生对电子电路产生初步的认识和了解，掌握最基本的、简单的电子电路的分析和设计方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206417810",
+  "instructors": [
+    {
+      "name": "戴西;史金芬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "金陵科技学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1619,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "LI_ZbN8UEfClnAr_yrzfpw",
+  "platform": "coursera",
+  "title": "Apply Modern Java Features for Clean and Efficient Code",
+  "slug": "apply-modern-java-features-clean-efficient-code",
+  "description": "Learners will be able to apply modern Java language features, analyze functional programming constructs, implement Stream-based data processing, and build cleaner, more maintainable Java applications using Java 8 through Java 14 enhancements.\n\nThis course provides a comprehensive, hands-on exploration of modern Java features that every Java developer must master to stay relevant in today’s software industry. Starting with lambda expressions, method references, and streams, learners gradually progress toward advanced topics such as collectors, interface enhancements, parallel processing, Java modules, compact number formatting, modern string APIs, and switch expressions.\n\nBy completing this course, learners will gain the ability to write concise, readable, and efficient Java code while adopting best practices introduced in recent Java versions. The course emphasizes real-world usage scenarios, helping learners transition from traditional object-oriented Java to a functional and modular programming mindset.\n\nWhat makes this course unique is its structured, feature-focused approach that connects concepts across Java versions instead of teaching them in isolation. Each module builds progressively, reinforcing understanding through practical examples and assessments. This course is ideal for developers who want to modernize their Java skills, improve code quality, and confidently use contemporary Java features in professional projects.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/apply-modern-java-features-clean-efficient-code",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

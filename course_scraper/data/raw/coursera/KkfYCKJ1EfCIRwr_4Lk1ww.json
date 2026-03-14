@@ -1,0 +1,26 @@
+{
+  "course_id": "KkfYCKJ1EfCIRwr_4Lk1ww",
+  "platform": "coursera",
+  "title": "Basic Electronics",
+  "slug": "basic-electronics-odc",
+  "description": "Master the fundamental principles of electronic circuits and devices with this comprehensive course designed for aspiring electrical engineers, electronics enthusiasts, and hardware developers. Beginning with essential circuit elements, resistors, and power sources, you'll progress through systematic circuit analysis techniques including Kirchhoff's laws, nodal and mesh analysis, and network theorems like Thevenin's and Norton's equivalents. The course covers both time-domain analysis of RL, RC, and RLC circuits and frequency-domain techniques using phasor algebra for AC circuit analysis. You'll explore semiconductor devices including diodes for signal shaping and voltage regulation, bipolar junction transistors (BJTs) for amplification and switching, MOSFETs for low-power applications, and operational amplifiers (op-amps) for building complex signal processing circuits. Through hands-on problem-solving and practical applications, you'll learn to design power circuits, calculate power factors in AC systems, and implement digital switching circuits. Whether you're preparing for advanced studies in electrical engineering, developing IoT devices, or pursuing careers in electronics design and embedded systems, this course provides the essential foundation in circuit theory, semiconductor physics, and analog electronics needed to analyze, design, and troubleshoot electronic systems across diverse engineering applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/basic-electronics-odc",
+  "instructors": [
+    {
+      "name": "BITS Pilani Instructors Group",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Birla Institute of Technology & Science, Pilani"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206447826",
+  "platform": "mooc_cn",
+  "title": "土木工程地质",
+  "description": "西南交通大学土木工程地质课程是国家级精品课程，国家级资源共享课程。西南交通大学土木工程地质课程基于“以学习者”为中心的教学理念，利用线上线下相结合的方式进行课程的教学设计，通过理论讲授、矿物岩石实习、地质图阅读与剖面图绘制、野外工程地质实习、习题集、典型案例等形式开展教学。课程考核内容包括教材10个章节的内容，共计600多道单元测试题（包括单选、多选题）和期末考试题（从题库中随机抽取）。课程采用百分制：满分100分，有单元测试30分，期末考试70分组成。考核总分60-84分为合格；85分（含）以上为优秀。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206447826",
+  "instructors": [
+    {
+      "name": "郭永春",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 16701,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

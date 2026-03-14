@@ -1,0 +1,31 @@
+{
+  "course_id": "1207537803",
+  "platform": "mooc_cn",
+  "title": "电磁场与电磁波理论",
+  "description": "《电磁场与电磁波理论》是电子信息与通信类专业的一门非常重要的专业基础课。随着科学技术的进步，电磁理论不断地有新的重要的应用出现，进入到我们生活的方方面面。人们每天都离不开的电子信息的传递，不管是是通过无线的方式，还是通过光纤的传播，实际上都是利用了电磁波的传播。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207537803",
+  "instructors": [
+    {
+      "name": "徐立勤;程勇;张华美",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京邮电大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19235,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

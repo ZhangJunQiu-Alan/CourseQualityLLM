@@ -1,0 +1,31 @@
+{
+  "course_id": "1464036183",
+  "platform": "mooc_cn",
+  "title": "经脉医学文化与传承",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464036183",
+  "instructors": [
+    {
+      "name": "林栋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3200,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

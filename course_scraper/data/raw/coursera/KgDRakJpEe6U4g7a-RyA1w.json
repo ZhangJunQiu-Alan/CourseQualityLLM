@@ -1,0 +1,26 @@
+{
+  "course_id": "KgDRakJpEe6U4g7a-RyA1w",
+  "platform": "coursera",
+  "title": "Encoder-Decoder Architecture - Bahasa Indonesia",
+  "slug": "encoder-decoder-architecture---bahasa-indonesia",
+  "description": "Kursus ini memberi Anda sinopsis tentang arsitektur encoder-decoder, yang merupakan arsitektur machine learning yang canggih dan umum untuk tugas urutan-ke-urutan seperti terjemahan mesin, ringkasan teks, dan tanya jawab. Anda akan belajar tentang komponen utama arsitektur encoder-decoder serta cara melatih dan menyalurkan model ini. Dalam panduan lab yang sesuai, Anda akan membuat kode pada penerapan simpel arsitektur encoder-decoder di TensorFlow untuk pembuatan puisi dari awal.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "id",
+  "url": "https://www.coursera.org/learn/encoder-decoder-architecture---bahasa-indonesia",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

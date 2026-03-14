@@ -1,0 +1,26 @@
+{
+  "course_id": "o1uWOrOGEeuUgRLoWReItw",
+  "platform": "coursera",
+  "title": "Aggregate Data in SQL using MySQL Workbench",
+  "slug": "aggregate-data-sql-mysql-workbench",
+  "description": "In this project you will use MySQL Workbench to write SQL queries that aggregate (group) data. Incorporating aggregate functions like COUNT, SUM, and AVG, your SQL queries will group and summarize data. Data that is aggregated and presented in a logical format makes it a more valuable decision-making tool for users. \n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aggregate-data-sql-mysql-workbench",
+  "instructors": [
+    {
+      "name": "Judy Richardson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

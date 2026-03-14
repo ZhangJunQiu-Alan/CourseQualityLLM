@@ -1,0 +1,26 @@
+{
+  "course_id": "Z3dctqkxEeyxDg4ukgkVlw",
+  "platform": "coursera",
+  "title": "Implementing Canary Releases of TensorFlow Model Deployments with Kubernetes and Anthos Service Mesh",
+  "slug": "googlecloud-implementing-canary-releases-of-tensorflow-model-deployments-w-lflkd",
+  "description": "This is a self-paced lab that takes place in the Google Cloud console. AutoML Vision helps developers with limited ML expertise train high quality image recognition models. In this hands-on lab, you will learn how to train a custom model to recognize different types of clouds (cumulus, cumulonimbus, etc.).",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "1.5 hours ",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/googlecloud-implementing-canary-releases-of-tensorflow-model-deployments-w-lflkd",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

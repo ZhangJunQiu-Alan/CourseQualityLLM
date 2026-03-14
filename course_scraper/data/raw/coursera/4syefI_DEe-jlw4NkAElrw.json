@@ -1,0 +1,26 @@
+{
+  "course_id": "4syefI_DEe-jlw4NkAElrw",
+  "platform": "coursera",
+  "title": "Redux in JavaScript and React",
+  "slug": "redux-in-javascript-and-react",
+  "description": "This course introduces you to the core concepts of Redux, a powerful state management library, through both plain JavaScript and React integrations. \n\nYou'll start with foundational knowledge of Redux, exploring key concepts such as actions, reducers, and store creation. Through hands-on practice, you'll learn how to manage complex state and implement Redux in real-world applications.\n\n Later, the course transitions to using Redux in a React environment, covering essential patterns such as connect(), useSelector(), and useDispatch(). By the end of the course, you’ll have practical experience coding with Redux to efficiently manage state.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/redux-in-javascript-and-react",
+  "instructors": [
+    {
+      "name": "Bob Ziroll",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Scrimba"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

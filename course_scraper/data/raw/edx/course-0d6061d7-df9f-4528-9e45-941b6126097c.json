@@ -1,0 +1,35 @@
+{
+  "course_id": "course-0d6061d7-df9f-4528-9e45-941b6126097c",
+  "platform": "edx",
+  "title": "SQL Concepts for Data Engineers",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!  \n This course builds on your existing SQL knowledge to learn about additional techniques that are key to Data Engineers. \n You will learn how to create and use views to simplify and control access to underlying tables. You will learn about the advantages provided by stored procedures and how to write and run them. You will discover the importance of ACID transactions to maintain the integrity of your data and how to use them in your code. Finally, you will learn how to use different types of joins to accurately retrieve related data from multiple tables. \n PRE-REQUISITE: This course is intended as a follow on to SQL for Data Science course from IBM. Please ensure that you have either completed that course prior to starting this one, or have foundational/intermediate knowledge of SQL and are familiar with creating tables, performing select statements, filtering, sorting and grouping data, and working with nested queries and multiple tables.",
+  "learning_goals": [
+    "Stored Procedure",
+    "Data Science",
+    "Nested Queries",
+    "SQL (Programming Language)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "1 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rav-ahuja",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 279,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

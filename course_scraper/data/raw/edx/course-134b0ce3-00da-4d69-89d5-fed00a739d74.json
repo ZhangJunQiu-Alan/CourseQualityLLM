@@ -1,0 +1,45 @@
+{
+  "course_id": "course-134b0ce3-00da-4d69-89d5-fed00a739d74",
+  "platform": "edx",
+  "title": "Introduction to Transforming with Data Analytics and the Digital Organization",
+  "description": "Every modern organization is a digital organization or will rapidly become digital. Artificial intelligence, Google/Amazon/Facebook/Uber, and big data have dramatically raised customer expectations and demand.  \r\n Organizations that are effective in using data will win in the economies of the mid-21st century. These must-have core competencies include data analysis, machine learning, data visualizations, data mining, and predictive analytics, and deep learning. Organizations that won't or can't digitally transform will go the way of Blockbuster or Border's Bookstore.  \r\n The organization that better harnesses the power of data to create a superior customer experience will thrive in the new business realities. \r\n The question is, how does an organization digitally transform? There are many digital technologies for organizations to choose from - too many choices! And digital technologies are only part of creating a digital organization. The employees must be trained in the new technologies, leaders must learn how to use data in making strategic decisions, and the organization's business processes must be reinvented. So many choices to make and the stakes have never been higher! \r\n This course will give you a framework to help you successfully navigate the challenges posed by digital transformation. First, we will discuss how to use the organization's dynamic capabilities to start the digital transformation. Second, we will use fitness landscapes to build a competitive digital business model. Finally, we will implement a strategic foresight function to help evolve the digital business model for the organization's continued success.",
+  "learning_goals": [
+    "Machine Learning",
+    "Customer Service",
+    "Big Data",
+    "Business Process",
+    "Artificial Intelligence",
+    "Data Visualization",
+    "Customer Experience",
+    "Data Mining",
+    "Deep Learning",
+    "Business Modeling",
+    "Predictive Analytics",
+    "Data Analysis",
+    "Strategic Decision-Making",
+    "Digital Transformation"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "bill-brantley",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Maryland, College Park"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 276,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

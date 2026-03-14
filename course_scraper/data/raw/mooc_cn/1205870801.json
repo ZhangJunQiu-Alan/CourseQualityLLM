@@ -1,0 +1,31 @@
+{
+  "course_id": "1205870801",
+  "platform": "mooc_cn",
+  "title": "电气绘图与电子CAD",
+  "description": "课程以AutoCAD、Altium Designer为平台，以实际项目为载体，遵循国际和行业规范，通过本课程学习，学生能够熟悉电气工程图设计原则和国家规定电气制图规范，掌握图纸识读方法，能用软件绘制电气工程图，能将电路原理图纸转换为印制电路板的设计实现。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205870801",
+  "instructors": [
+    {
+      "name": "罗乔;徐丽萍;杨燕;徐佳琛;李镇;冯红翠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京工业职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24751,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "lBTwTjnsEe-9Ig7qA4dB5w",
+  "platform": "coursera",
+  "title": "Responsible AI for Developers: Interpretability & Transparency - Français",
+  "slug": "ai-for-developers-interpretability--transparency--franais",
+  "description": "Ce cours présente les concepts d'interprétabilité et de transparence de l'IA. Il explique en quoi la transparence de l'IA est importante pour les développeurs et les ingénieurs. Il explore des méthodes et des outils pratiques permettant d'atteindre l'interprétabilité et la transparence des modèles d'IA et des données.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "fr",
+  "url": "https://www.coursera.org/learn/ai-for-developers-interpretability--transparency--franais",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

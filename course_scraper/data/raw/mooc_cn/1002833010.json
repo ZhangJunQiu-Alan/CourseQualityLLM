@@ -1,0 +1,31 @@
+{
+  "course_id": "1002833010",
+  "platform": "mooc_cn",
+  "title": "人口社会学",
+  "description": "本课程是一门为本科生开设的人口学概论课程。课程着重介绍人口学的概念、理论和方法。同时，课程还旨在培养学生运用人口学的知识去分析和理解现实社会中的人口变迁过程以及原因。本课程以分析和讲解中国和美国的人口现象为主，辅之以介绍其他国家的人口现象和过程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002833010",
+  "instructors": [
+    {
+      "name": "张莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国政法大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12449,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

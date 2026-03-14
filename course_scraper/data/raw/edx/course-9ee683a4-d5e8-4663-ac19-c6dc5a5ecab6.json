@@ -1,0 +1,38 @@
+{
+  "course_id": "course-9ee683a4-d5e8-4663-ac19-c6dc5a5ecab6",
+  "platform": "edx",
+  "title": "Shakespeare’s Othello: The Moor",
+  "description": "In this course, we'll read William Shakespeare’s Othello and discuss the play from a variety of perspectives. The goal of the course is not to cover everything that has been written on Othello. Rather, it is to find a single point of entry to help us think about the play as a whole. Our entry point is storytelling.  \n We'll look at the ways in which Shakespeare's characters tell stories within the play––about themselves, to themselves, and to each other. We'll consider, too, how actors, directors, composers, and other artists tell stories through Othello in performance. By focusing on storytelling, we can see how the play grapples with larger issues including power, identity, and the boundary between fact and fiction.  \n From lectures filmed on-location in Venice and conversations with artists, academics, and librarians at Harvard, students will have unprecedented access to a range of resources for \"unlocking\" Shakespeare's classic play.",
+  "learning_goals": [
+    "Lecturing",
+    "Storytelling"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 5-7 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "stephen-greenblatt",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "bailey-sincox",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1171,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

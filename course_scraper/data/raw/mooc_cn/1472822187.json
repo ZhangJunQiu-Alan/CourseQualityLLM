@@ -1,0 +1,31 @@
+{
+  "course_id": "1472822187",
+  "platform": "mooc_cn",
+  "title": "高等数学（农科类）",
+  "description": "《高等数学》（农科类）课程是高等院校针对农科类各专业的一门必修基础课程，是进一步获得数学知识、学习后继相关专业课程的必要的数学基础课程。课程内容包含有：数列、极限、微积分、空间解析几何与线性代数、常微分方程和级数。高等数学课程的教学任务是：1.通过各个教学环节，让学生掌握数学的思想、方法和技巧；2.培养学生的抽象概括能力、逻辑思维能力、几何直观和空间想象能力、熟练的运算能力、自学能力等；3.使学生掌握微积分、常微分方程等基本知识，在实际问题中能够分析问题，熟练地综合运用所学知识，初步建立数学模型，以解决问题实际问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472822187",
+  "instructors": [
+    {
+      "name": "解小莉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 898,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

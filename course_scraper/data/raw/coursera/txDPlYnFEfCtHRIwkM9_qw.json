@@ -1,0 +1,26 @@
+{
+  "course_id": "txDPlYnFEfCtHRIwkM9_qw",
+  "platform": "coursera",
+  "title": "Security Essentials for Modern Developers",
+  "slug": "security-essentials-for-modern-developers",
+  "description": "Secure Software Delivery: From Code to Deployment is an intermediate-level course designed to help developers and technical leads build and ship secure applications confidently—without slowing down innovation. As software systems scale, so do the risks—and success now depends on embedding security into every phase of the development lifecycle. In this course, you’ll move beyond one-off vulnerability patching and learn how to systematically integrate secure coding practices, threat modeling, and automated security testing into your workflows. \n\nThrough engaging videos, real-world case studies, interactive labs, and scenario-based coaching, you’ll gain hands-on experience with tools like SAST, DAST, and GitHub Actions. Whether you're fixing critical flaws, shifting security left in CI/CD, or leading team-wide secure coding habits, this course will help you operationalize security as a continuous, collaborative practice—and deliver software that’s not just functional, but resilient.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "30 mins/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/security-essentials-for-modern-developers",
+  "instructors": [
+    {
+      "name": "Hurix Digital",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

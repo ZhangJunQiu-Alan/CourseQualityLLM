@@ -1,0 +1,31 @@
+{
+  "course_id": "1455026176",
+  "platform": "mooc_cn",
+  "title": "一起来学物联网",
+  "description": "本课程是基于物联网技术的创新课程。通过12个案例， 16个项目学习物联网的认知和最基础的应用。主要内容有：物联网预备课、点阵计时器、点阵游戏机、指南针、计步器、红外电子琴、智慧路灯、基于WU-link的Scratch游戏手柄、环境监测平台、无线抢答器、无线遥控小车、智慧交通、智能家居实战。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1455026176",
+  "instructors": [
+    {
+      "name": "潘科峰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 12529,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

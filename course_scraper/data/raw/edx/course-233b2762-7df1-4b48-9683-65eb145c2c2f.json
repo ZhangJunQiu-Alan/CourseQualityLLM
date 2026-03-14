@@ -1,0 +1,42 @@
+{
+  "course_id": "course-233b2762-7df1-4b48-9683-65eb145c2c2f",
+  "platform": "edx",
+  "title": "Biomedical Equipment: Repairing and Maintaining Biomedical Devices",
+  "description": "Maintaining and troubleshooting sophisticated medical instruments is not an easy task. In order to deliver effective care, the technician requires the knowledge of different aspects of biology and engineering. The different devices work in so many different ways and the literature about repair and troubleshooting is often hard to come by. It can be quite frustrating to search for solutions every time the operator encounters a problem. There is added pressure because the availability of medical devices is critical for therapeutic and diagnostic care. The longer a device stays out of operation, the slower the hospital would be able to deliver care to the patients. \n This course has been designed by the interdisciplinary collaboration of both TU Delft biomedical engineers as well as the local expertise of the medical technicians of the Nick Simons Institute in Nepal to help new and emerging biomedical engineers/technicians working in low-income hospitals to care for biomedical equipment. \n This course provides a compilation of the techniques hospitals use to effectively maintain and troubleshoot the medical devices so that repair time is reduced and the availability and safety of the medical devices is improved. Completing this course adds a complementary skill set to prior competence of the learner to perform maintenance routines and diagnose problems in sophisticated equipment with care. A faster service routine will help smoothen the process flow of the hospital and help extend the care to more patients. On a personal level, the learner can rely on the knowledge gained from this course as ‘the blueprint’ for whenever they have to maintain/troubleshoot any medical device.  \n  Accredited Course  \n This course is accredited by the Dutch Association for Specialists in Sterile Medical Tools (VDSMH). Learners who successfully complete the course and obtain a certificate can request Professional Development Points.",
+  "learning_goals": [
+    "Process Flow Diagrams",
+    "Biology",
+    "Medical Devices",
+    "Interdisciplinary Collaboration",
+    "Blueprinting",
+    "Troubleshooting (Problem Solving)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "10 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jenny-dankelman-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "arjan-knulst",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Delft University of Technology"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1621,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

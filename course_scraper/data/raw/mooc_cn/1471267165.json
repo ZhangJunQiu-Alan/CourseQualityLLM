@@ -1,0 +1,31 @@
+{
+  "course_id": "1471267165",
+  "platform": "mooc_cn",
+  "title": "生命科学科研伦理和规范",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471267165",
+  "instructors": [
+    {
+      "name": "郑琰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "复旦大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1184,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

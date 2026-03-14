@@ -1,0 +1,31 @@
+{
+  "course_id": "1001819010",
+  "platform": "mooc_cn",
+  "title": "走进数控",
+  "description": "“走进数控”是中职数控技术应用专业（以下简称为数控专业）的专业基础课程，也是数控专业学生入门教育课程，适用于各学历的数控专业学生，也可作为工科等相关专业选修课程。本专业相关职业资格证书有：车工（数控车床工种）、铣工（数控铣床工种 ）等，1+X  证书有：多工序数控机床操作职业技能等级证书、数控车铣加工职业技能等级证书等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001819010",
+  "instructors": [
+    {
+      "name": "娄海滨;曹克胜;卢东;杨义准;郦凯锋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20715,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1470652183",
+  "platform": "mooc_cn",
+  "title": "列车运行控制技术",
+  "description": "《列车运行控制技术》课程是轨道交通信号与控制专业的一门重要的专业必修课，随着通信、计算机、自动化技术等先进技术的广泛应用，高速铁路列车速度和密度的不断提高对信号系统提出了更高要求，列车运行控制系统已发展为先进的自动化控制系统，在列车运行中进行全过程、实时及各种运行场景的安全控制，从而有效保证列车高速、高密度的运行安全，已成为轨道交通信号系统的大脑和神经中枢。课程对于理解和掌握轨道交通信号与控制领域的专业知识、方法和技能有重要意义。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1470652183",
+  "instructors": [
+    {
+      "name": "万军;韩学超;屈霞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 372,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

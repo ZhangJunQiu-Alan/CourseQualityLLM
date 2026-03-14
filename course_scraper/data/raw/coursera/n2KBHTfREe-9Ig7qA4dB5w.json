@@ -1,0 +1,26 @@
+{
+  "course_id": "n2KBHTfREe-9Ig7qA4dB5w",
+  "platform": "coursera",
+  "title": "Foundations of Data Analysis with Pandas and Python",
+  "slug": "packt-foundations-of-data-analysis-with-pandas-and-python-hmwp9",
+  "description": "Embark on a comprehensive journey into data analysis with Python and Pandas. Learn to set up Anaconda and Jupyter Lab on macOS and Windows, navigate Jupyter Lab's interface, and execute code cells. \n\n- You'll start by mastering essential Python programming concepts, including data types, operators, variables, functions, and classes. \n- Then, dive into Pandas to create and manipulate Series and DataFrames. The course covers data importing from sources like CSV, Excel, and SQL databases, along with techniques for sorting, filtering, and data extraction. \n- Advanced analysis methods, including group-by operations, merging, joining datasets, and pivot tables, are also explored to equip you with the skills for efficient and sophisticated data analysis.\n\nIdeal for aspiring data analysts and scientists, no prior programming knowledge is necessary with the included Python crash course.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-foundations-of-data-analysis-with-pandas-and-python-hmwp9",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

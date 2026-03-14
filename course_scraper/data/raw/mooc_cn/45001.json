@@ -1,0 +1,31 @@
+{
+  "course_id": "45001",
+  "platform": "mooc_cn",
+  "title": "普通化学",
+  "description": "这是高等学校非化学化工专业学生在本科阶段学习的唯一一门化学公共基础课，这门课程能够帮助大家建立化学学科完整的知识结构框架，初步了解化学家的思维方式和化学学科的研究方法，便于大家今后在自身专业研究领域中与化学家进行交流和合作，共同解决人类社会各个领域中的诸多复杂问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/45001",
+  "instructors": [
+    {
+      "name": "胡涛;高勇;王昊晨;于晓林;李柏韩;王玉超;张建军;刘文东;孟长功;张利静;李艳芹;安海艳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 77195,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

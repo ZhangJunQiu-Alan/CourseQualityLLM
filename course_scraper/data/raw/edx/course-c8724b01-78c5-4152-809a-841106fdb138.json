@@ -1,0 +1,36 @@
+{
+  "course_id": "course-c8724b01-78c5-4152-809a-841106fdb138",
+  "platform": "edx",
+  "title": "Excel for Everyone: Core Foundations",
+  "description": "This introductory Excel course will equip you with a strong foundational knowledge of Excel to organize, analyze and work with data. You will develop essential Excel skills, such as simple data wrangling and managing spreadsheets, along with a foundational understanding of business data analysis. \n The course is designed for those with little or no functional knowledge of Excel, as well as those who regularly use Excel at a basic level, but wish to enhance their skills. From basic operations to an introduction to more advanced techniques, within six weeks you’ll gain the confidence to navigate the Excel interface, master essential spreadsheet functions, perform calculations and produce creative charts and graphs from your data, while building an aptitude for data analysis that is critical to the success of any organization.",
+  "learning_goals": [
+    "Data Analysis",
+    "Spreadsheets",
+    "Data Wrangling",
+    "Management",
+    "Operations"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ricardo-rosado-trujeque",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of British Columbia"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4462,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

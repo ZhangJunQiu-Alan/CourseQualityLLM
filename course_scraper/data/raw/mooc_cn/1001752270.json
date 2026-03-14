@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752270",
+  "platform": "mooc_cn",
+  "title": "外科学总论",
+  "description": "从开刀匠到外科学家，你需要学习什么？《外科学基础》是临床医学与基础医学之间的桥梁课程，是临床医学及其相关专业本科生、研究生必修的专业基础课程。《外科学基础》能够帮助你练好外科基本功、学好医学人文、培养创新思维，在成为外科学家的道路上脚踏实地，一往直前！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752270",
+  "instructors": [
+    {
+      "name": "王水",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京医科大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35726,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "mcIDqIlgEfCdwg4OrVEg2Q",
+  "platform": "coursera",
+  "title": "Linux Fundamentals: Configure, Secure & Manage",
+  "slug": "linux-fundamentals-configure-secure-manage",
+  "description": "By completing this course, learners will be able to install Linux systems, configure hardware and networks, manage users and permissions, execute commands efficiently, secure data with firewalls and encryption, and monitor resources for optimal performance.\n\nThis course provides a comprehensive journey through Red Hat Linux and Fedora, starting from the foundations of open-source software and progressing to advanced administration. Learners will benefit from hands-on practice in file management, package installations, user control, backup strategies, and system maintenance. By mastering both graphical and command-line tools, participants will gain the skills needed to confidently navigate and administer Linux environments.\n\nWhat makes this course unique is its modular design blending fundamentals with enterprise-level practices. Each lesson is crafted with clear, SEO-friendly objectives and aligned with Bloom’s Taxonomy to reinforce practical learning outcomes. Whether preparing for a career in IT, enhancing system administration skills, or exploring Linux as an open-source enthusiast, this course equips learners with job-ready expertise to configure, secure, and manage Linux systems effectively.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/linux-fundamentals-configure-secure-manage",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

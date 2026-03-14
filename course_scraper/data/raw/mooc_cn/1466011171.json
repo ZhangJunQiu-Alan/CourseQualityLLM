@@ -1,0 +1,31 @@
+{
+  "course_id": "1466011171",
+  "platform": "mooc_cn",
+  "title": "随机过程",
+  "description": "本课程是华东师范大学统计学专业的专业必修课。作为\"概率论\"的进阶课程， \"随机过程\"一般围绕着面对复杂随机现象时如何建立随机模型，如何综合利用数学理论与方法探究模型的性质以及如何揭示及运用随机现象的客观规律等问题展开。课程所介绍的理论与方法已被广泛地应用于自然科学与社会科学的各个领域。本慕课教程注重基础，强调应用，内容丰富。通过课程学习，同学们可以更好地理解随机过程中的主要概念和理论，掌握随机过程中基本的计算方法和技巧，提高分析和解决复杂随机问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466011171",
+  "instructors": [
+    {
+      "name": "姚强;李育强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华东师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13195,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,49 @@
+{
+  "course_id": "course-ebc77e49-de08-453f-bc83-dbc966847c4b",
+  "platform": "edx",
+  "title": "Software, Programming, and Database Basics",
+  "description": "Looking to build core skills in software, programming, and databases to launch a career in IT support? This beginner-friendly course helps you to gain a job-ready understanding of these essential competencies that employers look for. During the course, you’ll explore a wide range of topics, from the operating system on your mobile phone to the cloud computing technology behind enterprise applications. You’ll gain a solid understanding of databases that power software and information systems, as well as web browsers, programming languages, software development processes, and key programming concepts. Plus, you’ll dive into essential database knowledge, including interfaces, backups, and practical use cases. You’ll also explore emerging technologies such as artificial intelligence (AI), generative AI, chatbots, and modern analytics applications, and build an understanding of how these innovations are reshaping business operations. Plus, you’ll learn about data monetization strategies and discover how organizations are transforming data into a strategic asset for growth and innovation. As you work through the course, you’ll complete hands-on labs and interactive activities, which will sharpen your analytical thinking and build practical skills. If you’re looking to build IT support skills employers need, enroll now and enhance your resume in just a few weeks.",
+  "learning_goals": [
+    "Artificial Intelligence",
+    "Information Technology",
+    "Software Development",
+    "Emerging Technologies",
+    "Analytical Thinking",
+    "Python (Programming Language)",
+    "Innovation",
+    "Data Monetization",
+    "Information Systems",
+    "Application Deployment",
+    "Operating Systems",
+    "Technical Support",
+    "Backup Devices",
+    "Programming Concepts",
+    "Business Operations",
+    "Web Browsers",
+    "Chatbot",
+    "Cloud Computing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 3-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "skills-network",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 500,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

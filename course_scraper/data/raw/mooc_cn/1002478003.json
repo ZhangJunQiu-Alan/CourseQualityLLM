@@ -1,0 +1,31 @@
+{
+  "course_id": "1002478003",
+  "platform": "mooc_cn",
+  "title": "无机化学原理",
+  "description": "无机化学原理是化学类本科生的第一门基础课，近年来随着化学学科的发展，无机化学授课范围亦扩大至物理、材料、医学等相关学科。为满足各类学科学习的需要，本课程中深入浅出的讲述了物质的状态、化学热力学基础和化学平衡、电化学基础、化学反应速率、物质结构和配位化学基础等化学理论知识，旨在使学生掌握丰富的化学知识，同时为后续课程奠定基础、构架桥梁。本课程由多位国家级教学名师及国内多所高校的一线教师共同讲授完成。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002478003",
+  "instructors": [
+    {
+      "name": "程鹏;王莉;张丽荣;冯丽娟;唐宗薰;邱晓航;宋晓伟;宋天佑",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "吉林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 71048,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

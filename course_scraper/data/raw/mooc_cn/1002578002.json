@@ -1,0 +1,31 @@
+{
+  "course_id": "1002578002",
+  "platform": "mooc_cn",
+  "title": "物理化学（上）",
+  "description": "欢迎大家学习北京化工大学物理化学MOOC，本课程力求用最简单的语言讲清复杂问题。适合速成、考研复习、重修学习。物理化学是学校化工、材料、生物、环境等主流专业的基础课、核心课和研究生考试课程，是学校重点建设的品牌课程。2003年被评为首批国家精品课，2013年被批准为国家级精品资源共享课。2020年被评为首批国家一流本科课程（线上一流课程）。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002578002",
+  "instructors": [
+    {
+      "name": "徐向宇;张欣;舒心;白守礼;于乐",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京化工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 71844,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

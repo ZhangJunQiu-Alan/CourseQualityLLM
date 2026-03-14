@@ -1,0 +1,31 @@
+{
+  "course_id": "1003499004",
+  "platform": "mooc_cn",
+  "title": "工程水文学",
+  "description": "工程水文学是指分析流域水文要素的时空变化规律，为水利水电工程及其他涉水工程的规划、设计、施工和管理提供水文资料，进行水文计算和预报的技术和方法的学科。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003499004",
+  "instructors": [
+    {
+      "name": "孟玉川;宋克超;李俊;王欣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17008,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

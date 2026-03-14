@@ -1,0 +1,31 @@
+{
+  "course_id": "1001812013",
+  "platform": "mooc_cn",
+  "title": "软件工程",
+  "description": "本课程为国家级一流线上课程、国家级精品在线开放课程。本课程是软件工程专业的主干课，也是计算机类专业、信息类专业的重要专业课，也可作为软件、计算机领域的从业人员的设计开发、项目管理等工作参考和借鉴。本课程介绍面向对象软件工程的基本概念、原理、方法和工具，通过实例来讲解软件过程。本慕课资料均为双语。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001812013",
+  "instructors": [
+    {
+      "name": "张爽",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 121689,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

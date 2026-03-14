@@ -1,0 +1,31 @@
+{
+  "course_id": "1456170163",
+  "platform": "mooc_cn",
+  "title": "护理学基础",
+  "description": "爱心呵护生命，精技守护健康；关怀、照护、人本；《护理学基础》是护理学科的基础，是满足人们基本需要的基本理论、基本知识、基本技能的一门护理专业核心课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1456170163",
+  "instructors": [
+    {
+      "name": "杨巧菊",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15932,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

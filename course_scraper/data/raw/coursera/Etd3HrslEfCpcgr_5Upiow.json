@@ -1,0 +1,26 @@
+{
+  "course_id": "Etd3HrslEfCpcgr_5Upiow",
+  "platform": "coursera",
+  "title": "AI for Data Analysis",
+  "slug": "google-ai-for-data-analysis",
+  "description": "Are the answers you need buried in a dataset you can't decipher? In this course, you’ll learn to use AI as your analytical partner to transform unstructured data into clear, actionable insights. You’ll use Gemini to identify the right success metrics for any project and practice converting messy, raw data into structured tables. You'll use everyday language to generate powerful spreadsheet formulas and create compelling charts in Google Sheets—empowering you to make smarter, data-driven decisions.\n\nBy the end of this course, you will create:\n\n• Success metrics you can stand by: Use Gemini to define exactly what to measure for your project so you can present your results with confidence.\n• A structured dataset: Clean and organize messy information into a structured Google Sheets table that is ready for immediate analysis.\n• Data visualizations and formulas: Use natural language to generate spreadsheet functions and create charts that visualize your findings to drive evidence-based decisions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/google-ai-for-data-analysis",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

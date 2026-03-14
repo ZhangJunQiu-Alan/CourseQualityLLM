@@ -1,0 +1,31 @@
+{
+  "course_id": "1207067801",
+  "platform": "mooc_cn",
+  "title": "零件几何量检测",
+  "description": "《零件几何量检测》课程是高职机械设计制造类各专业的重要专业核心基础课程。本课程是2022职业教育国家在线精品课程、国家精品资源共享课程、四川省“十四五”职业教育精品在线开放课程。本课程解决了机械设计过程中的核心技术问题——几何量精度的设计；同时实际零件检测在实验室由实训教师实操展示，营造生动、直观、真实的操作练习环境。通过本课程的学习，使学生掌握几何参数的检测方法、数据处理和合格性判断，培养学生的工匠精神和解决工件检测实际问题的能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207067801",
+  "instructors": [
+    {
+      "name": "武友德;吴廷婷;朱超;朱留宪;李海鹏;孙博;段玲;武小越;邱红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川工程职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 33783,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

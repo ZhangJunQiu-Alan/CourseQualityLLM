@@ -1,0 +1,31 @@
+{
+  "course_id": "1003508004",
+  "platform": "mooc_cn",
+  "title": "医学免疫学",
+  "description": "“疫苗”、“免疫力”，“抗体“等专业词汇逐渐走向大众。你知道疫苗为什么能发挥保护作用吗？免疫力究竟是怎么产生的？人体免疫系统由什么组成，各有何种功能？抗体和免疫球蛋白是何种关系？当病毒、细菌等侵入人体时，免疫系统调动了哪些武器做出应对？来吧，请学习“医学免疫学”。医学免疫学助你成为一名优秀的医务工作者，助你预防、诊断和治疗疾病！如果你是一名非医学专业的学习者，医学免疫学帮你了解更多人体奥秘，了解发生在人体内的“战争与和平”。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003508004",
+  "instructors": [
+    {
+      "name": "郑芳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 62952,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

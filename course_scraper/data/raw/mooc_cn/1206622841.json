@@ -1,0 +1,31 @@
+{
+  "course_id": "1206622841",
+  "platform": "mooc_cn",
+  "title": "电机与拖动",
+  "description": "«电机与拖动»是原《电机学》、《电力拖动》和《微特电机》等课程的有机结合，主要论述各类电机的基本原理与特性，以及利用电动机作为原动机来拖动生产机械按人们规定的要求进行运动的基本理论，是自动化、电子信息工程（电力电子）、机械电子工程及电气工程及其自动化等专业必须掌握的一门技术基础课，也可以作为《电机学》课程的参考资料。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206622841",
+  "instructors": [
+    {
+      "name": "卢琴芬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 76883,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

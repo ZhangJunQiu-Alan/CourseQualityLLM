@@ -1,0 +1,35 @@
+{
+  "course_id": "course-05ae6aa5-07cf-4be7-9ce3-f1c6d1d1d12e",
+  "platform": "edx",
+  "title": "La Dirección y Gestión de Proyectos",
+  "description": "En este curso se presentarán nociones básicas acerca de la gestión de proyectos y del rol de dirección de los mismos, haciendo hincapié en la triple restricción y en los factores que es necesario administrar eficientemente para optimizar recursos durante la implementación, garantizando así el cumplimiento de los objetivos que dieron origen al proyecto y que fueron plasmados en la etapa de formulación.  \n Se abordará además, el ciclo de vida del proyecto y los factores necesarios en cada etapa del mismo, mientras que en los dos últimos módulos se especificarán detalladamente todos aquellos factores críticos y secundarios que es necesario gestionar correctamente para alcanzar los objetivos propuestos. Entre dichos factores se abordarán: el tiempo, los costos, la calidad, los recursos humanos, las adquisiciones, entre otros.",
+  "learning_goals": [
+    "Leadership",
+    "Planning",
+    "Procurement",
+    "Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 5-7 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "walter-javier-romano",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Nacional de Córdoba"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 745,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "VlWc-J-bEeqVvg6osXSIXQ",
+  "platform": "coursera",
+  "title": "Introduction to Bash Shell Scripting",
+  "slug": "introduction-to-bash-shell-scripting",
+  "description": "This course will help those new to shells and shell scripting to build a foundation with the Bash shell. We'll learn several Bash shell commands that will allow you to navigate and use the shell for everyday tasks. We will also write a Bash shell script that will back up a directory and email the compressed file, a culmination of all the commands we’ll cover. We will cover:\n\nNot only will you gain the knowledge to customize your system, you will have a solid foundation to expand what you can do with Bash on the command line and in scripts. This beginner-level guided project is perfect for those who have an interest in learning to use a Linux or Unix operating system, whether to gain new skills in IT or software development, or to use an alternative to commercial, proprietary software. Those with no experience in IT, software development, cybersecurity, and more  can start here and build on necessary skills for future training and employment.\n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/introduction-to-bash-shell-scripting",
+  "instructors": [
+    {
+      "name": "Kerri-Leigh Grady",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

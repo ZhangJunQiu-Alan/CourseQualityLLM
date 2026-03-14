@@ -1,0 +1,71 @@
+{
+  "course_id": "course-c5e767ab-090a-4204-8030-93c810b7ef64",
+  "platform": "edx",
+  "title": "Introduction to Java Programming: Starting to code in Java",
+  "description": "In this introductory Java programming course, you will be introduced to powerful concepts such as functional abstraction, the object oriented programming (OOP) paradigm and Application Programming Interfaces (APIs). Examples and case studies will be provided so that you can implement simple programs on your own or collaborate with peers. \n Emphasis is put on immediate feedback and on having a fun experience. Programming knowledge is not only useful to be able to program today’s devices such as computers and smartphones. It also opens the door to computational thinking, i.e. the application of computing techniques to every-day processes. \n This edition is an improved version of the course released in April 2015.",
+  "learning_goals": [
+    "Java (Programming Language)",
+    "Smartphone Operation",
+    "Computational Thinking",
+    "Application Programming Interface (API)",
+    "Object-Oriented Programming (OOP)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 7-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "carlos-delgado-kloos",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "carmen-fernandez-panadero",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "iria-estevez-ayres",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jorge-blasco",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "carlos-alario-hoyos-ph-d",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sergio-pastrana",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "guillermo-suarez-tangil",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "julio-villena-roman",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidad Carlos III de Madrid"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 658,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

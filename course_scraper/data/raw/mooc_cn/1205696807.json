@@ -1,0 +1,31 @@
+{
+  "course_id": "1205696807",
+  "platform": "mooc_cn",
+  "title": "Python编程基础",
+  "description": "在本课程的讲授中，每一个知识点都提供了相关程序实例，希望大家能通过这些具体实例更好地掌握Python程序的编写方法。本课程的目标是使大家具备Python基础编程能力，并基本具备应用Python解决实际应用问题的能力，同时也为后继Python相关的更深入学习打下良好基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1205696807",
+  "instructors": [
+    {
+      "name": "闫晓玉;王恺;李妍;施莺莺;李涛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南开大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 439284,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

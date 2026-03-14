@@ -1,0 +1,26 @@
+{
+  "course_id": "Wako_c9lEfCv3hJFRLR2Jw",
+  "platform": "coursera",
+  "title": "Scaling High-Performance Node.js Applications",
+  "slug": "packt-scaling-high-performance-node-js-applications-dww5l",
+  "description": "This course features Coursera Coach! A smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course. \n\nIn this course, you'll dive deep into the concepts of performance optimization and scalability in Node.js applications. Whether you're a developer aiming to build high-performing applications or an architect looking to scale a system efficiently, this course provides the essential tools and techniques. Through a hands-on approach, you will explore both theory and practice to build robust and scalable applications.\n\nYou'll begin by understanding the fundamental principles of scalability and performance, such as vertical and horizontal scaling, and application cloning. As you move through the course, you'll learn to implement child processes and process pools to improve concurrency, along with fault tolerance strategies to ensure resilience. The journey also includes leveraging external tools and strategies for scaling databases and partitioning large datasets to meet growing demands.\n\nIn the second half of the course, you’ll work through parallelizing asynchronous operations with child processes, learning to merge streams and handle errors seamlessly. Additionally, you'll explore batching and caching techniques to optimize async workloads and prevent performance bottlenecks. The final module focuses on managing CPU-intensive operations and understanding the use of child processes and worker threads for offloading expensive computations.\n\nThis course is ideal for backend developers, Node.js developers, and system architects who want to optimize application performance. Prerequisites include basic JavaScript and Node.js knowledge, along with an understanding of asynchronous programming. The difficulty level is intermediate.\n\nBy the end of the course, you will be able to scale Node.js applications using both vertical and horizontal scaling, implement parallel processing with child processes, optimize async operations through batching and caching, and manage CPU-heavy tasks effectively.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-scaling-high-performance-node-js-applications-dww5l",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

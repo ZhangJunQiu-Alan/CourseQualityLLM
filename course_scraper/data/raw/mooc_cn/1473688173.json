@@ -1,0 +1,31 @@
+{
+  "course_id": "1473688173",
+  "platform": "mooc_cn",
+  "title": "算法设计与分析",
+  "description": "算法设计与分析课程是计算机相关专业的核心课程，是高效求解问题的基本功。本课程以算法分析和算法设计为主线，从理论和实践相结合的角度阐述，力图把原理方法讲透，把求解过程讲到位；精选算法设计策略的典型应用，完整、全面阐述了问题分析和求解的全过程；课程注重育人，把责任担当、科研精神和思维方法融入教学中；课程内容与配套教材内容基本一致，便于开展线上线下同步学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1473688173",
+  "instructors": [
+    {
+      "name": "周蓓;连航;索婧雯;许瑾晨;弋宗江;朱雨",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "信息工程大学网络空间安全学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 555,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

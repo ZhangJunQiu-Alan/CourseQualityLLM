@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752034",
+  "platform": "mooc_cn",
+  "title": "半导体器件物理",
+  "description": "通过本课程的学习，了解集成电路IC芯片的最基本构成--半导体器件",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752034",
+  "instructors": [
+    {
+      "name": "徐振邦;顾雨竹;黄玮;张兵",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 13547,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

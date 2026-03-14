@@ -1,0 +1,31 @@
+{
+  "course_id": "MqfA4jinEeqEYQpOQt3ikw",
+  "platform": "coursera",
+  "title": "Probability Foundations for Data Science and AI",
+  "slug": "probability-theory-foundation-for-data-science",
+  "description": "Understand the foundations of probability and its relationship to statistics and data science.  We’ll learn what it means to calculate a probability, independent and dependent outcomes, and conditional events.  We’ll study discrete and continuous random variables and see how this fits with data collection.  We’ll end the course with Gaussian (normal) random variables and the Central Limit Theorem and understand its fundamental importance for all of statistics and data science.\n\nThis course can be taken for academic credit as part of CU Boulder’s Master of Science in Data Science (MS-DS) and the Master of Science in Artificial Intelligence (MS-AI) degrees offered on the Coursera platform. These interdisciplinary degrees bring together faculty from CU Boulder’s departments of Applied Mathematics, Computer Science, Information Science, and others. With performance-based admissions and no application process, the CU degrees on Coursera are ideal for individuals with a broad range of undergraduate education and/or professional experience in computer science, information science, mathematics, and statistics. \n\nLearn more about the MS-DS program at https://www.coursera.org/degrees/master-of-science-data-science-boulder.\n\nLearn more about the MS-AI program at https://www.coursera.org/degrees/ms-artificial-intelligence-boulder\nLogo adapted from photo by Christopher Burns on Unsplash.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "6 weeks of study, 8-10 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/probability-theory-foundation-for-data-science",
+  "instructors": [
+    {
+      "name": "Anne Dougherty",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Jem Corcoran",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "NU-X7wfwEfGWGg5tlkdcvw",
+  "platform": "coursera",
+  "title": "Generative AI for Cybersecurity Professionals",
+  "slug": "generative-ai-cybersecurity-professionals",
+  "description": "This program equips cybersecurity professionals, AI security practitioners, SOC leaders, and governance specialists with the expertise required to integrate Artificial Intelligence and Generative AI into security operations responsibly and securely. You will begin by exploring AI fundamentals, comparing traditional detection approaches with AI-driven analytics, and understanding how Large Language Models enhance SOC workflows. Through guided demonstrations, you will examine real-world applications such as AI-based malware detection, automated triage, and intelligent threat analysis.\n\nBuilding on AI foundations, you will explore transformer architectures, evaluate LLM capabilities and limitations, and apply AI systems to cybersecurity use cases. Emphasis is placed on identifying output risks, implementing guardrails, and maintaining human oversight in AI-assisted workflows.\n\nNext, the program advances into secure prompt engineering and AI system defense. You will learn how prompt injection attacks occur, how adversarial machine learning manipulates models, and how AI pipelines can be hardened against misuse. Structured exercises demonstrate how robust model training, monitoring, and validation reduce AI-specific security risks.\n\nThe course then expands into governance, ethics, and compliance frameworks. You will analyze bias, fairness, transparency, and accountability challenges in AI systems, and align AI deployment with recognized standards such as NIST and regulatory compliance frameworks. Practical examples demonstrate how to audit AI systems and establish responsible oversight mechanisms.\n\nFinally, you will integrate AI security, adversarial defense, and governance strategies in a structured practice project, designing a secure AI-enabled SOC framework aligned with enterprise risk management principles.\n\nBy the end of this program, you will be able to:\n\n-Explain AI, GenAI, and LLM concepts in cybersecurity contexts.\n\n-Apply AI and LLMs to enhance SOC detection and triage workflows.\n\n-Design secure prompt engineering and guardrail controls.\n\n-Identify vulnerabilities across AI pipelines and system architectures.\n\n-Defend against adversarial machine learning attacks.\n\n-Implement ethical, transparent, and compliant AI governance frameworks.\n\n-Audit AI-assisted decisions for bias, risk, and misuse.\n\n-Design a secure AI-driven security operations strategy.\n\nThis course is designed for SOC professionals, cybersecurity engineers, AI security practitioners, governance officers, and security leaders seeking to responsibly integrate AI into enterprise defense strategies.\n\nJoin us to build the technical insight, defensive resilience, and governance expertise required to secure AI-powered cybersecurity operations in modern enterprises.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 3 - 4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/generative-ai-cybersecurity-professionals",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

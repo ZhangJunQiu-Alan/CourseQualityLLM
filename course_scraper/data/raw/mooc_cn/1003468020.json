@@ -1,0 +1,31 @@
+{
+  "course_id": "1003468020",
+  "platform": "mooc_cn",
+  "title": "大学物理（力学、振动与波动）",
+  "description": "盐城工学院大学物理课程教学团队精心打造的“大学物理”MOOC，多种多媒体技术集于一体，教学方式交互，知识结构脉络清晰，视频、PPT、测验题、讨论题等突出重点、聚焦难点、注重应用，有利于掌握知识、培养能力。希望我们的课程能成为你学习大学物理的理想选择！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003468020",
+  "instructors": [
+    {
+      "name": "吴兆丰;俞晓明;黄备兵;徐宁;孟丽娟;高虹;张雅恒",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "盐城工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 50791,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

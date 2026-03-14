@@ -1,0 +1,26 @@
+{
+  "course_id": "hZJZZN8lEfChOg4rqm_L-w",
+  "platform": "coursera",
+  "title": "Build Interactive Web Apps Using jQuery UI",
+  "slug": "build-interactive-web-apps-using-jquery-ui",
+  "description": "Learners will analyze, design, and implement an interactive single-page web application using jQuery UI through a practical, end-to-end case study. By completing this course, learners will gain hands-on experience in structuring a front-end project, building user-friendly UI components, and adding dynamic functionality with JavaScript.\n\nThis course guides learners step by step through a real-world jQuery UI project, starting from project setup and HTML structure to creating tab-based navigation, managing employee details, and implementing a fully functional daily task feature. Learners will develop the skills needed to build interactive interfaces using jQuery UI widgets such as tabs and dialogs, while applying best practices for code organization, event handling, and UI consistency.\n\nWhat makes this course unique is its case study–driven approach, which emphasizes practical implementation over isolated theory. Instead of learning jQuery UI components in isolation, learners see how they work together in a complete application. This course is ideal for aspiring front-end developers and web designers who want to strengthen their UI development skills and confidently apply jQuery UI concepts in real projects.\n\nBy the end of the course, learners will be able to evaluate and showcase a working jQuery UI application as part of their professional portfolio.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-interactive-web-apps-using-jquery-ui",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

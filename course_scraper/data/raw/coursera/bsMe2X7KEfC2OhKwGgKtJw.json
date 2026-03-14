@@ -1,0 +1,26 @@
+{
+  "course_id": "bsMe2X7KEfC2OhKwGgKtJw",
+  "platform": "coursera",
+  "title": "Advanced DAX and Performance Optimization",
+  "slug": "advanced-dax-and-performance-optimization",
+  "description": "This course focuses on advanced DAX (Data Analysis Expressions) concepts and performance optimization techniques essential for Power BI developers. Participants will learn to write complex DAX formulas, create calculated columns and measures, and implement sophisticated business logic. The course emphasizes performance optimization methodologies and troubleshooting techniques to ensure reports are efficient and responsive. By leveraging tools like Performance Analyzer and DAX Studio, learners will diagnose and resolve common performance issues.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-dax-and-performance-optimization",
+  "instructors": [
+    {
+      "name": " Microsoft",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

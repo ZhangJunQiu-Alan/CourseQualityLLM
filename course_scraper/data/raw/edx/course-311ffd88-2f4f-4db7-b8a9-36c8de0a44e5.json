@@ -1,0 +1,36 @@
+{
+  "course_id": "course-311ffd88-2f4f-4db7-b8a9-36c8de0a44e5",
+  "platform": "edx",
+  "title": "Clinical Reasoning Process",
+  "description": "The course introduces the clinical reasoning process as it is used by clinicians from different health disciplines: medicine, dentistry, nursing, veterinary medicine, and pharmacy. The course offers a step-by-step description and explanation of the process, illustrated with clinical examples. This course is of interest to both students and health professionals as they hone their knowledge and clinical reasoning skills. \n The clinical reasoning process was analyzed and modeled by six clinicians from the Faculty of Medicine at Université de Montréal together with a cognitive specialist. The result of this research was a model that was first published in the journal  Medical Education  in April 2012(1). The research itself forms the cornerstone of the course. \n (1) Source : Charlin, B., Lubarsky, S., Millette, B., Crevier, F., Audétat, M.-C., Charbonneau, A., Caire Fon, N., Hoff, L. and Bourdy, C. (2012),  Clinical reasoning processes: unravelling complexity through graphical representation . Medical Education, 46: 454–463. doi: 10.1111/j.1365-2923.2012.04242.x",
+  "learning_goals": [
+    "Medical Education",
+    "Nursing",
+    "Veterinary Medicine",
+    "Clinical Reasoning",
+    "Dentistry"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "nathalie-caire-fon",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Université de Montréal"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 277,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

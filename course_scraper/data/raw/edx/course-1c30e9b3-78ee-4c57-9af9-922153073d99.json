@@ -1,0 +1,34 @@
+{
+  "course_id": "course-1c30e9b3-78ee-4c57-9af9-922153073d99",
+  "platform": "edx",
+  "title": "Business Foundations",
+  "description": "Do you speak “business\"? You will. This course is designed to give you the terminology, concepts and frameworks necessary to understand businesses, to unpack their constituent parts, and to build your own tool-kit for strategy and decision-making. \n Whether you are just starting out or looking to fine tune your education, this course introduces basic concepts and frameworks that can be applied across markets, at all levels of business. The course kicks off with core value propositions and moves through a business model framework, competition and macro environmental tools, theories of disruption, basic accounting literacy and concludes with an integrated look at business functions. \n This course, part of the Business Fundamentals Professional Certificate program, sets the stage with a big picture perspective on business.",
+  "learning_goals": [
+    "Business Modeling",
+    "Value Propositions",
+    "Accounting"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "elicia-salzberg",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of British Columbia"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1796,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

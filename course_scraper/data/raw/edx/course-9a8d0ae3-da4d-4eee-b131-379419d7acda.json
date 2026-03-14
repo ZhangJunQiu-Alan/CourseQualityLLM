@@ -1,0 +1,58 @@
+{
+  "course_id": "course-9a8d0ae3-da4d-4eee-b131-379419d7acda",
+  "platform": "edx",
+  "title": "Principios del Acompañamiento Educativo",
+  "description": "El acompañamiento es una herramienta fundamental en el trabajo emocional, vocacional y de límites o disciplina, por lo que saber cómo acompañar impactará en elementos tan importantes como: la automotivación de tus alumnos, su autoconocimiento, autogestión, responsabilidad y su liderazgo social. \n Es un curso que te acercará a los principios esenciales del acompañamiento, sus características, su utilidad, el porqué de cada uno y te brindará herramientas específicas para poder movilizarnos y ponerlos en práctica",
+  "learning_goals": [
+    "Self-Motivation",
+    "Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 2-3 小时",
+  "language": "Spanish",
+  "url": "",
+  "instructors": [
+    {
+      "name": "juan-carlos-rihani-abraham",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "miguel-loza-cuevas",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "angelina-alvarez-alfeiran",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jorge-carlos-medina-palma",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "maria-luisa-haces-lopez",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "flor-marina-miranda-rosado",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidades Anáhuac"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 302,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1206492803",
+  "platform": "mooc_cn",
+  "title": "传感技术",
+  "description": "传感器类似于人体的五官，是信息获取的源头。传感器技术与通信技术、计算机技术构成了信息技术的三大支柱，是实现物联网和智能控制的关键技术。想知道常用的传感器有哪些吗？想知道传感器是如何工作的吗？ 一起来领略传感器的魅力吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206492803",
+  "instructors": [
+    {
+      "name": "蒋亚东;顾德恩;杜晓松;王洋",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4755,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

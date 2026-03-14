@@ -1,0 +1,58 @@
+{
+  "course_id": "course-45e714ff-881f-4f74-85c3-b2e63e2df20b",
+  "platform": "edx",
+  "title": "Introduction to Containers, Kubernetes and OpenShift",
+  "description": "Please Note: Learners who successfully complete this IBM course can earn a skill badge — a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!    \n In this course designed for beginners, You will learn how to build cloud native applications using current containerization tools and technologies such as containers, Docker, container registries, Kubernetes, OpenShift, and Istio. And also how to deploy and scale your applications in any public, private, or hybrid cloud.    \n By the end of the course, you’ll be able to build a container image, then deploy and scale your container on the cloud using OpenShift.    \n If you understand basic cloud and programming concepts, and your career path includes roles such as cloud developer, cloud architect, cloud system engineer, DevOps engineer, and cloud networking specialist, this course is for you!",
+  "learning_goals": [
+    "Cloud-Native Computing",
+    "Istio",
+    "Programming Concepts",
+    "Containerization",
+    "Cloud-Native Applications",
+    "Docker (Software)",
+    "Docker Container",
+    "Advising",
+    "Systems Engineering",
+    "Cloud Development",
+    "DevOps",
+    "Cloud Computing",
+    "Kubernetes",
+    "Virtual Machines",
+    "Virtualization",
+    "Hybrid Cloud Computing",
+    "OpenShift"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "5 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "alex-parker",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "upkar-lidder",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "heather-nelson",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IBM"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 540,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

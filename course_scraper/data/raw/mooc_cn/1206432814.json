@@ -1,0 +1,31 @@
+{
+  "course_id": "1206432814",
+  "platform": "mooc_cn",
+  "title": "大学信息技术基础",
+  "description": "本课程是面向全校开设的大学通识课，旨在帮助学生系统掌握人工智能与信息技术的核心知识，提升数字素养与信息技能。课程立足新时代数字化发展要求，结合国家数字经济与科技创新战略，从信息技术基础、计算机系统、数据与网络、人工智能基本原理、典型应用及伦理安全等方面展开教学。通过理论讲解、案例分析与实践操作，让学生理解 AI 技术逻辑与应用场景，熟练运用常用信息工具，树立正确的网络安全观与科技伦理意识。课程兼顾知识性、实用性与时代性，助力学生适应智能时代学习、工作与生活需求，培养具备信息素养与创新思维的复合型人才。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206432814",
+  "instructors": [
+    {
+      "name": "白云璐;顾铮;王瑞娟;高老师;翟双灿;张卫明;印志鸿;金玉琴;张幸华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14204,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

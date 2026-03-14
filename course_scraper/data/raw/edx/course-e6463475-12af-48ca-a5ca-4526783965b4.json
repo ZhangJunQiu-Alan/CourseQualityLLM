@@ -1,0 +1,33 @@
+{
+  "course_id": "course-e6463475-12af-48ca-a5ca-4526783965b4",
+  "platform": "edx",
+  "title": "Power BI: Build data models and create reports",
+  "description": "\"Build Data Models and Create Reports with Power BI\" teaches individuals seeking to gain proficiency in Power BI, focusing specifically on the core skills of data modeling and report creation. It aims to guide users through the process of connecting to data sources, structuring data for analysis, and designing interactive reports to visualize and present findings. \nThis course provides a comprehensive introduction to essential Power BI capabilities, equipping users with the ability to transform raw data into insightful reports. Users will learn the fundamentals of connecting to various data sources, including databases, spreadsheets, and cloud services. They will then delve into data modeling, understanding how to create relationships between tables, optimize data structures, and define calculations using DAX (Data Analysis Expressions). A significant focus is placed on report creation, where users will learn to design visually appealing and interactive dashboards, choose appropriate chart types, apply filters and slicers, and format reports for effective communication. “Build Data Models and Create Reports with Power BI” emphasizes practical application, ensuring that users can apply their knowledge to real-world scenarios and create meaningful reports that drive data-driven decisions.",
+  "learning_goals": [
+    "Data Modeling",
+    "Data Analysis",
+    "Data Structures",
+    "Cloud Services",
+    "Dashboard",
+    "Power BI",
+    "Communications",
+    "Spreadsheets"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "2 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Microsoft"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1894,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "UKQNil7YEe-vHBLsSjPJnw",
+  "platform": "coursera",
+  "title": "Responsible AI for Developers: Privacy & Safety - Polski",
+  "slug": "responsible-ai-for-developers-privacy-and-safety-pl",
+  "description": "To szkolenie wprowadza w ważne kwestie dotyczące prywatności i bezpieczeństwa w dziedzinie AI. W jego trakcie przedstawiamy praktyczne techniki i narzędzia, które umożliwiają wdrożenie sprawdzonych metod w zakresie prywatności i bezpieczeństwa AI przy użyciu usług Google Cloud oraz narzędzi open source.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "pl",
+  "url": "https://www.coursera.org/learn/responsible-ai-for-developers-privacy-and-safety-pl",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

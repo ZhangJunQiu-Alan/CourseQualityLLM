@@ -1,0 +1,26 @@
+{
+  "course_id": "VUftr4VqEfCCSg698sr4dw",
+  "platform": "coursera",
+  "title": "Master Machine Learning with TensorFlow: Basics to Advanced",
+  "slug": "master-machine-learning-tensorflow-basics-advanced",
+  "description": "By the end of this course, learners will be able to build, train, and evaluate machine learning and deep learning models using Python, Scikit-learn, and TensorFlow. They will confidently preprocess datasets, apply classical algorithms, visualize insights, and design neural networks to solve real-world problems.\n\nThis hands-on program takes students from zero to hero, beginning with the foundations of machine learning and progressing through data wrangling, visualization, preprocessing, and model building. Learners gain practical skills by working with industry-standard tools like Jupyter, Anaconda, NumPy, Pandas, Matplotlib, and Seaborn before mastering TensorFlow for deep learning applications such as image classification with MNIST.\n\nWhat makes this course unique is its step-by-step structured approach, blending theory with coding practice across multiple modules and lessons. Each concept is reinforced through quizzes, case studies, and real-world datasets, ensuring both comprehension and application. Whether you’re a beginner exploring machine learning for the first time or a professional looking to sharpen TensorFlow skills, this course provides a comprehensive pathway to mastering ML workflows.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/master-machine-learning-tensorflow-basics-advanced",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

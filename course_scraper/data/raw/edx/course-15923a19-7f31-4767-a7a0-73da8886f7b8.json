@@ -1,0 +1,65 @@
+{
+  "course_id": "course-15923a19-7f31-4767-a7a0-73da8886f7b8",
+  "platform": "edx",
+  "title": "Introduction to FinTech",
+  "description": "Over the past decade emerging technologies, paired with massive changes in regulations, have driven an unprecedented transformation of finance around the world. This process is happening more rapidly in China and Asia than anywhere else. This course is designed to explore FinTech fundamentals and help make sense of this wave of change as it happens. \n New players such as start-ups and technology firms are challenging traditional players in finance, bringing democratization, inclusion and disruption. Companies engaged in social media, e-commerce, and telecommunications, as well as, companies and start-ups with large customer data pools, creative energies, and technical capacities, have brought competition to the existing financial infrastructure and are remaking the industry. \n These transformations have not only created challenges but also unprecedented opportunities, building synergies with new business and regulatory models, particularly in emerging markets and developing countries. To meet these changes, 21st-century professionals and students must be equipped with up-to-date knowledge of the industry and its incredible evolution. This course - designed by HKU with the support of SuperCharger and the Centre for Finance, Technology and Education - is designed to enable learners with the necessary tools to understand the complex interaction of finance, technology and regulation. \n In this course, through a series of video lectures, case studies, and assessments you will explore the major areas of FinTech including, beginning with What is FinTech before turning to Money, Payment and Emerging Technologies, Digital Finance and Alternative Finance, FinTech Regulation and RegTech, Data and Security, and the Future of Data Driven Finance, as well as, the core technologies driving FinTech including Blockchain, AI and Big Data. These will set the stage for understanding the FinTech landscape and ecosystem and grappling with the potential direction of future change.",
+  "learning_goals": [
+    "Customer Data Management",
+    "Emerging Technologies",
+    "Artificial Intelligence",
+    "Swimming Pool Maintenance",
+    "Blockchain",
+    "Financial Technology (FinTech)",
+    "Finance",
+    "Infrastructure",
+    "Big Data"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "douglas-arner",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "janos-barberis",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "huy-nguyen-trieu",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ross-buckley",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "brian-tang",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "henri-arslanian",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of Hong Kong"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1203,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

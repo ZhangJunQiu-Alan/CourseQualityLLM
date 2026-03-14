@@ -1,0 +1,31 @@
+{
+  "course_id": "1002127015",
+  "platform": "mooc_cn",
+  "title": "ASP.NET项目开发",
+  "description": "本课程由多年软件开发和教学经验的教师，立足计算机软件教学实际情况，结合软件行业对ASP.NET程序员的职业要求，在多年实践教学过程中总结提炼而成的，是培养学生基于.NET方向的Web开发能力的课程。通过该课程的学习使学生能够熟练运用.NET技术，完成Web应用程序功能模块设计、编码、调试和单元测试任务，能够胜任Web程序员岗位。课程以学海云端网上书店项目为载体，依据项目开发流程构建学习情景和任务。“如果您想从事WEB开发工作，就跟随着我们一起走入ASP.NET开发之旅吧！”                                                                                                                                                   —— 课程团队",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002127015",
+  "instructors": [
+    {
+      "name": "苏菲;刘小强;来学伟;张映东;侯枫;刘丰年;梁利亭;薛龙;蒋晨琛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "三门峡职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 27470,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

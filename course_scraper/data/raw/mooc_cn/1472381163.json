@@ -1,0 +1,31 @@
+{
+  "course_id": "1472381163",
+  "platform": "mooc_cn",
+  "title": "有机化学（双语）",
+  "description": "《有机化学（双语）》是一门重要的专业基础课，分为理论和实验两部分。它是中外合作办学生物制药专业、食品质量与安全专业必须具备的基础，在已学习《无机化学》的基础上进行教学。它的任务是为学生提供必要的有机化学基本知识、基础理论，掌握有机化学基本实验操作，还需实现从中学到大学学习习惯、方法的改变，调整学习状态，培养自主预习、整理和复习的学习能力，从而为以后学习仪器分析、生物化学、食品化学等课程，以及将来从事相关研究工作奠定良好的化学基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472381163",
+  "instructors": [
+    {
+      "name": "徐春蕾",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京中医药大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 265,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

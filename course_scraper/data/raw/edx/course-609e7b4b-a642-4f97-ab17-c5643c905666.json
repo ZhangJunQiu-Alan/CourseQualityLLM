@@ -1,0 +1,80 @@
+{
+  "course_id": "course-609e7b4b-a642-4f97-ab17-c5643c905666",
+  "platform": "edx",
+  "title": "MalariaX: Defeating Malaria from the Genes to the Globe",
+  "description": "How can we eradicate malaria, a disease that has caused more deaths than the two world wars combined? Can modern data science help us in eliminating this mosquito-borne disease? How do the biology, ecology, and epidemiology of the malaria-causing parasites  Plasmodium falciparum  and  Plasmodium vivax  differ? Explore the scientific and technological underpinnings of malaria, as well as the historical, political, social, and economic contexts in which control, elimination, and eradication efforts unfold. \n Through foundational lectures, case studies, SimState scenarios, and interviews with experts, MalariaX provides learners with a toolbox of knowledge and analytical skills to understand one of the deadliest diseases ever known. By exploring multidisciplinary aspects of malaria, this course demonstrates how understanding social and economic factors is crucial to developing a successful integrated approach to national and local malaria eradication efforts. Learners will be guided through the analysis of real-world data and its effective use in the development of context-specific interventions to achieve sustainable and equitable impact against malaria. \n MalariaX contains new findings, examines recent innovations in prevention and treatment, and explores the knowledge gap for tackling malaria. This course also explores how data is used to model malaria transmission dynamics, evaluate the different strategies used to eliminate this disease, and inform decision-making to achieve a malaria-free world. \n The self-paced nature of the course allows learners to access essential malaria knowledge on their own schedule. Learners with an interest in gaining new technical knowledge, global health expertise, and decision-making skills, including those already working in the field of global health and malaria are suited for this course.",
+  "learning_goals": [
+    "Leadership",
+    "Ecology",
+    "Epidemiology",
+    "Data Science",
+    "Decision Making",
+    "Biology",
+    "Target Audience",
+    "Problem Solving",
+    "Analytical Skills"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "11 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "marcia-castro",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "flaminia-catteruccia",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "michael-r-reich",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "marcel-tanner",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sarah-volkman",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dyann-f-wirth",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "abdisalan-noor",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "melissa-penny",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "manoj-duraisingh",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 430,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

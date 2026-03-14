@@ -1,0 +1,31 @@
+{
+  "course_id": "1002525007",
+  "platform": "mooc_cn",
+  "title": "数字设计FPGA应用",
+  "description": "以目前流行的Xilinx7系列FPGA的开发为主线，全面讲解FPGA的原理及电路设计、VerilogHDL语言及VIVADO，从组合、时序逻辑的开发开始深入到FPGA的基础应用、综合应用和进阶应用。课程目标为培养合格的硬件开发工程师。先有教材后有慕课，同步推出。服务团队为电子科技大学数字逻辑课程组和电子实验中心。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002525007",
+  "instructors": [
+    {
+      "name": "卢有亮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 55215,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

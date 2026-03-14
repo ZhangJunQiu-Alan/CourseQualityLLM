@@ -1,0 +1,31 @@
+{
+  "course_id": "1207130807",
+  "platform": "mooc_cn",
+  "title": "三元合金相图及其应用",
+  "description": "材料是人类文明的基石，高性能材料的研发和应用是社会进步、国家安全的重要支撑。相图是设计合金、分析合金性能、制定处理工艺的基础工具。掌握三元合金相图的原理和分析方法是解决材料学科复杂工程问题的重要能力之一。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207130807",
+  "instructors": [
+    {
+      "name": "王永欣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1478,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

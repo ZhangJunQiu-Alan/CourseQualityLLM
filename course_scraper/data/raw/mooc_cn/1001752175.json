@@ -1,0 +1,31 @@
+{
+  "course_id": "1001752175",
+  "platform": "mooc_cn",
+  "title": "大学计算机信息技术",
+  "description": "本课程定位于面向地方应用型本科院校的学生和对计算机基础知识及基本操作感兴趣的社会学习者。课程内容包含理论和实验两个部分，理论讲解一方面注重计算机基础知识的普及，另一方面以计算思维视角下的信息处理过程为主线，讲解信息的表示、存储、组织、处理到交换等主要过程。实验部分通过场景及任务式的引导，帮助学习者完成工作和生活中的各种实际任务，从而熟练掌握Office2016套装软件中文字处理、电子表格、幻灯片演示文稿的基本操作和高级应用，对于参加全国计算机二级MS Office等级考试很有帮助。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001752175",
+  "instructors": [
+    {
+      "name": "俞扬信;唐朝霞;王留洋;化莉;周蕾;朱好杰",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "淮阴工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24895,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

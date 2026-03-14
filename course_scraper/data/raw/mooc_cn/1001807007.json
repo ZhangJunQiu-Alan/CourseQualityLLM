@@ -1,0 +1,31 @@
+{
+  "course_id": "1001807007",
+  "platform": "mooc_cn",
+  "title": "计量经济学",
+  "description": "计量经济学主要通过数据解读经济和社会生活中的实际现象，发现现象中蕴含的我们已知的或未知的原理和规律。计量经济学建立了理论与现实之间的联系，成为诺贝尔经济学奖得主的首选工具。这是一门兼具知识性、实用性和趣味性的课程。让我们一同感知计量经济学的魅力，分析现实生活中的有趣现象吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001807007",
+  "instructors": [
+    {
+      "name": "陈磊;杨政",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 206665,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

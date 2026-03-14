@@ -1,0 +1,31 @@
+{
+  "course_id": "1463436161",
+  "platform": "mooc_cn",
+  "title": "电机与电气控制技术",
+  "description": "《电机与电气控制技术》是装备制造类相关专业的重要专业核心课程，根据职业教育人才培养目标，以“技能培养和工程应用能力的培养”为出发点，将课程思政、理论与实践、知识与技能有机融合，旨在通过本课程的学习，使学生掌握电机与电气控制技术相关的理论知识和操作技能，具备基本的岗位素养和较好的职业道德，提升学生自主学习和解决工程实践问题的能力，为将来从事电机、电工相关工作奠定基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463436161",
+  "instructors": [
+    {
+      "name": "杨富昭;曾颖峰;范娟;盛维涛;胡蕾;罗光伟;张文君",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川工程职业技术大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8455,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

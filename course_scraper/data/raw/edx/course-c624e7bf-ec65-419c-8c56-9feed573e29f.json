@@ -1,0 +1,52 @@
+{
+  "course_id": "course-c624e7bf-ec65-419c-8c56-9feed573e29f",
+  "platform": "edx",
+  "title": "Essentials of Genomics and Biomedical Informatics",
+  "description": "Three innovations are driving the data revolution in medicine.  \n \n \n Next Generation Sequencing, and in particular, the ability to sequence individual genomes at diminishing costs. \n \n \n Electronic Medical Records, and our ability to mine, using machine learning techniques, huge datasets of medical records. \n \n \n Wearable devices, the Web, social networks and crowdsourcing - exemplifying the surprising capacity to collect medical data using non-conventional resources. \n \n \n In order to take advantage of these technologies and participate in the revolution, physicians need a new toolbox that is generally lacking in the medical school curriculum.  \n This course is a product of a decade of a collaborative effort between researchers from the computational biology program at Bar-Ilan University, and clinicians from Sheba Medical Center to develop and deliver an extended curriculum in genomics and biomedical informatics. The program has been endorsed by the Israeli Medicine Association and Ministry of Health. Here, we present a condensed online course that includes selected topics chosen from the extended program.  \n This GaBI course on edX presents clinicians and digital health enthusiasts with an overview of the data revolution in medicine, and how to take advantage of it for research and in the clinic. In the scope of this single course, you will not become a bioinformatician, but you will be able to familiarize yourself with the main concepts, tools, algorithms, and databases used in this field, and understand the types of problems that these analysis techniques can help address.  \n The syllabus covers the main topics of this discipline in a logical order:  \n ● Methods used to obtain medical data (genotypic and phenotypic)  \n ● Analysis of biological molecules such as DNA, RNA, and proteins using various computational tools from the field of bioinformatics  \n ● Use of machine learning and artificial intelligence tools to mine the huge databases of medical information accumulating in Electronic Medical Records (EMRs), the Web, and numerous data science projects in medicine  \n ● Analysis of complex interaction networks between DNA, RNA and protein molecules to gain a more holistic and systematic view of biological systems and medical conditions  \n ● Practical applications in the clinic and in personalized medicine research, and the use of cutting edge technology to improve health",
+  "learning_goals": [
+    "Biological Systems",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Biology",
+    "Biomedical Informatics",
+    "Data Science",
+    "Bioinformatics",
+    "Electronic Medical Record",
+    "Curriculum Development",
+    "Algorithms",
+    "Computational Biology",
+    "Medical Records",
+    "Computational Tools",
+    "Genomics",
+    "Personalized Medicine",
+    "Ribonucleic Acid Sequencing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "12 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ron-unger",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ronen-tal-botzer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IsraelX"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 667,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1449349162",
+  "platform": "mooc_cn",
+  "title": "经济数学",
+  "description": "MOOC主要包括线性代数中的矩阵、线性方程组；概率论中的随机事件及概率、随机变量及其分布、随机变量的数字特征；及数学实验（Matlab软件在线性代数中的应用）等教学内容，共14教学周60学时。课程内容完整，结构合理，逻辑清晰，资源丰富，内容有梯度，衔接有序，不仅适合学生自主学习，也是适合教师开展“线上线下”混合教学模式。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449349162",
+  "instructors": [
+    {
+      "name": "梅霞;唐孝法;史和娣;曹卫锋;杨天明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏农林职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5239,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

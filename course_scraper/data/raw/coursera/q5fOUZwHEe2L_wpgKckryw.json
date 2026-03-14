@@ -1,0 +1,26 @@
+{
+  "course_id": "q5fOUZwHEe2L_wpgKckryw",
+  "platform": "coursera",
+  "title": "Spacecraft Relative Motion Kinematics and Kinetics",
+  "slug": "spacecraft-relative-motion-kinematics-and-kinetics",
+  "description": "Spacecraft relative motion control has many applications including rendezvous and docking, circumnavigation, on orbit assembly, servicing, etc.  The course Spacecraft Relative Motion Kinematics and Kinetics covers the fundamentals of describing the motion of one spacecraft as seen by another spacecraft.  A range of relative coordinates are investigated.  Further, the course covers developing the differential equations of motion of the relative motion and considers a range of assumptions on separation distances.  Finally, the impact of the J2 perturbation on the relative motion is studied.\n\nAfter this course, you will be able to...\n\n* Describe relative motion using rectilinear or curvilinear Hill frame coordinates, using relative orbit elements, as well as using differential orbit elements.\n* Develop the differential equations of relative motion for both near circular and highly elliptical chief motions\n* Predict the impact of perturbations on the relative motion\n* Understand how to setup relative orbits that remain bounded to the chief.\n\nPlease note: this is an advanced course, best suited for working engineers or students with college-level knowledge in mathematics and physics.\n\nThe material covered is taking from the book  \"Analytical Mechanics of Space Systems\" available at https://arc.aiaa.org/doi/book/10.2514/4.105210.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "Best completed in 8 weeks, with a commitment of between 4 and 8 hours of work per week.",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/spacecraft-relative-motion-kinematics-and-kinetics",
+  "instructors": [
+    {
+      "name": "Hanspeter Schaub",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

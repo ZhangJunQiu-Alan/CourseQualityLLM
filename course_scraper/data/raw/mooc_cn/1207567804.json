@@ -1,0 +1,31 @@
+{
+  "course_id": "1207567804",
+  "platform": "mooc_cn",
+  "title": "风险管理",
+  "description": "课程涵盖了各类风险形态，方法论依托于经济学，但分析问题的逻辑也涉及社会学与心理学。当对风险的环境有了更为深入的了解，每个人也将更有把握面对明天的不确定性。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207567804",
+  "instructors": [
+    {
+      "name": "李晓林;吴越;张逸群;张楠楠;郭丽军;马冰;薛梅;王丽珍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中央财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20774,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

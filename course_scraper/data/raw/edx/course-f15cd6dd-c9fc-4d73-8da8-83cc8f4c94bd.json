@@ -1,0 +1,40 @@
+{
+  "course_id": "course-f15cd6dd-c9fc-4d73-8da8-83cc8f4c94bd",
+  "platform": "edx",
+  "title": "Prompt Engineering for ChatGPT",
+  "description": "In the fast-evolving world of artificial intelligence, understanding how to work with tools like ChatGPT is a game-changer. This 5-week course provides you with a comprehensive toolkit for mastering generative AI through effective prompting strategies. From content creation to decision-making, you'll explore how to leverage AI as your thought partner, helping you tackle complex tasks with confidence. Designed for professionals, entrepreneurs, and learners from all backgrounds, this course is your gateway to becoming proficient in generative AI. \n\n Who Should Enroll:  \nThis course is open to all curious learners who wish to explore the potential of AI language tools and enhance their prompt engineering skills. Whether you're a content creator, a professional seeking to leverage AI, or simply an enthusiast eager to delve into the world of AI, this course is tailor-made for you. \nJoin us in this exciting Prompt Engineering for ChatGPT course to harness the true potential of AI language tools and unlock a world of possibilities through effective prompt engineering! Let's embark on this learning journey together!",
+  "learning_goals": [
+    "Artificial Intelligence",
+    "Communications",
+    "Content Creation",
+    "Innovation",
+    "Curiosity",
+    "Data Analysis",
+    "Workflow Management",
+    "Reference Cards",
+    "Decision Making"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "5 周，每周 1-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "sarah-cornett",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Davidson College"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1284,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

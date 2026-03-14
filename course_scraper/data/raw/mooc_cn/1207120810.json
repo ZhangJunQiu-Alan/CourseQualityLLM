@@ -1,0 +1,31 @@
+{
+  "course_id": "1207120810",
+  "platform": "mooc_cn",
+  "title": "氢能与燃料电池",
+  "description": "",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207120810",
+  "instructors": [
+    {
+      "name": "王倩;王刚;吴朝玲",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "四川大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20990,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

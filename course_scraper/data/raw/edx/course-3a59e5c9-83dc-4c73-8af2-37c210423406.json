@@ -1,0 +1,35 @@
+{
+  "course_id": "course-3a59e5c9-83dc-4c73-8af2-37c210423406",
+  "platform": "edx",
+  "title": "Excel for Everyone: Data Management.",
+  "description": "This intermediate Excel course builds on the teachings of the introductory  Core Foundations  course, teaching you to leverage the power of data calculations and reports to make informed personal or organizational decisions.  \n The course is designed for learners who already have foundational knowledge and skills in Excel but wish to take advantage of some of the higher-level functionality to more effectively analyze and present data. From error prevention to forecasting andautomation, you’ll build an advanced layer of knowledge to manage larger datasets and continue developing your aptitude for data modeling.",
+  "learning_goals": [
+    "Management",
+    "Forecasting",
+    "Data Wrangling",
+    "Data Management"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "ricardo-rosado-trujeque",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of British Columbia"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1088,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

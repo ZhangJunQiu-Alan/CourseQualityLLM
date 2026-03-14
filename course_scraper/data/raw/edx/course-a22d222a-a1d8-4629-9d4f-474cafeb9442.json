@@ -1,0 +1,58 @@
+{
+  "course_id": "course-a22d222a-a1d8-4629-9d4f-474cafeb9442",
+  "platform": "edx",
+  "title": "Algorithmic Design and Techniques",
+  "description": "In this course, part of the Algorithms and Data Structures MicroMasters program, you will learn basic algorithmic techniques and ideas for computational problems, which arise in practical applications such as sorting and searching, divide and conquer, greedy algorithms and dynamic programming. \n This course will cover theories, including: \n \n how to sort data and how it helps for searching; \n how to break a large problem into pieces and solve them recursively; \n when it makes sense to proceed greedily; \n how dynamic programming is used in genomic studies. \n \n You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).",
+  "learning_goals": [
+    "Dynamic Programming",
+    "Algorithms",
+    "Divide And Conquer",
+    "Data Structures",
+    "Greedy Algorithm",
+    "Sorting",
+    "Algorithm Design"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 8-10 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "pavel-pevzner",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "daniel-kane",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "alexander-s-kulikov",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "michael-levin",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "neil-rhodes",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The University of California, San Diego"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 507,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

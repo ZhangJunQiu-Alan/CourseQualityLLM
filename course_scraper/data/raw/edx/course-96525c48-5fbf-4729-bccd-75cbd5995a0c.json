@@ -1,0 +1,41 @@
+{
+  "course_id": "course-96525c48-5fbf-4729-bccd-75cbd5995a0c",
+  "platform": "edx",
+  "title": "Git for Distributed Software Development",
+  "description": "As the Linux kernel has thousands of developers spread worldwide, working on many different time zones and on various complex projects, it became imperative to coordinate and keep track of all that work in a rational way. Git was designed for that purpose, and it has since grown to be used by literally millions of other development projects; it is the underpinning of most open source software work that is being done today. \n This course is designed for computer users who have limited or no experience working in a collaborative development environment; and/or for those who already have done some work on Linux and other open source projects and are looking to gain a good grasp of how to use Git. \n In this course, you will learn what Git is and how to install it. You will see how to initialize a repository, make changes in it, make it available to others, and acquire and use the changes made by other individuals. The course will teach you how to find errors in your and others' work, and how to go back to a working copy to quickly identify the change that produced the error. You will also become familiar with some essential Git procedures, such as cloning, branching, making commits, getting diffs, doing merges, and rebasing. The course will touch on complicated workflows so you understand how to approach them when problems arise. \n The purpose of this course is to get you up and running so you will be able to contribute and use Git in a relatively short amount of time. Upon course completion you should be able to understand what tools are needed to successfully handle many complex issues and workflows that arise during the collaborative development process.",
+  "learning_goals": [
+    "Open-Source Software",
+    "Git (Version Control System)",
+    "Open Source Technology",
+    "Version Control",
+    "Disk Cloning",
+    "Development Environment",
+    "Linux",
+    "Software Development",
+    "Workflow Management",
+    "Linux Kernel"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "14 周，每周 1-2 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jerry-cooperstein-phd",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Linux Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 490,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

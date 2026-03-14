@@ -1,0 +1,31 @@
+{
+  "course_id": "1206675854",
+  "platform": "mooc_cn",
+  "title": "仪器分析",
+  "description": "主要内容：光分析、电分析、色谱质谱分析、材料表征 等常用分析仪器的基本原理、结构、特点与典型应用，实用性强、应用面广，对化学、生物、医药、食品、环境、材料及相关专业本科生就业或攻读研究生均有重要作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206675854",
+  "instructors": [
+    {
+      "name": "陈浩",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 18608,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

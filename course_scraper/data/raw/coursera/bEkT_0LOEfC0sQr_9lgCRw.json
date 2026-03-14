@@ -1,0 +1,26 @@
+{
+  "course_id": "bEkT_0LOEfC0sQr_9lgCRw",
+  "platform": "coursera",
+  "title": "Managing Hybrid Storage, File Services and Network",
+  "slug": "packt-managing-hybrid-storage-file-services-and-network-9jlk4",
+  "description": "This course features Coursera Coach! \n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nThis course focuses on managing hybrid network infrastructure and storage services in a hybrid environment. You will learn to integrate DNS with Active Directory Domain Services (AD DS), configure DNS zones and records, and manage DNSSEC and forwarding. The course also covers implementing DHCP, IP Address Management (IPAM), and remote access roles, including site-to-site VPNs and the Network Policy Server. You will explore managing Azure network solutions, such as Azure Virtual WAN, Azure AD Application Proxy, and Azure Relay.\n\nAdditionally, the course delves into managing hybrid storage with Azure File Sync, configuring cloud endpoints, and monitoring file sync. It also includes migrating DFS to Azure File Sync, configuring Windows Server File Share Access, and implementing Distributed File Systems (DFS). You will learn to manage storage with tools like Storage Spaces, Storage Replica, Data Deduplication, SMB Direct, and Storage QoS, as well as configure file systems and manage branch caching.\n\nThis course is ideal for IT professionals managing hybrid infrastructures and storage environments, particularly those working with Azure and Windows Server technologies. Basic knowledge of networking and storage management will be beneficial.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-managing-hybrid-storage-file-services-and-network-9jlk4",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,26 @@
+{
+  "course_id": "zuljYo9QEeySRg4Nwg3igw",
+  "platform": "coursera",
+  "title": "데이터 기반 의사결정을 위한 질문",
+  "slug": "ask-questions-make-decisions-korean",
+  "description": "Google 데이터 애널리틱스 수료증 과정의 두 번째 강좌입니다. 본 강좌에서는 데이터 애널리스트 직무에 필요한 입문 수준의 스킬을 배우게 됩니다. Google 데이터 애널리틱스 수료증 과정의 첫 번째 강좌에서 배운 주제에 대한 이해를 넓힙니다. 이 자료는 이해관계자의 요구사항에 따른 데이터 기반 의사결정을 내리기 위해 효과적으로 질문하는 방법을 배우는 데 도움이 됩니다. 현직 Google 데이터 애널리스트가 최고의 도구와 리소스를 사용하여 일반적인 데이터 분석 작업을 완료하는 실습을 제공하고 지도합니다.\n\n이 수료증 과정을 완료한 수강생은 데이터 애널리스트로서 입문 수준의 직무에 지원할 역량을 갖추게 됩니다. 관련 경험은 필요하지 않습니다.\n\n본 강좌의 목표는 다음과 같습니다.\n- 분석 방향을 정하는 데 도움이 되는 효과적인 질문 기법을 학습합니다. \n- 데이터 기반 의사결정이 무엇인지와 데이터 애널리스트가 발견한 정보를 제시하는 방식을 이해합니다.\n- 질문 방식 및 의사결정의 이해에 도움이 되는 다양한 실제 비즈니스 시나리오를 살펴봅니다.\n- 스프레드시트가 데이터 애널리스트에게 중요한 도구인 이유와 사용 방식을 알아봅니다.\n- 구조적 사고와 관련된 핵심 개념 및 이러한 아이디어가 애널리스트의 문제 파악과 해결책 개발에 어떤 도움이 되는지 살펴봅니다.\n- 비즈니스 목표를 달성하기 위해 데이터 애널리틱스팀과의 명확한 의사소통 방식을 구축하는 전략과 이해관계자의 기대치를 관리하기 위한 전략을 학습합니다.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "ko",
+  "url": "https://www.coursera.org/learn/ask-questions-make-decisions-korean",
+  "instructors": [
+    {
+      "name": "Google Career Certificates",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,33 @@
+{
+  "course_id": "course-fcd082c5-7eb6-4b35-909f-20b5ac723d06",
+  "platform": "edx",
+  "title": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+  "description": "Cloud Computing is revolutionizing today’s world. It affects the way we communicate, do business, interact with everyday things and one another. This course discusses the fundamental theoretical and practical applications of Cloud Computing. It provides the basic concepts to understand why cloud computing is and will be such an important part of future jobs and businesses. It focuses on Google Cloud’s extended solutions and compute options.",
+  "learning_goals": [
+    "Cloud Computing",
+    "Google Cloud"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "1 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "google-cloud",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 920,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

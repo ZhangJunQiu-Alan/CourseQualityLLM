@@ -1,0 +1,31 @@
+{
+  "course_id": "1206304809",
+  "platform": "mooc_cn",
+  "title": "运营管理",
+  "description": "揭开企业运营的黑箱，破解组织运作的奥秘。用最真实的企业运营案例；最前沿的运营知识体系；最优秀的授课教师团队，讲授每一位管理者都必须掌握的运作理论和方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206304809",
+  "instructors": [
+    {
+      "name": "贾晓菁;晏妮娜;高咏玲;卢继周",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中央财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 45134,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

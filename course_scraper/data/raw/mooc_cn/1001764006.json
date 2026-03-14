@@ -1,0 +1,31 @@
+{
+  "course_id": "1001764006",
+  "platform": "mooc_cn",
+  "title": "偏微分方程",
+  "description": "你顶天，吸引天才Nash！你立地，吸引诺奖Scholes！你是纯粹数学的皇冠，你是应用数学的宠臣， 你是华尔街的半壁江山，你撑起人类的航空航天， 你叫偏微分方程(简称PDE)！从音乐审美到揭秘玛雅预言，从琴弦振动到股市波动，处处展现你无穷的威力，学好PDE，工作由你定！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001764006",
+  "instructors": [
+    {
+      "name": "谭忠",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "厦门大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 62841,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

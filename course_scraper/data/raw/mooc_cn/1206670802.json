@@ -1,0 +1,31 @@
+{
+  "course_id": "1206670802",
+  "platform": "mooc_cn",
+  "title": "材料力学",
+  "description": "为什么说“力学是工程的先导”？为什么马克思认为“力学是大工业真正科学的基础”？一切的原因都开始于这门力学的基础入门课程——《材料力学》。这门课里，和赵沛老师一起，去探索材料和结构中力学的奥秘吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206670802",
+  "instructors": [
+    {
+      "name": "赵沛",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11950,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

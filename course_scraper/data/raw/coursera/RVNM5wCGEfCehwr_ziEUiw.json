@@ -1,0 +1,26 @@
+{
+  "course_id": "RVNM5wCGEfCehwr_ziEUiw",
+  "platform": "coursera",
+  "title": "Cybersecurity Foundations & Threat Mitigation",
+  "slug": "packt-cybersecurity-foundations-threat-mitigation-abiab",
+  "description": "Updated in May 2025.\n\nThis course now features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this comprehensive course, learners will gain a solid foundation in cybersecurity and threat mitigation, with a focus on practical strategies and tools used to protect organizations against various security threats. You’ll explore key concepts, techniques, and models essential for securing systems and responding effectively to potential vulnerabilities and attacks. The course is designed to equip you with the knowledge necessary to handle security challenges in today’s fast-evolving digital landscape.\n\nThe journey begins with an overview of general security concepts, such as understanding security control categories and types, authentication mechanisms, and authorization models. You’ll learn how to manage access controls and the significance of multifactor authentication (MFA) and Zero Trust principles. As you progress, the course covers advanced topics like encryption solutions, digital certificates, and cryptography, offering insights into how these technologies are used to enhance system security.\n\nThe next phase focuses on understanding threats, vulnerabilities, and methods of mitigation. You’ll examine various types of threat actors, including hackers and social engineers, and explore real-world attack vectors. Through detailed case studies, you will identify how to address network-based threats, removable media attacks, supply chain vulnerabilities, and software flaws. You’ll also delve into emerging risks like cloud vulnerabilities and zero-day attacks. The course concludes with practical mitigation techniques to help you defend against and recover from cyberattacks.\n\nThis course is ideal for cybersecurity enthusiasts, professionals, and anyone looking to build a career in securing digital infrastructures. It’s perfect for those starting their journey in cybersecurity, as well as individuals looking to expand their knowledge of advanced threat mitigation techniques. A basic understanding of IT systems is recommended, but no prior cybersecurity experience is required. The course is designed for beginner to intermediate learners.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-cybersecurity-foundations-threat-mitigation-abiab",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

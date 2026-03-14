@@ -1,0 +1,26 @@
+{
+  "course_id": "8K5xwWXxEeukqwqbfuJnYQ",
+  "platform": "coursera",
+  "title": "Big Data Analysis Deep Dive",
+  "slug": "big-data-analysis-deep-dive",
+  "description": "The job market for architects, engineers, and analytics professionals with Big Data expertise continues to increase. The Academy’s Big Data Career path focuses on the fundamental tools and techniques needed to pursue a career in Big Data. \n\nThis course includes: data processing with python, writing and reading SQL queries, transmitting data with MaxCompute, analyzing data with Quick BI, using Hive, Hadoop, and spark on E-MapReduce, and how to visualize data with data dashboards. \n\nWork through our course material, learn different aspects of the Big Data field, and get certified as a Big Data Professional!",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "6 weeks of study, 5 hours a week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/big-data-analysis-deep-dive",
+  "instructors": [
+    {
+      "name": "Jeremy Pedersen",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Alibaba Cloud Academy"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

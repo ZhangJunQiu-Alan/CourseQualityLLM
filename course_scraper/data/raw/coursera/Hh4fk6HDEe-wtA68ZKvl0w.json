@@ -1,0 +1,26 @@
+{
+  "course_id": "Hh4fk6HDEe-wtA68ZKvl0w",
+  "platform": "coursera",
+  "title": "Boost Productivity with Gemini in BigQuery - Indonesian",
+  "slug": "boost-productivity-with-gemini-in-bigquery-id",
+  "description": "Kursus ini mengeksplorasi Gemini in BigQuery, yakni paket fitur yang didukung AI untuk membantu alur kerja data ke AI. Paket fitur ini meliputi eksplorasi dan persiapan data, pembuatan kode dan pemecahan masalah, serta penemuan dan visualisasi alur kerja. Melalui penjelasan konseptual, kasus penggunaan praktis, dan lab interaktif, kursus ini akan membantu para praktisi data dalam meningkatkan produktivitas mereka dan mempercepat pipeline pengembangan.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "id",
+  "url": "https://www.coursera.org/learn/boost-productivity-with-gemini-in-bigquery-id",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

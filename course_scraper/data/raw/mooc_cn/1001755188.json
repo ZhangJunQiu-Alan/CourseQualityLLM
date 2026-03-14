@@ -1,0 +1,31 @@
+{
+  "course_id": "1001755188",
+  "platform": "mooc_cn",
+  "title": "流体流动与传热",
+  "description": "《流体流动与传热》（化工原理上）课程获批国家一流课程，课程负责人马江权教授为国家“万人计划”教学名师、中国石油和化工行业教学名师、国家注册化工工程师。课程以动量和热量传递为主线，讲授化工原理上册：流体流动及输送、沉降、过滤、搅拌、传热、蒸发等化工单元操作。要求理解与掌握基本原理、过程速率、强化措施、设计计算和单元设备，分析与解决传热和动量传递方面的工程实际问题。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001755188",
+  "instructors": [
+    {
+      "name": "马江权;陈乐;王岚;徐荣;韶晖;王亚男;张琪;王俊;李楠;桂豪冠;叶菁睿;刘平;左士祥;孙雪妮",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "常州大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11633,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

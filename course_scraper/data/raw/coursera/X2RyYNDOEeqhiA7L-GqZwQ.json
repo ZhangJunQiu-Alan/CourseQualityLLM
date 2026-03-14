@@ -1,0 +1,26 @@
+{
+  "course_id": "X2RyYNDOEeqhiA7L-GqZwQ",
+  "platform": "coursera",
+  "title": "Laboratório de Programação Orientada a Objetos - Parte 1",
+  "slug": "lab-poo-parte-1",
+  "description": "Estamos muito felizes de lançar agora este curso que apresenta os conceitos mais importantes em torno do paradigma de desenvolvimento mais comum da indústria de software hoje: a Programação Orientação a Objetos (POO).\n\nOferecido pelo Departamento de Ciência da Computação do Instituto de Matemática e Estatística da USP, o curso é voltado para quem já conhece os conceitos básicos de POO e quer se aprofundar no assunto, tornando-se um excelente programador. Ele funciona bem como uma sequência natural aos 2 cursos anteriores do Prof. Fabio Kon do IME-USP no coursera: Introdução à Ciência da Computação com Python. Se você ainda não sabe programar, deve começar por este outro curso: https://www.coursera.org/learn/ciencia-computacao-python-conceitos\n\nMas, se você já sabe programar em outra linguagem confortavelmente, pode vir direto para este curso sem grandes dificuldades. A maior parte dos exemplos de código serão em Java e Python e apresentamos uma pequena visão geral dessas linguagens no início do curso.\n\nO curso é dividido em duas partes de aproximadamente 6 semanas cada. Nesta Parte 1, os tópicos cobertos são:\n\n(1) Recapitulação dos conceitos básicos de POO\n\n(2) UML (Linguagem Unificada de Modelagem OO)\n\n(3) Linguagens interpretadas vs. compiladas\n\n(4) Orientação a Objetos em Java e em Python\n\n(5) Qualidade de Código e Boas Práticas de Programação OO\n\n(6) Bugs, depuração e testes\n\n(7) Linguagens dinâmicas vs. estáticas\n\n(8) Classes abstratas e interfaces\n\n(9) Coleções de Objetos\n\n(10) Polimorfismo\n\n(11) Tratamento de Exceções\n\n(12) Streams (Fluxos de dados)\n\n(13) Padrões de Projeto (Design Patterns) - Estratégia, Adaptador, Singleton, Método Fábrica, Fábrica Abstrata, Protótipo, Estado\n\n(14) Model-View-Controller (MVC)\n\nMatricule-se! \n\nEstamos esperando por você! Se tiver alguma dúvida, escreva no fórum!\n\nFabio Kon e equipe do IME-USP",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "6 semanas / 3h por semana",
+  "language": "pt-BR",
+  "url": "https://www.coursera.org/learn/lab-poo-parte-1",
+  "instructors": [
+    {
+      "name": "Fabio Kon",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universidade de São Paulo"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

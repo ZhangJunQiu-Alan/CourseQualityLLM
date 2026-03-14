@@ -1,0 +1,31 @@
+{
+  "course_id": "1206693816",
+  "platform": "mooc_cn",
+  "title": "理论力学",
+  "description": "《理论力学》为江苏省在线开放课程，也是江苏师范大学“十三五”第一批本科教育教学研究微课建设专项资助课程。本课程主要讲授受力静力平衡理论、研究物体运动几何规律（如轨迹、速度、加速度等），通过本课程的学习，使学生能够掌握解决机械工程问题所必需的力学基础知识，培养学生运用力学基础知识对机械工程问题进行分析求解的能力，培养学生运用力学基础知识对机械工程问题进行分析识别和力学描述的能力，培养学生运用力学工具对机械工程复杂问题的力学解决方案的进行表达的能力，为以后结合其它专门知识共同解决机械工程复杂问题奠定扎实基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206693816",
+  "instructors": [
+    {
+      "name": "王繁生",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 2774,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

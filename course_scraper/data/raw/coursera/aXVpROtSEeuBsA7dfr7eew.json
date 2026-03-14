@@ -1,0 +1,26 @@
+{
+  "course_id": "aXVpROtSEeuBsA7dfr7eew",
+  "platform": "coursera",
+  "title": "Write basic ansible playbooks",
+  "slug": "write-basic-ansible-playbooks",
+  "description": "In this 1-hour long project-based course, you will learn how to setup an inventory of hosts which, for our case here, will only contain one hosts, which is the local host. You will learn how to run Ansible ad-hoc commands. Then you will learn what an Ansible playbook looks like, and how to write a playbook to perform basic operations. You will write playbooks to run file tasks and to setup software.\n\n\nNote: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "2 hours",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/write-basic-ansible-playbooks",
+  "instructors": [
+    {
+      "name": "Sherif A. Tawfik Abbas",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

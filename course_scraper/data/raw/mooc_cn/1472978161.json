@@ -1,0 +1,31 @@
+{
+  "course_id": "1472978161",
+  "platform": "mooc_cn",
+  "title": "化工原理A1",
+  "description": "化工原理课程作为化学工程学科最重要的核心课程之一，是从基础理论课程过渡到工程专业课程的桥梁。课程以三种传递原理为主线，以物料衡算、能量衡算、平衡关系、传递速率等基本概念为理论依据，系统介绍典型单元操作设备的设计、操作及选型的计算，并进行基本实验技能和设计能力的训练。通过本课程的学习，建立工程概念，并初步具备综合运用理论和技术手段设计化工单元操作设备的能力、解决实际化工领域与单元操作相关的工程问题的能力，了解化工单元操作前沿发展现状和趋势。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472978161",
+  "instructors": [
+    {
+      "name": "王许云;屈树国;王晓红;王英龙;单玉领",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "青岛科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 72,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

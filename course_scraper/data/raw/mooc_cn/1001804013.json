@@ -1,0 +1,31 @@
+{
+  "course_id": "1001804013",
+  "platform": "mooc_cn",
+  "title": "经济学原理",
+  "description": "经济学是研究稀缺资源的配置与利用，在有限资源的各种可供利用组合中如何进行最优化选择的科学。课程包括微观经济学与宏观经济学两个部分。微观经济学以价格理论为中心，研究企业、家庭和市场等微观供求行为与价格之间的关系。宏观经济学以收入理论为中心，研究一个国家整体经济运行以及政府如何运用经济政策来影响经济。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001804013",
+  "instructors": [
+    {
+      "name": "李谷成",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 188366,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

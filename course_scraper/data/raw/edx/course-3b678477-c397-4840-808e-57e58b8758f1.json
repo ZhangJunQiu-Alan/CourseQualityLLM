@@ -1,0 +1,55 @@
+{
+  "course_id": "course-3b678477-c397-4840-808e-57e58b8758f1",
+  "platform": "edx",
+  "title": "Statistical Inference and Modeling for High-throughput Experiments",
+  "description": "In this course you’ll learn various statistics topics including multiple testing problem, error rates, error rate controlling procedures, false discovery rates, q-values and exploratory data analysis. We then introduce statistical modeling and how it is applied to high-throughput data. In particular, we will discuss parametric distributions, including binomial, exponential, and gamma, and describe maximum likelihood estimation. We provide several examples of how these concepts are applied in next generation sequencing and microarray data. Finally, we will discuss hierarchical models and empirical bayes along with some examples of how these are used in practice. We provide R programming examples in a way that will help make the connection between concepts and implementation. \n Given the diversity in educational background of our students we have divided the series into seven parts. You can take the entire series or individual courses that interest you. If you are a statistician you should consider skipping the first two or three courses, similarly, if you are biologists you should consider skipping some of the introductory biology lectures. Note that the statistics and programming aspects of the class ramp up in difficulty relatively quickly across the first three courses. By the third course will be teaching advanced statistical concepts such as hierarchical models and by the fourth advanced software engineering skills, such as parallel computing and reproducible research concepts. \n These courses make up two Professional Certificates and are self-paced: \n  Data Analysis for Life Sciences:  \n \n  PH525.1x: Statistics and R for the Life Sciences  \n  PH525.2x: Introduction to Linear Models and Matrix Algebra  \n  PH525.3x: Statistical Inference and Modeling for High-throughput Experiments  \n  PH525.4x: High-Dimensional Data Analysis  \n \n  Genomics Data Analysis:  \n \n  PH525.5x: Introduction to Bioconductor  \n  PH525.6x: Case Studies in Functional Genomics  \n  PH525.7x: Advanced Bioconductor  \n \n This class was supported in part by NIH grant R25GM114818.",
+  "learning_goals": [
+    "Bayesian Statistics",
+    "Statistical Inference",
+    "Software Engineering",
+    "DNA Sequencing",
+    "Life Sciences",
+    "Statistical Modeling",
+    "Next-Generation Sequencing",
+    "Exploratory Data Analysis",
+    "Maximum Likelihood",
+    "Functional Genomics",
+    "Data Warehousing",
+    "Data Analysis",
+    "R (Programming Language)",
+    "Bioconductor (Bioinformatics Software)",
+    "Linear Model",
+    "Research",
+    "Biology",
+    "Statistics",
+    "Matrix Algebra"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "4 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "rafael-irizarry",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "michael-love",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 621,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

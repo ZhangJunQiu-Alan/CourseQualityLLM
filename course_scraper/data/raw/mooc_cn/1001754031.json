@@ -1,0 +1,31 @@
+{
+  "course_id": "1001754031",
+  "platform": "mooc_cn",
+  "title": "生物统计学",
+  "description": "《生物统计学》讲授农业和生命科学中数据采集、试验设计和统计方法的科学。南京农业大学及其前身金陵大学开设该课程已有近百年历史。课程使用盖钧镒院士主编的优秀教材《试验统计方法》。本课程由盖钧镒牵头，于2007 年建设成为了国家级精品课程（生物统计与田间试验）。本课程曾获国家级成果奖励。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001754031",
+  "instructors": [
+    {
+      "name": "管荣展;丁先龙;贺建波;邢光南;何小红;赵团结;赵晋铭;杨守萍;冯建英;李凯;张焦平;盖钧镒;王吴彬;李艳;楚璞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京农业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 73056,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

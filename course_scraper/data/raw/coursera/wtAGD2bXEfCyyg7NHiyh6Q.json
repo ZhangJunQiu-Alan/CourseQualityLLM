@@ -1,0 +1,26 @@
+{
+  "course_id": "wtAGD2bXEfCyyg7NHiyh6Q",
+  "platform": "coursera",
+  "title": "Advanced Power Platform: Connectors, Components & Automation",
+  "slug": "advanced-power-platform-connectors-components-automation",
+  "description": "Take your Power Platform development skills to the next level with this advanced, hands-on course. Build enterprise-ready canvas and model-driven apps, design powerful workflows using Power Automate, and create secure, scalable business solutions with Microsoft Dataverse and custom APIs.\n\nYou’ll begin by exploring advanced Power Apps features—working with Power Fx, variables, multi-screen navigation, and connecting to data sources like Dataverse, SharePoint, and Excel. You'll also build both canvas and model-driven apps, implement business rules, and manage app security using roles and field-level access.\n\nNext, you’ll automate business processes using Power Automate. Design dynamic workflows with conditions, expressions, error handling, and performance optimization. Real-world scenarios include approval flows, email triggers, notifications, and integrations with SharePoint and Outlook.\n\nIn the final module, you'll apply custom business logic using Power Fx, JavaScript, and plug-ins. Build client scripts, register them in model-driven forms, and write secure plug-ins and APIs in C#.\n\nBy the end of this course, you will be able to:\n\n- Develop advanced apps using Power Apps and Dataverse\n\n- Automate processes using Power Automate with real-world connectors\n\n- Implement secure business logic with Power Fx, JavaScript, and plug-ins\n\n- Build scalable and production-ready components with best practices\n\n\nDisclaimer: This course is an independent educational resource developed by Board Infinity and is not affiliated with, endorsed by, sponsored by, or officially associated with Microsoft corporation or any of its subsidiaries or affiliates. This course is not an official preparation material of Microsoft corporation. All trademarks, service marks, and company names mentioned are the property of their respective owners and are used for identification purposes only.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "3 weeks of study, 4–6 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/advanced-power-platform-connectors-components-automation",
+  "instructors": [
+    {
+      "name": "Board Infinity",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Board Infinity "
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

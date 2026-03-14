@@ -1,0 +1,31 @@
+{
+  "course_id": "1001513011",
+  "platform": "mooc_cn",
+  "title": "机械原理学习指导与习题解析",
+  "description": "本课程是中国大学MOOC“机械原理”的配套课程，是“机械原理”课程的有益补充和拓展。    课程精选了各章的典型习题，通过分析与详细讲解，完成各题的解答，使学习者掌握解题方法和技巧的同时，加深对“机械原理”课程内容的理解和掌握。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001513011",
+  "instructors": [
+    {
+      "name": "郭卫东",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 32706,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

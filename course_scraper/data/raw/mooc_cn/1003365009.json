@@ -1,0 +1,31 @@
+{
+  "course_id": "1003365009",
+  "platform": "mooc_cn",
+  "title": "工程力学",
+  "description": "《工程力学》为江苏省首批线上线下混合课程，江苏省一流本科课程，江苏省省级在线开放课程，东南大学校级思政课程。由东南大学土木工程学院7位教师主讲，每位教师都有专门讲解这门课程十几年的教学经验。授课团队为国家级精品视频公开课《力学的奥秘》，国家级线上一流课程《材料力学》以及国家级线上线下混合一流课程《材料力学》主讲教师。主讲教师获得宝钢优秀教师奖、江苏省青蓝工程青年骨干教师、东南大学“吾爱吾师”我最喜爱的教师等荣誉称号。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003365009",
+  "instructors": [
+    {
+      "name": "王莹;乔玲;糜长稳;洪俊;顾成军;姜益军;姚一鸣",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15208,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

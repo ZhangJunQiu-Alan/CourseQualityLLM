@@ -1,0 +1,31 @@
+{
+  "course_id": "1003538129",
+  "platform": "mooc_cn",
+  "title": "计算机网络与通信技术",
+  "description": "本课程以谢希仁老师的《计算机网络》为教材，采用随堂录制和录音棚录制两种方式满足同学们学习的不同习惯，本次开课加入了三个可以线上完成的重要实验。通过本门课程的学习，系统地建立计算机网络通信的理论体系，掌握计算机网络的体系结构及数据通信的基本原理，能够熟练进行基本网络操作，并经进一步学习能将所学知识应用于其他工业控制网络。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003538129",
+  "instructors": [
+    {
+      "name": "刘彪;聂晓波;黄彧;王保华",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 48980,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

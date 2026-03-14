@@ -1,0 +1,26 @@
+{
+  "course_id": "CRvuweyLEfCUMhKfqBifxQ",
+  "platform": "coursera",
+  "title": "Build REST APIs with Go and MongoDB",
+  "slug": "build-rest-apis-with-go-and-mongodb",
+  "description": "By the end of this course, learners will be able to design, build, and test a complete REST API using Go and MongoDB. They will configure a professional backend development environment, deploy MongoDB using Docker, model application data with Go structs and JSON mapping, and implement database connectivity using a MongoDB client. Learners will also create REST API endpoints, perform database operations, and retrieve data using identifiers while validating functionality through Postman.\n\nThis course benefits learners who want hands-on experience building real-world backend applications rather than working through isolated examples. By completing a full project workflow, learners gain practical skills that directly translate to backend development roles, including API design, database integration, and debugging API responses.\n\nWhat makes this course unique is its project-driven approach, guiding learners step by step through the complete lifecycle of a backend REST API. Instead of focusing on theory alone, the course emphasizes real implementation, tool usage, and industry-relevant workflows, helping learners build confidence in developing production-style Go and MongoDB applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/build-rest-apis-with-go-and-mongodb",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

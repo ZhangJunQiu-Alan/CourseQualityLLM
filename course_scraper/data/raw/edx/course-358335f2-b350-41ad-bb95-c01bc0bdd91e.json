@@ -1,0 +1,64 @@
+{
+  "course_id": "course-358335f2-b350-41ad-bb95-c01bc0bdd91e",
+  "platform": "edx",
+  "title": "Unmanned Aerial Systems (UAS): Fundamentals",
+  "description": "The use of Unmanned Aerial Systems (UAS) or Unmanned Aerial Vehicles (UAV) has taken off in recent decades and are used for research, industrial, surveying, emergency response, risk management, real estate, and commercial purposes. They combine sophisticated flying platforms such as fixed-winged planes and copters with payloads of sensors that range from optical cameras to air quality sensors. New jobs dependent on UAS are burgeoning across a wide array of industries in addition to aerospace. \n In this free, self-paced online course, you examine the types of platforms available to most consumers and industry users and will understand the principles and characteristics of how they fly. \n The course comprises three modules, each lasting one week. The course kicks off with the basics of UAS including the history of the technology, principles of flight, and introduce the terminology used. \n Next, you will learn about the components that are needed for the platform to function, such as the structure, electronics, propulsion, controls, navigation, and sensors. \n The third section will examine the wide variety of sensors commonly integrated into an UAS and how they are used for a variety of applications. These include optical cameras, LiDAR, thermal, as well as less commonly used sensors like radar and air quality sensors. You will have an opportunity to build your own UAS through interactive activities. Finally, coursework focuses on what combination of platform and sensor(s) will work the best for your particular needs. \n Ungraded knowledge tests and quizzes throughout the course and a hands-on UAS design activity provide the opportunity to apply the concepts in the course to your interests and context within a real-world scenario. \n This course prepares you for a career beyond just a drone pilot and provides a fundamental understanding of the technology to allow your career to soar. Sign up today and gain new skills at your own pace!",
+  "learning_goals": [
+    "Light Detection And Ranging (LiDAR)",
+    "Research",
+    "Real Estate",
+    "Unmanned Aerial Systems (UAS)",
+    "Electronics",
+    "Risk Management",
+    "Radar",
+    "Physics",
+    "Unmanned Aerial Vehicle",
+    "Surveying",
+    "Drone Pilot Certificate",
+    "Optics",
+    "Emergency Response"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "4 周，每周 4-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "matthew-balazs",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "brian-holst",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "andrew-wentworth",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mike-willis",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mike-hatfield",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Alaska Fairbanks"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 550,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,24 @@
+{
+  "course_id": "course-7191278f-17f7-410d-9b4d-e705ad15d40e",
+  "platform": "edx",
+  "title": "Build Generative AI Agents with Vertex AI and Flutter",
+  "description": "In this course, you learn how to develop an app using Flutter, Google's portable UI toolkit, and integrate the app with Gemini, Google's family of generative AI models. You also use Vertex AI Agent Builder, Google's platform for building and managing AI Agents and applications.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 3-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 303,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

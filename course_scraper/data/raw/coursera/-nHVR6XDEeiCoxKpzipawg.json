@@ -1,0 +1,31 @@
+{
+  "course_id": "-nHVR6XDEeiCoxKpzipawg",
+  "platform": "coursera",
+  "title": "Hardware Description Languages for FPGA Design",
+  "slug": "fpga-hardware-description-languages",
+  "description": "This course can also be taken for academic credit as ECEA 5361, part of CU Boulder’s Master of Science in Electrical Engineering degree.\n\nHardware Description Languages for Logic Design enables students to design circuits using VHDL and Verilog, the most widespread design methods for FPGA Design.   It uses natural learning processes to make learning the languages easy.  Simple first examples are presented, then language rules and syntax, followed by more complex examples, and then finally use of test bench simulations to verify correctness of the designs.  Lecture presentations are reinforced by many programming example problems so that skill in the languages is obtained.  After completing this course, each student will have fundamental proficiency in both languages, and more importantly enough knowledge to continue learning and gaining expertise in Verilog and VHDL on their own.\n\nThis course includes specific hardware and software requirements. Please review the FAQ below for complete details.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "4 weeks of study, 8-12 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/fpga-hardware-description-languages",
+  "instructors": [
+    {
+      "name": "Timothy Scherr",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Benjamin Spriggs",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of Colorado Boulder"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

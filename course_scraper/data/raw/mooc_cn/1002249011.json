@@ -1,0 +1,31 @@
+{
+  "course_id": "1002249011",
+  "platform": "mooc_cn",
+  "title": "计算机组成原理",
+  "description": "你想知道计算机为什么能进行“计算”吗？你想知道计算机为什么能听你的“指令”完成那么复杂的工作吗？你想自己设计一个CPU吗？来吧！走进——“计算机组成原理”！     “计算机组成原理”课程是一门重要的计算机技术基础课。学习本课程可以使学生掌握计算机硬件各子系统的组成原理及实现技术，建立计算机系统的整体概念。本课程为组成原理教学内容提供了一个新的视角，去除错综繁杂的“枯枝”，保留具有前沿性、经典性和应用性极强的精干内容，激发学生学习的兴趣。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002249011",
+  "instructors": [
+    {
+      "name": "姜琳颖",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 44021,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

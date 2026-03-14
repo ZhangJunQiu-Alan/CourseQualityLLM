@@ -1,0 +1,31 @@
+{
+  "course_id": "1463114162",
+  "platform": "mooc_cn",
+  "title": "生物医学信号处理",
+  "description": "本课程是生物医学工程专业核心课程，是一门理论与实践、原理与工程应用紧密结合的重要专业必修课，教学内容包括绪论、数字信号处理基础、随机信号基础、数字相关和数字卷积、维纳滤波器的设计和应用、参数建模及其应用、自适应滤波器设计和应用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463114162",
+  "instructors": [
+    {
+      "name": "李凌",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "电子科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 919,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

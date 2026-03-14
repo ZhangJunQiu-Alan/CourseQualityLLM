@@ -1,0 +1,31 @@
+{
+  "course_id": "1003246001",
+  "platform": "mooc_cn",
+  "title": "电磁场与电磁兼容",
+  "description": "随着电子产品准入制度变革，电磁兼容重要性在全球的提升有目共睹，对电磁兼容人才需求越来越高。本课程是轨道交通信号与控制专业和自动化专业的专业主干课，具有理论与工程技术紧密结合的特点，通过本课程的教学，旨在培养能够将理论与工程实践相结合，具备分析解决电磁兼容性问题能力的专门研究人才。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003246001",
+  "instructors": [
+    {
+      "name": "闻映红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15903,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

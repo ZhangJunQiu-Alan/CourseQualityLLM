@@ -1,0 +1,31 @@
+{
+  "course_id": "1206697852",
+  "platform": "mooc_cn",
+  "title": "微积分基础及应用",
+  "description": "大学数学教育的目标不仅在于为学生提供学习专业知识的基础和工具，培养数学应用能力，而且在于引导学生接受数学文化的熏陶，掌握一种现代科学的语言，学到一种理性思维的模式。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206697852",
+  "instructors": [
+    {
+      "name": "崔周进",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏海事职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 4151,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1002104010",
+  "platform": "mooc_cn",
+  "title": "线性代数与解析几何",
+  "description": "本课程是由国家级教学团队精心打造而成，以“十一五”国家级规划教材为蓝本，采用启发式、循序渐进式教学手段和教学方式，在轻松愉悦的环境中带您走进线性代数的殿堂，感受数学的美，领悟数学的逻辑思维，收获数学知识。另外还精选了200多道课后难题（考研题）及两套期终考试模拟题进行了讲解。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002104010",
+  "instructors": [
+    {
+      "name": "赵小艳;刘康民;李换琴;张永怀;张芳;李继成",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 87996,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

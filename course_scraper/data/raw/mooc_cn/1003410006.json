@@ -1,0 +1,31 @@
+{
+  "course_id": "1003410006",
+  "platform": "mooc_cn",
+  "title": "集成电路设计基础",
+  "description": "华中科技大学是国家集成电路学院及国家示范性微电子学院的的首批建设单位，也是集成电路科学与工程一级交叉学科的首批建设单位，建设并运行国家集成电路产教融合创新平台。应产业需求和人才培养需要，整合并凝练产业、科研及教学资源，重点建设专业核心课程——《集成电路设计基础》，2020年被遴选认定为首批湖北高校线上一流本科课程。课程知识点涵盖了半导体物理、半导体器件、微电子工艺、CMOS模拟集成电路、数字集成电路以及集成电路版图设计等体系化基础知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003410006",
+  "instructors": [
+    {
+      "name": "邹雪城;雷鑑铭;邹志革;余国义",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "华中科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 53282,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1450193208",
+  "platform": "mooc_cn",
+  "title": "计量经济学",
+  "description": "计量经济学是一门经济学科，其依据经济理论，使用数学和统计学等工具，用观测数据对经济和商务活动进行实证研究，通过测度和检验经济变量间的量化关系，探究经济问题的数量规律，预测判断经济现象的未来走势，发现经济行为的未知理论，从而在经济理论的抽象世界和人类活动的具体世界之间搭建桥梁。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450193208",
+  "instructors": [
+    {
+      "name": "陈龙梅;薛晔;李燕",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "太原理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9168,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

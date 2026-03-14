@@ -1,0 +1,26 @@
+{
+  "course_id": "MiekUzmPEe-9Ig7qA4dB5w",
+  "platform": "coursera",
+  "title": "Advanced Automation Frameworks and Testing with TestNG",
+  "slug": "packt-advanced-automation-frameworks-and-testing-with-testng-tgoar",
+  "description": "This course begins with an introduction to automation frameworks, focusing on the Page Object Model (POM) to enhance code reusability and maintainability. You will learn to create object repositories, page classes, and use Page Factory for efficient web element initialization. The course covers practical tips for finding all links on a webpage, providing a solid foundation in automation frameworks. \n\nNext, delve into Log4j2, from default configurations to advanced custom loggers, writing configuration files for console and file logging, and integrating Log4j2 into test cases to improve logging infrastructure. \n\nTransitioning to TestNG, the course covers setup, annotations, method prioritization, grouping, parameterization, parallel test execution, DataProviders, ITestResult, and listeners for customized test behavior. Practical exercises reinforce these concepts, preparing you for real-world application. \n\nDesigned for software testers, automation engineers, and QA professionals with basic Selenium WebDriver and Java knowledge, this course deepens your understanding of advanced automation frameworks and TestNG. Implement POM and Page Factory, configure and use Log4j2, set up and leverage TestNG, utilize its advanced features, create and manage advanced reports, and execute data-driven tests and handle file uploads using Selenium WebDriver.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-advanced-automation-frameworks-and-testing-with-testng-tgoar",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

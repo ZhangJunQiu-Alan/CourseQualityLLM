@@ -1,0 +1,31 @@
+{
+  "course_id": "1001655006",
+  "platform": "mooc_cn",
+  "title": "数据库系统概论（高级篇）",
+  "description": "数据库系统是现代信息系统的核心和基础设施；数据库技术是数据存储、管理、处理和分析的核心技术；数据库相关知识已经成为广大科技人员必须了解和掌握的知识。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001655006",
+  "instructors": [
+    {
+      "name": "卢卫;陈红;王珊;杜小勇",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国人民大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 163468,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

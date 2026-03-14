@@ -1,0 +1,26 @@
+{
+  "course_id": "2FGSGtfIEe-9gA68RiOXQw",
+  "platform": "coursera",
+  "title": "Calculus for Engineers",
+  "slug": "calculus-for-engineers",
+  "description": "This course offers a streamlined approach to university-level calculus, tailored for engineers and scientists. We begin with a review of precalculus in the first module, followed by derivatives and integrals in the second and third modules. The fourth module introduces Taylor series, while the fifth and sixth modules cover important applications of calculus.\n\nThe course features 59 concise lecture videos, each accompanied by practice problems. After each major topic, you will find a short practice quiz to reinforce your understanding. Solutions to problems and practice quizzes are included in the instructor-provided lecture notes. At the end of each module, there is an assessed quiz to evaluate your progress. Score over 80% on these quizzes to earn a course certificate.\n\nDownload the lecture notes:\nhttps://www.math.hkust.edu.hk/~machas/calculus-for-engineers.pdf\n\nWatch the promotional video:\nhttps://youtu.be/mDuHJos21wo",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "6 weeks of study, 5 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/calculus-for-engineers",
+  "instructors": [
+    {
+      "name": "Jeffrey R. Chasnov",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Hong Kong University of Science and Technology"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

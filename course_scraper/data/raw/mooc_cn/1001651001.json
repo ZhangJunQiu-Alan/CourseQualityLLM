@@ -1,0 +1,31 @@
+{
+  "course_id": "1001651001",
+  "platform": "mooc_cn",
+  "title": "公司金融学",
+  "description": "本门课程从公司这种所有制形式入手，解读公司的投资决策、融资决策以及分配决策的内在逻辑，探索公司价值最大化的实现路径。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001651001",
+  "instructors": [
+    {
+      "name": "许志",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南财经大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 195709,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

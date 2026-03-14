@@ -1,0 +1,31 @@
+{
+  "course_id": "1001965017",
+  "platform": "mooc_cn",
+  "title": "数据库系统概论（新技术篇）",
+  "description": "大数据时代，数据库技术面临空前挑战。如何拓展研究和应用领域，使数据库技术在大数据浪潮中快速发展？本课程由中国人民大学数据库技术权威专家团队为你厘清大数据概念，并介绍数据库技术最前沿进展，让你一览大数据时代的数据库技术发展脉络。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001965017",
+  "instructors": [
+    {
+      "name": "王珊;张延松;李翠平;秦波",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国人民大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 105932,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

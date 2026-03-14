@@ -1,0 +1,31 @@
+{
+  "course_id": "1003020010",
+  "platform": "mooc_cn",
+  "title": "精细有机合成化学与工艺学",
+  "description": "精细有机合成化学与工艺学课程是精细化工专业的核心课程。天津大学3名教授、2名副教授组成的教学团队，全面解读精细有机合成单元反应机理、影响因素、典型精细化学品制备工艺。为从事精细化工的专业人员奠定理论和工艺基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003020010",
+  "instructors": [
+    {
+      "name": "冯亚青;张宝;宋健;王世荣;闫喜龙",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "天津大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19237,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

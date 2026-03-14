@@ -1,0 +1,31 @@
+{
+  "course_id": "1002620012",
+  "platform": "mooc_cn",
+  "title": "《诗经》导读",
+  "description": "孔子曰：“其為人也，溫柔敦厚而不愚，則深於《詩》者也。”是故夫子有謂“不學《詩》，無以言”。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002620012",
+  "instructors": [
+    {
+      "name": "王承略",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "山东大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 50255,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

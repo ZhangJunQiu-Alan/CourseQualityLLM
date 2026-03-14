@@ -1,0 +1,35 @@
+{
+  "course_id": "course-8566d539-69cb-43a5-94c2-000502df1a92",
+  "platform": "edx",
+  "title": "Introduction to Kubernetes",
+  "description": "Is your team beginning to use Kubernetes for container orchestration? Do you need guidelines on how to start transforming your organization with Kubernetes and cloud native patterns? Would you like to simplify software container orchestration and find a way to grow your use of Kubernetes without adding infrastructure complexity? Then this is the course for you! \n In this course, we'll discuss some of Kubernetes' basic concepts and talk about the architecture of the system, the problems it solves, and the model that it uses to handle containerized deployments and scaling. \n This course offers an introduction to Kubernetes and includes technical instructions on how to deploy a stand-alone and multi-tier application. You’ll learn about ConfigMaps and Secrets, and how to use Ingress. \n Upon completion, developers will have a solid understanding of the origin, architecture and building blocks for Kubernetes, and will be able to begin testing the new cloud native pattern to begin the cloud native journey.",
+  "learning_goals": [
+    "Infrastructure",
+    "Multitier Architecture",
+    "Kubernetes",
+    "Cloud-Native Computing"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "14 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "chris-pokorni",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The Linux Foundation"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 11405,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

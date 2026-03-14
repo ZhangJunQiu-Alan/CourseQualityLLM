@@ -1,0 +1,31 @@
+{
+  "course_id": "1003740006",
+  "platform": "mooc_cn",
+  "title": "电力电子技术",
+  "description": "本课程主要介绍电力电子器件，由整流电路、逆变电流、直/直变流电路和交/交变流电路构成的四类变流器，PWM控制、驱动和保护等辅助电路。内容包括了教学视频、PPT、课后习题、期末测试等多项教学资源。支持个性化教学设计，通过课程公告、答疑、讨论等教学活动，以及成绩评定及教学档案管理完成课程实施",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003740006",
+  "instructors": [
+    {
+      "name": "黄晓生;黄靖;黄瑞哲;邵明;刘华姿",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 21746,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

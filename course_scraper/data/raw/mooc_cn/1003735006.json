@@ -1,0 +1,31 @@
+{
+  "course_id": "1003735006",
+  "platform": "mooc_cn",
+  "title": "电器控制与PLC技术",
+  "description": "《电器控制与PLC技术》课程是高等院校电气工程及其自动化、机械设计制造及其自动化等专业的骨干课程，在培养电气工程及自动化应用型本科专业人才中占据十分重要的地位。 PLC技术的发展历史虽然不长，但其以高速迅猛态势得以迅速推广应用，得到专业人士的普遍认可，成为现代工业自动化的三大支柱之一，也是工业控制领域的一项核心技术，已经被广泛应用在冶金、电力、石化、机械、轻工、市政、交通甚至军工等众多的行业中。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003735006",
+  "instructors": [
+    {
+      "name": "刘丽桑;薛雪;马莹;何栋炜;李天建;胡兴涛;李建兴;陈炜",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 34808,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

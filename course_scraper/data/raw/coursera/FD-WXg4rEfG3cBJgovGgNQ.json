@@ -1,0 +1,26 @@
+{
+  "course_id": "FD-WXg4rEfG3cBJgovGgNQ",
+  "platform": "coursera",
+  "title": "Microsoft Fabric Analytics Engineer: DP-600 Exam Prep",
+  "slug": "microsoft-fabric-analytics-engineer-dp-600-exam-prep",
+  "description": "Microsoft Fabric represents a paradigm shift in enterprise analytics—unifying data engineering, data warehousing, and business intelligence into a single, cohesive SaaS ecosystem. This course is your definitive guide to mastering that ecosystem, moving beyond theoretical concepts to the practical implementation required to earn the Fabric Analytics Engineer Associate certification.\n\nAs a Fabric Analytics Engineer Associate, you are expected to demonstrate subject matter expertise in designing, building, and deploying enterprise-scale analytics solutions — while confidently querying and analyzing data using SQL, KQL, and DAX. This program is purpose-built to help you master those competencies with clarity and precision.\n\nYou will navigate the full Microsoft Fabric ecosystem, including OneLake, Lakehouse, Warehouse, Apache Spark, Data Factory, Dataflows Gen2, Real-Time Intelligence, Semantic Models, and Power BI. The course emphasizes how these components integrate into a unified, high-performance analytics architecture.\n\nFrom orchestrating robust data ingestion pipelines and Spark transformations to structuring Medallion architectures powered by Delta Lake, you will develop scalable data foundations. You will then advance into analytical engineering — implementing T-SQL in Warehouses, designing real-time intelligence solutions using Eventhouse and KQL, and building optimized semantic models using advanced DAX techniques.\n\nBeyond implementation, the course reinforces enterprise-grade standards. You will configure security frameworks including RLS and OLS, integrate governance through Microsoft Purview, monitor capacity and performance metrics, and align deployments with compliance and operational best practices.\n\nBy the end of this course, you will be equipped to:\n\n- Design enterprise-grade analytics architectures using Microsoft Fabric components.\n- Develop scalable data ingestion and transformation workflows across Lakehouse, Warehouse, Spark, and Real-Time workloads.\n- Analyze data using SQL, KQL, and DAX in structured and streaming environments.\n- Construct optimized semantic models using appropriate storage and performance strategies.\n- Implement security and governance frameworks aligned with enterprise standards.\n\nDesigned for analytics engineers, data professionals, and BI architects seeking to validate and elevate their expertise, this course blends certification precision with real-world architectural depth.\n\nElevate your capabilities. Prove your readiness. Become a certified Microsoft Fabric Analytics Engineer.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "6 week of study, 3-4 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/microsoft-fabric-analytics-engineer-dp-600-exam-prep",
+  "instructors": [
+    {
+      "name": "Edureka",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Edureka"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

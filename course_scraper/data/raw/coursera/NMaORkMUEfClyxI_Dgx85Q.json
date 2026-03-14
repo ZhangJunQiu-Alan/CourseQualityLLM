@@ -1,0 +1,26 @@
+{
+  "course_id": "NMaORkMUEfClyxI_Dgx85Q",
+  "platform": "coursera",
+  "title": "CISSP Domain 8: Software development security",
+  "slug": "cissp-domain-8-software-dev-security",
+  "description": "This course examines the need to provide security throughout the SDLC, which aligns with Domain 8 on the CISSP exam. We will compare and contrast Agile and the waterfall methodologies, and look at the assessment of web applications and more traditional applications. We will examine common threats like cross-site scripting, buffer overflows and race conditions. Finally, we will examine databases and their vulnerabilities/solutions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/cissp-domain-8-software-dev-security",
+  "instructors": [
+    {
+      "name": "InfoSec Institute Instructor",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Infosec"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

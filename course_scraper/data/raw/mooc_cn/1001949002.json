@@ -1,0 +1,31 @@
+{
+  "course_id": "1001949002",
+  "platform": "mooc_cn",
+  "title": "单片机原理与汽车微机应用技术",
+  "description": "现代科技中微机应用技术很普遍，开设该课程，目的是使学生了解微机在现代科技和汽车中的应用，提升了学生的创新能力、实践能力，为培养智能控制及智能汽车相关领域人才发挥作用。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001949002",
+  "instructors": [
+    {
+      "name": "仝秋红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长安大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 35580,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

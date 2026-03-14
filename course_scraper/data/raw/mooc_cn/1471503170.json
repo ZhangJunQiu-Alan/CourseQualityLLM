@@ -1,0 +1,31 @@
+{
+  "course_id": "1471503170",
+  "platform": "mooc_cn",
+  "title": "激光技术",
+  "description": "本课程主要以光与物质相互作用为理论基础，分析激光的特性、产生激光的基本原理及条件，激光器工作原理，激光器输出激光束的特性。在此基础上，设计改善激光性能的基本单元技术，并分析相应输出特性。进而对一些典型激光器的结构、工作原理、主要特点、各部件的作用及其输出特性进行分析。最后使学习者熟悉激光技术在工业、农业、信息、医学等不同领域的应用。在教学过程中渗透科学家们在激光器及激光技术发展过程中所做出的努力，培养学习者的家国情怀与工匠精神，在具体的激光技术教学中融入竞争意识、团结协作精神。对于较难理解的概念和原理借助MATLAB软件仿真直观化的展示或借助虚拟仿真实验使学习者切身体验。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1471503170",
+  "instructors": [
+    {
+      "name": "赵保银;张发强 ;刘王云;于佳",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 535,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

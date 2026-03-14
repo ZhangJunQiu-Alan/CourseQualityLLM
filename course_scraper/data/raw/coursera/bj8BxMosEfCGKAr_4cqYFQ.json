@@ -1,0 +1,26 @@
+{
+  "course_id": "bj8BxMosEfCGKAr_4cqYFQ",
+  "platform": "coursera",
+  "title": "Machine Learning Foundations",
+  "slug": "packt-machine-learning-foundations-fiw0z",
+  "description": "This course features Coursera Coach!\n\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this comprehensive course, you will dive into the world of machine learning, exploring key concepts, algorithms, and implementation techniques. You'll start by mastering feature engineering, a crucial aspect of building effective machine learning models. By focusing on data scaling, normalization, encoding categorical variables, and feature selection, you’ll enhance your ability to preprocess and transform data for optimal model performance.\n\nThe journey continues as you explore the core machine learning algorithms. You'll implement these techniques using Python, including linear regression, logistic regression, decision trees, random forests, and gradient boosting. The course will also cover unsupervised learning techniques, such as K-means clustering, DBSCAN, and Gaussian mixture models, helping you tackle complex data analysis problems. Additionally, advanced methods like reinforcement learning and neural networks will be introduced, preparing you for cutting-edge machine learning applications.\n\nThis course is designed for learners who have a basic understanding of programming and data science principles. It is ideal for those looking to build a solid foundation in machine learning, whether you're aiming to enhance your skills or transition into the field. No prior experience with machine learning is necessary, but a familiarity with Python is helpful. The course is suitable for intermediate learners looking to strengthen their understanding of machine learning algorithms and techniques.\n\nBy the end of the course, you will be able to implement various machine learning algorithms in Python, from regression and classification to clustering and reinforcement learning, with a deep understanding of how to evaluate and optimize model performance.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-machine-learning-foundations-fiw0z",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

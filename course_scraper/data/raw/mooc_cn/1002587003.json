@@ -1,0 +1,31 @@
+{
+  "course_id": "1002587003",
+  "platform": "mooc_cn",
+  "title": "探索心理学",
+  "description": "《探索心理学》力求做一门“生动的专业课”，通过5章42节的丰富、充实的内容，对心理学相关知识进行全面、细化地讲解，帮助学员掌握心理现象的规律、科学认识生活、拓展生活视野、带来人生启迪与智慧。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002587003",
+  "instructors": [
+    {
+      "name": "宁维卫",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西南交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 77546,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

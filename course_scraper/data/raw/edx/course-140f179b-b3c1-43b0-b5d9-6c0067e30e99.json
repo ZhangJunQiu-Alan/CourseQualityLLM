@@ -1,0 +1,77 @@
+{
+  "course_id": "course-140f179b-b3c1-43b0-b5d9-6c0067e30e99",
+  "platform": "edx",
+  "title": "Specialization in Shallow Geothermal Energy: Skills Development and Training Across the EU",
+  "description": "Specialization in Shallow Geothermal Energy: Skills Development and Training Across the EU    is a European Massive Open Online Course (MOOC) developed within the GEOBOOST project. This course provides standardized, high-quality education in Shallow Geothermal Energy and Geothermal Heat Pump (GHP) systems, supporting the wider adoption of sustainable heating and cooling solutions across the EU.    \n The course is designed for drillers, installers, designers, energy consultants, planners, decision-makers, and policy-makers. It is also valuable for anyone interested in Shallow Geothermal Energy and in advancing sustainable heating and cooling solutions across Europe. The content is structured to support both entry-level learners and technically inclined participants, providing foundational and applied training through a clear, step-by-step sequence of videos, readings, and interactive exercises. Participants will build practical skills, align qualifications, and form a solid basis for further certification, while contributing to the growth of the shallow geothermal market throughout Europe.",
+  "learning_goals": [
+    "Energy Market"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "6 周，每周 4-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "borja-badenes-badenes",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "javier-f-urchueguia-scholzel-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "kai-zosseder-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "riccardo-pasquali-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "henk-j-l-witte-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "hossein-javadi-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "cornelia-steiner-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jaroslaw-ozimek-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "petr-schnabl-2",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "leonie-kuhlmann-2",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Universitat Politècnica de València"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 392,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

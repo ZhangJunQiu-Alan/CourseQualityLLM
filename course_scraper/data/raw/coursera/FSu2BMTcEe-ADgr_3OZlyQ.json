@@ -1,0 +1,26 @@
+{
+  "course_id": "FSu2BMTcEe-ADgr_3OZlyQ",
+  "platform": "coursera",
+  "title": "Foundations of Azure Infrastructure Design",
+  "slug": "packt-foundations-of-azure-infrastructure-design-isoqd",
+  "description": "Updated in May 2025.\n \nThis course now features Coursera Coach!\n \nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nUnlock the power of Microsoft Azure with this comprehensive course on designing robust infrastructure solutions. You'll gain expertise in creating secure, scalable, and compliant Azure environments tailored to organizational needs. From logging and monitoring to governance and identity management, this course equips you with the critical skills required for cloud success.\n\nBegin your journey by exploring solutions for logging and monitoring, where you'll learn to design log routing, recommend monitoring tools, and establish the appropriate level of logging. Next, dive into authentication and authorization, mastering solutions for securing resources with RBAC, identity management, and enforcing compliance. With detailed modules, you'll confidently architect systems that align with industry best practices.\n\nAdvance to governance and application access strategies, developing hierarchical structures for Azure resources and integrating applications into Azure Active Directory. Each lesson builds your ability to address real-world challenges, providing actionable insights and practical solutions.\n\nThis course is ideal for IT professionals, cloud architects, and security experts eager to deepen their Azure expertise. A foundational understanding of Azure and cloud computing is recommended, as the course balances intermediate and advanced topics for effective learning.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-foundations-of-azure-infrastructure-design-isoqd",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

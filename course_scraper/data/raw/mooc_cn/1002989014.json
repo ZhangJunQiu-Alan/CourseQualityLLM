@@ -1,0 +1,31 @@
+{
+  "course_id": "1002989014",
+  "platform": "mooc_cn",
+  "title": "医学微生物学",
+  "description": "发现微观世界的奥秘；揭示病原微生物的性状；探索传染性疾病的防治。    本课程阐述微生物学基本理论，着重于病原微生物的生物学性状、致病机制、诊断和防治原则。在讲解经典内容的同时适当介绍医学微生物学研究的新内容、新进展及新发传染病。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002989014",
+  "instructors": [
+    {
+      "name": "徐纪茹;韩蕾;寻萌;杨娥;刘成程;陈艳炯",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 74683,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

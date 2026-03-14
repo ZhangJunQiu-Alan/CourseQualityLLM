@@ -1,0 +1,31 @@
+{
+  "course_id": "1464601188",
+  "platform": "mooc_cn",
+  "title": "摄影测量学",
+  "description": "“摄影测量学”是测绘类专业的专业主干课程、专业核心课程。摄影测量作为现代测绘技术体系的重要分支，是一门多种学科基础上发展起来的综合探测技术，理论性、科学性和实践性强。课程讲述摄影测量的基本原理与方法，及利用摄影测量技术手段进行三维信息提取的过程与步骤。主要内容包括：航空摄影基础知识、摄影测量解析基础、解析空中三角测量、数字地面模型的理论及应用、数字影像的特征提取与定位、影像匹配理论与方法、数字微分纠正和摄影测量外业工作等方面内容。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464601188",
+  "instructors": [
+    {
+      "name": "卞和方;杨化超;范洪冬",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国矿业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8870,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

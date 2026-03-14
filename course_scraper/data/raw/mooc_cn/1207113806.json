@@ -1,0 +1,31 @@
+{
+  "course_id": "1207113806",
+  "platform": "mooc_cn",
+  "title": "计算机辅助药物设计",
+  "description": "计算机辅助药物设计CADD，以数学、药物化学、生物化学、分子生物学、结构化学等学科为基础，以量子化学、分子力学等为理论依据，借助计算机数值计算和逻辑判断、数据库、图形学、人工智能等处理技术，进行合理的药物设计。​",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207113806",
+  "instructors": [
+    {
+      "name": "徐俊;丁克;王玉强;孙平华;陆小云",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "暨南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 20192,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

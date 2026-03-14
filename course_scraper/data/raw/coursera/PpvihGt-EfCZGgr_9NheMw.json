@@ -1,0 +1,26 @@
+{
+  "course_id": "PpvihGt-EfCZGgr_9NheMw",
+  "platform": "coursera",
+  "title": "R: Apply & Analyze K-Means Clustering for Unsupervised ML",
+  "slug": "r-apply-analyze-k-means-clustering-unsupervised-ml",
+  "description": "This hands-on course equips learners with the foundational knowledge and practical skills to implement K-Means clustering for unsupervised machine learning using the R programming language. Designed for those with a basic understanding of R and statistics, the course guides learners through the process of exploring real-world datasets, preparing data for clustering, and interpreting segmentation results.\n\nLearners will begin by describing core clustering concepts and explaining the goals of unsupervised customer segmentation. They will then apply the K-Means algorithm in R and analyze the effects of feature scaling on cluster quality. Emphasis is placed on practical implementation, critical thinking, and performance interpretation—enabling learners to effectively utilize clustering in marketing, behavioral analysis, and other domains involving unlabeled data.\n\nBy the end of the course, learners will be able to independently construct clustering workflows, evaluate clustering effectiveness, and recommend data-driven grouping strategies in real-world contexts.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/r-apply-analyze-k-means-clustering-unsupervised-ml",
+  "instructors": [
+    {
+      "name": "EDUCBA",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "EDUCBA"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

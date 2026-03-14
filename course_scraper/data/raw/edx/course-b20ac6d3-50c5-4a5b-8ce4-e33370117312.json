@@ -1,0 +1,30 @@
+{
+  "course_id": "course-b20ac6d3-50c5-4a5b-8ce4-e33370117312",
+  "platform": "edx",
+  "title": "Essential Math for AI",
+  "description": "This self-paced, asynchronous course is recommended for learners who want to establish a solid knowledge base in statistics, linear algebra, multivariable calculus, probability and foundational topics in math. \n Learners can expect to review the mathematical and technical coursework as well as complete a self-assessment.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "2 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "daniel-bauer",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Columbia University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 961,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

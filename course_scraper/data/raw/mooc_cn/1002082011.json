@@ -1,0 +1,31 @@
+{
+  "course_id": "1002082011",
+  "platform": "mooc_cn",
+  "title": "理论力学",
+  "description": "理论力学是理工科学生必修的一门专业基础课，在教学过程中受到广泛重视。大连理工大学工程力学系实力雄厚、特色鲜明、具有光荣历史和优良传统，拥有实力雄厚的教学科研队伍，其中包括钱令希、钟万勰、程耿东3位中科院院士。《理论力学》课程历经50年发展与沿革，凝聚了大工几代人的智慧和心血。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002082011",
+  "instructors": [
+    {
+      "name": "郑勇刚;叶宏飞;阮诗伦;韩啸;张永存;赵岩;马红艳;周震寰;曾岩;张伟;李明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "大连理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24597,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

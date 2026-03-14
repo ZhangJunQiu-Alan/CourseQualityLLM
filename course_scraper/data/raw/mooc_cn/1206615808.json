@@ -1,0 +1,31 @@
+{
+  "course_id": "1206615808",
+  "platform": "mooc_cn",
+  "title": "进化生物学",
+  "description": "进化生物学是生物技术和生物科学专业的重要课程。该课程帮助同学们较为深刻地理解生物世界多样性的起源、进化与维持机制。其基本理论是达尔文进化论、新达尔文主义以及进化的中性学说。内容涵盖群体遗传学理论、进化的自然选择学说、物种分化、群体多态性维持机制、系统生物学、微进化与宏进化,等等。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206615808",
+  "instructors": [
+    {
+      "name": "陶士珩;雷蓓蕾;李刚;庞红侠/Hongxia Pang;廖明帜;王辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北农林科技大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 14448,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1464126172",
+  "platform": "mooc_cn",
+  "title": "遥感原理与应用",
+  "description": "《遥感原理与应用》是一门介绍遥感理论与技术的课程，是地学、资源与环境、测绘等学科本科的专业基础课，是地理信息科学专业的核心课程。其教学目标是掌握遥感科学与技术的的基本理论和方法，掌握遥感数据的特征与信息处理、提取和解译方法，了解遥感信息应用领域，为从事地学等相关专业的科学研究、生产活动和日常生活提供强有力的理论和方法支持。 依托陕西省精品课程课程建设和陕西省遥感与地理信息研究中心，由西北大学城市与环境学院4位优秀的教授、副教授精心制作完成，内容充实、结构严谨、图文和动画并茂，理论与实践相结合，通俗易懂。主讲教材为高教出版社《遥感导论》和科学出版社《遥感应用分析原理与方法》，参考教材为《ENVI遥感图像处理方法》，计划学时54、学分3。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1464126172",
+  "instructors": [
+    {
+      "name": "王旭红",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 9932,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

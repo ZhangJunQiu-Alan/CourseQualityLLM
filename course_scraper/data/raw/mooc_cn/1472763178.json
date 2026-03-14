@@ -1,0 +1,31 @@
+{
+  "course_id": "1472763178",
+  "platform": "mooc_cn",
+  "title": "概率论与数理统计",
+  "description": "《概率论与数理统计》是理工科专业的重要基础课程，系统讲授概率论与统计推断的基本概念、方法与应用。课程内容涵盖概率基础、随机变量分布、数字特征、参数估计与假设检验，帮助学生掌握数据分析与科学推断的数学工具。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1472763178",
+  "instructors": [
+    {
+      "name": "李凌飞;成丽波;初颖;毕利;刘思瑶;高艳超;王姝娜;戈鹏鹤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "长春理工大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 394,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

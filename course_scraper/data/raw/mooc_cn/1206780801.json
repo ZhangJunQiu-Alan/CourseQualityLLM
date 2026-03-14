@@ -1,0 +1,31 @@
+{
+  "course_id": "1206780801",
+  "platform": "mooc_cn",
+  "title": "工程制图",
+  "description": "工程图样是准确表达工程对象的形状、大小、材料、加工要求、检验指标、功能原理等众多信息集成的载体，记录和传递着设计者的智慧和设计意图，是工程界共同的技术语言。工程制图以几何学为基础、以投影理论为方法，研究几何形体的构成、表达及工程图样的绘制与阅读。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206780801",
+  "instructors": [
+    {
+      "name": "白小敏;顾锋;王庆安;陈小岗",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "淮阴工学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8346,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1003458003",
+  "platform": "mooc_cn",
+  "title": "农业气象学",
+  "description": "农业气象学是研究农业生产与气象条件相互关系及其变化规律的一门科学，既是基础农学的学科之一，也是农业科学和气象科学之间的交叉学科，也是大气科学理论在相关专业应用的边缘学科，与现代地理科学、生物科学、环境科学等具有密切联系，因而具有综合学科的特点。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003458003",
+  "instructors": [
+    {
+      "name": "吴仁烨;陈先冠;邓欣;苏达;江敏",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "福建农林大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 32833,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

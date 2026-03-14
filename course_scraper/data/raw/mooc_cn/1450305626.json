@@ -1,0 +1,31 @@
+{
+  "course_id": "1450305626",
+  "platform": "mooc_cn",
+  "title": "数字电子技术",
+  "description": "数字电子技术是智能产品开发、电子信息技术等电子信息类专业专业基础课程。课程以实践能力为主线，以工作任务为中心，将相关知识点融入各项目中。课程主要内容包括逻辑代数、逻辑门电路、组合逻辑电路、触发器、时序逻辑电路、555定时器及其应用、存储器、数模与模数转换等。本课程强调基础，精练知识，注重应用。通过本课程的学习让学习者掌握基本逻辑关系以及组合逻辑电路和时序逻辑电路的基本概念、分析和设计方法，掌握常用逻辑器件的逻辑功能及其主要应用，以及简单数字电路设计所必须的基本知识和技能。这些是从事电子技术工作的工程技术人员必须具备的重要的知识和能力。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1450305626",
+  "instructors": [
+    {
+      "name": "邵利群",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "苏州工业职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 3869,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

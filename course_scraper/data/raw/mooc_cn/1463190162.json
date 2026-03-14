@@ -1,0 +1,31 @@
+{
+  "course_id": "1463190162",
+  "platform": "mooc_cn",
+  "title": "计算机辅助设计与绘图(AutoCAD和Creo)",
+  "description": "计算机辅助设计与绘图（AutoCAD和Creo）是一门工科专业基础课程。通过本课程的学习，将使学生掌握AutoCAD和Creo两款工程类计算机辅助设计软件的运用技巧，能够独立完成二维图纸、三维模型的绘制和图形输出，养成良好的绘图习惯。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1463190162",
+  "instructors": [
+    {
+      "name": "刘强",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中山大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6437,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

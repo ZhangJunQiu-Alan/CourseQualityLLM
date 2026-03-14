@@ -1,0 +1,67 @@
+{
+  "course_id": "course-d59b1a00-52a2-499a-b4b0-ade02e78c117",
+  "platform": "edx",
+  "title": "Macroeconometric Forecasting",
+  "description": "In this macroeconomics course, you will learn to predict macroeconomic variables such as inflation, growth or consumption, and to create statistical models in economics and use them to predict responses to economic policy. \n You will learn from hands-on demonstrations of model-building, forecasting and policy analysis, using data sets from a wide variety of countries. Demonstrations and applications will be conducted using  EViews  —a popular software for estimating and simulating forecasting models on Windows. Free, temporary licenses for  EViews  will be made available for the duration of the course. \n  Macroeconometric Forecasting is offered by the IMF with financial support from the Government of Japan.",
+  "learning_goals": [
+    "Demonstration Skills",
+    "Economics",
+    "Policy Analysis",
+    "Statistical Modeling",
+    "Macroeconomics",
+    "Forecasting"
+  ],
+  "prerequisites": "",
+  "difficulty": "Intermediate",
+  "duration": "8 周，每周 5-6 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "adolfo-barajas",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "adina-popescu",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "sam-ouliaris",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "reda-cherif",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "jorge-restrepo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dmitry-plotnikov",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mikhail-pranovich",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "The International Monetary Fund"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1771,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

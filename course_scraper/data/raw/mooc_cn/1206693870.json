@@ -1,0 +1,31 @@
+{
+  "course_id": "1206693870",
+  "platform": "mooc_cn",
+  "title": "信息技术及C程序设计",
+  "description": "《信息技术及C程序设计》是由《大学计算机基础》、 《数据结构》、 《C语言程序设计》三门课程精心整合而成。课程重点难点用动画、真人小品表演，帮助分析，让学习者在轻松快乐中学习，教师的现场编程，给学习者身临其境的沉浸式体验，潜移默化中学会C程序的编程，享受编程的无穷乐趣。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206693870",
+  "instructors": [
+    {
+      "name": "张丽娜;姜代红;厉丹;申珅;乔良才;乔淑云",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "徐州工程学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5689,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

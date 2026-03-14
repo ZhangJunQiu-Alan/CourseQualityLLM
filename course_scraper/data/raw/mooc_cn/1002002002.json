@@ -1,0 +1,31 @@
+{
+  "course_id": "1002002002",
+  "platform": "mooc_cn",
+  "title": "创业基础",
+  "description": "这是一门为想创业的人提供知识准备的课程，这是一门给已经创业的人提供成功方法的课程，也是一门为还没有想创业的人启发激情和培育素质的课程。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002002002",
+  "instructors": [
+    {
+      "name": "张耀辉",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "暨南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 113774,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

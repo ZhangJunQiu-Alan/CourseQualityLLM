@@ -1,0 +1,31 @@
+{
+  "course_id": "1449628162",
+  "platform": "mooc_cn",
+  "title": "光学",
+  "description": "《光学》课程是物理学专业核心课程之一，本课程有丰富的课程资源，50个教学视频、1000余题的题库，每一小节给学生提供了线上学习任务单、微课视频及对应的课件、小节讲义、小节随堂练习以及讨论题、单元测试以及期末测试等检测手段。教师可以利用线上课程资源、课程在线讨论及慕课堂，再结合对分课堂教学模式，进行线上线下混合式教学，按照循序渐进的原则和光学课程的逻辑性与系统性，使学生学习光学基础知识，解决生活实际问题，同时触到更丰富、更前沿的光学知识，受到科学研究方法论的初步训练，并为以后的学习和工作打下良好的基础。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1449628162",
+  "instructors": [
+    {
+      "name": "朱湘萍",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "湖南科技学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 19908,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

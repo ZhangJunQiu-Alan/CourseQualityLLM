@@ -1,0 +1,33 @@
+{
+  "course_id": "course-c0f5f0dc-172a-47d1-a8da-e2540cc53bdc",
+  "platform": "edx",
+  "title": "Critical Thinking: Fundamentals of Good Reasoning",
+  "description": "This course is an introduction to critical thinking—thinking about arguments, about reasons that might be given in support of a conclusion. The objective of the course is to improve the student's ability in the basic skills of critical thinking:  \n ● how to recognize arguments,  \n ● how to interpret them,  \n ● how to evaluate them,  \n ● how to construct them.  \n Developing these skills is extremely important, because critical thinking is an essential, pervasive part of our lives. We need to think critically whenever we consider reasons for or against some claim or action—something required in all fields of knowledge and all kinds of decision-making.  \n Of course, we all know, to some extent or another, how to think critically—how to think about reasons for or against some claim. The course is built on the assumption that learning more about what exactly is involved in thinking about reasons leads us to do it better. Thus, in each topic covered, our natural logical instincts serve as a starting point, from which we develop a rigorous, theoretical understanding, which then boosts our critical thinking skills.",
+  "learning_goals": [
+    "Critical Thinking",
+    "Decision Making"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "13 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "jonathan-berg",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "IsraelX"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 436,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,41 @@
+{
+  "course_id": "course-387c5b5b-ef7f-43b9-b9b5-4163f3c74a49",
+  "platform": "edx",
+  "title": "Entrepreneurship in Emerging Economies",
+  "description": "This business and management course, taught by Harvard Business School professor Tarun Khanna, takes an inter-disciplinary approach to understanding and solving complex social problems. You will learn about prior attempts to address these problems across the emerging markets, identify points of opportunity for smart entrepreneurial efforts, and propose and develop your own creative solutions. The focus of this course is on individual agency—what can you do to address a defined problem? The creative process starts with immersion in the problem-at-hand and the harnessing of diverse perspectives. \n The course then touches on issues related to financing, scaling up of operations, branding, the management of property rights, and the creation of appropriate metrics for assessing progress and social value, in the fast-growing but institutionally compromised settings of emerging markets. \n The settings are diverse, sectoral (healthcare, online commerce, fintech, infrastructure) and geographic (India and South Asia, China, Africa, Latin America). But the emphasis is less on comprehensive coverage than on developing a way of thinking with a bias-to-action.",
+  "learning_goals": [
+    "Innovation",
+    "Management",
+    "Property Rights",
+    "Branding",
+    "LESS",
+    "Value Systems",
+    "Operations",
+    "Infrastructure",
+    "Social Issue",
+    "Financial Technology (FinTech)"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "6 周，每周 3-5 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "tarun-khanna",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Harvard University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 15047,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

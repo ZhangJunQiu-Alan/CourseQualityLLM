@@ -1,0 +1,31 @@
+{
+  "course_id": "1001959005",
+  "platform": "mooc_cn",
+  "title": "现代控制理论基础",
+  "description": "控制理论作为最为活跃的学科之一，其设计思想已在各个学科领域得到了广泛应用，而现代控制理论是控制理论重要的发展阶段。在本课程中，西北工业大学郭建国教授带领团队将用形象生动的语言解释现代理论控制基础的内涵，与你一道从自动控制时代迈向现代控制时代！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1001959005",
+  "instructors": [
+    {
+      "name": "赵斌;郭宗易;郭建国",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西北工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 55223,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "6LszQw6wEe-F5Ar_6pGsqw",
+  "platform": "coursera",
+  "title": "Back-End Infrastructure: Servers, Secure APIs and Data",
+  "slug": "back-end-infrastructure-servers-secure-apis-and-data",
+  "description": "This course explores back-end infrastructure management, secure API design, and robust data protection techniques. Participants will gain practical skills in server configuration, API security, and strategies for protecting data, which are crucial for building resilient and scalable systems. The course combines theoretical foundations, hands-on applications, and real-world examples to ensure comprehensive understanding and skill acquisition. \n\nThis course empowers professionals like Data Protection Officers, Back-End Developers, API Designers, System Administrators, and Information Security Professionals with essential knowledge and skills in data protection and API security. With prerequisites including basic data protection principles, back-end infrastructure familiarity, API design expertise, and information security experience, participants are well-equipped for effective engagement.\n\nThroughout the course, participants will accomplish various objectives, including evaluating data protection's role in securing back-end infrastructure and APIs and analyzing successful case studies. Using HOTS verbs like \"evaluate\" and \"analyze,\" learners will enhance their critical thinking in data security. They'll also refine practical skills for secure server configuration, ensuring robust API integrations to safeguard sensitive information.\n\nUpon completing this course, professionals will be well-prepared to evaluate and implement security measures that enhance the integrity and confidentiality of data. With a focus on real-world case studies and practical application, participants will emerge equipped to navigate complex data protection challenges and implement secure API strategies confidently. This learning journey promises to empower individuals to bolster their organizations' security posture and mitigate potential risks effectively.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 Hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/back-end-infrastructure-servers-secure-apis-and-data",
+  "instructors": [
+    {
+      "name": "Luca Berton",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Starweaver",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

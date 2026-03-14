@@ -1,0 +1,35 @@
+{
+  "course_id": "course-895afa12-6162-420d-a522-9945ddf29011",
+  "platform": "edx",
+  "title": "How to Code: Simple Data",
+  "description": "This programming course takes a unique approach, as it focuses on learning a systematic programming method rather than a programming language. This practical approach will help you channel your creativity so that you can program well in any language.   \r\n This course, part of the  Software Development MicroMasters Program , presents a core design method with a focus on numbers, strings, images and lists. \r\n You will learn techniques to: \r\n \r\n Develop program requirements \r\n Produce programs with consistent structure that are easy to modify later \r\n Make your programs more reliable by building tests as an integral part of the programming process. \r\n \r\n This course concludes with the design of a simple interactive game. \r\n Learners who enroll in the Verified track will receive staff grading for the course project and increased interaction with the instructor and staff. \r\n \r\n  Learner Testimonial   \r\n  \"I have taken and completed tens of MOOCs on programming and computer science, I have even been and I am currently a TA in some of these courses. Among them are a few that deserve without hesitation the highest rate. But if I had to choose only one at the top of them it would be these two courses on systematic program design.\"  - edX Learner",
+  "learning_goals": [
+    "Creativity",
+    "Program Design Languages",
+    "Software Development",
+    "Computer Science"
+  ],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "7 周，每周 2-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "gregor-kiczales",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "University of British Columbia"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 1327,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

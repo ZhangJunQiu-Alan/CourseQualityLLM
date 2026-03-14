@@ -1,0 +1,36 @@
+{
+  "course_id": "y5HdAySiEe6wQA4DcxzwjQ",
+  "platform": "coursera",
+  "title": "AI for Cybersecurity",
+  "slug": "ai-for-cybersecurity",
+  "description": "The AI for Cybersecurity course offers a comprehensive introduction to the usage of AI methods, most specifically machine learning in the field of cybersecurity. It begins with an introduction to AI, covering its definitions, historical development, and general applications. The course then discusses the importance of AI in cybersecurity, introducing key concepts, and the distinction between the host security and the network security.\nStudents will gain a solid understanding of cybersecurity fundamentals, including common attack vectors and vulnerabilities, as well as an introduction to the defense mechanisms used to protect systems. In the first parts, the course presents the core AI techniques applicable to cybersecurity from a theoretical point of view, with a focus on machine learning (ML) methods such as supervised, unsupervised and reinforcement learning.\nIn subsequent parts, students will learn how to apply ML techniques practically to specific cybersecurity challenges like malware detection and classification, intrusion detection, and email spam filtering. They will explore the process of implementing ML models for these tasks, training and evaluating them on data using the Python programming language.\nOverall, this course equips students with both the theoretical understanding and practical skills needed to apply AI methods in order to protect systems against evolving cyber threats.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/ai-for-cybersecurity",
+  "instructors": [
+    {
+      "name": "Darius Bufnea",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Laura Dioșan",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Adrian Sterca",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "28DIGITAL"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

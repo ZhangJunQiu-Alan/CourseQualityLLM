@@ -1,0 +1,31 @@
+{
+  "course_id": "238004",
+  "platform": "mooc_cn",
+  "title": "机械原理",
+  "description": "本课程主要研究的是机构和机械系统的运动与动力问题，特别是机构和机械系统的运动设计问题。课程的目的：一是为后续课程奠定基础；二是用本课程所学的知识去解决实际工程问题。通过本课程的学习，使学习者初步掌握机构和机械系统运动设计的方法，以及机械系统运动方案设计的基本理论和方法。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/238004",
+  "instructors": [
+    {
+      "name": "郭卫东;王玉亮;邓慧超;高志慧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京航空航天大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 101787,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

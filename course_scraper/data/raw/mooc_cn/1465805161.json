@@ -1,0 +1,31 @@
+{
+  "course_id": "1465805161",
+  "platform": "mooc_cn",
+  "title": "现代测量学",
+  "description": "“现代测量学”以大比例尺数字地形图测绘过程为主线，讲述测量学基本知识、常用测量仪器使用、控制测量基本方法、数字地形图测绘等知识。从测量的基本技能入手，为您揭开测绘科学神秘的面纱，逐步带您步入测绘科学的殿堂。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465805161",
+  "instructors": [
+    {
+      "name": "龚有亮;魏田;宇超群;王同合;门葆红;邓超",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "中国人民解放军网络空间部队信息工程大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 6028,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

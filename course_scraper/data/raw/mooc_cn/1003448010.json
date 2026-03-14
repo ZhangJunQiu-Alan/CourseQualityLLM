@@ -1,0 +1,31 @@
+{
+  "course_id": "1003448010",
+  "platform": "mooc_cn",
+  "title": "电力系统继电保护",
+  "description": "电力是国民经济的支柱，电网规模不断扩大，其风险也在同步增加，继电保护是电网安全的卫士，学习、维护是保障电网安全的生命线。想了解掌握吗？来吧，赶快开启学习之旅吧！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003448010",
+  "instructors": [
+    {
+      "name": "王思华;任丽苗;陈晓婧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "兰州交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 28222,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

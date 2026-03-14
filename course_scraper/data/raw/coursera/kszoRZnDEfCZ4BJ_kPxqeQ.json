@@ -1,0 +1,26 @@
+{
+  "course_id": "kszoRZnDEfCZ4BJ_kPxqeQ",
+  "platform": "coursera",
+  "title": "Advanced Deployment, MLOps, and Generative AI in Azure",
+  "slug": "packt-advanced-deployment-mlops-and-generative-ai-in-azure-adrqb",
+  "description": "This course features Coursera Coach!\nA smarter way to learn with interactive, real-time conversations that help you test your knowledge, challenge assumptions, and deepen your understanding as you progress through the course.\n\nIn this course, you will master advanced deployment strategies, MLOps, and generative AI using Azure ML Studio. You’ll explore techniques to scale machine learning workloads with parallel processing, distributed training, and serverless deployments, including deployment on edge devices and Kubernetes. Learn to manage machine learning workflows with Azure DevOps, GitHub Actions, and Infrastructure as Code (IaC), ensuring seamless integration and security. You’ll also dive into the fundamentals of generative AI, understanding how models like GPT, DALL·E, and others are revolutionizing the AI landscape, and how to fine-tune these models for specific tasks.\n\nThroughout the course, you’ll gain hands-on experience with real-time and batch inference, logging, and model monitoring using Azure Monitor and Application Insights. You will also work with cutting-edge tools to optimize models for inference speed and deploy them in production environments. The course will equip you with the skills to operationalize machine learning models effectively, from deployment to monitoring, ensuring they stay efficient and secure over time.\n\nThis course is designed for professionals and developers looking to advance their skills in machine learning operations (MLOps) and explore the transformative potential of generative AI models. You will work with practical demos to apply what you learn in real-world scenarios, building deployable models that integrate seamlessly with your existing systems.\n\nBy the end of the course, you will be able to deploy machine learning models using advanced strategies like distributed training and serverless deployment. Implement MLOps pipelines with Azure DevOps and GitHub Actions for end-to-end automation, and Fine-tune and optimize generative AI models like GPT and DALL·E for customized tasks.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-advanced-deployment-mlops-and-generative-ai-in-azure-adrqb",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

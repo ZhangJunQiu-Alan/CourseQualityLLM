@@ -1,0 +1,31 @@
+{
+  "course_id": "1002535024",
+  "platform": "mooc_cn",
+  "title": "工程热力学",
+  "description": "课程由上海交通大学王丽伟、于娟、童钧耕主讲，使用童钧耕、王丽伟、叶强主编的工程热力学（第六版）教材。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002535024",
+  "instructors": [
+    {
+      "name": "王丽伟;范卫东;迟重然;闫晓晖;章俊良;于娟;童钧耕;葛天舒;王文;叶强;黄永华;吴睿;韩东;吴慧英;\t石玉美;洪芳军;王玉璋;胡国新",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "上海交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 81955,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

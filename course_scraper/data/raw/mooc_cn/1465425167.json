@@ -1,0 +1,31 @@
+{
+  "course_id": "1465425167",
+  "platform": "mooc_cn",
+  "title": "商业数据分析",
+  "description": "Business Data Analysis is a course fully taught in English. The core content of this course is to teach statistics and data processing methods based on various major software in conjunction with data from companies' business performance. The course aims to explain to students the most important stylised facts of the world economy and, in particular, of contemporary Chinese economic and business activities. This course could be used for undergraduate or postgraduate studies in economics or management. It could also be used to teach basic statistics. In this round, the modelwhale platform will continuedly became our data analysis coding practice partner to help students for this course to get familiar with PAYTHON data analysis issues.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1465425167",
+  "instructors": [
+    {
+      "name": "吴一超;丁溢;浦正宁",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "东南大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 8257,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

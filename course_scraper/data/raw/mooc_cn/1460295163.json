@@ -1,0 +1,31 @@
+{
+  "course_id": "1460295163",
+  "platform": "mooc_cn",
+  "title": "Linux操作系统基础",
+  "description": "本课程入选“十四五”江苏省职业教育首批在线精品课程，以RHEL/CentOS操作系统为平台，紧密对接职业岗位需求，采用“项目驱动、任务导向”的教学模式，系统讲解Linux操作系统的核心概念与实用技能。课程内容涵盖Linux基础概念、常用命令、系统运维管理等关键领域，致力于为学生提供高效、实用的学习体验，帮助其掌握行业所需的专业技能。本课程配备了丰富的立体化资源，包括生动直观的微课、详细的操作演示视频、结构清晰的PPT课件以及内容详实的文本资料，帮助学习者从多角度深入理解Linux操作系统。此外，课程还提供超过200个高质量视频资源、海量题库及丰富的文档素材，充分满足个性化学习需求。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1460295163",
+  "instructors": [
+    {
+      "name": "苏红艳;杜文龙;王可;乔琪",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "江苏电子信息职业学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 26469,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

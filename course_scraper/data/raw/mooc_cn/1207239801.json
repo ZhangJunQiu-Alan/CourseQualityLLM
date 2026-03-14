@@ -1,0 +1,31 @@
+{
+  "course_id": "1207239801",
+  "platform": "mooc_cn",
+  "title": "光通信原理",
+  "description": "“光通信原理”课程主要针对光电信息科学与工程及相关专业的学生而开设，为专业核心课和专业主干课。本课程讲解简明易懂，便于自主学习。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1207239801",
+  "instructors": [
+    {
+      "name": "刘岚岚",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "北京交通大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5173,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

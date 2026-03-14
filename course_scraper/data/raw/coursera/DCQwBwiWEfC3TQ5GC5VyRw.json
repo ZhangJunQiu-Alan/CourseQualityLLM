@@ -1,0 +1,26 @@
+{
+  "course_id": "DCQwBwiWEfC3TQ5GC5VyRw",
+  "platform": "coursera",
+  "title": "AI 世界的安全防護簡介",
+  "slug": "introduction-to-security-in-the-world-of-ai-zh-tw",
+  "description": "人工智慧 (AI) 帶來轉型可能，但全新資安挑戰也隨著出現。本課程介紹資料安全和保護的策略，可幫助相關領域的領導者，在企業內部安全地管理 AI。您可以瞭解如何建立框架，主動辨別和減輕 AI 特有的風險、保護機密資料、確實法規遵循，並打造堅韌的 AI 基礎架構。我們提供四個不同產業的案例，帶您探索如何實際應用這些策略。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "zh-TW",
+  "url": "https://www.coursera.org/learn/introduction-to-security-in-the-world-of-ai-zh-tw",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

@@ -1,0 +1,31 @@
+{
+  "course_id": "1466077164",
+  "platform": "mooc_cn",
+  "title": "C语言程序设计",
+  "description": "摆脱枯燥的学习方式，践行欢乐的教学理念，体验C语言编程之美。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1466077164",
+  "instructors": [
+    {
+      "name": "王伟;杨雅军;张帆;王爱菊;王贝贝",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "郑州工程技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 5727,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

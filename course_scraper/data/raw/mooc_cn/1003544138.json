@@ -1,0 +1,31 @@
+{
+  "course_id": "1003544138",
+  "platform": "mooc_cn",
+  "title": "python+",
+  "description": "Python作为目前全球最流行的人工智能编程语言，深受广大从业者的喜爱。本课程让热爱编程的小伙伴快速掌握Python编程新技能。学会Python，你的生活将充满着理性的计算和感性的色彩！让我们一起开启Python编程之旅，共同享受创新的乐趣！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003544138",
+  "instructors": [
+    {
+      "name": "张磊;郭凌云;刘金金;张倩倩;李晓艳;夏辉丽;陈劲松;陶华亭;王爱菊;周雪燕;李志先;黄晓巧",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "河南师范大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 61758,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

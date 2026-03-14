@@ -1,0 +1,70 @@
+{
+  "course_id": "course-2f110fb2-7ebf-47aa-b81f-c4b6fbf9c2e6",
+  "platform": "edx",
+  "title": "Solar Resource Assessment in Desert Climates",
+  "description": "Desert regions may seem optimal for solar energy and the deployment of photovoltaic (PV) applications. However, the heat and dust experienced in the region poses a challenge for the optimal performance of PV modules and reliability of the applications.  \n In this course, you will learn how to mitigate these challenges by understanding the components of solar radiation and the characteristics of solar cells and the solar spectrum. You will also learn about forecasting and nowcasting and how this influences selecting a site for PV application. The economic impact of PV applications is a key area of interest and this course provides you with knowledge on the costs and benefits of solar energy from PV applications.",
+  "learning_goals": [
+    "Meteorology",
+    "Forecasting",
+    "Solar Radiation",
+    "Advocacy"
+  ],
+  "prerequisites": "",
+  "difficulty": "Advanced",
+  "duration": "7 周，每周 1-3 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "dr-luis-pomares",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-christos-fountoukis",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-amir-abdallah",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-benjamin-figgis",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "dr-antonio-sanfilippo",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "prof-nouar-tabet",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "ahmer-baloch",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "mohammed-ayoub",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Hamad Bin Khalifa University"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 309,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

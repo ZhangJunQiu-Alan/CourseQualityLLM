@@ -1,0 +1,31 @@
+{
+  "course_id": "1206623841",
+  "platform": "mooc_cn",
+  "title": "微机原理与接口技术",
+  "description": "本课程全面掌握微型计算机的构成原理，包括微处理器的结构与工作模式、指令系统与汇编语言程序设计、存储器系统的组成与扩展、I/O 接口技术及常用接口芯片的应用、中断技术和 DMA 技术的原理、总线技术等。这些知识将帮助你构建起完整的微机系统知识框架，深入理解计算机的底层运行机制。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1206623841",
+  "instructors": [
+    {
+      "name": "马静",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "西安工业大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 17599,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

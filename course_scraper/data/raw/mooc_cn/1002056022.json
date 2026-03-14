@@ -1,0 +1,31 @@
+{
+  "course_id": "1002056022",
+  "platform": "mooc_cn",
+  "title": "光纤通信工程",
+  "description": "您是——      高职高专通信类专业学生？     从事光通信方向教学的教师？     光通信网络与设备、工程设计等相关岗位人员？     还是对光纤通信有兴趣的学习者？     欢迎加入课程的学习！",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1002056022",
+  "instructors": [
+    {
+      "name": "黄先栋;才岩峰;曾庆珠;马敏;李洁;阴法明",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "南京信息职业技术学院"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 24337,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

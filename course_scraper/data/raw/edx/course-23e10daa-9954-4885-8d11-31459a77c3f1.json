@@ -1,0 +1,35 @@
+{
+  "course_id": "course-23e10daa-9954-4885-8d11-31459a77c3f1",
+  "platform": "edx",
+  "title": "Data Analytics and Databases on AWS",
+  "description": "This course starts by introducing fundamental concepts in data analysis. You begin with how to assess use cases for data analysis in the cloud. After exploring some of the main data types and structures, you’ll complete the module by contrasting two data-processing approaches for analytics: extract, transform, and load (ETL) and extract, load, and transform (ELT).  \n You’ll then transition to start learning about the ETL pipeline, review AWS services for data analysis, and reinforce your learning through practical labs. These services include Amazon API Gateway, Amazon Relational Database Service (Amazon RDS), Amazon DynamoDB, and Amazon QuickSight. You review these services in the AWS Management Console, and evaluate how you can use each service in the ETL process. Then, you gain practical experience by working with some of these service in a preconfigured environment.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "Introductory",
+  "duration": "3 周，每周 2-4 小时",
+  "language": "English",
+  "url": "",
+  "instructors": [
+    {
+      "name": "oksana-hoeckele",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "rafael-lopes",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 602,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": []
+}

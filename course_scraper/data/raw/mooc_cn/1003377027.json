@@ -1,0 +1,31 @@
+{
+  "course_id": "1003377027",
+  "platform": "mooc_cn",
+  "title": "人工智能：模型与算法",
+  "description": "课程由浙江大学本科生院院长、高等学校人工智能教材建设重点研究基地执行主任、浙江大学人工智能研究所原所长吴飞教授开设。课程内容包含逻辑推理、搜索求解、监督学习、无监督学习、深度学习、强化学习和博弈对抗等，帮助学习者了解、使用、创新和守护人工智能。本课程是国家级首批线上一流课程，对应教材为教育部计算机101计划核心课程《人工智能引论》教材和新一代人工智能系列教材之一的《人工智能导论：模型与算法》，实训教学平台为智海-Mo(momodel.cn)”、赋能教学的学科大模型为“智海-三乐”（sanle.hep.com.cn）。本课程践行浙江大学人工智能教育教学行动计划（AI STEP）的理念和路径。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003377027",
+  "instructors": [
+    {
+      "name": "吴飞",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "浙江大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 272156,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

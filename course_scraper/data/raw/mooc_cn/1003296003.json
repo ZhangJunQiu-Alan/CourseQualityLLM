@@ -1,0 +1,31 @@
+{
+  "course_id": "1003296003",
+  "platform": "mooc_cn",
+  "title": "猴博士C语言不挂科-4小时学完C语言",
+  "description": "C语言，期末考试、期中考试、开学补考要考的内容，视频基本都讲了，只需4小时带你学完大学计算机C语言，做到考试不挂科，按照课程要求，做完作业考试也能考高分。猴博士，猴博士爱讲课，帮助大家顺利度过期末考试。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/1003296003",
+  "instructors": [
+    {
+      "name": "猴博士爱讲课",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "MOOC考培"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 322020,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

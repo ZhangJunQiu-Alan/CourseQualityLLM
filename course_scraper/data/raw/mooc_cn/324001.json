@@ -1,0 +1,31 @@
+{
+  "course_id": "324001",
+  "platform": "mooc_cn",
+  "title": "咖啡技艺",
+  "description": "人生之旅，路途漫漫，何不停下你匆匆的脚步，走进飘满醇香的咖啡屋，坐在窗前，要一杯维也纳咖啡，沉淀你的思绪，细细品味生活的滋味，咖啡就像人生，苦与甜都包含在其中；泡沫并非浮华，而是苦尽甘来的升华。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/324001",
+  "instructors": [
+    {
+      "name": "北京市外事学校 荣晓坤",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "职教MOOC建设委员会"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 32219,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}

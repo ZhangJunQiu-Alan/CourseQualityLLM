@@ -1,0 +1,26 @@
+{
+  "course_id": "GMLIfdyKEe62jQ6HK-YxMQ",
+  "platform": "coursera",
+  "title": "Amazon EC2 Basics",
+  "slug": "aws-amazon-ec2-basics",
+  "description": "Compute services are the backbone that power most web-based applications. Amazon Elastic Compute Cloud (Amazon EC2) is the foundation that many other Amazon Web Services (AWS) offerings are built upon. This course provides you with the opportunity to explore the different families of EC2 instances and identify the target workloads for each of these families. You will learn about the different instance types and how to select the best instance types to maximize price and performance.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "1 hour",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/aws-amazon-ec2-basics",
+  "instructors": [
+    {
+      "name": "AWS Instructor ",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Amazon Web Services"
+  ],
+  "rating": {},
+  "syllabus": [],
+  "reviews": []
+}

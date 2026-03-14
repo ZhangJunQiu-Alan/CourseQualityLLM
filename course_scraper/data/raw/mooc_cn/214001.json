@@ -1,0 +1,31 @@
+{
+  "course_id": "214001",
+  "platform": "mooc_cn",
+  "title": "物理化学（上）",
+  "description": "物理化学是化学学科的理论基础，对我们身边的化学现象形成了一套完整的理论解释体系。武汉大学物理化学教学团队，将伴随你走进物理化学的世界，用新的观点观察身边的现象，建立属于你自己的化学理论体系。",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "",
+  "duration": "",
+  "language": "zh-CN",
+  "url": "https://www.icourse163.org/learn/214001",
+  "instructors": [
+    {
+      "name": "王志勇;汪存信;刘欲文",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "武汉大学"
+  ],
+  "rating": {
+    "avg": null,
+    "count": null,
+    "enrollment": 86653,
+    "completion_rate": null
+  },
+  "syllabus": [],
+  "reviews": [],
+  "tags": []
+}
