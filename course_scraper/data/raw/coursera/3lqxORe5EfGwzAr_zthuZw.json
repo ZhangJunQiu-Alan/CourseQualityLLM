@@ -1,0 +1,39 @@
+{
+  "course_id": "3lqxORe5EfGwzAr_zthuZw",
+  "platform": "coursera",
+  "title": "Infraestructura de IA: GPU de Cloud",
+  "slug": "ai-infrastructure-cloud-gpus-es",
+  "description": "¿Sientes curiosidad por el potente hardware detrás de la IA? Este módulo analiza las computadoras de IA optimizadas para el rendimiento y muestra por qué son tan importantes. Exploraremos cómo las CPU, GPU y TPU hacen que las tareas de IA sean súper rápidas, qué hace que cada una sea única y cómo el software de IA las aprovecha al máximo. Al finalizar, sabrás exactamente cómo elegir la GPU adecuada para tus proyectos de IA, lo que te ayudará a tomar decisiones inteligentes para tus cargas de trabajo de IA.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "es",
+  "url": "https://www.coursera.org/learn/ai-infrastructure-cloud-gpus-es",
+  "instructors": [
+    {
+      "name": "Google Cloud Training",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Google Cloud"
+  ],
+  "rating": {},
+  "syllabus": [
+    {
+      "week": 1,
+      "title": "GPU de AI Hypercomputer ",
+      "description": "En este curso, aprenderás a utilizar eficazmente las GPU de Google Cloud para acelerar el entrenamiento y la inferencia de la IA, incluida la selección de opciones adecuadas y la optimización del rendimiento.",
+      "duration": ""
+    },
+    {
+      "week": 2,
+      "title": "Recursos del curso",
+      "description": "Vínculos a archivos PDF de todos los módulos para estudiantes",
+      "duration": ""
+    }
+  ],
+  "reviews": []
+}

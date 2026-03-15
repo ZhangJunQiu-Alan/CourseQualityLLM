@@ -1,0 +1,93 @@
+{
+  "course_id": "dGUIMgWvEfGgHhL0Iuu-6Q",
+  "platform": "coursera",
+  "title": "Dashboarding and Funnel Analytics for Product Insights",
+  "slug": "dashboarding-and-funnel-analytics-for-product-insights",
+  "description": "You'll build expertise in transforming raw user data into actionable product insights through interactive dashboards and funnel analytics. By completing this course, you'll gain the ability to translate stakeholder requirements into technical specifications, create self-service analytics tools, and identify optimization opportunities that drive business growth. You'll develop proficiency in retention analysis using heatmaps, design user activation funnels, and apply statistical methods to detect meaningful trends in engagement metrics. \n\nThis hands-on course uniquely combines business requirements gathering with advanced visualization techniques and predictive analytics, preparing you to bridge the gap between technical analysis and strategic decision-making. \n\nYou'll work with real-world scenarios involving user journey mapping, channel performance analysis, and correlation studies that validate key business metrics. Upon completion, you'll possess the comprehensive skill set needed for product analytics, marketing optimization, and data-driven user experience roles.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/dashboarding-and-funnel-analytics-for-product-insights",
+  "instructors": [
+    {
+      "name": "Professionals from the Industry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [
+    {
+      "week": 1,
+      "title": "Understanding Stakeholder Requirements",
+      "description": "You will learn the critical skill of translating ambiguous business requests into clear technical blueprints for dashboard development.",
+      "duration": ""
+    },
+    {
+      "week": 2,
+      "title": "Creating Self-Service Funnel Dashboards",
+      "description": "You will build interactive dashboard solutions that enable autonomous data exploration through funnel visualization and drill-through capabilities.",
+      "duration": ""
+    },
+    {
+      "week": 3,
+      "title": " Retention Heatmap Creation - Foundation",
+      "description": "You will learn the foundational skills for creating effective retention heatmaps by understanding their business value, learning key visualization techniques, practicing heatmap creation in Tableau, and applying event annotation strategies to real user behavior data.",
+      "duration": ""
+    },
+    {
+      "week": 4,
+      "title": "Accessibility & Visualization Evaluation - Core Application",
+      "description": "You will learn the systematic evaluation of data visualizations by understanding accessibility requirements, learning evaluation methodologies, practicing with accessibility tools, and applying comprehensive assessment techniques to ensure visualizations communicate effectively to all audiences.",
+      "duration": ""
+    },
+    {
+      "week": 5,
+      "title": "Apply Criteria to Select Critical Activation Events - Foundation",
+      "description": "You will develop systematic approaches for identifying the most impactful activation events in user funnels using data-driven criteria and the Amplitude analytics platform.",
+      "duration": ""
+    },
+    {
+      "week": 6,
+      "title": "Evaluate Process Funnels to Identify Redundancies - Core Application",
+      "description": "You will learn techniques for analyzing complex process flows, identifying overlapping steps like \"add_to_cart\" & \"start_checkout\", and creating data-driven consolidation strategies using real-world case studies.",
+      "duration": ""
+    },
+    {
+      "week": 7,
+      "title": "DAU/WAU Stickiness Analysis - Foundation",
+      "description": "You will learn the mathematical foundations and industry benchmarks for calculating DAU/WAU stickiness ratios, enabling them to distinguish between surface-level metrics and meaningful user engagement patterns.",
+      "duration": ""
+    },
+    {
+      "week": 8,
+      "title": "Statistical Process Control Detection - Core Application",
+      "description": "You will learn control chart analysis and statistical process control methods to distinguish between natural variation and significant performance changes in session-depth metrics.",
+      "duration": ""
+    },
+    {
+      "week": 9,
+      "title": "Segmentation techniques for activation metrics - Foundation",
+      "description": "You will learn foundational segmentation techniques to analyze user activation data by acquisition channels, enabling identification of which sources deliver the most engaged users.",
+      "duration": ""
+    },
+    {
+      "week": 10,
+      "title": "Predictive relationship evaluation - Core Application",
+      "description": "You will learn advanced statistical techniques to validate whether activation behaviors genuinely predict long-term user retention, enabling evidence-based product optimization decisions.",
+      "duration": ""
+    },
+    {
+      "week": 11,
+      "title": "Project: Dashboarding and Funnel Analytics for Product Insights",
+      "description": "You create a comprehensive product analytics dashboard that integrates user funnel analysis, retention visualization, engagement monitoring, and activation tracking to provide actionable insights for product optimization decisions.",
+      "duration": ""
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,39 @@
+{
+  "course_id": "scaGbvBrEfChcRKUAJ4KKQ",
+  "platform": "coursera",
+  "title": "Measure Vector Similarity",
+  "slug": "measure-vector-similarity",
+  "description": "Measure Vector Similarity: Cosine, Dot-Product, and Euclidean Distance is an intermediate course for machine learning engineers and data scientists looking to master how similarity metrics impact information retrieval, recommendation systems, and classification tasks. In a world where the right comparison can mean the difference between a successful product recommendation and a flawed medical insight, choosing the correct metric is critical.\n\nThis course moves beyond theory and provides direct, hands-on experience. You will learn to calculate and implement cosine similarity, dot-product, and Euclidean distance using Python and NumPy. Through practical examples inspired by real-world applications at companies like Amazon and in healthcare research, you will analyze how each metric uniquely influences vector ranking and search precision. The course culminates in a capstone project where you will build a benchmark notebook to rigorously compare the performance of these metrics on a sample dataset—a portfolio-ready project that proves your ability to make informed, data-driven decisions in machine learning applications.\n\nYou will need to have basic Python programming skills, familiarity with NumPy, and foundational knowledge of linear algebra (vectors, dot products).",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "90 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/measure-vector-similarity",
+  "instructors": [
+    {
+      "name": "LearningMate",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [
+    {
+      "week": 1,
+      "title": "Foundations of Vector Similarity Metrics",
+      "description": "This module introduces the core vector similarity metrics. You will start by understanding why metric selection is crucial for real-world applications. Then, you will dive into the “what” and “how” of calculating cosine similarity, dot-product, and Euclidean distance individually, using Python and NumPy to translate theory into practice.",
+      "duration": ""
+    },
+    {
+      "week": 2,
+      "title": " Applying and Benchmarking Similarity Metrics",
+      "description": "In this module, you'll move from calculation to evaluation. You will analyze why different metrics produce different results, learn how to benchmark their performance for a retrieval task, and apply this knowledge in a final project to compare them systematically.",
+      "duration": ""
+    }
+  ],
+  "reviews": []
+}

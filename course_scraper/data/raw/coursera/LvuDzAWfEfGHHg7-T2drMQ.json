@@ -1,0 +1,87 @@
+{
+  "course_id": "LvuDzAWfEfGHHg7-T2drMQ",
+  "platform": "coursera",
+  "title": "Financial Statements, Ratios, and Month-End Close Essentials",
+  "slug": "financial-statements-ratios-and-month-end-close-essentials",
+  "description": "Transform raw financial data into meaningful insights by building essential accounting and analytical skills. You'll develop the ability to compile financial statements, apply double-entry bookkeeping principles, and calculate key performance metrics that drive business decisions. Working with QuickBooks and Excel, you'll gain hands-on experience preparing income statements, managing month-end closing procedures, and analyzing financial ratios.\n\nThis integrated approach combines fundamental accounting principles with practical spreadsheet skills and financial analysis techniques. You'll learn to categorize general ledger accounts, create reconciliation schedules, and compute metrics like current ratio and days-sales-outstanding. By project completion, you'll demonstrate the core competencies expected of accounting assistants in today's data-driven business environment.\n\nPerfect for those seeking entry-level accounting roles or business professionals who need to understand financial statements and performance measurement.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/financial-statements-ratios-and-month-end-close-essentials",
+  "instructors": [
+    {
+      "name": "Professionals from the Industry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [
+    {
+      "week": 1,
+      "title": "Apply Spreadsheet Formulas for Income Statement Compilation",
+      "description": "You will learn the practical application of spreadsheet formulas to transform raw trial balance data into professional income statements, automating the compilation process that accounting professionals use daily when exporting QuickBooks data and creating financial reports.",
+      "duration": ""
+    },
+    {
+      "week": 2,
+      "title": "Explain Classification of General Ledger Accounts",
+      "description": "You will learn the fundamental principles of general ledger account classification, understanding how to properly categorize accounts within financial statements based on the accounting equation and distinguishing between current/non-current designations for professional financial reporting.",
+      "duration": ""
+    },
+    {
+      "week": 3,
+      "title": "Understanding Your Role in Financial Closing",
+      "description": "You will explore the sequential nature of month-end activities, identify their specific responsibilities in the closing timeline, and create timeline presentations for team communication.",
+      "duration": ""
+    },
+    {
+      "week": 4,
+      "title": "Prepaid Expense Roll-Forward Procedures",
+      "description": "You will explore the systematic procedures for tracking prepaid expenses, documenting beginning balances, recording additions and amortization, and creating professional schedules that support accurate financial reporting.",
+      "duration": ""
+    },
+    {
+      "week": 5,
+      "title": " Financial Metrics Definitions - Foundation",
+      "description": "You will learn precise definitions and recognition of essential financial ratios that form the foundation for business analysis and decision-making.",
+      "duration": ""
+    },
+    {
+      "week": 6,
+      "title": "Ratio Calculation & Analysis - Core Application",
+      "description": "You will learn practical calculation techniques and variance analysis methods that enable effective business performance evaluation and decision support.",
+      "duration": ""
+    },
+    {
+      "week": 7,
+      "title": "Fundamental Accounting Equation - Foundation",
+      "description": "You will understand and identify the three core components of the accounting equation (Assets = Liabilities + Equity) and recognize how this fundamental principle governs all financial transactions in business.",
+      "duration": ""
+    },
+    {
+      "week": 8,
+      "title": "Double-entry Bookkeeping Application",
+      "description": "You will learn the systematic method of recording business transactions using double-entry principles, ensuring every transaction maintains accounting equation balance and creates accurate financial records.",
+      "duration": ""
+    },
+    {
+      "week": 9,
+      "title": "Financial Statement Account Classification",
+      "description": "You will explore the systematic organization of general ledger accounts into appropriate financial statement sections, enabling accurate statement preparation and clear communication of business financial position",
+      "duration": ""
+    },
+    {
+      "week": 10,
+      "title": "Project: Financial Statements, Ratios, and Month-End Close Essentials",
+      "description": "You will integrate fundamental accounting skills to prepare a comprehensive financial statement analysis package. You will compile financial statements from raw transaction data, execute month-end closing procedures, and analyze financial performance using key metrics to provide actionable business insights.",
+      "duration": ""
+    }
+  ],
+  "reviews": []
+}

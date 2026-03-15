@@ -45,4 +45,5 @@ class BaseScraper:
         return resp
 
     def log(self, msg: str) -> None:
-        print(f"[{self.PLATFORM}] {msg}")
+        safe = f"[{self.PLATFORM}] {msg}".encode("gbk", errors="replace").decode("gbk")
+        print(safe, flush=True)

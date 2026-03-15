@@ -1,0 +1,100 @@
+{
+  "course_id": "78ovFfwLEfCMEQr_0svSgw",
+  "platform": "coursera",
+  "title": "How to Tune Our Emotions: Seongho's New Proposal 2",
+  "slug": "how-to-tune-our-emotions-seonghos-new-proposal-2",
+  "description": "This lecture series explores our emotional landscape through the thought of Seongho Yi Ik ((星湖 李瀷, 1683- 1761), one of the most original Confucian thinkers of late Joseon Korea. Rooted in the Confucian project of “Learning to be Human,” the course examines how emotional cultivation is essential not only to moral development but also to understanding others and living well in community. Centered on Seongho’s New Compilation of the Four-Seven Debate (Sachil sinpyeon), the lectures trace his major philosophical innovations: his vivid social metaphors of emotion, his naturalistic and embodied account of emotional life, his creative engagement with Western learning, and his expanded view of the emotional spectrum through both philosophical and digital approaches. \n\nThe course also considers his reflections on the emotions of sages, the emergence of public emotions from private life, the role of ritual in cultivating shared moral feeling, and the continuing relevance of his thought to the Korean concept of Jeong today. \n\nThrough these lectures, Seongho’s insights offer both a deeper understanding of Confucian moral psychology and practical wisdom for tuning our own emotions.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "ADVANCED",
+  "duration": "8 weeks of study, 2-3 hours/week",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/how-to-tune-our-emotions-seonghos-new-proposal-2",
+  "instructors": [
+    {
+      "name": "김선희",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "SO JEONG PARK",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Youngsun Back",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Curie Virag",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Minjung Baek",
+      "title": "",
+      "institution": ""
+    },
+    {
+      "name": "Hana",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Sungkyunkwan University"
+  ],
+  "rating": {},
+  "syllabus": [
+    {
+      "week": 1,
+      "title": "Social Metaphors of Yi Ik",
+      "description": "This week, we explore Seongho Yi Ik’s innovative social metaphors and how they differ from earlier Confucian metaphorical traditions. We first examine conceptual metaphor theory and review how Mencius, Zhu Xi, Toegye, and Yulgok used metaphors to explain human nature, principle (li, 理), and emotions. Then, we analyze Seongho’s distinctive approach, especially his tree and thread metaphors, which place everyday emotions in the target domain and emphasize their developmental, relational, and socially embedded character. Through this, we understand how Seongho reconceptualized emotions as experiential, interactive, and woven within social contexts.",
+      "duration": ""
+    },
+    {
+      "week": 2,
+      "title": "Yi Ik's Natural Theory of Emotions",
+      "description": "This week, we examine Yi Ik’s naturalistic theory of emotions as presented in the Sachil Shinpyeon. We explore how Yi Ik reinterprets the Four Beginnings and the Seven Feelings through the categories of gong and sa, moving beyond earlier dichotomies grounded in li–qi (理氣) metaphysics. By emphasizing qi as a shared material substrate, embodied experience, and the interrelational model of resonance and response, Yi develops a philosophical anthropology that naturalizes emotions. His remapping of gong (公) and sa (私) reframes them not simply as public versus private, but as a distinction between first-personal embodied experience and broader intersubjective concern, offering important ethical implications for understanding human agency and moral life.",
+      "duration": ""
+    },
+    {
+      "week": 3,
+      "title": "Seongho Yi Ik's New Approach to the Theory of Emotions",
+      "description": "This week, we examine Seongho Yi Ik’s new interpretation of the Four–Seven Debate. Moving beyond earlier Neo-Confucian metaphysics, Seongho redefines the relation between the Four Beginnings and the Seven Emotions through physicality and social extension. Influenced partly by Western theories of the soul and physiology, he distinguishes heart and brain functions and introduces gong (公) and sa (私) as new moral criteria. Ultimately, he shifts the focus from metaphysical origins to the social expansiveness of emotions in moral practice.",
+      "duration": ""
+    },
+    {
+      "week": 4,
+      "title": "Yi Ik’s Emotional Spectrum in the Four-Seven Theory",
+      "description": "This week, we explore Seongho Yi Ik’s Four-Seven theory through digital methodologies such as Word2Vec and Network Analysis. By comparing Seongho with Toegye and Yulgok, we discover that Seongho moves beyond a strict li–qi (理氣) framework and emphasizes concrete, everyday emotions and their bodily foundations. His theory presents an “emotional spectrum” in which the Four Beginnings and the Seven Emotions dynamically interact, reflecting the complexity of emotions as experienced in real life.",
+      "duration": ""
+    },
+    {
+      "week": 5,
+      "title": "The Emotional Life of Confucian Sages",
+      "description": "This week, we examine the emotional life of Confucian sages through Seongho Yi Ik’s interpretation of the Four-Seven theory. While ordinary people must regulate personal emotions through moral emotions, sages embody a higher integration in which moral and personal emotions are no longer separate. Seongho argues that sages live entirely within the Seven Emotions, which can be classified into different moral levels—from upright personal emotions to fully embodied moral emotions that embrace the whole community. Through this framework, we understand how sages’ emotions become exemplary and fully unified with moral action.",
+      "duration": ""
+    },
+    {
+      "week": 6,
+      "title": "Seongho's Intriguing Proposal: Public Emotions",
+      "description": "This week, we explore Seongho Yi Ik’s concept of “public emotions” (私中之公), the public within the private. Moving beyond the strict opposition between private and public, Seongho argues that emotions become truly public when private feelings are elevated through empathy, resonance, and shared moral life. By comparing Seongho with Martha Nussbaum, we see how his account grounds public emotions not in political leadership but in everyday moral cultivation. Ultimately, Seongho presents a dynamic path through which private emotions expand into universal empathy and become the moral foundation of communal life.",
+      "duration": ""
+    },
+    {
+      "week": 7,
+      "title": "The Public Emotions and Confucian Ritual in Seongho’s Thought​",
+      "description": "This week, we examine how Seongho Yi Ik connects public emotions with Confucian ritual. Moving beyond a simple opposition between the private (sa, 私) and the public (gong, 公), Seongho argues that public value emerges from private emotions when they are aligned with benevolence. He grounds the public in innate human nature and shows how rituals function as concrete practices that expand empathy from family to community and society. Through ritual participation, private emotions are cultivated into shared public life.",
+      "duration": ""
+    },
+    {
+      "week": 8,
+      "title": "The Relevance of the Four-Seven Debate on “Jeong” for Koreans Today​",
+      "description": "This week, we explore the contemporary relevance of the Four-Seven Debate through the Korean concept of Jeong. By tracing the conceptual history of Jeong—from its classical East Asian roots to its semantic transformation in Joseon Korea—we see how Seongho reinterpreted emotions beyond metaphysical distinctions and emphasized “the public within the private.” His theory helps explain how Jeong functions today as a shared emotional force that connects individuals and sustains Korean social life.",
+      "duration": ""
+    }
+  ],
+  "reviews": []
+}

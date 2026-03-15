@@ -1,0 +1,39 @@
+{
+  "course_id": "LwJpj_FFEfCkURJ26JwNHQ",
+  "platform": "coursera",
+  "title": "Integrate Embeddings and Chroma",
+  "slug": "integrate-embeddings--chroma",
+  "description": "Vector Databases for Machine Learning: A Comprehensive Guide - Integrate Embeddings and Chroma is an intermediate-level course designed for machine learning engineers and AI practitioners aiming to build robust, automated data ingestion pipelines. In modern AI applications, the success of vector search hinges on the seamless integration of embedding models with a vector database. This course provides the critical, hands-on skills to master that integration using ChromaDB.\n\nYou will move beyond theory to implement and troubleshoot a full vectorization pipeline. Through expert-led screencasts and hands-on labs, you will learn to connect both API-based (like OpenAI) and open-source (like HuggingFace) embedding models to ChromaDB, enabling automatic vectorization on data upload. The curriculum is built around real-world failure scenarios, teaching you to systematically diagnose and resolve common but critical errors, such as vector dimension mismatches and data encoding issues. By the end of this course, you won't just build a pipeline; you'll be able to ensure its reliability, a crucial skill for deploying production-grade machine learning systems.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "90 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/integrate-embeddings--chroma",
+  "instructors": [
+    {
+      "name": "LearningMate",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [
+    {
+      "week": 1,
+      "title": "Building an Automated Vectorization Pipeline",
+      "description": "In this module, you will build the foundation for a reliable AI application: the automated vectorization pipeline. You will start by understanding why the choice of an embedding model is critical, then learn the architectural patterns for connecting it to Chroma. Through hands-on practice, you will construct a functional data ingestion pipeline that automatically vectorizes incoming data, setting a solid foundation before moving on to troubleshooting.",
+      "duration": ""
+    },
+    {
+      "week": 2,
+      "title": "Troubleshooting and Validating Your Pipeline",
+      "description": "With a working pipeline built, this module focuses on making it resilient. You will learn to anticipate, diagnose, and resolve the most common integration failures that derail real-world projects. The module culminates in the final project, where you'll be given a broken pipeline and must apply a systematic troubleshooting process to find the bug, fix it, and ensure data integrity.",
+      "duration": ""
+    }
+  ],
+  "reviews": []
+}

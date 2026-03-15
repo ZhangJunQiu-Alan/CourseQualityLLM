@@ -1,0 +1,51 @@
+{
+  "course_id": "WNohAeaOEfCi0BKACOfjww",
+  "platform": "coursera",
+  "title": "Create Effects for Tiktok: Effect House for Beginners",
+  "slug": "create-effects-for-tiktok-effect-house-for-beginners",
+  "description": "By the end of this course with Nuria Quero, you will be able to design, build, and publish your first TikTok effects using Effect House—from setting up the tool to sharing your filter on TikTok. You’ll confidently navigate the interface, add 2D and 3D elements, use face tracking for makeup effects, experiment with visual scripting, and test and submit your work for review.\n\nThis class is designed for aspiring AR creators, designers, content creators, and anyone curious about augmented reality who has never used Effect House before. No prior AR experience is required. To be successful, you only need a TikTok account and a computer capable of running Effect House—we’ll cover installation and setup together.\n\nStructured in three practical parts—platform and tool foundations, building a face-tracking makeup effect, and creating an interactive randomizer effect—you’ll learn by doing. Nuria guides you step by step as you build two complete effects from scratch, with downloadable assets and finished project files included.\n\nIf you’ve ever wanted to turn your ideas into interactive filters seen by millions, this course gives you the skills and confidence to start creating right away.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/create-effects-for-tiktok-effect-house-for-beginners",
+  "instructors": [
+    {
+      "name": "Skillshare",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Skillshare"
+  ],
+  "rating": {},
+  "syllabus": [
+    {
+      "week": 1,
+      "title": "Getting Started with TikTok Effects and Effect House",
+      "description": "This module introduces learners to TikTok effects and the Effect House platform. Learners explore how effects function within TikTok, become familiar with the Effect House interface, and gain clarity on the course project. By the end of the module, learners are prepared to begin building effects with confidence.",
+      "duration": ""
+    },
+    {
+      "week": 2,
+      "title": "Building Make Up Effects in Effect House",
+      "description": "In this module, learners build their first complete TikTok makeup effects. Through guided demonstrations, learners apply facial features, refine visuals with post effects, and understand how Effect House handles face tracking. This module emphasizes practical creation while reinforcing foundational Effect House concepts.",
+      "duration": ""
+    },
+    {
+      "week": 3,
+      "title": "Creating a Randomiser Effect with Logic and Interaction",
+      "description": "This module expands learners’ skills by introducing logic-based effects. Learners build a randomiser effect step by step, adding components, refining visuals, and defining interactions. By testing and troubleshooting their effects, learners gain confidence working with more dynamic and interactive Effect House projects.",
+      "duration": ""
+    },
+    {
+      "week": 4,
+      "title": "Publishing and Wrapping Up Your Effects",
+      "description": "In this final module, learners complete the effect creation process by preparing and publishing their work to TikTok. The course concludes with a summary of key concepts and guidance on how learners can continue developing their skills in Effect House beyond this beginner course.",
+      "duration": ""
+    }
+  ],
+  "reviews": []
+}

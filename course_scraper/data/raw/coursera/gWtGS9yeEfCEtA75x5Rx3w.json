@@ -1,0 +1,105 @@
+{
+  "course_id": "gWtGS9yeEfCEtA75x5Rx3w",
+  "platform": "coursera",
+  "title": "Data Engineering with Scala and Spark",
+  "slug": "packt-data-engineering-with-scala-and-spark",
+  "description": "This course is designed to equip data engineers with the skills to build scalable and efficient data pipelines using Scala and Spark. Data engineers will learn best practices for development, testing, and deployment in cloud environments, with a focus on optimizing performance and ensuring data quality. The course provides the necessary tools to transform raw data into actionable insights, making it highly relevant in today’s data-driven world.\n\nThroughout the course, learners will improve their data engineering skills by mastering techniques for building both streaming and batch data pipelines. The content emphasizes practical outcomes such as performance tuning and data profiling. With hands-on examples and step-by-step guidance, learners will gain a solid understanding of real-time and batch processing pipelines.\n\nWhat makes this course unique is its combination of foundational theory and real-world applications. By the end, you will be able to use Scala and Spark to process large datasets and optimize pipelines in cloud environments effectively.\n\nThis course is ideal for data engineers with some experience in data processing. While it assumes familiarity with data engineering concepts and cloud technologies, anyone eager to improve their skills in Scala and Spark will benefit from the practical, step-by-step approach.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "INTERMEDIATE",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/packt-data-engineering-with-scala-and-spark",
+  "instructors": [
+    {
+      "name": "Packt - Course Instructors",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Packt"
+  ],
+  "rating": {},
+  "syllabus": [
+    {
+      "week": 1,
+      "title": "Scala Essentials for Data Engineers",
+      "description": "In this section, we explore functional programming, higher-order functions, polymorphic functions, and pattern matching in Scala for data engineering applications.",
+      "duration": ""
+    },
+    {
+      "week": 2,
+      "title": "Environment Setup",
+      "description": "In this section, we explore cloud-based and local environments for data engineering pipelines, focusing on setup processes, trade-offs, and practical applications.",
+      "duration": ""
+    },
+    {
+      "week": 3,
+      "title": "An Introduction to Apache Spark and Its APIs DataFrame Dataset and Spark SQL",
+      "description": "In this section, we explore Apache Spark's APIs, focusing on DataFrame and Dataset for distributed data processing.",
+      "duration": ""
+    },
+    {
+      "week": 4,
+      "title": "Working with Databases",
+      "description": "In this section, we explore using Spark JDBC API for database access, designing database interfaces, and performing operations with configuration loading.",
+      "duration": ""
+    },
+    {
+      "week": 5,
+      "title": "Object Stores and Data Lakes",
+      "description": "In this section, we explore object stores, data lakes, and lakehouses, focusing on their roles in managing large-scale data workflows efficiently.",
+      "duration": ""
+    },
+    {
+      "week": 6,
+      "title": "Understanding Data Transformation",
+      "description": "In this section, we explore Spark transformations, aggregations, joins, and window functions to enhance data processing for BI and analytics. Key concepts include efficient data manipulation and pipeline development.",
+      "duration": ""
+    },
+    {
+      "week": 7,
+      "title": "Data Profiling and Data Quality",
+      "description": "In this section, we explore Deequ for implementing data quality checks, analyzing completeness and accuracy, and defining constraints to ensure reliable data pipelines.",
+      "duration": ""
+    },
+    {
+      "week": 8,
+      "title": "Test-Driven Development, Code Health, and Maintainability",
+      "description": "In this section, we explore test-driven development, static code analysis, and linting to improve code quality, maintainability, and consistency in data engineering projects.",
+      "duration": ""
+    },
+    {
+      "week": 9,
+      "title": "CI/CD with GitHub",
+      "description": "In this section, we explore CI/CD practices with GitHub to automate Scala data pipeline workflows, focusing on GitHub Actions, version control, and reliable deployment processes.",
+      "duration": ""
+    },
+    {
+      "week": 10,
+      "title": "Data Pipeline Orchestration",
+      "description": "In this section, we explore data pipeline orchestration using tools like Airflow, Argo, Databricks, and Azure Data Factory. We focus on workflow design, task management, and real-world implementation strategies.",
+      "duration": ""
+    },
+    {
+      "week": 11,
+      "title": "Performance Tuning",
+      "description": "In this section, we analyze Spark UI metrics to identify performance issues, optimize data shuffling, and right-size compute resources for efficient data processing.",
+      "duration": ""
+    },
+    {
+      "week": 12,
+      "title": "Building Batch Pipelines Using Spark and Scala",
+      "description": "In this section, we explore building batch pipelines using Spark and Scala, focusing on medallion architecture, data ingestion, transformation, and orchestration for scalable data processing.",
+      "duration": ""
+    },
+    {
+      "week": 13,
+      "title": "Building Streaming Pipelines Using Spark and Scala",
+      "description": "In this section, we explore building real-time data pipelines using Spark, Scala, and Kafka for IoT applications. Key concepts include data ingestion, transformation, and serving layer design.",
+      "duration": ""
+    }
+  ],
+  "reviews": []
+}

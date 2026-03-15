@@ -1,0 +1,51 @@
+{
+  "course_id": "e7Q_luaOEfCd-xKyx35L5Q",
+  "platform": "coursera",
+  "title": "Design, Build, & Publish your Portfolio with Figma & Framer",
+  "slug": "design-build--publish-your-portfolio-with-figma--framer",
+  "description": "By the end of this course with Nuria Quero, you will be able to design, build, and publish your own fully responsive portfolio website—moving seamlessly from Figma to Framer without writing a single line of code. You’ll learn how to structure and design your portfolio in Figma, transfer it using the Figma to Framer plugin, create CMS collections, link pages, design for mobile, add subtle animations, and publish to a custom domain.\n\nThis hands-on class is structured in three practical parts: designing your portfolio in Figma, bringing it to life in Framer with CMS and interactions, and optimizing and publishing your site. Along the way, you’ll bridge the common gap between static design files and real, functional websites.\n\nThis course is ideal for design students, junior designers, freelancers, and professionals who want to create or refresh their portfolio. To be successful, you should feel comfortable using a computer and navigating design tools, but no prior experience with Figma or Framer is required.\n\nYour portfolio is your calling card. In this course, you won’t just design it—you’ll launch it.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/design-build--publish-your-portfolio-with-figma--framer",
+  "instructors": [
+    {
+      "name": "Skillshare",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Skillshare"
+  ],
+  "rating": {},
+  "syllabus": [
+    {
+      "week": 1,
+      "title": "Setting Up Your Portfolio Workflow with Figma and Framer",
+      "description": "This module introduces the course project and establishes the workflow between Figma and Framer. Learners get oriented to Framer, set up the necessary tools, and review their Figma designs to ensure they are prepared for implementation. By the end of this module, learners are ready to begin building their portfolio site.",
+      "duration": ""
+    },
+    {
+      "week": 2,
+      "title": "Building Pages and Managing Content with CMS",
+      "description": "In this module, learners move from static designs to a functional website. They copy designs into Framer, explore the CMS, and create structured content collections. By linking pages together, learners build the foundation of a fully navigable portfolio site.",
+      "duration": ""
+    },
+    {
+      "week": 3,
+      "title": "Designing a Responsive Portfolio for Mobile",
+      "description": "This module focuses on responsive design and mobile optimization. Learners refine their portfolio layouts for smaller screens, ensuring content remains clear, accessible, and visually consistent. The module emphasizes practical decision-making for real-world portfolio presentation.",
+      "duration": ""
+    },
+    {
+      "week": 4,
+      "title": "Adding Motion, Publishing, and Course Wrap-Up",
+      "description": "In this final module, learners enhance their portfolio with motion, publish their site, and reflect on the full build process. The module brings together design, interaction, and deployment, leaving learners with a live portfolio and a clear path for future iteration.",
+      "duration": ""
+    }
+  ],
+  "reviews": []
+}

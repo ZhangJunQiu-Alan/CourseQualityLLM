@@ -1,0 +1,81 @@
+{
+  "course_id": "JybJlhfHEfGknBKXpdc5Mw",
+  "platform": "coursera",
+  "title": "Configuring and Automating Jira for Visibility and Performan",
+  "slug": "configuring-and-automating-jira-for-visibility-and-performance",
+  "description": "This long course equips you with the administrative and configuration skills needed to tailor Jira to team processes, automate repetitive tasks, and maintain governance at scale. Topics cover setting up new projects using standard schemes, creating reusable workflow schemes, and evaluating and applying board configurations to improve stakeholder visibility. You will practice designing workflows, adding custom statuses, and creating validators and conditions to enforce process gates. The course includes configuration performance considerations—assessing the impact of custom fields—and guides learners through prototyping lightweight UI extensions and choosing marketplace apps through structured due diligence. A practical emphasis on automation teaches building no-code automation rules, debugging and optimizing rule execution, and designing global synchronization automations to keep multiple systems in sync. By the end, you will be able to deploy shared schemes; model operational processes in Jira; and measure the performance and ROI of automation initiatives that reduce manual effort and improve reliability.",
+  "learning_goals": [],
+  "prerequisites": "",
+  "difficulty": "BEGINNER",
+  "duration": "Approximately 19 hours 46 minutes",
+  "language": "en",
+  "url": "https://www.coursera.org/learn/configuring-and-automating-jira-for-visibility-and-performance",
+  "instructors": [
+    {
+      "name": "Professionals from the Industry",
+      "title": "",
+      "institution": ""
+    }
+  ],
+  "institutions": [
+    "Coursera"
+  ],
+  "rating": {},
+  "syllabus": [
+    {
+      "week": 1,
+      "title": "Jira Project Configuration and Visibility",
+      "description": "Struggling with inconsistent and confusing Jira projects? The \"Jira Project Configuration and Visibility\" module is for you. Designed for IT and project professionals, it teaches you to build clean, standardized, and visible Jira environments. You will learn to apply shared schemes for permissions and notifications to enforce consistency across all projects. You will also master optimizing board configurations to provide crystal-clear visibility for every stakeholder, from testers to executives. Move beyond basic setup and learn to design Jira environments that drive clarity, efficiency, and alignment throughout your organization.",
+      "duration": ""
+    },
+    {
+      "week": 2,
+      "title": "Evaluate Metrics, Craft Dashboards for Jira Mastery",
+      "description": "Struggling to interpret project data or communicate progress effectively to leadership? \"Evaluate Metrics, Craft Dashboards for Jira Mastery\" is your guide to transforming raw Jira data into clear, compelling insights. This module teaches project managers and team leads to analyze key agile metrics, such as velocity and cycle time, to spot workflow issues. You will master designing effective Jira dashboards with the right KPIs, giving executives actionable visibility into project health. By the end, you will measure performance with precision and communicate it with confidence, driving alignment and continuous improvement across your organization.",
+      "duration": ""
+    },
+    {
+      "week": 3,
+      "title": "Jira: Map, Analyze, and Release",
+      "description": "\"Jira: Map, Analyze, and Release\" is a beginner's module for agile leaders, such as project managers and scrum masters. It teaches strategic release planning and continuous improvement. You will master story mapping to break down complex initiatives into clear, value-driven releases. You'll also learn to analyze quantitative data from sprint retrospectives to identify hidden team impediments. By the end, you will be equipped to facilitate workshops, use data to identify the root causes of challenges, and build a powerful feedback loop, thereby fostering a culture of predictable delivery and continuous improvement.",
+      "duration": ""
+    },
+    {
+      "week": 4,
+      "title": "Optimize Backlogs and Jira Readiness",
+      "description": "Is your backlog a chaotic mess? \"Optimize Backlogs and Jira Readiness\" is a beginner-friendly module for agile teams that transforms your backlog into a strategic asset. You'll learn to use agile metrics to assess your backlog’s health and identify risks. The module focuses on mastering the Definition of Ready (DoR), a quality gate that stops incomplete work from derailing your sprints. You will design and implement a DoR checklist in Jira, thereby automating quality enforcement. This facilitates streamlined sprint planning, reduced rework, and a sustainable culture of preparedness for your team.",
+      "duration": ""
+    },
+    {
+      "week": 5,
+      "title": "Streamline Jira Workflows, Analyze Bottlenecks Fast",
+      "description": "\"Streamline Jira Workflows, Analyze Bottlenecks Fast\" is a beginner's module for IT and project professionals focused on process optimization. You will learn to build custom workflows in Jira that match your team's actual processes. The module teaches you to export usage reports and analyze data to find hidden bottlenecks and diagnose delays. Armed with this insight, you will develop data-driven recommendations to simplify and automate workflows. You will leave with the ability to use Jira as a powerful tool for continuous improvement, directly boosting your team’s productivity and speed.",
+      "duration": ""
+    },
+    {
+      "week": 6,
+      "title": "Evaluate and Deploy Jira Workflow Schemes",
+      "description": "Do inconsistent Jira workflows stall your projects? This module, \"Evaluate and Deploy Jira Workflow Schemes,\" offers project managers and IT professionals a clear path from chaos to control. You will learn to assess workflow designs for compliance, auditability, and user experience. The module guides you through creating and deploying reusable, scalable workflow schemes across active projects without causing disruption. Through hands-on exercises, you'll master building flexible, user-centric solutions. You'll leave equipped to implement standardized workflows that boost productivity, ensure governance, and drive project success.",
+      "duration": ""
+    },
+    {
+      "week": 7,
+      "title": "Automate Jira: Sync and Prove ROI",
+      "description": "Ready to turn your best ideas into reality? This module, \"Automate Jira: Sync and Prove ROI,\" teaches you to build a data-driven business case for any automation project. You'll learn to quantify financial benefits, like saved labor, estimate the Total Cost of Ownership (TCO), and calculate a formal Return on Investment (ROI). Using a real-world Jira scenario, you'll create a persuasive report to secure stakeholder buy-in. By the end, you'll have a repeatable framework to justify and champion high-value automation projects, proving their worth to any business leader.",
+      "duration": ""
+    },
+    {
+      "week": 8,
+      "title": "Jira Automation and App Selection",
+      "description": "\"Jira Automation and App Selection\" is a beginner's module for IT professionals and project managers seeking to optimize their Jira instance. You'll learn to solve common bottlenecks by safely automating bulk updates using REST API calls in Postman. This module also teaches a structured due diligence process, enabling you to confidently evaluate and select the best third-party apps from the marketplace. Through hands-on, real-world scenarios, you will build a practical toolkit and learn to defend your technical and strategic decisions to stakeholders, unlocking Jira's full potential.",
+      "duration": ""
+    },
+    {
+      "week": 9,
+      "title": "Automation Debugging",
+      "description": "Automations are failing, creating project delays and errors. In this hands-on project, you will act as a Jira administrator to restore order. You will analyze rule execution logs to perform a root-cause analysis of failing and redundant processes. Your goal is to debug, consolidate, and optimize the automation rules, delivering a complete optimization package including an analysis report, a cleaned rule set, and a tested change plan. By documenting before-and-after performance metrics, you will prove your ability to solve complex automation problems and deliver measurable ROI by improving efficiency and restoring system reliability.",
+      "duration": ""
+    }
+  ],
+  "reviews": []
+}
