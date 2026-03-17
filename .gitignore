@@ -5,3 +5,7 @@ __pycache__/
 data/raw/
 data/db/
 .claude/
+
+# 大数据文件 - 不进 git，太大无法推送至 GitHub
+datasets/
+mooccubex/
